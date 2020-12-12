@@ -1,5 +1,6 @@
 import numpy as np
 from collections import defaultdict
+from itertools import izip
 
 
 class DataIterator(object):
@@ -9,7 +10,7 @@ class DataIterator(object):
         self.tune_idxs = tune_idxs
 
         self.len2idx = defaultdict(list)
-        for k, v in zip(tune_lens, tune_idxs):
+        for k, v in izip(tune_lens, tune_idxs):
             self.len2idx[k].append(v)
 
         self.random_lens = random_lens

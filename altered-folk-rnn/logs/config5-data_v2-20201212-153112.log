@@ -1,0 +1,11 @@
+vocabulary size: 137
+n tunes: 23636
+n train tunes: 22484.0
+n validation tunes: 1152.0
+min, max length 48 1954
+Building the model
+  number of parameters: 5621722
+Traceback (most recent call last):
+  File "train_rnn.py", line 142, in <module>
+    print(string.ljust('  layer output shapes:', 36),)
+AttributeError: module 'string' has no attribute 'ljust'

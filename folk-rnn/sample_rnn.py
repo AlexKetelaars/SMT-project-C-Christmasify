@@ -6,17 +6,10 @@ import os
 import sys
 import time
 import importlib
-
-# ---------------------------------CHANGED-----------------------------------------------------
-
-# if sys.version_info < (3,0):
-#     import cPickle as pickle
-# else:
-#     import pickle
-import pandas as pd
-
-# ---------------------------------------------------------------------------------------------
-
+if sys.version_info < (3,0):
+    import cPickle as pickle
+else:
+    import pickle
 import numpy as np
 import theano.tensor as T
 from lasagne.layers import *
@@ -29,7 +22,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('metadata_path')
 parser.add_argument('--rng_seed', type=int, default=42)
 parser.add_argument('--temperature', type=float, default=1.0)
-parser.add_argument('--ntunes', type=int, default=1)	
+parser.add_argument('--ntunes', type=int, default=1)
 parser.add_argument('--seed')
 parser.add_argument('--terminal', action="store_true")
 
@@ -41,13 +34,8 @@ temperature = args.temperature
 ntunes = args.ntunes
 seed = args.seed
 
-# ---------------------------------CHANGED-----------------------------------------------------
-
-# with open(metadata_path, mode="r") as f:
-#     metadata = pickle.load(f)
-metadata = pd.read_pickle(metadata_path)
-
-# ---------------------------------------------------------------------------------------------
+with open(metadata_path) as f:
+    metadata = pickle.load(f)
 
 config = importlib.import_module('configurations.%s' % metadata['configuration'])
 
@@ -58,14 +46,7 @@ target_path = "samples/%s-s%d-%.2f-%s.txt" % (
     metadata['experiment_id'], rng_seed, temperature, time.strftime("%Y%m%d-%H%M%S", time.localtime()))
 
 token2idx = metadata['token2idx']
-
-# ---------------------------------CHANGED-----------------------------------------------------
-
-#idx2token = dict((v, k) for k, v in token2idx.iteritems())
-idx2token = dict((v, k) for k, v in token2idx.items())
-
-# ---------------------------------------------------------------------------------------------
-
+idx2token = dict((v, k) for k, v in token2idx.iteritems())
 vocab_size = len(token2idx)
 
 print('Building the model')
@@ -78,14 +59,7 @@ emb_output_size = vocab_size if config.one_hot else config.embedding_size
 l_emb = EmbeddingLayer(l_inp, input_size=vocab_size, output_size=emb_output_size, W=W_emb)
 
 main_layers = []
-
-# ---------------------------------CHANGED-----------------------------------------------------
-
-#for _ in xrange(config.num_layers):
-for _ in range(config.num_layers):
-
-# ---------------------------------------------------------------------------------------------
-
+for _ in xrange(config.num_layers):
     if not main_layers:
         main_layers.append(LSTMLayer(l_emb, num_units=config.rnn_size,
                                      peepholes=False,
@@ -124,13 +98,7 @@ if seed is not None:
     for token in seed.split(' '):
         seed_sequence.append(token2idx[token])
 
-# ---------------------------------CHANGED-----------------------------------------------------
-
-#for i in xrange(ntunes):
-for i in range(ntunes):
-
-# ---------------------------------------------------------------------------------------------
-
+for i in xrange(ntunes):
     sequence = seed_sequence[:]
     while sequence[-1] != end_idx:
         next_itoken = rng.choice(vocab_idxs, p=predict(np.array([sequence], dtype='int32')))
@@ -139,13 +107,13 @@ for i in range(ntunes):
     abc_tune = [idx2token[j] for j in sequence[1:-1]]
     if not args.terminal:
         f = open(target_path, 'a+')
-        f.write('X:' + repr(i) + '\n')
+	f.write('X:' + repr(i) + '\n')
         f.write(abc_tune[0] + '\n')
         f.write(abc_tune[1] + '\n')
         f.write(' '.join(abc_tune[2:]) + '\n\n')
         f.close()
     else:
-        print('X:' + repr(i))
+	print('X:' + repr(i))
         print(abc_tune[0])
         print(abc_tune[1])
         print(' '.join(abc_tune[2:]) + '\n')
