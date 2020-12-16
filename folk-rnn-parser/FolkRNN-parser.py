@@ -26,7 +26,12 @@ valid_metrics = [
         '[M:1/4]',
         '[M:4/8]',
         '[M:13/8]',
-        '[M:8/4]'
+        '[M:8/4]',
+        #added for folk dataset
+        '[M:10/2]',
+        '[M:12/2]',
+        '[M:16/2]',
+        '[M:7/8]'
         ]
 valid_metrics_translations = {
         '[M:C]' : '[M:4/4]',
@@ -51,6 +56,8 @@ valid_keys = [
         '[K:DDor]','[K:EDor]','[K:FDor]','[K:GDor]',
         '[K:AMix]','[K:BMix]','[K:CMix]',
         '[K:DMix]','[K:EMix]','[K:FMix]','[K:GMix]',
+
+
         ]
 valid_keys_translations = {
         '[K:A]' : '[K:AMaj]',
@@ -70,6 +77,7 @@ valid_keys_translations = {
         #Special one
         '[K:Ddorisk]' : '[K:DDor]',
         '[K:DDorisk]' : '[K:DDor]',
+        '[K:Fclef=treble]' : '[K:Fclef]',
         }
 # Dirty global variables
 g_yes_to_all = None
@@ -101,6 +109,11 @@ def main():
             "--yes_to_all",
             help="Skip interactive prompt and accept all different tokens",
             action='store_true')
+    parser.add_argument(
+            "-multiple",
+            "--multiple",
+            help="Are there multiple songs in the files (for folk dataset)",
+            )
     # parser.add_argument(
             # "--keep_duplets",
             # help="Don't simplify duplets",
