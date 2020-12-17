@@ -31,12 +31,25 @@ valid_metrics = [
         '[M:10/2]',
         '[M:12/2]',
         '[M:16/2]',
-        '[M:7/8]'
+        '[M:7/8]',
+        '[M:7/4]',
+        '[M:2/16]',
+        '[M:3/16]',
+        '[M:10/8]',
+        '[M:2/8]',
+        '[M:2/1]',
+        '[M:6/2]',
+        '[M:14/2]',
+        '[M:22/8]',
+        '[M:19/16]',
+        '[M:1/2]',
+        '[M:10/4]',
+        '[M:5/2]'
         ]
 valid_metrics_translations = {
         '[M:C]' : '[M:4/4]',
         '[M:C|]': '[M:2/2]',
-        '[M:3/8+3/8+2/8]' : '[M:7/8]',
+        '[M:3/8+3/8+2/8]' : '[M:7/8]'
         }
 valid_lengths = ['[L:1/8]', '[L:1/4]', '[L:1/16]']
 valid_lengths_translations = {
@@ -44,7 +57,7 @@ valid_lengths_translations = {
         '[L:8]' : '[L:1/8]',
         '[L:4]' : '[L:1/4]',
         # According to standard we should revert to 1/8 here
-        '[L:]' : '[L:1/8]',
+        '[L:]' : '[L:1/8]'
         }
 #Keys
 valid_keys = [
@@ -55,8 +68,7 @@ valid_keys = [
         '[K:ADor]','[K:BDor]','[K:CDor]',
         '[K:DDor]','[K:EDor]','[K:FDor]','[K:GDor]',
         '[K:AMix]','[K:BMix]','[K:CMix]',
-        '[K:DMix]','[K:EMix]','[K:FMix]','[K:GMix]',
-
+        '[K:DMix]','[K:EMix]','[K:FMix]','[K:GMix]'
 
         ]
 valid_keys_translations = {
@@ -74,10 +86,27 @@ valid_keys_translations = {
         '[K:Eb]' : '[K:EbMaj]',
         '[K:Fb]' : '[K:FbMaj]',
         '[K:Gb]' : '[K:GbMaj]',
+        '[K:F#]' : '[K:FMaj]',
         #Special one
         '[K:Ddorisk]' : '[K:DDor]',
         '[K:DDorisk]' : '[K:DDor]',
         '[K:Fclef=treble]' : '[K:Fclef]',
+        '[K:Dclef=treble]' : '[K:Dclef]',
+        '[K:Cclef=treble]' : '[K:Cclef]',
+        '[K:Ebclef=treble]' : '[K:Ebclef]',
+        '[K:Gclef=treble]' : '[K:Gclef]',
+        '[K:Bbclef=treble]' : '[K:Bbclef]',
+        '[K:Aclef=treble]' : '[K:Aclef]',
+        '[K:Eclef=treble]' : '[K:Eclef]',
+        '[K:Abclef=treble]' : '[K:Abclef]',
+        '[K:Cclef=bass]' : '[K:Cclef]',
+        '[K:Fclef=bass]' : '[K:Fclef]',
+        '[K:Bbclef=bass]' : '[K:Bbclef]',
+        '[K:Ebclef=bass]' : '[K:Ebclef]',
+        '[K:Gclef=bass]' : '[K:Gclef]',
+        '[K:Dbclef=treble]' : '[K:Dbclef]',
+        '[K:Bclef=treble]' : '[K:Bbclef]',
+        '[K:Dclef=bass]' : '[K:Dclef]'
         }
 # Dirty global variables
 g_yes_to_all = None
