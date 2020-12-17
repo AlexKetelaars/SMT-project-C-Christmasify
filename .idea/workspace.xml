@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f0274e-c960-4210-a83b-0f61270dcd87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_carols-v1.4/In_The_Bleak_Midwinter_652.abc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_carols-v1.4/St_Martin_Orgar_484.abc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_carols-v1.4/Wachet_Auf_English_Hymnal_1906.abc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb1000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb1000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb10000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb10000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb11000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb11000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb12000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb12000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb13000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb13000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb14000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb14000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb15000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb15000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb16000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb16000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb17000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb17000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb18000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb18000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb19000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb19000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb2000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb2000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb3000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb3000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb4000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb4000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb5000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb5000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb6000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb6000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb7000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb7000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb8000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb8000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb9000.abc" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/abc_dutch_folk/allnlb9000.abc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/folk-rnn-parser/FolkRNN-parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/folk-rnn-parser/FolkRNN-parser.py" afterDir="false" />
-    </list>
+    <list default="true" id="59f0274e-c960-4210-a83b-0f61270dcd87" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,12 +122,35 @@
       <option name="presentableId" value="Default" />
       <updated>1607781280176</updated>
       <workItem from="1608222575810" duration="33000" />
-      <workItem from="1608223206080" duration="5402000" />
+      <workItem from="1608223206080" duration="5850000" />
     </task>
+    <task id="LOCAL-00001" summary="Parser fixed with dutch dataset + splitter for dutch dataset">
+      <created>1608232795954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608232795954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Parser fixed with dutch dataset + splitter for dutch dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parser fixed with dutch dataset + splitter for dutch dataset" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SMT_project_C_Christmasify$abc_divider.coverage" NAME="abc_divider Coverage Results" MODIFIED="1608230591592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
