@@ -1,0 +1,32 @@
+X: 736
+T: Onse Heere God heeft hier beneden,, Goden oo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 484709222
+%%humdrum-veritas-data 3070860943
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G A B cd2d2 |
+c2B2A2A2 |
+G A B cA4) |
+.('B A B cd2c B |
+A G A ^FG4) |
+.('G A B cd2d2 |
+c2B2A2A2 |
+G A B cA4) |
+.('B A B cd2c B |
+A G A ^FG4) |
+.('d2>c2 B c d _e |
+c2>B2 A B c d) |
+.('B2>A2G2A G |
+F2>E2D2).('E F |
+G2A2B2c2 |
+d4c (B A G) |
+^F2G2(B c)A2 |
+G8) |]

@@ -1,0 +1,30 @@
+X: 9491
+T: Wij zijn nu de eerste maand van het jaar. Wa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 427552348
+%%humdrum-veritas-data 2891020592
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2cc2c |
+e c cc2).('c |
+d d d f e d |
+e3c3) |
+.('f2f f f f |
+e2ee2).('e |
+d2d d e d |
+c3z2z) ]|:
+.('f3e2d |
+e3e2) :|]
+.('e [I:setbarnb 11]|
+d2d d e d |
+c2cc2).('e |
+d2d d e d |
+c3z2) |]

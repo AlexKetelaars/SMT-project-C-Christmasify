@@ -1,0 +1,28 @@
+X: 9942
+T: De krepelaar ging wandelen, En hij nam er Ba [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 3488843415
+%%humdrum-veritas-data 186154361
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('E2 [I:setbarnb 1]|
+E2B2B2A2 |
+B2>G2G2).('G G |
+A2G FG2B2 |
+E4z2).('E2 |
+E2B BB2A2 |
+B2>G2G2).('G G |
+A2G FG2B2 |
+E2>).('E2 E E E E |
+G2E) .('E E E E E |
+G2G) .('G G G G A |
+B4).('G2A2 |
+B2A AG2F2 |
+E6) |]

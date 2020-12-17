@@ -1,0 +1,27 @@
+X: 9998
+T: Toen ik op Neerlands bergie stond, Toen keek [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1410746773
+%%humdrum-veritas-data 3209421351
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('GG [I:setbarnb 1]|
+C2DE2G |
+A3G2).('G |
+ccceed |
+c3-c2).('G |
+ccc(cB)A |
+G3E2).('G |
+c2G(GF)E |
+D3).('A2A |
+G2CE2G |
+(c2d)).('(cB)A |
+(GA)G(FE)D |
+C3-C2) |]

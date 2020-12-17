@@ -1,0 +1,42 @@
+X: 9450
+T: Wij leven samen als goei vrienden, Ik en ons [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 521153462
+%%humdrum-veritas-data 239961080
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A3F |
+D> F B3/ A/ |
+(A3G) |
+E2z) .('A |
+A3A |
+B> A G3/ E/ |
+D4- |
+D2z) .('A |
+A3F |
+D> F B3/ A/ |
+(A3G) |
+E2z) .('A |
+A3A |
+B> A G3/ E/ |
+D4- |
+D z/) .('A,< D E/ |
+F> F G3/ A/ |
+F>) .('F A3/ F/ |
+F> E G3/ E/ |
+(D2F2) |
+!fermata!A z/) .('A,< D E/ |
+F> F G3/ G/ |
+!fermata!A z/) .('A< B c/ |
+d3F |
+A2G E |
+D4- |
+D zz2) |]

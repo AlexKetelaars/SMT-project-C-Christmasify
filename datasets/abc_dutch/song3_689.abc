@@ -1,0 +1,27 @@
+X: 2688
+T: Wat hoor ik daar nu het is middernacht Het i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 3871421730
+%%humdrum-veritas-data 1195221879
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('DG2A [I:setbarnb 1]|
+[M:9/8](B2c)d2de2g |
+d2AB2).('AB2c |
+(d2f)e2e e d e |
+d2A2<B2).('G3 |
+[M:6/8]e e f (g f) e |
+d3).('e3 |
+e2gd2A |
+B2).('AB2c |
+[M:9/8](d2f)e2d (c B) A |
+G3-G2).('AB2c |
+[M:9/8](d2f)e2d (c B) A |
+G3-G2) |]

@@ -1,0 +1,31 @@
+X: 10606
+T: As hier ne pot met bonen steet En doar ne po [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 248239622
+%%humdrum-veritas-data 2434294733
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G/ [I:setbarnb 1]|
+DD/DG/ |
+EE/EA/ |
+FD/EF/ |
+G3/z).('G/ |
+DD/DG/ |
+EE/EA/ |
+FD/EF/ |
+!fermata!G3/).('B3/ |
+cc/AA/ |
+BB/GG/ |
+AA/FF/ |
+G3/).('B3/ |
+cc/AA/ |
+BB/GG/ |
+AA/FF/ |
+!fermata!G3/z) |]

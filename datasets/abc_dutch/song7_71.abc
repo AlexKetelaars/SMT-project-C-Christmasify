@@ -1,0 +1,48 @@
+X: 6070
+T: Mars van Diana
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 1659707308
+%%humdrum-veritas-data 2963256270
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A [I:setbarnb 1]|
+df/ e/dc/ e/ |
+d/ d/ c/ B/A).('d/ c/ |
+B/ A/ G/ F/ E/ F/ G/ A/ |
+FG/ A/D).('A |
+dd/ e/dc/ d/ |
+e/ d/ e/ f/e).('d/ e/ |
+f/ g/ f/ e<dc/ |
+B/ A/ ^G/ F/E).('e |
+edc/ d/ e/ f/ |
+cB/ A/AA/ A/ |
+AAEE |
+A3) |
+.('e [I:setbarnb 13]|
+e/ d/ c/ d/ef |
+e/ d/ c/ B/AA |
+d2zf |
+e2zg |
+f2e).('f |
+ggfe |
+ffed |
+eedc |
+ddcB) |
+.('BEBc |
+d>cB3/A/ |
+d2zf |
+e2zg |
+f2e).('f |
+ggfe |
+ffe).('f |
+ggfe |
+ffe/ c/ d/ A/ |
+defe |
+d2) |]

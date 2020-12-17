@@ -1,0 +1,33 @@
+X: 15097
+T: Wien Neerlandsch bloed
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 1761696386
+%%humdrum-veritas-data 4135335125
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GGBA |
+G3/F// E//DG |
+FGcB |
+B!fermata!Az).('D |
+GGBA |
+G>FEF/ G/ |
+A/ B/ ^c/ d/FE |
+Dzz).('D |
+c>BAA |
+B>AGG/ B/ |
+ddBG |
+BAz).('D |
+GGB/ A/ G/ F/ |
+EEc3/A/ |
+GGF/ G/ A/ B/ |
+G2).('A2 |
+BG/ B/dF |
+G3) |]

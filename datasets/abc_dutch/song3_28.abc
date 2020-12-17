@@ -1,0 +1,35 @@
+X: 2027
+T: Doar wol ne boer oet vriejen goan Sirewirewi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 672924894
+%%humdrum-veritas-data 914739056
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GGDD |
+EED2) |
+.('D/ D/ D/ D/EF |
+G3).('D |
+GGDD |
+EED2) |
+.('D/ D/ D/ D/EF |
+G3).('G |
+FAAA |
+GBB).('G |
+A>GFE |
+EDD2) |
+.('ccc2 |
+BBB2) |
+.('A/ A/ A/ A/AA |
+GBd2) |
+.('ccc2 |
+BBB2) |
+.('A/ A/ A/ A/AA |
+G4) |]

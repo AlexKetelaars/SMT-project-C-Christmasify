@@ -1,0 +1,45 @@
+X: 5432
+T: O welvernoegde zinnen Gy baart een zaligheid
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 1661661387
+%%humdrum-veritas-data 3988782448
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('B/ A/ G/dd/c |
+d3z/) .('f/ |
+cf(c/ d/) (c/ B/) |
+B4 |
+z).('dcc |
+BA(G/ B/ A/ G/) |
+^F).('G(A/ B/) (F/ G/) |
+G>^FG2 |
+z) |
+.('dd3/c/ [I:setbarnb 10]|
+BA(G// A// B/< B/ A/) |
+A2z).('d |
+(e/ d/) (d/ c<)cB/ |
+B2z).('d |
+ABBA |
+(G/ F/ G/ E/)F).('B |
+G>AA3/^F/ |
+G4) |
+[M:3/2].('d2G2B2 |
+(A2B2)G2 |
+^F2D2).('B2 |
+c4d2 |
+(e2d2)c2 |
+d6 |
+z2z2).('c2 |
+f4B2 |
+(e2>d2)(cB) |
+A2F2).('B2 |
+G4A2 |
+G4^F2 |
+G4) :|]

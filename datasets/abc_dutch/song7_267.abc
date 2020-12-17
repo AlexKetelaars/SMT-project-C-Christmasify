@@ -1,0 +1,31 @@
+X: 6266
+T: ‘k Had goud, ‘k had juweelen, ‘k had huizen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 357440333
+%%humdrum-veritas-data 1589977584
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G E F G E F |
+G A Bc2).('G |
+G A B c G E |
+D3-D2).('F |
+F D E F D E |
+F B cd2).('G |
+G A G B A F |
+E3-E2).('G |
+G A B c B c |
+d c BA2).('A |
+A A B ^c d e |
+f3-f2).('e |
+d c B d c A |
+G c de2).('e |
+e f e d A B |
+c3-c2) |]

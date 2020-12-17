@@ -1,0 +1,30 @@
+X: 9690
+T: Ik heb een meisje lief gehad, zij was jong v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 169302739
+%%humdrum-veritas-data 4143071722
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+A2c2B2A2 |
+B2E2E2).('A2 |
+A4G2B2 |
+!fermata!A4z2).('A2 |
+A2c4BA |
+B2E2E2).('A2 |
+A4G2B2 |
+A4z2).('G2 |
+G2G2G2G2 |
+A2E2E3).('D |
+C2C2D2D2 |
+E4A,2).('C2 |
+C2E4D2 |
+(C4B,4) |
+A,4z4) |]

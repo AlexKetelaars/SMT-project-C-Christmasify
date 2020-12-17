@@ -1,0 +1,29 @@
+X: 11799
+T: Gavotte
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 1243723813
+%%humdrum-veritas-data 3262109184
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2G2 [I:setbarnb 1]|
+d2d2e d e f |
+g2d2).('g ab2 |
+e fg2g3^f |
+^f4) |
+.('x2g a [I:setbarnb 5]|
+b2a2g2g2 |
+^f2>e2e2).('a2 |
+a2^f2g af2 |
+(e2>d2)d4 |
+z2).('d2e e d c |
+B2>e2 e d e f |
+d2>).('d2 e d e ^f |
+g ab2a3g |
+g4) |]

@@ -1,0 +1,26 @@
+X: 9949
+T: Duifje, duifje, leit die eitjes, Die eitjes  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2402825950
+%%humdrum-veritas-data 1470191705
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('FA/ [I:setbarnb 1]|
+c3/-cc/ |
+cd/c3/ |
+A).('A/AA/ |
+A/ A/ A/cA/ |
+Fz/).('FA/ |
+cc/cc/ |
+cc/).('FA/ |
+cc/cc/ |
+cc/).('cd/ |
+ed/BG/ |
+Fz) |]

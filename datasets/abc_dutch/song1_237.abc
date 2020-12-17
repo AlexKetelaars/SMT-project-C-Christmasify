@@ -1,0 +1,15 @@
+X: 237
+T: Neemt den tijdt waer mijn kint tquaet wilt s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 3442742401
+%%humdrum-veritas-data 3151467748
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('G2GGD2).('F2GB2AG2F2).('D2F2F2G2B2A2GA2G2FG2).('G2GGD2).('F2GB2AG2F2).('D2F2F2G2B2A2GA2G2FG2).('GAAAA2GBAGA2).('B2ABF2).('zFGGA2GFE2D2).('zDF2F2G2B2A2GA2(G2F)G4) |]

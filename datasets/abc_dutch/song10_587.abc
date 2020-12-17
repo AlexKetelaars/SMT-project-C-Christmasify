@@ -1,0 +1,30 @@
+X: 9586
+T: Jan, gade weg da’k dans, Nen flikker op zijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 4055164190
+%%humdrum-veritas-data 1630024078
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('BB// B//BB/ |
+B3/z).('F/ |
+FG/FD/ |
+B,3/z).('F/ |
+AG/GG/ |
+GF/F3/ |
+F3/FE/ |
+D3/zz/) |
+.('BB// B//BB/ |
+B3/z).('F/ |
+FG/FD/ |
+B,3/z).('F/ |
+AG/GG/ |
+GF/F3/ |
+F3/GA/ |
+B3/zz/) |]

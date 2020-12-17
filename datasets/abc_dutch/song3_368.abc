@@ -1,0 +1,26 @@
+X: 2367
+T: Wie komt er kloppen aan mijne deur 't Is zow [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 1924049480
+%%humdrum-veritas-data 1072588585
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('GG2B [I:setbarnb 1]|
+(d2e)e2dc2d |
+B3-B3).('G2B |
+(d2e)e2dc2d |
+[M:6/8]B3-B2).('d |
+d d e e c B |
+A A d d) .('c B |
+A A d (d c) B |
+[M:9/8]A A d2<d2).('d3 |
+[M:6/8]G2AB2d |
+c B Ac2B |
+[M:9/8]A3G2) |]

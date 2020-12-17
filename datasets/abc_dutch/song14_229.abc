@@ -1,0 +1,32 @@
+X: 13228
+T: Jouïssons du plaisir qu'un instant nous livr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 1873832258
+%%humdrum-veritas-data 1009444441
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ c/ [I:setbarnb 1]|
+B B A |
+G2D |
+G G A |
+B B) .('(d/ c/) |
+B B A |
+G G D |
+G (G/ B/) (A/ F/) |
+!fermata!G2) :|]
+.('d/ c/ [I:setbarnb 9]|
+B B e |
+(d c) (c/ B/) |
+A A d |
+c B) .('B/ ^c/ |
+d2(^c/ d/) |
+e e (A/ G/) |
+F G E |
+D2) |]

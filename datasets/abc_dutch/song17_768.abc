@@ -1,0 +1,39 @@
+X: 16767
+T: Le marchande
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 4102054788
+%%humdrum-veritas-data 1781185482
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A,/ B,/ C/ [I:setbarnb 1]|
+D2>D2 F A |
+A2>A2 F D |
+B2B B c d |
+A2>).('d2 A F |
+G2>e2 c G |
+F2>d2 A F |
+B G E A F C |
+D3-!fermata!D2x) |
+.('F2>D2 F A |
+^G2>E2 G B |
+A2e e c A |
+B3E3) |
+.('A a A A a A |
+A a A A a A |
+B F E D C B, |
+E3-E2)(3.('A,/ B,/ C/ |
+D2>D2 F A |
+A2>A2 F D |
+B2B B c d |
+A2>).('d2 A F |
+G2>e2 c G |
+F2>d2 A F |
+B G E A F C |
+D3-D2) |]

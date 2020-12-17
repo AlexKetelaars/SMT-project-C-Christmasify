@@ -1,0 +1,32 @@
+X: 15929
+T: Nuw Amsterdam
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 1393096848
+%%humdrum-veritas-data 1811208011
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+(3.('g/ a/ b/ [I:setbarnb 1]|
+c'2g a> g f |
+e3a3 |
+g> f e d> e f |
+e2cc2)(3.('G/ A/ B/ |
+c'2g a> g f |
+e3a> b c' |
+b2a gd2 |
+^f3g2) |
+.('e/ ^f/ [I:setbarnb 9]|
+g> a g g> a g |
+f> g f f> g f |
+e> d cB2c |
+d2GG2).('g |
+a3b3) |
+.('c' d' c'c'2f |
+e> f g G c B |
+c3c2) |]

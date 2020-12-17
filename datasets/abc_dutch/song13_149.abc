@@ -1,0 +1,31 @@
+X: 12148
+T: Kom Mem, wy motte braid ha, Maar net fan Jel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 4200331920
+%%humdrum-veritas-data 675416586
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('C [I:setbarnb 1]|
+FFGA |
+(GE)D).('C |
+FFEF |
+G3).('G |
+GAGF |
+(ED)C).('E |
+GGA=B |
+c4) |
+.('AA/ A/AA |
+AGG2) |
+.('BB/ B/BB |
+BAA2) |
+.('cA/ A/AA |
+AGF).('G |
+C>CDE |
+F4) |]

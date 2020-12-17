@@ -1,0 +1,73 @@
+X: 17147
+T: Knoop Ballet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 3164048365
+%%humdrum-veritas-data 1107635209
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('g2ga |
+g3a |
+gf/ g/ a/ g/ f/ e/ |
+d/ ^c/ d/ e/ f/ e/ f/ d/) |
+.('g2ga |
+g3a |
+gf/ g/ a/ g/ f/ e/ |
+d4) |
+.('g>fga |
+bc'ba |
+g>fga |
+bc'ba) |
+.('g2g2 |
+g2f2 |
+gf/ g/ a/ g/ f/ e/ |
+d2d2) |
+.('d2^c2 |
+d>edc |
+BcBA |
+G/ F/ G/ A/GA |
+BcBA |
+G3A) |
+.('BcBA |
+G/ F/ G/ A/GA |
+BcBA |
+G4) |
+.('gfga |
+d/ ^c/ d/ e/ f/ e/ f/ d/ |
+gfga |
+d4) |
+.('gfga |
+d/ ^c/ d/ e/ f/ e/ f/ d/ |
+gfga |
+d4) |
+.('g>fga |
+bc'ba |
+g>fga |
+bc'ba |
+g2g2 |
+g2f2 |
+gf/ g/ a/ g/ f/ e/ |
+d2d2 |
+d2^c2) |
+.('d>edc |
+BcBA |
+G/ F/ G/ A/GA |
+BcBA |
+G3A) |
+.('BcBA |
+G/ F/ G/ A/GA |
+BcBA |
+G2G2 |
+G2F2 |
+G2GF/ E/ |
+G3A) |
+.('BcBA |
+G/ F/ G/ A/GA |
+BcBA |
+G4) :|]

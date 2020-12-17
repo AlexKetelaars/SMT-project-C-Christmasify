@@ -1,0 +1,39 @@
+X: 5214
+T: Daar was eens een boer en een vrolijke boer, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 2441199173
+%%humdrum-veritas-data 76442102
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('(D F) [I:setbarnb 1]|
+A2A A |
+A2d d |
+F2F F |
+F2z) .('A |
+D2D D |
+D2F2 |
+A4 |
+E2z) .('F |
+G2G G |
+B2A G |
+F2A2 |
+d2z) .('F |
+G2G G |
+B2(A G) |
+(F2A) A |
+d2).('c B |
+(A2B) A |
+(A G) F D |
+(E2d2) |
+d2).('c B |
+(A2B) A |
+(A G) F D |
+(E2A2) |
+D2) |]

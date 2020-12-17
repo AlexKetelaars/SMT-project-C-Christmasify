@@ -1,0 +1,25 @@
+X: 6769
+T: No74
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:31
+%%humdrum-veritas 543594075
+%%humdrum-veritas-data 2465281476
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('dd/ e/fe/ d/ |
+aaa2 |
+gg/ a/gb |
+ag/ f/e2) |
+.('a>gfa |
+gf/ e/fd |
+{g}fe/ d/ed |
+{g}fe/ d/e2) |
+.('a>aba/ g/ |
+ff/ g/ad/ e/ |
+fed2) :|]

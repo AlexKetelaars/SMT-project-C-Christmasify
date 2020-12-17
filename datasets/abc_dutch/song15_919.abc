@@ -1,0 +1,38 @@
+X: 14918
+T: Tröste dich selber bekümmerten Sinn Ärgern u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 398378109
+%%humdrum-veritas-data 2644812805
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=132
+K: C clef=treble
+.('g4e c |
+a4f d |
+g2c2B2 |
+c6) |
+.('e4c A |
+d4B G |
+D2G2^F2 |
+G6) |
+.('d4B G |
+e4c A |
+E2e2a2 |
+(^f a)b2e2) |
+.('a4^f d |
+e4c A |
+E2A2^G2 |
+A6) |
+.('(c d) (e f)g2 |
+a4g2 |
+f2e2(d c) |
+(B2A B)G2) |
+.('A4F D |
+d4B G |
+C2c2B2 |
+c6) :|]

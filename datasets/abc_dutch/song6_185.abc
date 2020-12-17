@@ -1,0 +1,29 @@
+X: 5184
+T: God hoelang moet ik nog zwerven Hoort gij om [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 2382188773
+%%humdrum-veritas-data 2729116823
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F G [I:setbarnb 1]|
+A2cB2E |
+GF2).('F F G |
+A2cB2A |
+G2>-G2) .('F G |
+A2A (A G) F |
+D2>B2) .('A G |
+F2FG2G |
+A2>-A2) .('A G |
+F2FG2G |
+A2>-A2) .('F G |
+A2A (A G) F |
+D2>B2) .('A G |
+F2FA2G |
+F3-F) |]

@@ -1,0 +1,31 @@
+X: 2548
+T: Ik liep laatst in de Koekinderenstraat Daar  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 1452349242
+%%humdrum-veritas-data 1136659455
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+G2B c d e |
+c B AG2).('A |
+A/ A/ A Ad2e |
+dB2-B2).('d |
+B2gd2B/ B/ |
+c B AG2).('g |
+[M:9/8]g2ga2gf2d |
+e3d3-d3) |
+[M:6/8].('d ^c d b b g |
+d2Bc3) |
+.('c B ca2f |
+d e cB3) |
+.('d e f g g g |
+g2ge3) |
+.('a a ag2g |
+f e fg2) |]

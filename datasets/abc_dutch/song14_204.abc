@@ -1,0 +1,25 @@
+X: 13203
+T: Preludium
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 458005650
+%%humdrum-veritas-data 2133670493
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=48
+K: C clef=treble
+.('A2 e2 c2 A2 e2 a2 e2 c2 |
+A2 b2 f2 d2 B2 g2 g2 g f |
+e2 c2 f2 d2 g2 e2 c2 a2 |
+g f e d c A c d e f d g e a g a |
+b g a A G F E d c B A B c d e c) |
+.('A e e e c e e e B e e e G e e e |
+F e e e E e e e F e e e G A A A |
+E A A A F A A A G A A A C A A A |
+B, A A A A, A A A G A B G A e c A |
+a e c a g f e d c e a A E c B G |
+G A B E F G A A,) :|]

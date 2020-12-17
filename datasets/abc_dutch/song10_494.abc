@@ -1,0 +1,33 @@
+X: 9493
+T: Lamken, hoe loopt gij zoo eenzaam te blaten  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 362604470
+%%humdrum-veritas-data 2780729147
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A A A A A A |
+c B AA2G) |
+.('G F GA2z |
+G F GA2z) |
+.('A A A c B A |
+c B AA2G) |
+.('G F G A G A |
+=B A Bc2z) |
+.('G F DC2z/ G/ |
+G G G G G) .('F |
+G A G A G z/) .('G/ |
+c c c c B A |
+B c cc2B) |
+.('B B B B A G |
+G A BB2A) |
+.('A A A !fermata!d c c |
+B A GA2z) |
+.('A A A !fermata!d c c |
+B A GF2z) |]

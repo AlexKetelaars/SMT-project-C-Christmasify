@@ -1,0 +1,38 @@
+X: 17510
+T: Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 1027118846
+%%humdrum-veritas-data 1472567864
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=132
+K: C clef=treble
+.('c'2 [I:setbarnb 1]|
+c2c cc2d2 |
+e2e ee2f2 |
+g e a f g e f d |
+e c d Bc2).('c'2 |
+c2c cc2d2 |
+e2e ee2c'2 |
+b2a g c' a b ^f |
+g2g g g d B d |
+g4x2) |
+.('g2 [I:setbarnb 10]|
+d2d dd2e2 |
+f2f ff2g2 |
+a2a _b a g f e |
+d c B AG2).('d'2 |
+f e d e f e f d |
+e2d ec2d'2 |
+f e d e f a g f |
+e2d ec2).('G2 |
+A c B d c e d f |
+e d e fg2f2 |
+e f g c'e2d c |
+c2c c c G E G |
+c4) :|]

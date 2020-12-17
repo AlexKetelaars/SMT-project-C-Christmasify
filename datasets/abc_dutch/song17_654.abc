@@ -1,0 +1,30 @@
+X: 16653
+T: Wie siddert niet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2772654676
+%%humdrum-veritas-data 3146587777
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+d2>d2d2z f |
+e2>d2^c3d |
+^c/ d/ c/ d/ c/ d/ c/ d/e2A2 |
+z2).('A2_B3A |
+A2(_B A2<)G2F |
+F2F2z2f2 |
+e2>e2 a> g f3/ e/ |
+f4z2).('f2 |
+d2>^c2d2=c2 |
+_B2>A2A4 |
+z f e> e (3f g f (3e f e |
+(3d e d ^c> de2(a g) |
+f4e2z) .('e |
+(f e) (f d)^c2(d/ e/ f) |
+e2>d2d2d2) |]

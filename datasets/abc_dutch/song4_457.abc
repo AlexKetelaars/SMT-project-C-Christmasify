@@ -1,0 +1,39 @@
+X: 3456
+T: Ik was nog jong toen reeds had ik veel omgan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 2278502940
+%%humdrum-veritas-data 4008102126
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GF/GA/ |
+BA/G).('G/ |
+FA/EA/ |
+AF/D).('D/ |
+GF/GA/ |
+BA/G).('G/ |
+FA/EA/ |
+AF/D).('D/ |
+GF/GA/ |
+BA/G).('G// G// |
+FA/EA/ |
+AF/D).('D/ |
+GF/GA/ |
+BA/G).('G/ |
+FA/EA/ |
+AF/D3/) |
+.('B3/AB/ |
+cB/D3/) |
+.('B>c B/ B/ |
+cB/A3/) |
+.('BB/GE/ |
+DF/A3/) |
+.('d/ d/ d/dd/ |
+G3/-G) |]

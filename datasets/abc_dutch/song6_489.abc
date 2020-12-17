@@ -1,0 +1,32 @@
+X: 5488
+T: Daer staet een clooster in Oostenrijc, Het i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3315860126
+%%humdrum-veritas-data 741211055
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('DDD |
+AAA |
+c2c |
+F2).('G |
+(AB)c |
+A2B |
+A3 |
+A2).('A |
+B2A |
+G2B |
+A2A |
+D2).('A |
+(G>A) (B/ A/) |
+c2).('A |
+(BA)G |
+(FE)E |
+D3 |
+D3) |]

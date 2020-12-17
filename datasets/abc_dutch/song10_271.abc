@@ -1,0 +1,30 @@
+X: 9270
+T: Drie ganzen in‘t haverstroo Zitten daar en s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3741836452
+%%humdrum-veritas-data 2441343125
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('Acc |
+Bcc) |
+.('B/ c/cc |
+Acc) |
+.('F/ E/F^F |
+G2C) |
+.('G/ ^F/G^G |
+A2F) |
+.('FAD |
+G2C |
+G2E |
+A3) |
+.('c(f/ e/) (d/ c/) |
+(B/ A/) (G/ F/) E/ D/ |
+C2C |
+F3) |]

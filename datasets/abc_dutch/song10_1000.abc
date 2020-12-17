@@ -1,0 +1,27 @@
+X: 9999
+T: En daar reed erres een heer en hij was welle [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 882236476
+%%humdrum-veritas-data 2628645796
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('B2A [I:setbarnb 1]|
+G2>G2FE |
+D2EF2G |
+AAAA).('BA |
+G2>G2FE |
+D2EF2G |
+AAAA).('AA |
+A^GAcBA |
+EEEE).('AA |
+G3F2E |
+(D2c)c2c |
+B2>(A2G)A |
+G3) |]

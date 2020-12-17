@@ -1,0 +1,24 @@
+X: 8954
+T: ‘k Zou zoo geere naar England willen varen,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 4170765816
+%%humdrum-veritas-data 3093637153
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 G2 G2 G G |
+A A G F E2 C2) |
+.('G2 G G G2 G G |
+A A G F E2 C2) |
+.('G2 G G G2 G G |
+A2 G F E2 C2) |
+.('G2 G G G2 G G |
+A2 A2 G2) .('G2 |
+A A G F E C (G F) |
+E2 D2C4) |]

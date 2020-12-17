@@ -1,0 +1,27 @@
+X: 3096
+T: Husare aus dem Kriege kam hurrah Husare aus  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 104072274
+%%humdrum-veritas-data 2696954825
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G (G F) G |
+A2cF2D |
+Gz2z2).('D |
+G2G (G F) G |
+A2cF2D |
+Gz2z2).('d |
+B d d d e d |
+d2cc2).('c |
+B A B d d B |
+B A GA2).('d |
+B2B A G A |
+Gz2z2) |]

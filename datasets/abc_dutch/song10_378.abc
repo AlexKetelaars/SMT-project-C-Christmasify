@@ -1,0 +1,35 @@
+X: 9377
+T: Men hoort niet meer als rampen en bezwaren,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 1024318
+%%humdrum-veritas-data 2098348190
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('c G A [I:setbarnb 1]|
+E2>E2 F G A =A |
+B4F) .('d =A B |
+E2>F2 G A B3/ =B/ |
+c4-c) .('C F G |
+A2>A2 A A G F |
+G2c2z) .('c d B |
+c2>A2 G c G A |
+F4-F) .('E F E |
+D2>E2 F G A B |
+B2A2>).('A2 A A |
+A3G/ G/ B A G F |
+c4-c) .('C D F |
+E2>A2 G A B A |
+(=E2G2)F) .('c d =d |
+e2>E2 F G A B |
+c4-c) .('C D F |
+E2>A2 G A B A |
+(=E2G2)F) .('B c B |
+A2>E2 =D E !fermata!F3/ E/ |
+A4-A2z2) |]

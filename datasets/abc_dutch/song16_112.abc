@@ -1,0 +1,31 @@
+X: 15111
+T: Schep vreugd in ‘t leven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 3840623772
+%%humdrum-veritas-data 2731387862
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: E clef=treble
+.('G2>A2 G A |
+B3e3 |
+E2>F2 E F |
+G A GF2z) |
+.('G2>A2 G A |
+B3e3 |
+E2FG2F |
+E2zz2) ||
+.('B [I:setbarnb 9]|
+B A G F G A |
+B2GE2).('B |
+B A G F G A |
+B2GE2).('E |
+c2ce2c |
+B2Be2).('B |
+B c B B A G |
+G3F3) |]

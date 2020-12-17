@@ -1,0 +1,27 @@
+X: 9858
+T: Ik stond op hogen bergen, Ik zag ter zeewaart in
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 3276160738
+%%humdrum-veritas-data 3526639309
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+E2FG2A |
+B3B2).('B |
+c2cd2d |
+e3z2).('B |
+e2ed2c |
+B3G2).('B |
+B c B B A G |
+F2z) .('c c c |
+B2EG2A |
+B2z) .('c d e |
+B2EG2F |
+E3z2) |]

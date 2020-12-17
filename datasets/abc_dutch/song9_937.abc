@@ -1,0 +1,35 @@
+X: 8936
+T: En wij gingen al naar de zee, En wij gingen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 511868012
+%%humdrum-veritas-data 4231112337
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('F2G |
+B A G |
+F2A |
+c3) |
+.('c2d |
+c B A |
+G2c |
+F2z) |
+.('c2c |
+c c c |
+c2c |
+f2c |
+c3) |
+.('f2c |
+c c c |
+f2c |
+c3) |
+.('G2A |
+c B A |
+G2c |
+F2z) |]

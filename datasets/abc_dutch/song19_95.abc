@@ -1,0 +1,30 @@
+X: 18094
+T: Englese Contredans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3789846930
+%%humdrum-veritas-data 546537867
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G B d c |
+c A F D |
+G B d B |
+c A F D) |
+.('G B d g |
+e c g e |
+d c B A |
+G2G2) |
+.('D F A c |
+D G B d |
+c B A G |
+G F E D) |
+.('D F A c |
+D G B d |
+c A G F |
+G2G2) :|]

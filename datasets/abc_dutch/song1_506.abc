@@ -1,0 +1,28 @@
+X: 506
+T: Waack op mijn siel, nu moet gy weer Ten love [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1157890138
+%%humdrum-veritas-data 2725969342
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('E [I:setbarnb 1]|
+E>DD3G |
+G>^FG3).('G |
+AB2<c2c |
+c>Bc3).('d |
+efgABc |
+d>cc3) |
+.('c [I:setbarnb 7]|
+B>AA3A |
+G>FE3).('E |
+F>GA3D |
+D3/(F// D//)E3).('c |
+c(B/ c/)dABc |
+c>Bc4) |]

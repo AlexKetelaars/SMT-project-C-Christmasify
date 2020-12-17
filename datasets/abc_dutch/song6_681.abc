@@ -1,0 +1,31 @@
+X: 5680
+T: De brugge die is in ‘t watre gevallen, falde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 1636125829
+%%humdrum-veritas-data 3924361479
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E [I:setbarnb 1]|
+A2A A |
+B2B2 |
+e2e d |
+c2B2) |
+.('A B A G |
+F2E2 |
+A B A G |
+F2E) .('E |
+A2A A |
+B2B2 |
+e2e d |
+c2B2) |
+.('F3F |
+G3G |
+A4- |
+A2z2) |]

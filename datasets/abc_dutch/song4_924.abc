@@ -1,0 +1,29 @@
+X: 3923
+T: Ach jonge jeugd aanhoort mijn klachten Het z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 2490665614
+%%humdrum-veritas-data 721770956
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('DGA [I:setbarnb 1]|
+B>BcB(GB) |
+A2>).('A2Ad |
+[M:2/2]d/> A/ A/ B/cd |
+[M:3/2]B2>).('D2GA |
+B-B// B// B// B// c/ c/B(GB) |
+A2>).('A2Ad |
+[M:2/2]d/> A/ A/ B/cd |
+B3).('D |
+GAed |
+G3).('D |
+GAed |
+[M:3/2]G2>).('D2GA |
+Bd/ d/fed3/c/ |
+B3) |]

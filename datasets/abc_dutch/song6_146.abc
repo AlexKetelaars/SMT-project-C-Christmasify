@@ -1,0 +1,38 @@
+X: 5145
+T: Vrolijke geesten, die liever zijt Op kermisf [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 3027775190
+%%humdrum-veritas-data 1559313917
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('GGA |
+(B/ A/ B/ c/)B |
+dcB |
+A3) |
+.('d=fd |
+(^c/ B/ c/ d/)e |
+dd^c |
+d3) |
+.('GGA |
+(B/ A/ B/ c/)B |
+dcB |
+A3) |
+.('d=fd |
+(^c/ B/ c/ d/)e |
+dd^c |
+d2).('d |
+(d>e) d/ c/ |
+B2d |
+ccB |
+A2).('A |
+(B2A/) G/ |
+(F/ G/ A/ B/ c/) c/ |
+A/ A/GF |
+G3) |]

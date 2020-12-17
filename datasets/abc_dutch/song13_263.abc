@@ -1,0 +1,30 @@
+X: 12262
+T: Engelsche Contredans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:23
+%%humdrum-veritas 3547486095
+%%humdrum-veritas-data 936649633
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('d2d f |
+a f e d |
+e2e f |
+d c B A) |
+.('d2d f |
+a f e d |
+e d c B |
+A2A2) |
+.('e2e f |
+d c B A |
+a2a b |
+g f e d) |
+.('g f g a |
+b c' d' b |
+a g f e |
+d2d2) :|]

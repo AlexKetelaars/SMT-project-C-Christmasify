@@ -1,0 +1,26 @@
+X: 1870
+T: Ik heb nooit meer plezier gehad [2x] als ond [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 594632214
+%%humdrum-veritas-data 3096474038
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('ddd/ d/ [I:setbarnb 1]|
+(Bd)(gf) |
+e>ed(c/ B/) |
+A).('dec/ B/ |
+A2e2 |
+d>Bed |
+Bz/) .('G/Ae |
+d2B2 |
+(Ad)G2 |
+z).('gfe |
+d2B2 |
+(Ad)G2) |]

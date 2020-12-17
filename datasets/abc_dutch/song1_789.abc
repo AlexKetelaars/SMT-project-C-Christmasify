@@ -1,0 +1,33 @@
+X: 789
+T: Och dat de mensch den Heer Gehoorsaem waer altyt,
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2343813615
+%%humdrum-veritas-data 2826384678
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('dd/ e/dc |
+(BB/ A/B)).('c |
+Bcdd |
+e4) |
+.('dd/ e/dc |
+(BB/ A/B)).('c |
+Bcdd |
+e4) |
+.('gg/ g/gf |
+e3).('f |
+g>fee |
+d2).('zd |
+BGzg |
+ecze |
+cA).('zd |
+cBAG |
+F).('_BAG |
+(^FG2)F |
+G2) |]

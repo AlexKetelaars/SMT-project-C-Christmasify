@@ -1,0 +1,39 @@
+X: 13257
+T: Es kann ja nicht alles so bleiben Hier unter [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3671148316
+%%humdrum-veritas-data 3887215811
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+BBB |
+BAB |
+(d2c) |
+Bz).('B |
+AdA |
+GFE |
+D2z |
+zz).('D |
+DEF |
+GAB |
+{d2}c3 |
+Az).('e |
+GGG |
+AGF/ d/ |
+d3 |
+d/ c/ B/ A/) .('(c/ e/) |
+GGG |
+AGF |
+G/ D/ B/ G/ d/ B/ |
+g/ d/ b/ a/ g/ f/) |
+.('e2d |
+c2B |
+AGF |
+G2) |]

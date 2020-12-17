@@ -1,0 +1,27 @@
+X: 8556
+T: Zeg mij, wat is een koning, Een koning zonde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:48
+%%humdrum-veritas 3383465562
+%%humdrum-veritas-data 2243055086
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+E E G G |
+(B> G) E) .('E |
+A c e (d/ c/) |
+B2z) .('e |
+d> c c B |
+(D c) c) .('(c/ d/) |
+c B F ^F |
+G2z) .('e |
+d> c c B |
+(D c) c) .('(c/ d/) |
+c B F G |
+E2z) |]

@@ -1,0 +1,26 @@
+X: 479
+T: Wat derelijcker clagen Is dat! ick heb mijn dagen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3142263548
+%%humdrum-veritas-data 3097233640
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('d2c3_B |
+A2>B2c2 |
+c4B2 |
+A4z2) |
+[M:2/2].('zfe3/d/ |
+cA2A |
+GA_B3/G/ |
+A2).('zc |
+c>_BA3/G/ |
+F2zA |
+Bdd3/^c/ |
+d4) |]

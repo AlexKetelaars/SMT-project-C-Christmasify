@@ -1,0 +1,27 @@
+X: 9765
+T: Hoort, katholieken al, die leeft op ‘s werelds dal
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 3165468154
+%%humdrum-veritas-data 2994619394
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GFGA2<D2).('G |
+GDDC2<B,2).('A, |
+B,C2<D2).('DED |
+GG2<G2).('AAA |
+G2>).('E2FGED |
+[M:3/2]D).('GAGFG |
+A2>).('D2EF |
+[M:4/2]G2>).('G2AAGF |
+[M:3/2]E2>).('G2FE |
+[M:4/2]DDDDE!fermata!Dz).('D |
+GBABEFG3/).('A/ |
+A2>G2!fermata!G2z2) |]

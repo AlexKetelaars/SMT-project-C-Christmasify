@@ -1,0 +1,23 @@
+X: 8529
+T: ‘t Kindje komt op bloote voeten, Met zijn wi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:47
+%%humdrum-veritas 2412080707
+%%humdrum-veritas-data 3559640164
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B2A2G F G A |
+G2F2).('E F G B |
+e2c BG2z2) |
+.('B2A2G F G A |
+(G2F2)).('E F G =A |
+c2d2(c B) !fermata!B) .('G |
+A2F FB2G) .('G |
+A2F FB2G) .('B |
+e2B2E2z2) |]

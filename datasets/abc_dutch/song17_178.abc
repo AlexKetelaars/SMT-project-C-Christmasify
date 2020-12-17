@@ -1,0 +1,36 @@
+X: 16177
+T: Fillis roept, al meent zy ‘t niet: ‘k Wil ni [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 3812557562
+%%humdrum-veritas-data 318883947
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('AB [I:setbarnb 1]|
+cAe3/e/ |
+e2).('(a/ g/) (f/ e/) |
+(d/ e/) (c/ d<)de/ |
+e2) |
+.('B3/B/ [I:setbarnb 5]|
+cAd3/d/ |
+BG).('GG |
+G>AF3/E/ |
+E2).('E3/E/ |
+A^FB3/B/ |
+^G2).('AB |
+cB(A/ B/) (c/ d/) |
+ee).('ec |
+(a/ g/)^fga |
+^g2).('ed |
+fe(d/ c/) (B/ A/) |
+^GE).('(e/ d/) (e/ c/) |
+(f/ e/) (d/ c<)BA/ |
+A2).('_B3/A/ |
+^GAB3/A/ |
+A2) :|]

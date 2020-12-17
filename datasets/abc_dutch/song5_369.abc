@@ -1,0 +1,26 @@
+X: 4368
+T: O wat een spijt en ik ben mijn lief verloren [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 1204181136
+%%humdrum-veritas-data 3055994218
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B> AG3A/ A/ |
+B c d cB2A2) |
+.('A2B ^c(d2c) B/ B/ |
+A G F ED4) |
+.('D2B A2<G2A |
+B c d cB2A2) |
+.('A2B ^c2<d2A |
+A G F ED4) |
+.('G2G> G B G G3/) .('G/ |
+A A A B c BA2) |
+.('A2A> A A A d) .('d/ d/ |
+d d e dG4) |]

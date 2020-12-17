@@ -1,0 +1,109 @@
+X: 14782
+T: Potpourri de l’opéra “Martha”
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 3665384138
+%%humdrum-veritas-data 2336967104
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G, z A, z B, z |
+C z _E zz2 |
+(A,2B,2C2) |
+(B,2G,) zz2) |
+.('G z A z B z |
+c z _E zz2 |
+(D E F G B3/) A/ |
+G2z2z2) |
+.('(d> c)B3B |
+(B> A)G3G |
+(F> E D) F (A c) |
+(B/ c/ ^c/ d/)A2z2) |
+.('(d> c)B3B |
+(B> A)G3^G |
+(A F D A,) (F3/ E/) |
+D2).('d3d |
+(^c B A G F E) |
+(F/ G/ ^G/ A/)D2z) .('d |
+f d B F ^G E |
+A2e2^c2 |
+A4z2) ||
+[M:9/8].('z8x [I:setbarnb 23]|
+f d B A F G A B ^c) ||
+[M:2/4].('d2D D [I:setbarnb 25]|
+D2D D |
+D2D D |
+D2) ]|:
+.('D G [I:setbarnb 28]|
+F2E F |
+D2G A |
+B2A G |
+A2).('D A |
+d z D A |
+e z D A |
+f z D A |
+g z) :|]
+.('g f [I:setbarnb 36]|
+c2e d |
+d2(B c) |
+(A D) (d D) |
+d2).('g f |
+c2e d |
+d2(B c) |
+(A D) (d F) |
+G2z2 ||
+z4) [I:setbarnb 45]]|:
+[M:2/4].('x3(g/ a/) |
+b d z (g/ a/) |
+b d z (g/ a/) |
+b g b g |
+b g) .('B (c/ B/) |
+A A A A |
+A A A A |
+d A (d/ c/ B/ A/) |
+G2z) :|]
+.('z [I:setbarnb 54]|
+(b ^c) c c |
+(f A) A A |
+(A/ B/ ^c/ d/ e) A |
+(d/ e/ f/ g/ a) d) |
+.('(b ^c) c c |
+(f A) A A |
+(A/ B/ ^c/ d/ e) A |
+d2z) .('(g/ a/) |
+b d z (g/ a/) |
+b d z (g/ a/) |
+b g b g |
+b g) .('B (c/ B/) |
+A A A A |
+A A A A |
+d A (d/ c/ B/ A/) |
+G2z2) ||
+[M:4/4].('z8 [I:setbarnb 71]|
+D D/ D/ D D D D D D) ||
+[K:D] [M:2/4].('d2A2 [I:setbarnb 73]|
+B> c d B |
+A> B A f |
+a ee2) |
+.('d2A2 |
+B> c d B |
+A> B A e |
+f dd2) |
+.('d2A2 |
+B> c d B |
+A> B A f |
+a ee2) |
+.('d2A2 |
+f> e d B |
+.A .A .A .A |
+.c .c .c .c) |
+.('d A c A |
+d A c A |
+d2z2 |
+f2z2 |
+!fermata!D4) |]

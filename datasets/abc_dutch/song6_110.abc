@@ -1,0 +1,30 @@
+X: 5109
+T: In ‘t fortuintje moeten we wezen, in ‘t fort [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 1705613837
+%%humdrum-veritas-data 4107990690
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d2FF2F |
+F F GB2A) |
+.('d2FB2A |
+G F ED2z) |
+.('d2FF2F |
+F2GB2A) |
+.('d2FB2A |
+(G F) ED2z) |
+.('A> A AA2G |
+G> G GG2F) |
+.('F> F F F G A |
+(A G) FE2z) |
+.('A2>A2 B c |
+d2>).('d2 c d |
+e2d (c B) c |
+d3z2z) |]

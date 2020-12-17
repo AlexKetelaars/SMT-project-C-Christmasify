@@ -1,0 +1,15 @@
+X: 161
+T: Die in Godes bewaeringh' sterck, Begeeft hem [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3194585160
+%%humdrum-veritas-data 2793362026
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('D4A2A2G2E2F4G4A4z4).('A4c2c2B2G2(A2B2)A4z4).('D4A2A2G2E2F4G4A4z4).('A4c2c2B2G2(A2B2)A4z4).('A4G2E2F2F2G4A4D4z4).('d4A2c2B2A2G4F4z4).('A4_B2A2G2F2E2D2E4z4).('A4G2D2F2G2E4D4) |]

@@ -1,0 +1,25 @@
+X: 16550
+T: 31. Aria.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:04
+%%humdrum-veritas 2445289082
+%%humdrum-veritas-data 2613346776
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d2{d2 e2}f2{f}e3d |
+{d}^c2A2d c d e |
+{e}f2>e2d4 |
+!uppermordent!!uppermordent!a2>g2f2{e}d2 |
+g2>f2e2{d}c2 |
+(d c) (_B A2<) {A}G2F |
+F4).('A3B |
+{d}^c2A2(d c) (d e) |
+{e}f4!uppermordent!!uppermordent!a2{g}f2 |
+(_b a) (g f2<) {f}e2d |
+d8) |]

@@ -1,0 +1,26 @@
+X: 9478
+T: Antje bolantjen Is altijd ziek
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2939525490
+%%humdrum-veritas-data 3580887499
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G G/ G/ G D/ D/ |
+G AB2) |
+.('B B B A |
+A B A G) |
+.('G G/ G/ G D/ D/ |
+G AB2) |
+.('B B B A/ A/ |
+B BG2) :|]
+.('A A A A |
+A AA2) |
+.('A G/ G/ F F |
+E2D2) |]

@@ -1,0 +1,15 @@
+X: 703
+T: Loeft God den Heer der Heeren soet Sijn lof  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 4098813757
+%%humdrum-veritas-data 2423220410
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2D2D2D2A4B4c4B4A4z2).('d2d4d2d2d2d2c2A2(FGABc4)z2).('A2_B2A2G2F2D4C4z2).('c2c2c2=B2c2d4A4z2).('d2c2c2A2F4D2F2>G2A2(A4GFE4)D4) |]

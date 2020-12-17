@@ -1,0 +1,29 @@
+X: 4721
+T: Prins Bimbelbam van Beieren had trek in eierkoek.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 4046571835
+%%humdrum-veritas-data 459447345
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GFED |
+FED3/).('D/ |
+DDEC |
+B,3).('D |
+GFE/ E/D |
+FED3/).('D/ |
+DD/ D/EC |
+B,3).('D3// D// |
+DDEF |
+G3B |
+G3).('D3// D// |
+EEFF |
+G3B |
+G3) |]

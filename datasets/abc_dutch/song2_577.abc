@@ -1,0 +1,23 @@
+X: 1576
+T: Hij klopte aan de deur en ringelde aan de kl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3427280335
+%%humdrum-veritas-data 2171399932
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B B B B (B d) d3/ e/ |
+d> d c BA2z) .('A |
+A A A Bc2d3/ c/ |
+B B A AG2z) .('D |
+G2G> G (A c) B A |
+G2E2z2z) .('D |
+G2(3G G GA2B A |
+G2z2z3) |]

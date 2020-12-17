@@ -1,0 +1,24 @@
+X: 12174
+T: Die groote stad heet Weenen Weenen Die groote stad
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 2650305433
+%%humdrum-veritas-data 2441622507
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('AA>EE |
+FE>E) .('D/ F/ |
+DF>AE) |
+.('AA>EE |
+F(G>A)c) |
+.('BB>A A/ G/ |
+F).('Ad3/c/ |
+BA(E/ F/)G) |
+.('Ac>B A/ G/ |
+F2z2) |]

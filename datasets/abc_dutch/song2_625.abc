@@ -1,0 +1,23 @@
+X: 1624
+T: De herders van Bethlehem ze zeiden ’t gewis  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 1082622466
+%%humdrum-veritas-data 1632667911
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(G/ F/ G/ B<) d c/ (B A) G3/ A/ |
+B2A> AG2z) .('D |
+G F G A B> c B c |
+B2A2G2z) .('G |
+F G E EE2z c |
+c> c c BA2z) .('d |
+c> c B A G A B c |
+B2(A B)G2z) |]

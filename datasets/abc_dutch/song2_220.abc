@@ -1,0 +1,65 @@
+X: 1219
+T: Torentje torentje bossekruid wat ’angt er ui [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 2769941595
+%%humdrum-veritas-data 1837375623
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G G A B c B |
+A2AG2).('B |
+A2AG3) |
+.('G3B3 |
+A3G2).('B |
+A2AG2B |
+A3G2).('D |
+G2A B c B |
+A2AG2).('D |
+G3A3 |
+(B2A)G2).('D |
+G G G A G A |
+B3G3) |
+.('G G G A A A |
+B3G3) |
+.('B B B B A G |
+A2Bc2).('c |
+B B A G A B |
+A2AG2).('D |
+G G A (B c) B |
+A3G2).('D |
+G G A (B c) B |
+A3G2).('D |
+G G A B c B |
+A3G2).('D |
+G G A B c B |
+A3G2).('D/ D/ |
+G G A B c B |
+A3G2).('D |
+G G A (B c) B |
+A3G2).('D |
+G G AB2B |
+A2AG2).('D |
+G G A (B c) B |
+A2AG2).('D |
+G2AB2B |
+A2AG2).('D |
+G G A (B c) B |
+A A AG2).('D |
+G G A B c B |
+A2AG2).('D |
+G G A (B c) B |
+A A AG2).('D |
+G G AB2B |
+A3G2).('D |
+G2AB2B |
+A3G2).('B |
+B2>B2 B B |
+c2>c2 c) .('c |
+B2A G A B |
+A2AG2) |]

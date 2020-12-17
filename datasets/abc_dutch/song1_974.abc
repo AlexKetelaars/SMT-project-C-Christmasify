@@ -1,0 +1,23 @@
+X: 974
+T: En ik ben er het groenlandse straatje Zo dik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 4175891745
+%%humdrum-veritas-data 3572989780
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+B> B B c B A |
+BD2-D2).('D |
+B B B c B A |
+B3-B2).('d/ d/ |
+e e e g f e |
+dB2-B2).('G/ G/ |
+A A A c B A |
+G3-G3) |]

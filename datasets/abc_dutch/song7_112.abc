@@ -1,0 +1,28 @@
+X: 6111
+T: De Groote Juffrouw
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3314748305
+%%humdrum-veritas-data 555308645
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('dA [I:setbarnb 1]|
+Bc/ B/AG |
+F2).('dc |
+defe |
+d2) :|]
+.('ef [I:setbarnb 5]|
+ga/ g/fe |
+f2).('ed |
+cBcd |
+eA).('ef |
+ga/ g/fe |
+f2).('ed |
+cdec |
+d2) |]

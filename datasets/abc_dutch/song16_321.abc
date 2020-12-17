@@ -1,0 +1,29 @@
+X: 15320
+T: Rinaldino
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 653390186
+%%humdrum-veritas-data 3663526443
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('E E [I:setbarnb 1]|
+A2A2E2E2 |
+(C2E C)A,2A A |
+G2A2B2c2 |
+B e ^d cB2).('A A |
+G2G2B2B2 |
+E4z2) ]|:
+.('E3/ E/ [I:setbarnb 7]|
+d2>B2c3A |
+c BB2z2) :|]
+.('E E [I:setbarnb 9]|
+A2A2B2B2 |
+e> f e c A A A G |
+F d c BA2G2 |
+A4z2) |]

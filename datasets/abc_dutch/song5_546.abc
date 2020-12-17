@@ -1,0 +1,20 @@
+X: 4545
+T: O ratten en muizen We zijn nu weer alle bijeen.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3681039899
+%%humdrum-veritas-data 3352272714
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2>c2 B A |
+G3D2).('D |
+d d d c c d |
+B2).('G A B3/ c/ |
+(B3A3) |
+G6) |]

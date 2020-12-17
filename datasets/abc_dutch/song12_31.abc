@@ -1,0 +1,73 @@
+X: 11030
+T: Hoe werd uw deugd gekroond met heilige Lauri [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3507424540
+%%humdrum-veritas-data 2255626200
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F2 [I:setbarnb 1]|
+F2>G2A2F2 |
+c4z2c2 |
+d2>c2B2d2 |
+c4A4) |
+.('z2f2c2d2 |
+c2>B2A2F2 |
+G2A2(F G A B |
+A B c d c d e f) |
+(e2>f2)d2d2) |
+.('z2c2(c d e c |
+d e f d)e2-e2 |
+z2f2(c B) (c d) |
+(B A) (B c2<)A2).('c |
+=B2c2c3B |
+c4z2c2 |
+(f e) (d c) (d c) (B A) |
+(B A) (G F2<)c2c |
+(B A) (B c)A2A2) |
+.('z2A2(F E) (F G) |
+(A G) (A B) (c B) (c d) |
+(e d) (e f2<)e2e |
+f2f2).('z2c2 |
+(d c) (B A) (G A B A) |
+G2>F2F2x2) |
+[M:3/8].('x x f |
+c2c |
+d2A |
+B3 |
+A2F |
+G2A |
+(B2c |
+A G A) |
+F2).('f |
+e2f |
+(d e) f |
+e3 |
+f2).('f |
+e2f |
+d2e |
+c2d |
+B2A |
+B2c |
+B3 |
+A2).('F |
+(G F) G |
+(A G) B |
+A2c |
+=B2c |
+(d e) f |
+e2).('c |
+d2c |
+B2A |
+B2d |
+c2B |
+A2(B/ A/) |
+G3 |
+F3- |
+F2) |]

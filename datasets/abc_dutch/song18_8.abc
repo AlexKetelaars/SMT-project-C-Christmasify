@@ -1,0 +1,46 @@
+X: 17007
+T: [Second air Bellerophon]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1461339541
+%%humdrum-veritas-data 4235173694
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e [I:setbarnb 1]|
+a>^ga |
+efd |
+e>dc |
+d!mordent!!mordent!B3/c/ |
+!mordent!!mordent!c3/B// c//A) |
+.('e>e^f |
+g>a^f |
+g!mordent!!mordent!e3/^f/ |
+!mordent!!mordent!^d>bb |
+g!mordent!!mordent!^f3/e/ |
+e2) |
+.('e [I:setbarnb 12]|
+!mordent!!mordent!^c>de |
+fd3/c/ |
+!mordent!!mordent!B>AG |
+cAf |
+!mordent!!mordent!f>ge |
+a!mordent!!mordent!d3/c/ |
+c2).('e |
+e>^fg |
+!mordent!!mordent!^f2f |
+!mordent!!mordent!^f>g a/ b/ |
+!mordent!!mordent!^g3/^f// e// d/ e/ |
+c!mordent!!mordent!B3/A/ |
+A2).('e |
+e>^fg |
+!mordent!!mordent!^f2f |
+!mordent!!mordent!^f>g a/ b/ |
+!mordent!!mordent!^g3/^f// e// d/ e/ |
+c!mordent!!mordent!B3/A/ |
+A2) :|]

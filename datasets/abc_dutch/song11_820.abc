@@ -1,0 +1,50 @@
+X: 10819
+T: ‘t Is die wilt hooren in een lied Al van een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3266611735
+%%humdrum-veritas-data 196124196
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c [I:setbarnb 1]|
+AB |
+c(e/ d/) |
+cd |
+!fermata!e).('d |
+c(d/ e/) |
+(f/ g/) f/ e/ |
+dd3// d// |
+!fermata!d).('(B/ c/) |
+dd |
+dc/ B/ |
+ce |
+dc |
+z).('c |
+e(e/ d/) |
+cc/ B/ |
+cd |
+A!fermata!G |
+z).('G |
+c(B/ A/) |
+G(c/ d/) |
+(e/ d/) c/ d/ |
+!fermata!c).('G |
+c(d/ e/) |
+f/> g/ f/ e/ |
+dd |
+!fermata!d).('G/ B/ |
+dd |
+d/ c/ B/ c/ |
+de |
+d!fermata!c |
+z).('(c/ d/) |
+ee/ d/ |
+c(c/ d/) |
+c3/d/ |
+A!fermata!G) |]

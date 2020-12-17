@@ -1,0 +1,36 @@
+X: 4667
+T: Des maandags des maandags wou ik zo graag ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3052849637
+%%humdrum-veritas-data 1920532761
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d3B2c |
+d3B2).('c |
+e2ee2e |
+[M:9/8]f2f f f) .('fa2g |
+[M:6/8](f3e3) |
+d3-d2).('d |
+g2gd2d |
+d2cB2).('B |
+c2Bc2d |
+e3d3) |
+.('d d d e e e |
+f2ag3) |
+.('a a a f f f |
+e2f g) .('B c |
+d d d d d d |
+d d d d d) .('d |
+d B AG3) |
+.('d d d e e e |
+f2ag3) |
+.('a a a f f f |
+e2fg2) |]

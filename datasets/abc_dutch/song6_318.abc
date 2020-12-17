@@ -1,0 +1,45 @@
+X: 5317
+T: Klein zieltje, klein zieltje zat achter de d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 2498016519
+%%humdrum-veritas-data 3774967366
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Ab clef=treble
+.('d [I:setbarnb 1]|
+F F F d c B |
+A G A F z) .('d |
+F F F d c B |
+A G A F z) .('f |
+F F F d c B |
+A G A F z) .('f |
+F F F d c B |
+A G A F z) .('C |
+F F F F F G |
+A2G F z) .('C |
+F F F F F G |
+A2G F z) .('f |
+F F F d c B |
+(A G) A F z) .('E |
+A2AA2B |
+c c B A z) .('c |
+B B B (B c) d |
+c2B A z) .('E |
+A A A (A B) c |
+c c B A z) .('A |
+B B B B c d |
+c2B A z) .('E |
+A2AA2B |
+c2B A z) .('A |
+A/ A/ A A (B c) d |
+c2B A z) .('C |
+C/ F/ F G A A A |
+A G A F z) .('d |
+F F F d c B |
+(A G) AF2z) |]

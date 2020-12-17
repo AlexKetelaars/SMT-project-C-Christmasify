@@ -1,0 +1,27 @@
+X: 2798
+T: Nederlanders wilt aanhoren 't Is geschied op [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 2256892052
+%%humdrum-veritas-data 1462397420
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('BA/ [I:setbarnb 1]|
+G3/G3/AA/ |
+B3/G3/).('ed/ |
+d3/-dB/AA/ |
+B3/-B).('d/dd/ |
+f3/e3/cd/ |
+e3/d).('B/BG/ |
+d3/-dB/Ac/ |
+B3/-B).('d/dd/ |
+f3/e3/cd/ |
+e3/d).('B/BG/ |
+d3/-dB/Ac/ |
+B3/-B) |]

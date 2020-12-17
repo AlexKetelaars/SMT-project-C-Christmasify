@@ -1,0 +1,30 @@
+X: 13058
+T: Klein klein Jezuken heb je zulk een kou
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 2947570827
+%%humdrum-veritas-data 277219778
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G3c3 |
+G2FE2z |
+F2ED2D |
+C3-C2).('C |
+D2D D D D |
+E3D2D |
+E2E^F2F |
+G3-G2).('G |
+G G Gc2c |
+G3E2).('G |
+G G G c c c |
+G3E2).('G |
+G G Gc2c |
+G G FE2).('G |
+F2ED2D |
+C3-C3) |]

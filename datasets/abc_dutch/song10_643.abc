@@ -1,0 +1,43 @@
+X: 9642
+T: De kleeremakers op hun feest, Die hielden gr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 1842278426
+%%humdrum-veritas-data 682210454
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F F |
+F F F) .('A |
+A A G E |
+F2z) .('C |
+F F F F |
+F F F) .('A |
+A A G E |
+F2z) .('F |
+A A A A |
+A A F F) |
+.('B/ B/ B B/ B/ B |
+d d c B/) .('B/ |
+A A G E |
+F2z) .('F |
+A A A A |
+A A F F) |
+.('B/ B/ B B/ B/ B |
+d> d c B/) .('B/ |
+A A G E |
+F2z2) |
+.('F/ F/ F/ A/ c F |
+E Gc2) |
+.('E G c E |
+G2F) .('f |
+F> F F f |
+F> FF2) |
+.('F A c F |
+G2F) |]

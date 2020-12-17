@@ -1,0 +1,23 @@
+X: 9615
+T: Wie gaat er mee naar Luxie, Luxie, over de h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 768634233
+%%humdrum-veritas-data 1836329652
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B,/ [I:setbarnb 1]|
+EF/GA/ |
+B3/B3/) |
+.('cc/cc// c// |
+BB/B).('B/ |
+AA/AA/ |
+G3/G3/) |
+.('FF/ F/ F/ F/ |
+E3/z) |]

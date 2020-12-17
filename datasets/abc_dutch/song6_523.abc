@@ -1,0 +1,31 @@
+X: 5522
+T: Welaen, kameraden, ten stryde gesneld, Voor  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3738776342
+%%humdrum-veritas-data 3661040882
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F2 [I:setbarnb 1]|
+B2B> B (B F) D B, |
+F2F> FF2).('(F A) |
+c2B> ce2d3/ d/ |
+d2c2z2).('F2 |
+B2B> B (B F) D B, |
+F2F> FF2).('(F A) |
+c2B> ce2d3/ d/ |
+d2c2z2).('c2 |
+c2c> cc2B3/ c/ |
+d2c> cB2).('(B3/ d/) |
+f2d> Bf2d3/ B/ |
+F2F> FF2).('c2 |
+c2c> cc2B3/ c/ |
+d2c> cB2).('(B d) |
+f2d> Bf2d3/ B/ |
+F2G> AB2z2) |]

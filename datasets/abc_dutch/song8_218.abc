@@ -1,0 +1,34 @@
+X: 7217
+T: Laet ons met eenen blyden geest Vieren deze  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 916344093
+%%humdrum-veritas-data 587655951
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('Fccd |
+c{c2}B{B2}Az) |
+.('cAGA |
+FG{F2}Ez) |
+.('FGAB |
+A{A2}GFf |
+ecd=B |
+c2z).('F |
+FGAc |
+c3z |
+defc |
+d2B2) |
+.('BcdB |
+c2A2 |
+ABcA |
+B2G).('B |
+AFGE |
+(f2d)B |
+AFGE |
+F3z) |]

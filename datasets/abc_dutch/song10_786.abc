@@ -1,0 +1,30 @@
+X: 9785
+T: Kareltje, Kareltje, tjip, tjip, tjip! En had [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 2096931198
+%%humdrum-veritas-data 4216513485
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c A c c A c |
+f2cA2).('c |
+B A B G A B |
+c2AF2z) |
+.('(c A) c (c A) c |
+f2cA2).('A |
+B d c B A G |
+F3-F2z) |
+.('f2ed2c |
+d2dc3) |
+.('f2ed2c |
+d d dd3) |
+.('(c A) c (c A) c |
+f2cA3) |
+.('B d c B A G |
+F3-F3) |]

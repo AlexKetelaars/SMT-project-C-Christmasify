@@ -1,0 +1,59 @@
+X: 532
+T: So daaltme plots van boven neer! Een schoone [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 682849636
+%%humdrum-veritas-data 1967718180
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=96
+K: C clef=treble
+.('e2 [I:setbarnb 1]|
+e4d2 |
+c4G2 |
+G4F2 |
+E4).('G2 |
+A2>B2c2 |
+c2e2d2 |
+c6) |
+.('c2>d2e2 |
+d4c2 |
+B4A2 |
+G4F2 |
+(E2>F2GE) |
+(A2>B2cd) |
+(fed4) |
+c4).('e2 |
+e4d2 |
+c4G2 |
+G4F2 |
+E4).('G2 |
+A2>B2c2 |
+c2e2d2 |
+c6) |
+.('c2>d2e2 |
+d4c2 |
+B4A2 |
+G4F2 |
+(E2>F2GE) |
+(A2>B2cd) |
+(fed4) |
+c4).('C2 |
+C4D2 |
+E2>F2G2 |
+G6 |
+G4c2 |
+c6 |
+A2>).('B2c2 |
+d6 |
+B2>c2d2 |
+e6 |
+c2>d2e2 |
+f4d2) |
+.('g2>f2ed |
+c(ed4) |
+c6) |]

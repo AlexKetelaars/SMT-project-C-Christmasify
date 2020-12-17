@@ -1,0 +1,35 @@
+X: 5617
+T: Des winters als het regent, dan zijn de paed [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 1517207238
+%%humdrum-veritas-data 2110166951
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C2 [I:setbarnb 1]|
+F2 F2 G2 G2 |
+A2> G2 (F2 E2) |
+D2 G2 E2 C2 |
+F2> C2 !fermata!F2) .('C2 |
+F2 F2 G2 G2 |
+A2> G2 F2 E2 |
+D2 G2 E2 C2 |
+F4z) .('F F F |
+G2 c2 z B A G |
+A2 F2 z) .('F E F |
+G2 c2 z B A G |
+A2 F2 z) .('C D E |
+(F E) F G (A G) F E |
+D2 D2 z) .('D D D |
+C2 C2 E2 E2 |
+F4z) .('C D E |
+(F E) F G (A G) F E |
+D2 D2 z) .('D D D |
+C2 C2 E2 E2 |
+F4z4) |]

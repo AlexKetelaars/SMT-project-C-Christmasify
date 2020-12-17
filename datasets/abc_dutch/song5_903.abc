@@ -1,0 +1,23 @@
+X: 4902
+T: En Amsterdam die groote stad Die is gebouwd  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 395804242
+%%humdrum-veritas-data 1707384099
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('E [I:setbarnb 1]|
+GGAG |
+G(F/ E/)D).('G |
+AGEC |
+G2G2) |
+.('CC/> D/E2 |
+DD/> E/F3/).('A/ |
+G>GF3/G/ |
+E3) |]

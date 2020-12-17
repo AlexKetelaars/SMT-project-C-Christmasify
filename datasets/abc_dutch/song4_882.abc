@@ -1,0 +1,38 @@
+X: 3881
+T: Daar was laatst een boerinnetje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1987836249
+%%humdrum-veritas-data 2924243384
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B// c// [I:setbarnb 1]|
+d/ d/ d/dd/ |
+e3/d).('g/ |
+fa/ea/ |
+d3/-d).('B// c// |
+d/ d/ d/dd/ |
+e3/d).('g/ |
+f/ f/ a/ea/ |
+d3/-d).('d/ |
+aa/ab/ |
+(af/)d).('c/ |
+Bd/ga/ |
+b3/-b).('b// b// |
+a^g/ab/ |
+(af/)d).('e/ |
+ff/ee/ |
+d3/).('Bc/ |
+dd/de/ |
+d3/).('ga/ |
+ba/gf/ |
+[M:9/8]f3/e3/).('ge/ |
+[M:6/8]d3/ga/ |
+b3/a3/ |
+g3/-g) |]

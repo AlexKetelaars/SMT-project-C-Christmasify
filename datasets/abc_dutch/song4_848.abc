@@ -1,0 +1,23 @@
+X: 3847
+T: Het was op een Witte Donderdagavond Toen onz [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 308965441
+%%humdrum-veritas-data 2883125396
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>G2 G G A/ A/ A |
+G4G2).('A B |
+c2B cd2c B |
+A2z2).('(d3e) |
+e2d cB2A G |
+(c2d2)d2z) .('c |
+B2B2(A G) (A B) |
+G4z2) |]

@@ -1,0 +1,26 @@
+X: 8968
+T: Te Duinkerk gaat het al verkeerd, Te Duinker [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 585989204
+%%humdrum-veritas-data 879720648
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G G B [I:setbarnb 1]|
+d2(c B) A d |
+[M:2/4]B) .('G G B |
+[M:3/4]d2(c B) A d |
+B2z) .('B B A |
+[M:2/4]B2c2 |
+d B (3G z) .('G |
+(3G G G (3G G G) |
+[M:3/4](3:2:5.('A2 A A z B B A |
+[M:2/4]B2c2 |
+[M:3/4]d B (3:2:5G z) .('B A2 A |
+G2z) |]

@@ -1,0 +1,35 @@
+X: 17231
+T: Verdrukte zielen, die veel lyd, Of die 't ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 4067449378
+%%humdrum-veritas-data 3846844295
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('z/zB<BA/ |
+G>BAG |
+F3).('F |
+GGA3/A/ |
+B3).('d |
+cBAB |
+c>cc3/).('d/ |
+BcA3/G/ |
+G3).('G |
+F>GF3/d/ |
+^cdd3/c/ |
+d3).('(B/ c/) |
+d_e=fB |
+_edc3/B/ |
+A3).('d |
+ABF3/F/ |
+G>BAG |
+F3).('D |
+GAB3/c/ |
+d(c/ B<)AG/ |
+G3/) |]

@@ -1,0 +1,32 @@
+X: 17027
+T: Second Air
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2519075513
+%%humdrum-veritas-data 2723699027
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f2-f/ A/ =B/ c/ |
+!mordent!!mordent!=BG).('g3/g/ |
+f>ff3/g/ |
+!mordent!!mordent!e>e).('a3/a/ |
+a>bg3/g/ |
+!mordent!!mordent!g>).('ff3/f/ |
+f>fe3/e/ |
+e2).('d3/d/ |
+d3g |
+=Bc!mordent!!mordent!c3/B/ |
+c4) |
+.('c>ee3/e/ |
+f>c_e3/f/ |
+d>).('fb3/b/ |
+b>a!mordent!!mordent!a3/g/ |
+g3).('c' |
+ef!mordent!!mordent!f3/e/ |
+f4) |]

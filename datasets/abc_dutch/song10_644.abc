@@ -1,0 +1,28 @@
+X: 9643
+T: En al die willen te kapen varen, te kapen va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3120822878
+%%humdrum-veritas-data 2943814213
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('CC2E [I:setbarnb 1]|
+G G GA2A |
+G2G/) .('G/A2A |
+G2GF2F |
+E E ED2D |
+C3).('C2E |
+G2G A A A/ A/ |
+G2>).('F2 F F |
+E2>D2 D D |
+(A2G)).('C2E |
+G2G A A A/ A/ |
+G2>).('F2 F F |
+E2>E2 D D |
+C2) |]

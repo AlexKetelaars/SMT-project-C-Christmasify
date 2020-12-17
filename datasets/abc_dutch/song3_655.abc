@@ -1,0 +1,26 @@
+X: 2654
+T: Zolang de boom zal bloeien de lelie heerlijk staan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 1786530039
+%%humdrum-veritas-data 3365360641
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('(G2A2)(B c) (d e)d2B2 |
+[M:4/4](A2F2)D4) |
+[M:6/4].('(G2A2)(B c) (d e)d2B2 |
+[M:4/4]A6).('(A B) |
+c2d2e2e2 |
+[M:6/4]d> c B dG2).('(A B)c2(d c) |
+B4(A6B) A |
+(G2B4<d4)).('d2 |
+[M:4/4]e2(e f)g2(f e) |
+d> d d dG2).('(A B) |
+c2(d c)B4 |
+A2(B A)G4) |]

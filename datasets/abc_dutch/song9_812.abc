@@ -1,0 +1,35 @@
+X: 8811
+T: Liefhebbers hoort, hoe een Vlaamsche meid Vo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 1591734767
+%%humdrum-veritas-data 3438984107
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G,CA |
+G2C3// C// |
+(DF)B, |
+C3) |
+.('E/> E/DA |
+G2C |
+(DC)D |
+G,3) |
+.('EEG |
+(G>F)!fermata!D) |
+.('(CD)E |
+A2A |
+G2G |
+C3) |
+.('E/> E/EG |
+!fermata!GD).('(B,/ C/) |
+DAG |
+FB,!fermata!C) |
+.('DEA |
+GAG |
+C3) |]

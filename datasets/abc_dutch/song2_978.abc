@@ -1,0 +1,27 @@
+X: 1977
+T: Daar achter in die velden Daar staat een molenrad
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1256098825
+%%humdrum-veritas-data 4183430824
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>G2A2B2 |
+G4G2).('d2 |
+d2>d2c3B |
+A8) |
+.('B4G> G A3/ B/ |
+B> B A> G F> E) .('D3/ F/ |
+A2A2G2E2 |
+D8) |
+.('B4G> G A3/ B/ |
+B> B A> G F> E) .('D3/ F/ |
+A2A2G2E2 |
+D6) |]

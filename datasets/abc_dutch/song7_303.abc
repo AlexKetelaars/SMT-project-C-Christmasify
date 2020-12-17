@@ -1,0 +1,63 @@
+X: 6302
+T: Wals
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 4194255378
+%%humdrum-veritas-data 2687125435
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(d2g2f2) |
+c4z2 |
+(c2f2e2) |
+B4z2) |
+.('(B2e2d2) |
+(A2d2c2) |
+(F2B2A2) |
+G2B2d2) |
+.('(d2g2f2) |
+c4z2 |
+(c2f2e2) |
+B4z2) |
+.('(B2e2d2) |
+(A2d2c2) |
+(F2B2A2) |
+G2z2z2) |
+[K:D] .('A2A A A A |
+A2(B c d e) |
+f2f f f f |
+f2(g f e f)) |
+.('(a g) (g f) (f e) |
+(e d) (d c) (c B) |
+(B A) ^G A G A |
+(B4A2)) |
+.('A2A A A A |
+A2(B c d e) |
+f2f f f f |
+f2(g f e f)) |
+.('(a g) (g f) (f e) |
+(e d) (d c) (c B) |
+(B A) ^G A G A |
+B A ^G A (f e) |
+d2x4) ||
+[K:G] .('(d2b2g2) [I:setbarnb 35]|
+f4z2 |
+c2(A3e) |
+d4z2) |
+.('d2(e3d) |
+d4A2 |
+A2(d3c) |
+B6) |
+.('(d2b2g2) |
+f4z2 |
+c2(A3e) |
+d4z2) |
+.('(d2^c2)d2 |
+g4e2 |
+F2(B3A) |
+G2z2z2) |]

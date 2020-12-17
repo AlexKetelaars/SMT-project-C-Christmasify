@@ -1,0 +1,15 @@
+X: 233
+T: De kinderen vander wijsheyt Sijnder gherecht [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 1286613956
+%%humdrum-veritas-data 77641659
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('G2AAA2B2A(B2A/ G/)F2).('zFGG(A/ G/) (A/ B/)c(C/ D/) (E/ F/)(GF/ E/F)G2).('G2AAA2B2A(B2A/ G/)F2).('zFGG(A/ G/) (A/ B/)c(C/ D/) (E/ F/)(GF/ E/F)G2).('zGGGA>AA).('G(FE/ D/E2)DAc>BA(G2F)G2!fermata!A2).('G2AAA2B2ABB(A/ G/)F2).('zFGGA/ G/ A/ B/(cC/ D/ E/ F/GF/ E/F)G4) |]

@@ -1,0 +1,27 @@
+X: 4708
+T: Vrijen is algemeen dat ziet men alle dagen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 1472874497
+%%humdrum-veritas-data 897140940
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G D B, DG2).('B2 |
+A> G F E ED2).('D |
+G> D B, DG2).('B2 |
+A G F E ED2).('D |
+A> G A B AG2).('D |
+B> B A B2<c2).('D/ D/ |
+B> B A B d c) .('B A |
+G D B> A (G D G)) .('G |
+G> G G A GF2).('D |
+A> A A B AG2).('D |
+B> B A B d) .('c B A |
+G D B> AG2) |]

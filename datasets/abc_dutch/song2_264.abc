@@ -1,0 +1,30 @@
+X: 1263
+T: Ran plan plan zou je willen weten Hoe een Ch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 449782157
+%%humdrum-veritas-data 3126175756
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B2B2z2) |
+.('B> A G> AB2B2) |
+.('F FF2B2B2 |
+G2F2E2z2) |
+.('G2G2E2E E |
+G2G2E2z2) |
+.('G4A4 |
+B6z2) |
+.('B AG2B AG2 |
+B2B2A ^GA2) |
+.('A A A AA2A B |
+c2B AB4) |
+.('B AG2B AG2 |
+B2B2A ^GA2) |
+.('A A A AA2A B |
+c2B AG4) |]

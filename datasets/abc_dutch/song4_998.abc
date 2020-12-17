@@ -1,0 +1,23 @@
+X: 3997
+T: En het is van Mieke Stout Ze smeert haar gat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 1962781247
+%%humdrum-veritas-data 2248497810
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('d/ d/ [I:setbarnb 1]|
+d d e e |
+d3).('d |
+d d e e |
+d3).('d |
+c c c c |
+B2d3/) .('d/ |
+A c B A |
+G3) |]

@@ -1,0 +1,39 @@
+X: 9310
+T: Neen, muziek van Cherubini is me veel te vee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3425024682
+%%humdrum-veritas-data 1260240854
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/8
+Q: 1/4=120
+K: F clef=treble
+.('c B [I:setbarnb 1]|
+A ^c d =c |
+=B ^d e =d |
+c e f3/ d/ |
+c2=B) .('G/ G/ |
+G G/ A/ =B G/ G/ |
+G c/ d/ e c/) .('G/ |
+G G/ A/ =B G/ G/ |
+c>) .('C C E/ E/ |
+F _E/ E/ D ^F/ F/ |
+G F/) .('F/ E ^G/ G/ |
+A G/ G/ F D/ D/ |
+G2z) .('G |
+F D z G |
+E C z G |
+F D z G |
+E C z) .('C |
+A G (^F D |
+B A ^G E |
+c B A G/ F/ |
+[M:5/8]E2D)) .('G3/ G/ |
+[M:4/8](G/ A/) B/ c/ d B |
+[M:5/8](ce2)).('G3/ G/ |
+[M:4/8](G/ A/) B/ c/ (d/ f/) (B/ d/) |
+c2) |]

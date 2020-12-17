@@ -1,0 +1,30 @@
+X: 16267
+T: De Liefde kan ons vernoegen. Schoon zy ons p [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 4138334586
+%%humdrum-veritas-data 3804419577
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('z z GB2c |
+d A B^F2F) |
+.('_e e e e d d |
+c> d BA3) |
+.('z B> AG2G |
+c2BA2A) |
+.('f> e d c> d e |
+d> c BB3) |
+.('A B c d> _e f |
+_e> f dc2c) |
+.('f> e d ^c> d e |
+e> d ^cd3) |
+.('d> d d _e e d |
+c> d BA2A) |
+.('d> d d G G c |
+B> A GG3) :|]

@@ -1,0 +1,28 @@
+X: 10580
+T: Zie, daar komen onze broedertjes aan, (bis)  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 2427048651
+%%humdrum-veritas-data 1844505372
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F2>C2 F> F G G |
+A2A GF4) |
+.('A2>G2 A> G A B |
+c2c BA2).('c c |
+d2c2B2A2 |
+(A2G2)G2).('A3/ G/ |
+F> F F> FF2G3/ G/ |
+A> A A> AA2).('A3/ B/ |
+c2>B2 A G) .('A3/ B/ |
+c B A G A A/ A/A2) |
+.('A G A Bc2c2 |
+F6x2) ||
+.('A B c GA2G2 [I:setbarnb 14]|
+F6) |]

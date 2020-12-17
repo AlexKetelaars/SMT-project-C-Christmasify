@@ -1,0 +1,23 @@
+X: 1333
+T: Adieu Sophie hier is mijn hand Gevoel mijn k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 1930327824
+%%humdrum-veritas-data 2246512915
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+F/ A/AA |
+G/ B/B).('B |
+A/ B/ce |
+d2).('B |
+d/ d/cA |
+c/ c/B).('G |
+B/ A/cF |
+G2) |]

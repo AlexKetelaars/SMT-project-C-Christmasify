@@ -1,0 +1,23 @@
+X: 3490
+T: En ik ging eens uit wandelen Ja, uit het wandelen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 3401940999
+%%humdrum-veritas-data 3427042344
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d3// d// [I:setbarnb 1]|
+d c B A/> A/ G) .('d |
+(d c) B A/> A/ G) .('e/ e/ |
+e c e e c e |
+g f gd3) |
+.('d f ag3 |
+(A g>) f e d) .('d/ e/ |
+f e d f e d |
+A/> A/ c BG2) |]

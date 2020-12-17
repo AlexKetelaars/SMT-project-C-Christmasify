@@ -1,0 +1,30 @@
+X: 9048
+T: Groene kralen, witte zwanen, Wie wil mee naa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 528573664
+%%humdrum-veritas-data 3960604674
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('AAFD |
+AAFD) |
+.('AABB |
+A/ A/AFD) |
+.('G/ G/GGD |
+G2GD |
+GGGD |
+G2Gz) |
+.('BAGF |
+AAA2 |
+BAGF |
+EED).('B |
+A2FB |
+A2F).('A |
+dAGF |
+EED2) |]

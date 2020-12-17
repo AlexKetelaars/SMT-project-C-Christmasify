@@ -1,0 +1,30 @@
+X: 9170
+T: Klein, klein Jezuken, Heb je zulken kou?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 4194563645
+%%humdrum-veritas-data 1382843791
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A3d3 |
+A2GF2z) |
+.('G2FE2E |
+D2>-D2 z) .('D |
+E2E E E E |
+F3E2).('E |
+F2F^G2G |
+A2>-A2 z) .('A |
+A A Ad2d |
+A3F2).('A |
+A A A d d d |
+A3F2).('A |
+A A Ad2d |
+A A GF2).('A |
+G2FE2E |
+D6) |]

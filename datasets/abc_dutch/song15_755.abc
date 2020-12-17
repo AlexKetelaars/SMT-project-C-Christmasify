@@ -1,0 +1,58 @@
+X: 14754
+T: [Ah que je sens d’impatience]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2508953451
+%%humdrum-veritas-data 3274318018
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d [I:setbarnb 1]|
+A2BA2A |
+G F G F F A |
+d2dB2B |
+c B cd2).('d |
+A2BA2A |
+G F G F F A |
+d2dB2B |
+c B cd2).('f |
+e f ee2e |
+d3B2B |
+c2cd2d |
+!trill!!trill!c3B2).('e |
+e f ee2e |
+a3f2d |
+c3!trill!!trill!B3 |
+A3z2).('A |
+G3F3 |
+B3A3 |
+d2cB2A |
+A2GG2).('F |
+G3F3 |
+B3A3 |
+A2GG2F |
+E3z2).('A |
+F F FE2A |
+F F FE2).('a |
+f f fe2a |
+f f fe2).('a |
+A2aA2a |
+A3-!fermata!A2).('A |
+f3d2d |
+B3A2A |
+B2B c B c |
+d3z2).('A |
+f3d2d |
+B3A2A |
+B2B c B c |
+d3z2).('a |
+g2ge2e |
+f3z2a |
+g2ge2e |
+d d d d d d |
+d3z2) |]

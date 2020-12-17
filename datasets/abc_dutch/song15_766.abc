@@ -1,0 +1,46 @@
+X: 14765
+T: [NLB179313_01]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1207163430
+%%humdrum-veritas-data 989564592
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('f2f |
+c2c |
+B2B |
+A2A |
+d c B |
+A G F |
+c c c |
+c3) |
+.('f f f |
+c c c |
+B B B |
+A A A) |
+.('d d d |
+e e e |
+f3 |
+f3) |
+.('c'3 |
+c' b a |
+b b b |
+b3) |
+.('c'2c' |
+a2a |
+g g g |
+g3) |
+.('f f f |
+f3 |
+d d d |
+d3 |
+c d c |
+B A G |
+F3 |
+F3) :|]

@@ -1,0 +1,38 @@
+X: 15784
+T: Mars Van de Graaf van Sakse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 3068681947
+%%humdrum-veritas-data 1240673209
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('c2c2 |
+AA/ B/AB |
+c2B2 |
+A3).('e |
+feed |
+dccB |
+AB/ c/dc |
+B4) |
+.('B2c2 |
+dc/ d/B2 |
+c2d2 |
+ed/ e/c2) |
+.('eeff |
+eedd |
+ccd2 |
+c2B2) |
+.('eeee |
+ef/ g/a2 |
+eeee |
+ef/ g/a2) |
+.('ee/ f/ed |
+c2B2 |
+AA/ B/cB |
+A4) |]

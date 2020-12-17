@@ -1,0 +1,46 @@
+X: 14702
+T: Trio de L’opera l’Amant Statue
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 82968095
+%%humdrum-veritas-data 3296108334
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=132
+K: C clef=treble
+.('c2G3/G/ |
+CEGE/ E/ |
+FFGG/ G/ |
+c2z2) |
+.('c2G2 |
+CEG^F |
+Ge/ c/d2 |
+GG/> G/Gz) |
+.('G2G2 |
+c3G/ G/ |
+FEDC |
+GG/> G/Gz) |
+.('A2A2 |
+dd/> d/GG |
+c/ c/ A/ F/G2 |
+C2z).('c/ d/ |
+e>fed |
+c3/d// e//dc/ B/ |
+AfdB |
+c3).('c/ d/ |
+e>fed |
+c3/d// e//dA/ c/ |
+B/ G/ c/ e/G^F |
+G3z) |
+.('f3/g// f//ed |
+(c>d)eG/ A/ |
+Bcde |
+e2d).('e/ f/ |
+g3/a// g//fe |
+f3/g// f//ed |
+e/ c/ f/ a/cd |
+c3z) |]

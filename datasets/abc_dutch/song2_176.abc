@@ -1,0 +1,53 @@
+X: 1175
+T: Tingelitse tingelitse mit twei golden klitse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 1769313026
+%%humdrum-veritas-data 324609967
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('G/ G/ [I:setbarnb 1]|
+c G G/ G/ |
+c G) .('c |
+B A G |
+c G) .('c |
+B2A |
+G3) |
+.('G2G |
+(c d) e |
+(c B) A |
+G3) |
+.('c2c |
+c2A |
+B B B |
+B2).('G |
+A A A |
+c B A |
+A2G |
+G2).('c |
+B2A |
+G2).('G |
+A2A |
+d d d |
+(c B) A |
+G3) |
+.('c c c |
+c2A |
+B B B |
+B2).('G |
+A A A |
+c B A |
+A2G |
+G2c |
+B2A |
+G2).('G |
+A A A |
+d d d |
+(c B) A |
+G2) |]

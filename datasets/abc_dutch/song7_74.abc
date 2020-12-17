@@ -1,0 +1,30 @@
+X: 6073
+T: Menuet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 724824830
+%%humdrum-veritas-data 3680249135
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d4a2 |
+f2e2f2 |
+d2e2f2 |
+g2f2e2 |
+d e d c B d |
+c B c d e f |
+d c B A ^G B |
+A6) |
+.('A G A B c A |
+B c d BG2 |
+B A B c d B |
+c d e cA2 |
+e d e f g e |
+f g a fd2 |
+e g f e d c |
+d4) |]

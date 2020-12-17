@@ -1,0 +1,47 @@
+X: 3
+T: Heyl-gierigh mensch, wiens grondt-gedachten  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:28
+%%humdrum-veritas 4240771194
+%%humdrum-veritas-data 951949461
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=92
+K: F clef=treble
+.('G4 |
+G2B2 |
+A4 |
+d4 |
+c2d2 |
+B2c2 |
+A4) |
+.('A4 |
+A2B2 |
+c4 |
+d4 |
+B2c2 |
+A4 |
+G4) |
+.('c4 |
+c2c2 |
+d2f2 |
+e2).('d2 |
+d2^c2 |
+d4) |
+.('AGAB |
+c2z2) |
+.('GABc |
+d2z2) |
+.('ABcA |
+B2G2 |
+^F2G2 |
+A4) |
+.('d4 |
+cBAG |
+^F2G2 |
+A4 |
+G4) |]

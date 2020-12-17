@@ -1,0 +1,30 @@
+X: 16310
+T: Bloemen, waerdig om te plukken, Zegt wie kwa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2497815099
+%%humdrum-veritas-data 2182093349
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('e4A2 |
+!trill!!trill!B4A2 |
+(B c/ d/c2)B2 |
+(3(c d e)A2z2) |
+.('c4(3(c B A) |
+B4(3(B A G) |
+(3(A G Fc2B) A |
+(3(G F E)E2z2) |
+.('(E F G A) (B c) |
+(B3c/ d/)c2 |
+(d e/ f/e2)d2 |
+(d2c4)) |
+.('(f d c B) (^A B) |
+E4d2 |
+(3(c B A!trill!!trill!B3)A |
+A6) :|]

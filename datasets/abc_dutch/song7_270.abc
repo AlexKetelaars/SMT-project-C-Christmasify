@@ -1,0 +1,30 @@
+X: 6269
+T: Welkom, ja welkom gegroet op den grond, Waar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 1686318425
+%%humdrum-veritas-data 1238498080
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F2G AB2c B |
+A2A ce2).('(d c) |
+B2(d c) (e d) c B |
+c4z2).('c2 |
+B2(B A)G2A B |
+c2c BA2).('A B |
+c2B AG2A G |
+F4z) .('F A B |
+c4(B A) G F |
+B2B d2<F2).('F |
+c2c c (e d c) B |
+c4z) .('F B c |
+d2>c2 (e d) (c B) |
+G2c de2).('(d c) |
+B2B cd2d c |
+B4z4) |]

@@ -1,0 +1,25 @@
+X: 5379
+T: En hij komt nooit weerom! Malbroek die vaart [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 1773049252
+%%humdrum-veritas-data 4233813152
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2GA2A |
+G3z2).('F |
+E2E (E D) E |
+F3E2).('E |
+D2D (D C) D |
+(E2D)C2).('D |
+E2E (E D) E |
+F2GA2).('A |
+G2FE2D |
+C3z2) |]

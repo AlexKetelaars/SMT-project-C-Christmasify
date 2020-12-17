@@ -1,0 +1,30 @@
+X: 16316
+T: De barre wintertyd, Die ‘t bosch berooft van [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3175754064
+%%humdrum-veritas-data 943161053
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('B2 A c B A |
+G2).('g4 |
+e d c2 B2 |
+!trill!!trill!B2 A2) .('d2 |
+e g (f e) (d ^c) |
+(d ^c) d2) .('A2 |
+B g (f e) (d ^c) |
+d6) |
+.('d2 f d a c |
+B2 c2) .('d2 |
+e c A2 G2 |
+!trill!!trill!G2 F2) .('D2 |
+D E F G A B |
+c2>) .('B2 c A |
+B G A2 F2 |
+G6) :|]

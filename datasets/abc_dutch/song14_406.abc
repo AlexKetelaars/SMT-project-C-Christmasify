@@ -1,0 +1,62 @@
+X: 13405
+T: No29
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:34
+%%humdrum-veritas 466522793
+%%humdrum-veritas-data 1611937596
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('g g g |
+b2d' |
+(d' c') .a |
+a3) |
+.('b b d' |
+g2b |
+(a f) d' |
+(d' ^c') .=c') |
+.('(b g) .d |
+g b d' |
+d' c' b |
+a2c') |
+.('b d' g |
+d'/ c'/ b/ a/ g/ f/ |
+g g b |
+g2z) |
+.('c' c' c' |
+a2c' |
+b d' b |
+g2b) |
+.('d' c' b |
+b g b |
+a2{c'} b |
+a2z) |
+.('b b b |
+g b d' |
+d' c' a |
+a3) |
+.('b b d' |
+g2b |
+a g d' |
+(d' ^c' =c')) |
+.('b g d |
+d g b |
+d'/ c'/ b/ c'/ d'/ c'/ |
+a2c') |
+.('b/ d'/ e'/ d'/ c'/ b/ |
+c'/ b/ a/ g/ f/ a/ |
+g2b |
+g2z) |
+.('a a b |
+d' c' b |
+a a/ b/ a/ b/ |
+a2f/ g/) |
+.('a a b |
+d' c' b |
+a a/ b/ a/ b/ |
+g2z) |]

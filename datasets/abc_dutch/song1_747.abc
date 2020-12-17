@@ -1,0 +1,37 @@
+X: 747
+T: Al wat den mensch bejegent Ist ongeval of druck,
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 930005918
+%%humdrum-veritas-data 3298733561
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('G [I:setbarnb 1]|
+G2A |
+(B>A)G |
+d3 |
+c2).('c |
+(d>e)f |
+B2A |
+B2).('f |
+f2g |
+f2d |
+d2c |
+B2).('g |
+g2a |
+b2a |
+g3 |
+d2).('g |
+(f>g)f |
+_e2d |
+c3) |
+.('f2_e |
+(d>c)B |
+c2A |
+G3) |]

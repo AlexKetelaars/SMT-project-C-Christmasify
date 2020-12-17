@@ -1,0 +1,19 @@
+X: 2424
+T: Er was er eens een meisje O jongens hoor eens aan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 2380438531
+%%humdrum-veritas-data 139806935
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> G G A (G F) E) .('D |
+G> A B A2<D2).('B |
+A d d d (c B) A) .('G |
+F> D B> AG3) |]

@@ -1,0 +1,26 @@
+X: 14896
+T: Unter euch, ihr liebreich stillen Schatten S [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3735883780
+%%humdrum-veritas-data 1805296084
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=104
+K: E clef=treble
+.('B (G/ A/)B2c2 |
+c B B A A G |
+B (G/ A/)B2c2 |
+c B B A A G) |
+.('a g g f f e |
+(d/ e/) (f/ d/)!fermata!e4) |
+.('f (d/ e/) f b^a2 |
+(b/ f/) (d/ B/) (d/ B/) F/ d/c2 |
+f (d/ e/) f b^a2 |
+(b/ f/) (d/ B/) (d/ B/) (F/ d/)c2) |
+.('g f f e e d |
+d (d/ c/) c (c/ B/)B2) |]

@@ -1,0 +1,29 @@
+X: 9719
+T: Gij vrienden wilt dees liefdestuk aanhooren  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 4148901701
+%%humdrum-veritas-data 3284053044
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A [I:setbarnb 1]|
+AGAG |
+FGFE |
+(D2A,2) |
+!fermata!D2z).('A, |
+DDCC |
+FFEE |
+!fermata!D2z).('A |
+ccAA |
+GGA2 |
+FFE2 |
+D2z).('A, |
+DEF(G/ F/) |
+EDEC |
+!fermata!D2z2) |]

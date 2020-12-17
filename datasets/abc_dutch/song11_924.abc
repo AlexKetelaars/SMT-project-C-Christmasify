@@ -1,0 +1,38 @@
+X: 10923
+T: Wat zag ik van verre komen? Een meisjen op e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 4085457199
+%%humdrum-veritas-data 3289167365
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c2A2 |
+A3A |
+B3c |
+d2c2) |
+.('c2A3/ A/ |
+A3c |
+c c B G |
+F2z2) |
+.('c2A2 |
+A3A |
+B B B c |
+d2c2) |
+.('c2A2 |
+A3c |
+(c2B) G |
+F2z) .('A |
+A> A A A |
+A2G3/) .('A/ |
+B> B B c |
+d2c2) |
+.('c> d c c |
+c2A2) |
+.('c> B A3/ G/ |
+F2z2) |]

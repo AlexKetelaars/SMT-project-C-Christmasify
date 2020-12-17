@@ -1,0 +1,23 @@
+X: 1805
+T: En toun kraaide de boer zien hoanechie leo,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 232976754
+%%humdrum-veritas-data 2274499984
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ d/ [I:setbarnb 1]|
+GA/ A/Be |
+dd(dB)) |
+.('edcB |
+d/> d/ c/ B/A).('d/ d/ |
+GA/ A/Be |
+ddd).('B/ G/ |
+A/ A/ed/> c/ B/ A/ |
+G2z) |]

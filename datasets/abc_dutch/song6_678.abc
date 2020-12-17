@@ -1,0 +1,31 @@
+X: 5677
+T: Mijn lief is eene spinder, hij draagt ‘nen b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2976956601
+%%humdrum-veritas-data 2084117596
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2>B2 A G |
+B2A2z D |
+A2>G2 A G |
+E4).('G2 |
+c2>B2 A G |
+B2A2z D |
+A2>G2 A B |
+[M:2/4]c2z2) |
+.('c2B A |
+A GG2 |
+A2G F |
+F E E) .('E/ F/ |
+G E/ F/ G E/ F/ |
+A AA2 |
+B B B B |
+c2z2) |]

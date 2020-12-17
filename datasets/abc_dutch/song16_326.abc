@@ -1,0 +1,29 @@
+X: 15325
+T: Bij Mannen, die van liefde blaken (Zauberflöte)
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 689659747
+%%humdrum-veritas-data 512828851
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G E E E C C |
+B, D F F E G |
+G c B B A G |
+G F ED2).('G |
+G E E E C C |
+B,/ C/ D/ E/ F/ G/ F E G |
+c2B A> B G |
+G A ^FG2).('G |
+d B Gc2c |
+e/ d/ c/ B/ A/ G/c3 |
+c c c d> f d |
+G> A Bc2z) |
+.('c B/ c/ B/ c/d2f/ d/ |
+c2d/ B/c2) |]

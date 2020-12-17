@@ -1,0 +1,62 @@
+X: 10303
+T: 63
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:04
+%%humdrum-veritas 4245310633
+%%humdrum-veritas-data 2102415635
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B d G g |
+!mordent!!mordent!f d z g |
+!uppermordent!!uppermordent!g f/ e/ d c |
+!mordent!!mordent!B G z) .('!mordent!!mordent!d |
+!uppermordent!!uppermordent!e c'/ b/ a/ g/ f/ e/ |
+!mordent!!mordent!d b/ a/ g/ f/ e/ d/ |
+!mordent!!mordent!c a/ g/ f/ e/ d/ c/ |
+!uppermordent!!uppermordent!B2!mordent!!mordent!c2 |
+!uppermordent!!uppermordent!d e/ d/ c/ B/ !mordent!!mordent!A/ G/ |
+!mordent!!mordent!F D z) .('d |
+!uppermordent!!uppermordent!B d G g |
+!mordent!!mordent!f d z g |
+!mordent!!mordent!g f/ e/ d c |
+!mordent!!mordent!B G z) .('d |
+!uppermordent!!uppermordent!g b/ a/ g/ f/ e/ d/ |
+!mordent!!mordent!^c a !mordent!!mordent!g f/ e/ |
+!uppermordent!!uppermordent!f e/ d/ !uppermordent!!uppermordent!e !mordent!!mordent!^c |
+d {g a} b !mordent!!mordent!a g |
+!mordent!!mordent!f {g a} a g/ f/ !mordent!!mordent!e/ d/ |
+!mordent!!mordent!^c A/ B/ c/ d/ e/ f/ |
+g/ e/ !uppermordent!!uppermordent!f/ g/ A/ g/ !mordent!!mordent!f/ e/ |
+!uppermordent!!uppermordent!f d e !mordent!!mordent!^c |
+d F !uppermordent!!uppermordent!E !mordent!!mordent!^c |
+d3) |
+.('A [I:setbarnb 25]|
+!mordent!!mordent!F A D d |
+!mordent!!mordent!d c/ B/ c !uppermordent!!uppermordent!c |
+a/ g/ !mordent!!mordent!f/ e/ d/ c/ !mordent!!mordent!B/ A/ |
+B) .('!uppermordent!!uppermordent!g !mordent!!mordent!f/ g/ e/ f/ |
+!mordent!!mordent!^d/ B/ c/ B/ c/ B/ c/ B/ |
+e/ B/ c/ B/ c/ B/ c/ B/ |
+f/ B/ c/ B/ c/ B/ c/ B/) |
+.('g e !uppermordent!!uppermordent!f !mordent!!mordent!^d |
+e {a b} c' b/ a/ !mordent!!mordent!g/ f/ |
+!mordent!!mordent!g e !uppermordent!!uppermordent!f !mordent!!mordent!^d |
+!uppermordent!!uppermordent!e2z) .('d |
+!mordent!!mordent!B d G g |
+!mordent!!mordent!f d z g |
+!uppermordent!!uppermordent!g f/ e/ d c |
+!mordent!!mordent!B2z) .('!mordent!!mordent!A |
+!uppermordent!!uppermordent!_B d/ c/ B B |
+!mordent!!mordent!_B A z) .('A |
+!uppermordent!!uppermordent!B !uppermordent!!uppermordent!c !uppermordent!!uppermordent!d !uppermordent!!uppermordent!e |
+f g a b |
+c'/ b/ a/ g/ f/ e/ !mordent!!mordent!d/ c/ |
+!mordent!!mordent!B g !uppermordent!!uppermordent!A !mordent!!mordent!f |
+g3) :|]

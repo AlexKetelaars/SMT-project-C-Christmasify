@@ -1,0 +1,31 @@
+X: 3563
+T: Daar was laatst een boerinnetje Die met voog [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 2657552539
+%%humdrum-veritas-data 3766738862
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G2G A |
+B BG2).('A G |
+F2D2E F |
+G4).('D D |
+G2G B B B |
+A2E) .('A A G |
+F> D D D E F |
+G2>).('d2 d d |
+[M:4/4]c2A2>c2 c3/ c/ |
+B4z) .('B B B |
+[M:3/4]A2d2e3/ e/ |
+[M:4/4]d4z) .('d d d |
+c2A2>c2 c3/ c/ |
+B4z) .('B B B |
+[M:3/4]A2D2F F |
+G4) |]

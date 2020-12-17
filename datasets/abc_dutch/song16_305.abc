@@ -1,0 +1,36 @@
+X: 15304
+T: Im Wald und auf der Haide
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 3364293067
+%%humdrum-veritas-data 3666236903
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E [I:setbarnb 1]|
+E2EE2E |
+E3C2E |
+A2AA2A |
+c2).('B A G F |
+E2E E F G |
+A2>-A2 z F |
+E2E E F G |
+A2>-A2 z) .('E |
+E2EE2E |
+E2cA2G |
+F2FF2F |
+F2dB2A |
+G2).('G G A B |
+c2>e2 d B |
+A2Ec2B |
+A3z2) ]|:
+.('E [I:setbarnb 17]|
+E C EA2A |
+A E Ac2c |
+B2BG2G |
+A3z2) :|]

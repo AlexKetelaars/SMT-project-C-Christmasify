@@ -1,0 +1,26 @@
+X: 1240
+T: Sieske de graafpot van alle deze dagen Uitve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 2669242374
+%%humdrum-veritas-data 2025081891
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G GG2D D |
+G G G GG2D2) |
+.('c c c c B B B B |
+A A A BA2G2) |
+.('d2d> ed3B |
+c B c dc2B2) |
+.('d2d> ed3B |
+c B c dc2).('B A |
+B B B B B B A G |
+A A A A A A) .('B c |
+B2A2G2z2 |
+B2A2G2z2) |]

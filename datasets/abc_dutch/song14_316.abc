@@ -1,0 +1,26 @@
+X: 13315
+T: Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 1218660653
+%%humdrum-veritas-data 3052258778
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('d3 |
+B3 |
+(G D) G |
+B B B |
+d3 |
+B3 |
+(G D) G |
+B3 |
+(G D) G |
+B B B |
+(G D) G |
+B2z) |]

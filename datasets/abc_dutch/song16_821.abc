@@ -1,0 +1,31 @@
+X: 15820
+T: ag wat is mijn overkomen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 630838665
+%%humdrum-veritas-data 3246595471
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('c ed2c2 |
+B AB2B2 |
+c ed2c2 |
+B2A G A- A) |
+.('c ed2c2 |
+B AB2B2 |
+c ed2c2 |
+B4A G |
+A6) |
+.('d cd2f2 |
+e d/ c/B2B2 |
+c eA2G F |
+G BE4) |
+.('B cd2f2 |
+e d/ c/B2B2 |
+e ae2d2 |
+c BA4) |]

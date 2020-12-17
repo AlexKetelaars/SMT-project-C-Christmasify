@@ -1,0 +1,32 @@
+X: 3574
+T: Komt vrienden hier saam in het ronde en luis [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 1317998814
+%%humdrum-veritas-data 2222709362
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B B B B B B |
+(B2d)G2).('d |
+d2d (d c) B |
+A3-A2).('c/ c/ |
+c2c/ c/ c B A |
+(G2B)d2).('G |
+A A A G F E |
+D3-D3) |
+[M:9/8].('B3A2G G A G |
+[M:6/8]GF2-F2).('D |
+[M:9/8]c2A A B c e> d) .('d |
+[M:6/8]B2G G A G |
+GF2).('e3 |
+d2d c B A |
+G3).('e3 |
+d2d c B A |
+G3) |]

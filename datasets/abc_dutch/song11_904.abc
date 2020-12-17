@@ -1,0 +1,35 @@
+X: 10903
+T: ‘t Was al in de feesteweke, Dat wij mosten b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 2984817516
+%%humdrum-veritas-data 3293325425
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c c c d |
+c3B |
+A2A2) |
+.('c c c d |
+c3B |
+A4) |
+.('c c c d |
+c3B |
+A2A) .('A |
+c c c d |
+c3B |
+A2z) .('G |
+F z z G |
+F z z) .('C |
+F G A B |
+c2).('c d |
+c2c B |
+A2G2) |
+.('c B A B |
+c2c2 |
+F2z2) |]

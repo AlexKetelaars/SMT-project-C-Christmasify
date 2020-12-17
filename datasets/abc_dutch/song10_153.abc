@@ -1,0 +1,24 @@
+X: 9152
+T: ‘t Was op een Witten Donderdag, Dat er wel J [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 503570278
+%%humdrum-veritas-data 1802346166
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G A B [I:setbarnb 1]|
+c2c (B A) G |
+A2>).('G2 A B |
+c d c B A G |
+[M:3/8]A2).('d |
+[M:6/8]c2BA2B |
+G2FE2c |
+B2dA2).('c |
+B A B E c B |
+A3) |]

@@ -1,0 +1,27 @@
+X: 16165
+T: Ach welk een Venus rust, Door ‘t Zonne vuur, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 3417314086
+%%humdrum-veritas-data 640208935
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('d4 [I:setbarnb 1]|
+G2G2G3^F |
+G2z) .('A B A G d |
+=e f ^c d2<d2c |
+d4z2).('d2 |
+c2>c2c2d2 |
+e2(e d) c/ =B/ B B c |
+c2c2z2).('d2 |
+A2B2^F3B |
+(c d e d c d c B) |
+A4z2).('d2 |
+e2>d2c3B |
+A4G3) |]

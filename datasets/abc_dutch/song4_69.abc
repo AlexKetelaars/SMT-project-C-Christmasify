@@ -1,0 +1,22 @@
+X: 3068
+T: Moeder wanneer is het kermis Moedertje lief?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 3132119753
+%%humdrum-veritas-data 3592612988
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d d d d d |
+e3d3) |
+.('e3f2f |
+g3-g2z) |
+.('g2Bc3 |
+c c de2d) |
+.('g2dd3 |
+c B AG3) |]

@@ -1,0 +1,42 @@
+X: 4
+T: Heeft yemandt, door gestadigh draven, (Gelij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:28
+%%humdrum-veritas 2619881261
+%%humdrum-veritas-data 2230727077
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=100
+K: C clef=treble
+.('d2d2d2 |
+d6 |
+f2e2d2 |
+c4A2) |
+.('A2A2G2 |
+A4F2- |
+F2G2G2 |
+A4z2) |
+.('d2d2d2 |
+d6 |
+f2e2d2 |
+c4A2) |
+.('A2A2G2 |
+A4F2- |
+F2G2G2 |
+A4z2) |
+.('A2A2G2 |
+F6) |
+.('c2c2B2 |
+c4z2) |
+.('c2d2d2 |
+e2>d2c2 |
+f2f2e2 |
+f4z2) |
+.('f2e2d2 |
+c2>_B2A2 |
+d2d2^c2 |
+d6) |]

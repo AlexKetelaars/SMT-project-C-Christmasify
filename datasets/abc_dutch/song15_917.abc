@@ -1,0 +1,38 @@
+X: 14916
+T: Mein Glücke schläft drum will ich wachen Daß [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 4318466
+%%humdrum-veritas-data 3851735484
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=132
+K: G clef=treble
+.('BGE |
+c2B |
+A(^d/ f/)A |
+G(F/ G/)E) |
+.('ecE |
+F2G |
+AGF |
+G3) |
+.('BGE |
+e2d |
+c2(B/ A/) |
+B(A/ B/)G) |
+.('BA^c |
+d2g |
+f2e |
+d2d) |
+.('g2e |
+(dc)B |
+A(G/ F/ G/ A/) |
+FE/ F/D) |
+.('FBF |
+GFE |
+F^D2 |
+E3) :|]

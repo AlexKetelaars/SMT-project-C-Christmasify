@@ -1,0 +1,31 @@
+X: 5867
+T: Komt, prinsen jong en oud, Aanhoort mijn dro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2460140363
+%%humdrum-veritas-data 3156694061
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G A) [I:setbarnb 1]|
+B2>B2 (3(A B) c |
+B2z2).('(B c) |
+d2>d2 c c |
+(B> A)G2z2) |
+.('d2c B A3/ c/ |
+{c}B2z2).('(B c) |
+d2>d2 c c |
+(B> A)G2).('G A |
+B2>A2 (3(B d) c |
+{c}B2A2).('(B c) |
+d2>d2 c {c} B |
+A2z2).('(B c) |
+d2>{e} d2 c c |
+B2{A}G2).('(G A) |
+B {d} cB2A2 |
+G4) |]

@@ -1,0 +1,32 @@
+X: 7305
+T: Een kalemanden rok, En wit mantlyntje d’rop
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 477106241
+%%humdrum-veritas-data 3082152335
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C [I:setbarnb 1]|
+E C E C |
+D2z D |
+F D F D |
+E2z) .('G |
+A G A B |
+c B/ A/ G F |
+E2D2 |
+C2z) ||
+.('G [I:setbarnb 9]|
+c (c/ d/) d B |
+A2A A |
+d (d/ e/) d c |
+B2z) .('d |
+c B A G |
+^F D/ D/ G c |
+B2(A3/ G/) |
+G2z C) |]

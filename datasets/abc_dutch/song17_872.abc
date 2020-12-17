@@ -1,0 +1,31 @@
+X: 16871
+T: [Conpeer ick segh u voor gewis] 2
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 1992180566
+%%humdrum-veritas-data 3874587488
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2f2 |
+gcc3/B/ |
+c2G2) |
+.('e2f2 |
+gcc3/B/ |
+cd/ e/ f/ g/ e/ f/ |
+dgg3/^f/ |
+g3) |
+.('c [I:setbarnb 9]|
+c2B3/c/ |
+dGcB |
+A4) |
+.('fff(e/ f/) |
+de/ f/gf/ g/ |
+ea/ g/ f/ e/ d/ c/ |
+Bcc3/B/ |
+c2) :|]

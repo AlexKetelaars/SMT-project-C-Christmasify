@@ -1,0 +1,105 @@
+X: 3040
+T: Bekoorlijke morgen Daar zien wij een graf
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 3599600926
+%%humdrum-veritas-data 3091295984
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(G>A) (B/ A/) (G/ F/) |
+EEz).('E |
+D2(D/ E/) (D/ C/) |
+B,3).('G |
+F2FG |
+AA2).('G |
+F2(F/ E/) (D/ E/) |
+D3).('G |
+[M:3/4]DB,G,/ B,/ |
+DD/> G/ (G/ F/) |
+ED^C |
+D2).('D |
+BA(G/ F/) |
+EED |
+DEF |
+G2).('D |
+GGF |
+EDC |
+B,A,(G,/ B,/) |
+D2).('D |
+G(G/ A/) (B/ A/) |
+(EB)A |
+(F/ G/)AF |
+G2).('D |
+(GG/ A/ B/ A/) |
+Gz(B/ d/) |
+(d2c) |
+B2).('(D/ C/) |
+B,A,(G,/ D/) |
+D2z) |
+.('A2A |
+B2B |
+A2c |
+BAG |
+(AG)A |
+G2).('F |
+A2F |
+D2D |
+[M:4/4](GB)AG |
+F2z).('D |
+GGzD |
+BGzD |
+GGz(D/ B/) |
+B2A).('D |
+G2G3/F/ |
+EEzE/ A/ |
+A2A3/G/ |
+F2z).('D |
+[M:3/4](GA)(B/ A/) |
+(D/ A/)Az |
+[M:2/2]DEFD |
+G2G).('D |
+CB,A,(G,/ D/) |
+D2D).('D |
+[M:3/4](DB,)D |
+(GA)B |
+A3- |
+A2).('D |
+A2A |
+(AB)c |
+B3- |
+B2).('d |
+d2B |
+B2c |
+(cB)A |
+A2).('B |
+A2B |
+(cB)A |
+(GF)E |
+D2).('D |
+(DE)F |
+G2B |
+(Bd)d |
+dz).('d |
+e2d |
+c2B |
+czc |
+cz).('c |
+d2c |
+B2G |
+BzB |
+Bz).('d |
+d3- |
+dzD |
+D3- |
+Dz).('c |
+[M:4/4]B2A2 |
+B2c2 |
+B2A2 |
+G3) |]

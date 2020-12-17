@@ -1,0 +1,31 @@
+X: 2512
+T: Op zondag op zondag op zondagmorgen vroeg To [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 534727375
+%%humdrum-veritas-data 2395285358
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(G> F) G A |
+(B d) c B |
+A> G A (B/ A/) |
+G3).('(G/ A/) |
+B> A A c |
+d> d e d |
+c B c d |
+B3).('G |
+(G e/) e/ e e |
+d2c B |
+c B A G |
+d3).('D3// D// |
+G> A B c |
+(d g) e (c/ d/) |
+d2c2 |
+B4) |]

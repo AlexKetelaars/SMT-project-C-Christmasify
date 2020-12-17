@@ -1,0 +1,23 @@
+X: 16236
+T: Stoor Amaril u aan geen logen, Zy overtuigt  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1031100870
+%%humdrum-veritas-data 2878816980
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('B2G FE2F2 |
+(G F) (G A)G2^G) .('G |
+A2>A2A2^G2 |
+F2B2G4) |
+.('x4x2x G |
+F E F G (A G) (A c) |
+A4G3).('B |
+e2B2(c B) (A B) |
+G2(F E)E2z) :|]

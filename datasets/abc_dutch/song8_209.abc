@@ -1,0 +1,42 @@
+X: 7208
+T: Vroelyk, herders, komt vry binnen; Komt bezo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 666716848
+%%humdrum-veritas-data 1246731173
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('Gd [I:setbarnb 1]|
+B(A/ G<)cB/ |
+BA).('B3/c/ |
+d>GF(E/ F/) |
+G2).('Gd |
+B(A/ G<)cB/ |
+BA).('B3/c/ |
+d>GF(E/ F/) |
+G2).('Ac |
+BAG(F/ E/) |
+D2z).('D |
+GGAA |
+B2).('AB |
+ccd(c/ B/) |
+A3).('A |
+Bdd^c |
+d2z).('d |
+cBAc |
+BAG).('B |
+AGFE |
+G(F/ E/)D).('D |
+GA(G/ F/) (E/ D/) |
+GAB).('A |
+cc(B/ A/) (G/ A/) |
+B2).('BB |
+c>cdd |
+!fermata!e(d/ c/)B(A/ G/) |
+G3z) |]

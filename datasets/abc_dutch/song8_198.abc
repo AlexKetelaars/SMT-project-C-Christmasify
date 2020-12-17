@@ -1,0 +1,35 @@
+X: 7197
+T: Comt, verwondert u hier, menschen, Siet, hoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3105116220
+%%humdrum-veritas-data 252051679
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D2(E D) [I:setbarnb 1]|
+D2G2A2d2 |
+B2A2).('E2(F G) |
+A2B2(c d) (B c) |
+A4).('D2(E D) |
+D2G2A2d2 |
+B2A2).('(E A) (F D) |
+G2c2B2(A3/ G/) |
+G4).('A2(B A) |
+A2(G F)E2(F G) |
+G2F2).('(D E) (F G) |
+(F G) (A B)F2E2 |
+D4).('d3d |
+d2c2c3c |
+c2B2).('B2c2 |
+d2(c B) (e d) (c B) |
+A4).('D2(E D) |
+D2G2A2d2 |
+B2A2).('(E A) (F D) |
+G2>c2B2(A3/ G/) |
+G4) |]

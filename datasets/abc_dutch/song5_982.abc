@@ -1,0 +1,34 @@
+X: 4981
+T: Heb je wel gehoord van het heugelijk feest,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1032627134
+%%humdrum-veritas-data 3475725471
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E/ F/ G/ A/ B B/ B/ |
+B B/ c/ B) .('B |
+c c/ d/ e c |
+c B z) .('B |
+A G/ A/ F A |
+B B/ A/ G) .('G |
+F (B/ c/) d c |
+c B z) .('B |
+B3B |
+B3B |
+e B G E |
+B,2z) .('B, |
+E/> F/ G/> A/ B B |
+A/> G/ A/> B/ c/>) .('d/ e3// c// |
+B G/ G/ A F/ F/ |
+E) .('E G B |
+e2e e |
+(e2c) f |
+(e2d2) |
+e2z) |]

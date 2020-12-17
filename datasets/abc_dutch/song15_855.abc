@@ -1,0 +1,44 @@
+X: 14854
+T: Allegretto
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 4053494675
+%%humdrum-veritas-data 3460695760
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c d cf2z |
+c d cg2z |
+c d ca2f |
+^f g gg2z |
+c d cf2z |
+c d cg2z |
+c d c b g e |
+f f ff2z) |
+.('z g e c B G |
+A2B =B c z |
+z g e c B G |
+A2B=B2c |
+c d cf2z |
+d2d2d2 |
+e2c2d2 |
+e2c2d2 |
+e2(e g) f d |
+!fermata!c2z) .('c (c d) |
+(c B)B2B c |
+(B A) A c c d |
+(c B)B2B d |
+(d c)c2).('c2 |
+f2(g f) (e d) |
+c2A2c2 |
+d gf2e2 |
+f2c2c2 |
+.f .f .e .e .d .d |
+.c .c .B .B .A .A |
+G d c B A G |
+F4!fermata!z2) |]

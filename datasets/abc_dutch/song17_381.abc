@@ -1,0 +1,46 @@
+X: 16380
+T: Kom Fillis laeten we ons verblyden. Gebruike [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 428745428
+%%humdrum-veritas-data 95175030
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+.('B2 F2 G2 |
+(F2 e2) d2 |
+(c2 B2) A2 |
+B2F4) |
+.('(d =e) f2 d2 |
+(c2 B2) A2 |
+(G2 (3d c B) (3(A G F) |
+{F}=E6) |
+.('c2 (3(G A B) (3(A B c) |
+{F}=E4F2 |
+(C2 B2) A2 |
+!trill!!trill!A2G4) |
+(3.('(G A B) B3 B |
+(A B c A) (G F) |
+G2 {F}!trill!!trill!=E4 |
+F6) |
+.('f2 (e d) c =B |
+(3(c d e) e2 z2) |
+.('e2 (d c) B A |
+(3(B c d) d2 z2) |
+.('d2 g2 ^f2 |
+g6 |
+(3(e d c) B2 A2 |
+G6) |
+.('B6 |
+c6 |
+(A2 B2) c2 |
+(3(d e f)f4) |
+.('(g e) (e c) (c B) |
+{B}A4B2- |
+(3(B e c) {B c} !trill!!trill!c3 B |
+B6) :|]

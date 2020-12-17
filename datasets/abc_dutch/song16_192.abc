@@ -1,0 +1,23 @@
+X: 15191
+T: [Geld geld geld zo roept de ganse bende]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 838684958
+%%humdrum-veritas-data 1573726183
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+F A A A F A A A |
+d A G FA2).('G G |
+E G G G E G G G |
+c B A EG2F2) |
+.('d2d2d2z A |
+B c d BB2A A) |
+.('c c c> c d F F F |
+A A G CE2D2) |]

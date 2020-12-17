@@ -1,0 +1,23 @@
+X: 6137
+T: ‘K groet uw schoon Herderine
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 1542465647
+%%humdrum-veritas-data 3582345633
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('dg/ e/ae |
+c2A2) |
+.('dg/ e/ae |
+e2) :|]
+.('ef [I:setbarnb 5]|
+gga/ b/g |
+ffe/ d/f |
+e2c2 |
+d2) |]

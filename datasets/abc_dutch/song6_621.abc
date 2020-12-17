@@ -1,0 +1,31 @@
+X: 5620
+T: Zeg, kwezelken, wilde gy dansen? ik zal u ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 406125113
+%%humdrum-veritas-data 291567537
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c [I:setbarnb 1]|
+c c c c e f |
+c3A2).('A |
+B2B G A B |
+c2zz2).('c |
+c2ce2f |
+c2BA2).('A |
+B2A (G A) B |
+c2zz2).('c |
+c3f3 |
+c3A2).('c |
+c3f3 |
+c3A3) |
+.('B B B (G A) B |
+A2GF2).('A |
+B B B G A B |
+A2GF2z) |]

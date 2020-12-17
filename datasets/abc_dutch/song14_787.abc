@@ -1,0 +1,36 @@
+X: 13786
+T: Divert. 15.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 2635724410
+%%humdrum-veritas-data 998003375
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: D clef=treble
+.('(D2F2)E2 |
+(F2A2)G2 |
+!wedge!A !wedge!d !wedge!d (D E F) |
+!wedge!E !wedge!e !wedge!e (E F G)) |
+.('!trill!!trill!F F !trill!!trill!G G A F |
+F2E2c2 |
+(3(B d c) (3(B B B) (3(B c d) |
+(3(c e d) (3(c c c) (3(c d e) |
+(3f e dc2B2 |
+A6) |
+.('(A2c2)B2 |
+(c2e2)d2 |
+(e d) (c B) (A G) |
+G2!wedge!F) .('!wedge!d !wedge!A !wedge!=c |
+(=c2B) !wedge!B !wedge!F !wedge!A |
+!wedge!G (G A) (A B) !wedge!D |
+(3(C E D) (3(C C C) (3(C D E) |
+(3D F E (3D D D (3D E F |
+(3E G F (3E E E (3E F G |
+(3F E F (3G F G (3A B =c |
+B A/ G/!trill!!trill!F2E2 |
+D6) :|]

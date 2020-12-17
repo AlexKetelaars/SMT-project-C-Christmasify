@@ -1,0 +1,31 @@
+X: 2286
+T: Sa vrienden blijft eens staan Wat ik u zal g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 3147109118
+%%humdrum-veritas-data 2788137976
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G [I:setbarnb 1]|
+BGAc |
+B2z).('B/ c/ |
+ddcB |
+AGz).('G |
+BGAc |
+B2z).('B/ c/ |
+ddcB |
+AGz).('A/ A/ |
+AdcB |
+ABz).('G/ G/ |
+ABc/ c/B |
+A2z).('A/ A/ |
+Adec |
+BAz).('G/ G/ |
+AcBA |
+G2z) |]

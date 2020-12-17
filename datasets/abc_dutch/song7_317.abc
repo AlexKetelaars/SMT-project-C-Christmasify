@@ -1,0 +1,41 @@
+X: 6316
+T: Wals op Driepas
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 1115666253
+%%humdrum-veritas-data 478232203
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A B c EA2 |
+A e a ce2 |
+d2B2E2 |
+A B c BA2) |
+.('E A c EA2 |
+c e a ce2 |
+d2B2E2 |
+A B c B A z) |
+.('x4c' b |
+a2e2a2 |
+c'2b2x2 |
+a2e ac'2 |
+b2d'2b2) |
+.('c'2a2e2 |
+a2e a c' b |
+a2e ac'2 |
+b2d'2b2 |
+a2x4) |
+.('f2f e d f |
+b2a2a2 |
+=g2A c e g |
+f2d2d2) |
+.('f2f e d f |
+b2a2a2 |
+=g2A c e f |
+d4z2) :|]

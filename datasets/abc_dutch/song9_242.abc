@@ -1,0 +1,32 @@
+X: 8241
+T: Brengt hier geen klachten aan den dag! Ik be [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 4080417448
+%%humdrum-veritas-data 3125694271
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('z2B2B A c B |
+B2A2B4- |
+B2).('B2c d e e |
+d2c2B4- |
+B2).('A Bd2c3/ B/ |
+B2A Bd2c3/ B/ |
+B) .('B A Bd2(c B) |
+B4A4) |
+.('d2d d e d c B |
+c2c2c2z2) |
+.('e2e e d c B A |
+d2d2d2z) .('D |
+G B A cB2-B) .('B |
+d d e e d) .('d e c |
+B2A2B2z) .('D |
+G B A cB2-B) .('B |
+d d e e d) .('d e c |
+B2A2G2-G z) |]

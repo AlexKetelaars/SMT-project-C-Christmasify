@@ -1,0 +1,57 @@
+X: 7165
+T: No732
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 2114795695
+%%humdrum-veritas-data 1940289292
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=88
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d f e d f e |
+d2A {A2}G2F |
+B2AG2F |
+{F}!trill!!trill!E2D/ E/D2).('A |
+d f e d f e |
+d A B c d e |
+f ^g ac2!trill!!trill!B |
+A2).('e e f e |
+g2eB2c |
+{B c}d2f f g f |
+a2d {d}c2d |
+!fermata!f6 |
+e !fermata!z) .('A d c B |
+A2A A d A |
+A d A e d c |
+c2A A e A |
+Ae2).('d e f |
+!trill!!trill!f e d !trill!!trill!d c B |
+B2>e2 f g |
+!trill!!trill!g f e !trill!!trill!e d c |
+c2).('a a A a |
+a A g {g}f2{f/} e |
+{e f}f2a a A a |
+a A gf2e |
+{d e}!fermata!d2).('e e f e |
+g2eB2!trill!!trill!c |
+d2f f g f |
+a2dc2d |
+!fermata!f6 |
+e !fermata!z) .('A d c B |
+A2A A d A |
+A d A e d c |
+c2A A e A |
+Ae2).('d e f |
+!trill!!trill!f e d !trill!!trill!d c B |
+B2>e2 f g |
+g f e e d c |
+c2).('a a A a |
+a A g {g}f2{f/} e |
+{d e}f2a a A a |
+a A gf2{f} !trill!!trill!e |
+{d e}d3) |]

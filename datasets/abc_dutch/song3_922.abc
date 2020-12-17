@@ -1,0 +1,30 @@
+X: 2921
+T: Daar was een meisje die was zwaar belaan die [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 2515911838
+%%humdrum-veritas-data 261700711
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2GB |
+d2e2 |
+d>dcB |
+c4) |
+.('c2cc |
+dfee |
+d2(Ac) |
+B4) |
+.('B2d3/G/ |
+B3A |
+GABd |
+e2d2 |
+z).('gff |
+e3d |
+ABcd |
+e2d2) |]

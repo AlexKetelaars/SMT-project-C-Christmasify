@@ -1,0 +1,31 @@
+X: 1641
+T: Mijn Leusen mien dorpie Ik holde van oe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 2890089271
+%%humdrum-veritas-data 4081326849
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+BGA |
+D>B,D |
+DA(F/ G/) |
+A2).('D/ D/ |
+B>AB |
+cB3/A/ |
+GB3/A/ |
+G2).('B |
+A>BA |
+A>FA |
+Adc |
+B2).('D |
+B>AB |
+cB3/A/ |
+GB3/A/ |
+G2) |]

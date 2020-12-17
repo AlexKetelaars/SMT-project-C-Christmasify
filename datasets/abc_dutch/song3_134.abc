@@ -1,0 +1,25 @@
+X: 2133
+T: Toen de moeder al over die vallebrugge ging  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 2100864751
+%%humdrum-veritas-data 3826880017
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('F F [I:setbarnb 1]|
+[M:2/4]E D E F |
+[M:4/4](E2A2)G2F2 |
+E> D E FG2).('F F |
+[M:2/4]E D E F |
+[M:4/4](E2A2)G2F2 |
+E> D E FG2).('F G |
+A2B AG2G2 |
+(D2G2)G2).('F G |
+A2B AG2G2 |
+(D2G2)G2) |]

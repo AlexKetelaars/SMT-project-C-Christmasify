@@ -1,0 +1,22 @@
+X: 16396
+T: rosemont die lach gedoken / onder eene roselaer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 1704308963
+%%humdrum-veritas-data 1871039668
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G ^F G A B G A B |
+A/ G/ F/ E/ F/ G/ A/ B/c2A2) |
+.('G A B c d e f d |
+[M:2/2]c2>c2d4) |
+.('d D/ E/ F/ G/ A/ B/A2A B |
+c/ B/ c/ d/ c/ B/ A/ G/F3).('F |
+G F G A B G c B |
+A D E ^FG4) :|]

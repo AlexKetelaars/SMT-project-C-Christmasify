@@ -1,0 +1,40 @@
+X: 16800
+T: Maenen brand
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 2955425774
+%%humdrum-veritas-data 4019232984
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('g/ f/ [I:setbarnb 1]|
+e d cg2-g |
+g3(d2e) |
+d c Bc2d |
+B3(c2d) |
+e2dc2B |
+A2A).('d2e |
+f e fg2f |
+e3c2-c |
+c3(B2c) |
+d c B A G ^F |
+G3-!fermata!G2) |
+.('c [I:setbarnb 12]|
+d c dg2f |
+e2cf2g |
+a _b ag2f |
+e2ag2f |
+e2de2f) |
+.('g a gf2e |
+d2e/ f/g2g |
+c3f2{g} f |
+e2>e2 d e) |
+.('A B Ad2c |
+B A Gg2g |
+g f e d c B |
+c3-c2) |]

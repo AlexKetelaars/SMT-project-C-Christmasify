@@ -1,0 +1,25 @@
+X: 856
+T: Als Jacob tegen Sanneke spraek tegen Sanneke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 2540201482
+%%humdrum-veritas-data 3502846046
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('D2 [I:setbarnb 1]|
+G2>A2B2c2 |
+d2d> ed2B c |
+d2d> ed2).('d c |
+B B c d (e d) c B |
+c4z2).('c B |
+A2B cd2B3/ A/ |
+G4^F2(B A) |
+G4^F2).('G A |
+B2c> d d c B A |
+G4z2) |]

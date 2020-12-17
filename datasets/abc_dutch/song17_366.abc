@@ -1,0 +1,28 @@
+X: 16365
+T: Rozemond verlaet uw Stal, Febus blinkt reeds [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1906420436
+%%humdrum-veritas-data 2007048300
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+d2G2(A2B) c |
+{c2}B6).('B e |
+^c2(3(d g e) {d e}!trill!!trill!e3d |
+d6) |
+.('d d [I:setbarnb 5]|
+d2d2(d2e) d |
+(c B)c4).('A B |
+(c2A) e(e2d) c |
+(c4B2)).('A B |
+(c A) (B G)g2(f e) |
+(d ^c)d4).('e =c |
+B2(c A2<) {G A}!trill!!trill!A2G |
+G6) :|]

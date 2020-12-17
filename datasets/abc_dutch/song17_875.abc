@@ -1,0 +1,70 @@
+X: 16874
+T: Vulkanus
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 811920201
+%%humdrum-veritas-data 2904034807
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+c4d2 |
+c4d2 |
+e2>f2g2 |
+e2c2g2 |
+f4).('e2 |
+d4c2 |
+B2>c2d2 |
+B2G2).('g2 |
+f2g2e2 |
+d2e2c2 |
+B2>c2d2 |
+B2>A2G2 |
+A2>B2c2 |
+B2>A2c2 |
+c2G2C2 |
+c4) |
+.('c2 [I:setbarnb 17]|
+B2G2d2 |
+B2G2d2 |
+B2G2d2 |
+B2G2g2 |
+e2c2g2 |
+^f2>g2a2 |
+g6- |
+g4g2 |
+e2c2g2 |
+e2c2e2 |
+f6- |
+f2g2e2 |
+d2>e2c2 |
+c2B4 |
+c6 |
+c6 |
+c6 |
+c6 |
+d6 |
+d6 |
+d6 |
+d6 |
+e6 |
+e6 |
+e6 |
+e6 |
+f6 |
+f6 |
+f6 |
+f6 |
+g6 |
+g6 |
+g6 |
+g4g2 |
+e2>d2c2 |
+B2>A2B2 |
+c6 |
+c4) :|]

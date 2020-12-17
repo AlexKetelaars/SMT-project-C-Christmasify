@@ -1,0 +1,24 @@
+X: 3604
+T: Midden in Parijs stond een fraai paleis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 3509982035
+%%humdrum-veritas-data 3333720404
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('B2AB2AB3) |
+.('d2dc2Bc2-c/) .('c/ |
+d d cB2AB3) |
+[M:6/8].('d2d (c B) A |
+[M:9/8](G F) G2<A2-A3) |
+[M:6/8].('G3A2e |
+d2cB2A |
+B2).('G/ G/ c B A |
+G3F3 |
+G3-G3) |]

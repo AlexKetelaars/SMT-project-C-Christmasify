@@ -1,0 +1,15 @@
+X: 75
+T: Wilt my niet straffen Heere, Die misdaen heb [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 1945993105
+%%humdrum-veritas-data 3224035147
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A4A2A2G4G4A2c4B2c4z4).('e4e2g2f2e2d4c4z4).('G4A2c2B2A2e4z4).('g4g2f2e2d2c4A4z4).('d4d2c2B2A2c4G4z4).('A4e2e2d4B4A4) |]

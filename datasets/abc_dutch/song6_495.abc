@@ -1,0 +1,23 @@
+X: 5494
+T: Wilder dan wilt wie sal my temmen Placht ick [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 1250229112
+%%humdrum-veritas-data 2183520926
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('A [I:setbarnb 1]|
+B2AG2d |
+c2B A G) .('A |
+B2cd2e |
+d2cB2).('d |
+d2ef2d |
+B2c d c) .('B |
+(A B) cd2c |
+B2AG3) |]

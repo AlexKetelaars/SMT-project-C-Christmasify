@@ -1,0 +1,35 @@
+X: 10629
+T: Toen ik nog jong was van jaren Liep ik met m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 534422103
+%%humdrum-veritas-data 2128391971
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2G G G A |
+GG2z2).('c/ c/ |
+c2cd2c |
+A3z2).('c/ c/ |
+d2cB2A |
+AG2z>) .('G G/ G/ |
+G2AG2E |
+C3z2).('G |
+G2GG2A |
+G3z2).('c/ c/ |
+c2cd2c |
+A3z2).('c |
+d2cB2A |
+AG2z2).('G |
+B2AG2F |
+E3z2).('c |
+d2cB2A |
+AG2z2).('G |
+B2AG2B |
+c3z2) |]

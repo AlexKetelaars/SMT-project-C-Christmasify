@@ -1,0 +1,32 @@
+X: 539
+T: Des Heren Dood werd statig overdagt In 't He [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3692628470
+%%humdrum-veritas-data 4028861181
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('zccc |
+c2G2 |
+AAG3/F/ |
+E2z).('C |
+GGAB |
+G(G// A// B<)cd/ |
+B2).('G2 |
+cBA3/G/ |
+^F(G// A// B/) (B/A)G/ |
+G2z).('E |
+FGA3/B/ |
+Gc(cB) |
+c2z).('c |
+BAG2 |
+AGF2 |
+E2z).('E |
+AG(A/ G/) (F/ E/) |
+D2C2) |]

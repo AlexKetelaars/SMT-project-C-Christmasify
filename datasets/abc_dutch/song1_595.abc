@@ -1,0 +1,15 @@
+X: 595
+T: Recht als een hart langht nae een fonteyne S [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3218142555
+%%humdrum-veritas-data 1619962393
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('d4d2d2A4c4d2f4e2d4c4z4).('A4c4c4d4f4f4e4d2e4d4^c2!fermata!d4).('d4d2d2A4=c4d2f4e2d4c4z4).('A4c4c4d4f4f4e4d2e4d4^c2!fermata!d4).('d2e4e2e2>e2e2f4f2e4).('f2e2d4!fermata!d4z4z2).('=c2d2d2e2e2d2c2B4A4z4).('A4c4c4d4f4f4e4d2e4(d4^c2)d4) |]

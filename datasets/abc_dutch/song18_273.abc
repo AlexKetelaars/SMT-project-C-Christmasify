@@ -1,0 +1,49 @@
+X: 17272
+T: air largo
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3450149697
+%%humdrum-veritas-data 2855518214
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('g [I:setbarnb 1]|
+a>gf |
+gg!mordent!!mordent!e |
+f>ed |
+!mordent!!mordent!e>fg) |
+.('a>g f/ e/ |
+!mordent!!mordent!ddg |
+f/ e<!mordent!!mordent!dg/ |
+e2) |
+.('e [I:setbarnb 9]|
+!mordent!!mordent!d>cB |
+cde |
+d/ c<!mordent!!mordent!BA/ |
+A2).('a |
+!mordent!!mordent!g>af |
+!mordent!!mordent!e>e^f |
+g!mordent!!mordent!g3/^f/ |
+g2).('g |
+a>gf |
+gge |
+f>ed |
+!mordent!!mordent!e>fg) |
+.('a>g f/ e/ |
+!mordent!!mordent!ddg |
+f/ e<!mordent!!mordent!dg/ |
+e2).('e |
+e!mordent!!mordent!dc |
+e!mordent!!mordent!dc |
+d>cB |
+c!mordent!!mordent!c3/B/ |
+!mordent!!mordent!B2).('B |
+cde |
+f>ga |
+ga/ g/ f/ e/ |
+!mordent!!mordent!d3) :|]

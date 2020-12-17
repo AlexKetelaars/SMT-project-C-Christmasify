@@ -1,0 +1,17 @@
+X: 692
+T: Wilt doch belyen, met melodyen Den Heer, wan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 355801235
+%%humdrum-veritas-data 2529948554
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2D2D2>D2F2FF2<G2GA2A).('A2<D2D2<F2F2<G2GA4) |
+.('z2A2A2>A2A2>A2B3B3c2>A2).('A2>c2B2A2<G2AF4) ]|:
+.('A2>A2G2>G2F2FF2<E2D2<).('A2A2<G2GF2E2D4).('A2>A2G2>G2F2F(F2<E2)D2<).('A2A2<G2GF2E2D4) :|]

@@ -1,0 +1,64 @@
+X: 13894
+T: Andante
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 411657885
+%%humdrum-veritas-data 849568436
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=76
+K: G clef=treble
+.('B2A2B2 |
+F B B B F F |
+F B E E ^D D |
+E B B B B B) |
+.('G2E2^G2 |
+A/> c/ {d} !trill!!trill!c3// B/8 c/8 e/> B/ {d} !trill!!trill!c3// B/8 c/8 A/ G/ F/ E/ |
+F2D2F2 |
+G/> B/ {c} !trill!!trill!B3// A/8 B/8 d/> B/ {d} !trill!!trill!B3// A/8 B/8 G/ D/ B,/ G,/) |
+.('(B/ A/ G/ A/ B) !wedge!c !wedge!c !wedge!c |
+(c2B) .F .F .F |
+F2G zz2 |
+z z/) .('c< B G< A F/ |
+G> G D> B,G,2 |
+z z/ E< D B,< C A,/ |
+B,6) |
+.('B2A2!trill!!trill!B2 |
+A A A A A A |
+A A G G F F |
+G D D D D D) |
+.('z2G,2B,2 |
+D D E E E E |
+^G G G G G G |
+^G G A/ A,/ C/ E/ A A,) |
+.('z2A,2^C2 |
+E E F F F F |
+^A A A A A A |
+^A A B/ B,/ D/ F/ B B,) |
+.('(d/ ^c/ B/ c/) d e e e |
+(e2d2)z2 |
+z z/ G< F D< E ^C/ |
+{^C}D2).('B A G F |
+(B2A2)B2 |
+F F F F F F |
+F F E E ^D D) |
+.('E B B B B B |
+G2E2^G2 |
+A/> c/ {d} (!trill!!trill!c3// B/8 c/8) e/> c/ {d} c3// B/8 c/8 A/ G/ F/ E/ |
+F2D2F2) |
+.('G/> B/ {B} (!trill!!trill!B3// A/8 B/8) d/> B/ {c} (!trill!!trill!B3// A/8 B/8) G/ F/ E/ D/ |
+E2C2E2 |
+F/> A/ {B} (!trill!!trill!A3// G/8 A/8) c/> A/ {B} (!trill!!trill!A3// G/8 A/8) F/ E/ ^D/ ^C/ |
+^D2B,2D2) |
+.('E/> G/ {A} !trill!!trill!G3// (F/8 G/8) B/ A/ G/ F/ G E |
+B/ (A/ G/ A/) B c c c |
+(c2B) A A A |
+(A2B) zz2) |
+.('z z/ a< g e< f ^d/ |
+e> e B> GE2 |
+z z/ c< B G< A F/ |
+{F}G2z2z2) :|]

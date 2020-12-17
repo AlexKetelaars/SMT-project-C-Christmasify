@@ -1,0 +1,82 @@
+X: 4685
+T: Vrouwke ’t is Vastelaovend We kommen niet th [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 2148623298
+%%humdrum-veritas-data 2555398176
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d e/ e/ d c |
+(B A) G3/) .('B/ |
+d/ d/ e d c |
+(B A)G2) |
+.('d d d/ d/ G/ G/ |
+e ee2) |
+.('d d/ d/ d G |
+e e/ e/e2) |
+.('d de2 |
+d de2) |
+.('d d d d |
+c cc2) |
+.('d e/ e/ d c/ c/ |
+(B A) G3/) .('B/ |
+d/ d/ e d c |
+(B A)G2) |
+.('d d d G |
+e ee2) |
+.('d/ d/ d d G |
+e e e) .('d/ d/ |
+d/ d/ d d g |
+d2B) .('B/ B/ |
+d d d g |
+d4) |
+.('d2d g |
+d3).('B/ B/ |
+d/ d/ d d/ d/ g |
+d d B) .('B |
+d d d g |
+d4) |
+.('d2d g |
+d3).('B |
+d/ d/ d d g |
+d d B) .('B |
+d d d g |
+d4) |
+.('d2d g |
+d3).('B/ B/ |
+d/ d/ d d g |
+d3).('B |
+d d d g |
+d4) |
+.('d2d g |
+d7/).('B/ |
+d d d g |
+d2B) .('B/ B/ |
+d/ d/ d d g |
+d2B2) |
+.('d2d g |
+d7/).('B/ |
+d d d g |
+d2B2) |
+.('d/ d/ d d g |
+d2B2) |
+.('d2d g |
+d4) |
+.('d d d d |
+e e e) .('e |
+d d d d |
+e2e2) |
+.('d d d d |
+e/ e/ e/ e/ e) .('e/ e/ |
+d d d d |
+c2c2) |
+.('d/ d/ d d d |
+e/ e/ ee2) |
+.('d d d d |
+c cc2) |]

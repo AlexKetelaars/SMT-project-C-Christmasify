@@ -1,0 +1,15 @@
+X: 312
+T: Het is hier een seer ellendich dingh Met ald [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 3646487596
+%%humdrum-veritas-data 3793673616
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('E2GG/ A/ B/ G<(cB/A2)GA2).('zcBAGFE/ D/A2GF2E2).('E2GG/ A/ B/ G<(cB/)A2GA2).('zcBAGFE/ D/A2GF2E2).('B2cAG2).('zG(A/ G/ A/) B/c2).('zBcd(ed/ c/ B/ A/)d2c(A>G F/ E<DE/ F/ G/)A(GF2)E4) |]

@@ -1,0 +1,43 @@
+X: 12000
+T: De Boe senade [?]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 2822102133
+%%humdrum-veritas-data 2931296026
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=138
+K: F clef=treble
+.('G [I:setbarnb 1]|
+B>cd |
+G>A^F |
+G3 |
+g3) |
+.('d>ef |
+c2B |
+B2) |
+.('f [I:setbarnb 8]|
+f>ga |
+b2a |
+g>fg |
+a2).('d |
+d>ef |
+g>af |
+e2d |
+d2).('c |
+B>AG |
+c3 |
+A>GF |
+B2).('f |
+f>_e d/ e/ |
+c2B |
+f>_e d/ e/ |
+c2B) |
+.('c>d_e |
+d>c B/ c/ |
+A2G |
+G2) :|]

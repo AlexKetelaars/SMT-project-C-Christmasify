@@ -1,0 +1,40 @@
+X: 7517
+T: No 137
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 690503979
+%%humdrum-veritas-data 1527667087
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+gde |
+d/ c/Bd |
+c/ B/ A/ B/ c/ d/ |
+BG).('B |
+cAe/ d/ |
+cAd |
+d>e^c |
+d2) |
+.('d/ ^c/ [I:setbarnb 9]|
+B^c^d |
+efg |
+fg/ f/ g/ e/ |
+^dB).('f |
+geg |
+fBe |
+e>f^d |
+!mordent!!mordent!e2).('g) |
+.('de/ d/ c/ B/ |
+!mordent!!mordent!c2B |
+Bc/ B/ A/ G/ |
+d2).('d |
+gde/ d/ |
+c/ B/ A/ B/ c/ d/ |
+!mordent!!mordent!B>AG |
+G2) |]

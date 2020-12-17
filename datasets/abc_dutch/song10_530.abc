@@ -1,0 +1,23 @@
+X: 9529
+T: Wilt ge van de mode zijn, Draagt een klakske
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 3735061727
+%%humdrum-veritas-data 3531822267
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('E F [I:setbarnb 1]|
+G G G F |
+E2).('E E |
+E D D F |
+A G) .('E F |
+G G G F |
+E2).('G G |
+(3B B A F D |
+C2) |]

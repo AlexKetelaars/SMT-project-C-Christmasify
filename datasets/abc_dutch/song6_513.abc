@@ -1,0 +1,25 @@
+X: 5512
+T: Een boerman had een dommen sin, Daer op so s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 1440701324
+%%humdrum-veritas-data 2571321462
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F2Fc2c |
+A2=Bc2).('c |
+c2ce2(d/ c/) |
+A2^GA2).('c |
+c2GF2(G/ F/) |
+A2(3(G/ F/ E/F2)).('F |
+c2ce2(d/ c/) |
+A2^GA2).('A |
+A2GF2(G/ F/) |
+A2(3(G/ F/ E/G2)) |]

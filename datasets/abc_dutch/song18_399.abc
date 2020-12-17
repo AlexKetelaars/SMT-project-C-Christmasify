@@ -1,0 +1,56 @@
+X: 17398
+T: Passe Pied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 3941497541
+%%humdrum-veritas-data 3926100941
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('d [I:setbarnb 1]|
+f f g |
+a g/ a/ b |
+a g/ a/ b/ g/ |
+a/ g/ f/ e/ d/ e/) |
+.('f f g |
+a g/ a/ b |
+a g/ a/ b/ g/ |
+a2) |
+.('d [I:setbarnb 9]|
+e2f |
+g f e |
+a g/ f/ e/ d/ |
+^c {=B} A d) |
+.('e2f |
+g {f} e a |
+f g/ f/ e/ f/ |
+d2) |
+.('A [I:setbarnb 17]|
+d A E |
+F {E} D A |
+d d/ e/ f/ g/ |
+e ^c A) |
+.('d A E |
+F {E} D A |
+d d/ e/ f/ g/ |
+e2) |
+.('e [I:setbarnb 25]|
+a a e |
+f e/ f/ d |
+g g/ a/ b/ g/ |
+a A d) |
+.('^c a e |
+f g/ f/ e/ f/ |
+d/ ^c/ d/ e/ f/ g/) |
+.('a a e |
+f e/ f/ d |
+g g/ a/ b/ g/ |
+a A d |
+^c a e |
+f g/ f/ e/ f/ |
+!fermata!d2) :|]

@@ -1,0 +1,39 @@
+X: 3245
+T: Er was een boerin in Bakel Een Baokelse boerin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 550095809
+%%humdrum-veritas-data 1472049945
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G GG2A |
+B3G2).('G |
+A2GF2E |
+D3z2).('D |
+A2AA2B |
+c3B2).('A |
+G2G F F E |
+D3z2).('G |
+A2AA2B |
+c2BA2).('G/ G/ |
+G2GF2G |
+A2FD2).('D |
+c2cc2c |
+B3B2).('G |
+B2BA2A |
+G2).('G G G G |
+E2EE2E |
+E2).('E F F G |
+A2DD2D |
+D3z2).('D |
+c2cc2c |
+B3B2).('G |
+B2BA2A |
+G3z2) |]

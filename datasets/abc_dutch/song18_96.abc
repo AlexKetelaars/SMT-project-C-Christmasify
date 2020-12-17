@@ -1,0 +1,38 @@
+X: 17095
+T: Coeur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 4073881719
+%%humdrum-veritas-data 1887046930
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2e2 |
+e2-e3/d/ |
+e>fg3/a/ |
+d2c2) |
+.('c2c2 |
+A2-A3/A/ |
+d>dc3/B/ |
+A2G2) |
+.('d2d2 |
+d2d3/e/ |
+c2c3/d/ |
+B4) |
+.('e2e2 |
+d2-d3/e/ |
+c>de3/f/ |
+B2A2) |
+.('f2f2 |
+f4 |
+e2e3/f/ |
+d4) |
+.('d>dd3/e/ |
+f2f3/f/ |
+c>de3/f/ |
+d2c2) |]

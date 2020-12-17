@@ -1,0 +1,25 @@
+X: 2767
+T: Toen wij van Stroalen [Straelen] zien gekome [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 1974660843
+%%humdrum-veritas-data 4054795474
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>F2 E D A, D |
+E E/ E/ E E!fermata!E4) |
+.('A2>G2 F E D C |
+[M:6/4](B,2D2G) G/ G/ G G!fermata!G2).('E2 |
+[M:4/4]E2>F2 G G F E |
+D2B,> C!fermata!D2).('D3/ D/ |
+E3E/ E/ c c B A |
+G2G> AB2).('G3/ G/ |
+[M:2/4]A2D3/ D/ |
+[M:4/4]G6) |]

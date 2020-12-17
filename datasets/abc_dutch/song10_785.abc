@@ -1,0 +1,33 @@
+X: 9784
+T: Engeltje, engeltje Gabriël, Gij woont zoo ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 593582409
+%%humdrum-veritas-data 2135476732
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c d c B A B |
+c2cG2z) |
+.('c2c B A B |
+c2cG2z) |
+.('c2cB2B |
+c3G3) |
+.('c2cB2B |
+c3G3) |
+.('c2cB2c |
+d3z3) |
+.('c c c B A B |
+d3z3) |
+.('c c cB2B |
+c2cG2z) |
+.('c c cB2B |
+c2cG2).('G |
+f2f e f e |
+e f e/ e/ d d d |
+c3z2z) |]

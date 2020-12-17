@@ -1,0 +1,30 @@
+X: 5042
+T: Besje zat in ‘t knekelhuis En zei wat is de mensch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 2780543145
+%%humdrum-veritas-data 3738196055
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('E2FG2A |
+B2cB2).('A |
+G2GF2F |
+E3-E2).('B, |
+E2FG2A/ A/ |
+B2cB2).('A/ A/ |
+G2GF2F |
+E6) |
+.('G G GG2G |
+A3A2).('A/ A/ |
+F2FF2F |
+B3B3) |
+.('E2FG2A |
+B2cB2).('A |
+G2GF2F |
+E6) |]

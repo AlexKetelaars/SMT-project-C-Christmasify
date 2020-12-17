@@ -1,0 +1,15 @@
+X: 668
+T: Ick heb bemint Die Heer hoort mijn gebet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 229101537
+%%humdrum-veritas-data 3646841383
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('A4(B2AGF2)G2(ABcAB2)z2).('B2A2G2G2F2G4z2).('G2G2G2G2G2(G2>A2Bcd2)z2).('d2d2d2c2B2(A2>G2ABc2cB/ A/cBc4)).('A4(B2AGF2)G2(ABcAB4)z2).('B2A2G2G2F2(G2>A2BG2<c2B/ A/cBc4)).('d4(B2AGF2)G2(ABcAB4)z2).('B2A2G2G2F2G4) |]

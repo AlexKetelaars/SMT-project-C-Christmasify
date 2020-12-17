@@ -1,0 +1,24 @@
+X: 13076
+T: Klein hagedisje jou klein hagedisje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 1137084063
+%%humdrum-veritas-data 4090876816
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D B B B A G |
+D B B (B A) G) |
+.('E E E E F G |
+A D DD3) |
+.('D B B B A G |
+D B B (B A) G) |
+.('E c c c B A |
+E c c (c B) A) |
+.('D G B d B G |
+D E FG2z) |]

@@ -1,0 +1,27 @@
+X: 2039
+T: De hemel is zo donker Ik zie geen maan of ster
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 3414302173
+%%humdrum-veritas-data 3272484538
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B2de2d |
+B3B2).('B |
+(G A) Bc2B |
+A3-A2).('G |
+F> F Af2e |
+e3d2).('e |
+d2cB2c |
+d3-d2).('G |
+F> F Af2e |
+e3d2).('e |
+d2cB2A |
+G3-G2) |]

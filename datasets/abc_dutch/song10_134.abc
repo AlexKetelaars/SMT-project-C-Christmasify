@@ -1,0 +1,23 @@
+X: 9133
+T: Van vrouden ons alle die kinderkens singen,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 7778173
+%%humdrum-veritas-data 2201799301
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: F clef=treble
+.('A [I:setbarnb 1]|
+GFAccc |
+ddBcc).('c |
+dddc2A |
+B2GAA).('c |
+BBGAAB |
+A2GF2).('F |
+AABccA |
+(BA)GA2) |]

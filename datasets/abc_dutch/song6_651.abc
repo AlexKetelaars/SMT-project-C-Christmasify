@@ -1,0 +1,42 @@
+X: 5650
+T: Ik zag Cecilia komen Langs eenen waterkant
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 3511985875
+%%humdrum-veritas-data 1724579014
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('D [I:setbarnb 1]|
+G2AB2c |
+d3d2).('d |
+e2ed2c |
+d3z2).('d |
+c2Bc2d |
+(B2A)B2).('c |
+d c B (A G) ^F |
+G3z2).('d |
+g2g (g a) g |
+(^f2=e)f2).('g |
+(a g) fe2f |
+d2).('cd2e |
+(f e) d (g f) e) |
+.('f2d (e d) c |
+B3z2).('B |
+d2d (d e) d |
+c3c2).('c |
+B2B (B c) B |
+A3A2).('D |
+G2AB2c |
+d3d2).('d |
+e2ed2c |
+d3z2).('d |
+c2Bc2d |
+B2AB2).('c |
+(d c) B (A G) ^F |
+G3z2z) |]

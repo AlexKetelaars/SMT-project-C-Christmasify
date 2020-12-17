@@ -1,0 +1,32 @@
+X: 4809
+T: Holland Holland gij waart zo goed Gastvrij o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 1691213861
+%%humdrum-veritas-data 399856000
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G3/A3/ |
+B3/d3/ |
+c3/BB/ |
+A3/-A).('c/ |
+cc/ c/ d/ e/ |
+d3/B).('B/ |
+cd/ (e/ c/) B/ |
+A3/-A).('A/ |
+AA/ B/ A/ F/ |
+G3/d3/) |
+.('A3/AA/ |
+d3/-d3/) |
+.('G3/Ac/ |
+B3/d).('d/ |
+cB/BB/ |
+e>).('e d/ (c/ |
+B3/)A3/ |
+G3/-G3/) |]

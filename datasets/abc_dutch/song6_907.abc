@@ -1,0 +1,40 @@
+X: 5906
+T: “Jan, dat gij t’ avond vroeg t’ huis komt, K [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1598014675
+%%humdrum-veritas-data 973295825
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F G/ A/ B c |
+d d c) .('c |
+d e f d |
+c2z2) |
+.('G G/ A/ B B |
+c c B) .('G |
+G B G E |
+F2z2) |
+.('F A/ A/c2 |
+A) .('c/ c/ d c |
+c B/ A/G2 |
+!fermata!C>) .('F F F/ G/ |
+A A/ B/ c d/ c/ |
+B>) .('c c d/ B/ |
+c B/ A/G2 |
+!fermata!C2).('A/ B/ A/ G/ |
+F F/) .('G/ A/ B/ A/ G/ |
+F) .('A B/ c/ B/ A/ |
+G) .('G/ A/ B/ c/ B/ A/ |
+G2).('c c |
+c B A A/ G/ |
+G F/) .('F/ G A |
+F F G A |
+F) .('F G A |
+F F G A |
+F4) |]

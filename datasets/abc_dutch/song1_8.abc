@@ -1,0 +1,28 @@
+X: 8
+T: Ay my! wat plagen! Wien hoor ick klagen?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:28
+%%humdrum-veritas 1648363364
+%%humdrum-veritas-data 2904254226
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d2dd |
+^c2A).('f |
+edd^c |
+d).('efg |
+aagf |
+e2d).('A |
+ABc3/d/ |
+cA_BA |
+G2A).('A |
+A/ G/ F/ E/D).('d |
+d/ c/ B/ A/G).('G |
+c/ B/ c/ d<ef/ |
+edd^c |
+d4) |]

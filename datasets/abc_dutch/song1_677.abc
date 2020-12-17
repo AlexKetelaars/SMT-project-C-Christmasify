@@ -1,0 +1,16 @@
+X: 677
+T: Mijn ooghen wou ick stueren Al tot die bergh [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1904793569
+%%humdrum-veritas-data 3535512596
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('D4DEFG(AGGF/ G/)A4z2).('_B2A2G2(F2EDE2)E2D4z4).('D4DEFG(AGGF/ G/A4)z2).('B2A2G2(F2EDE2)E2D4z4) ]|:
+.('z2A2A2A2G2A2F4).('F4c2>B2A2B4A4G2A4z2).('A2A2A2G2A2F2).('G2A2F2G2A2(F2D2EFGEFGAFGABAGFEDE4)D4) |]

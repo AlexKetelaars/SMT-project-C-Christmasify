@@ -1,0 +1,19 @@
+X: 16824
+T: trompet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 2047397752
+%%humdrum-veritas-data 2089555556
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2G2c de2 |
+c2e fg2e2 |
+a bc'2g2c'2) |
+.('g2e f g f e d |
+g f e de4) :|]

@@ -1,0 +1,30 @@
+X: 4676
+T: Tussen de polders en Fillepinen Woonde er en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 1573453522
+%%humdrum-veritas-data 14746739
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B B |
+A2A A |
+d2(d c) |
+B2G2) |
+.('c2c/ c/ B |
+A2A A |
+d2c2 |
+B4) |
+.('g g f e |
+g2f e |
+g2f e |
+e2d2) |
+.('B2B B |
+d2d d |
+e2f f |
+g4) |]

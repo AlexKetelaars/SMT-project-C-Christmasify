@@ -1,0 +1,26 @@
+X: 9653
+T: Een, twee, drie, vier! En Hannes die is hier!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 473115640
+%%humdrum-veritas-data 221056606
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C2E G |
+c3E |
+G G F D |
+C3).('G |
+G F F A |
+A G G G |
+G F F A |
+A G G z) |
+.('C2E G |
+c3E |
+G G F D |
+C2z2) |]

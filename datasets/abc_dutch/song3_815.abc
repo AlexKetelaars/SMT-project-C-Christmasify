@@ -1,0 +1,30 @@
+X: 2814
+T: Een jeugdig schoon bloem was uitgegaan en ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 3377216811
+%%humdrum-veritas-data 689653730
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2DG2D |
+G2A B) .('B B |
+E2FG2G |
+A2AB3- |
+B3).('d3 |
+[M:9/8]B B B B A B B A B |
+[M:6/8]E3D2).('d |
+G2A B A G |
+A3G2F |
+E3).('d3 |
+[M:9/8]B B B B A B B A B |
+[M:6/8]E3D2).('d |
+G2A B A G |
+A3G2F |
+E2) |]

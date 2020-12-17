@@ -1,0 +1,32 @@
+X: 16253
+T: Leert goden my waar in, Ik ‘t waar genoegen vin’
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1091576246
+%%humdrum-veritas-data 2113595744
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('(D, E,) [I:setbarnb 1]|
+(F, E,) (F, D,2<)A,2A, |
+A,6A,2 |
+E,2>E,2F,2D,2 |
+^C,6).('A,2 |
+(D, E,) (^C, D,) (E, F,) (D, E,) |
+F,6F,2 |
+(G, A,) (_B, A,) (G, F,) (E, F,) |
+G,2C,2z2).('_B,2 |
+G,2>F,2E,2D,2 |
+A,6F,2 |
+G,2A,2_B,2G,2 |
+(A, _B, A, B, A, G, F, A, |
+G, A, G, A, G, F, E, G, |
+F, E, D, E, F, G, A, D |
+^C2)A,2z2).('F,2 |
+_B,2G,2A,2A,2 |
+D,2D,2z2) :|]

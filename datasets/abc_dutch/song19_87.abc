@@ -1,0 +1,30 @@
+X: 18086
+T: No 53
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 799909350
+%%humdrum-veritas-data 4066613059
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('!wedge!c!wedge!c(ce) |
+!wedge!e!wedge!e(eg)) |
+.('(ge)(ge) |
+(d/ c/) !wedge!d/ !wedge!e/dz) |
+.('!wedge!c!wedge!c(ce) |
+!wedge!e!wedge!e(eg)) |
+.('(ge)!wedge!g/ !wedge!f/ !wedge!e/ !wedge!d/ |
+cccz) |
+.('(df)fd |
+(eg)!wedge!g!wedge!e) |
+.('(eg)f/ e/ d/ c/ |
+d/ c/ d/ e/dz) |
+.('dffd |
+egge) |
+.('dfe/ f/ e/ d/ |
+cccz) :|]

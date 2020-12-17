@@ -1,0 +1,55 @@
+X: 16424
+T: O nan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 1821654359
+%%humdrum-veritas-data 2809124683
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+Z4 |
+c2cc |
+B2A2 |
+G3G |
+A2F2) |
+.('c4 |
+ccBA |
+G2z2) |
+.('ddcB |
+A2z2) |
+.('ccBA |
+GFE).('C |
+c3c |
+B2A2 |
+G3G |
+F4) |
+.('GGG3/F/ |
+E2C2 |
+GGAB |
+c4) |
+.('ccBA |
+G3A |
+FAGF |
+E3).('D |
+CCCD/ E/ |
+FFF).('E |
+DDDE/ F/ |
+GGG).('F |
+EEEF/ G/ |
+AAA).('G |
+FFF/ G/ A/ B/ |
+ccBA |
+G4) |
+.('ddcB |
+A4 |
+ccBA |
+GFE).('C |
+c3c |
+B2A2 |
+G3G |
+F4) |]

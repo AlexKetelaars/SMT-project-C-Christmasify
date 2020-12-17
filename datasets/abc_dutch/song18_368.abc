@@ -1,0 +1,28 @@
+X: 17367
+T: La Jalousie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 741766130
+%%humdrum-veritas-data 2776388480
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('d2 e2 f2 e2 |
+d f e d ^c2 A2 |
+d2 e2 f2 e2 |
+d e f ga4) |
+.('e2 e f g2 g2 |
+g2 g2g4 |
+g2 f e f2 g2 |
+a2 g fe4 |
+d e f ga4) |
+.('d f e d ^c2 A2 |
+d e f ga4 |
+d f e d ^c2 A2 |
+a f g a _b a g f |
+e2> d2!fermata!d4) :|]

@@ -1,0 +1,15 @@
+X: 127
+T: Ontfermt u Heer, ontfermt u over my, Want ic [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1763837500
+%%humdrum-veritas-data 1931564149
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d4f4e4d4g4f2d2e2e2d4z4).('d4e2f2g4g4f2d2e2e2d4z4).('d4f2f2e4d4c2e2d2c2B4A2).('c2d2e2f4f4e2d2d2c2d4z4).('d4f2e2d4A4B2d2c2B2A4G4) |]

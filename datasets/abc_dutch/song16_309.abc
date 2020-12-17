@@ -1,0 +1,31 @@
+X: 15308
+T: Ich weiss nicht, was soll es bedeuten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 1066792112
+%%humdrum-veritas-data 1693408687
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Db clef=treble
+.('A [I:setbarnb 1]|
+A> B A d c B |
+A3G2G |
+F2F {F} E D E |
+F2>-F2 z) .('A |
+A> B A d c B |
+A3G2G |
+F2F A G E |
+D2>-D2 z) .('F |
+E> F E A E A |
+c3B2B |
+A2A =G A B |
+A3-A2).('A |
+A> B A d c B |
+A2fe2e |
+d2d {d} c B c |
+d2>-d2 z) |]

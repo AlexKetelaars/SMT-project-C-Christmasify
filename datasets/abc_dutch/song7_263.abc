@@ -1,0 +1,27 @@
+X: 6262
+T: Ik ben een meisje, frisch en jong, En ben Go [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 2847769769
+%%humdrum-veritas-data 237164257
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2BG2G |
+D2DD2).('D |
+c2cA2A |
+F3z2).('D |
+G2B (d c) B |
+A2Ac2).('A |
+G2GA2A |
+B3z2).('D |
+G2B (d c) B |
+A2Ac2).('A |
+G2GB2A |
+G2zz2) |]

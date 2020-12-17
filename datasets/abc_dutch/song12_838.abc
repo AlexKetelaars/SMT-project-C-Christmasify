@@ -1,0 +1,26 @@
+X: 11837
+T: Balette
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 190029271
+%%humdrum-veritas-data 2844724113
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d> ^c d> ef2f2 |
+f> e f> ga2a2) |
+.('a> g a> bc'2(_b a) |
+g2>f2f4) ||
+[M:3/4].('a2a2g f [I:setbarnb 6]|
+g2g2f e |
+f2f2e d |
+^c4A2) |
+.('f2f2e f |
+g2>g2 a g |
+f2(e3d) |
+d6) |]

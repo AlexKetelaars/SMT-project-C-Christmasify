@@ -1,0 +1,28 @@
+X: 5192
+T: Meisje met je bleeke wangen Hoe sta je daar  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 3033750484
+%%humdrum-veritas-data 3670393872
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A2-A> G F> E F3/ G/ |
+A4F3z/) .('A/ |
+G2-G> A G> F E3/ D/ |
+C2c> cc4) |
+.('A2-A> G (3F F E F3/ G/ |
+A4F3z/) .('A/ |
+G2-G> A G> F E3/ D/ |
+[M:3/2]C2c> cc2).('c2d2c2 |
+A4>c4d2c2 |
+A4>).('A4G2F2 |
+E2G2z2d2c2E2 |
+[M:4/4]F2A2z2).('c2 |
+[M:3/4]d2c2E2 |
+[M:4/4]F8) |]

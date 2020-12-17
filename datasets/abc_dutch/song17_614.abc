@@ -1,0 +1,22 @@
+X: 16613
+T: Psalm 51
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2638036841
+%%humdrum-veritas-data 3547161766
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 16/2
+Q: 1/2=60
+K: F clef=treble
+.('A4c2c2d4A4c2c2G4B4A4 |
+A4A2G2F4A4A2=B2^c2d2c4d4) |
+.('d4B2B2A4F4G2A2B2A2G4F4 |
+A4c2d2e4c4d2f2e2e2d4x4) |
+.('d4d2d2c4A4d2d2c4B4A4 |
+d4d2e2f4d4c2A2B2c2(d4{c2 B2 A2)}A4) |
+.('A4B2G2A4F4G2A2B4G4A4 |
+d4c2c2d4f4f2e2d2c2B4A4) |]

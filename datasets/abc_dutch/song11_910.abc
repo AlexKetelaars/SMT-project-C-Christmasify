@@ -1,0 +1,28 @@
+X: 10909
+T: ‘k Kwam op de Visschemarkt gegaan: ‘k Vond d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 4270855942
+%%humdrum-veritas-data 3493692986
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E/EA/ [I:setbarnb 1]|
+AA/AA/ |
+A3/).('AB/ |
+cB/AB/ |
+!fermata!B) :|]
+.('B/Bd/ [I:setbarnb 5]|
+c3/AA/ |
+G3/).('BB/ |
+A>A G/ A/ |
+!fermata!B).('B/Bd/ |
+c3/AA/ |
+G3/).('EG/ |
+A/ G/ A/Bc/ |
+A3/zz/) |]

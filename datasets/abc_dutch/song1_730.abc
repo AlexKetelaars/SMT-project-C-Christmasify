@@ -1,0 +1,32 @@
+X: 730
+T: Maximiljanus de Bossu,, Ben ick een Graef ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2218855657
+%%humdrum-veritas-data 3666900821
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+GGG_B |
+A>G^FG |
+ECE^F |
+(G3/^F// G//A2) |
+G3).('G |
+GGG_B |
+A>G^FG |
+ECE^F |
+(G3/^F// G//A2) |
+G3).('G |
+c>BAG |
+c(B/ A/)G).('G |
+c>G(AG/) F/ |
+(E/ D/ E/) F/G2) |
+.('C2DE |
+FED2 |
+C3) |]

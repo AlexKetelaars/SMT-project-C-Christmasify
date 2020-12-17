@@ -1,0 +1,37 @@
+X: 3807
+T: Ik ben laatstmaal op enen keer Naar mijn sch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 2238684807
+%%humdrum-veritas-data 895676164
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2BB2B |
+(B A) BG2).('G |
+(G A) B (d c) B |
+A3-A2).('d |
+g2BB2B |
+(B A) BG2).('G/ G/ |
+(G A) B (d c) B |
+A3-A2).('d |
+d2ed2e |
+d3-d>) .('d d/ d/ |
+e2f (g f) e |
+d2>).('B2 B d |
+(dc2)c c e |
+(ed2)-d2).('G |
+(G B) d g f e |
+(d c) AB3- |
+B2>).('B2 B d |
+(dc2)c c e |
+(ed2)-d2).('G |
+(G B) d g f e |
+(d c) AG3- |
+G3-G2) |]

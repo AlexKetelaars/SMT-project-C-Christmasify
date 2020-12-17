@@ -1,0 +1,49 @@
+X: 1629
+T: Koosje Koosje hoe is je naam 'k Ben voor all [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 3303122907
+%%humdrum-veritas-data 3307262576
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('G B [I:setbarnb 1]|
+d2 e2 d ^c |
+d2 z2) .('G B |
+d2 e2 d ^c |
+d2 z2) .('G B |
+d2 e2 d ^c |
+d2 B2) .('G B |
+d2 e2 d ^c |
+d2 B2) .('G B |
+d2> e2 d ^c |
+d2>) .('G2 G B |
+d2 e2 d ^c |
+d2>) .('G2 G B |
+d d e2 d ^c |
+d2 B2) .('G B |
+d2 e2 d ^c |
+d2 B2) .('G B |
+d2> d2 d d |
+d4).('G B |
+d2 e e d ^c |
+d4).('G B |
+d2 e2 d ^c |
+d2 B2) .('G B |
+d2 e2 d ^c |
+d2 B2) .('G B |
+d2 e2 d ^c |
+d4).('G B |
+d2 e e d ^c |
+d2 B2) .('G B |
+d d e d d ^c |
+d2 B2 z2) |
+[M:2/4].('e2> d2 d c c B |
+B4A4) |
+.('e2> d2 d c c c |
+!fermata!B4A4) |]

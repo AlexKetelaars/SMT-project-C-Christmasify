@@ -1,0 +1,30 @@
+X: 6321
+T: Volkslied de Russen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 3039104216
+%%humdrum-veritas-data 1778653796
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('(e2f)f |
+e>cAA |
+(a2g)f |
+e2f2) |
+.('d2e2 |
+c>Bc^d |
+e2^d2 |
+c3z) |
+.('(d2c)B |
+c>cce |
+a>gf^d |
+f2e2) |
+.('a2gf |
+e2d2 |
+c2{B c}B7//A// |
+A3z) |]

@@ -1,0 +1,33 @@
+X: 4714
+T: Hollandse meisjes waar ga je naar toe Wij ga [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 3859800598
+%%humdrum-veritas-data 2883234256
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('ddd |
+Bcd |
+eee |
+d3) |
+.('c2c |
+(Bd)d |
+(dc)A |
+G2).('G/ A/ |
+BBB |
+B2A/ B/ |
+ddd |
+d2).('d |
+ddd |
+gdB |
+Add |
+d2).('d/ d/ |
+Bcd |
+c2z3// g// |
+g3) |]

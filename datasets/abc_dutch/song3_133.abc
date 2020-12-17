@@ -1,0 +1,23 @@
+X: 2132
+T: En ik ben er dat Groenlandse straatje En zo  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 2961106705
+%%humdrum-veritas-data 1109938260
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GcBAGA |
+(Bd)Gz2).('B/ B/ |
+Add(AB)c |
+d3-d2).('d/ d/ |
+cBdedc |
+(Bc)dz2).('G/ G/ |
+AedcBA |
+G3-G2) |]

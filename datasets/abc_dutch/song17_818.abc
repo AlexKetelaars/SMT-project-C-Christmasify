@@ -1,0 +1,25 @@
+X: 16817
+T: Trompet achter Lavains Mars
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 1460535336
+%%humdrum-veritas-data 1663290196
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('c2 [I:setbarnb 1]|
+e2f2g2g4a2 |
+g2>f2 e de2c2).('e f |
+g4G2c2d4 |
+e6e4) |
+.('e f [I:setbarnb 5]|
+g4G2c2d4 |
+e2f e d cd2G2).('e f |
+g2>f2 e dc2d3c/ d/ |
+e6f e d c d e |
+c6c4) :|]

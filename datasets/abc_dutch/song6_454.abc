@@ -1,0 +1,30 @@
+X: 5453
+T: Ach liefde wat een groot vermaaken, Als gy i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2094131581
+%%humdrum-veritas-data 76748639
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+e2B2c3B |
+A2B2^G2E2) |
+.('c2c eA4) |
+.('f2f ed2e2 |
+d2>c2c4) |
+.('B2e2c2d e |
+f2).('f ed2e f |
+e2d2).('A2A B |
+c2(d e) (f e) (d c) |
+B2G2).('c G (A _B) |
+A2(B c) (d c) (B A) |
+^G2E2).('c3d |
+e2f ed2c B |
+c2c2B3A |
+A6) :|]

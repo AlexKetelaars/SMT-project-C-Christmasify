@@ -1,0 +1,32 @@
+X: 16372
+T: Neen Jaep dat raedt gy niet. Gae vry by Klae [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 4062067348
+%%humdrum-veritas-data 3972455556
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E [I:setbarnb 1]|
+(A G) AE2c |
+(c3B2)).('c |
+(d c) B (c B) A |
+(G F E)E2).('B |
+(B F) G (A B) A |
+(G A B)B2).('c |
+(B c) A (G A) F |
+E3-E2) |
+.('E [I:setbarnb 9]|
+(e d) c (d c) B |
+(c B) ^A B c) .('d |
+(d c) B (c B) A |
+(B A) G A B) .('c |
+(A B) c (d e) f |
+(f3e2)).('f |
+(e c) A (B A) G |
+A3-A2) :|]

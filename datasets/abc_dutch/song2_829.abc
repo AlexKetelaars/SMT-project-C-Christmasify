@@ -1,0 +1,33 @@
+X: 1828
+T: Een jonge speelman ging met rasse schreden D [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2123822125
+%%humdrum-veritas-data 790647316
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/GA/ [I:setbarnb 1]|
+(B3/d)d/ |
+dB/AB/ |
+G3/-G3/ |
+F).('A/AF/ |
+E3/AA/ |
+AB/cB/ |
+[M:9/8]A>-A z/) .('A/AB/ |
+[M:6/8]c3/-cB/ |
+cB/cB/ |
+(A3/e3/) |
+d).('c/BA/ |
+G3/d3/ |
+de/dc/ |
+B3/).('d3/ |
+(d3/e)d/ |
+c3/-cB/ |
+AB/cF/ |
+[M:9/8]G>-G z/) |]

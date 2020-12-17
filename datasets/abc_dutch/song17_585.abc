@@ -1,0 +1,44 @@
+X: 16584
+T: De mens door al sijn leven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:04
+%%humdrum-veritas 784698801
+%%humdrum-veritas-data 2167771737
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('z2z2E2 |
+A4B2 |
+(c2B2)A2 |
+^G6) |
+.('E4e2 |
+A4(B/ c/d) |
+c4(BA) |
+A4).('B2 |
+c4d2 |
+e4f2 |
+dcdedc |
+B4).('g2 |
+(B2c2)d2 |
+ef2<d2c |
+c6) |
+.('B2c2d2 |
+A4d2 |
+fgfedc |
+B4e2 |
+A4Bc |
+dedcBA |
+^G4E2) |
+.('A2c2c2 |
+A6 |
+c2f2e2 |
+d4e2 |
+fgfedc |
+B2>A2^G2 |
+(AB)B4 |
+A6) |]

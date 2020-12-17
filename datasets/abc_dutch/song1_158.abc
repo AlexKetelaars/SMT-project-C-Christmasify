@@ -1,0 +1,15 @@
+X: 158
+T: Heer die my duslangh' hebt behoedt, Ick roep [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1148925778
+%%humdrum-veritas-data 2400287983
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A4F2G2A2d2c4B4A4z4).('d4c2c2d2c2A2c2B4A4z4).('A4c2B2A4G4A2_B2G4F4z4).('F4G2A2D2E2F4E4D4z4).('D4F2G2A4d4A2c2=B4A4z4).('A4_B2G2A4F4G2F2E4D4) |]

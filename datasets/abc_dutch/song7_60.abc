@@ -1,0 +1,40 @@
+X: 6059
+T: Airgaij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3361574556
+%%humdrum-veritas-data 1320286625
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('affd |
+dAA2) |
+.('d~c/ d/e~d/ e/ |
+f2e2) |
+.('affd |
+dAA2) |
+.('BA/ B/cB/ c/ |
+d2d2) |
+.('fff/ a/ g/ f/ |
+eee/ g/ f/ e/ |
+ddd~c/ d/ |
+B2A2) |
+.('a2^g2 |
+a~^g/ f/ed |
+c2B2 |
+A2A2) |
+.('F~F/ G/F~E/ D/ |
+AAA2) |
+.('F~F/ G/F~E/ D/ |
+A2A2) |
+.('dAeA |
+f~e/ d/eA) |
+.('dAeA |
+f~e/ d/ea) |
+.('f~e/ d/e~d/ c/ |
+d4) :|]

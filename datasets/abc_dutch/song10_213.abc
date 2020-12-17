@@ -1,0 +1,23 @@
+X: 9212
+T: Ain boer wol noar zien noaber tou, hai, boer, hai
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3940146506
+%%humdrum-veritas-data 1468657746
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A> A A/ A/ G F E |
+(A B) cB2).('E |
+A> A A/ A/ G F E |
+(A B) cB2).('c |
+d B B c A A |
+B G G (A c)) .('c |
+d B B c A A |
+B G G A) |]

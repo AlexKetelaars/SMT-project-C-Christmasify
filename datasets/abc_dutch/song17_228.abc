@@ -1,0 +1,73 @@
+X: 16227
+T: Wat reedlykheit steekt in de min die zelden  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2771641152
+%%humdrum-veritas-data 3329865623
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('z8 |
+z4z2z E |
+(A/ B/ c) (B/ c/ d) (c/ d/ e) (d/ e/ f) |
+(e/ d/ c) (d/ e/ f)e2z) .('(d/ c/) |
+(B/ A/ ^G) (A/ B/ c) B B c (d |
+c2>)B2B2z2 |
+z8 |
+z4z2z) .('E |
+(A/ B/ c) (B/ c/ d) (c/ d/ e) (d/ e/ f) |
+(e/ d/ c) (d/ e/ f)e2z) .('(d/ c/) |
+(B/ A/ ^G) (A/ B/ c) B B c (d |
+c2>)B2B2z) .('B |
+(B> d c> e d> f e g/ f/ |
+e2>)B2^A2B2 |
+c2(d c)c2z) .('d |
+(e/ f/ g)f2d2B2 |
+e4f4 |
+g2f2^d3e |
+e2z2z4 |
+z2z) .('e2<c2d |
+e2(e/ f/ g2<)(f2F |
+^G> B ^A> cB3c |
+d2)(e/ f/ g)f2e) .('d |
+(d2c) B^A2F z |
+z4z2z) .('d |
+e2>e2f3f |
+g2z e2<c2B |
+e2(f e)e2z) .('f |
+g f e d c d A d |
+(e2f) (e/ d/)d2z) .('B |
+g> g f> ff3B |
+(e2d c2<d2=c/ B/) |
+=c2^A2d3c |
+c2>B2B2z2 |
+z4z2z) .('B |
+(c/ d/ e) (c/ B/ A)^G2A2 |
+(B/ c/ d c) BB2z e |
+(B/ c/ d c) BB2z) .('e |
+e2(^d c)B2(A/ B/ c) |
+(^G2F) EE2z2 |
+z4z2z) .('E |
+A4B2e2 |
+c4B3c |
+d f e dc2d e |
+F F ^G AG2E) .('e |
+B2(c d2<)c2B |
+B2z d (e f d c |
+d c B c d e c B |
+c B A B c d B A) |
+B2).('e2^G3A |
+B2E2A2A B |
+c d e fB4 |
+A2z) .('d (e f d c |
+d c B c d e c B |
+c B A B c d B A) |
+B2).('e2^G3A |
+B2E2A2A B |
+c d e fB4 |
+A4) |]

@@ -1,0 +1,26 @@
+X: 4997
+T: Toen ik op hooge bergen stond, keek ik het z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1738324360
+%%humdrum-veritas-data 1799821262
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A, [I:setbarnb 1]|
+D2EF2G |
+A2BA2).('A |
+B2B (c B) c |
+d3z2).('A |
+d2dc2B |
+A3F2).('A |
+A B A A G F |
+E2z) ]|:
+.('B> B B [I:setbarnb 9]|
+A2DF2E |
+D3) :|]

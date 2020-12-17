@@ -1,0 +1,16 @@
+X: 695
+T: Doersocht en bekent hebt ghi Mi Heer mijn si [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 4283365387
+%%humdrum-veritas-data 1714572729
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2D4C4z2C2(DEFGF2)E2F4).('C4D4E4(FEFGF2EDC2)D4C2B,4A,4).('z2F2D4C4z2C2(DEFGF2)E2F4).('C4D4E4(FEFGF2EDC2)D4C2B,4A,4) ]|:
+.('D4D2>D2D2D4(E2F2EDE4)C4).('F4E2>F2G2A4G2(A2G2)F4E4).('!fermata!G4E4C4F4E2(F2F2EDE4)D4z2).('C2F4E2E2(D2C=B,A,G,2<D2)DC2_B,4A,4) |]

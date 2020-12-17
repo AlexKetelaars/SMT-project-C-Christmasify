@@ -1,0 +1,27 @@
+X: 5083
+T: Ik heb een huisje: ‘t is wel klein, maar fli [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 2912344584
+%%humdrum-veritas-data 2047183391
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C F G [I:setbarnb 1]|
+A2>B2 G A |
+F2>).('G2 A B |
+c2>d2 B c |
+A2>).('F2 F F |
+d2>d2 f d |
+(c2A)) .('c c c |
+B2G2c B |
+A2>).('F2 F F |
+d2>d2 f d |
+(c2A)) .('c c c |
+B2G2c B |
+A3) |]

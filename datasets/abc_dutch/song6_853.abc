@@ -1,0 +1,27 @@
+X: 5852
+T: Er was een maagdetje jong en teer, Het bemin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 4284366085
+%%humdrum-veritas-data 849718194
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('GA [I:setbarnb 1]|
+BBBB |
+!mordent!!mordent!B2).('AB |
+{A}G2).('GA |
+ABGA |
+A4) |
+.('Bcd2) |
+.('(cB)ed |
+(!mordent!!mordent!c>B)B2) |
+.('GAA2) |
+.('GAAB |
+BA!mordent!!mordent!A2 |
+G4) |]

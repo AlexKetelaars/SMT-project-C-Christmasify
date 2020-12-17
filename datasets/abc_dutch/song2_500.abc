@@ -1,0 +1,28 @@
+X: 1499
+T: Daar trokken drie heertjes al over de Rijn Z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2762484067
+%%humdrum-veritas-data 2856636808
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+def |
+gf3/e/ |
+dd3/c/ |
+B2).('d |
+dcB |
+ABc |
+ed3/c/ |
+B2).('G |
+GBd |
+a3 |
+g2g |
+aef |
+g2) |]

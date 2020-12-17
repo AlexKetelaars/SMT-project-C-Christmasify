@@ -1,0 +1,31 @@
+X: 4962
+T: Schommeltje lood Jan Dirksen dood
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 3902823502
+%%humdrum-veritas-data 3156270672
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d dB2d |
+d2dB2).('d |
+d2de2e |
+d3B2).('d |
+d2de2e |
+d3B3) |
+.('d2de2e |
+d2dB3) |
+.('d d de2e |
+d2dB2).('e |
+d3B2e |
+d3B2).('d |
+d2d d e d |
+B2d d e d |
+B3B2).('d- |
+(d e) dB3 |
+B3B3) |]

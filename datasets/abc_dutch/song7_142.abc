@@ -1,0 +1,32 @@
+X: 6141
+T: De gragt wegt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3706057686
+%%humdrum-veritas-data 199923850
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c B [I:setbarnb 1]|
+A2G2A2B2 |
+c B A GF2).('f2 |
+f cf2f2g a |
+g fg2g2).('a b |
+a2g af2g a |
+b4a2).('g f |
+e2f gG2A =B |
+c6) :|]
+.('e f [I:setbarnb 9]|
+g2a gg2a b |
+a2g2f2).('b a |
+g2f ed2e f |
+e2d2c2).('B2 |
+A2B2c Bc2 |
+d2e f e d).('c2 |
+f2g ag2f e |
+f4) |]

@@ -1,0 +1,29 @@
+X: 7511
+T: Te Duynkerk’ gaet het al verkeerd; De meysje [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 1233525814
+%%humdrum-veritas-data 1851922904
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G Bd2 |
+(c B) A d |
+B G G B |
+d2(c B) |
+A d B z |
+z) .('B B A |
+B2c2 |
+d B (3G z G |
+(3G G G (3G F G) |
+(3:2:5.('A2 A A z B |
+B AB2 |
+c2d B |
+(3:2:5G z B A2 A |
+G2z) |]

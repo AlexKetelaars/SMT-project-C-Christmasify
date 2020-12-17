@@ -1,0 +1,35 @@
+X: 1411
+T: En ik ben er dat groenelands straatje Ja zo  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1085597951
+%%humdrum-veritas-data 2325923992
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GBG |
+DG(A/ c/) |
+(B2A) |
+G2).('A/ B/ |
+cde |
+ddd |
+A3- |
+Az).('A/ B/ |
+cde |
+edc |
+(B2e) |
+d2).('G/ G/ |
+ABe |
+dBA |
+G2(A/ c/) |
+B2).('G/ B/ |
+ddd |
+cBA |
+G3- |
+Gz) |]

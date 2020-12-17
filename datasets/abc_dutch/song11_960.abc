@@ -1,0 +1,70 @@
+X: 10959
+T: 16a
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 1703150454
+%%humdrum-veritas-data 2933483593
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B c d B |
+G2g2B2 |
+c2a2e2 |
+!trill!!trill!f2>e2d2) |
+.('G2B c d B |
+G2g2B2 |
+c2a2e2 |
+f2>).('f2 g a |
+b2>b2 a g |
+f g2<!trill!!trill!g2f |
+g2d2d2 |
+d2>).('e2 d c |
+d B d B e c |
+d B d B e c |
+d2e fg2 |
+z2f ga2 |
+z2d2d2 |
+d2>).('e2 d c |
+d B d B e c |
+d B d B e c |
+d2e fg2 |
+f g2<!trill!!trill!g2f |
+g2).('b3b |
+b2^d2f g |
+f2B2e ^d |
+e f2<!trill!!trill!f2e |
+e2).('a3a |
+f2d3e |
+!trill!!trill!^c2A2a2 |
+g f2<!trill!!trill!e2d |
+d2).('A B A B |
+c2c3d |
+B2>B2e2 |
+d2>d2g2 |
+e2>e2a2 |
+f2>e2d2) |
+.('z2g2b2 |
+a2>a2 b c' |
+e2f ed2 |
+!trill!!trill!g6- |
+g6- |
+g6 |
+f g2<!trill!!trill!g2f |
+g2d2d2 |
+d2>).('e2 d c |
+d B d B e c |
+d B d B e c |
+d2e fg2 |
+z2f ga2 |
+z2d2d2 |
+d2>).('e2 d c |
+d B d B e c |
+d B d B e c |
+d2e fg2 |
+f g2<!trill!!trill!g2f |
+g6) |]

@@ -1,0 +1,31 @@
+X: 13053
+T: Zachtjes gaan de paardevoetjes trippel trapp [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 1553848359
+%%humdrum-veritas-data 1379131677
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('E E [I:setbarnb 1]|
+A2A2A B |
+A2G2z2 |
+B E B E B c |
+A2z2).('E E |
+A2A2A B |
+A2G2z2 |
+B E B E B c |
+A2z2).('A G |
+F2>G2 A F |
+E2z2E E |
+D2>E2 F D |
+C2z2).('E E |
+F2G2A B |
+c4F B |
+A2E2G B |
+A4) |]

@@ -1,0 +1,26 @@
+X: 15281
+T: Heer onze Heer, grootmachtig Opperwezen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2862703873
+%%humdrum-veritas-data 1049019717
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2G> Gc3G |
+E G c> dc2B2 |
+z4z) .('G B c |
+d2>c2 B A G D |
+F2E2c2c3/ c/ |
+A4d2d d |
+B2z2).('e d c3/ B/ |
+A2>B2 c A G F |
+E2G2G2G2 |
+A4d4 |
+B2G2A2B2 |
+c4z4) |]

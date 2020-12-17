@@ -1,0 +1,36 @@
+X: 14842
+T: Aria
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3698592434
+%%humdrum-veritas-data 2442279147
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>B2d2d2 |
+(d c) (B c2<)A2c |
+(c B) (A G) F E c A |
+G2>A2F2D2 |
+G2G Bd2d2 |
+(d c) (B c2<)A2c |
+(B G E) A A G G F |
+A4G2).('G B |
+d2d2d2e f |
+g2>d2d2G B |
+d2d2d2e f |
+g2>g2g2z e |
+e2A2A B c d |
+e2A2A B c ^c |
+d e f g g e c A |
+G4B A G A) |
+.('G B/ A/ c/ B/ d/ c/ e/ d/ g/ f/ e/ d/ c/ B/ |
+B/ A/ ^G/ A/ B/ c/ d/ e/=G2B A |
+G B/ A/ c/ B/ d/ c/ e/ d/ g/ f/ e/ d/ c/ B/ |
+B/ A/ ^G/ A/ B/ c/ d/ e/=G2B A |
+G4z2) :|]

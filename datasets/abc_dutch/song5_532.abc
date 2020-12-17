@@ -1,0 +1,33 @@
+X: 4531
+T: Komt vrienden hoort mijn liedje aan Ik was e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3487999181
+%%humdrum-veritas-data 271015205
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B> G D D G G |
+A4-A) .('A |
+A F D D G3/ A/ |
+B4-B) .('B |
+B> G D D G3/ B/ |
+A2A3).('A |
+d> c A G F E |
+A6 |
+D4!fermata!z x) ||
+[M:6/8].('x2D D E F [I:setbarnb 11]|
+G2).('DE2F |
+G2BB2B |
+G2>).('D2 E F |
+G2BB2B |
+A3).('A2A |
+A2A A A A |
+d2).('D D E F |
+G6) |]

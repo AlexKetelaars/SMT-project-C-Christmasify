@@ -1,0 +1,40 @@
+X: 15341
+T: O God! verlaat mijn Neerland niet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 746404149
+%%humdrum-veritas-data 2695802677
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E< E E/ [I:setbarnb 1]|
+E4-E E A3/ B/ |
+c2A2z2z A |
+A2>G2 B A G F |
+E4z2).('E2 |
+G2>^F2G2B2 |
+B4A2A2 |
+=A2>^G2A2c2 |
+c4).('B2B2 |
+d2>c2 B A G F |
+!fermata!=E4){.('E} F G A B |
+!fermata!c4z> c c3/ c/ |
+!fermata!c4z> c c3/ c/ |
+c4z c c c |
+c4z c d c |
+!fermata!d4z2).('E2 |
+A6G2 |
+F6F2 |
+B2>c2B2A2 |
+G6).('E2 |
+c4c4 |
+c3=B/ c/e2d2 |
+c6B2 |
+A3G/ A/c2B2 |
+A4G4 |
+A4z3/) |]

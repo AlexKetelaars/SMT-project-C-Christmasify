@@ -1,0 +1,20 @@
+X: 1520
+T: Mijn moeder heb vlas gekocht En ik moet lere [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 4289773723
+%%humdrum-veritas-data 279416241
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2(3B B c d> d d3/ d/ [I:setbarnb 2]|
+e> d c> BA2G2) :|]
+.('B B B Bc2c2 |
+A2A2d2z) .('G |
+(3G G A B> c d> d d3/ c/ |
+B> B A> AG2z2) |]

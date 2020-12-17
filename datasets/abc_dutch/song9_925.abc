@@ -1,0 +1,23 @@
+X: 8924
+T: Daar vrijde eens een ruitertje naar een meid [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 1643739332
+%%humdrum-veritas-data 1130235843
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) [I:setbarnb 1]|
+Bd/ B/GA/ B/ |
+A>FD).('A3// B// |
+A>FGF |
+E2D).('D/ D/ |
+EE/ F/GF/ E/ |
+EDD).('E/ F/ |
+G>ABB |
+A2G) |]

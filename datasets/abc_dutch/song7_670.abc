@@ -1,0 +1,30 @@
+X: 6669
+T: Pierelala leî in de kist, al met zijn billet [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 480704088
+%%humdrum-veritas-data 3525385552
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F F FF2G |
+A2AA2).('F |
+G2A B> A G |
+F3z2).('C |
+F2FG2G |
+A2AA2).('F |
+G2A (B> A) G |
+F3z2).('c |
+B2AG2F |
+E2FG2).('c |
+B2AG2F |
+E2FG2).('c |
+c2AF2f |
+(f3d2)).('d |
+c2c (B A) G |
+F3z3) |]

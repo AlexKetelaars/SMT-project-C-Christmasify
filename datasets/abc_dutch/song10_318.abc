@@ -1,0 +1,23 @@
+X: 9317
+T: Ik ben een jong soldaatje van één en twintig [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 525101187
+%%humdrum-veritas-data 258619128
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+E E E EE2D) .('E |
+F F F GF2E) .('G |
+E E E EE2D) .('E |
+F F F GF2E) .('E |
+D ^C D E F F/ F/ F) .('F |
+E D E F G G/ G/ G) .('G |
+A G A B c E F F |
+E2D2C2z) |]

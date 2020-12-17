@@ -1,0 +1,39 @@
+X: 15296
+T: Als de zwaluw ons verlaat
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 3014329196
+%%humdrum-veritas-data 1004489062
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('C3/ D/ [I:setbarnb 1]|
+E2>A2 c3/ B/ |
+A4G F |
+E2-E/ A/ G/ F< E D/ |
+C2z2).('C ^E |
+F2>F2 G3/ C/ |
+A4A/ c/ A/ F/ |
+E> B,G3F |
+E2z2).('E3/ F/ |
+G2>E2 G A |
+B4G3/ A/ |
+B2>^A2 B c |
+d6) |
+.('c4(3B c B |
+A4E2 |
+(E2F) G A B |
+c4z2) |
+.('(F2c2)z B |
+(E4A2) |
+G2A2B2 |
+c6) |
+.('(e2>d2) F B |
+B4A2 |
+G2c3B |
+A4) |]

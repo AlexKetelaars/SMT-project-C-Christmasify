@@ -1,0 +1,65 @@
+X: 10379
+T: 141
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 1468350496
+%%humdrum-veritas-data 3740727099
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+d3 B/ G/ !mordent!!mordent!e3 c'/ e/ !mordent!!mordent!e2 d2 z2 g b |
+{b} a g f e {e} d c B A (3B A G G2 G2 d b |
+(3a b c' (3f g a (3c d e (3A B c B2G4!mordent!!mordent!A2 |
+(3B A G (3d c B g2 B2 B2A4d2 |
+(3^c B A A2 (3z e f (3g f e f> d c> d c> d c3/ d/ |
+(3^c e ^G A2 (3z e f {a} (3g f ef4z2) .('!mordent!!mordent!g2 |
+(3a f d a2- (3a g f (3e d c B G !mordent!!mordent!G2 B G !mordent!!mordent!G2 |
+(3g e ^c g2- (3g f e (3d c B A F !mordent!!mordent!F2 A F !mordent!!mordent!F2 |
+(3f e d f2- (3f e d (3^c B A G E !mordent!!mordent!E2 G E !mordent!!mordent!E2 |
+{f} (3e d ^c e2- (3e d c (3B A G !mordent!!mordent!G2 F2 z2) .('A2 |
+{e} d2 d2 (3a g =f (3f e d {e} !mordent!!mordent!d2 ^c2 z2 A2 |
+(3A B ^c (3c d e (3e =f g (3g f e !mordent!!mordent!f2 d2 z d _B A |
+^G2 G2 G2 G2 (3G A _B (3B c d (3d c B (3B A G |
+(3A ^G A a A (3A G A a A G B=f4).('G2 |
+(3A ^c e (3a e c A2 e2 (3=f e d a d!mordent!!mordent!e4 |
+(3=f/ e/ d/ a/ d/ (3f/ e/ d/ a/ d/ (3e/ d/ ^c/ a/ c/ (3e d c a/ c/ d2 f/ d/ ^G2 !mordent!!mordent!G2 |
+A2 {f} e2- (3e d ^c (3B A G (3F E F (3G F E!mordent!!mordent!E4 |
+D d !mordent!!mordent!d2 z d !mordent!!mordent!d2 z d !mordent!!mordent!d2 z d !mordent!!mordent!d2 |
+f> d ^c< B A< G F< E D2> E2!mordent!!mordent!E4) |
+.('F d (3d A F B G (3G E ^C F d (3d A F B G (3G E C |
+F2 A2 B2 E2!fermata!F6) |
+.('D2 [I:setbarnb 22]|
+!mordent!!mordent!A3 F/ D/ !mordent!!mordent!B3 g/ B/ !mordent!!mordent!B2 A2 z2 d f |
+{f} e d ^c B {B} A G F E (3F E D D2 D2 A f |
+(3e f g (3^c d e (3G A B (3E F G!mordent!!mordent!F4z2) .('G2 |
+!mordent!!mordent!d3 B/ G/ !mordent!!mordent!e3 c'/ e/ !mordent!!mordent!e2 d2 z2 g b |
+{b} a g f e {e} d c B A (3B A G G2 G2 d b |
+(3a b c' (3f g a (3c d e (3A B c!mordent!!mordent!B4z2) .('d2 |
+!mordent!!mordent!d3 B/ G/ !mordent!!mordent!F3 E/ F/ {A} G F G2- G A B c |
+d B =f d a f e d e c !mordent!!mordent!c2 g d !mordent!!mordent!d2 |
+(3e d c g2 (3g =f e (3f e d (3e d c (3a f d c2 !mordent!!mordent!B2 |
+c4z2) .('e2 !mordent!!mordent!e3 ^c/ A/ !mordent!!mordent!^G3 F/ G/ |
+{B} A ^G A2- A B ^c d e c ^g e b g f e |
+f d !mordent!!mordent!d2 g e !mordent!!mordent!e2 (3f e d a2- (3a g f (3g f e |
+(3f e d (3b g e d2 !mordent!!mordent!^c2d4z2) .('!mordent!!mordent!d2 |
+(3e d cc'4g e (3d c Bb4g d |
+(3c B A a g f e d c !mordent!!mordent!c2 B2 z2 d2 |
+(3e d c c'2- (3c' b a (3g f e (3d c B b2- (3b a g (3f e d |
+(3c B A a c (3B A G g B !mordent!!mordent!B2 A2 z2) .('D2 |
+{A} G2 G2 (3d c _B (3B A G !mordent!!mordent!G2 F2 z2 D2 |
+(3D E F (3F G A (3A _B c (3c B A B d g2 z g _e d |
+^c2 c2 c2 c2 (3c d _e (3e =f g (3g f e (3e d c |
+(3d ^c d (3a f d (3d c d (3a f d c _e_b4).('!mordent!!mordent!c2 |
+(3d A F (3D F A d2 A2 (3_B A G d G!mordent!!mordent!A4 |
+(3_B/ A/ G/ d/ G/ (3B/ A/ G/ d/ G/ (3A/ G/ F/ d/ F/ (3A/ G/ F/ d/ F/ !mordent!!mordent!G3 =B/ G/ E2 !mordent!!mordent!^c2 |
+d2 {b} a2- (3a g f (3e d c (3B A B (3c B A!mordent!!mordent!A4) |
+.('G g !mordent!!mordent!g2 z g g2 z g g2 z g g2 |
+b< g f< e d< c B< A G2> A2!mordent!!mordent!A4) |
+.('B g (3g d B e c (3c A F B g (3g d B e c (3c A F |
+B2 g2 a2 f2g6) :|]

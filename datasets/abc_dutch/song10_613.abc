@@ -1,0 +1,23 @@
+X: 9612
+T: Hoe zaait de boer zijn korentje, Zijn korent [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 1965399289
+%%humdrum-veritas-data 1161758866
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B,/ [I:setbarnb 1]|
+EE/GG/ |
+BB/B).('E/ |
+BB/BE/ |
+BB/B).('E/ |
+EG/GG/ |
+BB/B).('E/ |
+F3/G3/ |
+E3/-Ez/) |]

@@ -1,0 +1,29 @@
+X: 14712
+T: [Al is ons prinsje nog zo klein 1]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 652525093
+%%humdrum-veritas-data 3419861906
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2F F E F |
+G2G G F G |
+A3z2G |
+F2F F E F |
+G2G G F G |
+A3z2).('A/ B/ |
+c2c c d c |
+B2B B c B |
+A2A A G A |
+G2).('G G A B |
+A2A G F G |
+F3).('G3 |
+A B A G F G |
+F3z2) |]

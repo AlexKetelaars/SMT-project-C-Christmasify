@@ -1,0 +1,38 @@
+X: 6333
+T: Boere Rondte
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 3945002023
+%%humdrum-veritas-data 3313556844
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('a a a/ g/ f/ e/ |
+d d d/ c/ d/ e/ |
+f f f/ e/ f/ g/ |
+e aa2) |
+.('a a a/ g/ f/ e/ |
+d d d/ c/ d/ e/ |
+f f e/ d/ e/ f/ |
+d dd2) :|]
+.('b b b/ a/ g/ f/ |
+g A c e |
+a a a/ g/ f/ e/ |
+f A d f) |
+.('b b b/ a/ g/ f/ |
+g A c e |
+f f/ a/ ^g a/ b/ |
+a aa2) |
+.('f f e d |
+d2c2 |
+g g f e |
+e2d2) |
+.('f f e f |
+g bb2 |
+a a g c |
+e dd2) :|]

@@ -1,0 +1,54 @@
+X: 5554
+T: Gelyk een roos in ‘t groene veld, aen d’eenz [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3974694392
+%%humdrum-veritas-data 2875379792
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2F |
+G2A |
+B2G |
+G2).('G |
+A2A |
+(d c) A |
+G3- |
+G2).('D |
+G2F |
+G2A |
+B2G |
+G2).('G |
+A2A |
+(d c) A |
+G3- |
+G2).('d |
+d2d |
+d2c |
+B2B |
+B2).('B |
+c2c |
+d2d |
+e2e |
+e) .('(d/ c/) (B/ A/) |
+G2B |
+(d c) A |
+G3- |
+G2).('d |
+d2d |
+d2c |
+B2B |
+B2).('B |
+c2c |
+d2d |
+e2e |
+e) .('(d/ c/) (B/ A/) |
+G2B |
+(d c) A |
+!fermata!G3) |]

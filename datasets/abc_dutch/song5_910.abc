@@ -1,0 +1,30 @@
+X: 4909
+T: Kleen kleen kreukelzetje Wat doet gy in dat hof?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 1040723584
+%%humdrum-veritas-data 3635179638
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('d3d3 |
+d2c B B c |
+d2cB2A |
+G2>-G2 z) .('d |
+d2dd2d |
+d2c B B c |
+d2cB2A |
+G3-G2).('A |
+B2AB2c |
+d3d2d |
+d2cB2A |
+G3-G2z) |
+.('d3d3 |
+d2cB2c |
+d2cB2A |
+G3-G2z) |]

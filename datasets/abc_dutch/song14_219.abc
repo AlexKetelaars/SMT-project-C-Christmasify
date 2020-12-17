@@ -1,0 +1,32 @@
+X: 13218
+T: Triomphez tendre Alcindor Triomphez l’amour  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 1046873519
+%%humdrum-veritas-data 2035358518
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('AA [I:setbarnb 1]|
+F>GAA |
+E>FGG |
+F(G/ E/)DE |
+G/ F/ (E/ D/)) {.('f g}aa |
+{g/}f>gaa |
+e>fgg |
+f(g/ e/)d!trill!!trill!c |
+!fermata!d2) ||
+.('A/ A/ d/ f/ [I:setbarnb 9]|
+(g/ e/)eA/ A/ c/ e/ |
+(f/ d/)dA/ A/ d/ f/ |
+ef/ d/cB |
+A2).('aa |
+A>Bcd |
+BA{^g}aa |
+A>BcB |
+A2) |]

@@ -1,0 +1,41 @@
+X: 11130
+T: Ach! Amaril, hoe prikkelt my uw min! Hoe gla [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 1288658938
+%%humdrum-veritas-data 3091835048
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('z2d2d3^c |
+d6d2 |
+(e d) (c B) (c> d B3/ c/ |
+A2>)G2G4) |
+.('z2g2f3e |
+d2>c2B2(c B) |
+A2>B2B4) |
+.('z2d2^c3d |
+d6B2 |
+c2>B2A3G |
+F2D2z2).('d2 |
+(e d e f d ^c d e |
+c B c d B A B c |
+A2>)G2G4) |
+.('z2d2e3f |
+g2>f2e2d2 |
+d2>c2B2B2) |
+.('z2G2B3c |
+d4z2d2 |
+e2>f2g3f |
+e2d2d3^c |
+d4z2).('d2 |
+(e d) (c B)c4 |
+z2d2(g f) (e d) |
+(e d) (c B) (c B) (A G) |
+(F G A B A B c B |
+A2>)G2G4) |]

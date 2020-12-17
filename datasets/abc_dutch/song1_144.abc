@@ -1,0 +1,15 @@
+X: 144
+T: Hoe komt dat ghy ons verstroyt O Godt myn? D [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3799695329
+%%humdrum-veritas-data 674173499
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d4B2c2d4d4B2c2A2A2G4z4).('G4B2c2d4c4B2A2B2d2c4d4z4).('d4c2B2A4d4c2B2c2d2e4d4z4).('G4A2B2c4A4B2c2A2A2G4) |]

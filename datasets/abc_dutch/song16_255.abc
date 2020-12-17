@@ -1,0 +1,31 @@
+X: 15254
+T: Komt vrienden, komt naar buiten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 887552221
+%%humdrum-veritas-data 440808366
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2EG2c |
+e2dc2e |
+d B G d c A |
+G3z2).('G |
+G2EG2c |
+e2dc2e |
+d B G d c A |
+G3z2).('G |
+B2BB2B |
+c3c2c |
+d2d d ^c d |
+e3z2).('G |
+e2dc2B |
+A3d2d |
+c2c B A B |
+c3z2) |]

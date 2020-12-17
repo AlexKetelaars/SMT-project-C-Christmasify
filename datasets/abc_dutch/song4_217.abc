@@ -1,0 +1,31 @@
+X: 3216
+T: In het huisje waar ik vrijen ging 't Lag tus [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 82352192
+%%humdrum-veritas-data 3625614006
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+B B B A |
+G G G) .('G |
+e e e e |
+d2z) .('d |
+g g d e |
+f f f) .('e |
+d c B A |
+(G2d2)) |
+.('B/ B/ B B/ B/ B |
+B dd2) |
+.('c/ c/ c c/ c/ c |
+e d d3/) .('d/ |
+g g d e |
+f f f3/) .('e/ |
+d d c A |
+G2z) |]

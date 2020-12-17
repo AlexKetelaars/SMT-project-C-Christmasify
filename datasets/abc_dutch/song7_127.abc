@@ -1,0 +1,31 @@
+X: 6126
+T: File De Spanje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 740240278
+%%humdrum-veritas-data 351493518
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d4d d d d d2 d2 |
+^c4c c c c c2 c2 |
+d4d d d d d2 d2 |
+e4e e e e d2 d2) |
+.('f4f f f f f2 f2 |
+e4e e e e e2 e2 |
+d4d d d d d2 d2 |
+^c4c c c c c2 c2) |
+.('d4d d d d d2 d2 |
+^c4c c c c c2 c2 |
+d4d d d d d2 d2 |
+e4e e e e e2 e2) |
+.('f4f f f f f2 f2 |
+e8e4 |
+f4>e4 d2 e2 |
+^c8d4 |
+d8) ||

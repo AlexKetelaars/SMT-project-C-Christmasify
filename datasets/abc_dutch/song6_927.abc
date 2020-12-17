@@ -1,0 +1,26 @@
+X: 5926
+T: Jan, mijne man, zou ruiter wezen, Kost hij g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1166217152
+%%humdrum-veritas-data 2616628722
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c c/ c/ c G |
+E G c c) |
+.('e e/ e/ f d |
+c B !fermata!c) .('c/ d/ |
+e e/ e/ e d/ e/ |
+f d/ d/ d z) |
+.('c (c/ d/) d c/ d/ |
+e c c z) |
+.('c2e2 |
+c2G2) |
+.('G G/ c/ c d |
+e d c z) |]

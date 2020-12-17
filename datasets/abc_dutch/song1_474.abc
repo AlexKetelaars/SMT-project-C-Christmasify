@@ -1,0 +1,36 @@
+X: 474
+T: Vrolijk hert! maackt groot den Heer Geeft hem eer;
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 2814042220
+%%humdrum-veritas-data 1242436025
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('D4G2 |
+^F4F2 |
+G4A2 |
+B6) |
+.('^F4G2 |
+D6) |
+.('B4c2 |
+d4d2 |
+_e4d2 |
+c6 |
+B6) |
+.('B4c2 |
+d4d2 |
+A4B2 |
+c6) |
+.('F4G2 |
+D6) |
+.('B4c2 |
+d4B2 |
+A4G2 |
+^F6 |
+G6) |]

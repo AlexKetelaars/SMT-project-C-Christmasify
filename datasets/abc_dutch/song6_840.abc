@@ -1,0 +1,24 @@
+X: 5839
+T: Vrienden, ik wensch u altegaar Een gelukzali [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2195902271
+%%humdrum-veritas-data 1023696714
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2G GG2G2 |
+(G2A) Bc4) |
+.('c2B A(B2c) B |
+A2>B2G4) |
+.('c2c BA2(A G) |
+(G A) (G F)E4) |
+.('(G A) G FE2C2 |
+(c B) c de2d2) |
+.('(f e) d c (c B) (c d) |
+d2>c2c4) |]

@@ -1,0 +1,23 @@
+X: 2369
+T: Hoe menig paar ziet men in ondeugd vrijen In [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 4271763894
+%%humdrum-veritas-data 2781369301
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G G G [I:setbarnb 1]|
+g2>g2 g g d d |
+fe4).('f e A |
+[M:3/4]z2B e d c |
+[M:4/4]B4-B) .('d d d |
+B2>B2 c B c d |
+ee4).('g f e |
+d2>d2 d d c B |
+G4z) |]

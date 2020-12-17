@@ -1,0 +1,79 @@
+X: 13893
+T: Allegretto
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 2344122302
+%%humdrum-veritas-data 3275466982
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G3/ A/ [I:setbarnb 1]|
+B2B2B2G3/ A/ |
+B2B2B2G3/ c/ |
+(c2B>) e(e2d3/) e/ |
+d> c !trill!!trill!B> A {A/}B2).('z2 |
+z2f4a2- |
+a2g> fg2z2 |
+z2d2d2z2 |
+z2B2G2).('F2 |
+F2E2E2(d// e// =f3/) |
+e> A {B/} (A3/ ^G// A//) A,> =G {A/} (G3/ F// G//) |
+G2F> EF2).('D/ F/ A/ ^c/ |
+d2a2a2D/ F/ A/ ^c/ |
+d2a2a2D/ F/ A/ d/ |
+B2A> GF2E2 |
+F2z2z) .('g {/a} (!trill!!trill!g3/ f// g//) |
+f2z2z g {/a} (!trill!!trill!g3/ f// g//) |
+f2D> FF2E3/ D/ |
+E2^C> E(E2D3/) C/ |
+D2).('D> F(F2E3/) D/ |
+E2^C> EE2D3/ C/ |
+D2A> AA2A2 |
+A6) |
+.('d3/ e/ [I:setbarnb 23]|
+f2f2f2^d3/ e/ |
+f2f2f2z G |
+(G2F>) EE2^D3/ c/ |
+B> A !trill!!trill!G> F {/F}G2).('z2 |
+z2^d2B2f2- |
+f2e> ^de2e// f// g3/ |
+f> B {c/} (!trill!!trill!B3/ A// B//) B,> A {B} !trill!!trill!A3/ G// A// |
+A2G> FG2).('z2 |
+z2f2f2z2 |
+z2g2g2G2 |
+A2c2!trill!!trill!B2B,2 |
+E2B2B2).('F/ B/ d/ e/ |
+f2f2f2F/ ^A/ ^c/ ^e/ |
+f2f2f2f2 |
+g e d ^cd2!trill!!trill!c2 |
+B2B> cB2).('G3/ A/ |
+B2B2B2G3/ A/ |
+B2B2B2G3/ c/ |
+(c2B>) e(e2d3/) e/ |
+d> c !trill!!trill!B> A {A/}B2).('z2 |
+D2z2D2z2 |
+D2z2D2z2 |
+D2D2D =F !trill!!trill!E D |
+!trill!!trill!E> D !trill!!trill!C> B,A,2).('D/ =F/ A/ c/ |
+e4d c !trill!!trill!B A |
+B A {A}B4z2 |
+z2E2C2B,2 |
+!trill!!trill!B,2A,2A,2).('z2 |
+z2F4A2 |
+(A2G>) FG2).('D/ F/ A/ ^c/ |
+d2d2d2D/ G/ B/ c/ |
+d2d2d2z2 |
+z e d cB2!trill!!trill!A2 |
+G2z2z) .('c {d} (!trill!!trill!c3/ B// c//) |
+B2z2z c {d} (!trill!!trill!c3/ B// c//) |
+B2G> B(B2A3/) G/ |
+A2F> A(A2G3/) F/ |
+G2).('G> B(B2A3/) G/ |
+A2F> A(A2G3/) F/ |
+G2D> DD2D2 |
+D6) :|]

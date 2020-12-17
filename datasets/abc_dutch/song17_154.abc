@@ -1,0 +1,38 @@
+X: 16153
+T: Zoo ‘t langer duurt Zoetje dat gy ‘t Heelal  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 822062764
+%%humdrum-veritas-data 2634696237
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d c d e d e |
+f2>e2 f g |
+(a f) f (g a) g |
+f2e) .('a g f |
+(e f) dc2d |
+(e d) cB2B |
+B2>).('e2 f e |
+(e d) c (B c) d |
+(e B) c (d e f |
+B c d e B) c |
+B3A2) |
+.('f [I:setbarnb 12]|
+f e dc2c |
+d c B^A2).('f |
+f e d c d e |
+(f B) c (d e d) |
+(c3B2)).('e |
+c A a fd2 |
+B c d e a g |
+(f g a d e f |
+B c d e f g |
+a d e f>) e d |
+d3-d2) :|]

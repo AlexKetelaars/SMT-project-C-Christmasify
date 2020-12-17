@@ -1,0 +1,23 @@
+X: 9960
+T: Salà moet er nu gezaaien zijn, Salà moet er  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 3306516386
+%%humdrum-veritas-data 161600273
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('GG [I:setbarnb 1]|
+G/ D/ G/ A/BA |
+Gz).('BB |
+B/ A/ B/ c/d^c |
+dz).('dA |
+dAd/ ^c/ d/ e/ |
+dA).('dc |
+B/ A/ B/ c/BA |
+G2z2) |]

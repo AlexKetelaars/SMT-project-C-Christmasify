@@ -1,0 +1,31 @@
+X: 16831
+T: Scheijden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 1811387932
+%%humdrum-veritas-data 683494222
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+c2>d2c2c2d2(e f) |
+!mordent!!mordent!f6!mordent!!mordent!d2>).('d2 (e f) |
+g2>a2g2g2>f2 e f |
+d6-d4) |
+.('c2 [I:setbarnb 5]|
+d2>e2d2d2e2f2 |
+g6B4).('B2 |
+c2>d2c2c2B2A2 |
+G6-G4).('c2 |
+d2>e2d2d2e2f2 |
+(g f) (g f) g fg4).('g2 |
+(a g) (f e) (f e)f2d4) |
+.('(e d) (e f)g2a g f ed2 |
+e d e fg2(a g) (f e) f e |
+d4g2c2G4 |
+c6-c4) :|]

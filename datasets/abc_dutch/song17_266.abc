@@ -1,0 +1,33 @@
+X: 16265
+T: De Nijt die schuwt het licht, En haat de bly [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 51914959
+%%humdrum-veritas-data 4245960425
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('A2c2A2 |
+e2>e2e2 |
+z).('e2<!trill!!trill!d2e |
+f2>e2de |
+c2c).('ec3/e/ |
+A2A2z2 |
+z2).('f2(!trill!!trill!d3/c/ |
+B>cd>cB3/)A/ |
+^G2G).('GGG |
+A>G!trill!!trill!^F3E |
+E6) |
+.('zBB>cd3/e/ |
+c2c2z).('f |
+!trill!!trill!d2>d2e3/f/ |
+e2e2z).('e |
+f>ed>c!trill!!trill!B3/A/ |
+!trill!!trill!^G4).('e2 |
+c>Bc>dB3/A/ |
+A6) :|]

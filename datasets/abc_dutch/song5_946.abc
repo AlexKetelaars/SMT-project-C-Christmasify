@@ -1,0 +1,23 @@
+X: 4945
+T: Prins Robert was een renteman Een renteman w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 293604095
+%%humdrum-veritas-data 226880348
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D2DD2D |
+D2ED2).('D |
+G2GF2G |
+A3-A2).('D |
+D D D D D D |
+D2ED2).('G/ G/ |
+A A AF2F |
+G3-G2) |]

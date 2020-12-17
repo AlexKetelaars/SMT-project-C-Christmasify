@@ -1,0 +1,35 @@
+X: 7059
+T: No598
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:34
+%%humdrum-veritas 1299322223
+%%humdrum-veritas-data 1675566065
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=72
+K: F clef=treble
+.('F4A3B |
+c4f3e |
+d2c2B2A2 |
+G A F GE2C2) |
+.('F4A3B |
+c4f e f g |
+a2g f e f g e |
+f4f2) |
+.('G A [I:setbarnb 9]|
+B2A2B A G ^F |
+G4G2G A |
+B c B A G A B c |
+d4d2).('d e |
+f g e f d e c e |
+f4A4 |
+B2A2G A F G |
+!trill!!trill!E4C4) |
+.('F4A3B |
+c4f e f g |
+a2g f e f g e |
+f4f2) :|]

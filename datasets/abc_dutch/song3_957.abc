@@ -1,0 +1,35 @@
+X: 2956
+T: Komt vrienden jongedochters blijf staan en a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 2417672485
+%%humdrum-veritas-data 3410547109
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D E F G F G |
+E E ED2).('D |
+G G G B A G |
+G A GF2).('E |
+D D D A F) .('D |
+G G A B A) .('G |
+G F G (A G) E |
+D3-D3) |
+.('E2>D2 D C |
+B,3-B,3) |
+.('E2>D2 D C |
+B,3-B,2).('E/ F/ |
+G G G G G G |
+(F2G)A2).('D |
+D E FG2F/ F/ |
+E E EE2).('E |
+D D D D E F |
+G3).('B,3 |
+D D D c B A |
+G3z2) |]

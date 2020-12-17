@@ -1,0 +1,33 @@
+X: 7205
+T: Wat zang, wat klank, Van d’engelsche schaeren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 2008099857
+%%humdrum-veritas-data 1469909861
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c c c [I:setbarnb 1]|
+c2G A F A |
+G2E) .('E E F |
+G G G c G E |
+E2D) .('E C E |
+G2>G2 A B |
+c2>A2 B c |
+d e d c B A |
+G2>).('d2 d d |
+d2e d c c |
+c2B G E F |
+G2G c G E |
+E2D) .('E C E |
+G2>G2 A B |
+c2>A2 B c |
+(d e) d c B A |
+A2G) .('G A B |
+c d e f d B |
+c3-c2z) |]

@@ -1,0 +1,30 @@
+X: 15343
+T: O Santa Lucia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 2693295509
+%%humdrum-veritas-data 811095885
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: B clef=treble
+.('FF3/B/ |
+B/> A/Az |
+EE3/G/ |
+G/> F/Fz) |
+.('DG3/F/ |
+F/ ^E/=Ez |
+EDC |
+G/> F/Fz) |
+.('dcB |
+A/ G/cz |
+cBG |
+G/ F/Bz) |
+(3:2:6.('d B/ B F/ F D/ |
+(3:2:2E c/cz) |
+.('cd3/A/ |
+cBz) |]

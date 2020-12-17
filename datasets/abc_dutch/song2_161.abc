@@ -1,0 +1,27 @@
+X: 1160
+T: Ompanwee poedernee poedernaski Ompankwee, om [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 2685868090
+%%humdrum-veritas-data 411579916
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('GB [I:setbarnb 1]|
+dd/ d/dd/ d/ |
+dB).('GB |
+A2GB |
+A2).('GB |
+dd/ d/dd/ d/ |
+dB).('GB |
+(Ag)fe |
+d2z).('d/ d/ |
+dz2d/ d/ |
+d/ D/z2).('d/ d/ |
+fed/ c/ E/ A/ |
+GGG) |]

@@ -1,0 +1,32 @@
+X: 5834
+T: Komt hier, herdertjes, altemaal, Om naar Bet [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1555061043
+%%humdrum-veritas-data 252436858
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ee [I:setbarnb 1]|
+ed/ e/fd |
+e2).('de |
+ffed |
+!fermata!e2).('ed |
+c2d2 |
+e2ff |
+e2dd |
+!fermata!B2).('dd |
+(de)cB |
+!fermata!A2).('ed |
+c2d2 |
+e2ff |
+e2dd |
+!fermata!B2).('de |
+(fe)dc |
+A2e2 |
+!fermata!A2) |]

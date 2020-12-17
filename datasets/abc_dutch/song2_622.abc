@@ -1,0 +1,24 @@
+X: 1621
+T: Daar reed er een heer die was wel dideldon d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3314191411
+%%humdrum-veritas-data 3684513475
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2F E |
+D2G G |
+G G/ G/ G) .('D/ D/ |
+G G G G |
+F/ F/ E D) .('D |
+G2F E |
+D2G A |
+B2A3/ F/ |
+G2z2) |]

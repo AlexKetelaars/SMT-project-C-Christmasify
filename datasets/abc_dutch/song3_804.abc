@@ -1,0 +1,32 @@
+X: 2803
+T: Hosse bosse stuoltsje klosse Elk in famke op [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 2187164890
+%%humdrum-veritas-data 2997896530
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2AG2D |
+B2AG2D) |
+.('G2GB2B |
+A2AG2D) |
+.('G G G B B B |
+A2AG2D) |
+.('G2GB2B |
+A2AG2).('D |
+G F GB2B |
+A> A AG2).('G |
+c3c2c |
+d3-d2).('B/ B/ |
+B2BB2c |
+d3-d2).('B/ B/ |
+B2BB2B |
+d3).('c2c |
+c B B A A A/ A/ |
+G3-G3) |]

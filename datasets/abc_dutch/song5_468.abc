@@ -1,0 +1,29 @@
+X: 4467
+T: Liefste Sofia gij hebt de keur Van een ander [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 2310832031
+%%humdrum-veritas-data 316551457
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D E F [I:setbarnb 1]|
+G2G A G3/ F/ |
+G2>).('G2 B B |
+A2F A G3/ E/ |
+D2>).('D2 E F |
+G2G A G3/ F/ |
+G2>).('G2 B B |
+A2F A G3/ E/ |
+[M:9/8]D2>-D2) .('D> D c A F |
+[M:6/8](G2B)A3) |
+.('D F A c d3/ c/ |
+[M:9/8]B3-B2>).('c2 A F |
+[M:6/8](G2B)A3) |
+.('D F A c E F |
+G3) |]

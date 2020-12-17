@@ -1,0 +1,28 @@
+X: 1607
+T: Op die brede weg en dat smalle pad santate O [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3040433730
+%%humdrum-veritas-data 1878824710
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+G2 B2 B2 G G |
+A2 d2 d2 B A |
+G4z2) .('D D |
+G2 B2 B2 G G |
+A2 d2 d2 B A |
+G4z2) .('B c |
+d2 d2 d2 A B |
+B2 d2 d2) .('A A |
+A A A A A A B A |
+G G G GG4) |
+.('B B A AG4 |
+d2 B2 A A G G |
+G4) |]

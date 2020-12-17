@@ -1,0 +1,29 @@
+X: 10044
+T: Keersken in den lanteeren, Is mijnheer pasto [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 3435971091
+%%humdrum-veritas-data 4059077814
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G2G G G G [I:setbarnb 2]|
+G3C2z) |
+.('G2FE2D |
+E2DC2z) |
+.('G G GG2G |
+G3C2z) |
+.('G2FE2D |
+C3) ||
+.('z2E/ E/ [I:setbarnb 9]|
+G2EC2E/ E/ |
+G2EC2).('E/ E/ |
+G2EC2E/ E/ |
+G2EC2z) |
+.('C2D E E F |
+G3C2z) :|]

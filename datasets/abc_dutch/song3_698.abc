@@ -1,0 +1,39 @@
+X: 2697
+T: Komt vrienden hoort eens aan Wat ik u vertellen ga
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 3668773548
+%%humdrum-veritas-data 25671942
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2DE2D |
+C3-C2).('F/ G/ |
+A2FD2C |
+B,3-B,2).('D/ D/ |
+B2BA2B |
+c3-c2).('E |
+D2FA2c |
+B3-B2).('D |
+G G G G F E |
+D F> FF2).('F |
+E E> F G F E |
+E2DD2).('D |
+G2DE2D |
+C3-C2).('F |
+A2FD2C |
+B,3-B,2).('D |
+B2BA2B |
+c3-c2).('E |
+D2FA2c |
+B3-B2).('D |
+B2BA2B |
+c3-c2).('E |
+D2FB2A |
+G3-G2) |]

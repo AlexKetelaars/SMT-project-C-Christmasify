@@ -1,0 +1,34 @@
+X: 1161
+T: Eplantona violetta Franse kapitein aan boord
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 1215855286
+%%humdrum-veritas-data 747513364
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D2D2(D B)G2 |
+D2D2(d B)G2) |
+.('A> A A A A A A A |
+B2A2G2z2) |
+.('D D D D D BG2 |
+D D D D (D B)G2 |
+[M:6/4]G2G2).('D> D D D D B G G |
+[M:2/2]D> D D D D BG2 |
+[M:6/4]G2G2).('D D D D D B G G |
+[M:2/2]D D D D D BG2 |
+[M:6/4]G2G2).('D D D D D BG2 |
+G2G2)(3.('D D DG2(3D D DG2 |
+[M:2/2]D> D D D D DG2 |
+[M:6/4]G2G2).('D BG2D BG2 |
+[M:2/2]D> D D D D BG2) |
+.('D D D D D B G G |
+D D D D D B G G) |
+.('A2D2B2D2 |
+A A A A G GG2 |
+G2A2D2z2) |]

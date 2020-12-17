@@ -1,0 +1,37 @@
+X: 6014
+T: Bruijnettie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3916061109
+%%humdrum-veritas-data 958158300
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ABcd |
+e2d3/e/ |
+c2B2 |
+c2A2) |
+.('a>^ga3/b/ |
+edef |
+f2e2 |
+e4) :|]
+.('e>de3/f/ |
+g2ze |
+a2ze |
+f2d2) |
+.('g>fe3/d/ |
+c>Bc3/d/ |
+c>BB2) |
+.('e>dc3/B/ |
+A2ze |
+a2ze |
+f2d2) |
+.('g>fe3/d/ |
+c>Bc3/d/ |
+B2z3/A/ |
+A2) |]

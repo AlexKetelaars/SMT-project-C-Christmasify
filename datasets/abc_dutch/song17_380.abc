@@ -1,0 +1,34 @@
+X: 16379
+T: Zou ‘t Nootlot my thans haetlyk weezen, Dat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2646786277
+%%humdrum-veritas-data 4232718860
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d2c B [I:setbarnb 1]|
+c2e2(A2B) c |
+{c}B2{A}G2).('B2A G |
+c2(B A)(d2c) B |
+{B2}A4).('A2B ^c |
+d2f2(B2g) {f/} e |
+{d}^c2{B}A2).('(d/ e/ f/ g/) a A |
+G2(3(g f e)d2!trill!!trill!^c2 |
+B4) |
+.('d2e =f [I:setbarnb 9]|
+{=f}e2{e}d2{d}c2{c}B2 |
+{B2}c4).('c2d e |
+{e}d2{d}c2{c}B2{B}A2 |
+{A2}B4).('(B G) c A |
+(d B) (A G) (e c) (A G) |
+{G}F2{E}D2).('(B G) c A |
+(d B) (A G) (e c) (A G) |
+{G}F2{E}D2).('(G/ A/ B/ c/) d D |
+E2(3(c B A)G2!trill!!trill!F2 |
+G4) :|]

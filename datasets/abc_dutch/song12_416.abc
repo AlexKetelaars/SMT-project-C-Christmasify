@@ -1,0 +1,23 @@
+X: 11415
+T: Hoor: taptoe er wordt geblazen. Alles keert  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:15
+%%humdrum-veritas 1480180765
+%%humdrum-veritas-data 3452920056
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('E3/ D/ [I:setbarnb 1]|
+C2C2E3/ G/ |
+G2G2A3/ G/ |
+G2>F2 D3/ F/ |
+E4).('G3/ c/ |
+c2A2F3/ A/ |
+A2G2E3/ G/ |
+G2>F2 D3/ E/ |
+C4) |]

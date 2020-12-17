@@ -1,0 +1,17 @@
+X: 17207
+T: laet ons nu alle dancken Godt dem Heeren die [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 917262412
+%%humdrum-veritas-data 2986255293
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G4F2G2(A4G4)(A4c2)c2A2(B2c4)) |
+.('c4B2d2(c4G2)c2(B4c4)A4G4) ||
+.('c4B2d4c4G2c2B2c4A4G4F4(G2A2)A4G4) :|]

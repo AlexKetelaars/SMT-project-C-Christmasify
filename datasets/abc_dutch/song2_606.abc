@@ -1,0 +1,15 @@
+X: 1605
+T: Ik ben laatst over de markt gegaan Om mijn f [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 1153248064
+%%humdrum-veritas-data 3242763481
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d d de2d> d c B A) .('(G/ A/) B d G A (c B) A) .('z/ d/ d de2d2c B A) .('G/ A/ B d G A (c B) A z) .('B d/ e/ d A B d G z/) .('B/ B e d> A B d G) .('B B BA2d2f e d) .('f f ed2A2B ^cd2) |]

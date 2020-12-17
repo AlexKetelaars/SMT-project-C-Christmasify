@@ -1,0 +1,39 @@
+X: 16973
+T: Rondeau
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2185453155
+%%humdrum-veritas-data 1779295001
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('bd3/g/ |
+!mordent!!mordent!^fgd |
+_e/ f/dc/ d/ |
+B!mordent!!mordent!A3/G/ |
+G3) |
+.('B>cd |
+G_e2 |
+!mordent!!mordent!c>BA |
+ff).('_e/ f/ |
+g>f _e/ d/ |
+c!mordent!!mordent!f3/_e/ |
+!mordent!!mordent!d>cB) |
+.('bd3/g/ |
+!mordent!!mordent!^fgd |
+_e/ f/dc/ d/ |
+B!mordent!!mordent!A3/G/ |
+G3) |
+.('dg3/f/ |
+!mordent!!mordent!e>fg |
+cfg |
+!mordent!!mordent!g2f) |
+.('d>de |
+!mordent!!mordent!^cef/ g/ |
+f!mordent!!mordent!f3/e/ |
+!mordent!!mordent!e2d) :|]

@@ -1,0 +1,88 @@
+X: 16583
+T: O rustelose slaap
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:04
+%%humdrum-veritas 849392835
+%%humdrum-veritas-data 3099815286
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('z4z4f4 |
+e8A4 |
+F8(E2D2) |
+A8(d2e2) |
+^c8(d2e2) |
+e8d4 |
+d8f4 |
+A8(A4 |
+B8)A4 |
+A8e3).('f |
+g4>f4e2d2 |
+^c8(d2e2) |
+e8d4 |
+d12 |
+!mordent!!mordent!d8e4 |
+(f4A6)G2 |
+F8D4 |
+B8A4 |
+B8A4 |
+A8A4 |
+(d4>e4)^c4 |
+(d2e4<)e4d2 |
+d12) |
+.('!mordent!!mordent!f8e4 |
+d4>c4B2A2 |
+G8G4 |
+g8f4 |
+(e4>f4)(d2e2) |
+^c8c4 |
+(d4e4)(f2e2) |
+e8d4 |
+d12) ||
+[M:3/4].('z2z2A2 [I:setbarnb 34]|
+d4(e d) |
+^c4(d e) |
+f4(e d) |
+d4).('f2 |
+A G A B c d |
+B A B c B c |
+A G A =B A B |
+^c2>=B2A2 |
+(d G2<)G2F |
+F4).('f2 |
+e4(e/ f/ g/ a/) |
+^c4d2 |
+B4B2 |
+A4e2 |
+g4e2 |
+^c4(d e) |
+e4d2 |
+d6) |
+.('z2z2f2 |
+e4A2 |
+(d2^c2)d2 |
+B4A2 |
+A4e2 |
+(g2>f2) (e d) |
+^c4(d e) |
+e4d2 |
+d6) |
+.('f2f2g2 |
+e6 |
+e2e2f2 |
+d c d e d e |
+c B c d c d |
+B A B c B c |
+A4d2 |
+e2d4 |
+^c6 |
+d2e2).('f2 |
+g a g f e d |
+^c d c BA2 |
+(f e2<)e2d |
+d6) |]

@@ -1,0 +1,32 @@
+X: 5801
+T: Als iemand verre reizen doet, Dan kan hij wa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2791226842
+%%humdrum-veritas-data 1538144411
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=138
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+BBBB |
+d>BF).('B |
+FDEC |
+D2B,).('(D/ B,/) |
+FFF(G/ A/) |
+BBB).('(A/ G/) |
+A(F/ A/)cC |
+F2Fz/) ||
+.('F/ [I:setbarnb 9]|
+B/ A/ B/ c/dB |
+cdec |
+defd |
+cccz/) .('d/ |
+edef |
+g2(f/ e/) (d/ c/) |
+B2F2 |
+B,3) |]

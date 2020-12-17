@@ -1,0 +1,44 @@
+X: 17388
+T: Studente Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 2741170834
+%%humdrum-veritas-data 2827385417
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A B [I:setbarnb 1]|
+c2c cc2d2 |
+c B A GF2f2 |
+e2f2g2a2 |
+g f e dc2c2 |
+d2d dd2).('e f |
+c2c cc2f e |
+d c B AG4 |
+F2F F F C A, C |
+F6) |
+.('e f [I:setbarnb 10]|
+g2g gg2a2 |
+g f e d c d e f |
+g2g gg2a2 |
+g4z) .('e f g |
+a2a aa2e2 |
+f2e fd2e2 |
+f2e fd2e2 |
+f2e fd2a2 |
+b a g f2<e2d |
+d4z) .('c d e |
+f2f ff2f2 |
+g2g gg2g2 |
+a2g a b a g f |
+g f e dc2c2) |
+.('d2d dd2e f |
+c2c cc2f e |
+d c B AG4 |
+F2F F F C A, C |
+!fermata!F6) :|]

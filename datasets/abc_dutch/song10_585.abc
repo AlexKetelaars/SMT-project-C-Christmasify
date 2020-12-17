@@ -1,0 +1,36 @@
+X: 9584
+T: Een vreemde arme snuiter Was moede van het wandlen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 2191751073
+%%humdrum-veritas-data 1591924060
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/8
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> G D3/ D/ |
+E E z) .('B, |
+C> A, D3/ D/ |
+D G, z) .('D |
+G2B,2 |
+C> A, D D |
+D2G,) .('D |
+B> B B3/ A/ |
+A G z) .('G |
+(A/ B/) (c/ A/) G F |
+(G/> F/ G/ A/ B) z |
+(G/> F/ G/ A/ B)) .('B |
+(B/ A/) (c/ A/) G F |
+G3).('D |
+d> d d3/ c/ |
+c B z) .('B |
+(c/ d/) (e/ c/) B A |
+B/> A/ B/ c/ d z) |
+.('B/> A/ B/ c/ d d |
+(d/ c/) (e/ c/) B A |
+G3) |]

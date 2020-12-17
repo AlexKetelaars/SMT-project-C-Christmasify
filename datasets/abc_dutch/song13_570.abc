@@ -1,0 +1,31 @@
+X: 12569
+T: De Ratelwagt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 4000129220
+%%humdrum-veritas-data 1583836730
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2d B> A B |
+G2GG2).('G |
+d2dg2f |
+e2e A B ^c |
+d3-d2) |
+.('d [I:setbarnb 6]|
+g2d e d c |
+!trill!!trill!B3-B2).('e |
+e2d (c B) c |
+A3-A2).('A |
+d2cB2B |
+A B GF2).('D |
+G2AB2A |
+B2cd2).('d |
+e f g a g f |
+g3-g2) :|]

@@ -1,0 +1,31 @@
+X: 5300
+T: Het zal wel gaan wel gaan wel gaan Vanavond  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 1860800552
+%%humdrum-veritas-data 2699121832
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+C2DC2D |
+C2DC2).('C |
+F2FE2F |
+G3G2).('C |
+C C D C C D |
+C2DC2).('C |
+G G G (G A) G |
+F3-F2z) |
+.('B3G2G |
+A3F2).('F |
+G2GE2E |
+F2Ac3) |
+.('B2>G2 G G |
+A3F2).('F |
+G2GC2C |
+F3-F2) |]

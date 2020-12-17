@@ -1,0 +1,55 @@
+X: 3409
+T: Antonie waar woont ie In Nijstad en wo ligt dat
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 1159887274
+%%humdrum-veritas-data 2711185016
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+A2G B |
+A2G) .('B |
+A2(3G G B |
+A2G B |
+A2G) .('A/ A/ |
+A2G B |
+A2G) .('D |
+A A B B |
+A2G B |
+A2G) .('G/ G/ |
+A A B B |
+A2G B |
+A2G) .('D/ D/ |
+A A B B |
+A2G) .('B |
+A2G B |
+A2G z/) .('B/ |
+(3:2:5A2 A G G B |
+(3A A A (3G G B |
+(3:2:5A2 A G G) .('D |
+A A B B |
+A2(3:2:2G2) .('B |
+(3A A A (3G B B |
+(3:2:5A A A G2) .('D |
+(3A A A B B |
+(3A A AG2) |
+.('A A (3B B B |
+A AG2) |
+.('A A (3B B B |
+A A (3:2:2G2) .('B |
+A A/ A/ B (3B/ B/ B/ |
+A AG2) |
+.('A A/ A/ B B |
+A2G) .('D |
+A A/ A/ B B |
+A2G2) |
+.('d d d c |
+c c B) .('B/ B/ |
+A A B A |
+A GG2) |]

@@ -1,0 +1,27 @@
+X: 2442
+T: En het was op een morgen vroeg Ging ik mijn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 456461530
+%%humdrum-veritas-data 498423978
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GG/ G/ F/ E/ |
+G3/).('B3/ |
+AG/FE/ |
+E3/!fermata!D).('D// D// |
+G/ G/ G/GD/ |
+G3/).('B3/ |
+AG/FE/ |
+E3/!fermata!D).('D// D// |
+GG/AA/ |
+B).('B/cc/ |
+B3/A3/ |
+G3/-G) |]

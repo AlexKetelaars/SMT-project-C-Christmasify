@@ -1,0 +1,42 @@
+X: 10908
+T: Laastmaal een kwezeltje, wil verstaan, Meend [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 161986249
+%%humdrum-veritas-data 2147248526
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2B3/ B/ |
+B2d c |
+B2B2 |
+F2z2) |
+.('c2c3/ c/ |
+c> c c c |
+d2d c |
+B2z2) |
+.('B2B3/ A/ |
+G2F2 |
+B> B B A |
+G2F2) |
+.('B3c |
+d3e |
+f> f f3/ e/ |
+d3).('F |
+B> B c3/ c/ |
+d> d e3/ e/ |
+d2c2 |
+B>) .('B B3/ A/ |
+A> A A A |
+A> c c3/ c/ |
+c B A B |
+F2z) .('F |
+F G A B |
+c d e e |
+d2c2 |
+B2z2) |]

@@ -1,0 +1,38 @@
+X: 11005
+T: Al in de Meische dagen Ben ik vroeg opgestaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 2835365209
+%%humdrum-veritas-data 1590762885
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D2CB,2D |
+G3D2).('G |
+B2BA2A |
+G3z2).('D |
+D2CB,2D |
+G3D2).('G |
+B2B A B A |
+G2z) .('D G A |
+B2>A2 B c |
+A2z) .('D F G |
+A2GA2B |
+G3z2).('D/ D/ |
+G2G G F G |
+A2DD2).('D/ D/ |
+c2c c d c |
+B2GG2).('B |
+B A A (A G) G |
+F G A!fermata!D2d |
+D3z2).('D/ D/ |
+D2D D E F |
+G3z2).('G/ A/ |
+B2B A B A |
+G3z2z) |]

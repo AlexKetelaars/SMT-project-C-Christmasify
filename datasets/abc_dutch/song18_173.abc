@@ -1,0 +1,25 @@
+X: 17172
+T: Vlaemse meisies
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 2514825008
+%%humdrum-veritas-data 4168587187
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z c [I:setbarnb 1]|
+c2B2A2G2 |
+c6c2 |
+d2e2f2g2 |
+e2f dg2d2 |
+e fe4) |
+.('c d [I:setbarnb 6]|
+e2e fe2d2 |
+c d c BA2B c |
+d c d e c B c d |
+d2>c2c2) :|]

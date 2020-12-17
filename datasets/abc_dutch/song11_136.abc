@@ -1,0 +1,31 @@
+X: 10135
+T: Ne zaal’ge Nieuwejaar, Betrachten alle menschen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 2250304131
+%%humdrum-veritas-data 129644296
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c2 [I:setbarnb 1]|
+c A G Ac2z c |
+c c G GA2F) .('A |
+A G F Ac2z c |
+c c G GA2F) .('F |
+d4(e2f2) |
+c2>A2 A G c3/ c/ |
+[M:2/4]F2z) .('A |
+A> A A A/ A/ |
+(3c B A G3/) .('G/ |
+G> G G G/ G/ |
+(3B A G F3/) .('F/ |
+d4 |
+(e2f2) |
+c2z A |
+A G c c |
+F2z2) |]

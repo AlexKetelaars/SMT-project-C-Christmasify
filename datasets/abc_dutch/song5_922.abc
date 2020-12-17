@@ -1,0 +1,33 @@
+X: 4921
+T: Langst de boschagîe kwam ik getreden, Langst [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 1690377510
+%%humdrum-veritas-data 3210187713
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D G B [I:setbarnb 1]|
+d> e d c B A |
+B2!fermata!G) .('D G B |
+d> e d c B A |
+B2z) .('B d B |
+G2A2B c |
+B2!fermata!A) .('B d B |
+B2A2B c |
+[M:2/4]B2z) .('G/ A/ |
+B B B B |
+c2B2 |
+A A A A |
+B2G) .('G/ A/ |
+B B B B |
+c2B d |
+(3B B B A3/- A/ |
+G2).('d2 |
+(3B B B A3/- A/ |
+G2z) |]

@@ -1,0 +1,37 @@
+X: 11998
+T: [Trompet] secondo
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 3293800467
+%%humdrum-veritas-data 2291563140
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=52
+K: D clef=treble
+.('f> e d/ e/ f d A d d/ c/ |
+d/ e/ f d/ e/ f a f/ g/a2) |
+.('d/ c/ d/ e/ d/ e/ f f e/ d/ c f |
+g/ f/ e/ d/ c d c> af2) |
+.('d B c A d B c A |
+d/ c/ d/ e/ d/ e/ f f e/ d/ c f |
+g/ f/ e/ d/ c d c> af2) |
+[M:3/4].('d2e2f2 |
+f2>g2a2 |
+f g a b a g |
+f2a2f2) |
+.('(f g) (a g)f2 |
+(d e) (f e)d2 |
+g f2<e2d |
+d4x2) |
+.('f2e2d2 |
+e2f e d c |
+d2e d c B |
+c2a2f2) |
+.('d2B c d e |
+f d g f e d |
+c d2<c2a |
+f4) :|]

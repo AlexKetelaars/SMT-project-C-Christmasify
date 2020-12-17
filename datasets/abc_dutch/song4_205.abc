@@ -1,0 +1,27 @@
+X: 3204
+T: Es wollt’ ein Mädchen früh aufsteh’n Schneew [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 959384642
+%%humdrum-veritas-data 1766899489
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('zD [I:setbarnb 1]|
+GB(B2A)G |
+FAA2).('zG |
+GBd2B2 |
+B2A2).('zA/ B/ |
+ce(e2d)c |
+B/ d/ d/ e/d2).('zB |
+AB2<c2d |
+c2B2).('zA/ B/ |
+ce(e2d)c |
+B/ d/ d/ e/d2).('zB |
+[M:4/4]A>Bc3/d/ |
+[M:3/2]c2B2) |]

@@ -1,0 +1,45 @@
+X: 16983
+T: les Songes funeste
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 3644762474
+%%humdrum-veritas-data 28196495
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('b4-b> a g/ f/ e/ d/ |
+e2>c2f3f |
+!mordent!!mordent!f2>).('d2g3g |
+!mordent!!mordent!g2>f2f4- |
+f2z/ f/ e/ d/e4- |
+e2z/ e/ d/ c/d4- |
+d2z/ c/ d/ A/B2G2) |
+.('d2>d2d3e |
+f2>f2!mordent!!mordent!f3e/ f/ |
+g2>g2c3c |
+c4).('_a3a |
+!mordent!!mordent!a2>g2g3_a |
+!mordent!!mordent!=e4).('f3f |
+f2>g2!mordent!!mordent!=e3f |
+f8) |
+.('c2>c2c3d |
+e2>c2g3g |
+g2_a g f e d c |
+!mordent!!mordent!=B2>).('B2B3c |
+d2>e2 f d g d |
+e2>d2!mordent!!mordent!d3c |
+c2).('z/ c/ d/ e/f3f |
+d2>d2B3d |
+G2z/ G/ A/ B/c3c |
+!mordent!!mordent!A2z/ A/ B/ c/d3d |
+!mordent!!mordent!B2>c2!mordent!!mordent!A3B |
+B) .('c/ d/ e/ f/ g/ a/b3b |
+b2>f2_a3b |
+g4-g> f e/ d/ c/ B/ |
+f2>c2c3B |
+B8) |]

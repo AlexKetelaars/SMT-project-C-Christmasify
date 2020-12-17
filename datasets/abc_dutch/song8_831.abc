@@ -1,0 +1,28 @@
+X: 7830
+T: 144
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:41
+%%humdrum-veritas 4015478619
+%%humdrum-veritas-data 620170996
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c [I:setbarnb 1]|
+fga(g/ f/) |
+gcc).('(d/ c/) |
+=Bcc3/B/ |
+c3) |
+.('A [I:setbarnb 5]|
+Bcd(c/ B/) |
+A>GF).('c |
+def(g/ f/) |
+e>dc).('f |
+gab(a/ g/) |
+add).('(g/ f/) |
+eff3/e/ |
+f3) |]

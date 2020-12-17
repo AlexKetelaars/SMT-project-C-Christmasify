@@ -1,0 +1,43 @@
+X: 2018
+T: Er zat een arrem haasje Al in het groene woud
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 3862900613
+%%humdrum-veritas-data 4242363471
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+G>GGG |
+B2G).('G |
+A>AGE |
+D3).('D |
+E/ E/DDD |
+B2).('GG |
+AAGE |
+D3).('D |
+DDcA |
+G2G).('G |
+BcBA |
+G2G).('G |
+d2dc |
+A3A |
+c3B |
+G4) |
+.('AAAA |
+FFDD |
+G2D2 |
+G3).('G |
+d2dc |
+A3A |
+c3B |
+G4) |
+.('AAAA |
+FFDD |
+G2D2 |
+G4) |]

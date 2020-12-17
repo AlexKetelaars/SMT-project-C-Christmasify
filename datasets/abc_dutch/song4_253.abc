@@ -1,0 +1,28 @@
+X: 3252
+T: Vrienden hoor eens naar mijn lied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 659410676
+%%humdrum-veritas-data 3334370650
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('A2A BA2(G A) |
+B2d2A2z2) |
+.('A A A BA2(G A) |
+B2d2A2).('A A |
+B2d2c2B2 |
+B4A4) |
+.('d2d cB2G2 |
+A> G F ED2).('G F |
+E c c cB2G2 |
+A4G4) |
+.('d2d cB2G2 |
+A> G F ED2).('G F |
+E c c cB2G2 |
+A4G4) |]

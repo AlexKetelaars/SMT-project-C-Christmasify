@@ -1,0 +1,30 @@
+X: 9520
+T: Sterren in de lucht is koperdraad, Trekt met [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 3920922419
+%%humdrum-veritas-data 3228145259
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('GG/ G/ |
+GD |
+GB |
+d2) |
+.('dA |
+A2 |
+BG |
+G2) |
+.('GG/ G/ |
+GD |
+GB |
+d2) |
+.('dd |
+dd |
+dd |
+G2) |]

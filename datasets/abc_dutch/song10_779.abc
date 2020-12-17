@@ -1,0 +1,30 @@
+X: 9778
+T: Jantje is ‘en zoete kinneke, Zoete, zoete, z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 983945885
+%%humdrum-veritas-data 3302971162
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C D E E |
+E F (3D D D) |
+.('D D D D |
+D G (3E E E) |
+.('C D E E |
+E F (3D D D) |
+.('D D D D |
+D GC2) |
+.('A F (3F F F |
+G E (3E E E) |
+.('F D (3D D D |
+E CC2) |
+.('A F (3F F F |
+G E (3E E E) |
+.('F D (3D D D |
+C CC2) |]

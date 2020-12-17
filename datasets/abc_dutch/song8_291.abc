@@ -1,0 +1,30 @@
+X: 7290
+T: Alle die willen naer Island gaen, Om kabelja [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2132413722
+%%humdrum-veritas-data 2077576244
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('A2A3/ B/ |
+c2c3/ d/ |
+e2d2 |
+c3).('d |
+e> d c3/ B/ |
+A> B c3/ d/ |
+e> d c3/ B/ |
+A2^G z/) .('E/ |
+A> B c3/ A/ |
+B> c d3/ B/ |
+c2d3/ d/ |
+e3).('c |
+d> c d3/ e/ |
+f> e d3/ c/ |
+c2B2 |
+A2z2) |]

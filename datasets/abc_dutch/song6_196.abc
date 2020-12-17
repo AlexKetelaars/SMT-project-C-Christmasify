@@ -1,0 +1,31 @@
+X: 5195
+T: Ik kwam laatst in een steê alwaar ik had vernomen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 4004252868
+%%humdrum-veritas-data 3405582758
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+FAFA |
+D2z).('D |
+E>FG3/A/ |
+GFz).('A |
+FAFA |
+D2z).('D |
+E>FG3/A/ |
+GFz).('A |
+B>AAA |
+A2z).('A |
+B>AAA |
+A2z).('B |
+A>BAA |
+d2).('AA |
+GBAA |
+D2z) |]

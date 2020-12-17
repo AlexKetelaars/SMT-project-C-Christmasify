@@ -1,0 +1,31 @@
+X: 3717
+T: Daar gebeuren vieze toeren Bij de jonkheid i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 3897249799
+%%humdrum-veritas-data 151078101
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d3/ d/ [I:setbarnb 1]|
+g2>f2 e d |
+f2e2).('A B |
+c2e2d d |
+B4).('d3/ g/ |
+g2d2d/ d/ e |
+f2e2).('A B |
+c2e2d3/ c/ |
+[M:2/4]B4) |
+.('g2f e |
+d d/ d/d2) |
+.('e2d c |
+[M:3/4]e d2<B2).('d |
+d/ d/ d d/ d/ d g a |
+[M:2/4]b3).('a |
+g d e f |
+[M:3/4]g4) |]

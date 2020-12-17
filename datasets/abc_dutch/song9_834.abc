@@ -1,0 +1,22 @@
+X: 8833
+T: West-Zuid-West van Ameland, Daar ligt een ko [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 4051569551
+%%humdrum-veritas-data 2900146676
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2G (B A) G |
+A2dd2).('A |
+A2Bc2d |
+B3-B2).('d |
+d2dB2G |
+c/ c/c2-c2).('c |
+B2GB2A |
+G6) |]

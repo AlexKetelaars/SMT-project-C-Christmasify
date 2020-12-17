@@ -1,0 +1,50 @@
+X: 471
+T: Ons Vader! die de hoogte Der Hemelen bewoont!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 2293632618
+%%humdrum-veritas-data 39624329
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('z2z2F2 |
+F4c2 |
+A4F2 |
+(D2E2A2) |
+G6) |
+.('z2z2F2 |
+A4(c2 |
+A2)G3F |
+F6) |
+.('z2z2F2 |
+F4c2 |
+A4F2 |
+(D2E2A2) |
+G6) |
+.('z2z2F2 |
+A4(c2 |
+A2)G3F |
+F6) |
+.('z2z2F2 |
+A4c2 |
+=B2A4 |
+G6) |
+.('z2z2F2 |
+A4c2 |
+=B2(A2G2) |
+A6 |
+F6) |
+.('z2z2A2 |
+c4A2 |
+(G2A2)F2 |
+(D2E2F2) |
+G6) |
+.('z2z2F2 |
+A4c2 |
+(A2G3)F |
+F4) |]

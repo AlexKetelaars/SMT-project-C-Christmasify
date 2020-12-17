@@ -1,0 +1,27 @@
+X: 3597
+T: En wat schijnt er het huwelijk op deez aard  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 129316345
+%%humdrum-veritas-data 1633226115
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+e e d d ^c d |
+e2>B2) .('B d |
+e2dG2B |
+A3-A2).('A |
+c c c B A d |
+f3e2).('e/ e/ |
+B B c e e d |
+g3-g2).('d |
+f f e A B d |
+f3e2).('e/ e/ |
+A B c e e d |
+d3-d2) |]

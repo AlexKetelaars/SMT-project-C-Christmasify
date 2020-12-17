@@ -1,0 +1,30 @@
+X: 5913
+T: “Wel, man, gij moet er naar uw huis toegaan, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3727538382
+%%humdrum-veritas-data 93983601
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c>c c/ B/ c/ d/ |
+edc).('c |
+Bcfe |
+d2z).('c |
+Bcfe |
+(dg2)).('(e/ d/) |
+c2!wedge!f!wedge!f |
+!wedge!dz).('!wedge!e!wedge!e |
+!wedge!cz/) .('c/Bc |
+fe(d/ g/) e/ d/ |
+c2z/) .('e/ e/ e/ |
+g>fd3/d/ |
+c2z/) .('e/ e/ e/ |
+g>fd3/d/ |
+c2z2) |]

@@ -1,0 +1,38 @@
+X: 17046
+T: que la mour qui nous Enchaine
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3175936844
+%%humdrum-veritas-data 3912234141
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('B>BA |
+ddc |
+!mordent!!mordent!B2B) |
+.('d>dc |
+B!mordent!!mordent!A3/G/ |
+G3) |
+.('d>de |
+ffe |
+f3) |
+.('cfd |
+gef |
+!mordent!!mordent!e2d) |
+.('ffd |
+_eed |
+c3) |
+.('ffd |
+B_ed |
+!mordent!!mordent!c2B) |
+.('B>BA |
+ddc |
+B2B) |
+.('d>dc |
+B!mordent!!mordent!A3/G/ |
+G3) |]

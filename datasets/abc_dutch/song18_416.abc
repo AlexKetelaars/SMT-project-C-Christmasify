@@ -1,0 +1,32 @@
+X: 17415
+T: De quoy vous plaignes vous
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 13126723
+%%humdrum-veritas-data 1543775008
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+dcde |
+f3f/ g/ |
+adBe |
+c>BA).('A |
+dcde |
+f3f/ g/ |
+ad/ e<cd/ |
+d3) |
+.('F/ G/ [I:setbarnb 9]|
+AAAB |
+A2AF/ G/ |
+AAAB |
+A3).('A |
+dcde |
+fdgf |
+edec |
+!fermata!d2) :|]

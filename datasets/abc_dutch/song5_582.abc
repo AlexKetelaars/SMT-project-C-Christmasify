@@ -1,0 +1,39 @@
+X: 4581
+T: En Anton en den bok Den wol eens ruter worden.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 106776398
+%%humdrum-veritas-data 740946358
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+G> G G3/ G/ |
+G3).('B |
+B B B B |
+dc2).('B |
+A A A A |
+AA2).('B |
+(3c c c B A |
+AG2).('B |
+d B G/> G/ B |
+d B G) .('B |
+d B G B |
+d BG2) |
+.('G GG2 |
+G GG2) |
+.('G> GG2 |
+G G/ G/G2) |
+.('G A B c |
+d2d2 |
+e2e2 |
+d4) |
+.('c c c c |
+B2B2 |
+A2A2 |
+G3z/) |]

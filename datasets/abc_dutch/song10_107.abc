@@ -1,0 +1,29 @@
+X: 9106
+T: ‘t Was op eenen Drijkoningenavond, Waar Jezu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 663326000
+%%humdrum-veritas-data 773717640
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GGG |
+AGA |
+(B2A) |
+G2).('B |
+Bed |
+BAG |
+A2).('D |
+GGG |
+(AG)A |
+B2A |
+G2).('B |
+B^AB |
+dcA |
+G2z) |]

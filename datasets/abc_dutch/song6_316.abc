@@ -1,0 +1,26 @@
+X: 5315
+T: Ik kwam laatstmaal het voorhof in Daar zag i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 1726658177
+%%humdrum-veritas-data 1812187341
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F2A GF2C2 |
+A2c2A4) |
+.('G G G G (G A) B G |
+F2E2F4) |
+.('A2c BA2G2 |
+A A c BA2G2) |
+.('A2c BA2G2 |
+A2(c B)A2G2) |
+.('c2c c F F G A |
+B2A2G4) |
+.('C2D EF2G2 |
+A A G GF4) |]

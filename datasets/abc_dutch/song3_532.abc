@@ -1,0 +1,29 @@
+X: 2531
+T: Wat zag ik daar d’r van verre
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 1205554038
+%%humdrum-veritas-data 21271161
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+G(B/ d/)d(c/ B/) |
+(AF)D).('E/ F/ |
+G(B/ d/)d(c/ B/) |
+A3).('A/ B/ |
+cde/> e/ e/ e/ |
+(dB)G).('d |
+[M:2/4]cA |
+[M:4/4](Bd)AA |
+G3).('A/ B/ |
+cde/> e/ e/ e/ |
+(d>g)g).('f |
+[M:2/4]ee |
+[M:4/4]d2AA |
+G3) |]

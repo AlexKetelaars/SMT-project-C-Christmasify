@@ -1,0 +1,23 @@
+X: 2851
+T: Kon ik al die mooie meisjes krijgen Dan zou  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 47162948
+%%humdrum-veritas-data 1680090245
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('b2b [I:setbarnb 1]|
+a3g2ab2a |
+g3d2).('f g g f |
+e3f3d2B |
+[M:6/8]c3B3) |
+.('g2g d/ d/ d d |
+g2gd3) |
+.('g g f e f g |
+[M:9/8]a2bg3) |]

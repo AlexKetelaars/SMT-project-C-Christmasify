@@ -1,0 +1,29 @@
+X: 1814
+T: Nou staan ik hier in het midden al van de na [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2924972225
+%%humdrum-veritas-data 71058425
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('GG2B [I:setbarnb 1]|
+d3e2d |
+d B dd2c |
+[M:9/8]B3-B2).('D D G B |
+[M:6/8]d3e2d |
+d B ed2c |
+B3-B2).('d |
+e e ec2e |
+d3).('e2e |
+e d cd2c |
+B2).('A G G B |
+[M:9/8]d3e2d (c B) A |
+[M:6/8]G2).('A G G B |
+[M:9/8]d3e2d (c B) A |
+[M:6/8]G2) |]

@@ -1,0 +1,40 @@
+X: 6563
+T: Maria ging zware van kinde, En die zwaarheid [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 4175549255
+%%humdrum-veritas-data 514461895
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('E2 [I:setbarnb 1]|
+A2A A |
+B2c B |
+B A) .('A A |
+B2c B |
+A ^G!fermata!A2 |
+z2).('E2 |
+A2A A |
+B2c B |
+B A) .('A A |
+B B c B |
+A ^G!fermata!A2 |
+z2).('A B |
+c3B |
+c2d2 |
+c4 |
+B2).('c B |
+A2A A |
+A2B A |
+!fermata!^G4 |
+z2).('E E |
+A2A B |
+c2B A |
+A ^G) .('A A |
+B B (c B) |
+A ^G!fermata!A2) |]

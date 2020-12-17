@@ -1,0 +1,40 @@
+X: 12349
+T: March van Marlbourg
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 3079583120
+%%humdrum-veritas-data 1897665805
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G [I:setbarnb 1]|
+Gddg |
+!trill!!trill!f>ed).('e |
+fgaf |
+g/ f/ g/ a/g).('G |
+Gddg |
+!trill!!trill!f>ga).('(g/ f/) |
+ede^c |
+d3) |
+.('G [I:setbarnb 9]|
+Gdd/ e/ d/ c/ |
+!trill!!trill!B>AG).('B |
+efg(f/ e/) |
+^dBB).('(e/ f/) |
+gfgf |
+g).('^def |
+ga!trill!!trill!f3/e/ |
+e3).('e/ f/ |
+gdde |
+!trill!!trill!d>cB).('d |
+cBAG |
+ADD).('d |
+dGG).('e |
+edd).('g |
+fga/ g/ a/ f/ |
+g3) :|]

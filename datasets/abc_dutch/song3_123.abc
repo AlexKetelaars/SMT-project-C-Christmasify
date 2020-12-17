@@ -1,0 +1,23 @@
+X: 2122
+T: En als jij bij de ruiter geslapen hebt Dan m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 3337089724
+%%humdrum-veritas-data 3349020497
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A [I:setbarnb 1]|
+B2B AG2A B |
+(A G) (F E)D2).('E F |
+G2E2G2F2 |
+E4D2).('D3/ D/ |
+E2E FG2F E |
+E2D2D2).('D D |
+G2>A2B2d2 |
+A4G2) |]

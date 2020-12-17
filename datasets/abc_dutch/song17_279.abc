@@ -1,0 +1,46 @@
+X: 16278
+T: Nu Poëzy met Maetzang paert, Door konstige u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2048350801
+%%humdrum-veritas-data 4114375464
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('DFA |
+d2A |
+(3(B/ A/ G/F)E |
+{E}F2).('A |
+(B/ c/d){c}B |
+(Ad)F |
+(3(G/ A/ B/A)G |
+(3(F/ E/ D/)D).('A |
+(A^G)B |
+(BA)c |
+(B/ c/d)c |
+!trill!!trill!cB).('e |
+(F-(3F/ ^G/ A/) (3(G/ A/ B/) |
+(Ae)d |
+(3(c/ B/ A/!trill!!trill!B3/)A/ |
+A3) |
+.('Ace |
+(ef)g |
+(gf)e |
+(3(d/ c/ B/)B).('d |
+(e// d// c// B//A)G |
+(FG)A |
+(Be)g |
+{d}c{B}A).('A |
+(d/ e/ f/ d/) (e/ c/) |
+(dA)B |
+(BA)d |
+{d}c2).('A |
+(d-(3d/ f/ e/) (3(d/ c/ B/) |
+(AG)F |
+(3(B/ A/ G/F)E |
+D3) :|]

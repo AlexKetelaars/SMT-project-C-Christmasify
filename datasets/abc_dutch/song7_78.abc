@@ -1,0 +1,48 @@
+X: 6077
+T: Paspe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 331159502
+%%humdrum-veritas-data 2705922854
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c2 [I:setbarnb 1]|
+f2f2g2 |
+a2g a b g |
+a2g a b g |
+a g f e) .('d c |
+f2f2g2 |
+a2g a b g |
+a2g a b g |
+a6) |
+.('d2e2f2 |
+g2a g f e |
+a2g f e d |
+^c2=B cA2) |
+.('d2e2f2 |
+g2a g f e |
+a2g f e ^c |
+d6) |
+.('A4G2 |
+F2E FD2 |
+d2d e f g |
+e d e fe2) |
+.('A4G2 |
+F2E FD2 |
+d2d e f g |
+e4) :|]
+.('e2 [I:setbarnb 25]|
+a4e2 |
+f2g f e d |
+g2g a b g |
+a4a2) |
+.('A4d2 |
+^c2d2e2 |
+f2g f e ^c |
+d4) |]

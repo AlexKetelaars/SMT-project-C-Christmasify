@@ -1,0 +1,46 @@
+X: 9420
+T: Gisteren avond, als de zon was afgerezen, Kw [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2879878948
+%%humdrum-veritas-data 1033163520
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c2c3/ B/ |
+A F A c |
+c c B G |
+G2F2) |
+.('B2G3/ B/ |
+{A}F2A c |
+(d c B) A |
+G2z2) |
+.('c2(c3/ B/) |
+A A (B c) |
+d3B |
+G2G2) |
+.('c c d e |
+(f e) d c |
+G2(A =B) |
+c2z2) |
+.('(G2A) =B |
+(c d)c2) |
+.('(G2A) =B |
+(c d)c2) |
+.('d c =B A |
+A2G2) |
+.('(c2d) c |
+B2z2) |
+.('(B2c) B |
+A2z2) |
+.('(A2B) c |
+f f d B |
+(A2B2) |
+c f d B |
+c4 |
+F2z2) |]

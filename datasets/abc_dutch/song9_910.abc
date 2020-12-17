@@ -1,0 +1,29 @@
+X: 8909
+T: In het groene loover Zit een vogelijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 189525362
+%%humdrum-veritas-data 3931217550
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('E G F A [I:setbarnb 1]|
+G2c2e d c B |
+c2z2).('F A G _B |
+A2d2f e d ^c |
+d2).('d2-d B G F |
+E2G2).('d c G F |
+(E G) ^F dG2).('G G |
+(e d c B c B A) ^G |
+^G2A4).('d d |
+(d c B A B A G) F |
+[M:2/4]E2).('G G |
+[M:4/4](e d c B c B A) ^G |
+^G2A4).('f f |
+(e d c e d c B) d |
+[M:2/4]c4) |]

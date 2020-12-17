@@ -1,0 +1,30 @@
+X: 4660
+T: Mijn eerste wijf dat was een porsenel. Ieder [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3609093312
+%%humdrum-veritas-data 3780003661
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2B> BB3c |
+d d c Bc4) |
+.('A A A A A B c c |
+d> G G G2<G2).('B |
+d2B B B B e e |
+d2c B2<c2).('c |
+A A A A A B c c |
+d2G2G2).('D3/ D/ |
+G2G> GG2G3/ A/ |
+B6).('B3/ B/ |
+A A A AA2B3/ A/ |
+G> G G> GG2).('D3/ D/ |
+G2G GG2A A |
+B4-B) .('B/ B/ B B |
+e2d> d c c d3/ c/ |
+B8) |]

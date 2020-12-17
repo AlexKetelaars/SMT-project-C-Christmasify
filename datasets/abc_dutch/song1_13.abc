@@ -1,0 +1,56 @@
+X: 13
+T: 'tWapen dat ghy aen moet hebben, daer ghy me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 620477476
+%%humdrum-veritas-data 1541206239
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=104
+K: C clef=treble
+.('e4e2 |
+e4d2 |
+e2>f2g2 |
+a4g2) |
+.('c4A2 |
+G4e2 |
+d2>c2B2 |
+c4x2) |
+.('e4e2 |
+e4d2 |
+e2>f2g2 |
+a4g2) |
+.('c4A2 |
+G4e2 |
+d2>c2B2 |
+c4x2) |
+.('z2zc2d |
+e2dc2B |
+c2G).('c2B |
+A2GF2E |
+D6) |
+.('C2DE2F |
+G2AB2c) |
+.('d2ef2e |
+d2Bc3) |
+.('e2ce2c |
+e2ge2c) |
+.('e2ge2c |
+e2gd3) |
+.('e2ce2c |
+e2ge2c) |
+.('e2ge2c |
+e2gd3) |
+.('z2zc2G |
+c2Gc2d |
+e2c).('e2g |
+e2ced2 |
+c3).('z2z |
+c2Gc2G |
+c2de2c) |
+.('e2ge2c |
+ed2c3) |]

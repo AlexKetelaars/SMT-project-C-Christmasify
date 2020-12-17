@@ -1,0 +1,24 @@
+X: 9554
+T: Vader Abram is gestorven (bis) Omtrent Jerusalem
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 2140463064
+%%humdrum-veritas-data 547400707
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C/ C/ [I:setbarnb 1]|
+FFA/ F/ |
+GG).('C/ C/ |
+FFA/ F/ |
+GG).('!fermata!c |
+!fermata!c>d c/ A/ |
+F2).('!fermata!c |
+!fermata!c>d c/ A/ |
+FFF |
+F2) |]

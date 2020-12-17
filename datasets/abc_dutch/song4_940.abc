@@ -1,0 +1,27 @@
+X: 3939
+T: En de smid vol liefde opgetogen op zijne mei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 671769201
+%%humdrum-veritas-data 1037824344
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+D2GB2B |
+B2BB2B) |
+.('A2A/ A/B2A |
+A G FA3) |
+.('d2dd2e |
+d2BG3) |
+.('G2GB2A |
+B2GD2).('d |
+d2dd2d |
+c2BA3) |
+.('A B c e e e |
+d2dG2) |]

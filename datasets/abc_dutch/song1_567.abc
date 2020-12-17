@@ -1,0 +1,16 @@
+X: 567
+T: Een dwaes die spreect in zijn ghedacht Daer  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 1300654321
+%%humdrum-veritas-data 116031818
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2F2F2c4c2d4d2c4z2).('ccd2e2f2e2(dcdefe2<d2c/ B/A2B2)B2A4).('e2(f4edc2)c2(defed2cBA2)B2G4F4) ]|:
+.('z2F2c2c2d2e2>f2g2f2e4d4).('c2(f4edc2)c2(defed2cBA2)B2G4F4) :|]

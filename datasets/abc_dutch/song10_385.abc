@@ -1,0 +1,23 @@
+X: 9384
+T: Bermhertig zijn is overal geprezen. Bermhert [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 2322928703
+%%humdrum-veritas-data 1818195460
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('E F3/ F/ [I:setbarnb 1]|
+G2>F2 E> E D3/ E/ |
+B,2!fermata!A,2z) .('D D3/ D/ |
+E2>G2 F> E D3/ ^C/ |
+B,4-B,) .('E F3/ F/ |
+G2>F2 E> E D3/ E/ |
+B,2!fermata!A,2z) .('E F3/ A/ |
+G2>F2 G> F E3/ ^D/ |
+E4-E) |]

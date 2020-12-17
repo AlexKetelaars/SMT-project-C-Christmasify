@@ -1,0 +1,31 @@
+X: 6194
+T: Wat is een weesjen op deez’ aard, Die hopelo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3988701889
+%%humdrum-veritas-data 3962258150
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('E [I:setbarnb 1]|
+E C2<G2G |
+G E2<c2).('c |
+B d2<F2F |
+(E G)C2z) .('E |
+E C2<G2D |
+F A2<c2).('A |
+G (B/ d/)f3B |
+d2c2z) .('G |
+G B2<d2F |
+E A2<G2).('G |
+f d B G A F |
+E2z2z) .('E |
+E C2<G2E |
+F A2<c2).('A |
+G (B/ d/)f3B |
+d cc2) |]

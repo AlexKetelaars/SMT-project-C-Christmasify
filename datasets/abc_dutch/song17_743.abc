@@ -1,0 +1,42 @@
+X: 16742
+T: Uijtverkooren Lam Liefste Lief vol waerden s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1629990605
+%%humdrum-veritas-data 428819266
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d>efg |
+e>-ef3/g/ |
+a2(e3/f/) |
+e2d2) |
+.('c'>ba3/g/ |
+f>ef3/g/ |
+a2A2 |
+d4) |
+.('a2g3/f/ |
+e3f |
+d>fe3/d/ |
+^c2A2) |
+.('(d>e)(d3/c/) |
+B>Bc3/d/ |
+B3A |
+A3).('a |
+(a>g)f3/e/ |
+d2g3/d/ |
+e>fd2 |
+c2).('f3/e/ |
+f>ga3/f/ |
+_b>ag2 |
+f2).('c3/d/ |
+c>BA2 |
+(d>c)d3/e/ |
+^c2d3/e/ |
+(e3d) |
+d4) :|]

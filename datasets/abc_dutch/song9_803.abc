@@ -1,0 +1,27 @@
+X: 8802
+T: Toen ik op Nederland’s bergjes stond, Zag ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 3861433329
+%%humdrum-veritas-data 4206385646
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B,2C D E F |
+G2GF2).('F |
+G2GA2A |
+B3-B2).('F |
+B B B (B A) G |
+(F2D)F2).('F |
+G G G F E D |
+C2>).('G2 G G |
+F2BA2c |
+(B2A)) .('G G G |
+F2B,D2C |
+B,3-B,2) |]

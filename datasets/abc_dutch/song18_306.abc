@@ -1,0 +1,35 @@
+X: 17305
+T: De nachtgodin Diaan Die zietmen nu vertrekken
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 4144846717
+%%humdrum-veritas-data 85295237
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('F F F2<A2A [I:setbarnb 1]|
+B2z d d d d f |
+B B2<z2).('d B B |
+B2>A2 A z/ A/ d d |
+(d^c2)c d dz2) |
+.('d d d d d G z G |
+c B B> AA2z) .('c |
+c d e dd2z d |
+G z e A BB2A |
+B6x2) |
+.('z2z F B> B- B B |
+c2z c B> B (G/ A/) (B/ A/) |
+A2F>) .('f e d c3/ d/ |
+d2z c B B B3/ A/ |
+A2A z) .('d d G3/ G/ |
+c2z F B A G3/ F/ |
+F2z z/) .('d< e d< c d/ |
+e2z d c (d/ e/) (f B |
+e2>A2d2G A/ B/ |
+c/ d/ B/ c/A2)z f B (e/ d/) |
+d3(c/ B/)B4) :|]

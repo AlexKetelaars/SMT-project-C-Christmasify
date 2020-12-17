@@ -1,0 +1,22 @@
+X: 3693
+T: Ken jij die Fransman die arme Nicolas Die me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 2938350254
+%%humdrum-veritas-data 1435807284
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2B, DE2D D |
+G G A G2<F2).('C |
+C C/ C/ C CF2E2 |
+E D D DD4) |
+.('B, GG2B, GG2 |
+F2A2C4) |
+.('A, FF2A, FF2 |
+E2G2D4) |]

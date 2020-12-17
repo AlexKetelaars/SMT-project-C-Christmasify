@@ -1,0 +1,44 @@
+X: 17549
+T: Marsch van de generael op Batavia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 862995130
+%%humdrum-veritas-data 1731903199
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G> A G> A B3/ A/ |
+G4z2G3/ A/ |
+B2B> c B> c d3/ c/ |
+B4z2).('B3/ c/ |
+d2d> dd2g3/ f/ |
+e> d e> f e> g f3/ g/ |
+d> c d> e d> g f3/ g/ |
+c> B c> d c> e d3/ c/ |
+B4z2).('e3/ d/ |
+^c4z2d2 |
+^c2d2c2d2 |
+^c> B A> G F> ED2 |
+d2e> g^c3d |
+d4z2^c2 |
+d4z2) |
+.('F3/ G/ [I:setbarnb 16]|
+A2A> AA2d3/ c/ |
+B> A B> cB2B3/ c/ |
+d2d> dd2g {g} f |
+e> d e> fe2)(3.('c d c |
+(3e f e (3g a g (3e f ec2 |
+(3C D C (3E {G} F E (3G A G (3E F E |
+C2e> {e} fe2d3/ c/ |
+d2g> dd2e3/ d/ |
+d> B c> BA4) |
+.('z B c> c A zd2 |
+G> A F> d G> A F3/ d/ |
+G2G> A G> A B3/ A/ |
+G4z2) |]

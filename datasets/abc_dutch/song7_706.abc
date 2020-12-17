@@ -1,0 +1,38 @@
+X: 6705
+T: Komt, kameraden, waar mêe ik heb gezwierd! K [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 2065437096
+%%humdrum-veritas-data 3750109057
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A2F3/ A/ |
+d d z) .('F |
+F E G3/ F/ |
+D2z) .('A |
+d3c |
+B A G F |
+(A2B A) |
+E2z2) |
+.('A2B3/ c/ |
+d3F |
+A> A G3/ E/ |
+D2z) .('A |
+d3c |
+B A G F |
+(A2B A) |
+E2z) .('A |
+A> B c3/ d/ |
+e2z3/) .('F/ |
+F> A B3/ c/ |
+d2z) .('A |
+A> B c3/ d/ |
+f> e d B |
+A> A G3/ E/ |
+D2z2) |]

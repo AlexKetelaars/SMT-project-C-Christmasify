@@ -1,0 +1,36 @@
+X: 17224
+T: Hoe bedroeft is 't, als men zyn dagen, zo sp [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 1785989250
+%%humdrum-veritas-data 3670529820
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=bass
+.('B,>B,B,F, |
+G,2F,3/E,/ |
+D,2D,2) |
+.('zE,E,E, |
+_A,A,A,F, |
+G,3).('G, |
+CCCB, |
+A,2A,B, |
+G,2G,C |
+F,2F,).('F,/ F,/ |
+B,B,G,G,/ G,/ |
+D2D2) |
+.('B,B,/ A,/G,F, |
+E,2E,D, |
+C,2(D,/ C,/)D, |
+G,2).('G,3/G,/ |
+CCCC/ B,/ |
+A,2F,2) |
+.('B,B,/ A,/G,F, |
+E,2D,E, |
+F,2(F,/ E,/)F, |
+B,4) |]

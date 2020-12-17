@@ -1,0 +1,33 @@
+X: 9159
+T: In den hemel is eenen dans, Allelujah
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3534849510
+%%humdrum-veritas-data 2009855473
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G2G [I:setbarnb 1]|
+c2c B A B |
+[M:9/8]c3).('c2>(G2 A) B |
+[M:6/8]c2>-c2 z) .('G |
+[M:6/8]c2BA2G |
+G2FE2).('E |
+E2FG2G |
+[M:9/8]A2AG2).('c (d c) B |
+[M:6/8]c2c (d c) B |
+c2>-c2 z) .('G |
+c2GE2G |
+[M:9/8]c3).('c2>(G2 A) B |
+[M:6/8]c2>-c2 z) .('G |
+[M:6/8]c2BA2G |
+G2FE2).('E |
+E2FG2G |
+[M:9/8]A2AG2).('c (d c) B |
+[M:6/8]c2c (d c) B |
+c2>-c2 z z) |]

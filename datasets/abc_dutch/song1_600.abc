@@ -1,0 +1,15 @@
+X: 600
+T: Ghi menschen hier op aerden al Weest vrolic  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2573516661
+%%humdrum-veritas-data 1982823684
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2D2D2D2A4B2c2B4A4z2).('G2A2B2c2A4G2F4E4z2).('B2c2B2A2A2(E2>D2EFG4FED4)C4z2).('A2A2A2F4D2G4^F2G4).('B4c4A2(d4c)B(A6G=FE4)D4) |]

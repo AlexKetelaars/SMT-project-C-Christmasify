@@ -1,0 +1,50 @@
+X: 13443
+T: No59
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:34
+%%humdrum-veritas 3975413815
+%%humdrum-veritas-data 3684416195
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G> G B> B d3/ d/ |
+d bg2(3B d g |
+a2c'2(3A c f |
+(g a b g)d2) |
+.('G> G B> B d3/ d/ |
+d bg2(3B d g |
+a2c'2(3d f a |
+g4) |
+(3.('B d g [I:setbarnb 9]|
+c f a f c A |
+B d g b g d |
+c g a c' a f |
+g a b gd2) |
+.('G> G B> B d3/ d/ |
+d bg2(3B d g |
+a2c'2(a f) |
+g4) |
+.('d c [I:setbarnb 17]|
+(3B d g (3B d g (3B d g |
+f c' a f d c |
+(3B d g (3B d g (3B d g |
+a fd2d2) |
+(3.('B d g (3B d g (3B d g |
+f c' a f d c |
+B d g b a f |
+g4) |
+.('f g [I:setbarnb 25]|
+a f d f a f |
+g d B d g d |
+a f d f a f |
+g b a g f g) |
+(3.('B d g (3B d g (3B d g |
+B2(3d' b g (3d g b |
+a2c'2(3A c f |
+g4) :|]

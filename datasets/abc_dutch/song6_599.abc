@@ -1,0 +1,30 @@
+X: 5598
+T: Isabelle, mijn dochterken, waer hebde gy lee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 3268254549
+%%humdrum-veritas-data 130543225
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+.('G2A |
+B B c |
+d2d |
+d2).('d |
+e e e |
+d2c |
+B3 |
+A2).('G |
+G2A |
+B2c |
+d3 |
+d2).('d ||
+e2e [I:setbarnb 14]|
+d2d |
+c B A |
+G2z) |]

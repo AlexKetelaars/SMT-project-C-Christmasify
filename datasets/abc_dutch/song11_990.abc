@@ -1,0 +1,30 @@
+X: 10989
+T: “Wie klopter hier op mijn celletje?” - “Het  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1875885809
+%%humdrum-veritas-data 648034653
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('CD2E [I:setbarnb 1]|
+F A A (G B) G |
+!fermata!F2).('c c c c |
+(c A) A (A F) F |
+!fermata!G2).('CC2C |
+F A A (G B) G |
+!fermata!F2).('c c c c |
+(c A) A (A F) F |
+!fermata!G2>z2) .('F D |
+E2F G G A |
+B2GF2E |
+(F2G) !fermata!A) .('D D |
+(E2F)(G2A) |
+B B GF2).('E |
+F2G(F2C) |
+F3z2z) |]

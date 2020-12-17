@@ -1,0 +1,27 @@
+X: 4532
+T: Zeg vrienden luistert naar dit lied Toen Pee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3091065416
+%%humdrum-veritas-data 1060031366
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D B B d c B A) .('D |
+D F A B AG2).('D |
+D B B d c B A) .('D/ D/ |
+D F A BA2G3/) .('B/ |
+B G D> B B G D3/) .('D/ |
+G D G Be2d3/) .('d/ |
+e d c c/ c/ d c B3/) .('B/ |
+c D F BA2G3/) .('G/ |
+D B B> d c B A3/) .('A/ |
+D F A c e d d3/) .('d/ |
+B B d> d c B A3/) .('e/ |
+d d D DG3) |]

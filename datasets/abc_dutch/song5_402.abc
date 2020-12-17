@@ -1,0 +1,15 @@
+X: 4401
+T: En we zijn gebroeders zoals ge ziet En wanne [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 1806920376
+%%humdrum-veritas-data 4004956857
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G GB2c2(d2e4<)e4d2c2d4<B4).('G> AB2(3B B B A A A BG2).('B> Bd2(3d d d c c c dc2B2!fermata!A2).('A2A2D4A> A A AA4<D4).('A2A A A A A A) .('A A B Bc2B2).('A2B2c2B2A6) |]

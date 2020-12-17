@@ -1,0 +1,27 @@
+X: 15261
+T: Ziet hoe glanzen, ziet hoe dansen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2708365890
+%%humdrum-veritas-data 2085306257
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('E F [I:setbarnb 1]|
+G2c2e3/ d/ |
+c2E2F3/ E/ |
+D2>A2 G3/ F/ |
+E2>).('E2 E E |
+A2c2B A |
+^G2A =G G G |
+c2e2d c |
+B2c2z) .('G |
+e d c B A ^G |
+A2>B2 (3d c A |
+G2c2e3/ d/ |
+c4) |]

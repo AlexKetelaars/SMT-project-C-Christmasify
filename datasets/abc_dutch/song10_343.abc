@@ -1,0 +1,31 @@
+X: 9342
+T: Wilt gij, o vreemd’ling, mij ontvluchten Lan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 435490853
+%%humdrum-veritas-data 2647865813
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A B A [I:setbarnb 1]|
+F2>A2 B A |
+(G E)C4) |
+.('A> A ^G A B A |
+E4).('A B |
+A2>B2 A ^G |
+A2d2).('F F |
+B2>A2 G F |
+D6) |
+.('D> D D C/ C/ B, A, |
+F2F4) |
+.('A> A ^G A B A |
+E4).('A B |
+A2>B2 A ^G |
+A2d>) .('F F F |
+B2>A2 G F |
+D3) |]

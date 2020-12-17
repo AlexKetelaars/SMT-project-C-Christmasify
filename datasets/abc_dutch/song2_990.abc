@@ -1,0 +1,33 @@
+X: 1989
+T: Daar reed er een jong heertje Al door het gr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1057918561
+%%humdrum-veritas-data 204920508
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+(G2B) A G F |
+E2F2B2 |
+A2>G2 F E |
+(D2E2)).('F2 |
+(G2B) A G F |
+E2F2B2 |
+A2>G2 F E |
+D4).('D D |
+G2B> B B B |
+(A F)G2).('A A |
+(B d)d2B2 |
+A2c2(B A) |
+G4).('D D |
+G2B> B B B |
+(A F)G2).('A A |
+(B d)d2B2 |
+A2c2(B A) |
+G4) |]

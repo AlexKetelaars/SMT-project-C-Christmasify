@@ -1,0 +1,27 @@
+X: 940
+T: Hoe helder de zon en hoe duister de maan En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 1803953883
+%%humdrum-veritas-data 4282527294
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d c [I:setbarnb 1]|
+B B B c d e |
+d d d d) .('c B |
+A A ed2B |
+(c2d)B2).('d |
+B2B (c d) e |
+d d dd2).('e/ d/ |
+A2ed2B |
+(c2d)B2).('d/ d/ |
+d e f g f e |
+d2>).('(e2 d) e |
+d B de2d |
+B3-B) |]

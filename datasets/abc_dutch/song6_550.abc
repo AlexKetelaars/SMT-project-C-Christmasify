@@ -1,0 +1,35 @@
+X: 5549
+T: Laet klinken de glazen, laet schuimen het vo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3686691198
+%%humdrum-veritas-data 1078502169
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+E G F |
+E G c |
+B G E |
+B2).('B |
+B A G |
+c2B |
+(A2G) |
+F2).('B, |
+E G F |
+E G c |
+=B c d |
+!fermata!e2).('e |
+c B A |
+G3 |
+=B2B |
+c2).('e |
+c B A |
+G3 |
+F2B |
+E2) |]

@@ -1,0 +1,36 @@
+X: 757
+T: Al woud'ick,,Hoe soud'ick,,Volkomen danck,,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2410975734
+%%humdrum-veritas-data 3488165893
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('G2G2AB |
+c2>d2c2 |
+(B2>A2)B2 |
+A4).('B2 |
+A4G2 |
+G4^F2 |
+G6) |
+.('G2G2AB |
+c2>d2c2 |
+(B2>A2)B2 |
+A4).('B2 |
+A4G2 |
+G4^F2 |
+G6) |
+.('E2E2E2 |
+(EDEFG)E |
+(FE/ F/GFE)D |
+E6) |
+.('A2A2G2 |
+c2>B2A2 |
+G2G2^F2 |
+G6) |]

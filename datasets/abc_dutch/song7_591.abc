@@ -1,0 +1,20 @@
+X: 6590
+T: En wij kwamen zoo laat in den avond gegaan:  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 4077601879
+%%humdrum-veritas-data 3503147357
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G A [I:setbarnb 1]|
+B B B B d d |
+d c BA3) |
+.('G2>A2 G A |
+B c B A B A |
+G3z) |]

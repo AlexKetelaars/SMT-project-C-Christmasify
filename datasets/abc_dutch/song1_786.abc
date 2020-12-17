@@ -1,0 +1,32 @@
+X: 786
+T: Des Hemels licht, Doet ons bericht, Van Gode [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2378976213
+%%humdrum-veritas-data 2811387133
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('B [I:setbarnb 1]|
+B>cdB |
+(A/ G/ A/) B/c).('A |
+GA(B/ A/)G |
+A3).('B |
+B>cdB |
+(A/ G/ A/) B/c).('A |
+GA(B/ A/)G |
+A3).('A |
+BABc |
+d2).('B2 |
+cd_ec |
+d4) |
+.('zBA/ B/ c/ A/ |
+BG^FF |
+G).('dc/ d/ e/ c/ |
+dBAA |
+G3) |]

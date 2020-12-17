@@ -1,0 +1,31 @@
+X: 392
+T: Derde Carileen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2053582861
+%%humdrum-veritas-data 4272212939
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('g2>g2 a g e f |
+g8 |
+z2).('d> e f f c3/ d/ |
+e2B> cd4 |
+z2).('A> B c> de2- |
+e fg4B3/ c/ |
+d2).('G G A B ^F3/ G/ |
+G8) |
+.('g2>a2 g e f g |
+e4z2e e |
+e2d e c d B c |
+A2d2>).('c2 B A |
+G2c2>d2e2- |
+e c e fg4 |
+z2).('G GA2A A |
+B2c c d e B3/ c/ |
+c8) :|]

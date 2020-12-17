@@ -1,0 +1,24 @@
+X: 6178
+T: Mijnheere, ‘k wil dat j’aan tafel zaat, ‘k W [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 4054686733
+%%humdrum-veritas-data 770325663
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c [I:setbarnb 1]|
+c d cc2c |
+f2cc2).('c |
+f2cc2).('c |
+f f ed2c |
+c2BA2z) |
+.('A2AB2A |
+d3c3) |
+.('G2BA2A |
+F6) |]

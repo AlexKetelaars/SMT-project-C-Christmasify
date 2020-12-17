@@ -1,0 +1,50 @@
+X: 12166
+T: 19
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 4125184955
+%%humdrum-veritas-data 1325171362
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('F A c f a c' |
+{f}(e3f/ g/)f2 |
+c c'b2a2 |
+!trill!!trill!a2g g a b) |
+.('c'2A c' G b |
+F A c f a c' |
+b2G b F a |
+E G =B e g =b) |
+.('a F E g F a |
+G b a g a f |
+!wedge!a (b/ c'/)c2!trill!!trill!g2 |
+{g}f6) |
+.('C E G c e g |
+{c}(=B3c/ d/)c2 |
+{b}a2g f e d |
+{d}^c2>e2 f g) |
+.('a2F a E g |
+D F A d f a |
+g2E g D f |
+^C E A ^c e g) |
+.('f D g E a F |
+G b a g f e |
+f (g/ a/)A2!trill!!trill!e2 |
+{e}d6) |
+.('F A c f a c' |
+B, D F B d f |
+G =B d g =b d' |
+C E G c e g) |
+.('c'2A c' G b |
+F A c f a c' |
+b2G b F a |
+E G c e g c') |
+.('a F E g F a |
+G b a g a f |
+a (b/ c'/)c2!trill!!trill!g2 |
+{g}f6) :|]

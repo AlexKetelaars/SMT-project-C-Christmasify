@@ -1,0 +1,32 @@
+X: 17259
+T: Geef wel acht, ô waereldlingen, Hoe gy met u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 1957368822
+%%humdrum-veritas-data 4065637665
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d3/g/ [I:setbarnb 1]|
+^fdb3/c'/ |
+aa).('g3/g/ |
+gfe3/d/ |
+d2).('d3/g/ |
+^fdb3/c'/ |
+aa).('g3/g/ |
+gfe3/d/ |
+d2) |
+.('^f3/f/ [I:setbarnb 9]|
+gB_e(e/ d/) |
+c2).('f3/b/ |
+_edc3/c/ |
+dB).('f3/f/ |
+f>ge3/e/ |
+a^f).('b3/b/ |
+b(a/ g<)g^f/ |
+g2) :|]

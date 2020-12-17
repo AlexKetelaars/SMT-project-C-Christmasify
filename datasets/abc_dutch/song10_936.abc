@@ -1,0 +1,25 @@
+X: 9935
+T: ‘k Heb een klein, klein spiegelke gevonden,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 890471620
+%%humdrum-veritas-data 4167163903
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('D F [I:setbarnb 1]|
+A2A2A B A G |
+F2D2z2).('D F |
+A2A2A B A G |
+F2D2z2).('A A |
+(3A A A A AB2).('A A |
+A A B BA2).('D2 |
+D2D F (3(A B) A (3(G F) E |
+D2z2z2).('D2 |
+D D D F (3A B A (3G F E |
+D2z2z2) |]

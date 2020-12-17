@@ -1,0 +1,26 @@
+X: 15955
+T: Laastmaal reed'r een heer door 't Land. &c
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 3576183864
+%%humdrum-veritas-data 3810773474
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c [I:setbarnb 1]|
+f2f ga2g f |
+c'2c' d'c'4 |
+b2b ab2d'2 |
+c'2b ag4 |
+c'2>b2a2c'2 |
+b2a ga2f2) |
+.('a2g fg2g2 |
+a2g fg4 |
+c'2>c'2d'2c' b |
+a g a bc'2f g |
+a2g af3) |]

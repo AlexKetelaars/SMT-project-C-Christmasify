@@ -1,0 +1,38 @@
+X: 522
+T: Oneyndig Ligt! die 't Hemelsch heyr gestaack [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3360362859
+%%humdrum-veritas-data 2908932197
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=66
+K: C clef=treble
+.('A2A3A |
+B2B2c2 |
+d2d3^c |
+d2).('d2e2 |
+f2^c3c |
+d2d4) |
+.('c2_B3A |
+A2A2A2 |
+G2G3F |
+F6) |
+.('A2A3G |
+G2G2A2 |
+_B2B3A |
+A2).('A2B2 |
+c2d3e |
+^c2).('c2d2 |
+e2e3e |
+e2e2e2 |
+f2d3d |
+e2e3).('d |
+(c>_BA3)A |
+B2B2^c2 |
+d2d3^c |
+d6) |]

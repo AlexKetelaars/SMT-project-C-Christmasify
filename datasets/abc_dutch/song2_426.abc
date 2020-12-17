@@ -1,0 +1,21 @@
+X: 1425
+T: E pèrretje rie naar stee Breng voor Ida koeken mee
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2809281525
+%%humdrum-veritas-data 2847433172
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('A2(3B B B A AG2) |
+.('A A B B A AG2) |
+.('A A B BA2G) .('G |
+c c c c B BB2) |
+.('A A A A G GG2) |
+.('A A A A B BB2) |
+.('A A A A G GG2) |]

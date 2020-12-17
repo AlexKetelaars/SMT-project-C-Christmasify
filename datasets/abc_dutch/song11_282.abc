@@ -1,0 +1,44 @@
+X: 10281
+T: 40
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:04
+%%humdrum-veritas 50927951
+%%humdrum-veritas-data 1785261937
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A B [I:setbarnb 1]|
+c2c> cc2d e |
+f6c2 |
+d2f2c2f2) |
+.('!mordent!!mordent!B4A2c2 |
+d f e f c f e f |
+!mordent!!mordent!B4A2f2) |
+.('e2!mordent!!mordent!f2g2a2 |
+b6c' b |
+a g f gc2!mordent!!mordent!e2 |
+!fermata!f6) |
+.('f g [I:setbarnb 11]|
+a g f g a c' b a |
+g2a bc'2!mordent!!mordent!e2 |
+f e d e f a g f |
+!mordent!!mordent!e2f ga2!mordent!!mordent!c2) |
+.('d c B c d f e d |
+c2d ef2!mordent!!mordent!A2 |
+B A G A B d c B |
+!mordent!!mordent!A2G AF2).('G A |
+B A G A B d c B |
+!mordent!!mordent!A2G AF2c2 |
+d2f2c2f2 |
+!mordent!!mordent!B4A2c2) |
+.('d f e f c f e f |
+B4A2f2 |
+e2f2g2a2 |
+!mordent!!mordent!b6c' b |
+a g f gc2!mordent!!mordent!e2 |
+!fermata!f6) :|]

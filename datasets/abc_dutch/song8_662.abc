@@ -1,0 +1,34 @@
+X: 7661
+T: Minnewet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 3874472874
+%%humdrum-veritas-data 2807563459
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G B d g |
+g fg2) |
+.('g d B d |
+B2A2) |
+.('B d d e |
+d BG2) |
+.('e c d B |
+d BG2) |
+.('B d c B |
+A4) |
+.('A d B G |
+A dA2) |
+.('B d B G |
+A4) |
+.('d A e c |
+d g f g |
+d B e c |
+d2).('g2 |
+B G A F |
+A4) :|]

@@ -1,0 +1,33 @@
+X: 15232
+T: Musikanten, Blumen, Heringe, wie reimt sich  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 3190448039
+%%humdrum-veritas-data 3373374388
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+G G A A |
+B A G D |
+B B A A |
+G2z) :|]
+.('B/ B/ [I:setbarnb 5]|
+B B B B |
+c c z c |
+A A A A |
+d d z) .('d |
+B B B B |
+e e z e |
+d B c A |
+G2z) ||
+.('B [I:setbarnb 13]|
+B B B B |
+c c c c |
+A A d3/ c/ |
+B2z B) |]

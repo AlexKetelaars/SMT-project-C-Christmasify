@@ -1,0 +1,15 @@
+X: 679
+T: Tot u hief ick mijn ooghen lieve Heer Hier b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 677249076
+%%humdrum-veritas-data 1122964408
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('A,4A,4C4C2D2E2>E2E2D2C4z2).('C2G4G2G2G4G4(A2GEF4)E4).('D2D2D2D2F4D2F2(G2>F2E2D2)C4z2).('G,2C4E4E4D4(C2B,A,B,4)A,4) |]

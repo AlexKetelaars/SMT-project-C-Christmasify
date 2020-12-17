@@ -1,0 +1,15 @@
+X: 671
+T: Wilt dancken, en belyen den Heer, Wilt danck [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 686877936
+%%humdrum-veritas-data 150072275
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2EEEEF2FFG4z2).('G2AGFE(FG)AFG4z2).('B2BBBB(AGFEF2)A2G2F2F2E2F4z2).('A2AAAAA2A2(GFGAG2)).('F2E2E2F2F2C4z2).('F2E2E2F2F2C4z2).('F2E2E2F2F2G4G2).('G2A2>(G2F)(GA)FG4F2).('G2B2B2A2G2(AGFEF2)).('AAG2F2F2E2F4) |]

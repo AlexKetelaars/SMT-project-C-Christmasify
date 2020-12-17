@@ -1,0 +1,28 @@
+X: 11873
+T: Prins Robbert
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 3550480383
+%%humdrum-veritas-data 1015574671
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A [I:setbarnb 1]|
+d^cde |
+f>gff |
+edd3/^c/ |
+d3) :|]
+.('d [I:setbarnb 5]|
+e>d (e/ f/)g |
+c>dce |
+fag3/f/ |
+f3).('g/ f/ |
+e>d (e/ f/)g |
+c>dcf |
+edd3/^c/ |
+d3) |]

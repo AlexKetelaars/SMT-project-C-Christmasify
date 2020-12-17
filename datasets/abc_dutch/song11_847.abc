@@ -1,0 +1,27 @@
+X: 10846
+T: Luistert, oud en jong van jaren, Die nog lee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1086684643
+%%humdrum-veritas-data 2498560892
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F F [I:setbarnb 1]|
+B2>G2A2c2 |
+(F2>G2)F2).('G3/ F/ |
+F E E EE2).('G3/ A/ |
+G F F F F) .('F F F |
+B2B2c2c2 |
+(d2>e2)e2).('d c |
+B2d2c3A |
+B2-B2>).('e2 d c |
+B2B2c2c2 |
+(d2>e2)e2).('d c |
+B2d2c3A |
+B6) |]

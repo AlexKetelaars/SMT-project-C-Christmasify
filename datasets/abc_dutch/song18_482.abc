@@ -1,0 +1,50 @@
+X: 17481
+T: Menuet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 360844301
+%%humdrum-veritas-data 1770277732
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('f B A B {g a}b2 |
+{a}!trill!!trill!g4f2 |
+g B A B {e f}g2 |
+{f}e4d2) |
+.('c F =E F {B c}d2 |
+c F =E F {c d}e2 |
+(3d c B (3b a g (3f e d |
+(3c B A (3B A G {G}F2) |
+.('f B A B {g a}b2 |
+{a}!trill!!trill!g4f2 |
+g B A B {e f}g2 |
+{f}e4d2) |
+.('c F =E F {B c}d2 |
+c F =E F {c d}e2 |
+(3d c Bd2c2 |
+{c}B6) |
+.('c F =E F {c d}e2 |
+(3d c B b B!trill!!trill!B2 |
+c F =E F {c d}e2 |
+(3d c B b B!trill!!trill!B2) |
+.('b2(3g a b (3=e f g |
+(3B c d (3=E F G C b |
+(3a g fa2g2 |
+f6) |
+.('(.f .e .d .c .B .A) |
+(3G F E (3F E DE2 |
+(.g .f .e .d .c .B) |
+(3A G F (3G F EF2) |
+.('f (B A B) {g a}b2 |
+{a}!trill!!trill!g4f2 |
+g (B A B) {e f}g2 |
+{f}e4d2) |
+.('c F =E F {B c}d2 |
+c F =E F (3e d c |
+(3.b .a .g (3.f .e .d (3.c .B .A |
+{A}!fermata!B6) :|]

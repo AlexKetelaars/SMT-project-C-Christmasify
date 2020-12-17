@@ -1,0 +1,31 @@
+X: 14813
+T: Schept vreugd
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 2993717651
+%%humdrum-veritas-data 877750344
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('e2>f2 e f |
+g3c'3 |
+c2>d2 c d |
+e f ed3 |
+e2>f2 e f |
+g3c'3 |
+e2>d2 c d |
+c3z2) |
+.('g [I:setbarnb 9]|
+g f e d e f |
+g2ec2g |
+g f e d e f |
+g2ec2g |
+a2fc'2a |
+g2ea2g |
+g a g g f e |
+e3d3) |]

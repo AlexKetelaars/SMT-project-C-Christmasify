@@ -1,0 +1,39 @@
+X: 4015
+T: Ik was nog jong nog tamelijk onervaren 'k Wi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3780518767
+%%humdrum-veritas-data 2290118712
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B B3/ B/ [I:setbarnb 1]|
+B2>B2 B B/ B/ G B |
+d2d2>).('d2 d3/ d/ |
+e2>e2 e f g e |
+d4-d) .('d e f |
+[M:5/4]g d2<d2d e> d c3/ B/ |
+[M:4/4]B2A2>).('e2 e e |
+A2>B2 c d/ d/ e e |
+d4-d) .('d d B |
+A2B2c> F G A |
+B2B2>).('d2 d3/ d/ |
+d3^c/ c/ d c d e |
+A4-A) .('A A d |
+^c2B2B> B A G |
+(F A2<)d2).('f f f |
+e2e> f e B ^c c |
+d4).('d2g3/ g/ |
+f2>e2 g> g f3/ e/ |
+e2d2>).('B2 A B |
+d2>A2 B c d e |
+d4-d) .('d e f |
+a2g> g f> d e/ e/ f |
+g> AA2>).('e2 e/ e/ e |
+dd2B c> c B A |
+G4-G) |]

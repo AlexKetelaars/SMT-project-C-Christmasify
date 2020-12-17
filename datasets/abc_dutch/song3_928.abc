@@ -1,0 +1,35 @@
+X: 2927
+T: Er was een meisje dat ging treuren dat ging  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 3362455062
+%%humdrum-veritas-data 4182923777
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D3// G// [I:setbarnb 1]|
+G>D G3// F// |
+ED).('D3// G// |
+G>D G3// E// |
+ED2) |
+[M:2/4].('BB |
+AA3// B// |
+cd3// c// |
+B3/).('A/ |
+AB3// A// |
+GB |
+AF |
+G2) |
+.('BB |
+AA3// B// |
+cd3// c// |
+B3/).('A/ |
+AB3// A// |
+GB |
+AF |
+G3/) |]

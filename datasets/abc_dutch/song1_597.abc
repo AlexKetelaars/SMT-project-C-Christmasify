@@ -1,0 +1,15 @@
+X: 597
+T: O God wij hebbent wel verstaen Ons vaders he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 1938051069
+%%humdrum-veritas-data 3665499144
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2G2G2G2d2d2e2e2c4z2).('c2d2>e2f2g4f2e4d4z2).('d2(f2>e2)d2c2(BAB)cd4).('f2>e2d2c4B2A4G4z2).('d2d2d2c2A2B2G2F4).('e2e2f4d4e2f2(g4f2>e2defed2cB)A4z2).('G2B2c4B2A2>A2G4) |]

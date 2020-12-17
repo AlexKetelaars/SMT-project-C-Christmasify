@@ -1,0 +1,62 @@
+X: 16952
+T: Chour en rondeau
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2684056261
+%%humdrum-veritas-data 4202178096
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('eeg |
+cce |
+cde |
+d2d) |
+.('eeg |
+cce |
+Afe |
+!mordent!!mordent!d2c) |
+.('GAB |
+cde |
+AAB |
+!mordent!!mordent!^G3) |
+.('ABc |
+dcB |
+edc |
+!mordent!!mordent!B2A) |
+.('ccf |
+def |
+e^fg |
+!mordent!!mordent!^f3) |
+.('dgd |
+ecA |
+dcB |
+!mordent!!mordent!A2G) |
+.('eeg |
+cce |
+cde |
+!mordent!!mordent!d2d) |
+.('eeg |
+cce |
+Afe |
+!mordent!!mordent!d2c) |
+.('cde |
+fef |
+dde |
+!mordent!!mordent!^c3) |
+.('Adc |
+Be^c |
+def |
+!mordent!!mordent!e2d) |
+.('fAB |
+cde |
+ffe |
+d3) |
+.('cGc |
+Afd |
+Bcd |
+!mordent!!mordent!B2c) :|]

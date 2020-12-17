@@ -1,0 +1,15 @@
+X: 576
+T: Die Heer almachtich mi regeert Gheen dinc sa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 406610473
+%%humdrum-veritas-data 2274466659
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2G2A2A2(c2>B2A2)d4c2B4A4z2).('A2A4B4G4F2(c2>d2_ec2<d2c/ B/A4)G4-G4z2).('G2A2A2(c2>B2A2)d4c2B4A4z2).('A2A4B4G4F2c2>(d2ec2<d2c/ B/A4)G4-G4).('A4B4F2(G4FED4)z2).('D2F2G2A4z2).('d2c2f2=e2d2e4d4z2).('G2(dcdef2)e2d4z2).('dd(cBcdc2)B2A4z2).('d2d2d2(cBcdc2)B2A4G4) |]

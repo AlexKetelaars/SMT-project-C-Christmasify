@@ -1,0 +1,28 @@
+X: 5628
+T: Jan, mijne man, zou ruiter worden, kon hy g’ [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 1690555517
+%%humdrum-veritas-data 1501292716
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G/ A/ B/ [I:setbarnb 1]|
+cc/de/ |
+cc/cB/ |
+AA/BG/ |
+cz/z).('d/ |
+^fd/fd/ |
+^fd/g3/ |
+ee/ e/ d/ c/ |
+B3/A3/ |
+G3/zz/) |
+.('c3/c3/ |
+(c/ B/) A/G3/ |
+GG/Gf/ |
+ed/c3/) |]

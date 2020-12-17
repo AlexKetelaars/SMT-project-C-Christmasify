@@ -1,0 +1,30 @@
+X: 6310
+T: Polka Mazurka
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 3535324592
+%%humdrum-veritas-data 1777468006
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d2g B c d |
+g B c ed2 |
+d2g B c d |
+g2B c e d) |
+.('d2c'> ba2 |
+d2b> ag2 |
+f A c ed2 |
+g B c ed2) |
+.('d2c'> ba2 |
+d2c'> c'g2 |
+f e d f a f |
+g2g2z2) |
+.('b bb2a2 |
+a2g fg2 |
+a aa2g2 |
+g2f ef2) |]

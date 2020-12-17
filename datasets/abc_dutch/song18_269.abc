@@ -1,0 +1,38 @@
+X: 17268
+T: gigue
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 168651667
+%%humdrum-veritas-data 1412360898
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('g> f g |
+!mordent!!mordent!e> d c |
+g> f g |
+!mordent!!mordent!e> d c) |
+.('g> f e |
+d> e c |
+!mordent!!mordent!B> c d |
+e3) |
+.('e> d c |
+d> c B |
+e> d c |
+d> c B) |
+.('d> e f |
+e> f g |
+!mordent!!mordent!f> e d |
+g3) |
+.('!mordent!!mordent!f> e d |
+e3 |
+!mordent!!mordent!c> B A |
+d> c B) |
+.('g> f e |
+c> d e |
+d> e f |
+e3) :|]

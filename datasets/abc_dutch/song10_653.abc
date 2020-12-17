@@ -1,0 +1,28 @@
+X: 9652
+T: Abraham is gestorven, Abraham is gestorven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 2538608836
+%%humdrum-veritas-data 3372047167
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E [I:setbarnb 1]|
+A G A B |
+(c2B2) |
+A2z) .('B |
+c B c d |
+(e2d2) |
+c2z2) |
+.('e ce2 |
+d Bd2 |
+c A (e c) |
+B B !fermata!B) .('E |
+A G A B |
+(c2B2) |
+A2z2) |]

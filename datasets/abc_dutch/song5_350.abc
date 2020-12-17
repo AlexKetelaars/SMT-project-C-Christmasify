@@ -1,0 +1,22 @@
+X: 4349
+T: Poesje poesje mauwe Zat op de Hereweg
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 4190617262
+%%humdrum-veritas-data 1580641209
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2GB2A |
+G3D3) |
+.('G G GB2A |
+G3-G3) |
+.('B3/ A3/ B3/ c3/ |
+d3d3/) .('c3/ |
+B B B A3/ A3/ |
+G3-G3) |]

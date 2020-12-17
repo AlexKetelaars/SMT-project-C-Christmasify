@@ -1,0 +1,47 @@
+X: 17302
+T: De oude Momus, grys van baard, Die schrold e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 880495975
+%%humdrum-veritas-data 560153953
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F2G |
+A2B |
+cd2 |
+c2).('e |
+(d>e)f |
+fe2 |
+f3 |
+z).('f2 |
+e2d |
+d2d |
+cB2 |
+A2).('d |
+d2c |
+c=B2 |
+c3) |
+.('c3 |
+AGA |
+(A>Bd) |
+d3 |
+c2).('c |
+(Bc)B |
+B(AG) |
+A3) |
+.('f3 |
+fed |
+c(Bc |
+F3 |
+GAB) |
+c2).('c |
+Bc(A |
+GF)G |
+F3) :|]

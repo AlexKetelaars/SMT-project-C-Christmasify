@@ -1,0 +1,21 @@
+X: 14922
+T: [ontbreekt][strofe 2: Es hat die Schmeichele [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 3188383462
+%%humdrum-veritas-data 533184575
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('f B c B/ A/A2z) |
+.('A [I:setbarnb 2]|
+c d e/ f/ g/ e/f3e |
+d> c d e (d/ c/) (B/ c/) A) .('A |
+c e g> af3e |
+d c d gf2e3/ d/ |
+d6z) :|]

@@ -1,0 +1,23 @@
+X: 9951
+T: De reuskens die dansen in Borgerhout, Ze dra [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2370395265
+%%humdrum-veritas-data 427697635
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G E F G A c |
+B2A G z) .('A |
+A F G A B c |
+A B A G z) .('G |
+c2AG2F |
+E F DG2).('c |
+B c d G A B |
+c2zz2) |]

@@ -1,0 +1,27 @@
+X: 10637
+T: Toen ik der op Nederlands bergen stond, Keek [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 996445672
+%%humdrum-veritas-data 4008013
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+C C D E E F |
+G2AG2).('G |
+A2A (B A) B |
+c3z2).('G |
+c c c (c B) A |
+G3E2).('G |
+G A G G F E |
+D2>).('A2 A A |
+G2c (B A) B |
+c2>).('A2 A A |
+G2CE2D |
+C3z2) |]

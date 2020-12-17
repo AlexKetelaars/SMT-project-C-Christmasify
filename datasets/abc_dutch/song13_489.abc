@@ -1,0 +1,30 @@
+X: 12488
+T: 33
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 2022879384
+%%humdrum-veritas-data 2492977349
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('A4(e d c d) |
+!trill!!trill!c6).('f2 |
+e2B c d c B A |
+!trill!!trill!B4E4) |
+.('A4e d c d |
+!trill!!trill!c6).('f g |
+e2a2(g f g) e |
+a8) |
+.('a2>g2a2b2 |
+e6).('(e/ f/ =g) |
+f2e2d2c2 |
+!trill!!trill!f6).('e2 |
+d e c d B c A c |
+B A B cB2).('e d |
+c2(d/ c/ B2<)B2A |
+A8) :|]

@@ -1,0 +1,25 @@
+X: 17143
+T: Sloffijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 740246644
+%%humdrum-veritas-data 1623673630
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2!trill!!trill!B> cd2g2 |
+B c A BF2D2 |
+G A B c d c/ B/ A g |
+f g a fg2g2) |
+.('x6x B |
+c B A G A A/ B/ A B |
+c B A/ B/ c/ d/ e e/ f/ e f |
+g f e dg2B2 |
+c B A GA2D2) |
+.('G A B c d c/ B/ A g |
+f g a dg2) :|]

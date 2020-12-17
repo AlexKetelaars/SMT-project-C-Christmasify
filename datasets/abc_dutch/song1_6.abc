@@ -1,0 +1,31 @@
+X: 6
+T: De zoete Meereminne Die zoo aentreck’lijck zingt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:28
+%%humdrum-veritas 449431514
+%%humdrum-veritas-data 2916335562
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=66
+K: F clef=treble
+.('z2zf |
+dffe |
+f2f).('f |
+dffe |
+f2z).('f |
+eedd |
+^ccz).('f |
+edd^c |
+d2z).('d |
+edef |
+g2g).('c |
+dcde |
+f2z).('f/ f/ |
+ee/ e/dd/ d/ |
+^ccz).('f |
+edd^c |
+d4) |]

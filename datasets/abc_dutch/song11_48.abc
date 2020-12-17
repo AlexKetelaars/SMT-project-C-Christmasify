@@ -1,0 +1,23 @@
+X: 10047
+T: Keersken, keersken over de been, En al die d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 8755255
+%%humdrum-veritas-data 4098049995
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G> G A3/ A/ |
+(3G G F E3/) .('E/ |
+D> E F3/ G/ |
+(3G F E D3/) .('F/ |
+(E D) E3/ F/ |
+G2z) .('G |
+G2z G |
+G2z G- |
+G2C2) |]

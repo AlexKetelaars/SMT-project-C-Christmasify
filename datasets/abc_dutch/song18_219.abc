@@ -1,0 +1,39 @@
+X: 17218
+T: Als me zonder hoop zou leeven, Schynt het li [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 2186116946
+%%humdrum-veritas-data 1333732352
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=bass
+.('D,3/D,/ [I:setbarnb 1]|
+E,E,F,3/F,/ |
+G,G,A,A,/ A,/ |
+B,2CC, |
+F,2).('D,3/D,/ |
+B,B,^F,3/F,/ |
+G,G,zE,/ E,/ |
+^C,D,A,3/D,/ |
+D,3).('D/ D/ |
+A,A,/ G,/ (F,/ G,/) (A,/ F,/) |
+B,B,z).('G,/ G,/ |
+CC/ C/CB, |
+C2CC, |
+F,F,/ E,/D,E,/ F,/ |
+G,>).('G,E,F,/ G,/ |
+A,G,/ F,/B,G,/ G,/ |
+A,2).('D,3/D,/ |
+E,E,F,3/F,/ |
+G,G,A,A,/ A,/ |
+B,2CC, |
+F,2).('D,3/D,/ |
+B,>B,^F,3/F,/ |
+G,G,zE,/ E,/ |
+^C,D,A,3/D,/ |
+D,4) |]

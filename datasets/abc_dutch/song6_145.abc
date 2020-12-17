@@ -1,0 +1,24 @@
+X: 5144
+T: Die wijn aan ’t planten larian aan ’t plante [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 2121762538
+%%humdrum-veritas-data 3500971969
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('D2F A |
+B2B B/ A/ |
+d d c B) |
+.('B2A A |
+F A E A |
+D D D D/ E/ |
+F F A F) |
+.('E E D D/ E/ |
+F F A F |
+E2D2) |]

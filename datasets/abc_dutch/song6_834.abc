@@ -1,0 +1,31 @@
+X: 5833
+T: Komt, herders, altegaar, De Heere roept u naar
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 408021192
+%%humdrum-veritas-data 2691294411
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D/ [I:setbarnb 1]|
+DE/FG/ |
+A3/-A).('A/ |
+AB/ (B/ A/) G/ |
+F3/z).('F/ |
+EE/EE/ |
+E).('E/ F/ E/ D/ |
+C3/B,3/ |
+A,3/zz/) |
+.('AA/ (A/ B/) G/ |
+F3/D3/) |
+.('de/dB/ |
+A3/zz/) |
+.('dc/de/ |
+fd/) .('(B/ A/) G/ |
+A3/A3/ |
+D3/z) |]

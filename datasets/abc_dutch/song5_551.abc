@@ -1,0 +1,51 @@
+X: 4550
+T: Koosje Koosje is mijn naam Ben voor alle din [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 40461339
+%%humdrum-veritas-data 2266804222
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G3/ B/ [I:setbarnb 1]|
+d2e2d3/ ^c/ |
+d4).('G3/ B/ |
+d2e2d3/ ^c/ |
+d4).('G3/ B/ |
+d2e2d3/ ^c/ |
+d2B2).('G B |
+d2>e2 d ^c |
+d4).('G B |
+d2e2d ^c |
+d4).('G B |
+d de2d ^c |
+d2B2).('G B |
+d2e2d ^c |
+d2B2).('G B |
+d2>e2 d ^c |
+d4).('G B |
+d> de2d ^c |
+d4).('G B |
+d2e2d ^c |
+d2B2).('G B |
+d2e2d ^c |
+d2B2).('G B |
+d2e2d ^c |
+d4).('G B |
+d2e e d ^c |
+d2B) .('G G B |
+d d e e d ^c |
+d2B4) |
+[M:4/4].('g2>B2 B B B B |
+A4G4) |
+.('g2>B2 B B B B |
+A4G4) |
+.('d> d (3d d d e> ee2) |
+.('d d d d e ee2) |
+.('d dg2d dg2) |
+.('d d d d d dg2) |]

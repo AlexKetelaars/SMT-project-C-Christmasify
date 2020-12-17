@@ -1,0 +1,22 @@
+X: 8963
+T: Mol! Mol! waar zit ge? De mol zit in zijn hol
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 4222534450
+%%humdrum-veritas-data 2202511798
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G3/cc/ |
+G3/EE/ |
+GF/ED/ |
+C3/z).('C/ |
+DD/ D/ D/ E/ |
+FE/D).('D/ |
+EE/FF/ |
+G3/zz/) :|]

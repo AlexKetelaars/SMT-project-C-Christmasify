@@ -1,0 +1,40 @@
+X: 5459
+T: Muskadelle droppen, Koppen, Roemers en bokal [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2969276407
+%%humdrum-veritas-data 2571763808
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G/ F/ G/ A/ [I:setbarnb 1]|
+dGdd |
+e/ d/ e/ f/gd) |
+.('gdg/ f/ g/ a/ |
+b3).('a |
+ab^g3/a/ |
+ae).('(e/ f/)g |
+BBB/ c/ d/ ^c/ |
+^c3).('d |
+efgf |
+eAA).('d |
+^cdec |
+d/ ^c/ d/ e/dA |
+d2-d2) |
+.('aa(f/ g/)a |
+fd(B/ c/)d) |
+.('GBAB |
+GFGA |
+GD2).('G |
+ABcB |
+AGG).('d |
+e2f2 |
+gdga |
+bga).('f |
+(g/ f/) (g/ a/)gd |
+g4) :|]

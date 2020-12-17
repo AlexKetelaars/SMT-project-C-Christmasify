@@ -1,0 +1,25 @@
+X: 4241
+T: Vastelaovend had nog een old peerd Hm, hm, v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 1778994472
+%%humdrum-veritas-data 1821492562
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+G2G2G2A2 |
+B2B2B2).('G2 |
+A2A2c2d3/ c/ |
+B6).('B c |
+d2d d e d (c B) |
+c2c2c2).('c3/ c/ |
+B2B> BB2G3/ G/ |
+A A A AA2).('c3/ c/ |
+B2B> BA2D3/ D/ |
+G6) |]

@@ -1,0 +1,26 @@
+X: 7624
+T: Slaept, kindeken, slaept! Ju vader hed ä schaepje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 1431924596
+%%humdrum-veritas-data 1945569905
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c2>B2 A G |
+c2>-c2 z G |
+c2BA2G |
+A3G2).('G |
+c2BA2G |
+A3G2G |
+c2BA2G |
+A3G2z) |
+.('c2cB2c |
+d2dA2z |
+B2BA2B |
+c3-c2z) |]

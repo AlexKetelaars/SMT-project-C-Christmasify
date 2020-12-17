@@ -1,0 +1,23 @@
+X: 9030
+T: Van hipperde, hipperde, Hoep lapa! Van hippe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 4124633948
+%%humdrum-veritas-data 1419502169
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F A A A |
+c2cA2).('A |
+B B B G G G |
+A2AF2).('C |
+F F F A A A |
+c2cA2).('A |
+B B BG2G |
+F3z2) :|]

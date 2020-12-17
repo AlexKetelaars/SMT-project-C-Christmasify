@@ -1,0 +1,27 @@
+X: 3483
+T: Het was al op een zondagmiddag Het was in de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 1466125467
+%%humdrum-veritas-data 458809787
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G3// G// [I:setbarnb 1]|
+GBdB |
+BG2).('G |
+A>Bc3/d/ |
+B3).('d/ d/ |
+BGBd |
+dB2).('A |
+G>AB3/c/ |
+B3).('d/ d/ |
+ddef |
+ec2).('e |
+d>e (d/> c/ B/) A/ |
+G3) |]

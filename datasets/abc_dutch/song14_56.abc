@@ -1,0 +1,34 @@
+X: 13055
+T: Sinterklaasje kom maar binnen met je knecht  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 2781728481
+%%humdrum-veritas-data 2040348207
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2d2d c B A |
+G G G GG2).('B B |
+A2D2D DD2 |
+B2G2G3).('B |
+A2>B2A3B |
+A2d2A3).('B |
+A2>B2A3B |
+A2A2d4) |
+.('d2d2d c B A |
+G G G GG2).('B2 |
+A2D2D DD2 |
+B2G2G2).('D D |
+D D D D D D D D |
+D2B2B2).('B B |
+A2c2E2F2 |
+A2G2!fermata!G2).('D D |
+D D D D D D D D |
+D2B2B2).('B B |
+A2c2E2F2 |
+A2G2!fermata!G2) |]

@@ -1,0 +1,34 @@
+X: 14328
+T: Murki aria
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:43
+%%humdrum-veritas 2201884603
+%%humdrum-veritas-data 966025328
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+d c B AG2d2 |
+e2d2z2).('g2 |
+f ga2c2c2 |
+c2B2z2).('B2 |
+A2d2^c2d2 |
+e2f2g3z) |
+(3.('f a g (3f e d (3e g f (3e d ^c |
+d6) |
+.('B c [I:setbarnb 9]|
+d c B AG2=F2 |
+=F2E2z2).('^c d |
+e d ^c BA2G2 |
+G2F2z2).('B c |
+d2e cd2e c |
+d2(e f)g2).('B c |
+d2e cd2e c |
+d2e fg2).('c2 |
+(3B d c (3B A G (3A c B (3A G F |
+G6) :|]

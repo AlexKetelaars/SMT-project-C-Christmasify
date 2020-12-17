@@ -1,0 +1,27 @@
+X: 5298
+T: Daar was eens een boer en een olijke boer Ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 1211397235
+%%humdrum-veritas-data 1016655650
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F F G A |
+G C C C z) .('C |
+G G GG2G |
+A3F2).('C |
+F F F F G F |
+E2DC2).('C |
+D2DF2D |
+D2CC2).('C/ C/ |
+F2FG2G |
+A3B2).('B/ B/ |
+A2FA2G |
+G3F2) |]

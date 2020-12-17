@@ -1,0 +1,15 @@
+X: 559
+T: Verhoort Heer mijn gheclach, Mijn woerden wi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3083916178
+%%humdrum-veritas-data 1706751900
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2D2D2D2A2A2D4z2).('d2c2c2c2(BA2<)(G2ABcdB2<e2dc2BAB4)A4z2).('A2A2A2B2B2c4z2).('A2_B2A2G2G2(FEFGA4)z2).('F2E2D2C2D2D4z2).('d2c2c2(=BcA)Bc4z2).('c2d2f2e2d2(A4GA_BGABcABAGFEDE2)D4) |]

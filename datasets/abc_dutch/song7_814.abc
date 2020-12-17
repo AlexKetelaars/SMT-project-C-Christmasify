@@ -1,0 +1,30 @@
+X: 6813
+T: No159
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:31
+%%humdrum-veritas 65500573
+%%humdrum-veritas-data 4132274095
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 3/4=66
+K: F clef=treble
+.('c2B |
+A2d |
+c2B |
+!trill!!trill!A2G) |
+.('A2=B |
+c2f |
+e/ f/!trill!!trill!d2 |
+c2c) |
+.('c2c |
+f2f |
+ABc |
+d3) |
+.('c2A |
+F2G |
+A/ B/!trill!!trill!G2 |
+F2F) :|]

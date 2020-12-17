@@ -1,0 +1,43 @@
+X: 7184
+T: Les plaisiers sont peu durables etc.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 627611133
+%%humdrum-veritas-data 374062646
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d3/e/ [I:setbarnb 1]|
+fed^c |
+dAde |
+fed^c |
+d2).('d3/e/ |
+fed^c |
+dAd3/e/ |
+fed^c |
+d2x2) |
+.('d>ddd |
+!trill!!trill!c2!trill!!trill!A2 |
+d>ddd |
+!trill!!trill!c2!trill!!trill!A2 |
+ff/ f/ f/ e/ f/ c/ |
+ff/ f/ f/ e// e// f/ c/ |
+ff/ f// f// f/ e/ f/ c/ |
+f3z) |
+.('a2g2 |
+!trill!!trill!f2!trill!!trill!e2 |
+a2g2 |
+f2e2) ||
+[M:6/4].('fede2A [I:setbarnb 22]|
+fede2A |
+A2=BcBA |
+(d^cd)e2z |
+[M:2/2]f/ g/a3 |
+f/ g/a3 |
+[M:6/4]fed(^cde) |
+(3a/ g/ f/!trill!!trill!edd2) |]

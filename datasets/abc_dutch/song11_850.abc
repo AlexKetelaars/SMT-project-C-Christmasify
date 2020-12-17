@@ -1,0 +1,34 @@
+X: 10849
+T: Heb je wel gehoord van ‘t Oranjelied? Wat er [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1809269992
+%%humdrum-veritas-data 1364595901
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ D/ D/ |
+DE/ F/ |
+GE |
+Dz) |
+.('DD/ E/ |
+D(E/ F/) |
+GE |
+D3/).('E/ |
+FG |
+AG |
+ED |
+GG/) .('G/ |
+E/ E/ C/ C/ |
+DE |
+EC |
+G,).('G,/ G,/ |
+B,B, |
+C(=F/ E/) |
+(DE) |
+C2) |]

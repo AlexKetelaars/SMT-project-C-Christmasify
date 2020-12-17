@@ -1,0 +1,29 @@
+X: 6115
+T: trompet Marin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 4029278640
+%%humdrum-veritas-data 411845666
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('Addd |
+d2e2 |
+f2e/ f/f |
+f2d3/e/ |
+f>gaf |
+g2f2 |
+e>fg3/e/ |
+f2x2) :|]
+.('f2e/ f/f |
+f2a2 |
+f2e/ d/f |
+e2ag |
+f>ef3/g/ |
+e>de3/f/ |
+d2) |]

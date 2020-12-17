@@ -1,0 +1,23 @@
+X: 923
+T: In een dorpje woont een moeder Met Marie haa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 4206469847
+%%humdrum-veritas-data 3031266103
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B3/ A/ [I:setbarnb 1]|
+G2G2G3/ A/ |
+B2B2).('B3/ e/ |
+d2>B2 A G |
+B4).('d3/ g/ |
+f2e2g3/ f/ |
+e2d2).('G3/ B/ |
+d2>B2 A3/ B/ |
+G4) |]

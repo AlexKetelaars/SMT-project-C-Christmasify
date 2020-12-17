@@ -1,0 +1,36 @@
+X: 4634
+T: Vasteloavend dikke vetten oavend Schudden me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 2039085882
+%%humdrum-veritas-data 474782029
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('A2 B2 A2 F2 |
+A A B B A2 F2) |
+.('A A A A B2 B2 |
+A A A AF4) |
+.('A2 A2 B2 B2 |
+A4F3) .('F |
+A2 A2 B2 B2 |
+A4F4) |
+.('A2 A A B2 B B |
+A2 A2F4) |
+.('A2 A A B2 B2 |
+A4F3) .('F |
+A A A2 B B B B |
+A4F3) .('F |
+A2 A2 A A A2 |
+B2 B2 B2) .('B2 |
+A A G2 A A B2 |
+G2 G2G4) |
+.('A A A AB4 |
+A A A AB4) |
+.('A2 G G A2 B B |
+G2 G2G4) |]

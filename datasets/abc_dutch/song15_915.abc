@@ -1,0 +1,46 @@
+X: 14914
+T: Wenn mich Schmertz und Angst umhüllet Und de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 543320281
+%%humdrum-veritas-data 2955114941
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=69
+K: A clef=treble
+.('c (d e2) e2 |
+c (d e2) e2 |
+B (c d2) d2 |
+(c A)B4) |
+.('G (A B2) B2 |
+G (A B2) B2 |
+G2 A2 F2 |
+E6) |
+.('e (d c2) B2 |
+^A (G F2) F2 |
+d (c B2) A2 |
+G (F E2) E2) |
+.('=G (F G2) G2 |
+(F2 B2) ^A2 |
+(B c) d2 c2 |
+d6) |
+.('(f2 e2) d2 |
+(c2 B2) A2 |
+(G A)A4 |
+B6) |
+.('E F (G A) (B c) |
+(d c)d4 |
+E F (G A) (B c) |
+(d c)d4) |
+.('(c d) e2 f2 |
+g (f e2) f2 |
+(c d e2) f2 |
+g ef4) |
+.('z2 e2 d2 |
+c4e2 |
+A2 B2 G2 |
+A6) |]

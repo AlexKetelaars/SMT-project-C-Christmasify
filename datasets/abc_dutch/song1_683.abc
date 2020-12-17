@@ -1,0 +1,15 @@
+X: 683
+T: Ten si dat de Heere wil bouwen Dat huys alti [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 833630375
+%%humdrum-veritas-data 2423222462
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2c2c2cBA2AG(F2ED)C4z2).('F2F2F2F2G2(A2GF)E4).('F2>G2A2B4A4G2A4z2).('A2c2cBA2G2(F2ED)C4z2).('F2F2FFFG(AGF)E4).('F2FGA2G4F4E2F4) |]

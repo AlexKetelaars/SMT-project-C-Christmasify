@@ -1,0 +1,24 @@
+X: 7333
+T: Roza, willen wy dansen? Danst, Rosa; danst, Rosa
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 1839383054
+%%humdrum-veritas-data 3114034232
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A2e e e d |
+e3c2c |
+d3c2c |
+d3c3) |
+.('B2c c B A |
+G2EE3) |
+.('A B cB2A |
+G2EE2e |
+e3{c}B3 |
+A3-A2z) |]

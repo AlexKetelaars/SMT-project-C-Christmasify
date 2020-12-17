@@ -1,0 +1,50 @@
+X: 12271
+T: No151
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:23
+%%humdrum-veritas 2508398063
+%%humdrum-veritas-data 2470454549
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('A G F |
+{F}E2D |
+E/ G/ F E |
+F/ G/ A z |
+D F A |
+B2A |
+A G F |
+!trill!!trill!F E z |
+A G F |
+{F}E2D |
+E/ G/ F E |
+F/ G/ A z |
+d c B |
+e ^G A |
+B/ d/ c B |
+A3) |
+.('e A e |
+e2A |
+A G F |
+F E z |
+A G/ F/ G/ A/ |
+B c d |
+d c d |
+e3) |
+.('d f A |
+B2e |
+{d}c2d |
+f/ c/ A z |
+d c B |
+A G F |
+(3B/ A/ G/ F E |
+D3) ||
+.('D/ F/ E/ G/ F/ A/ [I:setbarnb 34]|
+G/ B/ A/ c/ d |
+g f e |
+d3) |]

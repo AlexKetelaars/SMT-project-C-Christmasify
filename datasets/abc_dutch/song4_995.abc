@@ -1,0 +1,31 @@
+X: 3994
+T: Een ouwe pastoor die had een koei Had een ko [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3656646080
+%%humdrum-veritas-data 3187520509
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G/ G/ G G3/ G/ |
+F DD2) |
+.('B AA2 |
+e d d) .('d |
+c c c c/ c/ |
+B GG2) |
+.('A> G F E |
+(D2d2)) |
+.('c cc2 |
+B BB2) |
+.('A> A A A |
+G Bd2) |
+.('c cc2 |
+B BB2) |
+.('A> A A B |
+G3) |]

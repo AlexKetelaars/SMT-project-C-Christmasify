@@ -1,0 +1,41 @@
+X: 17060
+T: Tranquille ceur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1562705377
+%%humdrum-veritas-data 913472982
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('AA3/A/ |
+B3 |
+AAB |
+!mordent!!mordent!G2G) |
+.('ABc |
+FGA |
+!mordent!!mordent!G2F) |
+.('zcf |
+ddc |
+!mordent!!mordent!B>AB |
+A).('d/ d/ d/ e/ |
+ffe |
+!mordent!!mordent!d2c) |
+.('zGA |
+BBc |
+AAA |
+dde |
+!mordent!!mordent!^c>ee |
+f!mordent!!mordent!e3/d/ |
+d3) |
+.('zdf |
+A!mordent!!mordent!A3/B/ |
+ccc |
+c!mordent!!mordent!B3/A/ |
+BGG |
+A!mordent!!mordent!G3/F/ |
+F3) |]

@@ -1,0 +1,29 @@
+X: 4281
+T: Hoe is mijn hart met min belaan Hoe is mijn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 2905875403
+%%humdrum-veritas-data 2976487713
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2B> GD3G |
+(G F) (G A)G4) |
+.('B2d> BA2c A |
+(F2A2)G4) |
+.('D2B> GD2G G |
+(G F) (G A)G4) |
+.('B2d> B A B c A |
+(F2A2)G) .('D D D |
+B> G G G G) .('D/ D/ D D |
+B G/ G/ G GG2).('d2 |
+c2B2A3G |
+F G A B G) .('D D D |
+D2).('d2c2B2 |
+A2>G2 F G A B |
+G8) |]

@@ -1,0 +1,22 @@
+X: 12051
+T: Gavott
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 1288554566
+%%humdrum-veritas-data 1916841345
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d2d e c BA2 |
+a> a g> fe2z e |
+f> g a d c B c d |
+B4A4) |
+.('A> B c> de2z e |
+a> g g> ff2z f |
+g e f d e c d e |
+e4d4) :|]

@@ -1,0 +1,23 @@
+X: 12049
+T: Gavott
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 585008702
+%%humdrum-veritas-data 3106393672
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A E E E2<E2E |
+A c B A2<^G2).('E |
+A A B B2<c2c |
+d d c de3) |
+.('e/ f/ [I:setbarnb 5]|
+g g g g2<g2G |
+A A G F2<E2).('e/ f/ |
+g g f e d e c d |
+e/ d/ c B> AA2) :|]

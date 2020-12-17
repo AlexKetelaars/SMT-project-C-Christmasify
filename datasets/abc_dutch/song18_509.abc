@@ -1,0 +1,32 @@
+X: 17508
+T: Waarom verlaat gy my
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 2228770365
+%%humdrum-veritas-data 3706250768
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c [I:setbarnb 1]|
+fefg |
+a3a/ b/ |
+c'f/ e/dg |
+e>dc).('c |
+fefg |
+a3a/ b/ |
+c'f/ g<ef/ |
+f2x) |
+.('A/ B/ [I:setbarnb 9]|
+cccd |
+c2cA/ B/ |
+cccd |
+c3).('c |
+fefg |
+afba |
+gfge |
+f2) :|]

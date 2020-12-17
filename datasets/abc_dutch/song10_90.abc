@@ -1,0 +1,39 @@
+X: 9089
+T: Ik heb Goddank een liefke, Zoo schoon en aangenaam
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3981114666
+%%humdrum-veritas-data 1546690842
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B2Bc2d |
+B3F2F |
+B2Bc2d |
+c3-c2).('c |
+e2ec2A |
+G3F2F |
+F2F(G2A) |
+B3-B2).('F |
+B2Bc2c |
+B2BD2E |
+F2FA2G |
+F3).('F2F |
+F2Fe2d |
+c2cF2F |
+c2cc2d |
+c3-c2z) |
+[M:2/4].('B> B B F |
+D E F F |
+B> B B F |
+G GF2) |
+.('B> B B B |
+d d d f/ f/ |
+f =e _e c |
+B3z) |]

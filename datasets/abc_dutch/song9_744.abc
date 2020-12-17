@@ -1,0 +1,28 @@
+X: 8743
+T: Hoe kan een zee zijn zonder baren, Hoe kan e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:49
+%%humdrum-veritas 4105744172
+%%humdrum-veritas-data 2889531733
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('AB/ A/GG |
+F(A/ G/)FE) |
+.('BA/> G/ F/ A/ A/ G/ |
+FED2) |
+.('FFEA |
+^GABA) |
+.('A(d/ c/)BA |
+BAGF/) .('F/ |
+EB/ B/AG |
+FE(F/ E/)D) |
+.('AB/ c/ d/ d/ c/ B/ |
+AEF2) |
+.('AB/ c/ d/ d/ c/ B/ |
+AED2) |]

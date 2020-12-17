@@ -1,0 +1,22 @@
+X: 2839
+T: Schoonste schipper wacht u nog een maal hou  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 3485547997
+%%humdrum-veritas-data 3116889601
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2B2g3B |
+d d c BA2).('a2 |
+a2d2b3a |
+(a g) f ed2).('d d |
+e2e2f2a3/ a/ |
+g2B2B2).('e e |
+d4A3A |
+G8) |]

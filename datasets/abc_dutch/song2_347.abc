@@ -1,0 +1,28 @@
+X: 1346
+T: Hoe vrolijk kan de boer toch leven Als hij z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 4093678745
+%%humdrum-veritas-data 2130495220
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D/DE/ [I:setbarnb 1]|
+D3/B,3/GA/ |
+G3/F).('G/AG/ |
+F3/E3/DC/ |
+B,>-B, z/) .('D/DE/ |
+D3/B,3/GA/ |
+G3/F).('G/AG/ |
+F3/E3/DC/ |
+B,>-B, z/) ]|:
+.('D/DB/ [I:setbarnb 9]|
+G3/-GF/Ec/ |
+A3/-A).('G/FE/ |
+E3/D3/BA/ |
+G>-G z/) :|]

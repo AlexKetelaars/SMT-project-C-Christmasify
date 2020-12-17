@@ -1,0 +1,37 @@
+X: 5825
+T: In het steedje van Nazareth, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 4049809430
+%%humdrum-veritas-data 2226506634
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B2A |
+(GA)B |
+(BA)G |
+F2).('F |
+B2B |
+cde |
+(d2c) |
+B2) :|]
+.('B [I:setbarnb 9]|
+c2c |
+c2d |
+{d}(cB)A |
+G2z) |
+.('GGG |
+GAB |
+c2A |
+F2z) ]|:
+.('F2B |
+B2c |
+d2e |
+c3 |
+B2z) :|]

@@ -1,0 +1,61 @@
+X: 6037
+T: Marsche
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3710667485
+%%humdrum-veritas-data 344350528
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2e cd2e c |
+d2A4).('f d |
+e2f de2f d |
+e2A2).('A G F E |
+D2g2g2f2 |
+e2d2d2).('D2 |
+D2G2G2F2 |
+E2D4).('f2 |
+g2b a g f e d |
+c2B cA2).('A2 |
+d2e cd2e c |
+d2A4).('f d |
+e2f de2f d |
+e2A2).('A G F E |
+D2g2g2f2 |
+e2d2d2).('D2 |
+D2G2G2F2 |
+E2D4).('A2 |
+B c d e c d e c |
+d6) |
+.('d e [I:setbarnb 21]|
+f d A F D A c e |
+a2e c e A B c |
+d2e c d Be2 |
+d c B cA2).('E2 |
+A2B ^GA2B G |
+A2B ^GA2).('c A |
+B2c AB2c A |
+B2c AB2).('e2 |
+f g a B c A B ^G |
+A2).('e2f2g2 |
+a2a2g2f2 |
+e2f2g2g2 |
+f2).('e2f2g2 |
+a2a2g2f2 |
+e d c BA2).('A2 |
+d2e cd2e c |
+d2A4).('f d |
+e2f de2f d |
+e2A2).('A G F E |
+D2g2g2f2 |
+e2d2d2).('D2 |
+D2G2G2F2 |
+E2D4).('A2 |
+B c d e c d e c |
+d4) |]

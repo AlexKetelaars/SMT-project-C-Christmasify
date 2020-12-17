@@ -1,0 +1,22 @@
+X: 5027
+T: Adam en Eva die zaten op een stoepie Adam ze [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 3891372357
+%%humdrum-veritas-data 331782574
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F3/AG/ |
+F3/CC/ |
+DC/DE/ |
+F3/F3/) |
+.('FG/AB/ |
+cc/cc/ |
+dc/BA/ |
+G3/F3/) |]

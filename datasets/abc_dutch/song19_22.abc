@@ -1,0 +1,42 @@
+X: 18021
+T: Aangename en stille lommer deelgenoot van mi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2058715966
+%%humdrum-veritas-data 1453385828
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('(A> d) A |
+{A} B> d B |
+c> g f/ e/ |
+{d}c2d) |
+.('e> c A |
+f> d A |
+{A}G2F |
+F E z) |
+.('(A ^G) d |
+d c z |
+A ^G f |
+f e z |
+(3d/ c/ B/ A ^G |
+{^G}A3) |
+.('A> c e |
+A> d f |
+f/ e/ g/ f/ b/ d/ |
+d c z) |
+.('A> c e |
+A> G G |
+G> F F |
+F E z) |
+.('d> e d |
+(B c) z |
+d> e d |
+b a z/ A/ |
+(3B/ g/ e/ d c |
+d3) :|]

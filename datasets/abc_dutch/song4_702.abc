@@ -1,0 +1,31 @@
+X: 3701
+T: Zeg vrienden ik ben er nu pas getrouwd En he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 2314918874
+%%humdrum-veritas-data 904328993
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G/ B/ G/ G/ (3D D D E B, |
+(D2<C2)).('A A |
+A> BA3E |
+[M:4/4]F2D4).('D2 |
+[M:3/4]B< G (3D> D D E B, |
+[M:2/4](DC2)).('F |
+[M:3/4]A B2<A2E |
+[M:4/4]F2D2>).('D2 G A |
+[M:3/4]B2>).('D2 G A |
+B2>).('A2 G/ G/ E |
+[M:4/4]D2B2c2A2 |
+[M:3/4]B2>).('G2 F A |
+A2>).('D2 G A |
+B2>).('A2 G/ G/ E |
+[M:4/4]D2B2c2F2 |
+G4z2) |]

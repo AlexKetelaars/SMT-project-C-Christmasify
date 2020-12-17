@@ -1,0 +1,35 @@
+X: 11062
+T: Wat zo dan Gebuurtjes, nu doeje ‘t zo ‘t hoo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1489546547
+%%humdrum-veritas-data 993860791
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G E G G E G |
+G E GG2).('c |
+c G c c G c |
+c G cc2).('d |
+e f g d e f |
+e f g d e) .('f |
+e f g g a ^f |
+g3-g2).('g |
+e d c f e d |
+e d c f e) .('d |
+e d c f e f |
+d2>).('d2 e f |
+g2zf2z |
+e2zd2z |
+e2zf2z |
+e2zd2).('g |
+e g c d G g |
+e g c d G) .('g |
+e d c d c B |
+c3-c2) |]

@@ -1,0 +1,31 @@
+X: 1819
+T: Ik ga met u de reis niet wagen want de stuur [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2057433724
+%%humdrum-veritas-data 1081957547
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D2D [I:setbarnb 1]|
+G2FE2E |
+A2A).('A2A |
+d2AA2A |
+B2).('D D D D |
+G2D E E E |
+A2A) .('A B c |
+d2cB2A |
+G3).('e2e |
+[M:9/8]d3-d2B (B A) G |
+E3A3).('A2A |
+[M:6/8]d2dd2c |
+[M:9/8]B3z2z).('e2e |
+d3-d2B (B A) G |
+[M:6/8]E3A3) |
+[M:9/8].('d2dd2cB2A |
+G3z2z) |]

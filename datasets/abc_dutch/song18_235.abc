@@ -1,0 +1,29 @@
+X: 17234
+T: Ach! Wat ontrust myn teêr gemoed? Myn wil vo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3293575284
+%%humdrum-veritas-data 627931483
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=44
+K: C clef=treble
+.('f2z A/ A/ _B B B3/ c/ |
+A2>).('F2 c c/ c/ ^c c/ d/ |
+e3).('e/ e/ f f/ f/ d g |
+[M:3/4]e2e) .('c/ c/ f f/ c/ |
+d> d _B> B B d |
+[M:2/2]G G) .('c> c _B A G G/ c/ |
+[M:3/4]A2z) .('c/ c/ f f/ f/ |
+[M:2/2]d B/ B/ ^G G/ B/ E E) .('e3/ f/ |
+B B z/ B/ B/ c/ A A z) .('A |
+^F F z A _B z d d/ e/ |
+[M:3/4]f2z) .('A d d |
+B2z d g e |
+[M:2/2]^c2c) .('A A> A A A |
+d2>d2 e f e3/ d/ |
+[M:3/4]d4z2) |]

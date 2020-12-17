@@ -1,0 +1,26 @@
+X: 9730
+T: Er kwamen twee beren De test uit scheren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1668238687
+%%humdrum-veritas-data 3663185505
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G G GG2c) |
+.('E E EE2G) |
+.('C2CE2E |
+G3D3) |
+.('A2>F2 F F |
+G2>E2 E E) |
+.('F2>D2 D D |
+C E GG3) |
+.('G G G A A A) |
+.('G G G G G G |
+C2CC2z) |]

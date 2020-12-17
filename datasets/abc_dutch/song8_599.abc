@@ -1,0 +1,43 @@
+X: 7598
+T: Springt hoog en toont uw schoen; Laet zien h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 2326835222
+%%humdrum-veritas-data 3445960861
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c3 [I:setbarnb 1]|
+B2AB2c |
+A3).('c3 |
+B2AB2c |
+A2).('FF2F |
+G2G c c c |
+A2A).('c3 |
+B2AB2c |
+A3).('c3 |
+B2AB2c |
+A2).('FF2F |
+G2Gc2B |
+A3G3 |
+F2zz2) ||
+.('F [I:setbarnb 14]|
+F2Ac3 |
+A2AB2c |
+A2).('FF2A |
+c3A2A |
+B2cA2).('F |
+F F F G G G |
+c c BA2).('F |
+F F F G G G |
+c c BA2G |
+F3E2).('F |
+F F F G G G |
+c c BA2G |
+F3E3 |
+F2z) |]

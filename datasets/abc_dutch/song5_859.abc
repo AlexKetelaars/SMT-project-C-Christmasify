@@ -1,0 +1,31 @@
+X: 4858
+T: En ’t is weer vastelaovend hoelalee hoelala  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 4121744404
+%%humdrum-veritas-data 2354097201
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d3/ d/ [I:setbarnb 1]|
+B B B B |
+(B d)d2 |
+d cc2 |
+e d d3/) .('B/ |
+B B B B |
+(B d)d2 |
+d2c2 |
+B3).('G |
+e e e e |
+e d d d |
+d c c d |
+e d d3/) .('B/ |
+B B B B |
+(B d)d2 |
+d2c2 |
+B2) |]

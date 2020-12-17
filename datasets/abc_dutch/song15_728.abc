@@ -1,0 +1,30 @@
+X: 14727
+T: Etude
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1314346612
+%%humdrum-veritas-data 608726741
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G, B, D G B d g b |
+a g f e d c A F |
+D F A c d f a c' |
+b f g d e d B G) |
+.('A ^c e g b a g e |
+A d f a b a f d |
+g f e d ^c B A G |
+F A E AD2z2) |
+.('c B c A c B c A |
+B G B d g d B G |
+c B c a B A B g |
+f d c A F D C A,) |
+.('G, B, D G B d g b |
+c' g e g c g f e |
+d c B A G F E D |
+G D B, DG,2z2) :|]

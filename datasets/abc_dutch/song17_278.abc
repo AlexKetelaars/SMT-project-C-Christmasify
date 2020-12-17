@@ -1,0 +1,31 @@
+X: 16277
+T: Laat ons de zoete Lentetyd, Van ‘t lieve lev [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1521053794
+%%humdrum-veritas-data 3059510727
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('(A B) c d (e B) (c d) |
+B2>A2^G4) |
+.('(A B) (c d) (e B) (c d) |
+B2>A2^G2z) .('c |
+d2>e2f2e2 |
+d2>c2B2B2 |
+z) .('G c> GA2A2 |
+(d A) (B c)B2B2 |
+z) .('e c> BA4 |
+z d B> A^G2(A G) |
+^F2>E2E4) |
+.('z c c> GA2z d |
+B2>).('G2c2G2 |
+A2G2F3E |
+E2).('c2B3A |
+^G2A2A3G |
+A8) :|]

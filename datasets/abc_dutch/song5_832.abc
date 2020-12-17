@@ -1,0 +1,35 @@
+X: 4831
+T: Meneer had in de kelder staan een vat met ro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 4131063533
+%%humdrum-veritas-data 2089621324
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D2GA2B |
+G2GD2).('G |
+F2ED2C |
+B,3-B,2).('D |
+D2GA2B |
+G G GD2).('G |
+F F E D D C |
+B,3-B,2).('D |
+D E GA2B |
+G G GD2).('D |
+E E F A A B |
+G2GD2).('D/ D/ |
+B B d c B A |
+E2>).('c2 c c |
+B2B A> G A |
+B3-B2).('D/ D/ |
+B B d c B A |
+E2>).('c2 c c |
+B2B A> G A |
+G3-G2) |]

@@ -1,0 +1,31 @@
+X: 2203
+T: Zeilen wij uit van Hellevoetsluis hieuwen on [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 1440634355
+%%humdrum-veritas-data 1080490190
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d d [I:setbarnb 1]|
+e2d B B G |
+A2>).('A2 B c |
+d d dc2d |
+B2>).('d2 d d |
+e2dB2G |
+A2>).('A2 B c |
+d d dc2d |
+B3).('d2d |
+e2dd2c |
+B2A) .('A B c |
+d d dc2d |
+B2>).('D2 E F |
+G2G G G B |
+B2A) .('(B c) d |
+e e d (c B) A |
+G3) |]

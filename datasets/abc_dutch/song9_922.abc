@@ -1,0 +1,38 @@
+X: 8921
+T: Uit den grijs bemosten toren Dringt der klok [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 2180650848
+%%humdrum-veritas-data 1898618658
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('F3/G/ |
+AA |
+Bc |
+dA) |
+.('d3/d/ |
+AB |
+A3/G/ |
+F3/z/) |
+.('F^G |
+Ad |
+c3/B/ |
+A3/z/) |
+.('AA |
+B3/B/ |
+AG |
+GF) |
+.('F3/F/ |
+GA |
+Bc |
+d3/z/) |
+.('d3/B/ |
+AG |
+FE |
+Dz) |]

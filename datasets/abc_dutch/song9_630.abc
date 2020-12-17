@@ -1,0 +1,32 @@
+X: 8629
+T: Ik kwam lest over ne berg gegaan, Hebberke-T [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:48
+%%humdrum-veritas 858201277
+%%humdrum-veritas-data 2011313188
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F- F G A A c |
+f2cc3) |
+.('c c c c c B |
+A2GA3 |
+F3-F2).('C |
+F2G A A c |
+f2cc2).('c |
+c c cc2c |
+A3A2z) |
+.('c3c2c |
+d2dd2).('A |
+B B B B A G |
+c c cc3) |
+.('A3B2B |
+c2cc2).('c |
+c c cc2c |
+A3A2) |]

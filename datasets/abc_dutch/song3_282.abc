@@ -1,0 +1,33 @@
+X: 2281
+T: Ik heb gespeeld al met meneer de graaf Zowel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 4064415091
+%%humdrum-veritas-data 3451682476
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d [I:setbarnb 1]|
+e>ed3/d/ |
+cde(d/ c/) |
+B3).('d |
+efg3/d/ |
+ce(dc) |
+A3).('d/ d/ |
+efag |
+fgd(e/ f/) |
+g3).('g |
+fg(de/) d/ |
+cB(Ad) |
+G3).('d/ d/ |
+efag |
+fgd(e/ f/) |
+g3).('g |
+fg(de/) d/ |
+cB(Ad) |
+G3) |]

@@ -1,0 +1,33 @@
+X: 17251
+T: Schreeuw vry, helaas! helaas! Trots een doll [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 401255695
+%%humdrum-veritas-data 4146775653
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('z2C2C3C |
+C2>C2C2).('B,2 |
+C2C> CB,4 |
+C C C C,G,2).('G,3/ G,/ |
+D,2D,> D, A, A, A, G, |
+F,> F,F,2E,2).('E,3/ E,/ |
+[M:3/4]A,2A, A, A, A, |
+D,2).('D, D,/ D,< G, F,/ |
+E, E,/ D,/ C, C,/ B,/A,2 |
+[M:2/2]G,2>).('G,2 E, E, E, E, |
+A,2A, F,G,2G, G, |
+C,8 |
+C,4B,4) |
+.('C, D, E, F,G,2G, G, |
+C2C C2<C2C |
+C2>C2C2B,2 |
+C2>).('C,2 G, G, G, E, |
+A,2A, F,G,2G, G, |
+C,8) |]

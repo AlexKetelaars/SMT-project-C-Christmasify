@@ -1,0 +1,30 @@
+X: 12967
+T: In Den Haag daar woont een graaf en zijn zoo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 407810889
+%%humdrum-veritas-data 265552331
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('DE/FG/ |
+AA/A3/) |
+.('BA/GF/ |
+E3/D3/) |
+.('DE/FG/ |
+AA/A3/) |
+.('BA/GF/ |
+E3/D3/) |
+.('FF/ F/ F/ F/ |
+GG/G3/) |
+.('EE/EE/ |
+AA/A3/) |
+.('DE/FG/ |
+A3/A3/) |
+.('dA/GF/ |
+E3/D3/) |]

@@ -1,0 +1,30 @@
+X: 16293
+T: Neen schoone Kloris wil niet denken, Dat ‘k  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 771491968
+%%humdrum-veritas-data 3305613941
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Eb clef=treble
+.('eBA |
+(G/ A/)B2 |
+(c/ d/e){d}c |
+{B2}!trill!!trill!A2G) |
+.('GcB |
+(=Af)e |
+(3(d/ c/ B/!trill!!trill!c3/)B/ |
+B3) |
+.('Bc_d |
+(=EF)G |
+(AB)c |
+(DE)F) |
+.('GBe |
+(cB)(3(c/ B/ A/) |
+(3(G/ F/ E/!trill!!trill!F3/)E/ |
+E3) :|]

@@ -1,0 +1,15 @@
+X: 104
+T: Ick wil sijnde verblijdt, Godt prysen ende m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 4281753249
+%%humdrum-veritas-data 13063089
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('D4F2E2F4G4A4z4).('A4A2A2c2B2A4G4F4z4).('A4G2F2E2G4F4E2F4z4).('A4F2D2G4E4D4z4).('D4F2E2D2D2C4z4).('F4E2F2G4A4A2G2A4z4).('A4c2c2B4A4G2F2E4z4).('G4F2E4D4C2D4) |]

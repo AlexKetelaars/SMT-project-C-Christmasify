@@ -1,0 +1,17 @@
+X: 629
+T: God is bekent int Joedtsche lant, Hooch is z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2610824814
+%%humdrum-veritas-data 3294301917
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2G2G2G4<B4B2(A2>G2F2)E2D4z2).('D2F2G2B2(A2>G2)(G2FEGF)G2).('z2G2G2G4<B4B2A2>G2F2E2D4z2).('D2F2G2B2A2>G2G2(FEGF)G2) ]|:
+.('z2G4<D4E2FG2<(A2G)F2(EDF)EF4z2) ]|:
+.('F2B2>A2A2A2G2G2D4z2).('D2F2>G2A2B2A4(G4FEGF)G4) |]

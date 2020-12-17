@@ -1,0 +1,24 @@
+X: 9646
+T: Goede lieden, wilt mij aanhooren, Middermach [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 283401205
+%%humdrum-veritas-data 4197374067
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G2GG2G |
+G A GE2C) |
+.('(C E) CG2G |
+G A GE2C) |
+.('E2CA2A |
+G A GE3) |
+.('E E (E/ C/)A2A |
+G G (A/ G/)E3) |
+.('C2CC2C |
+C3C3) |]

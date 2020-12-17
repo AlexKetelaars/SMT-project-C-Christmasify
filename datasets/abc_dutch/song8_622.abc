@@ -1,0 +1,23 @@
+X: 7621
+T: No 45
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 3585616022
+%%humdrum-veritas-data 4164477037
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A> B A^G2E |
+A> B A!trill!!trill!^G2).('E |
+A> B cB2A |
+e3e3) |
+.('z c> B c A3/ B/ |
+cd2d!trill!!trill!d2) |
+.('e c> B A B3/ A/ |
+^G2<A2A2) :|]

@@ -1,0 +1,15 @@
+X: 171
+T: Van Gods goetheit end oordeel wil ick singen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1390005424
+%%humdrum-veritas-data 1684784172
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('C4F4A4G2G2A2c2B2A2G4F4z4).('F4E2D2C2C2F2F2G2A2B4A4z4).('A4c2B2A4G4F2E2F2G2A4z4).('B4A4G4F4) |]

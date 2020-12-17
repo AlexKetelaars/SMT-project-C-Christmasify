@@ -1,0 +1,30 @@
+X: 13614
+T: Anglaise
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 682887803
+%%humdrum-veritas-data 537107914
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G G B B |
+c cB2 |
+G B G B |
+D> DD2 |
+G G B B |
+c cB2 |
+G B D D |
+G2z2) |
+.('F F G G |
+B> AF2 |
+G G A A |
+c> B G z |
+G G B B |
+c c c A |
+G B D D |
+G2z2) :|]

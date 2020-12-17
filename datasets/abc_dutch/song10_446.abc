@@ -1,0 +1,23 @@
+X: 9445
+T: Eertijds preekte Isaias, ‘t Is een troost vo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3438508476
+%%humdrum-veritas-data 2238649634
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2GD2^F |
+A2BG3) |
+.('D ^F A c B A |
+G2z z) .('E E/ E/ |
+G2G (c B) c) |
+.('A2>c2 B A |
+G2G (G F) D |
+C2z2z) |]

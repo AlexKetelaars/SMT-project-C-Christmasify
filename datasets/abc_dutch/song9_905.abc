@@ -1,0 +1,37 @@
+X: 8904
+T: Kloek van ligchaam, kloek van geest, Zijn de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3970296859
+%%humdrum-veritas-data 2747826126
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B3/ F/ [I:setbarnb 1]|
+D2>F2 B3/ A/ |
+G4).('c3/ B/ |
+B2>A2 G A |
+B2d2).('D3/ D/ |
+E2G2c3/ A/ |
+B2).('F2E2 |
+C2F3E |
+D4z2) |
+.('B> B B B d d |
+f2d2z2) |
+.('c f A B c d |
+c4).('c3/ d/ |
+d2c2d3/ c/ |
+c2B2).('B3/ B/ |
+B2>d2 c B |
+A2z2).('c B |
+A> Ac3A |
+B2d2).('c3/ A/ |
+B2d2c3/ A/ |
+B2d2).('f3/ f/ |
+G> ce2A2 |
+B4z2) |]

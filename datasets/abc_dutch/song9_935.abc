@@ -1,0 +1,23 @@
+X: 8934
+T: Gade gij mee naar Biggenabosch, Mieke, doet  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 4106090915
+%%humdrum-veritas-data 1065401371
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E E E [I:setbarnb 1]|
+G2G G G G |
+E2>).('E2 E E |
+E2D D D D |
+F2E) .('E E E |
+G2G G G G |
+E2>).('G2 G G |
+B A G F E D |
+C3) |]

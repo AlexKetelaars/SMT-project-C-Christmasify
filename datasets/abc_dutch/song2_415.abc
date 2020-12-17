@@ -1,0 +1,34 @@
+X: 1414
+T: Toen ik voor de eerste maal ging varen En va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 3543597157
+%%humdrum-veritas-data 3475275816
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D (D E) F [I:setbarnb 1]|
+G2AB2d |
+[M:9/8]d3d2).('dc2B |
+(A3d2)cB2A |
+G3-G2).('D (D E) F |
+[M:6/8]G2AB2d |
+[M:9/8]d3d2).('dc2B |
+(A3d2)cB2A |
+G3-G2).('Dc2c |
+c3-c2DG2A |
+B3B2).('BA2^G |
+[M:6/8]A2DG2A |
+[M:9/8]B3-B2).('D (D E) F |
+[M:6/8]G2AB2d |
+(d2^c)d3- |
+d2).('dc2B |
+[M:9/8](A3d2)cB2A |
+G3-G2).('d c3/ B3/ |
+[M:6/8]A3/ c3/ E3/ F3/ |
+G2>-G2 z) |]

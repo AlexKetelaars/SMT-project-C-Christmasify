@@ -1,0 +1,26 @@
+X: 9982
+T: Daar was laatst een meisje loos, Dat wou gaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2159544232
+%%humdrum-veritas-data 2154011350
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('G2F2E2F2 |
+G2G2F4) |
+.('E2E EE2F G |
+A2A2A) .('G F E |
+(D2F2)A G F E |
+(D2F2)A) .('A A A |
+B2B BA2A2 |
+F4-F) .('A A A |
+G G F F E E F E |
+D E F G A) .('A A A |
+B2B BA2A2 |
+F6z2) |]

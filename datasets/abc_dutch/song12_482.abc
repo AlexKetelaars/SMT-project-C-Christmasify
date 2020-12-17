@@ -1,0 +1,31 @@
+X: 11481
+T: Zet de deur maar op een touwtje, Ga naar bed [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:15
+%%humdrum-veritas 756138972
+%%humdrum-veritas-data 3773206206
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ G/ [I:setbarnb 1]|
+BBB/ c/ |
+BAF/ G/ |
+AAA/ B/ |
+AG).('D/ G/ |
+BBB/ c/ |
+BAF/ G/ |
+AAA/ B/ |
+AG).('G/ B/ |
+ddd/ e/ |
+dcc/ d/ |
+eee/ f/ |
+ed).('D/ G/ |
+BBB/ c/ |
+BAA/ B/ |
+dcF |
+AG) |]

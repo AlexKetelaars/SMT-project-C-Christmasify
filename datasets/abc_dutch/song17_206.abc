@@ -1,0 +1,32 @@
+X: 16205
+T: Laat ik, myn Engelin, uw harte doch bekooren [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2450081769
+%%humdrum-veritas-data 786900481
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('A [I:setbarnb 1]|
+A2>B2 c> c B3/ A/ |
+e> e f> e(d2c3/ d/) |
+c2z) .('e G> G A3/ B/ |
+(c B A>) GF2z) .('F |
+F> B G> G (A G F3/) G/ |
+(G2F> E) E>) .('B B3/ c/ |
+d> d D> de4 |
+z f B> c(c2B3/) A/ |
+A4z) .('A A3/ G/ |
+F2F2>z2 B B |
+G2G2z) .('G A B |
+c c ^d e(e2d3/ e/) |
+e4z) .('B B c |
+(d c d) e f f e3/ d/ |
+c2c2(3(c/ d/ e/)) .('e d3/ c/ |
+B Bd2-d> B c3/ B/ |
+(c2B>) AA4) :|]

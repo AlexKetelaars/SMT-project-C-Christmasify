@@ -1,0 +1,36 @@
+X: 17223
+T: Die de deugd wil beminnen, Moet vroeg beginnen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 2036342319
+%%humdrum-veritas-data 335059764
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=bass
+.('zzD/ D/ |
+A,A,B, |
+F,2F,) |
+.('E,E,F, |
+C,2C,) |
+.('A,A,A, |
+B,2B, |
+C,2C, |
+F,2).('F, |
+F,G,A, |
+B,B,A, |
+G,G,).('D/ D/ |
+CC3/D/ |
+(B,>A,)B, |
+A,2).('A, |
+F,F,F, |
+E,E,E, |
+D,D,).('D,/ D,/ |
+C,C,C, |
+B,B,G, |
+A,2A, |
+D,3) |]

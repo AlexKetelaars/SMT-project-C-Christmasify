@@ -1,0 +1,35 @@
+X: 839
+T: Ik was er een haasje al in het groene woud i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3834233018
+%%humdrum-veritas-data 1700255455
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(G> F) G3/ G/ |
+Ge2).('d |
+d ^c =c A |
+G2z) .('D |
+D F G A |
+d2B2) |
+.('A ^G =G E |
+D2z) .('B |
+c B A G |
+(F A) D) .('B |
+c B A G |
+(F A) D) .('D |
+G F G A |
+B3B |
+Be2d |
+(d A)z2) |
+.('A A/ A/ B ^c |
+d B G) .('E |
+D2B3/ A/ |
+G2z2) |]

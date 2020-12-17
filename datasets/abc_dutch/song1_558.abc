@@ -1,0 +1,15 @@
+X: 558
+T: Als ick riep met verlangen God hoorde al mijn leyt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 1864293652
+%%humdrum-veritas-data 370235455
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('G4D2D2F2G2B4A4z2).('d4c4B2G4A2(c2>B2AGA4)z2).('A2B2c2d2d2c2d2B4(A4B2>A2G4)z2).('A4D2D2E2F4G2(B2>A2GFG4)) |]

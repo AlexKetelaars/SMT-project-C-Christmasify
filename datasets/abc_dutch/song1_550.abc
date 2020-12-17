@@ -1,0 +1,48 @@
+X: 550
+T: Rondeau
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 906230065
+%%humdrum-veritas-data 4292297236
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('fge |
+f3 |
+e>fd |
+e2A) |
+.('fge |
+f3 |
+e>d^c |
+d3) |
+.('ada |
+ab2 |
+a2g |
+f(g3/f// g//) |
+a2d) |
+.('ada |
+ab2 |
+a2g |
+f(g3/f// g//) |
+a3) |
+.('fge |
+f3 |
+e>fd |
+e2A) |
+.('fge |
+f3 |
+e>d^c |
+d3) |
+.('Ade |
+f2g |
+a2b |
+g2g) |
+.('fef |
+de2 |
+^c2d |
+e3) :|]

@@ -1,0 +1,29 @@
+X: 9142
+T: In‘t stalleken van Bethlehem Is dezen nacht  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3267453734
+%%humdrum-veritas-data 3165435175
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B> B (B/ c/) d |
+A> A A) .('D |
+(D/ E/) F G3/ A/ |
+A2G) .('B |
+B> B (B/ c/) d |
+A> A A) .('D |
+(D/ E/) F G3/ A/ |
+A2G) .('A |
+(A/ B/) A F A |
+(A/ B/) A F) .('d |
+c c c d |
+B2A) .('c |
+c> B B A |
+A2G z) |]

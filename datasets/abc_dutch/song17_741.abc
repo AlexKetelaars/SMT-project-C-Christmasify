@@ -1,0 +1,29 @@
+X: 16740
+T: Heb ik Florida verlooren ‘k heb een ander we [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 4262676581
+%%humdrum-veritas-data 2765065914
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('gd [I:setbarnb 1]|
+e>ff3/e/ |
+dd).('g(f/ e/) |
+f(e/ d<)ef/ |
+dc) |
+.('e(f/ g/) [I:setbarnb 5]|
+c>cc3/d/ |
+B2).('d3/d/ |
+edcB |
+AG).('d(d/ e/) |
+f(f/ g<)ef/ |
+g>g) .('f/ e/ d/ c// B// |
+A).('dBe |
+c(f/ e<)dc/ |
+c2) :|]

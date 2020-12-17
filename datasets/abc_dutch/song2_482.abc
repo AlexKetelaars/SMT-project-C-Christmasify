@@ -1,0 +1,31 @@
+X: 1481
+T: Daar was laatst een meisje loos Die wou gaan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1699601902
+%%humdrum-veritas-data 1851171028
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('(G B) d [I:setbarnb 1]|
+(d e) f (g f) e |
+d2>).('c2 c c |
+B2A d d c |
+B2A) .('(G B) d |
+(d e) f (g f) e |
+d2>).('c2 c c |
+B B BA2A |
+[M:3/8]G3) |
+[M:6/8].('B3B3 |
+B A Bc3) |
+.('c2ed2c |
+B2AB2G) |
+.('B3B3 |
+B A Bc3) |
+.('c2ed2d |
+e2fg3) |]

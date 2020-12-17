@@ -1,0 +1,29 @@
+X: 2868
+T: Te Hasselt langs die baan Daar weet ik een p [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 3002178426
+%%humdrum-veritas-data 4154627998
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>D2 (G B A) c |
+B6).('B3/ B/ |
+d2>B2 A> G A B |
+G6).('D3/ D/ |
+G2>D2 (G B A) c |
+B6).('B2 |
+d2>B2A3B |
+G6).('D2 |
+B, D D D B, D D) .('D |
+E2>D2E3).('A |
+F A A A F A A) .('A |
+B2>A2B3).('B |
+c B A G F E D) .('D |
+E E F FG4) |]

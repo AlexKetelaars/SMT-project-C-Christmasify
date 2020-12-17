@@ -1,0 +1,32 @@
+X: 9160
+T: Heer Jesus heeft een hofken daar schoon bloe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 394512374
+%%humdrum-veritas-data 3878522536
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GABc |
+[M:3/2]dddBAA |
+[M:4/4]G2z).('D |
+GABc |
+[M:3/2]dddBAA |
+[M:4/4]G2z).('D |
+GABc |
+A/ A/AGG |
+A/ A/AG2) |
+.('B2(G/ A/)B |
+cBAG |
+cBAG |
+AAG2) |
+.('d2(B/ c/)d |
+cBAG |
+cBAG |
+AAG2) |]

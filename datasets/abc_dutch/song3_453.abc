@@ -1,0 +1,26 @@
+X: 2452
+T: Klein tingeling zat op de rand van het glaas [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 229968001
+%%humdrum-veritas-data 1501124685
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2F3/ E/ |
+D3D |
+E F G E |
+E2D2) |
+.('G2F3/ E/ |
+D3D |
+E F G E |
+E2D) .('D/ D/ |
+G G/ G/ D D/ D/ |
+G G/ G/ D) .('c/ c/ |
+(B2A2 |
+G4)) |]

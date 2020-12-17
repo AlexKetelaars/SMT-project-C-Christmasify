@@ -1,0 +1,32 @@
+X: 5743
+T: De dronkene Boer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:21
+%%humdrum-veritas 2243589469
+%%humdrum-veritas-data 2662683289
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=66
+K: D clef=treble
+(3.('A B c [I:setbarnb 1]|
+d2>f2 e d c B |
+B4A2d2 |
+e2f2g2e2 |
+f e f g a) .('A B c |
+d2>f2 e d c B |
+B4A2A G |
+F2d2A,2c2 |
+e4d2) |
+(3.('e f g [I:setbarnb 9]|
+a4a b a g |
+f g a fd2d2 |
+B2b a g f e d |
+c d e c A) .('A B c |
+e d c B A A B c |
+e d c BA2a g |
+g f e d f e d c |
+e4d2) |]

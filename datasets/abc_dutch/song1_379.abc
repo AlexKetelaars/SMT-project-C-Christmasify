@@ -1,0 +1,31 @@
+X: 379
+T: Ballette Bronckhorst
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 1685730947
+%%humdrum-veritas-data 2936367997
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('A2>A2FDd3/d/ |
+c2>d2_B3).('c |
+AFA2G3F/ G/ |
+A6).('AB |
+c2>c2AFf2 |
+e2>f2d3e |
+^cAd/ e/ f/ g/e3d |
+d4) |
+.('zAAB [I:setbarnb 9]|
+c2>F2FFED |
+A4z).('ABc |
+d2A2>d2cd |
+e2c2>c2de |
+f3).('c/ _B/AAGF |
+c3B/ c/d3c/ d/ |
+e2A>GFFE3/D/ |
+D4) :|]

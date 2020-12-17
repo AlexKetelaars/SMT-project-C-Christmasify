@@ -1,0 +1,31 @@
+X: 16164
+T: Singt en weest vrolyk, nu Fillis Verjaart, W [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 2689330460
+%%humdrum-veritas-data 2563200879
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('d>cd |
+B>AG |
+g>ag |
+^f3) |
+.('g>fe |
+d>e).('d |
+(c>d B/ c/ |
+d>e c/ d/ |
+e3) |
+(^fe)g |
+dd).('c |
+c>BA |
+B3) |
+.('(G/ A/)Bc |
+d>cB |
+B>AG |
+G3) :|]

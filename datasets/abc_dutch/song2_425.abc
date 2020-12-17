@@ -1,0 +1,31 @@
+X: 1424
+T: E pèrretje seule Dat riedt naar de meule
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2006770002
+%%humdrum-veritas-data 3523258604
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2(3G G GG2G2 |
+D G G GG2G2) |
+.('A A A A B BB2 |
+A2A A G GG2) |
+.('D G G GG2G D |
+G/ G/ G G GG2G2) |
+.('A A A AB2z2 |
+A A A A G GG2) |
+.('D G (3G G GG2G2 |
+D2(3G G GG2G2 |
+D G G GG2G2) |
+.('D2(3G G GG2G2 |
+D G G GG2G2) |
+.('A A A> A B B B B |
+A A A A G G G) .('G |
+(3A A A A A2<B2B |
+A A A A G GG2) |]

@@ -1,0 +1,35 @@
+X: 2350
+T: In Amerika trouwen ze driemaal in de week Ho [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 381433898
+%%humdrum-veritas-data 440316817
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d/ d/ [I:setbarnb 1]|
+dB/ d/gf/ e/ |
+d/ e/ d/ B/G).('d |
+e>dcA |
+G3).('d |
+[M:3/2]dBg2gg/ e/ |
+[M:2/2]dBG).('d |
+ed/ d/cA |
+G3).('B |
+Adfe |
+d/> d/ d/> d/d).('f |
+a>gfe |
+d4) |
+.('g>gg3/d/ |
+eee2) |
+.('dddc |
+B4) |
+.('g>gg3/d/ |
+eee2) |
+.('ddef |
+g4) |]

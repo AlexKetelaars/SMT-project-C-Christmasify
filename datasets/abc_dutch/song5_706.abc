@@ -1,0 +1,30 @@
+X: 4705
+T: Het was op een donderdagavond Het was in de  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 3029662381
+%%humdrum-veritas-data 4129917594
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d B c d d d |
+c3c3) |
+.('B G AB2B |
+A3-A2).('A |
+G G G B G B |
+d3B2).('d |
+d d c A B A |
+G3-G2).('G |
+A2AA2G |
+A2BA2).('d |
+e2d^c2B |
+B2AA2).('F |
+A2AA2A |
+B2BB2).('d |
+^c c cB2c |
+d3-d2) |]

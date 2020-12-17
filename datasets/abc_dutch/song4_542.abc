@@ -1,0 +1,22 @@
+X: 3541
+T: Schiffer ruh’ erwach’ noch einmal Erwache no [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 2516030525
+%%humdrum-veritas-data 4201725167
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('dBg3/B/ |
+d/ d/ c/ B/A).('a |
+aab3/a/ |
+a/ g/ f/ e/d).('d/ d/ |
+eeaa |
+(gB)d3/).('e/ |
+d>AcB |
+[M:2/4]G) |]

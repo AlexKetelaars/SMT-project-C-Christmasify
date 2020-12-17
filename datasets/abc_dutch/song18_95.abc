@@ -1,0 +1,35 @@
+X: 17094
+T: Les affricain
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3954789021
+%%humdrum-veritas-data 3432634090
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2e2 |
+e2-e3/d/ |
+c>dd3/c/ |
+B2c2) |
+.('A2-A3/A/ |
+d>dc3/B/ |
+A2G2) |
+.('B>Be3/d/ |
+^c2-c3/c/ |
+d>de3/f/ |
+e2d2) |
+.('f2f2 |
+f2-f3/g/ |
+e>e^f3/g/ |
+^f3/e// f//g2) |
+.('d2d3/e/ |
+f4 |
+c2c3/d/ |
+e2-e3/).('f/ |
+g>gf3/e/ |
+d2c2) |]

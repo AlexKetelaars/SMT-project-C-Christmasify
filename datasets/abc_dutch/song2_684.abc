@@ -1,0 +1,26 @@
+X: 1683
+T: Buiten de poorten van Wierden Daar woonde ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 1698662055
+%%humdrum-veritas-data 3592927835
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 1/8=176
+K: G clef=treble
+.('G B G A G (A/ c/) |
+B3A2).('D |
+G B d (d c) B |
+A4z) .('B/ A/ |
+G B G A G (A/ c/) |
+B3A2).('D |
+E c B (A G) F |
+G3z2).('B/ A/ |
+G B G A G (A/ c/) |
+B3A2).('D |
+E c B (A G) F |
+G3z2) |]

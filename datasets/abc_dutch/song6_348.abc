@@ -1,0 +1,34 @@
+X: 5347
+T: Ziet vrienden welk een schoonen morgen Verga [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3898750634
+%%humdrum-veritas-data 3591852795
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 12/8
+Q: 3/8=80
+K: C clef=treble
+.('E3E2EE2D (E F) G |
+A3G3z2).('G (G F) E |
+D3-D2D D ^C D (F E) D |
+C3z3z6) |
+.('E3E2EE2D (E F) G |
+A3G3z2).('G (G F) E |
+[M:9/8]D3-D2FE2D |
+[M:6/8]C3z2).('E |
+D2D (D ^C) D |
+E2D C E) .('F |
+G2>(E2 G) A |
+G3-G2z) |
+.('D2D (D ^C) D |
+E E D C E) .('F |
+G2>(E2 G) A |
+G3-G2z) |
+.('c2>(c2 B) A |
+G2FE2C |
+(D A) G (F E) D |
+C3-C2z) |]

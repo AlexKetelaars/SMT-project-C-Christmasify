@@ -1,0 +1,52 @@
+X: 5802
+T: Hoe vrolijk zijn we opnieuw geschaard, Door  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2599518179
+%%humdrum-veritas-data 3360079237
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=88
+K: D clef=treble
+.('A [I:setbarnb 1]|
+F2F (G F) G |
+(A B) cd2).('c |
+B2A (A G) F |
+E2zz2).('A |
+F2F (G F) G |
+(A B) cd2).('d |
+e2c (B A) B |
+A2zz2).('c |
+c2AE2e |
+e2cA2).('A |
+(A G) G (F G) A |
+E2zz2).('A |
+F2Ad2F |
+G2Bd2).('B |
+A2A (A B) c |
+d3).('e3 |
+(f e) d (A B) c |
+d2zz2).('D |
+=F2FE2E |
+D2=FA2).('A |
+=F2F (E D) E |
+D2zz2).('D |
+_B2BA2A |
+G2G=F2).('F |
+E2EA2A |
+D2zz2) ||
+.('A [I:setbarnb 27]|
+d2AA2f |
+f2dd2).('A |
+B2B (c B) c |
+d2zz2).('A |
+e2ee2f |
+d2dd2).('A |
+e2e (e f) e |
+d3).('e3 |
+f2d (A B) c |
+d3-d2) |]

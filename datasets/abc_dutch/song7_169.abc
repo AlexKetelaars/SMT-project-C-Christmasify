@@ -1,0 +1,36 @@
+X: 6168
+T: Kollemoeie zat achter d’haag Met haren pottebezeme
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2322981309
+%%humdrum-veritas-data 3663105763
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2G G A G |
+d2dd2).('d |
+d2de2e |
+d2cB2).('d |
+G2G G A G |
+d2dd2).('d |
+d2de2e |
+d2cB3) |
+.('B2Bc2B |
+A B AG2).('B |
+B c BB2c |
+B2AG2).('B |
+B c BB2A |
+(B2c)d2).('d |
+e2d c B A |
+G3).('B2B |
+B2AB2c |
+d2z).('B2B |
+B2AB2c |
+d2d).('g2e |
+{d}c2BB2A |
+G3z3) |]

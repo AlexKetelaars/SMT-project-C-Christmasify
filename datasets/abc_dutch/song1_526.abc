@@ -1,0 +1,32 @@
+X: 526
+T: O diere gunst! die sig door cunst Nog veel weerdy
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3052627890
+%%humdrum-veritas-data 2839961568
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=72
+K: F clef=treble
+.('d4 |
+f2g2 |
+a4- |
+a2).('a2 |
+a2b2 |
+g4- |
+g2).('f2 |
+e2d2 |
+e4 |
+z2).('g2 |
+g2a2 |
+(f3e) |
+d2).('f2 |
+e2d2 |
+^c4 |
+A2).('d2 |
+d2^c2 |
+d4) |]

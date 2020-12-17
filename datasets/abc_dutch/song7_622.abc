@@ -1,0 +1,38 @@
+X: 6621
+T: Lieve moeder, zeg mij eens, Wat heeft dit me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 3706775240
+%%humdrum-veritas-data 415925797
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) (B/ c/) |
+dd |
+e(c/ e/) |
+d2) |
+.('cc |
+BB |
+A(B/ A/) |
+Gz) |
+.('d(B/ d/) |
+c(A/ c/) |
+B(G/ B/) |
+BA) |
+.('dd |
+cc |
+BB |
+(BA/) z/) |
+.('GG |
+dd |
+ee |
+ed) |
+.('cc |
+BB |
+AA |
+Gz) |]

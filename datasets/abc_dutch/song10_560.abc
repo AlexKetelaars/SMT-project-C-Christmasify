@@ -1,0 +1,30 @@
+X: 9559
+T: Altijd zijn die boeren dronken, Altijd zijn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 3756090510
+%%humdrum-veritas-data 2044779217
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c2EE2E |
+F2GA2G) |
+.('c2EA2G |
+(F E) DC3) |
+.('c2EE2E |
+(F E) FA2G) |
+.('c2BA2G |
+G E ^FG3) |
+.('G A GG2F |
+F G FF2E) |
+.('E D EG2G |
+A2GD3) |
+.('G2>G2 A B |
+c2>c2 B c |
+d2dB2B |
+c3z2z) |]

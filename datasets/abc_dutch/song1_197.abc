@@ -1,0 +1,15 @@
+X: 197
+T: So Godt niet self dat huys oprecht, Te vergh [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 83364375
+%%humdrum-veritas-data 2994031439
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G4c2c2B2G2A2B2c4z4).('c4B2A2G2F2E4D4C4z4).('C4D2E2F2G2G2F2G4z4).('G4A2A2c2c2B4A4G4z4).('G4F2E2A2G2F4E4D4z4).('D4E2F2G2A4G4F2G4) |]

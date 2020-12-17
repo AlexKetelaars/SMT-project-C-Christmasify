@@ -1,0 +1,28 @@
+X: 3760
+T: Sa broeders kom sa broeders kom Kom laat ons [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 3938101261
+%%humdrum-veritas-data 1220023313
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 12/8
+Q: 3/8=80
+K: G clef=treble
+.('G2>(F2 G) A(G2B)) [I:setbarnb 1]|
+.('B2>(A2 B) c2<B2-B2).('d |
+e3d3c3B3 |
+[M:9/8]B3A6) |
+.('G2>(F2 G) A(G2B)) |
+[M:12/8].('B2>(A2 B) c2<B2-B2).('d |
+[M:4/4]d d c c2<B2).('d |
+d d c cB4) |
+[M:6/8].('d d d e d c |
+B3A3 |
+(G> A B/ c/d3)) |
+.('d d d e d c |
+B3A3 |
+G6) |]

@@ -1,0 +1,35 @@
+X: 7164
+T: No731
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3664946576
+%%humdrum-veritas-data 2291657234
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=52
+K: A clef=treble
+.('c4 [I:setbarnb 1]|
+{d}c4(B2 A2) {A/} G2 G2 G2 F2 |
+{G}F4{E F} E2 z AG4A4 |
+(c4B2) z AG4A4 |
+(c8B4)).('c4) ||
+.('c4B2 A2 {A/} G2 G2 G2 F2 [I:setbarnb 6]|
+{G}F4{E F} E2 z ef4b a g f |
+{f/} e2 e2 =g f e d(c4!trill!!trill!B4) |
+{B}c6z) .('e (=g f e f) b a ^g f |
+(f e d e) =g f e dc4{B A}!trill!!trill!B4 |
+{A B}A8) ||
+.('z4c4 [I:setbarnb 11]|
+{B}A4(B2 c2) d2 d2 f2 d2 |
+{e}d4{c d}c4z2 c2 c2 B2 |
+A2 A2 G2 F4<B4c2 |
+{A}G4{F}E4).('B4e4 |
+{e}^d4c2 B4<B4g2 |
+{g2}f8).('B4e4 |
+{d}c4d c B AG4!trill!!trill!F4 |
+{E F}E16- |
+E12) |]

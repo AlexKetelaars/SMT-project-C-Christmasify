@@ -1,0 +1,20 @@
+X: 2571
+T: Twa lytje deeuwe Fliegen sa fier as fylken sawn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 1870611190
+%%humdrum-veritas-data 299333825
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B> Bd2B2) |
+.('c c/ c/ A A G GD2) |
+.('G G/ G/ B Bd2B) .('B |
+c c A AG4) |
+.('A A/ A/ B Bc2A2) |
+.('B2c2d2B2) |]

@@ -1,0 +1,24 @@
+X: 1371
+T: Hola-la ik heb mijn lief verloren Hola-la ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 4235643976
+%%humdrum-veritas-data 485168032
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2>A2 G A B c |
+d2d2c2B2) |
+.('d2>B2 G A B c |
+B2A2G2z2) |
+.('B B B c B BB2) |
+.('A A A B A GG2) |
+.('G2>D2 B, D G A |
+B2d2c2B2) |
+.('d2>B2 G A B c |
+B2A2G2z2) |]

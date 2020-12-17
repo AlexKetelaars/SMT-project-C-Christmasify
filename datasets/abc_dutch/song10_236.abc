@@ -1,0 +1,38 @@
+X: 9235
+T: Jan Hinnerk wahnt up de Lammer, lammerstraat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3637665412
+%%humdrum-veritas-data 3779118976
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2(F E)D2D D |
+E E E ED2).('D D |
+E E E ED2).('D D |
+G2G2A2d2 |
+B4z2).('B B |
+c2c2A2A2 |
+G2).('G G A A F F |
+G2).('G G A A d d |
+B4z2).('D D |
+G2(F E)D2D2 |
+E2E2D2).('D2 |
+G2G2A2d2 |
+B4z2).('d d |
+B2d dB2d d |
+c BA2z2).('c c |
+A2c cA2c c |
+B AG2z2).('D2 |
+G G G GG2A2 |
+B B B BB2).('d c |
+B2B2A2A2 |
+G2).('G G A A F F |
+G2).('G G A A d d |
+B4z2) |]

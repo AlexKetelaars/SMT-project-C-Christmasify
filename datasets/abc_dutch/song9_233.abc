@@ -1,0 +1,55 @@
+X: 8232
+T: Ontwaak, gij mijn schoon engelin, Gij staat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 36450648
+%%humdrum-veritas-data 4109474624
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2F |
+G2G |
+A2c |
+G3) |
+.('F F F |
+E2G |
+D2G |
+!fermata!C2).('C |
+F2F |
+G2G |
+A2c |
+G2).('G |
+F2F |
+E E G |
+D D G |
+!fermata!C2).('C |
+E E G |
+B2d |
+d c B |
+!fermata!A2).('C |
+F A c |
+c A F |
+A3 |
+!fermata!G2z) |
+.('G G G |
+G2C |
+G2G |
+G2).('C/ C/ |
+B2A |
+B2c |
+d3 |
+c2z) |
+.('A A A |
+A2C |
+A2A |
+A2).('c |
+c2d |
+!fermata!e2d |
+c2B |
+!fermata!A2) |]

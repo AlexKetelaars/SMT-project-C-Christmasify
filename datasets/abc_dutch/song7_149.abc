@@ -1,0 +1,32 @@
+X: 6148
+T: Alle De Heere Van Lolde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2798871817
+%%humdrum-veritas-data 3853291902
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('B c [I:setbarnb 1]|
+d2e fd2c B |
+A4G2).('d2 |
+g2a fg2a2 |
+b2b a g f) .('e d |
+e2d cf2F2 |
+B2c dc2B A |
+B6) :|]
+.('B c [I:setbarnb 8]|
+d2e fg2f g |
+c2c2c2).('f2 |
+f2e dc2B A |
+A4G2).('b2 |
+a2g ad2g2 |
+f2e fc2).('f2 |
+f2e dc2d e |
+d2c BA2d ^F |
+G4) |]

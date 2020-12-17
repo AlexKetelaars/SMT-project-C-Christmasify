@@ -1,0 +1,30 @@
+X: 14895
+T: Liebste Wälder Holde Felder
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 1591626397
+%%humdrum-veritas-data 4257852606
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=132
+K: F clef=treble
+.('c4f2 |
+(f c)c4 |
+A4B2 |
+(c A)F4) |
+.('(d F)d2F2 |
+(c F)c2F2 |
+{c}!trill!!trill!B4A2 |
+G6) |
+.('G4A2 |
+(A G)G4 |
+A4d2 |
+(c B)A4) |
+.('d4c2 |
+(B A)A4 |
+B2A2G2 |
+F6) :|]

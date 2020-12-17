@@ -1,0 +1,33 @@
+X: 9745
+T: Laat ons naar Oudenaarde reizen al zonder ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 665439929
+%%humdrum-veritas-data 1030853047
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: Bb clef=treble
+.('DGA [I:setbarnb 1]|
+B2>G2AB |
+G3F/) .('=E/FF |
+GGF=E(DC) |
+!fermata!D2).('DDGA |
+B2>G2AB |
+G3F/) .('=E/FF |
+G2(F=E)DC |
+!fermata!D2z).('DGA |
+B2>G2Ad |
+(BA)G).('!fermata!AF=E |
+F2>G2AA |
+D2z).('=EFD |
+G2>A2!fermata!c3/B/ |
+B2A2).('!fermata!cB/ A/ |
+G4F2 |
+G4A2 |
+(G4F2) |
+!fermata!G4z2) |]

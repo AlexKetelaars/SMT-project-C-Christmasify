@@ -1,0 +1,35 @@
+X: 2946
+T: Drie vrouwtjes Sientje Saartje en Trui zaten [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 216888677
+%%humdrum-veritas-data 693564078
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2BB2A |
+G F ED3) |
+.('E E EF2F |
+G3D2).('A |
+A2AA2B |
+A2BA2).('G |
+F F A E E A |
+D3D2).('G |
+B2BG2B |
+A3-A2).('D |
+G2GA2B |
+A3).('d3 |
+B2GF2G |
+E3E3) |
+.('c2B A A G |
+F2ED2).('D |
+B2B B B d |
+G3B2).('d |
+c2AF2D |
+G3-G2) |]

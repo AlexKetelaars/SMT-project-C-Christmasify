@@ -1,0 +1,18 @@
+X: 1585
+T: Suse poppien sloape die vader die hut de schapen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3747648685
+%%humdrum-veritas-data 1756419315
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G A B AG2D z/) .('D/ |
+G/> G/ A B AG2D z/) .('D/ |
+c c c c B B B z) |
+.('A G A B A G G z) |]

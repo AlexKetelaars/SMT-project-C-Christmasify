@@ -1,0 +1,24 @@
+X: 1449
+T: Ben een avond wezen dansen Met mijn vrijer P [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2877162418
+%%humdrum-veritas-data 2557109416
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GG>A B/ G/ |
+E3).('c/ c/ |
+BGA/ G/ F/ A/ |
+G/ G/ G/ G/G) ||
+.('D/ E/ [I:setbarnb 5]|
+GGGA |
+BG2).('E/ E/ |
+AAAB |
+cAz) :|]

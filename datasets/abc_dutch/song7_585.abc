@@ -1,0 +1,34 @@
+X: 6584
+T: Jezuken en Sint Janneken Die speelden met ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 1126230318
+%%humdrum-veritas-data 2883504078
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G G/ G/ G G |
+G2D3/) .('G/ |
+B2A3/ A/ |
+G2z3/) .('G/ |
+G G B c |
+d3).('d |
+d2(B G) |
+A2z) .('A |
+B B A A |
+B B A) .('A |
+B B A A |
+B BA2) |
+.('d d e f |
+g3).('f |
+f2e2 |
+e2z) .('e |
+e2c c |
+B B c) .('c |
+B2A3/ A/ |
+G2z2) |]

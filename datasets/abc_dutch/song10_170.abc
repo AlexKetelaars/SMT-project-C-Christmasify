@@ -1,0 +1,23 @@
+X: 9169
+T: Wij zijn de dochters van’t kasteel, kinne mo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 1947974921
+%%humdrum-veritas-data 3276201470
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F A A |
+F FC2) |
+.('D D/ D/C2 |
+D2C) .('C |
+F F A A |
+F F C C) |
+.('B B/ B/ A A |
+G G F) |]

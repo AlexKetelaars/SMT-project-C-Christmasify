@@ -1,0 +1,32 @@
+X: 16707
+T: Ach! helaes! hoe dwaes! men vindt in de Lief [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1825968702
+%%humdrum-veritas-data 1110718868
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('g2>g2^f3a |
+d2>).('d2c2d A |
+B B c d2<_e2).('d |
+c2>c2f3f |
+g> a g> aa3).('(g/ a/) |
+b2>d2d3e |
+f2>f2^f3g |
+a8) |
+.('d2>d2g3f |
+e2>c2).('f3_e |
+d2>_e2c3(B/ c/) |
+d2B2).('b3a |
+g2>f2f3(_e/ d/) |
+_e2c2).('c'3b |
+a2>b2g3a |
+^f2(e d)).('c2(B A) |
+B2>c2A3G |
+G8) :|]

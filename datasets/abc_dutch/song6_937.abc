@@ -1,0 +1,33 @@
+X: 5936
+T: Nieupoort en Oostend, Blankenberg staat overend
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1659262002
+%%humdrum-veritas-data 1589409596
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G G A B |
+c2).('d c |
+B B A B |
+G2z2) |
+.('G A B c |
+B2).('d c |
+B A G B |
+A4) |
+.('G B d d |
+d2){.('d} e d |
+{d} c Bc2) |
+.('d d B c |
+d2).('d c |
+{c} B A {A} G B |
+A) .('G G A |
+B c B A |
+G) .('d d c |
+B2A2 |
+G4) |]

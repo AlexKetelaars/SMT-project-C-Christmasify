@@ -1,0 +1,15 @@
+X: 3915
+T: Verleie winter ik zal het nooit vergeten Ja, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 2689355662
+%%humdrum-veritas-data 1818136558
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d B c dd2d d d d d e2<d2).('B G B2<d2d B A A G2<A2).('d G B d d d d d e2<d2).('d G G B B d d d d d de2f2d4).('d/> d/ G A B d2<d2).('d G> G A B d d d d d d d d ed2).('d/> d/ G A B d d d e e fd2).('d c c cB2B/ B/ A G Ad2).('d/> d/ G A B d d d e e fd2).('d c/ c/ cB2B/ B/ d B A2<G2-G2) |]

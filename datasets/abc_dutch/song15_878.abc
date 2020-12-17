@@ -1,0 +1,26 @@
+X: 14877
+T: Wenn mich Herz und Augen haßen Und ich dir z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3374136870
+%%humdrum-veritas-data 2926648876
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=66
+K: E clef=treble
+.('BcB3/e/ |
+(d/ c/) (B/ A/)GF) |
+.('AFc3/e/ |
+dcB2) |
+.('FBG3/e/ |
+dc^BG) |
+.('de^Bc |
+G^Bcz) |
+.('ecAF |
+f>gdB) |
+.('AFBc |
+GFEz) |]

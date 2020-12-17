@@ -1,0 +1,31 @@
+X: 900
+T: Van Woltersum tot Eems.....brug[?] Van [?] t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 3993452207
+%%humdrum-veritas-data 1461076888
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D/ E3// D// [I:setbarnb 1]|
+G>DBA |
+G3).('G |
+cGce |
+d2z).('B |
+A>A A/ B/ c/ d/ |
+B>AG).('B |
+AB/ G/FE |
+D2z).('D |
+A>A A/ F/ E/ D/ |
+G3).('D |
+A>A A/ F/ E/ D/ |
+B2z).('G |
+c>cBG |
+e>ed).('c |
+BcB3/A/ |
+G2-G/) |]

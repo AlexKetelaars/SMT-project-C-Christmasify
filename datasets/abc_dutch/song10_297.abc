@@ -1,0 +1,44 @@
+X: 9296
+T: De herdertjes vermoeden Aldaar zij lagen in  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3261232498
+%%humdrum-veritas-data 905767161
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: E clef=treble
+.('zF [I:setbarnb 1]|
+BB |
+cf |
+dc/) .('f/ |
+fe |
+dd/ c/ |
+B2- |
+B).('F |
+BB |
+cf |
+dc/) .('f/ |
+fe |
+dd/ c/ |
+B2- |
+B).('f |
+ff/ f/ |
+fg/ f/ |
+fe |
+z).('f |
+ff/ f/ |
+(f/ e/)d |
+c2- |
+c).('F |
+BB/ B/ |
+cg/ e/ |
+dc |
+z).('f |
+fe |
+dc |
+B2) |]

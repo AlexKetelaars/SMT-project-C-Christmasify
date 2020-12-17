@@ -1,0 +1,42 @@
+X: 5152
+T: Er waren zoveel fijntjes in deze dans, En al [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 388163937
+%%humdrum-veritas-data 4004050057
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A A A AA2E E |
+F2G2A2).('E E |
+A A A AA2E E |
+F E F GA2).('d d |
+c c B BA2z2) |
+.('A2A AA2E E |
+F E F GA2).('d2 |
+c c B BA2z) .('E |
+A2A AA2E E |
+F E F G A E E) .('E |
+A2A AA2E E |
+F E F GA2).('d2 |
+c c B BA2z) .('E |
+A A A AA2E E |
+F E F GA2).('E E |
+A2A AA2E E |
+F E F GA2).('d2 |
+c c B BA2z) .('E |
+A2A2A2E E |
+F E F GA2).('E2 |
+A2A2A2E E |
+F E F GA2).('A A |
+B A B c d d) .('c B |
+B A B c d d) .('c B |
+A2G2A2).('d2 |
+c cB2e2d d |
+c2B BA2z) |]

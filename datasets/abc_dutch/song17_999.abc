@@ -1,0 +1,48 @@
+X: 16998
+T: Rondeau
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 677045368
+%%humdrum-veritas-data 330489810
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c2G2c2 |
+d2>e2 f g |
+e d c d e f |
+d4d2) |
+.('c2G2c2 |
+d2>e2 f g |
+e d c d e f |
+g2>g2 a g |
+f e2<!mordent!!mordent!d2c |
+c6) |
+.('g2g2a e |
+f2>g2e2 |
+e2a3b |
+!mordent!!mordent!^g2>^f2e2) |
+.('a2!mordent!!mordent!e3e |
+f2>e2 d c |
+B2c3d |
+!mordent!!mordent!B4A2) |
+.('!mordent!!mordent!e2>e2f2 |
+g2>f2 e f |
+e f2<!mordent!!mordent!f2e |
+!mordent!!mordent!d4c2) ||
+.('e2c2e2 [I:setbarnb 24]|
+!mordent!!mordent!d2>c2B2 |
+c2!mordent!!mordent!c3B |
+A4A2) |
+.('d2!mordent!!mordent!B3B |
+e2>d2 c B |
+A B2<!mordent!!mordent!B2c |
+!mordent!!mordent!A4G2) |
+.('d2>d2e2 |
+f2>g2 e f |
+f f2<!mordent!!mordent!f2e |
+d4c2) :|]

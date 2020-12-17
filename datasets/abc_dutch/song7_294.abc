@@ -1,0 +1,39 @@
+X: 6293
+T: In het oog ligt vaak het hart, Ja in de ooge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 4040656152
+%%humdrum-veritas-data 2515815141
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+B2>B2 A3/ D/ |
+G4).('G B |
+d2>e2 d3/ A/ |
+c2B2).('B3/ A/ |
+G2>G2 A B |
+(B2A2)G2) |
+.('F> e d F B3/ A/ |
+D2z2z2) |
+.('A> E ^D E B3/ E/ |
+c4).('A c |
+e2>d2 c B |
+B2A2z2) |
+.('A> A F A B A |
+G2F z).('d2- |
+d z/ A/ F B A3/ ^C/ |
+D4).('D3/ D/ |
+d2>c2 E F |
+G4).('B3/ e/ |
+d2>F2 A c |
+e2d2).('G G |
+G2>G2 c e |
+^c2d2).('E3/ E/ |
+d2>c2 E F |
+G2z2) |]

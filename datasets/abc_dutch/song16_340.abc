@@ -1,0 +1,22 @@
+X: 15339
+T: Sequah Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 1745400439
+%%humdrum-veritas-data 983667123
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D G F G |
+B2G2 |
+D G F A |
+G2z2) :|]
+.('d d ^c d |
+e2A2 |
+c c B c |
+d2G2) |]

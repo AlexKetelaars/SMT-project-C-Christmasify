@@ -1,0 +1,41 @@
+X: 3933
+T: In het Kurzaal in Oostende op het strand Ont [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1324435951
+%%humdrum-veritas-data 3055410985
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2(3G G A [I:setbarnb 1]|
+B2B B B Be2 |
+[M:5/4]B4-B) .('D G G A A |
+[M:4/4]B2B Bc2e2 |
+c6).('A B |
+c c c cc2).('B A |
+(3B2 B2 B2B3).('B |
+A2A2A2A2 |
+d6).('c c |
+[M:5/4]B B B A G AB2e2 |
+[M:4/4]B4-B) .('G (3G G A |
+B2B2c2e2 |
+c4-c) .('A A B |
+c c c cc2).('B A |
+B B B BB2).('G G |
+A2A2B2^c2 |
+d8) |
+.('B4d4 |
+^c2c2=c cB2 |
+A2E2E2F F |
+G6).('E F |
+[M:2/4]G G F E |
+[M:4/4]F2z2A2z2 |
+z2).('F F E E D D |
+G2z2B4- |
+B2).('B2A2G2 |
+F2z2A4) |]

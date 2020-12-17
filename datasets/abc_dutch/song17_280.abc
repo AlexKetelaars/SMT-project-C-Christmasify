@@ -1,0 +1,36 @@
+X: 16279
+T: ‘k Lag op een Morgenstond, Verrukt door teed [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 4269774124
+%%humdrum-veritas-data 1817650740
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('(F G) [I:setbarnb 1]|
+(A> B) Ad2F |
+(F2E) z) .('(E F) |
+(G> A) G e> c A/ G/ |
+!trill!!trill!G2F) .('d> c B/ A/ |
+(^G> B A B>) E) .('d |
+(c> B) A (e> d) c |
+{c2}B2>z2 z) .('e |
+(F> ^G) A (B> c) d |
+(c> A) (d/ B<) {A B} (!trill!!trill!B A/) B |
+A3-A) |
+.('z A [I:setbarnb 11]|
+(e> c) A (G> F) G |
+{G2}F2>z2 z) .('B |
+(^A> B) c c> e d/ c/ |
+(d> c) B z) .('(B c) |
+(d> c) B (A> B) G |
+(F/ G/ A/ F/ G/ E/ F d) B |
+!trill!!trill!^G2>A2 z) .('=G |
+(F> E) Dd2B |
+(A> D) (B/ G<) (F G/) E |
+{E}D3-D) :|]

@@ -1,0 +1,25 @@
+X: 4473
+T: Een jager wou uit jagen en uit jagen zou hij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 269270393
+%%humdrum-veritas-data 3058917598
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 12/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+DD/B,C/DD/B,C/ |
+DD/BA<G-G).('D/ |
+DD/BA<G-GF/ |
+[M:6/8]GF/GE/ |
+[M:12/8](D3/E3/)D3/-D).('D/ |
+DD/BA<G-GF/ |
+[M:6/8]GF/GE/ |
+[M:12/8](D3/E3/)A,3/-A,).('D/ |
+DD/EF/GA/BA/ |
+(G3/F3/)G3/-G) |]

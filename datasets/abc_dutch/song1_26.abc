@@ -1,0 +1,32 @@
+X: 26
+T: De mensch in 't quaedt, door qua' gewoont ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 2095585695
+%%humdrum-veritas-data 9960151
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z^FGB |
+A2B2 |
+A2zA |
+Bcd2 |
+B2z).('d |
+cBA2 |
+zABd |
+A2G2 |
+^F2F2) |
+.('G2B2 |
+d2d2 |
+d2^c2 |
+A2A^c/ d/ |
+A4) |
+[M:3/2].('z2AB2d |
+^cAAB2d |
+d2DGz2 |
+z) |]

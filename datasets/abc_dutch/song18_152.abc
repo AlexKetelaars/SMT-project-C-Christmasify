@@ -1,0 +1,41 @@
+X: 17151
+T: Gigue
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 3437880973
+%%humdrum-veritas-data 3856509599
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d2e f> g a |
+c2de2f |
+g> a g f> g f |
+e3A3) |
+.('d2e f> g a |
+c2de2f |
+g> a f e> d c |
+d3-d2) |
+.('e [I:setbarnb 9]|
+f2ff2e |
+f2ga3 |
+d2dc2B |
+c2de2e |
+e> f e e> f e |
+e> f e e> f e |
+e> d c B> A ^G |
+A3-A3 |
+B3-B2).('f |
+g2g f> g a |
+e3e2f/ g/ |
+a> b a g> a g |
+f> g f e> f g |
+a> b a g> a g |
+f> g f e> f g |
+a> g f e> d c |
+d3-d2) :|]

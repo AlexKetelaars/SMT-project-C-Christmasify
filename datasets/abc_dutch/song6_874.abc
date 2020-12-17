@@ -1,0 +1,26 @@
+X: 5873
+T: ‘k Klom laatstmaal op hooge bergen, En ik ke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1512471669
+%%humdrum-veritas-data 4134352810
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G G (G B) (c d) |
+G4G2z2) ]|:
+.('G2G G (G F) F G |
+G2G2G2z2) :|]
+.('x6G B |
+d2d2A2d d |
+(c2>B2)!fermata!A2).('G A |
+B2c B (B A) G F |
+E2z2).('G2(F G) |
+D2G AB2B A |
+G6z2) |]

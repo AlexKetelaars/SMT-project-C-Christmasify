@@ -1,0 +1,24 @@
+X: 5493
+T: Daer was een meisjen in haer kasteel, Die za [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2206632319
+%%humdrum-veritas-data 3866311441
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D G G [I:setbarnb 1]|
+G> A A (G A) B |
+A2z) .('G A B |
+B2A G G A |
+G2z) .('G A B |
+B2A A G z) |
+.('G A AA2A |
+E F GF2z) |
+.('A A A(c2B/ A/) |
+B2A FG2) |]

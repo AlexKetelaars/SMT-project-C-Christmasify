@@ -1,0 +1,22 @@
+X: 4453
+T: Als de soldaten moeten gaan marcheren Staan  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 364737156
+%%humdrum-veritas-data 4257352480
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2d de2d2 |
+B B A Bd2c2) |
+.('e2d ef2e e |
+c c B ce2d) .('d |
+d2d dd2d d/ d/ |
+g2f e e d/ d/d2) |
+.('e d/ d/d2e2f3/ f/ |
+g8) |]

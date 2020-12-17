@@ -1,0 +1,89 @@
+X: 17013
+T: Ouverture D'Ysis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 4065891554
+%%humdrum-veritas-data 153173279
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('g2>g2d3b |
+!mordent!!mordent!a4a3b |
+!mordent!!mordent!g2>g2g2a e |
+f2>f2!mordent!!mordent!f3).('d |
+_e2>e2e3c |
+d2>d2c3d |
+B2>B2!mordent!!mordent!B3c |
+!mordent!!mordent!A2>).('c2f3f |
+B2>B2_e3e |
+!mordent!!mordent!c2>d2_e3f |
+d6).('z f |
+b2>b2!mordent!!mordent!a3b |
+!mordent!!mordent!g2>g2a3a |
+!mordent!!mordent!^f2>g2!mordent!!mordent!g3f/ g/ |
+a8) |
+[M:3/4].('z2d2d2 |
+!mordent!!mordent!e2e fg2 |
+!mordent!!mordent!^f2f g a f |
+g2).('!mordent!!mordent!d3d |
+_e2e3f |
+d2>d2g2 |
+g2!mordent!!mordent!f3f |
+f2b3b |
+b2!mordent!!mordent!a3g |
+!mordent!!mordent!^f4f f |
+g2!mordent!!mordent!g3f/ g/ |
+a6) |
+.('d2g3g |
+g2!mordent!!mordent!f3f |
+f2g f _e d |
+_e4).('e e |
+f2(!mordent!!mordent!f3e/ f/) |
+g2>f2 e d |
+c2>c2f2 |
+d2d2_e2 |
+c2!mordent!!mordent!c3B |
+B2>).('c2 d _e |
+c2>c2f2 |
+d2g3g |
+g2!mordent!!mordent!e3e |
+f2>).('g2 a b |
+!mordent!!mordent!g2>g2 a b |
+!mordent!!mordent!a2>a2b2 |
+g2!mordent!!mordent!g3f |
+f4).('f f |
+g2(!mordent!!mordent!g3f/ g/) |
+a4-a a |
+b a g f e d |
+!mordent!!mordent!^c2>d2 e f |
+d2>d2g2 |
+f e2<d2d |
+d2).('g3g |
+!mordent!!mordent!e2>e2a2 |
+!mordent!!mordent!^f4d2 |
+d2!mordent!!mordent!c3c |
+c4d A |
+B4).('b a |
+!mordent!!mordent!a2>g2 f e |
+d2>e2f2 |
+e2a3a |
+a2!mordent!!mordent!^f3f |
+g2!mordent!!mordent!g3^f/ g/ |
+a2).('a3a |
+b2>b2 a b |
+!mordent!!mordent!g2>g2a2 |
+b2!mordent!!mordent!^f3g |
+g4).('c c |
+c2d c B A |
+B2_e3e |
+_e2f e d c |
+d2>_e2 f d |
+_e2c3c |
+c2A2d2 |
+c B2<!mordent!!mordent!A2G |
+G6) |]

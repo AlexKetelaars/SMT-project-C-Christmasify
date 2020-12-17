@@ -1,0 +1,27 @@
+X: 7264
+T: Onder een lindeboom groene Daer ryde ik naer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2594580180
+%%humdrum-veritas-data 4178182079
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A2B c c d |
+(e2d) c z) {.('c} e |
+(e d) c (c B) A |
+{c}B2>-B2 z) .('A |
+A2B (c B) A |
+{c}B2>-B2 z) .('e |
+(e d) c (c B) A |
+A2>^G2 z) .('E |
+A2Bc2c |
+B3).('(c2d) |
+e2dc2B |
+{B}A3-A2z) |]

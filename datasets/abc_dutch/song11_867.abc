@@ -1,0 +1,30 @@
+X: 10866
+T: Daar waren d’ Ricoletjes, die God beminden:  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1684688278
+%%humdrum-veritas-data 463273647
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('c [I:setbarnb 1]|
+c c B A |
+B2c2) |
+.('c2c3/ c/ |
+c2!fermata!B) .('A |
+B AB2 |
+c2c3/ c/ |
+!fermata!c2z) .('c |
+d> c B A |
+B2c3/ c/ |
+c> B c d |
+c2!fermata!B) .('A |
+A2B c |
+B2c3/ c/ |
+c> c c d |
+c2z2) |]

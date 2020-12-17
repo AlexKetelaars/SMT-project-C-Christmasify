@@ -1,0 +1,33 @@
+X: 842
+T: 'k Kwam lestmaal over den Rijn, tirilijn vli [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 347104927
+%%humdrum-veritas-data 151420786
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> A (3B B c |
+d d/ d/d2) |
+.('d2(3d d d |
+d3z/) .('d/ |
+e> d (3^c c d |
+A3z/) .('B/ |
+d> B c3/ d/ |
+e> f g3/) .('e/ |
+d> B c3/ A/ |
+G2z2) |
+.('d2(3d d d |
+d3z/) .('B/ |
+d> c A3/ B/ |
+G2z2) |
+.('d2(3d d d |
+d3z/) .('B/ |
+d> c A3/ B/ |
+G2z2) |]

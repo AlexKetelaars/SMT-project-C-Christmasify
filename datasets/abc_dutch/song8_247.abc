@@ -1,0 +1,35 @@
+X: 7246
+T: Letstmael, op eenen zomerschen dag, Maer hoo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3681245626
+%%humdrum-veritas-data 3724735892
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F> c c3/ c/ |
+(c d) c B |
+{B}A3).('F |
+F> c c3/ c/ |
+(c d) (c B) |
+{B}A2z) .('F |
+F> E F G |
+A> AA2- |
+A z z3/) .('A/ |
+A> G A B |
+c> cc2- |
+c z z3/) .('c/ |
+c2(d3/ c/) |
+c2B3/ A/ |
+c2(B3/ A/) |
+{A}G2z3/) .('F/ |
+F2(F3/ G/) |
+A2A3/ B/ |
+A2(G3/ F/) |
+F2z2) |]

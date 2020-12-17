@@ -1,0 +1,40 @@
+X: 17606
+T: la Fortune
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 262201268
+%%humdrum-veritas-data 2876904868
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=88
+K: A clef=treble
+.('c d [I:setbarnb 1]|
+e c A E F G |
+A A, B, C D E |
+F d c B A G |
+A E C A,) .('c d |
+e c A E F G |
+A A, B, C D E |
+F d c B A G |
+{G}A3z) |
+.('c d [I:setbarnb 9]|
+e c A f d A |
+e c A f d A |
+e a g f g e |
+^d e f B) .('g a |
+b g e B a f |
+b g e B a f |
+g f e B e ^d |
+e B G E) .('c d |
+e c A E F G |
+A A, B, C D E |
+F d c B A G |
+A E C A,) .('c d |
+e c A E F G |
+A A, B, C D E |
+F d c B A G |
+{G}A3z) :|]

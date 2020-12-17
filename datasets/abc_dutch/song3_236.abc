@@ -1,0 +1,15 @@
+X: 2235
+T: En ik ben er laatst door een straatje gegaan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 317218827
+%%humdrum-veritas-data 1750497262
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D> DG2B2A4D2E2F> FG4).('D> DG2B2A4D2E2F> FG4).('d4d> c B> AG2>E2E2).('B> Bc2d2e2).('d2d> c B> AG2>E2E2).('B> Be2d2G4) |]

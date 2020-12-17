@@ -1,0 +1,33 @@
+X: 12213
+T: Daar reed er eens een ruitertje door een gro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 1534521743
+%%humdrum-veritas-data 3594499450
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('G2 [I:setbarnb 1]|
+A2>G2 F E |
+(D2>E2) F A |
+G2>A2G2 |
+C4).('G2 |
+A2>G2 F E |
+(D2>E2) F A |
+G2>A2G2 |
+C4).('C C |
+F2A2F F |
+G2F2).('G G |
+A2c2F2 |
+G2B2A G |
+F4).('C C |
+F2A2F F |
+G2F2).('G G |
+A2c2F2 |
+G2B2A G |
+F4) |]

@@ -1,0 +1,37 @@
+X: 16239
+T: Waarom bekommert g’ u myn hart, Wien Fillis  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3380210871
+%%humdrum-veritas-data 327136300
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+F4D2 |
+A2A2A d |
+^c4).('d2 |
+e4A2 |
+d4c2 |
+_B4(A G) |
+A4).('(d c) |
+B4(c d) |
+e2>d2c2 |
+(d c2<)(B2A) |
+A4x2) |
+.('d2A2d2 |
+B4B2 |
+B2(e f) (f d) |
+^c4A2) |
+.('f2d2e2 |
+f2>(g2 f g) |
+a4).('f2 |
+(g a) (g f) (e d) |
+(c A2<)(d2e- |
+e6) |
+d4) :|]

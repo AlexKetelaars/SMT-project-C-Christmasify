@@ -1,0 +1,30 @@
+X: 15432
+T: Heilsie [?]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 674677974
+%%humdrum-veritas-data 1021666156
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('B2F c A F |
+d2B e c A |
+f d B e c A |
+B F E D C B,) |
+.('B2F c A F |
+d2B e c A |
+f d B e c A |
+B F DB,3) ||
+.('g e B g e B [I:setbarnb 10]|
+f d B f d B |
+e c A e c A |
+B d ff3) |
+.('g e B g e B |
+f d B f d B |
+e c A e c A |
+B3B,3) |]

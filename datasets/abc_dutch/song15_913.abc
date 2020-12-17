@@ -1,0 +1,50 @@
+X: 14912
+T: Geht ihr unvergnügte Sorgen Last das Hertz i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 423230372
+%%humdrum-veritas-data 4165215143
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=152
+K: G clef=treble
+.('B2c |
+A2B |
+c2d |
+B2A) |
+.('d(c/ B/)d |
+d(c/ B/)d |
+(dc)B |
+A3) |
+.('B2c |
+A2B |
+c2d |
+B2A) |
+.('def |
+(gd)e |
+B2A/ G/ |
+G3) :|]
+.('B2c |
+d(c/ B/)c |
+B2e |
+c(B/ c/)A) |
+.('B2c |
+d(c/ B/)c |
+B2e |
+c(B/ c/)A) |
+.('c2A |
+B2^c |
+d2e/ f/ |
+^c2d) |
+.('fe/ d/f |
+fe/ d/f |
+f2g |
+e3) |
+.('d2e |
+(fg)a |
+(Ad)^c |
+d3) |]

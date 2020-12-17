@@ -1,0 +1,23 @@
+X: 5245
+T: Het was een kind, zo klein een kind, Een kin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 990055899
+%%humdrum-veritas-data 1667145639
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F2ED2C |
+F2GA2).('A |
+c2BA2G |
+(F2G)A2).('A |
+A2GF2A |
+c2BA2).('G |
+F>F F/ F/G2A |
+G3F3) |]

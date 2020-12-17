@@ -1,0 +1,32 @@
+X: 16241
+T: Een kusje Zoetje Lief, Een lonkje harte dief
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2610815575
+%%humdrum-veritas-data 1109878144
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E2 [I:setbarnb 1]|
+A2B2^G3A |
+A4z2B2 |
+c2d2d3f |
+e6).('f2 |
+d2>c2B3A |
+(^G A B c A B c d |
+c d e) f2<d2e |
+e6) |
+.('e2 [I:setbarnb 9]|
+f2(f e)d2d2 |
+(e2>f2 e d c e |
+d e d c B c d B |
+c2>B2 A B c d |
+e2f ef2^g a) |
+^g6e2 |
+(f e) (d e2<)B2A |
+A6) :|]

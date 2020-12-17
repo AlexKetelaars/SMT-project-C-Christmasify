@@ -1,0 +1,27 @@
+X: 4592
+T: Tante Marga zak met krenten Vele wezens zijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3077023362
+%%humdrum-veritas-data 1912724451
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('(D E) D [I:setbarnb 1]|
+G2BA2E |
+F2F) .('(G A) B |
+c2BA2G |
+F2>).('(D2 G) B |
+B2G (E G) B |
+A2E).('F2A |
+G F EE2F |
+D2>).('(D2 E) D |
+G2FE2E |
+A2G).('F2G |
+(A c) B (B A) F |
+G3) |]

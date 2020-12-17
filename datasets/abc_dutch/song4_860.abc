@@ -1,0 +1,23 @@
+X: 3859
+T: Te Raamsdonk leefde een man en vrouw En die  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 815218074
+%%humdrum-veritas-data 3601929818
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('GGB [I:setbarnb 1]|
+d2-d/ d/ddd/ e/ |
+d3).('d/ d/ d/ d/d |
+ee2dBA |
+[M:4/4]G).('BBB |
+[M:4/2]d>_dc2z).('ccc |
+e>_ed2z).('ddd |
+[M:3/2]f2>e2dc |
+B2z) |]

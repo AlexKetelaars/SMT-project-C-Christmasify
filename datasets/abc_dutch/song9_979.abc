@@ -1,0 +1,27 @@
+X: 8978
+T: Moederken, moederken, trekt er uw dochterken [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 4058459042
+%%humdrum-veritas-data 1840544847
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c c c c c c |
+B c d (c B) A |
+G3z2).('G |
+A2FF2A |
+B2GG2G |
+A2FF2A |
+B2GG2z) |
+.('G2G A A A |
+B2Bc2z |
+G G GA2A |
+B B Bc2z) |
+.('d2cB2G |
+A2Bc2z) |]

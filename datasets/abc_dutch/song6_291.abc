@@ -1,0 +1,31 @@
+X: 5290
+T: Hoe aardig hoe aardig komt hoort mij eens aa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 2310490875
+%%humdrum-veritas-data 339659398
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+F D F |
+F D F |
+F G A |
+B2).('c/ c/ |
+c d c |
+B A G |
+F G A |
+B2).('F/ F/ |
+F G A |
+B2F/ F/ |
+F G A |
+B2).('c/ c/ |
+c d c |
+B A G |
+F G A |
+B2) |]

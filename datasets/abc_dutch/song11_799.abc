@@ -1,0 +1,33 @@
+X: 10798
+T: Op eenen Witten Donderdag, Maar tsnachts ont [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 154621094
+%%humdrum-veritas-data 202679555
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('z B G A |
+B B B c |
+B4 |
+z) .('B B c |
+[M:3/4]d2d2(c B) |
+[M:2/4](c B)!fermata!A2) |
+.('z A A B |
+A2A B |
+c B!fermata!A2 |
+z) .('G A B |
+[M:3/4]c2(d c) B A |
+[M:2/4](B A)!fermata!G2 |
+[M:3/4]z) .('d (A B) (c B) |
+[M:2/4]A4- |
+(A G) A B |
+c2(c B) |
+[M:3/4]!fermata!A2z) .('G A B |
+c2(d c) B A |
+[M:2/4](B A)!fermata!G2) |]

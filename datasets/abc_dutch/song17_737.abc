@@ -1,0 +1,28 @@
+X: 16736
+T: De meijsjes hebbe seecker mee haer sinnen en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 386472716
+%%humdrum-veritas-data 1369579591
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('(e f) [I:setbarnb 1]|
+g2>f2g3d |
+e2>d2c3B |
+A4G2).('(e f) |
+g2>f2g3d |
+e2>d2c3e |
+d6) |
+.('d2 [I:setbarnb 7]|
+A2>B2c3d |
+e2>e2a3g |
+f4d3).('f |
+g2>a2b3b |
+e2>g2f3a |
+g6) :|]

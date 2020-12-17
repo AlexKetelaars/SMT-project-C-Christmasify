@@ -1,0 +1,35 @@
+X: 4428
+T: Mijn lieve lekkere Leentje O, moeder wat is dat?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 149577064
+%%humdrum-veritas-data 13057783
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A [I:setbarnb 1]|
+d2d d d d |
+g3!fermata!d3) |
+[M:2/4].('d4 |
+f> e c A |
+G4) |
+.('g2f3/ e/ |
+e dd2) |
+.('B d g B |
+B2A) .('A |
+B BA2) |
+.('G A B c |
+d2g) .('g |
+a g f e |
+e d ^c d |
+e d ^c d |
+B2).('g2 |
+a g f e |
+e d ^c d |
+b a e f |
+g4) |]

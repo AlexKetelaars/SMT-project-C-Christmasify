@@ -1,0 +1,31 @@
+X: 7216
+T: ‘t Is naer reden en behoorte Dat zig ieder v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3311724553
+%%humdrum-veritas-data 3561531138
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('e3/e/ [I:setbarnb 1]|
+dB(d/ c/) (B/ A/) |
+BBe3/e/ |
+dB(d/ c/) (B/ A/) |
+B2).('B3/c/ |
+d>ddd |
+eeA3/B/ |
+ccd{d}c |
+B2).('B3/B/ |
+(e>=f e/ d/ c/ B/ |
+A2)A3/A/ |
+(d>e d/ c/ B/ A/ |
+G)z).('g3/g/ |
+eeBB |
+e2G3/G/ |
+AABB |
+E2) |]

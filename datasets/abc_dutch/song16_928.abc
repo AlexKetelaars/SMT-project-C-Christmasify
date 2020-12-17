@@ -1,0 +1,44 @@
+X: 15927
+T: Mars van de Prins van oranie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 1980143880
+%%humdrum-veritas-data 3139619601
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('B c [I:setbarnb 1]|
+d4d4 |
+d c B AG2g a |
+b2c' ba2d'2 |
+b a b c' b a g f |
+g4d4) |
+.('B2A BG2e2 |
+f2(g a)f2(e d) |
+d6) |
+.('f g [I:setbarnb 9]|
+a4a4 |
+a6b c' |
+b2a g2<f2e |
+^d6).('b2 |
+(b c'b2)(a ba2) |
+g2a gf2b c' |
+b a g a2<f2).('e |
+e6).('B c |
+d2g2d2B c |
+d c B AG2g a |
+b2c' b2<a2g |
+f6).('a2 |
+b2a ga2d2 |
+b2a) .('ga2d2 |
+e f g a2<f2g |
+g6).('a2 |
+b2a ga2d2 |
+b2a ga2d2 |
+e f g a2<f2g |
+g6) |]

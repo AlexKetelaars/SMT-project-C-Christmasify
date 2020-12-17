@@ -1,0 +1,40 @@
+X: 11955
+T: Brande
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 740577546
+%%humdrum-veritas-data 317307862
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A4!mordent!!mordent!d3e |
+^c6a g |
+f2g2e3f |
+d4^c4) |
+.('d ^c d e f e f g |
+a4z _b a g |
+f e f ga2_b2 |
+c'4a2).('g a |
+_b2a2g3f |
+g4a2g f |
+e2f2e3d |
+d4x2) |
+.('f2 [I:setbarnb 13]|
+f2a2g a g f |
+e6).('f2 |
+g f g a_b2(a g) |
+a2d2e2f2 |
+g2f2f3e |
+f4).('!mordent!!mordent!e f e d |
+^c4(d3=c) |
+B6c2 |
+c2A2).('a3g |
+f2>f2 g f g a |
+e f g f2<e2d |
+d4) :|]

@@ -1,0 +1,38 @@
+X: 1452
+T: Popje zou te kermis varen Met haar moeder Trijntje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1529587639
+%%humdrum-veritas-data 4292966688
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/8
+Q: 1/4=120
+K: G clef=treble
+.('d d d g |
+B B B d) |
+.('G G G B |
+d2A2) |
+.('d d g g |
+B B d d) |
+.('G G G B |
+d2A2) |
+.('d d g f |
+e dc2) |
+.('e e a g |
+(f e)d2) |
+.('g d d/ c/ B/ A/ |
+G G G) .('B |
+d d c F |
+A2G3/) .('d/ |
+d d/ d/ g f |
+e d c3/) .('e/ |
+e e/ e/ a g |
+f ed2) |
+.('g d d/ c/ (B/ A/) |
+G G G/ G/) .('B/ B/ |
+d d c F |
+A2G2) |]

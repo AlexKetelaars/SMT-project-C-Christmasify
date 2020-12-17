@@ -1,0 +1,26 @@
+X: 5528
+T: Daer ging een pater langs het land, Daer gin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 448794143
+%%humdrum-veritas-data 931412539
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2dc3 |
+G2>(A2 G) A |
+G2).('Gc2d |
+c3G3 |
+(A G) AG2).('c |
+d2dd2e |
+f2ed3) |
+.('e2c (c B) c |
+d2BG3) |
+.('A2cB2d |
+c3) |]

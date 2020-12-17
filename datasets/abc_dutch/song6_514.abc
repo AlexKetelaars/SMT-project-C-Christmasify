@@ -1,0 +1,55 @@
+X: 5513
+T: Lief klinkt het lied door ‘t vlaemsche land, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3719224623
+%%humdrum-veritas-data 709342082
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+E2Gc2G |
+E2G c z) .('G |
+(E G) c (c d) e |
+d2G G z) .('G |
+E2Gc2G |
+E2Gc2).('G |
+(E G) c (d e) d |
+c2zz2z) |
+.('G2G d c B |
+c3e2z) |
+.('G2>(f2 e) d |
+(c B) A G z) .('G |
+G2G (d c) B |
+c2>e2 z) .('G |
+^F2>F2 E F |
+G3z2).('G |
+E2Gc2G |
+E2Gc2).('G |
+(E G) c (c d) e |
+d2GG2).('G |
+E2Gc2G |
+E2Gc2).('G |
+(E G) c (d e) d |
+c2zz2z) ||
+.('E2zE2z [I:setbarnb 26]|
+E2zE2z |
+E2z (c B) A |
+B3e2z) |
+.('E2zE2z |
+E2zE2z |
+c2z (B c) B |
+A2zz2z) |
+.('G2zG2z |
+G2zG2z |
+G2z (e d) c |
+d3g2z) |
+.('G2zG2z |
+G2zG2z |
+d2z (c B) A |
+G2zz2G) |]

@@ -1,0 +1,16 @@
+X: 660
+T: Danct God den Heer seer goet ghepresen Wiens [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1468712456
+%%humdrum-veritas-data 1822356744
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2G2G2G2(c2>B2A2>)G2(F4E)DE4C4z2).('G2A2c2(Bcdc)(B2AG)A2A2G4).('z2G2G2G2(c2>B2A2>)G2(F4E)DE4C4z2).('G2A2c2(Bcdc)(B2AG)A2A2G4) ]|:
+.('z2G2A2A2G4z2G2F2A2G4z2).('E2FEDEF4E4).('G4(GFE)DC4z2C2D2E2F4D4z2).('G4A2c2(BcdcB2)A2G4z2).('C2(CD)EEFGEA2G4z2).('EE(F2E)DC2E2D2D2C4) |]

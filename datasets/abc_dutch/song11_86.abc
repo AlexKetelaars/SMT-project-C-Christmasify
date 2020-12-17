@@ -1,0 +1,34 @@
+X: 10085
+T: Jesus, te voren zoo lang van ons verwacht, I [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 1282922640
+%%humdrum-veritas-data 2696527145
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F3/ED/ |
+A3/AA/ |
+BB/cc/ |
+d3) |
+.('A>(d c/) B/ |
+A3/AA/ |
+BB/AG/ |
+F3) |
+.('A3/dA/ |
+F3/zA/ |
+AG/EG/ |
+F3/D3/) |
+.('d>(d c/) B/ |
+A3 |
+B3/AG/ |
+F3/-F).('d/ |
+fe/dc/ |
+BA/GF/ |
+(A>-A B/) c/ |
+d3) |]

@@ -1,0 +1,42 @@
+X: 2065
+T: Daar was laatst een meisje loos Van je rabbi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 2025474721
+%%humdrum-veritas-data 364077318
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('B4A2 |
+G4D2 |
+B4A2 |
+G4).('d3/ c/ |
+[M:2/8]B> B B3/ B/ |
+[M:3/8]B6) |
+.('B2 A2 B2 |
+d4B2 |
+A2 G2 A2 |
+B4G2) |
+.('B4A2 |
+G4D2 |
+B4A2 |
+G6) |
+.('B2 A2 B2 |
+d2 e2 d2 |
+(c2 B2) A2 |
+G6) |
+.('d4c2 |
+[M:4/8]B B B B B B) .('B B |
+B2 B2 B2 G3/ A/ |
+B2 d2z4) |
+[M:2/8].('G> A B3/ c/ |
+d> e d3/ c/ |
+B> A B3/ c/ |
+d> e d3/) .('c/ |
+B2 A A |
+G4) |]

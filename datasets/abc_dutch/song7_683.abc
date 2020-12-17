@@ -1,0 +1,38 @@
+X: 6682
+T: Klompertje en zijn wijfje, die zouden eens v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 1716538006
+%%humdrum-veritas-data 2461982386
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G> G GB2A |
+G2>D2 z) .('D |
+B> B BB2B |
+B3z2).('B |
+B2BB2c |
+d2de2).('d |
+c2Ad2d |
+G3z2).('D |
+G2GB2A |
+G3D2z) |
+.('B2B B> B B |
+B3z2).('B |
+B2BB2c |
+d2de2).('d |
+c> B Ad2d |
+G3z2).('D |
+G2GB2A |
+G2DD2).('D |
+B> B BB2B |
+B2>-B2) .('B B |
+B2BB2c |
+d3e2).('d |
+c B Ad2d |
+G3z2) |]

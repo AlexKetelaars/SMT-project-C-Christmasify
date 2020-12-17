@@ -1,0 +1,79 @@
+X: 16991
+T: [Venez reine des dieux]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2561546225
+%%humdrum-veritas-data 910006626
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e2 [I:setbarnb 1]|
+!mordent!!mordent!c6 |
+f2f2f2 |
+e4a2 |
+!mordent!!mordent!^g4g2 |
+a2e2e2 |
+c2c2d2 |
+c2!mordent!!mordent!B4 |
+A2).('e f g e |
+f2!mordent!!mordent!f3e |
+d2g a g f |
+e2c2c2 |
+d4).('z d |
+e4f2 |
+d2d2e2 |
+^c2c2d2 |
+d2!mordent!!mordent!^c4 |
+d2d e d c |
+!mordent!!mordent!B4).('z B |
+c2c2c2 |
+d2d2e2 |
+e2!mordent!!mordent!d4) |
+.('c B c d e f |
+g6 |
+g2f e d c |
+B4c B/ c/ |
+d c d e f g |
+e> f!mordent!!mordent!d3c |
+c6) |
+.('d2g2g2 |
+g4z f |
+f4z e |
+e2d2d2 |
+d2c2c2 |
+!mordent!!mordent!c4B2 |
+c2).('e2e2 |
+^f2g3g |
+g2!mordent!!mordent!^f4 |
+g2).('d c d e |
+f2!mordent!!mordent!f3e |
+e2e d e f |
+g2g3g |
+!mordent!!mordent!c2>B2 c d) |
+.('e2e2a2 |
+!mordent!!mordent!^f4f2 |
+g2d3d |
+g4).('z g |
+c2f3f |
+f2f2e2 |
+e2!mordent!!mordent!d4) |
+.('c B c d e f |
+g6- |
+g2f e d c |
+!mordent!!mordent!B4c B/ c/ |
+d c d e f g |
+e f2<!mordent!!mordent!d2c |
+c4).('z g |
+g6- |
+g2f2f2 |
+f4z e |
+e4z d |
+d2c2c2 |
+d2d2e2 |
+e2!mordent!!mordent!d4 |
+c6) |]

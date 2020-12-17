@@ -1,0 +1,32 @@
+X: 14948
+T: No95
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 3600318640
+%%humdrum-veritas-data 2524844144
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('d2 [I:setbarnb 1]|
+d2c B A c B c |
+d A F AD2).('f g |
+a2g f e f g a |
+!trill!!trill!f2>e2d2).('f2 |
+e d c d e f g e |
+d c B c d f e d |
+c2B A ^G A B G |
+A6) |
+.('e2 [I:setbarnb 9]|
+e2>d2 c A B c |
+d2d ec2f2 |
+B d c d e d c B |
+^A2F2F2).('f2 |
+f g e f d e f d |
+g2f ge2a g |
+f a g e f d e c |
+d A F AD2) :|]

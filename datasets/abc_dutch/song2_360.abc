@@ -1,0 +1,28 @@
+X: 1359
+T: Komde gij van St. Paulus te voet ja mijnheer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 2350132499
+%%humdrum-veritas-data 3673791483
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G G GG2A |
+B B AG3) |
+.('F3-F2G |
+A3z2z) |
+.('A A AA2B |
+c2BA3) |
+.('G3-G2A |
+B3z2z) |
+.('d2dd2B |
+c2BA3) |
+.('d d dd2B |
+c2BA3) |
+.('G3-G2A |
+B3z2z) |]

@@ -1,0 +1,28 @@
+X: 3179
+T: Komt vrienden luistert naar mijn lied [2x] w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 1690612068
+%%humdrum-veritas-data 255870711
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B2c2B A |
+[M:2/4]G) .('D G B |
+[M:3/4]d2e2d c |
+[M:2/4]B4) |
+.('B B/ B/ B d/ d/ |
+d (c/ B/)c2) |
+.('A A/ A/ A A |
+G B/ B/ d/ c/ B/ c/ |
+d ed2) |
+.('B B/ B/ B d/ d/ |
+d (c/ B/)c2) |
+.('A A/ A/ d d |
+G3) |]

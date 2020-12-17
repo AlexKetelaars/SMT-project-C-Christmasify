@@ -1,0 +1,48 @@
+X: 13790
+T: Divert 16
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 2447826748
+%%humdrum-veritas-data 4150284742
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('E2 [I:setbarnb 1]|
+A2e4d2 |
+c2>d2e2a2 |
+(g f e f) (e d c d) |
+c BA2z4 |
+z2A2G2E2 |
+A2>B2c2^d2 |
+e2G2A2B2 |
+E4).('(B c) !wedge!d !wedge!d |
+c4a f e ^d |
+{d2}=e4(B c) !wedge!d !wedge!d |
+c3B/ A/G2F2 |
+E4z2) |
+.('E2 [I:setbarnb 13]|
+(e4c2)E2 |
+(d4B2)E2 |
+c2e2a e d c |
+!trill!!trill!c2B2z4 |
+z2).('!wedge!E2(e2=c2) |
+z2!wedge!E2(d2B2) |
+z2A B =c c B A |
+A2G FE2).('e c |
+A2A2A2^A2 |
+B2>c2d2f2 |
+(e c) (f d) (c A) (B G) |
+A4z4 |
+z2).('A2G2E2 |
+A2>B2c2e2 |
+(f a) (B d) c e G B |
+A4).('(E F) !wedge!=G !wedge!G |
+F4d B A G |
+A4(E F) !wedge!=G !wedge!G |
+F f e dc2!trill!!trill!B2 |
+A4z2) :|]

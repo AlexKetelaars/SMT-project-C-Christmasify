@@ -1,0 +1,24 @@
+X: 1978
+T: Luister eens hoe men zal zingen Vreemde dingen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 2408482367
+%%humdrum-veritas-data 482861916
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('A>Ac>Acc |
+B2G2).('BA |
+(GF)G2).('Bc |
+d2G2BA |
+G4).('dd |
+G2B2dd |
+c2A2).('BA |
+(GF)G2).('Bc |
+d2G2BA |
+G4) |]

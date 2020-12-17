@@ -1,0 +1,33 @@
+X: 1827
+T: Hoort vrienden hoort een lied wat ik duid'li [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 4048557274
+%%humdrum-veritas-data 1513784148
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('ddd [I:setbarnb 1]|
+[M:6/4]B>BB2z).('A/ A/ |
+[M:4/4]GBd3/e/ |
+[M:6/4]dAz).('A/ A/AB |
+c>cc2z).('c |
+[M:4/4]ced3/c/ |
+cBz).('d |
+ddB3/B/ |
+B2A).('B |
+cdee |
+d2z).('d |
+e>eed |
+(GB)d3/).('e/ |
+dded |
+B3).('d |
+e>eed |
+(GB)d3/).('e/ |
+dAcB |
+[M:6/4]G2z) |]

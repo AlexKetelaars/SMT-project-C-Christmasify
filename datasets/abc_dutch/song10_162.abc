@@ -1,0 +1,23 @@
+X: 9161
+T: Christe, du biste licht ende dach; Voor di s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 2560119512
+%%humdrum-veritas-data 185980260
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('FGB [I:setbarnb 1]|
+AGFE/ E/ |
+F).('FFG |
+[M:3/2]A2Gcc=B |
+c2z).('AAB |
+[M:4/4]cBAB |
+c).('AAB |
+AGFE |
+F3) |]

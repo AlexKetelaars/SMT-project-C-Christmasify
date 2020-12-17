@@ -1,0 +1,38 @@
+X: 17379
+T: La Calontini
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 551633123
+%%humdrum-veritas-data 2762962430
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2G2G2A B |
+c4G4 |
+c2e2d2B2 |
+c B c dc2c2) |
+.('G2G2G2A B |
+c4G4 |
+c2e2d2c B |
+c8) |
+.('g2g2g2f e |
+f4d4 |
+f2f2f2e d |
+e4c4) |
+.('G2G2G2A B |
+c4G4 |
+c2e2d2B2 |
+c B c dc2c2) |
+.('G2G2G2A B |
+c4G4 |
+c2e2d2B2 |
+c8) |
+.('c B c d c B c d |
+c B c d c B c d |
+c B c d c B c d |
+c B c dc2c2) |]

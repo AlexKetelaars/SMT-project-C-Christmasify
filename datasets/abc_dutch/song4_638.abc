@@ -1,0 +1,27 @@
+X: 3637
+T: Toen ik jong was en ongetrouwd was welk een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 3712007862
+%%humdrum-veritas-data 1922086072
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B A [I:setbarnb 1]|
+G2G> G G A |
+B2d2).('e d |
+A2A2G A |
+B2>).('d2 d d |
+e ee2c A |
+e e d>) .('c c B |
+A2d2e d |
+B2>).('d2 d d |
+e ee2c A |
+e e d>) .('c c B |
+A2d2e d |
+G4) |]

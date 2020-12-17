@@ -1,0 +1,28 @@
+X: 5462
+T: Wie gezont en fris wil leven, Hoeft het edel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 3556569360
+%%humdrum-veritas-data 1887806943
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ge [I:setbarnb 1]|
+fdec |
+BB).('ge |
+(a/ g/) (^f/ g<)gf/ |
+g2).('ge |
+fdec |
+BB).('ge |
+(a/ g/) (^f/ g<)gf/ |
+g2) |
+.('^ff [I:setbarnb 9]|
+^f2ee |
+A2).('ge |
+ABc3/B/ |
+c2) :|]

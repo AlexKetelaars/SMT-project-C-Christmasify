@@ -1,0 +1,22 @@
+X: 1307
+T: Kom laten wij een batterij opslaan Van zesen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 3560155421
+%%humdrum-veritas-data 625074527
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B A(G2B) B |
+A d c AG2).('A2 |
+(B d)d2e d c B |
+(B A e d)A2z) .('d |
+d> d e d c B c d |
+e> f (g f/) e/d2z) .('g |
+f f e f g g B e |
+d> d (c B/) A/G2z) |]

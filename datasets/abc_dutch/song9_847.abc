@@ -1,0 +1,30 @@
+X: 8846
+T: Ik voer laatst over de zee, Ga je mee, Leo,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 48828348
+%%humdrum-veritas-data 170686881
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G,/ [I:setbarnb 1]|
+C2>D2 (E D) E F |
+G2G> GG4) |
+.('A2G2E2C2 |
+G> G G> GG2).('F D |
+C2>D2 (E D) E F |
+G2G> GG2).('(F E) |
+F2A2G2G3/) .('G,/ |
+C2>D2 (E D) E F |
+G2G> GG4) |
+.('A2G2E2C2 |
+G> G G> GG2).('(F D) |
+C2>D2 (E D) (E F) |
+G2G2G2).('F E |
+F2A2G2G2 |
+C6z3/) |]

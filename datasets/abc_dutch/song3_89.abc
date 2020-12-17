@@ -1,0 +1,39 @@
+X: 2088
+T: Hoort vrienden naar mijn lied In Sloten is h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 1396996891
+%%humdrum-veritas-data 2790959119
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+g2Be2d |
+c3-c2).('f |
+a2dd2c |
+B3-B2).('d |
+g2ga2g |
+e3-e2).('e |
+d2gf2a |
+g3-g2).('d |
+g g gg2e |
+f> f ff2-f/) .('f/ |
+e e e g f e |
+e d> ^cd2).('d |
+g2Be2d |
+c3-c2).('f/ f/ |
+a2ae2d |
+B3-B2).('d |
+g2ga2g |
+e3).('e2_e |
+d2gf2a |
+g3-g2).('d |
+g2ga2g |
+e3).('e2_e |
+d2gf2a |
+g3-g2) |]

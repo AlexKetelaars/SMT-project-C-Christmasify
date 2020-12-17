@@ -1,0 +1,44 @@
+X: 16629
+T: Myn ziel verheft
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 3012499854
+%%humdrum-veritas-data 1789123173
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c2c2f2 |
+e2>d2c2 |
+(f e) (d c) (B A) |
+B2>A2A2) |
+.('A2A3B |
+G2>c2d2 |
+(g f/ e/)d3c |
+c4).('f2 |
+c d c d c3/ B/ |
+A2>B2c2 |
+(B A2<)G2F |
+F6) |
+.('G2G2A2 |
+B4A2 |
+A6 |
+c2d2e2 |
+d6 |
+c6) |
+.('f e f c d _e |
+c2>B2A2 |
+c2(d c) (B A) |
+G2>c2 (d c) |
+(B A)A4) |
+.('F2>c2 d e |
+f g2<e2f |
+f2>c2 (d c) |
+(B A2<)G2F |
+F2>c2 (d c) |
+(B A2<)G2F |
+F6) |]

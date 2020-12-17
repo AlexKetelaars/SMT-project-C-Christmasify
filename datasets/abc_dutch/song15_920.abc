@@ -1,0 +1,28 @@
+X: 14919
+T: Alles ist mir einerleij Schmerz und Freude L [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 3719969984
+%%humdrum-veritas-data 296302656
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B G A D |
+B cA2 |
+d B F G |
+e G F D) |
+.('d2(d c) |
+(B d) (g f) |
+(e c) (F G) |
+A4) |
+.('(D G) G F |
+(E c) c B |
+(A a) a g |
+(f d) (g c)) |
+.('B2(c A) |
+G4) :|]

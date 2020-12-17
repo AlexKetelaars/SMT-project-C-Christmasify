@@ -1,0 +1,33 @@
+X: 9244
+T: Jan Plompaart en zijn wuveke, Ze stongen e k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 568472265
+%%humdrum-veritas-data 3200455159
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F [I:setbarnb 1]|
+A2AA2G |
+G2FF2).('F |
+A A AB2B |
+c2>-c2 z) .('F |
+A2AA2G |
+G2FF2).('F |
+A A AB2B |
+c2z).('c3 |
+c2AB2c |
+d2dc2z) |
+.('c2AA2G |
+G2>-G2 z) .('A |
+B2AB2c |
+d3d2).('d |
+c c cB2G |
+F2z).('c3 |
+A A AG2G |
+F3-F2) |]

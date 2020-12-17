@@ -1,0 +1,35 @@
+X: 10826
+T: ‘t En es niet lang geleden, Dat een vurige maagd
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1975094515
+%%humdrum-veritas-data 1706505975
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('(c B) [I:setbarnb 1]|
+A2>A2 (G A)B2 |
+(c B)A2z2).('G2 |
+A2c2=B2d2 |
+c2-c zz2).('(c B) |
+A2>B2A2(G A) |
+(c B)A2z2).('A2 |
+G2c2=B2d2 |
+c2-!fermata!c z z) .('A A B |
+(c f) e d2<c2B |
+A4-A z) .('G A |
+c> B A BA2B2 |
+A4-A z) .('A B |
+A2!fermata!G2(A B) (c d) |
+c2>z2).('c2c2 |
+d c B Ac2B2 |
+A4-A z) .('A B |
+A2!fermata!G2(A B) (c d) |
+c2>z2).('c2c2 |
+d c B AB2G2 |
+F4z4) |]

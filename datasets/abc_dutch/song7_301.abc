@@ -1,0 +1,72 @@
+X: 6300
+T: Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 3855787205
+%%humdrum-veritas-data 2721580163
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c c/ c/ c c/ c/ |
+c AA2 |
+A A/ A/ A A/ A/ |
+A FF2) |
+.('G cc2 |
+A cc2 |
+B f e d |
+c c/ c/ c z) :|]
+.('B c d e |
+f f f f |
+f z f z |
+f z f z |
+f> f e3/ d/ |
+c2A z) |
+.('c G/ G/ G c |
+c A/ A/ A c |
+c G/ G/ G c |
+A) .('F A c |
+f z f z |
+f z f z |
+(3c e d (3c B A |
+c2A z) |
+.('c G/ G/ G c |
+c A/ A/ A c |
+e B/ B/ B e |
+c c/ c/ c c |
+c z g z |
+f z e z |
+f4- |
+f z) .('G3/ A/ |
+B z e z |
+d z c z |
+c4- |
+c z) .('A3/ B/ |
+c z e z |
+d z c z |
+c4- |
+c z) .('e3/ d/ |
+d2c3/ B/ |
+c2B3/ G/ |
+F f/ f/ f f |
+f2z2) |
+.('F2B3/ c/ [I:setbarnb 44]|
+d2d2 |
+d3c |
+(B A) B d |
+f2c3/ c/ |
+c2c2 |
+d3B |
+F2z2) |
+.('F2B3/ c/ |
+d2d2 |
+g3d |
+(f e) d c |
+B2c/ B/ A/ B/ |
+d3c |
+(B4 |
+c2)z2) ||

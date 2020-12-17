@@ -1,0 +1,60 @@
+X: 17016
+T: Prelud des musse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3148945339
+%%humdrum-veritas-data 1161101007
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('b2d3_e |
+f2!mordent!!mordent!^f3f |
+g2!mordent!!mordent!g3a |
+!mordent!!mordent!^f4).('a3/ a/ |
+b> g!mordent!!mordent!g3f/ g/ |
+a> f!mordent!!mordent!f3e/ f/ |
+g> e!mordent!!mordent!e3d/ e/ |
+f> g!mordent!!mordent!e3d |
+d4).('z d |
+!mordent!!mordent!=B2B3d |
+_e2e3c |
+A2!mordent!!mordent!A3c |
+d2f3f |
+f2!mordent!!mordent!f3f |
+g2_e3e |
+_e2d3e |
+c2>).('c2 d _e |
+d2b3a |
+g2f3g |
+e2g3g |
+a> b!mordent!!mordent!g3f |
+f2).('a3a |
+d2d3e |
+!mordent!!mordent!^c2e3e |
+f> ge3a |
+!mordent!!mordent!^f2a3a |
+b2!mordent!!mordent!a3g |
+g2).('d3e |
+f> d!mordent!!mordent!d3c/ d/ |
+_e> c!mordent!!mordent!c3B/ c/ |
+d> B!mordent!!mordent!B3A/ B/ |
+c> A!mordent!!mordent!A3G/ A/ |
+B> c!mordent!!mordent!A3G |
+G2).('b3a |
+g2f2g d |
+_e2c'3b |
+a2a3b |
+!mordent!!mordent!^f2d3A |
+B> c!mordent!!mordent!A3G |
+G2).('b3a |
+g2f2g d |
+_e2c'3b |
+a2a3b |
+!mordent!!mordent!^f2d3A |
+B> c!mordent!!mordent!A3G |
+G6) |]

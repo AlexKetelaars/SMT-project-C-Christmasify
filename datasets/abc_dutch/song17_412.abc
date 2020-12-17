@@ -1,0 +1,38 @@
+X: 16411
+T: Cupido kleen wie geeft u sulcken macht dat g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 4114959740
+%%humdrum-veritas-data 4285244983
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G2GA |
+B2A2 |
+GdcB |
+A4) |
+.('G2GA |
+B2A2 |
+GdcB |
+A4) |
+.('d2dc |
+d3c |
+dfed |
+c4) |
+.('f2fe |
+d3(c/ B/) |
+AGG^F |
+G4) |
+.('d2dc |
+d3c |
+dfed |
+c4) |
+.('f2fe |
+(d/ c/ d/ e/d)c/ B/ |
+AGG^F |
+G4) |]

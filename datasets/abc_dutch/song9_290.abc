@@ -1,0 +1,29 @@
+X: 8289
+T: Te Hasselt langs de baan, weet ik een pannen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 3249394211
+%%humdrum-veritas-data 980435482
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E2 [I:setbarnb 1]|
+A2>E2 (A c) (B d) |
+c6).('c2 |
+e2>c2 B A B c |
+A6).('E2 |
+A2>E2 (A c) B d |
+c6).('c2 |
+e2>c2 (B A) (B c) |
+A4-A2z) .('E |
+E E C E E E C E |
+F2>D2F3).('F |
+F F D F F F D F |
+G2>E2G3).('G |
+A B A G F E E) .('E |
+F F G GA2) |]

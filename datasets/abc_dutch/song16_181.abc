@@ -1,0 +1,22 @@
+X: 15180
+T: Ach, was mijn liefje maar hier
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1502990391
+%%humdrum-veritas-data 400418072
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A3G2A |
+c B GE3 |
+B3A2G |
+G F dc3) |
+.('F3F2G |
+A F DC2D |
+E> D C C D E |
+F3z2z) |]

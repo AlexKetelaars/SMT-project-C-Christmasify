@@ -1,0 +1,50 @@
+X: 14711
+T: De Franschen, dat beken ik geeren, Zijn ‘t a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2946061720
+%%humdrum-veritas-data 1437274238
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: E clef=treble
+.('E F G A |
+B2e2 |
+c2A2 |
+c BB2) |
+.('B A F A |
+G2B2 |
+F2B2 |
+G4) |
+.('E F G A |
+B2e2 |
+c3A |
+c BB2) |
+.('B A F A |
+G2E2 |
+F2B2 |
+E4) |
+.('D E F G |
+A2F2 |
+G2E2 |
+F DB,2) |
+.('D E F G |
+A2F2 |
+G2E2 |
+B4) |
+.('E F G A |
+B2e2 |
+c2A c |
+c BB2) |
+.('B A F A |
+G2B2 |
+F2B2 |
+G4) |
+.('B A F A |
+G2e2 |
+F2B2 |
+E4) |]

@@ -1,0 +1,27 @@
+X: 15291
+T: Het Landmeisje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2183515361
+%%humdrum-veritas-data 3337326202
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d2d D> E F |
+E> F GF2F |
+E2Ac2B |
+A4z) .('A |
+A2Bc2A |
+d2AA2A |
+G2FG2E |
+F2BA2).('A |
+B2Bc2c |
+d4z c |
+B2AG2E |
+D4z) |]

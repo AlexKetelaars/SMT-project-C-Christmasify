@@ -1,0 +1,34 @@
+X: 4595
+T: Nieuwejaorke douwen, de katjes zijn verkouen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3133975184
+%%humdrum-veritas-data 2428638363
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('A A G G |
+A2G G |
+A A G G |
+A2G3/) .('G/ |
+A A G G |
+A2G G |
+A A G G |
+A2G) .('G |
+A A (3A A A |
+B B B B/ B/ |
+A A A A |
+G GG2) |
+[M:6/8].('A2AG2G |
+A3G2G |
+A2AG2G |
+A3G3) |
+.('A2>A2 A A |
+B B BB2B |
+A2AA2A |
+G2GG3) |]

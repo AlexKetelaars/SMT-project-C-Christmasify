@@ -1,0 +1,31 @@
+X: 2772
+T: Een maatschappij is uitgevonden De boerensta [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 1453909536
+%%humdrum-veritas-data 2146679146
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D2GG2BB2d |
+(d2c2<)A2-A2).('d |
+d2c2<B2-B2A |
+(G B) A2<G2-G2).('D |
+D2GG2BB2d |
+(d2c2<)A2-A2).('d |
+d2c2<B2-B2A/ A/ |
+G B A2<G2-G2).('G |
+G> F G2<e2-e2).('f |
+g> f e2<d2-d2).('d |
+d c B(A2B) c c e |
+d2c2<B2-B2).('G |
+G> F G2<e2-e2).('f |
+g> f e2<d2-d2).('d |
+d c B(A2B) c c c |
+B2A2<G2-G2) |]

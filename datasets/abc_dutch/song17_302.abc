@@ -1,0 +1,27 @@
+X: 16301
+T: O rampspoedt al te streng en wreed, Ach! Dor [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3394516025
+%%humdrum-veritas-data 3818809091
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+B2 B2 B A G F (E ^D E2) z2) .('e2 |
+F2> c2 B A G F (G/ F/ E) E2 z) .('e ^c B |
+{B} ^A2> g2 {g} f2> A2 {A}B4z2) .('d2 |
+(d2 c) B c e {d/} c {B/} c !trill!!trill!c2 B2 z) .('B B B |
+e2> c2 !trill!!trill!^A2> B2B4z) |
+.('B B =A [I:setbarnb 6]|
+{A} ^G2> =f2 {f} e2> d2 (c/ B/ A) A2 z) .('A A =G |
+{G} F2> e2 {e} d2> c2 (B/ A/ G) G2 z2) .('(B e) |
+(e2 ^d) f A c B A {A}G4z) .('B G E |
+c2> e2 (e2 d) c !trill!!trill!c2 B2 z) .('B B B |
+(B2 A) c (c2 B) A (G/ F/ E) E2 z) .('e ^A B |
+(A2 G) F2< {E F} !trill!!trill!F2 EE6) :|]

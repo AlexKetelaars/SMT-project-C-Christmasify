@@ -1,0 +1,28 @@
+X: 3700
+T: Mijn zuster had zeven vrijers Zeven vrijers  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 326251213
+%%humdrum-veritas-data 3463888990
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G G G B |
+d2>d2) .('c B |
+A2cB2A |
+G2).('F E> E D/ D/ |
+G6) |
+.('d3d3 |
+d2B c> c d/ d/ |
+e2).('cc2B |
+c3-c2).('e |
+e2e e e e |
+d2>d2) .('c B |
+A2cB2A |
+G3-G2) |]

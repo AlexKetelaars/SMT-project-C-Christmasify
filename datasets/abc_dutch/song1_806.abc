@@ -1,0 +1,27 @@
+X: 806
+T: Daer sou een meysje gaen halen wyn het was ‘ [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2291689284
+%%humdrum-veritas-data 1745487954
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G [I:setbarnb 1]|
+GG(3F>F G |
+(3(B2A/ G/A)A |
+G2z).('G/ G/ |
+(3B>B cdd |
+[M:3/2](d/ e/ f/ e/dc/ B/cd) |
+[M:2/2]B2z).('F |
+(3:2:4B2cd2c |
+(3(B2A/ G<(3A)A/ A |
+G2z).('F/ F/ |
+(3:2:6B>B cd>d c |
+(3(B2A/ G/A2) |
+G4) |]

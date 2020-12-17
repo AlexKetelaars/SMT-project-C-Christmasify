@@ -1,0 +1,39 @@
+X: 2633
+T: De boerenknechten zijn zo fijn Ze weten de m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 3861077658
+%%humdrum-veritas-data 585416314
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+D2FG2B |
+d2dd2).('B |
+A A A c B A |
+A3G2).('D |
+D2FG2B |
+d2dd2).('B |
+A2c B B A |
+G6) |
+.('B2BB2B |
+B2cB2B) |
+.('B2dB2A |
+G2AB2).('B |
+B2BB2B |
+B2cB2B) |
+.('d2dB2A |
+G2FE2).('D |
+D2DD2D |
+E3D2).('A |
+A2A A A A |
+A3-A2).('A |
+c2cB2A |
+A3G2).('G |
+A2cB2A |
+G3-G2) |]

@@ -1,0 +1,27 @@
+X: 2254
+T: De trouw brengt veel genuchten Als zo een de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 815669311
+%%humdrum-veritas-data 1114466262
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+(d ^c) de2d |
+BG2-G2).('d |
+(d ^c) de2d |
+B3-B2).('d3// d// |
+(d e) fg2f |
+fe2-e2).('A |
+(A B) Af2e |
+d3-d2).('d3// d// |
+(d e) fg2f |
+fe2-e2).('A |
+(A B) Af2e |
+d3-d2) |]

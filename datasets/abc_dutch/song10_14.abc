@@ -1,0 +1,31 @@
+X: 9013
+T: Er zou eens een magetje vroeg opstaan, Om ha [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 1769615062
+%%humdrum-veritas-data 1426840333
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('d [I:setbarnb 1]|
+c2cB |
+d2(c/ B/)A |
+G2(G3/F/) |
+E3).('d |
+cBcd |
+(e2d)c |
+B2A2 |
+G3).('(G/ d/) |
+(c>d)e2 |
+d2(c/ B/)A |
+G2-(G3/F/) |
+E3).('d |
+(cB)cd |
+e2(dc) |
+(d2Ac) |
+G3) |]

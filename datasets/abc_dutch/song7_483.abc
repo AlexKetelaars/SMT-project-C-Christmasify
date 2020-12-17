@@ -1,0 +1,63 @@
+X: 6482
+T: No 19
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 2700422252
+%%humdrum-veritas-data 2758457982
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('A [I:setbarnb 1]|
+dc/df/ |
+a3/b3/ |
+(e3/a3/) |
+d3/z).('f/ |
+bf/bf/ |
+b3/d'3/ |
+c'b/fg/ |
+az/).('c'3/ |
+ee/fg/ |
+a>a z/) .('A/ |
+dc/df/ |
+a3/c'3/ |
+(e3/a3/) |
+dz/z).('f/ |
+bf/bf/ |
+b3/d'3/ |
+c'b/fg/ |
+az/).('c'3/ |
+ee/fg/ |
+a>-a z/) .('d'/ |
+gf/ed/ |
+ef/gd'/ |
+gf/ed/ |
+ef/g).('A/ |
+de/fg/ |
+a3/b3/ |
+(c'>c' g/) a/ |
+f>-f z/) .('a/ |
+aA/AA// a// |
+a/ z/ a/ag/ |
+ag/ag/ |
+a3/-a3/) ||
+.('af/dA/ [I:setbarnb 34]|
+B3/A3/) |
+.('af/dA/ |
+c3/B3/) |
+.('bg/ed/ |
+cc'/c'3/ |
+c/bbc/ |
+daa) |
+.('af/dA/ |
+B3/A3/) |
+.('af/dA/ |
+c3/B3/) |
+.('bg/ed/ |
+cc'/c'3/ |
+ba/bc'/ |
+b3/b3/) |]

@@ -1,0 +1,39 @@
+X: 409
+T: More Palatino
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 109897816
+%%humdrum-veritas-data 3173734424
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+c2c2c2d2 |
+e4e2e f |
+g2g2f2d2 |
+e6).('G2 |
+c2B c d B c d |
+e G A B c d e f |
+g2).('e gf2d f |
+e G c d2<e2).('e |
+e2e2d2e2 |
+c4B2G2 |
+c2>d2c2B2 |
+A4A2).('B c |
+d2d2d2e2 |
+d c d ed2e f |
+g2f e d c d e |
+c6).('e2 |
+e g e c d G e d |
+c A d c B G A B |
+c G A B c d B c |
+A) .('D F G A B c A |
+d G B cd2e c |
+d G B c d d e f |
+g) .('c f e d G A B |
+c C E Gc2) |]

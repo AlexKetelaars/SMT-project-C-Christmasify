@@ -1,0 +1,27 @@
+X: 6664
+T: Een ider nasie heef sijn land, Ons woon op A [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 2407783633
+%%humdrum-veritas-data 3519548448
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+A>Bcc |
+ABc3/).('c/ |
+BAd3/c/ |
+BAGz/) .('G/ |
+c>BAA |
+d>cB).('c |
+BAG(e/ c/) |
+G>FEz) |
+.('GA/ B/cc |
+def3/).('d/ |
+ecG(c/ d/) |
+e>dc) |]

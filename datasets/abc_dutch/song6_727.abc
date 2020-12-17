@@ -1,0 +1,49 @@
+X: 5726
+T: 30
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:21
+%%humdrum-veritas 2180296722
+%%humdrum-veritas-data 92824525
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+(3.('A A A [I:setbarnb 1]|
+d2d2e2e2 |
+a2>g2 .f .d .f .d |
+B2g4).('e3/ c/ |
+d2d> dd2d3/ e/ |
+f2f2f2(g3/ f/) |
+(f e)e2z2).('e3/ f/ |
+g2g2g2(a3/ g/) |
+f4z2a3/ a/ |
+a2(f> d)a2(f3/ d/) |
+A4z) .('A A A |
+c2>e2g3e |
+{f/} e dd2=c4 |
+{d =c}B2^c> dd2c3/ d/ |
+e4z2).('e2 |
+=f2>f2 f> f (g3/ f/) |
+e4z2=f3/ e/ |
+d2d2d2!wedge!e3/ !wedge!d/ |
+{e/} d cc2z2).('a2 |
+a4-a !wedge!f !wedge!d !wedge!f |
+e2A> AA2).('a2 |
+a4-a !wedge!f !wedge!d !wedge!f |
+e2a> aa2).('A2 |
+d2d> dd2A2 |
+{A/}f2f> ff2z2 |
+g4a2b2 |
+e6b2 |
+a4a f g e |
+d2d> dd2).('A2 |
+d2d> dd2A2 |
+f2f> ff2z2 |
+g4a> a b3/ b/ |
+e6g3/ b/ |
+b2(a> f) (a> g) (f3/ e/) |
+d2d> dd2) |]

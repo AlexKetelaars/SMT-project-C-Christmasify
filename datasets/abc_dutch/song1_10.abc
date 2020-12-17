@@ -1,0 +1,31 @@
+X: 10
+T: Dus aenving ick vast met vreuchden, En (gely [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:28
+%%humdrum-veritas 530741632
+%%humdrum-veritas-data 1774371935
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G^F [I:setbarnb 1]|
+GABc |
+A2G2) |
+.('BdcB/ A/ |
+B2).('G^F |
+GABc |
+A2G2) |
+.('BdcB/ A/ |
+B2).('B2 |
+BdcB |
+A2A).('G |
+FED^C |
+D3).('G |
+^FGGF |
+G2G).('B |
+ADE2 |
+D2G2) |]

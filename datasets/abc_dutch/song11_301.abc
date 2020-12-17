@@ -1,0 +1,44 @@
+X: 10300
+T: Sonata] 60
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:04
+%%humdrum-veritas 2401892122
+%%humdrum-veritas-data 2724437119
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('g d b a g ^f |
+g d b a g ^f |
+g e d c B A |
+!mordent!!mordent!B2A BG2) |
+.('d b a b d b |
+d a g a d a |
+^c g f g A g |
+f =e d e f g |
+a2g f =e d |
+!mordent!!mordent!^c2=B cA2) |
+.('d A f =e d ^c |
+d A f =e d ^c |
+d b a d =e ^c |
+d4x2) |
+.('d e f b a b |
+c d e c' b c' |
+(3d c B (3b a g (3f e d |
+!mordent!!mordent!d2c Bc2) |
+.('F A c e a c' |
+F A c e a c' |
+d f b d c a |
+!mordent!!mordent!B2>).('A2 B c |
+d2g d b d |
+c2^f g a c |
+B d c B A G |
+!mordent!!mordent!^F2=E FD2) |
+.('g d b a g ^f |
+g d b a g ^f |
+g e d c B A |
+G6) :|]

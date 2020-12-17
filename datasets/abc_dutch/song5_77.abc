@@ -1,0 +1,27 @@
+X: 4076
+T: Er was een meisje jong van jaren Kwam bij ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 1829251238
+%%humdrum-veritas-data 3723395188
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('BB2A [I:setbarnb 1]|
+G2FG2e |
+[M:9/8]e3d2>).('d2 e f |
+(g3e2)ea2g |
+(f2e2<)d2).('d e f |
+[M:6/8]g2a g f g |
+e3).('f2e |
+(d e) f (e d) ^c |
+d2>).('d2 e f |
+[M:6/8]g2a g f g |
+e3).('f2e |
+(d e) f (e d) ^c |
+d3) |]

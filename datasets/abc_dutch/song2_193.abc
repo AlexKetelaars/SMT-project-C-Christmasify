@@ -1,0 +1,28 @@
+X: 1192
+T: Vrienden hoort mij aan Blijft een poosje bij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 3235257943
+%%humdrum-veritas-data 1689703601
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('BA/ [I:setbarnb 1]|
+Bc<ded/ |
+[M:6/8]BG/ (G/ F/) G/ |
+A3/).('Bc/ |
+[M:9/8]de<ded/ |
+[M:6/8]BG/ (G/ F/) G/ |
+A3/).('Bc/ |
+[M:9/8]de<ded/ |
+cB<c).('dc/ |
+BA<Bdd/ |
+BG/ (G/ F/) G/A3/) |
+.('G3/G3/AA/ |
+dc/BA/ B/ c/ d/ |
+B3/A3/G3/) |]

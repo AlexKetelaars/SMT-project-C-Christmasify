@@ -1,0 +1,43 @@
+X: 5516
+T: Zy zullen hem niet temmen, Den fieren vlaems [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2378903635
+%%humdrum-veritas-data 1625355370
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F// [I:setbarnb 1]|
+F>>FB7//d// |
+c2f7//f// |
+d7//(e/8 d/8)cB |
+c2zz3//) .('F// |
+F>>FB7//d// |
+c2f7//A// |
+d>>cB7//G// |
+F2zz3//) .('F// |
+A>>Bc7//f// |
+_d2Bz3// B// |
+B>>B_G7//G// |
+F3z3//) .('F// |
+A>>Bc7//f// |
+_d2Bz3// B// |
+=e>>ee7//e// |
+!fermata!f2z).('F |
+e>>dcg |
+(f>>e)dF |
+e>>dcg |
+f3).('d |
+d>>def |
+g2gg |
+f>>ff7//e// |
+d3).('d |
+d>>def |
+!fermata!g2g/ z/g |
+f>>ff7//A// |
+B3F) |]

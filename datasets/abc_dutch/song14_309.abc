@@ -1,0 +1,41 @@
+X: 13308
+T: La Bergerette
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 478511034
+%%humdrum-veritas-data 1716199231
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2BB3 |
+A G A G A B |
+c2Ac2A |
+F E FG2D) |
+.('G2BB3 |
+A G A G A B |
+c2Ac2A |
+F E FG3) ]|:
+.('G2Bd2B |
+c2AF2D |
+G2Bd2B |
+c> B c A B ^c |
+d2ff3) |
+.('e> d e d e f |
+g2eg2e |
+^c> B cd2A |
+d2ff3) |
+.('e> d e d e f |
+g2eg2e |
+^c> B cd2d) ]|:
+.('d c BB2d) :|]
+.('d c B d c B |
+d c Bc2A) |
+.('c B AA2c |
+c B AA2c |
+c B A c B A |
+c B AB2G) |]

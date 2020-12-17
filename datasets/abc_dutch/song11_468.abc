@@ -1,0 +1,25 @@
+X: 10467
+T: Sint Niklaas kapoentje, Leg ewat in mijn schoentje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 1727334116
+%%humdrum-veritas-data 3592780464
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F2FF2F |
+F3C3) |
+.('F F FF2F |
+F3C2).('C |
+F F F G G G |
+F3C3) |
+.('F2G G G G |
+F2FC3) |
+.('F2GA2B |
+A2>-A2 G G |
+F3-F3) |]

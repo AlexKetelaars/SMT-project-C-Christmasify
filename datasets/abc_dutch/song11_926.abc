@@ -1,0 +1,24 @@
+X: 10925
+T: Daar is een malheur gebeurd Op mijn jakjen!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 3405337536
+%%humdrum-veritas-data 1137192425
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G3 B [I:setbarnb 1]|
+d2> e2 d3 c |
+B4).('G3 B |
+B2> A2 B3 c |
+e4d4 |
+z4).('G3 B |
+d2> e2 d3 c |
+B4).('e3 d |
+d2> c2 A3 F |
+G4z4) |]

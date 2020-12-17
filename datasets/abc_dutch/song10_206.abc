@@ -1,0 +1,39 @@
+X: 9205
+T: Dat ruyterken inder schuren lag, Van lirum lappum
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 4152484990
+%%humdrum-veritas-data 2738967797
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c [I:setbarnb 1]|
+c/ c/cBB |
+ccG2 |
+z2z2) |
+.('c2BA |
+c2G2 |
+z4 |
+z).('Gc3/B/ |
+AGA/ A/G |
+E2z2 |
+z4) |
+.('EFGC |
+z4) |
+.('EFGC |
+z4) |
+.('EFGG |
+GGGG) |
+.('CDE3/D/ |
+CB,C2 |
+z4 |
+z2z).('(C- |
+C/ D/) (E/ F/) (G/ A/ B/ c/) |
+d).('(e2d/ c/ |
+B)(c2B) |
+c4) |]

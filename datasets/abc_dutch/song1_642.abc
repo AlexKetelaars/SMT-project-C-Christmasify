@@ -1,0 +1,16 @@
+X: 642
+T: Die goetheyt van mijn Heer Sal ick hier alti [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 304802852
+%%humdrum-veritas-data 1692568931
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('A2c2c2d2e2(e2>d2ecd4)z4).('e2c2c2B2A2(A2>G2AFG4)z2).('A2A2c2B2A4<(A4GFEDEFGEA4G2)F4E4).('A2c2c2d2e2(e2>d2ecd4)z4).('e2c2c2B2A2(A2>G2AFG4)z2).('A2A2c2B2A4<(A4GFEDEFGEA4G2)F4E4) ]|:
+.('A2A2A2G2A2(c4BAB2)B2A4z2).('AAc2d2e2e2(efgfe2dcd2)d2c4z2).('c2c2e2d2c2B2A2G4z2).('G2A2c2B2A2(A4GFEDEFGEA4G2)F4E4z2).('(B2>c2dBc2BA!fermata!G4)z2).('e2e2e2c4e2(d2cBAGABcdecd2)B4A4) |]

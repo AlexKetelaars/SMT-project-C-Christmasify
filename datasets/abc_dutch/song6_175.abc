@@ -1,0 +1,23 @@
+X: 5174
+T: Te Vlissingen leit er een jachtje bereid Om  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 2965198061
+%%humdrum-veritas-data 240711704
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: Eb clef=treble
+.('d3/ [I:setbarnb 1]|
+=B/> ^A/ B<GGG/ |
+g/> ^f/ g<d-d).('d/ |
+dd/dd/dd/ |
+(de<)c-c).('c/ |
+cc<AFG/ |
+AB<c-c).('c/ |
+fe/fe/fe/ |
+(de/)c3/) |]

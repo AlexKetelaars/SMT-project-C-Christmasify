@@ -1,0 +1,29 @@
+X: 8246
+T: Daar is maar een mooi dochterken teer, op de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 1211764024
+%%humdrum-veritas-data 3614470116
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B2B A G G (F A) |
+G2F2E2z) .('E/ E/ |
+E F G A(B2e3/) c/ |
+(c2B =A)B2-B z) |
+.('B2B A G G (F A) |
+G2F FE2z) .('E |
+E F G A(B2e3/) c/ |
+(c2B =A)B2).('B2 |
+c cc2-c z).('c2 |
+f ed2-d z).('B2 |
+e d c Be2-e z) |
+.('B2B B c c B A |
+G2c2B2-B z) |
+.('B2c d e e G A |
+G2F2E2-E z) |]

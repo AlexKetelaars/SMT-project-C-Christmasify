@@ -1,0 +1,31 @@
+X: 7674
+T: Aria Seconde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 331815111
+%%humdrum-veritas-data 1673143513
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('A3/ ^G/ [I:setbarnb 1]|
+A2E2A3/ ^G/ |
+A2B2).('c B |
+c2B2A3/ ^G/ |
+A2B2).('c B |
+A2E ^F ^G3/ G/ |
+^G4) |
+.('^g3/ g/ [I:setbarnb 7]|
+a2a2f3/ f/ |
+g2g2).('e3/ d/ |
+c2c> e d3/ c/ |
+B2B2).('e3/ d/ |
+c2B2A3/ c/ |
+B> c d> e d3/ c/ |
+B2B2).('^G A |
+B> c B> A e3/ E/ |
+A4) :|]

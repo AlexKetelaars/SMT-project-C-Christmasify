@@ -1,0 +1,22 @@
+X: 6680
+T: Maantje, hoe schijn je zoo helder, Vrouwtje  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 2626771327
+%%humdrum-veritas-data 2412290675
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('D> D D E> E E |
+D3C2z) |
+.('D> D D E> E E |
+D3C2).('E |
+D2DC2E |
+D2DC2).('C |
+G2GC2C |
+(D> E) DC2z) |]

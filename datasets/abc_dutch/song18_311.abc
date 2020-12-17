@@ -1,0 +1,30 @@
+X: 17310
+T: Leid de vyand nu dan gelyk wolf op moord te  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 151606893
+%%humdrum-veritas-data 2583124115
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Eb clef=treble
+.('c>=Bcd |
+e>def |
+gGc3/d/ |
+=B>(=AG)).('G |
+c>=Bcd |
+e>def |
+gf/ g<^fg/ |
+g4) |
+.('g>=ab(a/ g/) |
+f>ed3/d/ |
+e>f g/ G/ c/ d/ |
+(=B>=AG)).('G |
+c>=Bcd |
+e>def |
+(g/ c/) (=B/ c<)cB/ |
+c4) :|]

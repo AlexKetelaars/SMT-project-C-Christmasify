@@ -1,0 +1,27 @@
+X: 7321
+T: Sint Annadag nuchten ons eerste werk is koff [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 1328500578
+%%humdrum-veritas-data 2349811315
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G A |
+B2B B |
+c3c |
+B2z) .('B |
+B A c A |
+G G B B |
+c A G3/ F/ |
+G2z) .('d |
+d c e d |
+B B d d |
+e c A F |
+G2z2) |]

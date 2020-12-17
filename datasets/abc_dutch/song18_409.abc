@@ -1,0 +1,50 @@
+X: 17408
+T: Dance pour un Paijsan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 2152678035
+%%humdrum-veritas-data 4086771450
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d [I:setbarnb 1]|
+e2e2 |
+fe/ f/da |
+bagf |
+e/ d/ e/ f/e).('d |
+e2e2 |
+fe/ f/da |
+bagf |
+e3) |
+.('e/ f/ [I:setbarnb 9]|
+gf/ e/fe/ d/ |
+eAAB |
+ABcd |
+e3).('e/ f/ |
+gf/ e/fe/ d/ |
+eAAd |
+B2c2 |
+d3) |
+.('A [I:setbarnb 17]|
+d2e2 |
+cB/ c/AB |
+^GABG |
+A/ ^G/ A/ B/A).('A |
+d2e2 |
+cB/ c/AB |
+^GABG |
+A3) |
+.('a/ b/ [I:setbarnb 25]|
+ag/ f/gf/ e/ |
+fcde |
+f2g2 |
+e2a2) |
+.('d/ e/fed |
+eAa2 |
+d/ e/fec |
+!fermata!d2) :|]

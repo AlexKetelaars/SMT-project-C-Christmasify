@@ -1,0 +1,15 @@
+X: 680
+T: En had ons God niet bi ghestaen En waer by o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2314140575
+%%humdrum-veritas-data 3530461848
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('D2D2D2A4d4c2B4A4z2).('d2d2d2(c2BAG2)c2A4G4z2).('A2A2A2(A2GF2<E2FGE2<A2)AG2F4E4z2).('B2c2>B2A4z2).('d2(c2>B2A2GFE2)D2F2G2E4D4) |]

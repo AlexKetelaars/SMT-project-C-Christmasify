@@ -1,0 +1,27 @@
+X: 10926
+T: ‘t Il [!] die wilt hooren in een lied, Wat e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 707477244
+%%humdrum-veritas-data 3469246782
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>F2G3A |
+B2d2d) .('d c B |
+A2E2F2E2 |
+D2).('A ^G A G A B |
+c2).('c> c B/ B/ A B c |
+d2).('c d e> e A A |
+d> d) .('c c B> B A3/ A/ |
+G2).('B> B A> ^G A B |
+c2).('c> c B/ B/ A B c |
+d2).('c> d e> e A A |
+d> d) .('c c B> B A3/ A/ |
+G2z2z4) |]

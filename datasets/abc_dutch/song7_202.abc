@@ -1,0 +1,35 @@
+X: 6201
+T: Of ik het wel heb - ‘k weet het niet! Maar t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 560645768
+%%humdrum-veritas-data 3830257023
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Ab clef=treble
+.('c [I:setbarnb 1]|
+c E E c |
+c E E) .('c |
+c B d c |
+B2z) .('B |
+B A G F |
+F E =D) .('E |
+G F E D |
+C2z) .('E |
+E B B c |
+B A E) .('c |
+e d =A B |
+c2z) .('e |
+e d F d |
+d c E) .('c |
+c B c d |
+e2z) .('e |
+e d F d |
+d c E) .('c |
+c B d c |
+A2z) |]

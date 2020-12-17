@@ -1,0 +1,22 @@
+X: 2599
+T: Moeder ik zou er graag trouwen gaan zou er U [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 2474319142
+%%humdrum-veritas-data 2546619283
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B c ^c d d d |
+e d d e d d) |
+.('B2de2d |
+e2dB3) |
+.('B> d dd2g |
+f2ag3) |
+.('(g f) e (d c) B |
+(d c) AG3) |]

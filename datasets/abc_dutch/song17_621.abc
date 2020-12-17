@@ -1,0 +1,36 @@
+X: 16620
+T: komt laat ook vol vreugde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 468310407
+%%humdrum-veritas-data 2412827778
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('z4z2 G2 c2 c2 c2 c2 |
+B2> A2 (G A) (B G) c2 d2 (e d) (c B) |
+(A B) c2 c2> B2c4z4 |
+z4(c d) (c B) A2 B2 A3 G |
+G4z2) .('G2 c2 c2 A2 f2 |
+f2 e2 e2 (d c)B4G2 c2 |
+A4f6e de4- |
+e4d cd4G2c4- |
+c4B4A8) |
+.('G4g6f ef4- |
+f2 e de6d cd4- |
+d2 G4<c4d2B4 |
+c4>d4 e2 A2 A3 G |
+G2 A Bc4-c A B cd4- |
+d B c de4-e A B cd4- |
+d G A Bc8B4) |
+.('c4d4c2 c2 c2 c2 |
+B4g6f ef4- |
+f2 e de4>d4d4 |
+c4g6f ef4- |
+f2 e de4>d4d4 |
+c4) |]

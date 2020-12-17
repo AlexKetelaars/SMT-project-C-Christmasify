@@ -1,0 +1,38 @@
+X: 9507
+T: Eene man met eenen stok. Een ure, slaat de klok
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 1137723964
+%%humdrum-veritas-data 2048014354
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A/ A/ [I:setbarnb 1]|
+A/> G/ F/ A/ |
+!fermata!G).('A |
+A/> G/ F/ A/ |
+!fermata!G).('A3// B// |
+cc |
+Ac |
+(AG) |
+F).('A3// B// |
+cc |
+Ac |
+AG |
+F).('A3// B// |
+cc |
+Ac |
+A/ A/ G/ G/ |
+Fz) |
+.('FG/ G/ |
+AB |
+(cf) |
+c).('B3// B// |
+AA |
+GG |
+Fz) |]

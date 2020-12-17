@@ -1,0 +1,30 @@
+X: 4440
+T: Lieve schipper vaar mij over Naar dat gindse [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 3278841727
+%%humdrum-veritas-data 2596031405
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G4G4 |
+D4F4 |
+(E4D2)C2 |
+(B,2D2)G4) |
+.('B,4E4 |
+D4B4 |
+(A2G2B2)A2 |
+D8) |
+[M:6/8].('G2G (G A) B |
+A2A (A G) A) |
+.('B2B (B A) B |
+c2c (c B) A) |
+[M:4/4].('B4A4 |
+(B4c2)A2 |
+G4F4 |
+G8) |]

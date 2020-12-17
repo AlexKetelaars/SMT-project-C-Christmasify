@@ -1,0 +1,27 @@
+X: 9305
+T: De priem, de secunde, de terts, de kwart, de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 265380078
+%%humdrum-veritas-data 836358356
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('C2 [I:setbarnb 1]|
+C2C C D DC2 |
+E2C2F2C2 |
+G2C2A2C C |
+B2C cc4- |
+c z) .('c c B B c c |
+G G c B A A d c |
+B B e d c c f e |
+d dz2).('e2e2 |
+e2>e2 df2e |
+c6B A |
+d2(c B2<)A2G |
+G4z2) |]

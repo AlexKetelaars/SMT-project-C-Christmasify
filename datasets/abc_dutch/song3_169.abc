@@ -1,0 +1,34 @@
+X: 2168
+T: Sinter sinter Maarten De kalveren dragen staarten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 3588167259
+%%humdrum-veritas-data 2942762333
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d> d e> ed2B) .('G |
+d> d e> ed2B2) |
+.('d2e2d2B2) |
+.('d2e2d2B2) |
+.('d2e2d2B2) |
+.('d2e2d2B2) |
+.('d2e2d2B2) |
+[M:6/4].('d d d d d d e ed2B2) |
+[M:4/4].('d2e ed2B) .('G |
+d d e e d d B) .('G |
+d d e ed2B2) |
+.('d2e2d2B2) |
+.('d2e2d2B2) |
+.('G G G G G GG2) |
+.('d2c> B A> A G) .('G |
+c> c c> c c> c c) .('c |
+(3A A A A> Ad2d2) |
+.('G2B> cd2d2) |
+.('G2B> c d dd2) |
+.('(e d) c B (3A A AG2) |]

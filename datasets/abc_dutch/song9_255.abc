@@ -1,0 +1,48 @@
+X: 8254
+T: Daar reed eens een ruitertje door het gehuch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 3118161448
+%%humdrum-veritas-data 3646346532
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F |
+A F A |
+c c c |
+A2).('c |
+c G G |
+G A B |
+d d d |
+!fermata!c2).('c |
+c B A |
+d c B |
+(B2A) |
+c2).('A |
+A G F |
+F E F |
+(G2E) |
+C2).('C |
+F F F |
+A F A |
+c =B c |
+f3) |
+.('F E F |
+G2d |
+c2c |
+A2).('C |
+F F F |
+A F A |
+c =B c |
+f3) |
+.('F E F |
+G2d |
+c2c |
+F3- |
+F2) |]

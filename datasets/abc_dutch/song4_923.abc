@@ -1,0 +1,35 @@
+X: 3922
+T: Een droef bericht doet elk ontstellen HIj, d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1404658740
+%%humdrum-veritas-data 67234646
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('DG2A [I:setbarnb 1]|
+B3-B2Ac2B |
+G3D2>).('D2 B B |
+d2>-d2 A Bc2B |
+G3-G2).('DG2A |
+B3-B2Ac2B |
+G3D2).('DG2B |
+d3-d2Ac2B |
+G3-G2).('AA2B |
+A2GF2E(F2E) |
+D3-D2).('AA2d |
+^c3-c2BG2E |
+D3-D2).('D/ D/ (D F) E |
+[M:6/8]D A Bc2e |
+[M:9/8]e3d2>).('(B2 A) B |
+d3-d2Ac2B |
+G3-G2).('D/ D/ D E F |
+[M:6/8]G> A Bc2e |
+[M:9/8]e3d2>).('(B2 A) B |
+d3-d2Ac2B |
+G3-G2) |]

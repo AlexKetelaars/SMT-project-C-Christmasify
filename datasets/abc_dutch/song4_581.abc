@@ -1,0 +1,31 @@
+X: 3580
+T: Daar was eens een boer en die ging naar de w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 4248734257
+%%humdrum-veritas-data 1177131224
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+G G G B A G |
+A A B c) .('G A |
+G B B B A G |
+A3-A2).('D |
+G2B B A G |
+A2B (c B)) .('A |
+G2G B A G |
+A3-A2).('c/ c/ |
+c B c e d3/ c/ |
+d2dd2).('B |
+c B c e d3/ c/ |
+d3-d2).('d |
+c2cc2c |
+B B BG2).('B |
+B A B c A3/ F/ |
+G3-G2) |]

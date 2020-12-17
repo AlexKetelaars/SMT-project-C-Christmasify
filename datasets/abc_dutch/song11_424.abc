@@ -1,0 +1,46 @@
+X: 10423
+T: Concerto] 186
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 1205224706
+%%humdrum-veritas-data 948086946
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d4d4d4 |
+d A G A f d ^c d a f e d |
+^c4c4c4 |
+^c A G A e A G A g A G A) |
+.('d4d4d4 |
+d f e d a f e d a ^f e d |
+d4d4d4 |
+c B c a ^f c B c a c _B A) |
+.('_B4B4B4 |
+_B d c B G D G B d G B d |
+^g4g4g4 |
+a e c B A c B A e c B A) |
+.('a f e d a f e d a f e d |
+^g e d B ^G E D E G B d g |
+a4a4a4 |
+g4g4g4) |
+.('^f c c a a c c f f a g f |
+g4g4g4 |
+f4f4f4 |
+e c c g g c c e e g f e) |
+.('a ^c c e e A A e e g g e |
+f d d _e e ^f f g g ^g g a |
+a4-a A G A g A G A |
+f2 e d!mordent!!mordent!^c6d2) |
+.('d4d4d4 |
+^f2 a2 a g f e d c _B A |
+_B2 d2 d c B A G F E D |
+^c A G A e A G A g A G A |
+f2 e d^c6d2 |
+d4f4f4 |
+e4e4e4 |
+d12) |]

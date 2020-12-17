@@ -1,0 +1,31 @@
+X: 15209
+T: Kaatje kom aan, vlug op de baan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 679593410
+%%humdrum-veritas-data 2339768687
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('F A B |
+c3 |
+d> c =B |
+c3 |
+B> A G |
+A> G F |
+G> F E |
+F3) ||
+.('B> A G [I:setbarnb 10]|
+A> G F |
+G> F E |
+F2C |
+B> A G |
+A> G F |
+G> F E |
+d3 |
+c3) |]

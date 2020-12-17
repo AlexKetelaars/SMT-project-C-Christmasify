@@ -1,0 +1,27 @@
+X: 6836
+T: En is er de meid hier binnen, Kom, laat ze o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 1553850390
+%%humdrum-veritas-data 1887694528
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GGG |
+G2B |
+(A/ F/) G/ z/) .('(F/ E/) |
+(FG)A |
+(AG)A |
+!fermata!Gz).('(E/ F/) |
+(A/ G/)G(F/ E/) |
+(D>E) (D/ C/) |
+B,A,).('(D/ E/) |
+FG(B/ A/) |
+GFE |
+D2z/) |]

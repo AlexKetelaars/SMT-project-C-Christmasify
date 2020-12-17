@@ -1,0 +1,24 @@
+X: 15126
+T: Arm en nedrig is mijn hutje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2784164459
+%%humdrum-veritas-data 3056199026
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E G [I:setbarnb 1]|
+B2>G2 B A G A |
+B GE2z2).('E G |
+G F A F F E E D |
+(D2E2)z2) :|]
+.('B B [I:setbarnb 5]|
+e2>d2 d c c =B |
+=B cc2z2).('_B B |
+e2>B2 B A A G |
+G2F2z2E G) |]

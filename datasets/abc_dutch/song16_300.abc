@@ -1,0 +1,25 @@
+X: 15299
+T: Herz mein Herz, warum so traurig
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2995294558
+%%humdrum-veritas-data 1128085253
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('G3/ A/ [I:setbarnb 1]|
+B2>B2 =A B c B |
+B =A_A2z2).('A A |
+A F F DB,2C D |
+E4z2).('B B |
+e d c B A G F E |
+D CC2z2).('A c |
+B2>B2B2c d |
+e4f e d c |
+(c2B) B2<B2D |
+E4z2) |]

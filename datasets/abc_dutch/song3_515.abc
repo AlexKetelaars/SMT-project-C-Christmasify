@@ -1,0 +1,23 @@
+X: 2514
+T: Komt vrienden luister naar dit lied Gij chri [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 391922181
+%%humdrum-veritas-data 1452955193
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G c B A G !fermata!A) .('B |
+B d B A (G F) !fermata!G) .('D |
+G G c B A G !fermata!A) .('B |
+B d B A (G F) !fermata!G) .('G |
+E E (3(A B) A G G !fermata!E) .('G/ G/ |
+E E (3A B A G G !fermata!E) .('D |
+G G c B (A ^G) !fermata!A) .('B3// B// |
+B/> B/ d B A (G F) !fermata!G) |]

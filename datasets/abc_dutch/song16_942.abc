@@ -1,0 +1,54 @@
+X: 15941
+T: Amable Vaenqeur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 12187390
+%%humdrum-veritas-data 33178671
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('g [I:setbarnb 1]|
+e>dc |
+c2c/ d/ |
+ef/ e/ d/ c/ |
+g2g |
+c'ga |
+g/ f/eg |
+f/ g<ed/ |
+d2).('g) |
+.('ea3/g/ |
+^fdg |
+a>bc' |
+b>a g/ ^f/ |
+g/ a<ag/ |
+g2 |
+d/ e/) [I:setbarnb 15]|
+.('f>a g/ f/ |
+e2e |
+aa/ c'/ b/ a/ |
+^geb |
+c'ac' |
+bea/ ^g/ |
+a/ b<ba/) |
+.('a2).('c' |
+gag/ f/ |
+e2e |
+edc |
+g2g |
+af3/a/ |
+geg |
+af3/a/ |
+geg |
+gfe) |
+.('d2).('d' |
+e'c'3/e'/ |
+d'gd' |
+e'c'3/e'/ |
+d'gc'/ b/ |
+c'>d'b |
+g/g2) |]

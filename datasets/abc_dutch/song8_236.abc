@@ -1,0 +1,35 @@
+X: 7235
+T: Dag vrouw, dag man, dag al te gaer, Ik kom u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3149915693
+%%humdrum-veritas-data 1353904156
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+(c B) AG2G |
+(c B) AG2).('G |
+c2e (d e) d |
+(c B) AG2).('G |
+(G F) E F G A |
+A3G3) |
+.('E E FG3 |
+A B cG2).('c |
+c d eA2d |
+(c2B) c z) .('G |
+c2e (d e) d |
+c B AG2).('G |
+A A A G G G |
+F E D C z) .('E |
+G2>G2 z G |
+c3c2z) |
+.('E E FG3 |
+A B cG2).('c |
+c d eA2d |
+(c2B)c2z) |]

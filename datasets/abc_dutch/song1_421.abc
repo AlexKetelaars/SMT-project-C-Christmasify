@@ -1,0 +1,15 @@
+X: 421
+T: Psalm 1
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 1611769181
+%%humdrum-veritas-data 2398284835
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c4d4c4A4c4B2A2B4G4F4z4).('F2A4B4c4c4d2c2A2B2c4z4).('c4c2B2A4A4A2G2A2c2B4A4z4).('A4c2B2A4d4d2d2c2B2A4G4z4).('A2c4c4d4f4e2d2c4d4c4z4).('c4d4c4A4c4B2A2B4G4F4) |]

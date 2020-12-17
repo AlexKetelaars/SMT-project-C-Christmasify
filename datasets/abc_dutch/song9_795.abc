@@ -1,0 +1,26 @@
+X: 8794
+T: Ik ben er de groene straatjes zo dikmaels te [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 347287536
+%%humdrum-veritas-data 903591626
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('AA(A/ G/)F |
+(G2F)(E/ D/) |
+(F/ E/)F2).('A |
+A(A/ G/)(FE) |
+(D/ E/ F/ D/) (G/ F/) (E/ D/) |
+C2z).('F |
+FFFF |
+EDz).('G |
+(G/ F/ E/ D/)EF |
+(F/ E/ D/ C/)DE |
+(EDDC |
+D2E2)) |]

@@ -1,0 +1,32 @@
+X: 16366
+T: Kloris die myn hartje rooft, ‘k Zie myn Pink [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2543275400
+%%humdrum-veritas-data 2786101583
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('F2A2 [I:setbarnb 1]|
+D2D2(E G) (F E) |
+D4).('d2D2 |
+E2>B2 (A G) (F E) |
+F2{E}D2).('F2^G2 |
+A2(B c) (d c) (d B) |
+c2{B}A2).('e2E2 |
+F2>d2 (c B) (A ^G) |
+A4) |
+.('A2(G F) [I:setbarnb 9]|
+G2e2G2(F E) |
+{E}F4).('F2B2 |
+(^A B) (c d) (e d) (e c) |
+d2{c}B2).('d2(c B) |
+(A B) (c d)e2G2 |
+F2{E}D2).('d2D2 |
+E2>B2 (A G) (F E) |
+D4) :|]

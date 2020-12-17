@@ -1,0 +1,39 @@
+X: 9524
+T: Zijn we nu al bijeen, Jong kadullekens, jong [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 154757258
+%%humdrum-veritas-data 375938237
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C C E [I:setbarnb 1]|
+G3A3 |
+G3F2E |
+D D DD2D |
+E E C) .('C C E |
+G3A3 |
+G3F2E |
+D D DC2D |
+C2>).('E2 E E |
+F F FD2D |
+E2E) .('E E E |
+F2FD2D |
+E2>).('E2 E E |
+F F FD2D |
+E2E) .('E E E |
+F2FD2D |
+C2>).('C2 C E |
+G3A3 |
+G3F2E |
+D D DD2D |
+E E C) .('C C E |
+G3A3 |
+G3F2E |
+D D DC2D |
+C3) |]

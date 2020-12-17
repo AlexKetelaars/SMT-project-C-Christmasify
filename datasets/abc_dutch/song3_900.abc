@@ -1,0 +1,28 @@
+X: 2899
+T: Er was een heer die ver van huis na zes zeve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 1277535941
+%%humdrum-veritas-data 2429072186
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 5/4
+Q: 1/4=120
+K: G clef=treble
+.('DGA [I:setbarnb 1]|
+B2GAd |
+[M:3/4]B3) |
+.('GAd3// d// |
+[M:5/4]B2GAc |
+[M:3/4]B3) |
+.('B/> B/cB/ B/ |
+(AB)e |
+d>d d/ c/ |
+BG2) |
+.('BcB |
+A>GF |
+[M:4/4]A>ABA/ A/ |
+[M:3/4]GE2) |]

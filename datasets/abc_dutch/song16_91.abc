@@ -1,0 +1,27 @@
+X: 15090
+T: Toen ik op Neerlands bergen stond
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 2235808011
+%%humdrum-veritas-data 3855288469
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A, [I:setbarnb 1]|
+D2E F G A |
+B2BA2A |
+B2Bc2c |
+d3z2).('A |
+d2dc2B |
+A3F2).('A |
+A B A A G F |
+E3).('B> B B |
+A d d c B c |
+d3).('B> B B |
+A2DF2E |
+D3z2) |]

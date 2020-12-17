@@ -1,0 +1,46 @@
+X: 16429
+T: De echo
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 828917060
+%%humdrum-veritas-data 1760703867
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('d ^c d e d e ^f g |
+a2>g2^f4 |
+A2>G2^F4) |
+.('g ^f g a g ab2 |
+a2>g2g4 |
+A2>G2G4) |
+.('^f ga2^F GA2 |
+d e^f2D E^F2) |
+.('e ^f g a g a f g |
+e4).('E ^F G A |
+G A ^F GE4) |
+.('^f e f g f ga2 |
+e2>d2d2A2 |
+E2>D2D4) |
+.('a2a2a2g2 |
+^f2f2f4 |
+A2A2A2G2 |
+^F2F FF4) |
+.('d2d2^c2A2 |
+e2e2e4 |
+D2D2^C2A,2 |
+E2E2E4) |
+.('a a a a^f4 |
+A A A A^F4) |
+.('g ab2b4 |
+G AB2B4) |
+.('^g g g ga4 |
+^G G G GA4) |
+.('^f f f fg2f2 |
+e2>d2d4) |
+.('^F F F FG2F2 |
+E2>D2!fermata!D4) |]

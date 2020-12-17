@@ -1,0 +1,31 @@
+X: 813
+T: Daer was lestmael een ruyterken die in het w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 157577798
+%%humdrum-veritas-data 2893006889
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+(E B,) G (G E) B |
+B2(B/ A/)G2).('B |
+B2c (c B) c |
+B2>-B2 z) .('B/ B/ |
+B2e (e d) e |
+B3G2).('B |
+B2A A G A |
+G2>-G2 z) .('G/ G/ |
+G3F2F |
+(G A) B (e d) c |
+B3A3 |
+G2>-G2 z) .('B |
+e2(d/ e/) B B c |
+B e) .('d c B A |
+G3F3 |
+E3-E2) |]

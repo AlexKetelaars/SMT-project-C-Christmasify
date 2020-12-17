@@ -1,0 +1,38 @@
+X: 10884
+T: En met ééne. Op den Stoek! En met tweeë. Op  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 3463949864
+%%humdrum-veritas-data 3152953788
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F F [I:setbarnb 1]|
+B2G2c A |
+B2z2).('F F |
+B2G2c A |
+B2z2) ||
+.('F F [I:setbarnb 5]|
+B2G2c A |
+B2B2z2) ||
+[M:2/4].('F/ F/ F/ F/ F G/ A/ [I:setbarnb 8]|
+B AG2) |
+.('A B c A |
+B2z2) |
+.('F/ F/ F/ F/ F G/ A/ |
+B AG2) |
+.('A B c A |
+B2z2) |
+.('z2c A |
+B2z2 |
+B2c A |
+B2z2) |
+.('F F G A |
+B2G2 |
+B2c A |
+B2z2) |]

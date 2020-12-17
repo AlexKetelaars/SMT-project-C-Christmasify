@@ -1,0 +1,27 @@
+X: 10809
+T: Hier ondere den ring en hier boven den ring, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 4097303505
+%%humdrum-veritas-data 376456470
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+B> B B A |
+(G A) B c |
+d2d c |
+!fermata!B2).('e d |
+(^c d) e d |
+(c B) A G |
+B2B A |
+G2).('e d |
+(^c d) e d |
+(c B) A G |
+B2B A |
+G2z2) |]

@@ -1,0 +1,30 @@
+X: 13021
+T: Klepperman van elleven, waar ga je zo laat n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 1515225660
+%%humdrum-veritas-data 2238761230
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C> D E F |
+G> A G F |
+E/ E/ E D D |
+C2z) .('C |
+C> D E F |
+G> A G F |
+E E D D |
+C2z) .('E/ F/ |
+G G G c |
+G G G) .('E/ F/ |
+G G G c |
+G G G z) |
+.('C> D E F |
+G> A G F |
+E/ E/ E D D |
+C2z) |]

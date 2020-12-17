@@ -1,0 +1,29 @@
+X: 9641
+T: Vier weverkens zag men ter botermerkt gaan,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 428220672
+%%humdrum-veritas-data 802839792
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F A F E G E |
+D F D C z) .('D/ E/ |
+{G} F E F D D G |
+E2>F2 z) .('C |
+F A F E G E |
+(D F) D C z) .('D/ E/ |
+{G} F E FD2G |
+E2>F2 z) .('C |
+B G G/ G/ A F C |
+F!fermata!z2z2).('G/ A/ |
+B G G/ G/ A F C |
+Fz2z) .('F F |
+D> D DG2G |
+E2>F2z2) |]

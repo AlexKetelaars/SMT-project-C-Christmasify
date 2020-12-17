@@ -1,0 +1,43 @@
+X: 5861
+T: Wat is de wereld toch Als valscheid en bedrog
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 4282491127
+%%humdrum-veritas-data 4108630508
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('ze [I:setbarnb 1]|
+eBBA |
+G3).('(A/ B/) |
+BAGF |
+E2z).('e |
+(ed)(dB) |
+d2).('dd |
+B2AA |
+G2z).('d |
+d2dd |
+d3).('d |
+e2dc |
+B2z).('B |
+(B2c)d |
+e3).('(d/ e/) |
+e2c2 |
+B2z).('B |
+(G2F)E |
+B3).('c |
+dcde |
+(e^d)z).('B |
+e2d2 |
+dBdd |
+B2A2 |
+G2z).('B |
+B3(A/ B/) |
+cBAG |
+A3F |
+E2) |]

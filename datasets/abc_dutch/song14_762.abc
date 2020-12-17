@@ -1,0 +1,55 @@
+X: 13761
+T: [Divert. 6.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 2923867272
+%%humdrum-veritas-data 4189121966
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('A2z c |
+A2z c |
+(e d) !wedge!B !wedge!c |
+A2z c |
+(e d) !wedge!B !wedge!c |
+A2z) .('c |
+!wedge!B !wedge!B !wedge!B !wedge!B |
+(B3/ c// ^d//) (e3/ d// c//) |
+!wedge!B !wedge!B !wedge!B !wedge!B |
+(B3/ c// ^d//) (e A) |
+G2F2 |
+E2z) .('A |
+(G A) (F G) |
+E2z a |
+(g a) (f g) |
+e2z g |
+e3g |
+e3g |
+!wedge!e !wedge!g !wedge!e !wedge!g |
+e2z) |
+.('E [I:setbarnb 21]|
+G2A2 |
+B3c |
+(d c d c) |
+d3e |
+(f e f e) |
+(d e d c) |
+(B c B A) |
+G3c |
+(B A G B) |
+A2z c |
+(B A G B) |
+A2z) .('c |
+(B A G B) |
+A e (f e/ d/) |
+c2B2 |
+A2z c |
+A2z c |
+A2z c |
+A c A c |
+A2z) :|]

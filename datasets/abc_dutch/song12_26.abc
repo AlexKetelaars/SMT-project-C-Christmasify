@@ -1,0 +1,73 @@
+X: 11025
+T: In deeze vreugde schonk Ganimédes alle de fl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1580508687
+%%humdrum-veritas-data 2231482423
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e [I:setbarnb 1]|
+e2d |
+c>BA |
+e2e |
+e2e) |
+.('edc |
+(Bc)d |
+cBA |
+^G2G) |
+.('A>^GA |
+c>Bc |
+d2e |
+e2x) |
+.('g>fe |
+d>ef |
+(ed)c |
+B3) |
+.('e>de |
+(cd)(e/ B/) |
+cBA |
+^G2E) |
+.('e>de |
+c>de |
+f2e |
+d2d) |
+.('g>fe |
+f2e |
+f>ed |
+e2c) |
+.('d>dd |
+d2(d/ e/) |
+f>ef |
+e2e) |
+.('A>G (A/ B/) |
+c>dc |
+c2B |
+cc).('e |
+g3- |
+g3- |
+g3 |
+gz).('(c/ d/) |
+(e/ d/ e/ f/ e/ f/ |
+d/ c/ d/ e/ d/ e/ |
+f/ e/ f/ g/ f/ g/ |
+e/ d/ e/ f/ e/ f/ |
+g/ f/ g/ a/ g/ a/ |
+f2)e |
+e2e) |
+.('c>de |
+e3- |
+e3- |
+e3- |
+e>fg |
+g>fg |
+e3) |
+.('e>dc |
+B>cd |
+c>BA |
+A2) |]

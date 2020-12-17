@@ -1,0 +1,15 @@
+X: 77
+T: O onse Godt end Heer seer hoogh gepresen, Ho [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3347963573
+%%humdrum-veritas-data 3392908979
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('D4F4G4A4d4c2B2A2c2B4A4z4).('d4d2d2c4e4d2A2_B2A2G4F4z4).('F4E2E2D4A4c2c2G4B4A4z4).('A2c4d4A4c4A2G2F4E4D4) |]

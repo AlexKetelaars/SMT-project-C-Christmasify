@@ -1,0 +1,38 @@
+X: 16622
+T: Daar en is niet in myn leven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 3691549374
+%%humdrum-veritas-data 2075361448
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('Adc2 |
+A2_BA |
+G2F2 |
+F/ G/ A/ B/c2 |
+BA^G3/G/ |
+A2Ac |
+F/ E/ F/ G/AD |
+F2E2 |
+D4) |
+.('z2dd |
+e2^c2 |
+dcB2 |
+A2c3/_B/ |
+AAG3/F/ |
+F2A3/G/ |
+FFE3/D/ |
+D4) |
+.('z2D/ E/ F/ G/ |
+AAF/ G/ A/ B/ |
+ccd3/d/ |
+ccB3/A/ |
+A2AB |
+^cdd3/c/ |
+d4) |]

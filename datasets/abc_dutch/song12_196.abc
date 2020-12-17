@@ -1,0 +1,22 @@
+X: 11195
+T: Daar was eenen heer, die begraafde zijn vrou [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 954332656
+%%humdrum-veritas-data 2865883232
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C2 [I:setbarnb 1]|
+F2F2F2 |
+G4A B |
+c4c B |
+(A G) !fermata!F) .('D F G |
+(A2!fermata!c4) |
+G4(A =B) |
+!fermata!c4z2) |]

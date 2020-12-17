@@ -1,0 +1,32 @@
+X: 16200
+T: Dar tel [Dartel] Venus wigt, Met uw boog en schigt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3699243213
+%%humdrum-veritas-data 1332225863
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F/ G/ [I:setbarnb 1]|
+AAA).('G/ A/ |
+BBB).('A/ B/ |
+ccc).('B/ A/ |
+GGG).('F/ G/ |
+AAA).('G/ A/ |
+BBB).('A/ B/ |
+ccc).('(B/ A/) |
+GGG) ]|:
+.('d/ _e/ [I:setbarnb 9]|
+ddd).('d/ c/ |
+GGG).('c/ d/ |
+=Bc/ d<dc/ |
+c3).('c/ B/ |
+AAA).('A/ G/ |
+FFF).('C/ C/ |
+FF/ G/A).('A/ B/ |
+ccF) :|]

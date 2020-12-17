@@ -1,0 +1,32 @@
+X: 15329
+T: Gott erhalte Franz den Kaiser
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 907873961
+%%humdrum-veritas-data 345122496
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E3/F/ [I:setbarnb 1]|
+GFAG |
+F/ D/EcB |
+AGFG/ E/ |
+B2).('E3/F/ |
+GFAG |
+F/ D/EcB |
+AGFG/ E/ |
+B2).('FG |
+F/ D/B,AG |
+F/ D/B,BA |
+G>G=AA/ B/ |
+!fermata!B2) ]|:
+.('e3/d/ [I:setbarnb 13]|
+cBc3/B/ |
+{B}AGF3/G// A// |
+B/ c/ A/ F/E{G} F/ E/ |
+E2) :|]

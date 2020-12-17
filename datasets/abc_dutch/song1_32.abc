@@ -1,0 +1,30 @@
+X: 32
+T: Nadien het Bitter gaet voor 't Zoet; Het lij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 2079929522
+%%humdrum-veritas-data 2357685808
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('z2DG2A/ B/ |
+c2cB2B |
+A2).('BA2G |
+G2^FG2z) |
+.('z2DG2A/ B/ |
+c2cB2B |
+A2).('BA2G |
+G2^FG2).('E |
+EEE>DEG |
+FD2<E2).('G |
+ABc>BAG |
+G^F2G2).('E |
+EEE>DEG |
+FD2<E2).('G |
+ABc>BAG |
+G^F2G3) |]

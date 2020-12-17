@@ -1,0 +1,32 @@
+X: 6058
+T: Marsche van der koninck van pruijsen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 1140282906
+%%humdrum-veritas-data 3172541253
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+A2A GF2A2 |
+d2d dA2).('d2 |
+e f e f e f e f |
+f4e4) |
+.('f2g fe2e2 |
+f2g fe2).('e2 |
+f g a b2<^g2a |
+a6) |
+.('e2 [I:setbarnb 9]|
+e2e dc2e2 |
+a2a gf2).('f2 |
+f g a b2<g2f |
+e6).('A2 |
+A2A GF2A2 |
+d2d dA2).('d2 |
+e f g a2<e2d |
+d6) :|]

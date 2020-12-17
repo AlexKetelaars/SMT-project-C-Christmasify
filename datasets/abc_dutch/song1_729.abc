@@ -1,0 +1,43 @@
+X: 729
+T: Heere! keere van ons af U vertoorent aengesicht,
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 822785473
+%%humdrum-veritas-data 4074895313
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('B4A2 |
+G4^F2 |
+E4G2 |
+A4z2 |
+B4d2 |
+c4B2 |
+A4B2 |
+A4z2) |
+.('B4A2 |
+G4^F2 |
+E4G2 |
+A4z2 |
+B2d2c2 |
+c2B2A2 |
+G4x2) |
+.('c4c2 |
+c4e2 |
+d4e2 |
+d4z2 |
+c2>c2B2 |
+A2c2B2 |
+A4x2) |
+.('B4A2 |
+G4^F2 |
+E4G2 |
+A4z2 |
+B2d2c2 |
+c2B2A2 |
+G4x2) |]

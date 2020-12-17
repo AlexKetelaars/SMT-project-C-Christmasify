@@ -1,0 +1,31 @@
+X: 2244
+T: Schoonlief ik trek naar het slemeur brengt h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 1072863042
+%%humdrum-veritas-data 552209120
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d ^c d e e d |
+B3-B2).('B/ B/ |
+B A Bc2B |
+G3-G2).('G |
+G2Bd2g |
+f3-f2).('e |
+d ^c de2d |
+B3-B2).('d |
+(d ^c) de2d |
+B2B-B2).('B |
+B A Bc2B |
+G2G-G2).('G |
+G2Bd2g |
+f2eA3) |
+.('f f ed2d |
+c2BG2) |]

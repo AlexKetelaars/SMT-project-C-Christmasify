@@ -1,0 +1,39 @@
+X: 16832
+T: Batailie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 1986560167
+%%humdrum-veritas-data 659818777
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('cBcdef |
+gfgag2 |
+e2g2e2 |
+c2>d2c2) |
+.('c2ccec |
+g2gggg |
+eegege |
+c4c2) |
+.('c'2g2c'2 |
+g2e2g2 |
+e2g2e2 |
+c4c2) |
+.('c'2gc'c'c' |
+g2eggg |
+e2ggee |
+c4c2) |
+.('c2c2c2 |
+e2e2e2 |
+g2g2g2 |
+c'2c'2c'2 |
+e2geee |
+e2-e2e2) |
+.('cGcece |
+gegc'gc' |
+gege) |]

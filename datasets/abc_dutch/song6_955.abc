@@ -1,0 +1,38 @@
+X: 5954
+T: ‘t Was op een nieuwjaar-avond, De bakker slo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3985117746
+%%humdrum-veritas-data 3403915199
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Ab clef=treble
+.('F [I:setbarnb 1]|
+F2c {d}c2B |
+c3c2).('B |
+A2GA2B |
+!wedge!c3z2).('F |
+F2c {d}c2B |
+c3c2).('B |
+A2GA2B |
+!wedge!c3z2).('F |
+F G Fc2B |
+c3c2).('B |
+A2GA2B |
+c3z2).('F |
+F F Fc2B |
+c3c2).('B |
+A2GA2B |
+c3z2).('F |
+F G F c c B |
+c3!fermata!c3) |
+[M:2/4].('e> B B B) |
+.('e/ d/ c/ B/ A A |
+e d/ c/B2) |
+.('c c c d/ c/ |
+B BA2) |]

@@ -1,0 +1,64 @@
+X: 16634
+T: Als men eens het oog laat wegen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2429965107
+%%humdrum-veritas-data 1800895103
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e4d2 |
+c4(B/ c/ d/ e/) |
+c4(B A) |
+A ^G A B c d |
+e4e2 |
+(e2d2)c2 |
+(f2e2)(d e) |
+c4(B A) |
+A6) |
+.('!mordent!!mordent!e4d2 |
+c4(B/ c/ d/ e/) |
+c4(B A) |
+A ^G A B c d |
+e4e2 |
+(e2d2)c2 |
+(f2e2)(d e) |
+c4(B A) |
+A6) |
+.('!mordent!!mordent!^G4G2 |
+A4A2 |
+B4B2 |
+c B A B c d |
+e4e2 |
+e4g2 |
+f4e2 |
+d4c2 |
+d4d2 |
+(e2d2)c2 |
+f2e2d2 |
+c2B2A2) |
+.('e4e2 |
+e4d2 |
+e6 |
+!mordent!!mordent!A4B2 |
+c d c BA2 |
+!mordent!!mordent!B4c2 |
+d e d cB2 |
+!mordent!!mordent!c4d2 |
+(e2d2)c2 |
+f2e2d2 |
+e f e dc2 |
+f2e2d2 |
+e f e dc2 |
+f2e2d2 |
+c4(B A) |
+A6) |
+.('!mordent!!mordent!B4c2 |
+d4(e/ d/ c/ B/) |
+B4A2 |
+A6) |]

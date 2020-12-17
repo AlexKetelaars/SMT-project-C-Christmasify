@@ -1,0 +1,191 @@
+X: 13908
+T: [Duetto 3.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 3491696631
+%%humdrum-veritas-data 559836013
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('e [I:setbarnb 1]|
+(e d c) c c c |
+(d2B)B2A |
+B2c {/e}d2c |
+c3-B2).('e |
+(e d c) c c c |
+(d2B)B2c |
+{/e}(d2c) {/c} B A B |
+A A AA2) :|]
+.('e [I:setbarnb 9]|
+B B B B B B |
+(d2!trill!!trill!=c)B2e |
+B B B B B B |
+(d2!trill!!trill!=c)B2).('(B |
+c) z (^d e) z (f |
+g) z (a b) z (g |
+a) z (f g) z) .('e |
+^d/ f/ b/ f/ d/ B/ d/ f/ b/ f/ d/ B/ |
+e/ g/ b/ g/ e/ B/ ^d/ f/ b/ f/ d/ B/ |
+e/ g/ b/ g/ e/ c/ ^d/ f/ b/ f/ d/ B/ |
+e/ g/ b/ g/ e/ B/ ^d/ g/ b/ g/ d/ B/ |
+e/ g/ b/ a/ g/ f/ e/ ^d/ c/ B/ A/ G/) |
+.('F A c f a c') |
+.('e2>-e2 f ^d |
+e2>-e2 f ^d |
+(e f) ^d (e f) d |
+e2z z G B |
+d2z z d g |
+b3-b2a |
+(a g) f (f e) ^d |
+d6- |
+d2zz2).('B |
+(^B2cd2^d) |
+d3-(d2e) |
+(e d c) c c c |
+(d2B)B2A |
+B2c {/e}d2c |
+c3-B2).('e |
+(e d c) c c c |
+(d2B2)B2 |
+c {e}d2c {/c} B A |
+B A A A A) ||
+[K:C] .('e [I:setbarnb 41]|
+(c'2b)(a2^g) |
+(g2a)e2e |
+{/g}(f2e) {/e}(d2c) |
+c3e2).('e |
+(c'2b)(a2^g) |
+(g2a)e2e |
+{/g} f e dc2!trill!!trill!B |
+A E CA,2z) |
+.('E E E E E E |
+F F F F F F |
+E E E E E E |
+F F F F F F |
+E2z F/ E/ F/ G/ A/ F/ |
+D2z G/ ^F/ G/ A/ B/ ^G/ |
+E2z A/ ^G/ A/ B/ c/ A/ |
+F2z F/ G/ A/ G/ F/ E/) |
+.('D2zD2z |
+D2zD2z |
+C z D E z D |
+E2zz2z) |
+.('c c c B B B |
+c/ B/ c/ d/ e/ c/A2z |
+d/ ^c/ d/ e/ f/ d/B2z |
+e/ ^d/ e/ f/ g/ e/c2z |
+f/ g/ a/ g/ f/ e/ d/ e/ f/ e/ d/ c/) |
+.('(B/ d/) g/ g/ g/ g/ (d/ g/) b/ b/ b/ b/ |
+(g/ b/) d'/ d'/ d'/ d'/ (b/ d'/) f'/ f'/ f'/ f'/ |
+(e'/ c'/) c'/ c'/ f'/ d'/ (e'/ c'/) c'/ c'/ f'/ d'/ |
+(e'/ c'/) c'/ c'/ f'/ d'/ g' e' c' |
+g3!trill!!trill!d'3 |
+c'2zz2z |
+z) .('^G G G G G |
+^G2zz2z |
+z A A A A A |
+A2zz2z |
+z e e e {/g} f e |
+e z f e {/g} f e |
+e z e e {/g} f e) |
+.('(c'2b)(a2^g) |
+(g2a)e2).('e |
+{g}(f2e) {e}(d2c) |
+c3-B2e |
+{/e}(c'2b)(a2^g) |
+(g2a)e2).('!trill!!trill!e |
+{g} f e dc2!trill!!trill!B |
+A2z B B B |
+c2z^d2z |
+e2z B B B |
+c2z^d2z |
+{^d e ^f}e3!fermata!e2) ||
+[K:A] .('e [I:setbarnb 91]|
+(e d c) c c c |
+(d2B)B2A |
+B2c {/e}d2c |
+c3-B2).('e |
+(e d c) c c c |
+(d2B)B2c |
+{/e}(d2c) {/c} B A B |
+A A AA2) :|]
+.('e [I:setbarnb 99]|
+B B B B B B |
+(d2!trill!!trill!=c)B2e |
+B B B B B B |
+(d2!trill!!trill!=c)B2).('(B |
+c) z (^d e) z (f |
+g) z (a b) z (g |
+a) z (f g) z) .('e |
+^d/ f/ b/ f/ d/ B/ d/ f/ b/ f/ d/ B/ |
+e/ g/ b/ g/ e/ B/ ^d/ f/ b/ f/ d/ B/ |
+e/ g/ b/ g/ e/ c/ ^d/ f/ b/ f/ d/ B/ |
+e/ g/ b/ g/ e/ c/ ^d/ f/ b/ f/ d/ B/ |
+e/ g/ b/ g/ e/ B/ ^d/ g/ b/ g/ d/ B/ |
+e/ g/ b/ a/ g/ f/ e/ ^d/ c/ B/ A/ G/) |
+.('(F A c) (f a c')) |
+.('e2>-e2 f ^d |
+e2>-e2 f ^d |
+(e f d) (e f d) |
+e2z z G B |
+d2z z d g |
+b3-b2a |
+(a g) f f e e |
+(e d c) c c c |
+d2BB2A |
+B2c {e}d2c |
+c3e2).('e |
+(e d c) c c c |
+(d2c)B2c |
+{/e}d2c {/c} B A B |
+A2z E/ G/ B/ e/ g/ b/ |
+a2z E/ G/ B/ e/ g/ b/ |
+a2zz2z) |
+.('(a> b a) g g g |
+(f> g f) e e e |
+^d6 |
+(b3^d3) |
+d6 |
+(b3d3) |
+c/ a/ g/ a/ g/ a/ g/ f/ e/ d/ c/ B/ |
+A3!trill!!trill!B3) |
+.('A,/ C/ E/ A/ c/ e/d2z |
+A,/ C/ E/ A/ c/ e/d2z) |
+.('(a> b a) g g g |
+(f> g f) e e e |
+(^d> e d) c c c) |
+.('F A B F A B |
+F A B F A B |
+E G B E G B |
+E G B E G B |
+A A A D D D |
+E E E E E E |
+A,2z) .('D/ C/ D/ E/ F/ D/ |
+B,2z E/ ^D/ E/ F/ G/ E/ |
+C2z F/ E/ F/ G/ A/ F/ |
+D2z f/ g/ a/ g/ f/ e/ |
+d/ e/ f/ e/ d/ c/ B/ c/ d/ c/ B/ A/ |
+G/ A/ B/ c/ d/ e/ f/ g/ a/ b/ c'/ d'/ |
+d'3-d'2c' |
+(c'2>b2) z a |
+(a2>g2) z f |
+f6- |
+!fermata!f2zz2).('e |
+(e d c) c c c |
+(d2B)B2A |
+B2c {/e}d2c |
+(c3B2)).('e |
+(e d c) c c c |
+(d2B)B2!trill!!trill!B |
+(c e) cA2!trill!!trill!B |
+(c e) cA2!trill!!trill!B |
+(c e) B (c e) B |
+(c e) B (c e) B |
+c2za2z |
+a2zg2z |
+a2zz2z) |]

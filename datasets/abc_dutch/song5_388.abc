@@ -1,0 +1,15 @@
+X: 4387
+T: Het zij jongedochters hoort naar mijn geklaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 76489682
+%%humdrum-veritas-data 248176727
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G A/ A/ B d G A B> AG3).('B/ B/ A G F d d> c (B d2<)G2).('D G A B d G c B> AG2>).('B2 A G F d e> d (B d2<)G2).('d c B(A2e) e d> cB4).('(G B) (3(d g) f e> Bd2c3).('D/> D/ c B2<A2D c> AG2>).('G2 G B (3(d g) f e> Bd2c) .('A/> A/ B c/> c/ e> d c BA2G3) |]

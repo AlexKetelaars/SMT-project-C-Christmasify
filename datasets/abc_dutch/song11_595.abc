@@ -1,0 +1,55 @@
+X: 10594
+T: Tralalalalala (4 maal) Oonze fikshond (3 maa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 1988989138
+%%humdrum-veritas-data 2389547624
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GFE |
+D2D/ D/ |
+GFE |
+D2).('D/ D/ |
+DFG |
+A2A/ A/ |
+cBA |
+G2).('D/ D/ |
+BBD/ D/ |
+BBD/ D/ |
+BcB |
+A2).('D/ D/ |
+AAD/ D/ |
+AAA/ A/ |
+cBA |
+G2).('D |
+GGD |
+GGD/ D/ |
+GFE |
+F2).('F |
+EEE |
+GFE/ E/ |
+ED^C |
+D2).('D/ D/ |
+Dcc |
+c2D/ D/ |
+DBB |
+B2).('B/ B/ |
+A2A |
+cBA |
+AGE |
+D2).('D/ D/ |
+Dcc |
+c2D/ D/ |
+DBB |
+B2).('G/ G/ |
+A2A |
+cBA |
+AGF |
+G2) |]

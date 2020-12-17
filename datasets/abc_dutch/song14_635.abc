@@ -1,0 +1,28 @@
+X: 13634
+T: Masamere
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 4244886432
+%%humdrum-veritas-data 207175199
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d2e2f2e f |
+g f e d^c2A2) |
+.('d2e2f2d2 |
+d e f ga4) |
+.('a2a2a2g a |
+b a g fe4) |
+.('g2g2g2f g |
+a g f ed4) |
+.('d e f ga4 |
+d f e d^c2A2) |
+.('d e f ga4 |
+d f e d^c2A2) |
+.('a2g a b a g f |
+e2>d2d4) :|]

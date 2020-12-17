@@ -1,0 +1,39 @@
+X: 11113
+T: Och Liefje, myn diefje, jou bloozende mongt, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 4194817606
+%%humdrum-veritas-data 1112872679
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d>cB |
+B>AG |
+FGA |
+D2).('d |
+d>cB |
+c>de |
+A>GF |
+G2).('D |
+D>ED |
+D>ED |
+DEF |
+G2).('E |
+E>FE |
+E>FE |
+EFG |
+A2).('A |
+A>BA |
+A>BA |
+ABc |
+d2).('d |
+d>cB |
+c>de |
+A>GF |
+G2) |]

@@ -1,0 +1,37 @@
+X: 4817
+T: Ik heb een ring gevonden Een ring van diamant.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 2884051326
+%%humdrum-veritas-data 3903056932
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('dd/dd/ |
+d3/g).('d/ |
+dc/BA/ |
+G3/-G3/) |
+.('dd/dd/ |
+d3/g).('d/ |
+dc/BA/ |
+G3) ||
+[M:2/4].('d3/B/ [I:setbarnb 10]|
+g3/f/ |
+fe |
+e2) |
+.('c3/A/ |
+f3/e/ |
+ed |
+d2) |
+.('d3/B/ |
+g3/f/ |
+fe |
+a2) |
+.('f/> d/ d3// d// |
+ab |
+g2) |]

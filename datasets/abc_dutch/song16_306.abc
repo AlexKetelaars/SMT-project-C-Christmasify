@@ -1,0 +1,24 @@
+X: 15305
+T: O Tannenbaum
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 4059825153
+%%humdrum-veritas-data 1816215802
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F> F!fermata!F3G |
+A> AA3F |
+G AB2E2 |
+G2F2) :|]
+.('z A [I:setbarnb 5]|
+c A2<d2c |
+c B2<B2B |
+B G2<c2B |
+B A!fermata!A2z) |]

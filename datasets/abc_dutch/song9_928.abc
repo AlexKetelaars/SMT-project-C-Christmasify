@@ -1,0 +1,29 @@
+X: 8927
+T: Daar was eens een meisje van Sinterniklaas.  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3752257041
+%%humdrum-veritas-data 2035158058
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('G G A G [I:setbarnb 1]|
+(C2E)G2G A B c |
+G3-G2).('G G A G |
+(C2E)G2G A B c |
+[M:6/8]G3-G2).('G |
+[M:12/8]A2GA2B c B AB2c |
+d3G3-G2).('G (G A) B |
+[M:9/8]c3-c2BA2G |
+A3-A2).('G G =F E |
+A3-A2G =F E D |
+E3-E2).('c c B A |
+[M:6/8]G2E =F G A |
+[M:9/8]G3C2).('c c B A |
+[M:6/8]G2E =F G A |
+[M:9/8]G3C2) |]

@@ -1,0 +1,26 @@
+X: 5050
+T: Daar komt Joppie uit een hoekie, Schudde met [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 992794993
+%%humdrum-veritas-data 188782071
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('CFFF |
+(E/ F/) (G/ A/)FF) |
+.('C/ A/ A/ A/AA |
+G/ A/ B/ c/AA) |
+.('BdG2 |
+AcF2) |
+.('C(F/ A/)BE/ E/ |
+FAF2) |
+.('BdG2 |
+AcF2) |
+.('C(F/ A/)BE/ E/ |
+FAF2) |]

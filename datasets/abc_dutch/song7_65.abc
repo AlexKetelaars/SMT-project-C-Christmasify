@@ -1,0 +1,29 @@
+X: 6064
+T: Balet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3905883349
+%%humdrum-veritas-data 1165632725
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('a2>b2 a g |
+a2a2A2 |
+d2c de2 |
+f g f ee2 |
+f g a b a g |
+a4) |
+.('d2 [I:setbarnb 7]|
+g a f e f d |
+g a f e f d |
+d c d e g f |
+e2A2).('d2 |
+g a f e f d |
+g a f e f d |
+d c d e d c |
+d4) |]

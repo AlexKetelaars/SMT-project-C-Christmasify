@@ -1,0 +1,47 @@
+X: 16225
+T: Om te zien of ik u beminne, Let op myn oog e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1137185317
+%%humdrum-veritas-data 1063297829
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('D2A |
+F2B |
+AGF |
+E2D) |
+.('def |
+edc |
+BA^G |
+A3) |
+.('D2A |
+F2B |
+AGF |
+E2D) |
+.('def |
+edc |
+BA^G |
+A3) ||
+.('x>e (f/ g/) [I:setbarnb 18]|
+a2g |
+ffe |
+ddc |
+B>).('d (d/ f/) |
+ggf |
+edc |
+B3 |
+A>).('(A B/ c/) |
+ddc |
+BBA |
+G2F |
+E>).('B c/ d/ |
+e(de) |
+(Ag)(f/ e/) |
+e3 |
+d3) :|]

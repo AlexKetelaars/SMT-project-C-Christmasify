@@ -1,0 +1,30 @@
+X: 11094
+T: Zie daar, dat’s na de Vryster gang, nu wil e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 2257939537
+%%humdrum-veritas-data 2783194832
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G>A (B/ c/) (d/ e/) |
+c>Bc3/B/ |
+AFGA |
+B2G3/).('B/ |
+c>dB3/e/ |
+^cdd3/c/ |
+d3).('A |
+A>BAF |
+GAB3/A/ |
+GF(E/ F/) (G/ E/) |
+E2D3/).('A/ |
+A>Bc3/d/ |
+B>cd3/).('G/ |
+F>G (A/ B/) (c/ d/) |
+A>GG) |]

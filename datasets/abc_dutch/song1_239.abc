@@ -1,0 +1,15 @@
+X: 239
+T: Mensch laet u niet soo seer beweghen Dat ghy [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 768339492
+%%humdrum-veritas-data 366102806
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('z2G2(G A) (B c)d4>d4d2(c B)c4c4).('z2c2c A B B(d2c2>B2 A GA2)A2G4).('z2G2(G A) (B c)d4>d4d2(c B)c4c4).('z2c2c A B B(d2c2>B2 A GA2)A2G4).('z2G2A2d2d2c2d2).('z2f2e2d2c d c BA4).('z2f2e2d2c d c BA4).('z4d2d2B dc2c2(B A B c)d2c2>(B2 A GA2)A2G8) |]

@@ -1,0 +1,42 @@
+X: 7213
+T: Aldersoetsten nacht wanneer dat is gebooren  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 789581243
+%%humdrum-veritas-data 1801339910
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('cGc3/d/ |
+!mordent!!mordent!B>cd3/e/ |
+f(e/ d/)ec) |
+.('cG{c}!mordent!!mordent!B3/c/ |
+d>ef(e/ d/) |
+{f}!mordent!!mordent!e>dc).('e |
+dcB3/A/ |
+Ggec |
+f>edd) |
+.('ed/ c<!mordent!!mordent!BA/ |
+GGc3/d/ |
+ed!mordent!!mordent!d3/c/ |
+c4) ||
+.('e>dce [I:setbarnb 15]|
+gced |
+d>de).('A |
+dc!mordent!!mordent!B3/A/ |
+Gcc/ d/ c/ B/ |
+A2G).('g |
+ed/ c/cG |
+ce/ d/e).('c |
+edeg |
+edeg |
+ee/ d/cG |
+ce/ d<e).('g/ |
+f/ e/ d/ c/cG |
+ce{e}!mordent!!mordent!d3/c/ |
+c4) |]

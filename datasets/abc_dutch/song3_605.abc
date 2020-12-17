@@ -1,0 +1,22 @@
+X: 2604
+T: De klokke sluig aine snikkedik De maid was a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 1250465881
+%%humdrum-veritas-data 2819922539
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G F G B A G/ G/ |
+A3-A2).('D |
+G F G B A G/ G/ |
+A2>-A2) .('d d |
+d c B/ B/ c B) .('G/ G/ |
+[M:3/8]c B A/ A/ |
+[M:6/8]G3-G2) |]

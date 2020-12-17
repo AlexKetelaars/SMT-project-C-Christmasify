@@ -1,0 +1,31 @@
+X: 1011
+T: Schuitje varen over de zee Zeg meisje ga je  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 3084074874
+%%humdrum-veritas-data 3823916514
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2>A2G2D2 |
+E2G> ED3).('D |
+D> D c> BA3D |
+D> D B> AG2).('D2 |
+B2>A2G2D2 |
+E2G2D2).('G A |
+B2>G2A3F |
+G4z4) |
+[M:6/8].('D2GE2A |
+F E FG2B) |
+.('D2GE2A |
+F E FG3) |
+.('D2GE2A |
+F E FG2B) |
+.('D2GE2A |
+c B AG2B |
+G3) |]

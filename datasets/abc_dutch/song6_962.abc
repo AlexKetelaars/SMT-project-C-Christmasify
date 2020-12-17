@@ -1,0 +1,71 @@
+X: 5961
+T: Chaconne
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3229416457
+%%humdrum-veritas-data 3475474694
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+g2g a b g |
+a2d3d |
+d2(^c3B/ c/) |
+d2A3B) |
+.('c2c3d |
+B2>A2 B c |
+d2>d2 e =f |
+e2>).('e2 f g |
+f2>f2g2- |
+g a2<a2g) |
+.('g2G A B c |
+d2>e2 d e |
+d e d e d e |
+d e d e d c) |
+.('B2B cd2 |
+z2A Bc2 |
+z2G AB2 |
+c BA2B c) |
+.('B2B c d e |
+A2A B c d |
+G2G A B c |
+c B2<A2G) |
+.('G2g3g |
+g2f3g |
+^d2B2e2- |
+e f2<f2e) |
+.('e2g3g |
+g2f3f |
+f2g f e d |
+^c2a2).('b a |
+g fe2f g |
+f e2<d2).('d |
+d2c3c |
+c2B3B |
+B2A3A |
+A6) |
+.('z2d2g2 |
+e2e2a2 |
+f2>f2 g a |
+b6) |
+.('b2a3a |
+a2g3g |
+g a2<f2g) |
+.('g2G A B c |
+d2>e2 d e |
+d e d e d e |
+d e d e d c) |
+.('B2B cd2 |
+z2A Bc2 |
+z2G AB2 |
+c BA2B c) |
+.('B2B c d e |
+A2A B c d |
+G2G A B c |
+c B2<A2G |
+G4) |]

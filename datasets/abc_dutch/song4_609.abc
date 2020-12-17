@@ -1,0 +1,27 @@
+X: 3608
+T: Daar kwam er een scheepje aanzeilen Ja een s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 1800300326
+%%humdrum-veritas-data 139881250
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+G2>G2 A G F G |
+(A2B2)A2).('G A |
+B2d de2d2 |
+A6).('A B |
+c c c c d c B A |
+(G2d2)d2).('G2 |
+A Bc2B2A2 |
+G6).('A B |
+c c c e d c B A |
+(G2d2)d2).('G2 |
+A Bc2B2A2 |
+G6) |]

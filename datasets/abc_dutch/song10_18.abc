@@ -1,0 +1,22 @@
+X: 9017
+T: Daar was eens een meisje loos, Die wou gaan  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 177122665
+%%humdrum-veritas-data 1444535025
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C2EG2G |
+(c B) AG3) |
+.('F F FE2D |
+F F FE2D) |
+.('C2EG2G |
+(c B) AG3) |
+.('F F FE2E |
+D2DC2z) |]

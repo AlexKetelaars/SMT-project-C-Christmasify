@@ -1,0 +1,32 @@
+X: 6106
+T: Schoenlappertie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3441377036
+%%humdrum-veritas-data 1208665218
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A2 [I:setbarnb 1]|
+d2d2d2e d |
+^c2>=B2A4) |
+.('f2f2f2g f |
+e2d2c2).('f2 |
+f4g2f g |
+a4).('a2g f |
+e2d2e2d ^c |
+d6) :|]
+.('A2 [I:setbarnb 9]|
+d d d d d d d d |
+^c2>=B2A4) |
+.('f f f f f f f f |
+e2>d2c4) |
+.('f2f2g2f g |
+a4).('a2g f |
+e2d2e2d ^c |
+d4) |]

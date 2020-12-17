@@ -1,0 +1,15 @@
+X: 260
+T: Een aerbeytsman die drinct en sal niet worde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 2456671034
+%%humdrum-veritas-data 1308514520
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('zDDDDD2<A2).('BcABBA2).('zAAAAB2<c2).('A_BAGGF2).('zFFFGGA2).('GFEFDDC2).('zCDCDEF2).('DDFFG(GA2)G).('AFGEED4) |]

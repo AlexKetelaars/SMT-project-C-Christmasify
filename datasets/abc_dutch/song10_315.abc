@@ -1,0 +1,38 @@
+X: 9314
+T: Hooitijd, zweeltijd, De boeren raken d’r gel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 2725102036
+%%humdrum-veritas-data 1648708825
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d3B3 |
+d3B2).('d |
+d2d e e e |
+d3B2).('d |
+d e dB2d |
+d e dB2).('e |
+d2dB2e |
+d2dB2).('e |
+d3B2e |
+d3B3) |
+.('d2de2e |
+d2dB3) |
+.('d2de2e |
+d2dB3) |
+.('d2de2e |
+d d dB3) |
+.('d d de2e |
+d3B3) |
+.('d2d e e e |
+d2dB3) |
+.('G2AB2c |
+d2dd3) |
+.('e2dc2B |
+A2AG3) |]

@@ -1,0 +1,22 @@
+X: 5945
+T: Slyp scharen en messen, Jan de slijper is mi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1816168146
+%%humdrum-veritas-data 896076788
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c2>c2 d c |
+c3).('G2G |
+c d cc2B |
+cz2z2).('G |
+(c d) cc2B |
+c3G2).('G |
+c d cc2B |
+cz2z3) |]

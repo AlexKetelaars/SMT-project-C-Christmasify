@@ -1,0 +1,39 @@
+X: 10102
+T: Wat is het koud, o kindje teer, Hier in uw a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 476124386
+%%humdrum-veritas-data 904641372
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('D D D [I:setbarnb 1]|
+F2>A2 G B |
+A2>G2 A G |
+F2ED3- |
+D2>).('D2 D D |
+F2>A2 G B |
+A2>G2 A G |
+F2ED3- |
+D2z) .('A A A |
+c2cG2A |
+F2FB2A |
+G F GA3- |
+A2>).('D2 D D |
+F2>A2 G B |
+A2>G2 A G |
+F2ED3- |
+D2>).('A2 A A |
+c2cG2A |
+F2FB2A |
+G F GA3- |
+A2z) .('D D D |
+F2>A2 G B |
+A2>G2 A G |
+F2ED3- |
+D3) |]

@@ -1,0 +1,31 @@
+X: 15248
+T: Eens wilde Rosientje naar school toe gaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 3423022306
+%%humdrum-veritas-data 1855499896
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+GEG |
+GEG |
+GAB |
+c2).('c |
+cBA |
+GEG |
+GFE |
+D2).('c |
+ccc |
+ecc |
+BAA |
+A2).('A |
+ded |
+cBA |
+GAB |
+c2) |]

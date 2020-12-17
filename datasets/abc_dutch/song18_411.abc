@@ -1,0 +1,32 @@
+X: 17410
+T: Cotillon Derniere
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 2974433766
+%%humdrum-veritas-data 1695259730
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('gf/ e/ [I:setbarnb 1]|
+decd |
+B>cdG |
+cBA/ B/ c/ A/ |
+BG).('gf/ e/ |
+decd |
+B>cdG |
+cB/ A<AG/ |
+G2) |
+.('gf/ e/ [I:setbarnb 9]|
+fdgf/ e/ |
+fdgf/ g/ |
+a/ g/ f/ g/ a/ g/ f/ e/ |
+fd).('gf/ e/ |
+decd |
+B>cdG |
+cB/ A<AG/ |
+!fermata!G2) :|]

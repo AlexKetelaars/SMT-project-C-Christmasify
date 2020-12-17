@@ -1,0 +1,32 @@
+X: 17293
+T: suivons la aijamable paix
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3965858149
+%%humdrum-veritas-data 1617394578
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/8
+Q: 1/8=120
+K: C clef=treble
+.('g [I:setbarnb 1]|
+e f g e |
+c d e f |
+dB2).('d |
+d e c f |
+f e d g |
+!mordent!!mordent!ec2) |
+.('d [I:setbarnb 7]|
+d e f e |
+d d e c |
+d d e c |
+d B e c |
+A B A3/ B// c// |
+B3).('d/ e/ |
+f3e/ f/ |
+g e c f |
+d e !mordent!!mordent!d3/ g/ |
+e3) :|]

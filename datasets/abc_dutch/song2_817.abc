@@ -1,0 +1,35 @@
+X: 1816
+T: En jonge knapen wil niet slapen ontsluit uw  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2951213936
+%%humdrum-veritas-data 1811016171
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d d d g |
+B B B d) |
+.('G2G B |
+d2G3/) .('d/ |
+d d d g |
+B B B d) |
+.('G G G B |
+d2G3/) .('d/ |
+d d/ d/ d d |
+e2e) .('e |
+e/ e/ e/ e/ e e |
+(e d) d3/) .('d/ |
+d> d d3/ c/ |
+B B B) .('A |
+B d d d |
+G2z) .('d |
+d> d d c |
+B B B) .('A |
+B d d d |
+G2z) |]

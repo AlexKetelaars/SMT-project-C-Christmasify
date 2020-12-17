@@ -1,0 +1,44 @@
+X: 12547
+T: Cesilia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 303619870
+%%humdrum-veritas-data 2073313109
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E [I:setbarnb 1]|
+ABcd |
+ecc).('e |
+f/ g/ f/ e/dg/ f/ |
+ecc).('e |
+dc/ d/Be/ d/ |
+cAA).('c |
+BAB^G |
+A3) |
+.('e [I:setbarnb 9]|
+a>gab |
+g>^fg).('a |
+ba/ g<^fe/ |
+e3).('e |
+efge |
+a>gf).('e |
+dcdB |
+c3).('G |
+cdef |
+d>cB).('c |
+AcBA |
+^G2E2) |
+.('ABcd |
+e/ f/ e/ d/c).('e |
+f/ g/ f/ e/dg/ f/ |
+ecc).('e |
+dcBe/ d/ |
+cAA).('c |
+BAB^G |
+A3) :|]

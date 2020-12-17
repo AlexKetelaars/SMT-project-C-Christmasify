@@ -1,0 +1,35 @@
+X: 17191
+T: Lison dormoit dans un boccage un bras parcij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 3496086828
+%%humdrum-veritas-data 2668141459
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('(G A) B c [I:setbarnb 1]|
+d2> B2 (c B) (c d) |
+!trill!!trill!c2 B) .('d c2 (B A) |
+B2> (G2 A2) (G F) |
+G4).('(G A) (B c) |
+d2> B2 (c B) (c d) |
+(!trill!!trill!c2 B)) .('d c2 (B A) |
+B2> G2 A2 (G F |
+G4)).('D2 D- D |
+E2 E2 F2 F2 |
+G2 G2) .('A2 A A |
+B2 B2 ^c2 c2 |
+!fermata!d2> d2 d2 B2 |
+B2> d2 c2 A2 |
+A2>) .('c2 B2 (A G |
+F2) G2 c2 B2 |
+B2 A d d2 B2 |
+B2> d2 c2 A2 |
+A2>) .('c2 (B2 A) (G |
+F2) (G A B A G F) |
+G4) |]

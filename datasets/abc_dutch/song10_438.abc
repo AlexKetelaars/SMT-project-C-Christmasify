@@ -1,0 +1,41 @@
+X: 9437
+T: [...] Vader, ik ga trouwen, ‘k heb nen goeie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2016033201
+%%humdrum-veritas-data 259239327
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A3B3 |
+c3z2).('A |
+B2AB2c |
+d3c2z) |
+.('c2cB2B |
+c2BA2z) |
+.('A3-A2A |
+A2GA2c |
+d3c2z) |
+.('c2cB2B |
+c2BA2).('G |
+[M:2/4]A G F G |
+A G F G |
+A2B2 |
+c2-c z) |
+.('A G A G |
+A G F G |
+A2B2 |
+c2z2) |
+.('d2d3/ d/ |
+c2d3/ d/ |
+c c/ c/ B B |
+A2z2) |
+.('d2d3/ d/ |
+c2e3/ d/ |
+c c/ c/ B G |
+F2z2) |]

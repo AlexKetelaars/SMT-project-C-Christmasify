@@ -1,0 +1,25 @@
+X: 2666
+T: Een meisje speelde met mijnheer de Graaf Zow [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 3204312270
+%%humdrum-veritas-data 3232406808
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d G B [I:setbarnb 1]|
+[M:3/4]d> d c B e d |
+B2>).('d2 e f |
+[M:2/4]g d c B |
+d2A2- |
+A) .('d d f |
+[M:3/4]a> g f e d g |
+g2>).('g2 f e |
+[M:2/4]d> e c B |
+[M:2/4]A2G2- |
+G) |]

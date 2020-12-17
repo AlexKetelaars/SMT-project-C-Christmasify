@@ -1,0 +1,23 @@
+X: 6564
+T: En er viel een hemelsch dauwken, Al op eene  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 3417778987
+%%humdrum-veritas-data 3282623373
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A2B [I:setbarnb 1]|
+c2cB2c |
+A2B).('c2B |
+A2B/ B/c2B/ A/ |
+G2z).('E2E |
+A2B/ d/c2B |
+A2G).('A2A |
+B2c/ d/c2B |
+!fermata!A3) |]

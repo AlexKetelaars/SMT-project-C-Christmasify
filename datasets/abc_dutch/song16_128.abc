@@ -1,0 +1,27 @@
+X: 15127
+T: De lange dag is weer voorbij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2727155387
+%%humdrum-veritas-data 286633224
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GB2G |
+E2EE2G |
+D2D D E F |
+G3-G2).('G |
+F2F F E F |
+G2GG2B |
+A2A A B ^c |
+d2DD3) |
+.('c3B2B |
+A2Ad3) |
+.('c3B2B |
+A2AG3) |]

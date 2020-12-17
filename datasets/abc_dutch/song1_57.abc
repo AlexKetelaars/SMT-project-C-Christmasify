@@ -1,0 +1,31 @@
+X: 57
+T: Is Godtsdiensts vryheydt uwe wensch: Om Godt [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 879183163
+%%humdrum-veritas-data 3933258292
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('z4A2 |
+A4A2 |
+A4d2 |
+c4B2 |
+A4).('G2 |
+G4B2 |
+A4d2 |
+c4B2 |
+G4).('d2 |
+d4d2 |
+f4B2 |
+B4A2 |
+B4).('d2 |
+_e4c2 |
+f4G2 |
+^F4A2 |
+G6) |]

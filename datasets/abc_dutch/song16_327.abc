@@ -1,0 +1,27 @@
+X: 15326
+T: So viel Stern am Himmel stehn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 437849698
+%%humdrum-veritas-data 3351341019
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('F G [I:setbarnb 1]|
+A2A2B G |
+d cc2A c |
+c BB2c B |
+A3z) |
+.('c A [I:setbarnb 5]|
+A GG2d B |
+B AA2) :|]
+.('F G [I:setbarnb 7]|
+A2A2B G |
+d cc2A c |
+c BB2c B |
+A3z) |]

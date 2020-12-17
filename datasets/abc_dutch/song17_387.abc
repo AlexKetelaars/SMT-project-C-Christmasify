@@ -1,0 +1,15 @@
+X: 16386
+T: O Min! o Min! hoe zoet O Min! o Min! hoe zoet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 1890803856
+%%humdrum-veritas-data 1869648301
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('z2z2A2d2d2^c2(cd)d4z2z2).('A2d2ze2c2(cd)d4).('f2e4d2c4d2e4f2(e2A2)A2z2z2).('A2F4D2_B4A2F4G4<A4).('A2B2=c2F4c2(f2e2)d2e4c2(f2e2)d2e4).('A2(d2c2)=B4<A4).('A2G2zEF4F2).('d2c2zA2<_B2AG2F2E4D4) :|]

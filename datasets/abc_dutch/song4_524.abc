@@ -1,0 +1,29 @@
+X: 3523
+T: En de boom stond in groen aarde En bloeide z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 1373967807
+%%humdrum-veritas-data 1048864552
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+G G A A |
+(B d) d) .('c |
+B2A A |
+G3) ||
+.('B [I:setbarnb 5]|
+A B A G |
+F ED2) |
+.('A2A E/ E/ |
+E D D) .('D/ D/ |
+G F/ E/ D) .('D/ D/ |
+G G A A |
+(B d) d) .('c |
+B2A A |
+G3) |]

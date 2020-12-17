@@ -1,0 +1,27 @@
+X: 10535
+T: Zondagmorgen toen kregen we de loods aan boo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 661039067
+%%humdrum-veritas-data 3699086388
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('F G [I:setbarnb 1]|
+A>- A A- A d- d (F A) |
+A2(G> F)E2).('G3/ F/ |
+E> E d>- dc3B |
+c2>B2A2).('A3/ G/ |
+F>- F A>- A B>- B A3/ A/ |
+A>- A G>- GG2).('G3/ F/ |
+E>- E (F> G) A>- A A3/ G/ |
+F> E (F> G)F2z2) |
+.('c4d> c d3/ F/ |
+G2A2B2z2) |
+.('c4d> c d3/ B/ |
+G- (G F) ED2) |]

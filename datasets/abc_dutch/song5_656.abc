@@ -1,0 +1,42 @@
+X: 4655
+T: Komt alle mijne vrienden Blijf hier een wein [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 1238512237
+%%humdrum-veritas-data 3751255425
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B< B A A |
+BG2).('d |
+d d e d |
+A3).('D |
+A A/ A/ A A |
+AA2).('G |
+A G/ G/ E A |
+D3).('B |
+B> B B B |
+B3).('B |
+B B/ B/ c/ c/ B |
+A3).('A |
+A A A B |
+A2z/) .('A/ A/ A/ |
+A A G E |
+D2).('(E F) |
+G2B3/ B/ |
+B4) |
+.('B2B3/ B/ |
+[M:3/4]B B B B c B |
+[M:2/4]A4) |
+.('A2A3/ A/ |
+A4) |
+.('A2A3/ A/ |
+A B/ B/ B c |
+B2A2 |
+G4) |]

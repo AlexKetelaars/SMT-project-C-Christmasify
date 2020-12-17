@@ -1,0 +1,35 @@
+X: 4108
+T: Brand in de lanteerne De vonken vliegen d'r uit.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 827643894
+%%humdrum-veritas-data 1938856305
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B B B B |
+BG2).('B |
+d> d (3d d d |
+d3).('B |
+c c c c |
+cA2).('A |
+(3B B B B B |
+B4) |
+.('B BG2 |
+B BG2) |
+.('B> B B G |
+d2d2) |
+.('G> G G3/ B/ |
+d> dd2) |
+.('G> G G3/ B/ |
+d> dd2) |
+.('G> G G B |
+d4) |
+.('e e d c |
+B2A2 |
+G4) |]

@@ -1,0 +1,27 @@
+X: 7354
+T: En daar achter in die velden, Daar staat een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:37
+%%humdrum-veritas 3954832972
+%%humdrum-veritas-data 2139564648
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('G3/ G/ [I:setbarnb 1]|
+F2>G2A2B2 |
+A2G2z2).('B2 |
+B2>B2(c2d) c |
+[M:2/4]B4) |
+[M:4/4].('c4c2c2 |
+B> c B A G A) .('B c |
+B2A GA2B2 |
+[M:2/4]G4) |
+[M:4/4].('c4c2e2 |
+B> c B A G A) .('B c |
+B2A GA2B2 |
+E4z2) |]

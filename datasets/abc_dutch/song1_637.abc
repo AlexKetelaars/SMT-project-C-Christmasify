@@ -1,0 +1,15 @@
+X: 637
+T: Hoe schoon, hoe goet, hoe wel ghedaen, So is [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2321050758
+%%humdrum-veritas-data 3233669201
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2C2C2C2F2C2D2E2F4z2).('F2F2F2(G2>F2E2)F2D4C4z2).('F2F2C2(C2>B,2A,2)B,2G,4F,4z2).('F2F2G2A2F2G2(G4F)ED4z2).('G2G2G2(F2EDC2)E2D4C4) |]

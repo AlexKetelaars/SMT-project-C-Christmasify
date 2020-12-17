@@ -1,0 +1,31 @@
+X: 2016
+T: Wie hoor ik hier zo kermen en zo klagen Wie  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 2539676574
+%%humdrum-veritas-data 943089865
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+DGG3/G/ |
+G3G |
+GdB3/G/ |
+G2F2- |
+F).('DDF |
+F2F3/F/ |
+FcB3/A/ |
+G2G2) |
+[M:6/4].('d2d>dd3/d/ |
+[M:4/4]dBed |
+cBcd |
+e4) |
+.('c2B3/A/ |
+GBdg |
+f>ed3/c/ |
+B4) |]

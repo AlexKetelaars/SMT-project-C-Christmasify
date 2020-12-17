@@ -1,0 +1,106 @@
+X: 17252
+T: Volg de deugd, zy beloofd u het leeven, Met  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3273050450
+%%humdrum-veritas-data 832873086
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('zdf |
+eef |
+dde |
+^c2c |
+z).('A_B |
+_BAA |
+ddG |
+A2A) |
+.('zA3/B/ |
+c2c/ A/ |
+d2g/ e/ |
+fe3/e/ |
+f).('A3/B/ |
+c2c/ A/ |
+d2g/ e/ |
+fe3/d/ |
+d3) ||
+.('fdf [I:setbarnb 19]|
+eef |
+dde |
+^c2c |
+z).('A3/B/ |
+ccf |
+dde |
+fe3/e/ |
+f2).('f/ g/ |
+eef |
+dde |
+^c2c |
+z).('fg |
+eef |
+dde |
+f^c3/d/ |
+d).('fg |
+eef |
+dde |
+^c2c |
+z).('fg |
+eef |
+dde |
+f^c3/d/ |
+d) ||
+.('f3/f/ [I:setbarnb 43]|
+AAA |
+dd3/e/ |
+^c2c |
+z).('ff |
+AAA |
+dd3/e/ |
+^c2c |
+zz).('A |
+e>e e/ f/ |
+d2g |
+g>g f/ e/ |
+f2).('f |
+e/ d<c_B/ |
+Ad3/e/ |
+fe3/d/ |
+d2).('A |
+e>e e/ f/ |
+d2g |
+g>g f/ e/ |
+f2).('f |
+e/ d<c_B/ |
+Ad3/e/ |
+fe3/d/ |
+d) ||
+.('A3/B/ [I:setbarnb 67]|
+cA_B |
+Ad3/e/ |
+^c2c |
+z).('A3/B/ |
+c^c3/c/ |
+ddg |
+e2e |
+zz).('f |
+^f>f f/ f/ |
+gde |
+fe3/e/ |
+f2).('f |
+^f>f f/ f/ |
+ge^c |
+dd^c |
+d2).('f |
+^f>f f/ f/ |
+gde |
+fe3/e/ |
+f2).('f |
+^f>f f/ f/ |
+ge^c |
+dd^c |
+d3) |]

@@ -1,0 +1,32 @@
+X: 12339
+T: Clarinde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 2247759542
+%%humdrum-veritas-data 2811927379
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d [I:setbarnb 1]|
+g2g2f g f e |
+d2(d e)d2).('(e d) |
+c2(c d) c e d c |
+B2).('(A B) G A B c |
+d2(d c) B c d e |
+!trill!!trill!f4f2).('(g e) |
+d2(c B) A B c A |
+B4B2) |
+.('B c [I:setbarnb 9]|
+d2d2d f e d |
+c2c2).('c e d c |
+B2(A B) G B A G |
+^F2D2D2).('(d e) |
+f2(e d) g b a g |
+^f2d2).('g2d2 |
+e d c B2<!trill!!trill!A2G |
+G6) :|]

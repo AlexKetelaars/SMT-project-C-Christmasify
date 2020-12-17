@@ -1,0 +1,34 @@
+X: 9571
+T: Ik pakte mijn meisje al bij haar lieve hoofd [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 3807357322
+%%humdrum-veritas-data 1969882473
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: E clef=treble
+.('B [I:setbarnb 1]|
+B2B B |
+e2d c |
+B B B B |
+e2B) .('B |
+B B B B |
+c B G E |
+D3).('B |
+B2B2 |
+c B B B |
+B B e G/ G/ |
+G2F) .('G |
+G2F2 |
+F3z) |
+.('G G G F |
+F3z) |
+.('F F F F |
+F G ^A B |
+c c ^A A |
+B3) |]

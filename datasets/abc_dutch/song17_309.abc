@@ -1,0 +1,54 @@
+X: 16308
+T: Roosje, waerdig om te minnen! Roosje, bloem  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 303603530
+%%humdrum-veritas-data 748808516
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('d2c |
+(d/ e/ f) A |
+(B g) {f/} e |
+{d}c2d) |
+.('f2(3(f/ e/ d/) |
+(e d) c |
+d {c}!trill!!trill!B2 |
+(3(c/ B/ A/)A2) |
+.('c2^d |
+{^d}e3 |
+B2c |
+{c2}d3) |
+.('A A A |
+(A ^G) A |
+d (d c) |
+{c2}B3) |
+.('(E/ F/) (^G/ A/) (B/ c/) |
+d2c |
+(3(f/ e/ d/ c) B |
+A3) |
+.('e2d |
+(c B) A |
+G!trill!!trill!E2 |
+(F> E) (F/ G/)) |
+.('(A B) =c |
+=c2B |
+(B/ d/ c/ e/) (d/ f/) |
+f e) .('e |
+f/ e/ d c |
+(B/ ^A/) B) (3.('(d/ c/ B/) |
+e/ d/ c B |
+(A/ ^G/) A) (3.('(c/ B/ A/) |
+d2B |
+{A}^G2A |
+G (G F) |
+{F}E2).('(A/ G/) |
+(F A) d |
+(B g) f |
+e {d}!trill!!trill!c2 |
+d3) :|]

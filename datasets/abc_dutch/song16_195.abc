@@ -1,0 +1,43 @@
+X: 15194
+T: Geflatteerd
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2438649334
+%%humdrum-veritas-data 319975500
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GGz/ G/ |
+AAz/ D/ |
+DcA |
+Bzz/) .('D/ |
+GGG |
+A/ E/cA |
+GFE/ F/ |
+Gzz/) .('A/ |
+Afd |
+^c/ e/Gz/ G/ |
+BAG |
+Fzz/) .('A/ |
+Ad^c |
+Bed |
+d^cB/ c/ |
+dz).('d |
+d/ c/ez/ c/ |
+c/ B/dz/ B/ |
+Bcd |
+Azz/) .('D/ |
+GGG |
+AAA |
+FDD |
+dzz/) .('B/ |
+dcA |
+AGG |
+FBA |
+Gzz/) |]

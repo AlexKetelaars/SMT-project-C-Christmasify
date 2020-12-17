@@ -1,0 +1,64 @@
+X: 12183
+T: Dor was laatst ‘n boeremeid, die werd gevrij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 3608497984
+%%humdrum-veritas-data 2309218722
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G3A |
+B2c2 |
+d2e2 |
+d d c A |
+G4- |
+G2z3/) .('c/ |
+c2c c |
+c2(B c) |
+d2e2 |
+d2z2) |
+.('c2c c |
+c2d e |
+(d c) (B c) |
+A2z) .('d |
+d3B |
+B2A B |
+c2B2 |
+A2G z) |
+.('B2A3/ G/ |
+A2A2 |
+G> A B3/ c/ |
+d2z) .('D |
+G2G A |
+B2B c |
+d2e2 |
+d2).('c B |
+A c B A |
+G2z3/) .('c/ |
+c2c c |
+c2(B c) |
+d2e2 |
+d2z2) |
+.('c2c c |
+c2d e |
+(d c) (B c) |
+A2z) .('d |
+d3B |
+B2A B |
+c2B2 |
+A2G z) |
+.('B2A3/ G/ |
+A2A2 |
+G> A B3/ c/ |
+d2z) .('D |
+G2G A |
+B2B c |
+d2e2 |
+d2).('c B |
+A c B A |
+G4) |]

@@ -1,0 +1,18 @@
+X: 1461
+T: Op in simmermoarn bitid foer ik mei myn boatsje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 3668722212
+%%humdrum-veritas-data 1273469960
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D B G G B, ED2) |
+.('C> B, C DE2D2) |
+.('D B G G B, ED2) |
+.('G A c BG2z2) |]

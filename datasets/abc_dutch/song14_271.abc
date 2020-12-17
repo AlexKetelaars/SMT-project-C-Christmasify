@@ -1,0 +1,55 @@
+X: 13270
+T: [Quadrilles]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 2276402692
+%%humdrum-veritas-data 4124645017
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 B G [I:setbarnb 1]|
+F2 A F G2 B G |
+D4G2 B G |
+F2 A F G A B c |
+d B c A) .('G2 B G |
+F2 A F G2 B G |
+D4G2 B G |
+F2 A FG4) ]|:
+.('z4B2 d2 |
+g2 d2 c2 B2 |
+c2 a c B2 g B |
+A2 B d c B A G |
+G F E D) .('B2 d2 |
+g2 d2 c2 B2 |
+c2 a c B2 g B |
+A2 B d c B A G |
+d ^c d c d =c B A) |
+.('G2 B G F2 A F |
+G2 B GD4 |
+G2 B G F2 A F |
+G A B c d B c A) |
+.('G2 B G F2 A F |
+G2 B GD4 |
+G2 B G F2 A F |
+G4G,4) |
+.('_B2 A2 c2 B2 |
+d2 c2 _e2 d2 |
+c2 _B2 A2 G2 |
+^c d c dD4) |
+.('_B2 A2 c2 B2 |
+d2 c2 _e2 d2 |
+c2 _B2 A2 G2 |
+{^c}d4D4) |
+.('G2 B G F2 A F |
+G2 B GD4 |
+G2 B G F2 A F |
+G A B c d B c A) |
+.('G2 B G F2 A F |
+G2 B GD4 |
+G2 B G F2 A F |
+G4) :|]

@@ -1,0 +1,35 @@
+X: 927
+T: ’t Was op een Zondagmörgen Main alderlaifste dag
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 240197185
+%%humdrum-veritas-data 505725870
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G |
+G2G |
+(G2B) |
+d2).('B |
+A2G |
+F2A |
+D3- |
+D2).('c |
+B2G |
+GAB |
+c2c |
+c2).('B |
+A2A |
+ABc |
+d2d |
+(dB)).('A |
+G2G |
+(FE)F |
+G3- |
+G2) |]

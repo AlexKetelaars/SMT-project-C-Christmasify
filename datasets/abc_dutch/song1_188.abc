@@ -1,0 +1,15 @@
+X: 188
+T: Dancket den Heer' seer hoogh' ghepresen, Wan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 4159793838
+%%humdrum-veritas-data 1478149012
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c4A2G2c2c2d2f2e4d4z4).('g4e2e2c2f2e4d4c4z4).('c4A2G2c2c2d2f2e4d4z4).('g4f2e2d2c2c2B2c4z4).('g4g2f2e4d4c2B2A4G4z4).('G4c2c2B2A2c4d4e4z4).('c4c2d2e2c2f2f2e4d4z4).('g4f2e2d2c2c2B2c4) |]

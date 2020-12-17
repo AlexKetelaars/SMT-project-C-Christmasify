@@ -1,0 +1,15 @@
+X: 3212
+T: Wat hoort men onder de vizitoeren van de jon [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 3082024319
+%%humdrum-veritas-data 1375905422
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G B d2<g2f/ f/ e d f ez2).('A B c e d cB2z) .('(G B) d2<g2f e d f e z) .('A A B c e d cB2z2).('(g f)f2e dd2).('e2d c c B B) .('B A A/ A/ g g e e a>) .('f d d e fg2) |]

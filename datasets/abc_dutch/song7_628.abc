@@ -1,0 +1,31 @@
+X: 6627
+T: Nog staat daar een roze Te bloeien alleen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 1897903756
+%%humdrum-veritas-data 2806603021
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('(D3/ E/) [I:setbarnb 1]|
+F2(d> c) (B3/ A/) |
+A2F2).('(D3/ E/) |
+(FA2F) E3/ D/ |
+D4).('(D3/ E/) |
+F2(d> c) (B3/ A/) |
+A2F2).('(D3/ E/) |
+(FA2F) E3/ D/ |
+D2>z2) .('(A3/ F/) |
+(d2>c2) B3/ A/ |
+A2F2).('(A3/ F/) |
+(d2>c2) B ^A |
+(B> cd2)).('(D3/ E/) |
+F2(d> c) (B3/ A/) |
+A2F2).('(D3/ E/) |
+(FA2F) E3/ D/ |
+D4z2) |]

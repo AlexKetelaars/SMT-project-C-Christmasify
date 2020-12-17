@@ -1,0 +1,54 @@
+X: 2756
+T: Eén is één ene God alleen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 1742295306
+%%humdrum-veritas-data 1073513729
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2A2 |
+G3).('D |
+GGG/ G/A |
+G2D2) |
+.('GGGA |
+G2D).('D |
+GGGA |
+GGD).('D |
+G2G3/A/ |
+G2D).('D |
+GGGA |
+G2D2) |
+.('G2GB |
+d4) |
+.('c2cc |
+B2cB |
+A2A2 |
+G3).('D |
+G2G/ G/A |
+G2D2) |
+.('G>GGA |
+G2D).('D |
+GGGA |
+G2D2) |
+.('G>GGA |
+G2D2) |
+.('G2GA |
+G2D2) |
+.('G2G2 |
+A2A2 |
+d3c |
+B2A2) |
+.('G2GE |
+E>DD2) |
+.('G>GGB |
+d4) |
+.('c>ccc |
+B2cB |
+A2A2 |
+G4) |]

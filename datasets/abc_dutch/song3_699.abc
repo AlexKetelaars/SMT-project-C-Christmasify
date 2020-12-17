@@ -1,0 +1,40 @@
+X: 2698
+T: Het fonds [Alfons] was achttien jaar moest z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 1687266606
+%%humdrum-veritas-data 978508475
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+B,C/DE/ |
+D3/-D).('D/ |
+GG/AA/ |
+[M:9/8]B3/G3/-G).('G/ |
+[M:6/8]GG/FG/ |
+A3/).('EF/ |
+AG/FE/ |
+D3/-D).('D/ |
+AA/AF/ |
+D3/-D).('D/ |
+E/ E/ D/FF/ |
+[M:9/8]G3/D3/-D).('D/ |
+[M:6/8]AA/A^G/ |
+A3/).('E3/ |
+F3/G3/ |
+AG/ F/ F3// E// |
+D3/-D).('D/ |
+B3/FG/ |
+[M:9/8]BG/D).('D/GA/ |
+[M:6/8]B3/A3/ |
+G3/-G).('D/ |
+B3/FG/ |
+[M:9/8]BG/D).('D/GA/ |
+[M:6/8]B3/A3/ |
+G3/-G3/) |]

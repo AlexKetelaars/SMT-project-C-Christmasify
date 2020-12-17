@@ -1,0 +1,40 @@
+X: 16283
+T: Vaert wel, ô Beemden en Valeijen! Vaer eeuwi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1475324209
+%%humdrum-veritas-data 3990031123
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A d A [I:setbarnb 1]|
+(G< F) (E< D) (B< G) (d/ B3/) |
+!trill!!trill!B2 A2 z) .('A d F |
+{F} G2> B2 (B2 A) G |
+{G2}F4z) .('A A A |
+f2> e2 (d c) (B A) |
+(3(^G F E) E2) .('(B3 c/ d/) |
+(c e) (d f) (e2 f) d |
+(F2> B2 A2) !trill!!trill!^G2 |
+A4).('(B3 c/ d/) |
+(c d/ e/) (d e/ f/) (e2 f/) (d/ c/ B/) |
+(F3 ^G/ A// B// {A B} !trill!!trill!B3) A |
+A4) |
+.('z A e c [I:setbarnb 13]|
+{B} ^A2> g2 {g} f3 e |
+(3(d c B) B2 z) .('B c d |
+A2> B2 {A} !trill!!trill!G3 (F/ G/) |
+{G}F4z) .('A B =c |
+(=c4B) B ^c d |
+d2 {c d} c2 z2) .('(e3/ f// g//) |
+f2 A2 d2 f2 |
+(B2> e2 d2) !trill!!trill!c2 |
+{c}d4z2) .('(E3/ F// G//) |
+(F G/ A/) (G A/ B/) (A2 B/) (G/ F/ E/) |
+(D3 C/ D// E// {D E} !trill!!trill!E3) D |
+D4) :|]

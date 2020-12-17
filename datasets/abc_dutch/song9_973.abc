@@ -1,0 +1,32 @@
+X: 8972
+T: Ik heb een meitak in de hand, Aan wie zal ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 1463362317
+%%humdrum-veritas-data 436484526
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G G A A |
+G G E) .('E |
+F F D D |
+E2C) .('G |
+G G A A |
+G G E) .('E |
+F F (3(D E) D |
+E2C2) |
+.('G2A A |
+G2E2 |
+G2A A |
+G2E2) |
+.('F> E (3D E F |
+E DC2) |
+.('F> E (3D E F |
+(E2D2) |
+C3) |]

@@ -1,0 +1,26 @@
+X: 8782
+T: Es sout een Meiskin halen wijn Snavens al so spade
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 1252757980
+%%humdrum-veritas-data 4252567553
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 5/4
+Q: 1/4=120
+K: C clef=treble
+.('D [I:setbarnb 1]|
+DDC2D |
+(F2E/ D/E)E |
+D2).('(DF)G |
+AA(A/ B/ c/ B/A |
+[M:13/8]G/ F/GA)Fz/).('CF |
+[M:5/4]FG(A2G) |
+(F2E/ D/)EE |
+D2z).('(CF) |
+FGA2G |
+(F2E/) D/EE |
+D2) |]

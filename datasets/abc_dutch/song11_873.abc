@@ -1,0 +1,33 @@
+X: 10872
+T: Als Bacchus op zen eerste tunne zat, ‘t Reên [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 596181600
+%%humdrum-veritas-data 3852584449
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+B B c d |
+c2B2 |
+A AF2) |
+.('B2c d |
+c2!fermata!B) .('B |
+(c B) A G |
+F2).('F F |
+F F G A |
+(c B) !fermata!G) .('B |
+(c B) A G |
+G2F2 |
+z2).('B d |
+c2B2 |
+A2F2) |
+.('B2c d |
+c2z2) |
+.('B2c B |
+G2F2) |]

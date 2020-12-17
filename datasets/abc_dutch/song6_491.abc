@@ -1,0 +1,27 @@
+X: 5490
+T: Het ghinghen drie ghespeelkens goet Spaceren [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 871278565
+%%humdrum-veritas-data 2163034115
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('DDD |
+A2A |
+cA2 |
+F2z) |
+[M:4/4].('zAAA |
+(B>AF)G |
+F2z2 |
+z).('FFA |
+(G// F// G// A//) (G/ F<)ED/ |
+C2z).('C |
+DEFD |
+(A>G F/ E// D//)E |
+D2z) |]

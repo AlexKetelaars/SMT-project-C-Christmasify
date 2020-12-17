@@ -1,0 +1,61 @@
+X: 517
+T: Siet daar is 't Ligt Daar is nu 't ligt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1087810668
+%%humdrum-veritas-data 357825700
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G2G^F |
+GBAG |
+^F2).('FG |
+A2B2 |
+AAGA |
+A(G2^F) |
+G4) |
+.('G2G^F |
+GBAG |
+^F2).('FG |
+A2B2 |
+AAGA |
+A(G2^F) |
+G4 |
+z2).('G2 |
+^F2G2 |
+A4 |
+z2).('B2 |
+ABGG |
+^F2).('d2 |
+cBBA |
+B4 |
+z2).('B2 |
+B2B2 |
+A4 |
+z2).('A2 |
+d3c |
+B2A2 |
+G4 |
+^F4 |
+z2).('^F2 |
+B>AG2 |
+G4 |
+^F4) |
+.('G2G^F |
+GBAG |
+^F2).('A2 |
+BBBB |
+(AG2^F) |
+G4 |
+z2).('d2 |
+dddd |
+cBA).('G |
+FGA2- |
+AGG2- |
+(G^F/ E/)F2 |
+G4) |]

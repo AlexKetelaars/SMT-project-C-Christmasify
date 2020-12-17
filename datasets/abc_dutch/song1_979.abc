@@ -1,0 +1,31 @@
+X: 979
+T: Wij dragen thans een modepet Die is voorzien [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 3884212472
+%%humdrum-veritas-data 3431880864
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('D [I:setbarnb 1]|
+D2DD2D |
+G2GG2).('D |
+D2DD2D/ D/ |
+B2AG3) |
+.('E2EE2E |
+E2EE2).('E |
+G G GG2G |
+F2D C) .('G F |
+E E EE2E |
+E E EE2).('E |
+G2GF2F |
+E2>C2) .('G F |
+E E EE2E |
+E E EE2).('E |
+G2GF2D |
+C3-C2) |]

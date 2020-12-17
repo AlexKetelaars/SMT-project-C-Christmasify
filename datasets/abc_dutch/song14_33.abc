@@ -1,0 +1,27 @@
+X: 13032
+T: Mooi Ietje Fietje trek je baljurk aan Dan zu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 4084256815
+%%humdrum-veritas-data 3838757669
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+EGG/ G/ G/ G/ |
+AGG).('G |
+E/ E/GG/ G/ G/ G/ |
+AGGz) |
+.('GGc2 |
+AAd2) |
+.('BBAG |
+ABcz) |
+.('GGc2 |
+A/ A/Ad2) |
+.('BB/ B/AG |
+ABc2) |]

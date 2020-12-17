@@ -1,0 +1,28 @@
+X: 5827
+T: Sint Joseph ging al treuren, Hij ging van de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2108161171
+%%humdrum-veritas-data 764039399
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G>FGA |
+(B>A)G).('A |
+BABc |
+(d>c)B).('d |
+^c>c {d}(cB/) c/ |
+d2) ]|:
+.('de/ d/ [I:setbarnb 7]|
+cd/ c/BB |
+Az).('GA |
+BABc |
+dB).('dd |
+ed/ c/BA |
+G2z) :|]

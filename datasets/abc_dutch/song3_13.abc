@@ -1,0 +1,28 @@
+X: 2012
+T: En er reed er eens een ruitertje door het wo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 976148111
+%%humdrum-veritas-data 3027875835
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B3// B// [I:setbarnb 1]|
+G/> G/G(B/ A/) |
+GG(B/ c/) |
+[M:4/4]d2e2 |
+[M:3/4]d2).('B3// B// |
+G/> G/G(B/ A/) |
+GG(B/ c/) |
+[M:4/4]d2e2 |
+d2).('e2 |
+dc/ c/BA |
+[M:3/4]BG).('A |
+Bcd |
+A>BA |
+G2) |]

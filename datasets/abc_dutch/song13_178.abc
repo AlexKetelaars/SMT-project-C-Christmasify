@@ -1,0 +1,27 @@
+X: 12177
+T: Boeredochters die hier in ‘t ronde staat hoo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 715169394
+%%humdrum-veritas-data 365393969
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C C [I:setbarnb 1]|
+F2F2A2G2 |
+F2E DC2).('F2 |
+F FF2B2A2 |
+A2G2z2).('C2 |
+F F F FA2G2 |
+F F E DC2z2) |
+.('F2F FB2A2 |
+A2G2z2).('A2 |
+c c c AF2).('F F |
+B B B AG2).('C2 |
+F F G GA2d d |
+c2B GF2) |]

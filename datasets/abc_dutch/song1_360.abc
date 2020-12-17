@@ -1,0 +1,20 @@
+X: 360
+T: Psalm 103
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 3568057575
+%%humdrum-veritas-data 3929274126
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 16/2
+Q: 1/2=60
+K: F clef=treble
+.('c4d2e2f4f4e2d2e2f2d4c4) ||
+.('c4c2B2A4A4A2G2A2B2G4F4) ||
+.('z2c2d4f4e4d4e2f2d2d2c4) ||
+.('f4f2e2d4c4c2d2c2B2A4G4) ||
+.('G4c2c2d4c4c2c2d2e2f4e4) ||
+.('z2c2d4f4e4d4e2f2d2d2c4) |]

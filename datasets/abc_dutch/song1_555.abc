@@ -1,0 +1,15 @@
+X: 555
+T: Salich is die man, en goet gheheten Die tot  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2879073584
+%%humdrum-veritas-data 2679738791
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('A2>A2A2F4<B4A2G2F2(E2>D2)C4z2).('C2F2>F2E2E2(GAB)GA4z2).('A2A2F4<B4A2G2F2(E2>D2)C4z2).('A2A2>G2F2G4(F2EDF)EF4) |]

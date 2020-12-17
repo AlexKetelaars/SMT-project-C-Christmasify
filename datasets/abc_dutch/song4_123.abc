@@ -1,0 +1,32 @@
+X: 3122
+T: En d’r was een meisje van Sinterniklaas
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 3403454982
+%%humdrum-veritas-data 371532556
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ d/d2d [I:setbarnb 1]|
+B3g2f e e e |
+[M:6/8]d2).('c/ c/B2A |
+[M:9/8]G3g2f e f g |
+[M:6/8]d3z2).('d |
+e2de2f/ f/ |
+g2f).('g2a/ b/ |
+(a2f)d3- |
+d2).('bb2a |
+[M:9/8]g3-g2fe2^d |
+e3z2).('d/ d/ d c B |
+c3-c2e e d c |
+B3).('g3f2e |
+[M:6/8]d2d e f e |
+[M:9/8]d3g3-g3) |
+[M:6/8].('g3a2g |
+d2d e f e |
+[M:9/8](d2B)G2) |]

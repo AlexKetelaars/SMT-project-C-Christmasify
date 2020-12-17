@@ -1,0 +1,22 @@
+X: 5327
+T: Is dat nu geen schöne lamp, ja dat is een sc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 460717350
+%%humdrum-veritas-data 4039754062
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('F3/ F/ [I:setbarnb 1]|
+F> F E3/ C/ |
+D2).('F3/ G/ |
+A> A G3/ E/ |
+F2).('F3/ G/ |
+(A2F3/ G/ |
+A2)).('(F3/ G/ |
+[M:5/4]A2B2>A2 G FD2)) |]

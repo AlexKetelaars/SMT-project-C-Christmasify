@@ -1,0 +1,32 @@
+X: 493
+T: Onnosel hert! O Duyve sonder gal! Die door e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 2657440265
+%%humdrum-veritas-data 4020757346
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G2BB |
+A2d2 |
+cdBc |
+A4) |
+.('A2AB |
+c2d2 |
+BcA3/A/ |
+G4) |
+.('c2df |
+ed^cd |
+d^cd2) |
+.('A/ G/ A/ B/c2 |
+G/ A/ B/ c/d2) |
+.('A/ G/ A/ B/cd |
+B2A2) |
+.('d2c/ B/ A/ G/ |
+^FGA2 |
+G4) |]

@@ -1,0 +1,34 @@
+X: 3113
+T: Toen ik pas getrouwd was kreeg ik eerst een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 2229576319
+%%humdrum-veritas-data 785956567
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('E [I:setbarnb 1]|
+G G A A |
+G2z E |
+G G A A |
+G2z) .('E |
+E E E E |
+E/ E/ EE2) |
+.('D DD2 |
+C CC2) |
+(3.('G G G A3/ E/ |
+G/ G/ G A3/) .('G/ |
+c> d c B |
+A G F3/) .('G/ |
+c> d c B |
+A GF2 |
+z2z) .('F |
+G G A A |
+_B3).('B |
+_B B B B |
+_B/ B/ B_E2) |]

@@ -1,0 +1,31 @@
+X: 12572
+T: De Quesel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 3074474916
+%%humdrum-veritas-data 3284889893
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('f3/ag/ |
+f3/f).('c/ |
+dd/cB/ |
+AG/AB/ |
+c3/-c).('c/ |
+d/> e/ f/ g/> f/ e/ |
+f3/-f) |
+.('f/ [I:setbarnb 8]|
+fc/d_e/ |
+d3/-d).('d/ |
+gf/!trill!!trill!ef/ |
+g3/-g).('g/ |
+af/ba/ |
+!trill!!trill!g3/f).('a/ |
+gf/ed/ |
+cd/ef/ |
+!trill!!trill!e3/f3/) :|]

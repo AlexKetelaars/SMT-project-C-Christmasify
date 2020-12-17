@@ -1,0 +1,15 @@
+X: 2486
+T: Wat brengt de liefde menig paar op 's wereld [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 1774603571
+%%humdrum-veritas-data 2371951271
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('DG2GG2GB2GD2).('DG2F2<c2-c2).('AF2ED2dB2AG2).('DE2F2<G2-G2).('AB2F2<A2-A2).('^cB2F2<A2).('c3B2A2<A2-A2).('dd2BG2Bd2F2<A2-A2).('FA2ed2_d2<=c2).('B3=d2G2<F2-F2DA2FA2d2<B2G3).('d3B2Gc2AF2DB2G2<A2-A3).('c3c2A2<c2-c2AB2Af2eed2-d2).('DG2Bd2GG2FB2A2<G2-G2) |]

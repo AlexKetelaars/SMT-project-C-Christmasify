@@ -1,0 +1,28 @@
+X: 11141
+T: O vrienden, hoort een klucht der kluchte’, I [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 912237607
+%%humdrum-veritas-data 1782688692
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C C C) [I:setbarnb 1]]|:
+.('F2FF2A |
+F2F).('E2F |
+G2G F F G |
+!fermata!A2) :|]
+.('z G G G [I:setbarnb 5]|
+A3F3 |
+E2z) .('G G F |
+F2>A2 B A |
+!fermata!G2>).('G2 G G |
+A3F3 |
+E2z).('C2C |
+F2FG2G |
+F2zz2) |]

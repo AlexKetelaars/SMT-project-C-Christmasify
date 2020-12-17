@@ -1,0 +1,27 @@
+X: 1325
+T: Toen ik stond op hoge bergen Keek ik in een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 1540126052
+%%humdrum-veritas-data 2096950840
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B A [I:setbarnb 1]|
+G2G2A A |
+(B e)d2c B |
+A2A2G A |
+B4).('d d |
+e2e2d c |
+(B e)d2c B |
+A2d2e d |
+B4).('d d |
+e2e2d c |
+(B e)d2c B |
+A2d2e d |
+G4) |]

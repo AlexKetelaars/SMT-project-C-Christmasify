@@ -1,0 +1,53 @@
+X: 16197
+T: O Schoone wilt niet vlugten, Volmaakte staa staa
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1871147139
+%%humdrum-veritas-data 2899117140
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+B2>A2 B G |
+c2>B2).('A2 |
+d2>e2^c2 |
+d4).('d2 |
+(e d e fe2 |
+A G A BA2 |
+d c c ed2 |
+G F G AG2 |
+c B c d e f) |
+d2>c2).('B2 |
+B2>A2G2 |
+G4).('B2 |
+B2>B2c2 |
+A2A2).('B2 |
+G2G G A G |
+^F2F2).('B2 |
+d2d2d2 |
+B4).('B2 |
+e2e2e2 |
+^c4).('A2 |
+d2>e2 d c |
+B2^c2).('d2 |
+d2>e2^c2 |
+d4).('G2 |
+B2B2G2 |
+d2B2).('e2 |
+d d2<d2c |
+B4).('d2 |
+d6 |
+d4B2 |
+(d c d ed2 |
+G F G AG2 |
+c B c de2 |
+A G A BA2 |
+c B c d e f) |
+d2>c2).('B2 |
+B2>A2G2 |
+G4) |]

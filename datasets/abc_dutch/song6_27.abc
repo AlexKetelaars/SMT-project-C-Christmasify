@@ -1,0 +1,26 @@
+X: 5026
+T: Daar was eens een meisje loos die wou gaan v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1082406011
+%%humdrum-veritas-data 2859214935
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A2GF2C |
+A2GF3) |
+.('A G Ac2A |
+G F GA2F) |
+.('A2GF2C |
+A2GF3) |
+.('A G A c d c |
+(B A) GF2).('F |
+F E FG2G |
+G F GA2d |
+c2cB2B |
+A6) |]

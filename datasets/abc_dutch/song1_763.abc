@@ -1,0 +1,43 @@
+X: 763
+T: De Heere geeft ons groote stof, Om hem te ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3610678284
+%%humdrum-veritas-data 4087108973
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D2 [I:setbarnb 1]|
+G2>A2B2c2 |
+d2>c2B2).('d2 |
+c2>B2A2G2 |
+F2>E2D2).('B2 |
+A2G2F2E2 |
+D2>E2 F D) .('B c |
+d2(G A)B2A2 |
+G2G4).('B c |
+d2d dd2c B |
+A2F FF2).('F F |
+G2G AB2A G |
+^F2D DD2).('f f |
+e2d2^c d e c |
+d6).('B c |
+d2d dd2c B |
+A2F FF2).('F F |
+G2G AB2A G |
+^F2D DD2).('f f |
+e2d2^c d e c |
+d6).('B c |
+d2>_e2d2c2 |
+B6).('c d |
+_e2>f2e2d2 |
+c6).('d e |
+f2B2f2e2 |
+(d2>e2 f) d) .('g a |
+(b2a) g (f g a) f |
+g2g6) |]

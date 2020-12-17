@@ -1,0 +1,30 @@
+X: 15944
+T: Aleegro 3
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 4065219385
+%%humdrum-veritas-data 2415258637
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+(3.('f g f (3f g f |
+(3g a g (3g a g |
+(3:2:5a b c' b2 a |
+g> c (3c d e) |
+(3.('f g f (3f g f |
+(3g a g (3g a g |
+(3:2:5a b c' b2 a |
+g4) |
+(3:2:5.('g2 c c d c |
+(3:2:2d2 BB2 |
+(3:2:5g2 d d e d |
+(3:2:2e2 cc2) |
+(3:2:5.('c'2 c c d c |
+(3:2:5b2 B B c B |
+(3a b a (3g f e |
+f2-f2) |]

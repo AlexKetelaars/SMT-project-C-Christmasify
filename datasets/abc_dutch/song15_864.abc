@@ -1,0 +1,38 @@
+X: 14863
+T: Hoffet nur, betränte Wangen Matter Geist sei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 1707306079
+%%humdrum-veritas-data 2509042044
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=60
+K: Bb clef=treble
+.('G e d ^F |
+G3G |
+(A/ B/)c2B/ A/ |
+B ^F G z) |
+.('B g f A |
+B3e- |
+ed2c |
+{c}B3z) :|]
+.('d3c |
+{c}=B3d |
+G2f2 |
+e/ d/ c/ =B/ c z) |
+.('e3f |
+d G ^F G |
+c2B/ A/ B |
+{B}A3z) |
+.('D3D |
+E2=E2 |
+c3=E |
+^F =ED2) |
+{e}.('d3c |
+B/ A/ G/ ^F/ G c |
+B2!trill!!trill!A/ G/ A |
+G2z2) |]

@@ -1,0 +1,32 @@
+X: 7639
+T: Wy zyn al byeen, Al goe kadulletjes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 2748875606
+%%humdrum-veritas-data 1486085969
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('E2G [I:setbarnb 1]|
+B3c3 |
+B2>B2 A G |
+F F F A G F |
+G2E).('E2G |
+B3c3 |
+B2>B2 A G |
+F F AG2F |
+E2z) ||
+.('G G G [I:setbarnb 9]|
+A A Ad2d |
+B2B G G G |
+G2GA2A |
+D2z) .('G G G |
+A A Ad2d |
+B2B G G G |
+G2GA2A |
+G2z) |]

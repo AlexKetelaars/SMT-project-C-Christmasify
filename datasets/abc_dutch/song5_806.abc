@@ -1,0 +1,23 @@
+X: 4805
+T: Er was een heertje ver van huis Die kwam in  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 3329129623
+%%humdrum-veritas-data 3204955618
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 5/8
+Q: 1/4=120
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B2d c B |
+[M:6/8]A2>).('D2 G A/ A/ |
+[M:5/8]B2d c B |
+[M:4/8]A3).('d |
+[M:6/8]d2ed2e |
+(d> c) B AE2) |
+.('c/ c/ B A (G> A) B |
+(A> G) FG2) |]

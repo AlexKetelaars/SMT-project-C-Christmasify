@@ -1,0 +1,55 @@
+X: 444
+T: Een Kindeken is ons gebooren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 4121563145
+%%humdrum-veritas-data 872141709
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+cdec |
+f3e |
+d2c).('B |
+A2B2 |
+A2G2 |
+A3).('F |
+cdec |
+f>gfe |
+d2c).('B |
+A2B2 |
+A2G2 |
+F3).('c |
+f2f2 |
+g2f2 |
+e2e2 |
+d2).('dd |
+efge |
+f2d2 |
+c3d |
+c3).('c |
+f2f2 |
+g2f2 |
+e2e2 |
+d2).('dd |
+efge |
+f2d2 |
+c3).('d |
+c3F |
+cdec |
+f3).('e |
+d2cB |
+A2B2 |
+A2G2 |
+A3).('F |
+cdec |
+f3).('e |
+d2cB |
+A2B2 |
+A2G2 |
+F3) |]

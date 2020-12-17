@@ -1,0 +1,39 @@
+X: 2867
+T: Laatst op allerzielendagen trok er veel volk [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 1036871935
+%%humdrum-veritas-data 1977570987
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('E3/ F/ [I:setbarnb 1]|
+G2>G2 A3/ G/ |
+B2B) .('D E F |
+G2>A2 A3/ G/ |
+F2>).('F2 F G |
+A2>A2 B3/ A/ |
+c2c) .('c B A |
+D2>B2 B3/ A/ |
+G2>).('A2 A G |
+G2>A2 B A |
+F2F) .('d ^c B |
+B2>A2 A G |
+F2>).('A2 A A |
+G2>A2 B A |
+F2F) .('A A d |
+[M:6/8]B2B/ B/^c2c |
+d3-d2).('D |
+G G Be2d |
+B3B2).('D |
+G2Be2B |
+c3-c2).('D |
+F2Ad2c |
+F3F2).('d |
+f2ed2c |
+B3-B) |]

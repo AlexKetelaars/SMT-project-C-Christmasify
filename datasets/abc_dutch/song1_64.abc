@@ -1,0 +1,29 @@
+X: 64
+T: Waer allesins d'Eenvoudicheydt In ‘s mensche [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 4177497692
+%%humdrum-veritas-data 2150174153
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('z2GG2A |
+B2GA2^F |
+D2).('BB2c |
+d2dc2c |
+c2).('cd2f |
+dc).('Bc2d |
+BG).('BA2G |
+G2^FG2).('c |
+c2AB2G |
+G2^FG2).('c |
+c2AB2G |
+G2^FG2).('d |
+d2cB3) |
+.('c2cd2G |
+G2^FG3) |]

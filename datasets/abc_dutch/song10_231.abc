@@ -1,0 +1,32 @@
+X: 9230
+T: Daar kwamen twee kanonnekens af, Van ou’ Vaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 4083768273
+%%humdrum-veritas-data 2041856570
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2AA2B |
+A F F F z) .('F |
+A2>F2 z F |
+A2>F2 z) .('F |
+A A AA2A |
+A A BA2F |
+F2z).('A2A |
+A2AA2B |
+(A3G3) |
+F2zz2).('F |
+A2AF2F |
+A2>F2 z) .('F |
+(A2>F2) z F |
+(A2>F2) z) .('F |
+(A2B) A F F |
+G z) .('G A A B |
+A F F F z) |]

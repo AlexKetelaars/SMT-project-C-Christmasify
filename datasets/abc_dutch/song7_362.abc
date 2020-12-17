@@ -1,0 +1,71 @@
+X: 6361
+T: Hiep, hiep, hoera!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 2544594804
+%%humdrum-veritas-data 211064443
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+f3/e/ |
+dF |
+d3/c/ |
+B).('A |
+BA |
+ed |
+(c2- |
+ce)) ||
+.('g3/f/ [I:setbarnb 10]|
+eA |
+e3/d/ |
+c).('B |
+BA |
+e3/^e/ |
+f2- |
+f/ z/f) ||
+.('fc [I:setbarnb 18]|
+Bc |
+d3/c/ |
+B).('d |
+cf |
+F3/e/ |
+d2)- ||
+.('d/ z/d [I:setbarnb 25]|
+cB |
+a3/g/ |
+gf |
+dz/) .('B/ |
+BA |
+e3/^e/ |
+f2) ||
+.('f/ z/d [I:setbarnb 33]|
+cB |
+a3/g/ |
+gf |
+dz/) .('B/ |
+BA |
+f3/e/ |
+d2- |
+d/) .('A/ ^G/ A/ |
+ge |
+Bc |
+ed |
+z/) .('d/ c/ B/ |
+c2 |
+c/ B/ A/ g/ |
+f2 |
+f/) .('A/ ^G/ A/ |
+ge |
+Bc |
+ed |
+z/) .('d/ c/ d/ |
+a2 |
+g/ A/ ^G/ A/ |
+d/ z/d' |
+d') ||

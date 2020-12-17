@@ -1,0 +1,43 @@
+X: 9123
+T: O Friesland, zoo vol deugden Als ik een land [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 65934272
+%%humdrum-veritas-data 656573721
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G2 [I:setbarnb 1]|
+GFGA |
+B2A).('G |
+ABcB |
+A2).('G2 |
+GFGA |
+B2A).('G |
+ABcB |
+A2z).('G |
+d>ddc |
+B2A).('G |
+ABcd |
+c2).('A2 |
+BAGG |
+d2A).('c |
+B>AGF |
+G2).('A2 |
+BAGc |
+B2A2 |
+B2).('A2 |
+BAGA |
+G2F2 |
+G2).('A2 |
+BAGc |
+B2A2 |
+B2).('A2 |
+BAGA |
+G2F2 |
+G2) |]

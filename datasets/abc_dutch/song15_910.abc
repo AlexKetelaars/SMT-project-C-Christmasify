@@ -1,0 +1,52 @@
+X: 14909
+T: O leidendes Hertze Wann wird doch dein Schmertze
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 2406752591
+%%humdrum-veritas-data 102140245
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('A [I:setbarnb 1]|
+_B A G |
+F D A |
+e f d |
+_B A) .('c |
+_e d c |
+_B G d |
+f e d |
+c B) .('A |
+_B A ^G |
+A2A |
+d> e d |
+^c2) |
+.('A [I:setbarnb 13]|
+f c A |
+f c B |
+d _B G |
+E C) .('G |
+c A F |
+c A F |
+c A F |
+c A) .('F |
+A> d B |
+c2_B |
+A> _B G |
+F2).('A |
+_B A G |
+F D A |
+e f d |
+_B A) .('c |
+_e d c |
+_B G d |
+f e d |
+c B A |
+_B A ^G |
+A2_B |
+A F D |
+D2) :|]

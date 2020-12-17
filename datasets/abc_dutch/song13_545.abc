@@ -1,0 +1,52 @@
+X: 12544
+T: Azimia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 2798355575
+%%humdrum-veritas-data 3399769700
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d [I:setbarnb 1]|
+A2BA2A |
+G F GF2A |
+d2dB2B |
+c B cd2).('d |
+A2BA2A |
+G F GF2A |
+d2dB2B |
+c B cd2) |
+.('c/ d/ [I:setbarnb 9]|
+e2e e f e |
+d3B2B |
+c2cd2d |
+c3B2).('c/ d/ |
+e2e d f g |
+a3g3 |
+e f e d c B |
+A3A2).('A |
+G3F3 |
+B3A2A |
+d2cB2A |
+G3F2).('F |
+G3F2F |
+B3A2A |
+d2A A G F |
+E2A F D F) |
+.('E2A F D F |
+E2A F D F |
+E2AA2A |
+A2A-A2).('d |
+f2>d2 c d |
+B2>A2 B A |
+B2Bc2c |
+d f ed2).('d |
+f2>d2 c d |
+B3A2A |
+B2B c B c |
+d2z) :|]

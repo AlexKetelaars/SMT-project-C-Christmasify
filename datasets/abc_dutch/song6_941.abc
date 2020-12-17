@@ -1,0 +1,33 @@
+X: 5940
+T: Paulus die had een hoed, Hebt gij niet genoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1508835037
+%%humdrum-veritas-data 154177118
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('cAc |
+c>BA) |
+.('B/ G/FG |
+A/ G/ B/ B/ c/ z/) |
+.('cAc |
+c>BA) |
+.('B/ G/FG |
+A2z) |
+.('cAc |
+c/> c/ d/> B/B) |
+.('dde |
+f/> d/ d/> c/A) |
+.('ABG |
+F2).('G/ G/ |
+A/ G/ A/ B/ c/ z/) |
+.('cAc |
+c2).('d/ B/ |
+A2G |
+F3) |]

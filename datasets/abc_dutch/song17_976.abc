@@ -1,0 +1,28 @@
+X: 16975
+T: Les mors
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 3638087179
+%%humdrum-veritas-data 1173968847
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d2>d2B2d2 |
+G2>G2A2B2 |
+c2>c2!mordent!!mordent!c3d |
+!mordent!!mordent!B2>).('d2e3f |
+g2>g2g3a |
+!mordent!!mordent!f2>e2!mordent!!mordent!e3d |
+d8) |
+.('f e/ f< g f< e e< e f/ |
+^d> ^c !mordent!!mordent!B>) .('b b> a g3/ f/ |
+g> f e> e a> a a3/ e/ |
+=f> f !mordent!!mordent!f> e d> ^c d3/ e/ |
+!mordent!!mordent!^c> B A>) .('e e> f g3/ a/ |
+!mordent!!mordent!f2b> b e> g !mordent!!mordent!f3/ g/ |
+g8) :|]

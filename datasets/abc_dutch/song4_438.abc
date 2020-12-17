@@ -1,0 +1,28 @@
+X: 3437
+T: Ik zag daar laatst een knaapje staan In de D [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 331820198
+%%humdrum-veritas-data 3892431184
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2c (d c) B |
+A2AA3) |
+.('B2B (c d) e |
+e3d3) |
+.('d2cB2c |
+B2AG3) |
+.('G2G (G A) B |
+c2BA3) |
+.('B2c d c B |
+B3A3) |
+.('(B c) d e e e |
+(d e) fg3) |
+.('(g f) e (d c) B |
+A3G3) |]

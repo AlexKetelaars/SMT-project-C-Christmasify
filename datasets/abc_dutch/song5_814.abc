@@ -1,0 +1,54 @@
+X: 4813
+T: In achttien’onderdnegentig kwam Annemie te sterven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 1943327048
+%%humdrum-veritas-data 2934223876
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('D// D// [I:setbarnb 1]|
+GB/ |
+AG/ |
+FE/ |
+D).('D/ |
+ED/ |
+EF/ |
+G3/ |
+G).('D/ |
+GB/ |
+AG/ |
+FE/ |
+D).('D/ |
+ED/ |
+EF/ |
+G3/ |
+G).('G/ |
+AA/ |
+AB/ |
+c3/- |
+c).('A/ |
+BA/ |
+Bc/ |
+d3/- |
+d).('D/ |
+cc/ |
+cc/ |
+B3/ |
+G).('G/ |
+A/ A/ G/ |
+FF/ |
+GE/ |
+D).('D/ |
+GB/ |
+AG/ |
+FE/ |
+D).('D/ |
+ED/ |
+EF/ |
+G) |]

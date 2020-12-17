@@ -1,0 +1,54 @@
+X: 14955
+T: No123
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 13791627
+%%humdrum-veritas-data 3011362225
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c4B2 A B |
+c2 B A G2 A2 |
+G2 F2 E2 D2 |
+C8) |
+.('e g e g e g e g |
+d g d g d g d g |
+e g e g e g e g |
+d4z4) |
+.('c4B2 A B |
+c2 B A G2 A2 |
+G2 F2 E2 D2 |
+C8) |
+.('c d c d c d c d |
+B d B d B d B d |
+A d A d A d A d |
+B d B d B d B d |
+c d c d c d c d |
+B2 d2 g2 c2 |
+B/ A/ G3!trill!!trill!A4 |
+G8) |
+.('G c G c G c G c |
+A c A c A c A c |
+G c G c G c G c |
+A4z4) |
+.('A d A d A d A d |
+B d B d B d B d |
+A d A d A d A d |
+B4z4) |
+.('B e B e B e B e |
+c e c e c e c e |
+B e B e B e B e |
+c4z4) |
+.('f g f g f g f g |
+e g e g e g e g |
+d g d g d g d g |
+e g e g e g e g |
+f g f g f g f g |
+e2 g2 c'2 f2 |
+e2 d c d2 B2 |
+c4z4) :|]

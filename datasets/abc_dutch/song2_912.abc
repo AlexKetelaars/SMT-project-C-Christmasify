@@ -1,0 +1,23 @@
+X: 1911
+T: En wat zag ik daar van verre Ene schone jong [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 3565772836
+%%humdrum-veritas-data 1387272686
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+G2e2(d2c) B |
+(A2F E)D2).('E F |
+G2B ed2(c B) |
+A4z2).('A B |
+c2c2e2e2 |
+(d2B d)d2).('e d |
+c2c2(B2d B) |
+(A2>F2)G2) |]

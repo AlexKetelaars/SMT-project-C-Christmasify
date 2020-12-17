@@ -1,0 +1,90 @@
+X: 10868
+T: Twintig stoute kinderen. Negentien Benjaminderen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 2900974646
+%%humdrum-veritas-data 520563343
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('(c A) c (d c) c |
+A2GA2z) |
+.('c A c (d c) c |
+A2GA2z) |
+.('_B2>B2 c d |
+c3A2z) |
+.('_B2B B c d |
+c3A2z) |
+.('c2c d c c |
+A A GA2A) |
+.('c A c (d c) c |
+A2GA2).('A |
+(c A) c d c c |
+A A GA2).('c |
+c A c d c c |
+A2GA2z) |
+.('A c c (d c) c |
+(A2G)A2).('A |
+(c A) c (d c) c |
+A2GA2).('A |
+c c c d c c |
+A2GA2z) |
+.('c2c (d c) c |
+A A GA2).('A |
+(c A) c d c c |
+A2GA2z) |
+.('B2>(B2 c) d |
+c3A2c/ B/ |
+(A3G3) |
+A3z2).('A/ B/ |
+c A c (d c) c |
+A A GA2).('A/ B/ |
+(c A) c d c c |
+A A GA2).('G |
+(F2G)A2A |
+c A c d c c |
+A A GA2).('A |
+c A c d c c |
+A A GA2).('A |
+(c A) c d c c |
+A2GA2).('A |
+(c A) c (d c) c |
+(A2G)A2).('A |
+c A c d c c |
+(A2G)A2).('A |
+c A c (d c) c |
+(A2G)A2).('A |
+c A c d c c |
+(A2G)A2z) |
+.('F2GA2z |
+(F2G)A2z) |
+.('c A c d c c |
+(A2G)A2).('A/ A/ |
+(c A) c d c c |
+(A2G)A2z) |
+.('(c A) c d c c |
+(A2G)A2).('A |
+(c A c) (d c) c |
+A2GA2).('A |
+c A c (d c) c |
+A2GA2).('A |
+c A c (d c) c |
+(A2G)A2).('A |
+(c A) c (d c) c |
+(A2G)A2).('G |
+F F GA2G |
+F2GA2).('A |
+c A c d c c |
+A A GA2).('G |
+F F GA2A |
+c A c d c c |
+A2GA2z) |
+.('c A c (d c) c |
+A2GA2z) |
+.('c A c (d c) c |
+A2GA2z) |]

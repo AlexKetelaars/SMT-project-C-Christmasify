@@ -1,0 +1,36 @@
+X: 5059
+T: ‘k Heb zoolang reeds turf gedragen ‘k Drink  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 4080209185
+%%humdrum-veritas-data 2600919349
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('E2E [I:setbarnb 1]|
+E2EF2G |
+E2E).('F2G |
+F2ED2C |
+B,2>).('(B,2 C) D |
+E2EF2G |
+E2E).('F2G |
+F2ED2C |
+B,3-B,2).('B |
+B2BB2B |
+B2BB2).('B |
+B2BB2B |
+(B3c2B) |
+F3-F2).('F |
+E2GF2G |
+E2GF2).('G |
+E2GF2G |
+E2G).('F2B |
+[M:4/4]B2>A2G3G |
+(A2c) AF4) |
+.('A2A A (G B) (A F) |
+E2D2E4) |]

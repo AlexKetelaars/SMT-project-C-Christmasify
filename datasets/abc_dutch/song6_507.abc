@@ -1,0 +1,50 @@
+X: 5506
+T: O Vaderland! o Belgenland! Ik heb u lief in  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 764512189
+%%humdrum-veritas-data 612942134
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('f2 [I:setbarnb 1]|
+d> cB2f2 |
+d> c B A G F |
+F2>B2 c d |
+c4).('f2 |
+d> cB2f2 |
+d> cB2d2 |
+(d =e)f2f g |
+f> =ed4) |
+.('A2A> Bc2 |
+B2B> cd2 |
+c2c> de2 |
+d2d> e f z/) .('g/ |
+g> ff2z3/ d/ |
+d> cc2z c |
+A> B c c f e |
+d4z3/) .('g/ |
+g> ff2z3/ d/ |
+d> dd2z B |
+c> g f c e d |
+B4).('f2 |
+d> cB2f2 |
+d> dd3c |
+B4z2) ||
+[K:Eb] .('G2G> A (3(B c) d [I:setbarnb 25]|
+(3(e d) cB2-B z) |
+.('f2g f B f |
+(3(f e) de2z) .('c |
+(3(c d) ed4 |
+(3c d ef2f z/) .('c/ |
+(3(c d) ed4 |
+(3c d ef2A z) |
+.('G2G> A (3(B c) d |
+e Bg2z) .('g |
+g a g f c d |
+e4) |]

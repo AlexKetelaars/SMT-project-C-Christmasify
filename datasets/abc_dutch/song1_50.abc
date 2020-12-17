@@ -1,0 +1,54 @@
+X: 50
+T: Alderlieffelijckste Liefde ware ziels verheu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 2959945613
+%%humdrum-veritas-data 3818627477
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('c2B2A2 |
+G2>F2E2 |
+A2>G2E2 |
+G2>F2E2 |
+c2>B2A2 |
+B2>A2G2 |
+G2c2e2 |
+d4z2) |
+.('c2B2A2 |
+G2>F2E2 |
+A2>G2E2 |
+G2>F2E2 |
+c2>B2A2 |
+G2>F2E2 |
+c2c2B2 |
+c4z2) |
+.('G2>E2FG |
+A2>A2G2- |
+GG2<F2F |
+E2>).('E2FG |
+A2>G2F2 |
+G2>F2E2 |
+G2A2c2 |
+B4z2) |
+.('G2>E2FG |
+A2>A2G2- |
+GG2<F2F |
+E2>).('E2FG |
+A2>G2F2 |
+G2>F2E2 |
+c2c2B2 |
+c4z2) |
+.('c2B2A2 |
+G2F2E2 |
+A2G2F2 |
+E6) |
+.('c2B2A2 |
+G2F2E2 |
+A2A2^G2 |
+A6) |]

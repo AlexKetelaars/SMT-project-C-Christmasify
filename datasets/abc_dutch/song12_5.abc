@@ -1,0 +1,33 @@
+X: 11004
+T: ‘t Is die wilt hooren een nieuw lied, Wat in [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 2297506340
+%%humdrum-veritas-data 2351909308
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D G B [I:setbarnb 1]|
+d2>d2 d g |
+d2-d z) .('d3/ c/ |
+(Bd2)d (3(d c) A |
+[M:2/4]G2).('A3/ B/ |
+c> d e3/ e/ |
+[M:3/4]d2>z2) (3.('d B g |
+g2g> f a g |
+f2!fermata!d2).('G3/ B/ |
+d2-d> d d g |
+d2z2).('d3/ c/ |
+(Bd2)d c A |
+G2z) .('d B d |
+g2g> f a g |
+f2!fermata!d2).('G3/ B/ |
+d2-d d d g |
+d2z2).('d3/ c/ |
+(Bd2)d c A |
+G2z2z2) |]

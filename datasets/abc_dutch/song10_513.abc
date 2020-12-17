@@ -1,0 +1,31 @@
+X: 9512
+T: Der kwam nen boer van Leuven, Van Leuven kwa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 1428246205
+%%humdrum-veritas-data 688010743
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c c d e |
+(c B) A G |
+c c B c |
+d2z) .('G |
+d d e f |
+(d c) B e |
+d c B A |
+G2z2) |
+.('E G E G |
+c> c B z |
+D F D F |
+A> A G z) |
+.('c> c c c |
+e e c c |
+d d B B |
+c2z) |]

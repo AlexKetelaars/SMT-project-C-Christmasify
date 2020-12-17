@@ -1,0 +1,37 @@
+X: 8885
+T: Van Mannen in Oorlog, van Mannen in Vreê, Ou [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 2943014803
+%%humdrum-veritas-data 2483005361
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+(G> c) e> dc2B3/ A/ |
+G2F> EA3).('A |
+D2E> FG2c3/ A/ |
+G4C2z) .('G |
+(G> c) e> dc2B2 |
+(A> B) A> G^F3).('A |
+A2B cd2G2 |
+(c2B A)B2).('G2 |
+A2B B2<d2c |
+(B2>A2)G2z) .('G |
+G2>B2d3c |
+(B A) (B c)d2z) .('G |
+B2>d2f3e |
+(d c) (B c)d2).('G2 |
+c2c2d2d2 |
+g2>f2e2c2 |
+A2f2e3d |
+c4z2).('G2 |
+c2c2d2d2 |
+g2>f2e2d2 |
+(A B) (c d2<)e2d |
+c4z2z) |]

@@ -1,0 +1,33 @@
+X: 3238
+T: Schoonlief ontwaak het is middernacht Sta op [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 3488753781
+%%humdrum-veritas-data 1510310592
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B B3/ A/ [I:setbarnb 1]|
+G2>d2 d3/ e/ |
+d2>).('d2 g3/ g/ |
+f2>e2 e d |
+[M:4/4](A c2<)B2).('B B3/ A/ |
+[M:3/4]G2>d2 d3/ e/ |
+d2>).('d2 g3/ g/ |
+f2>e2 e d |
+[M:4/4](A c)B2z2).('d2 |
+[M:3/4]c2>B2 c (d/ e/) |
+[M:5/8]d> ed2c |
+[M:3/4]B4).('d2 |
+c2>B2 c (d/ e/) |
+[M:5/8]d> ed2c |
+[M:3/4]B2>).('B2 c d |
+[M:4/4]e2>e2 g> g f e |
+[M:3/4]d2>).('B2 d g |
+[M:4/4]f2>e2 d> d c B |
+[M:3/4]G3) |]

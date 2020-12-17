@@ -1,0 +1,31 @@
+X: 10776
+T: Der was een kwa stiefmoeder: zij verkochtede [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 666104281
+%%humdrum-veritas-data 1090352312
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('F [I:setbarnb 1]|
+E> ^D E F |
+G F G A |
+B2B3/ B/ |
+!fermata!B3).('B |
+B A B c |
+d2A d |
+d c B c |
+d2).('B G |
+[M:3/4]A4d2 |
+e2(d c) B A |
+[M:2/4](A G) G F |
+G2).('B G |
+[M:3/4]A4d2 |
+e2(d c) B A |
+[M:2/4](A G) G F |
+G4) |]

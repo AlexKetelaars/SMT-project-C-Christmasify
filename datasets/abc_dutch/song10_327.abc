@@ -1,0 +1,26 @@
+X: 9326
+T: De koekoek, die op zijn tuinpaal zat, (drie  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 1245281157
+%%humdrum-veritas-data 4010588749
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+EG/ G/BG |
+FAc).('F |
+EG/ G/BG |
+FAc).('c |
+cc/ c/f2 |
+f2(fe) |
+(de)f2) |
+.('f2fe/ d/ |
+c).('cdc/ c/ |
+dB/ B/A2 |
+(Gc)F) |]

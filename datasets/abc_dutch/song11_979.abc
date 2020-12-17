@@ -1,0 +1,31 @@
+X: 10978
+T: “Staat op, staat op, mijn schoon’ engelin! W [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 1841194623
+%%humdrum-veritas-data 1301078741
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('(C F) [I:setbarnb 1]|
+F2(F A)A2A c |
+c2>B2A2).('F A |
+A G G A B c B A |
+G2G> G G) .('B A G |
+F2F AA2(A c) |
+c2>B2A2).('c =B |
+A c d e f d c =B |
+c2c> c!fermata!c2).('G A |
+B A B c d c B A |
+G2G2G2).('A B |
+c c c d c B A G |
+F2A2A2z) .('C |
+F2>A2 c c =B c |
+A2z) .('c c c B B |
+A) .('f e d c B A G |
+F2C> CF2z2) |]

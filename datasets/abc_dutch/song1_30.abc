@@ -1,0 +1,60 @@
+X: 30
+T: Hoe ongelijcken lot Bespeurtmen in’t genot
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 723025121
+%%humdrum-veritas-data 1009618993
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('E2EE |
+GG^F2 |
+z).('^FGA |
+GG^F3/G/ |
+A).('BGG- |
+G^FG2) |
+.('E2EE |
+GG^F2 |
+z).('^FGA |
+GG^F3/G/ |
+A).('BGG- |
+G^FG2) |
+.('z2D2 |
+EE^F2 |
+z^FF2 |
+Cc2A |
+A2^F2) |
+.('^F2G2- |
+G2^F2 |
+z2z^F |
+B2BA |
+GG2^F |
+G^FB2- |
+B).('ABc |
+d2B2 |
+zABc |
+d2B2 |
+zABc |
+d2B2 |
+z).('AAG |
+AA^F2 |
+^F).('AAc |
+ccd2 |
+d).('ddc |
+cd2G- |
+GGDE |
+G2^F2 |
+G2z).('A |
+AGAA |
+^F2F).('A |
+Accc |
+d2d).('d |
+dccd- |
+dG2G |
+DEG2 |
+^F2G2) |]

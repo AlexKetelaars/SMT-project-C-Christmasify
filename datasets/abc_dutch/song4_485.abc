@@ -1,0 +1,30 @@
+X: 3484
+T: Hoort jongedochters wilt even toeven Oude va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 1381630153
+%%humdrum-veritas-data 1647606200
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B B AG2G |
+G A BA2E) |
+.('A A GF2E |
+D E FG3) |
+.('B B AG2G |
+G A BA2E) |
+.('A A G/ G/F2E |
+D E DG3) |
+.('D2Dc2c |
+B2GG3) |
+.('A2B c B c |
+B2GD3) |
+.('E2GD2c |
+B2GG2).('G |
+A B cB2A |
+G3-G3) |]

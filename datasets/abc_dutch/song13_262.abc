@@ -1,0 +1,28 @@
+X: 12261
+T: Contradans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:23
+%%humdrum-veritas 953068183
+%%humdrum-veritas-data 1159913417
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d2d ef2e f |
+d2e2c2A2 |
+d2d ef2e f |
+d e f ga4) |
+.('g2g gg2g2 |
+g2>f2g4 |
+g2a2b2a2 |
+g2f2e2d2 |
+d e f ga4) |
+.('d2e dc2A2 |
+d e f ga4 |
+d2e dc2A2) |
+.('d e f ga2g f |
+e2>d2d4) :|]

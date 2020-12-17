@@ -1,0 +1,26 @@
+X: 16270
+T: Verblinde ziet, ay ziet, Wat nevel van verdriet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1371042903
+%%humdrum-veritas-data 3631937263
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('z2A2A3d |
+!trill!!trill!c2>d2!trill!!trill!B3).('B |
+A2B2!trill!!trill!G3F |
+F2z) .('d2<c2B |
+c2B c!trill!!trill!B4 |
+A8) |
+.('z E E> EA2G2 |
+!trill!!trill!G2>F2F2F2 |
+z) .('A A d2<B2B |
+B2(c d2<)c2z |
+z) .('A d> A (B c)d2 |
+d2>c2d4) :|]

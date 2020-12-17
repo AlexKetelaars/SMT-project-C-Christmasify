@@ -1,0 +1,21 @@
+X: 8290
+T: Kom Jan, kom mee naar huis, uw vrouwken dat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 914412260
+%%humdrum-veritas-data 2688059816
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G/ [I:setbarnb 1]|
+d> B G> Bd2-d z/) .('G/ |
+d> B G> Bd2-d z) |
+.('d AA2B GG2) |
+.('A B A B d G !fermata!G) .('A ||
+[M:3/4]d2>B2 G A [I:setbarnb 6]|
+D2-D z z3/) |]

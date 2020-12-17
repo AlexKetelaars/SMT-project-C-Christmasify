@@ -1,0 +1,15 @@
+X: 2671
+T: Een koopmanszoon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 4026922144
+%%humdrum-veritas-data 3734399800
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2>c2 B B d G A B G2<F2).('D D c c B A A E F (G d)d4).('d2c/ A/ A2<B2d/ d/ G A/ A/ B G D) .('D/ D/ E F G A (B G2<)e2).('e/> e/ d c D FG6).('D/ D/ E F G A (B G2<)e2).('e/> e/ d c D FG6) |]

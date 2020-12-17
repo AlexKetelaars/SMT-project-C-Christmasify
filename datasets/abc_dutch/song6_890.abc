@@ -1,0 +1,30 @@
+X: 5889
+T: Ik zie Aurora reizen, Ik zie den dag opstaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 3013985847
+%%humdrum-veritas-data 1072432386
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G2A G c B |
+(B2>A2)G2) |
+.('B2c B e d |
+d6) |
+.('d2g e d e |
+(d2>c2) B) .('B |
+(3(B A) Bd3B |
+{B}A6) |
+.('d c B c d d |
+(d2d/ e/ d/ c/)B2) |
+.('e2{f} e e d e |
+d6) |
+.('d2g f d e |
+(d2d/ e/ d/ c/)B2) |
+.('g/ (e/ d/) c/B2A2 |
+G6) |]

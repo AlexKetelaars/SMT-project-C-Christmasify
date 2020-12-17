@@ -1,0 +1,31 @@
+X: 13060
+T: Er is een kindeke geboren op aard' Er is een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 3935294233
+%%humdrum-veritas-data 3640457244
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+A2G |
+F/ F/FA |
+ccd |
+c2).('F |
+A2G |
+F/ F/FA |
+ccd |
+c2z) |
+.('BdB |
+AcA |
+GAB |
+c2z) |
+.('BdB |
+AcA |
+GAG |
+F2) |]

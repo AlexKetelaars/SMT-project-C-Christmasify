@@ -1,0 +1,26 @@
+X: 3955
+T: Saloman o Saloman En d'r is geen doen meer an
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3049742504
+%%humdrum-veritas-data 1081334407
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G>AGA |
+B>cB).('B3// d// |
+ddcc |
+B3).('B3// c// |
+dd/> d/de |
+dc/> c/c).('d3// c// |
+B/ B/ B/ B/BB |
+A2A).('D |
+G>AGA |
+B>cB).('B3// c// |
+ddcA |
+G4) |]

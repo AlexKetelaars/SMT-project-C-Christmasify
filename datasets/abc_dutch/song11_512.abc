@@ -1,0 +1,23 @@
+X: 10511
+T: Wi’j goat veur gin mènsk’oet de wieke wieke- [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 863662516
+%%humdrum-veritas-data 3825440633
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('E [I:setbarnb 1]|
+GG/ G/ |
+AA/ A/ |
+G/ G/ G/ G/ |
+E).('E |
+GG |
+AA |
+G2 |
+E) |]

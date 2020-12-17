@@ -1,0 +1,24 @@
+X: 15158
+T: Des nachts wanneer de meeste mensen slapen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2527696735
+%%humdrum-veritas-data 2981382940
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+^G> =G F> A d> A F> A G2 G2 z2 z) .('G |
+F> E D> C D> F A> FE4z2 z) .('A |
+^G> =G F> A d> A F> A B2 B2 z2 z) .('d |
+c> B A> ^G A> F =G> ED4) ||
+.('z2 F2 [I:setbarnb 5]|
+F> F d> c B> c d> B c2 F2 z2 z) .('F |
+F> F d> c B> c d> Bc6z) .('F |
+F> F d> c B> c d> B c2 c2 z2) .('e2 |
+d> c B> ^A B> d c> AB6!fermata!z) |]

@@ -1,0 +1,23 @@
+X: 9827
+T: Daar was een Konings dochter schoon Die wou  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 3431894263
+%%humdrum-veritas-data 2165598525
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('E2 [I:setbarnb 1]|
+E2A2G2(AB) |
+(cB)(AG)A2).('ee |
+d2e2c2dd |
+(cB)AGAAA).('G |
+G2c2(dc)de |
+c4).('B4 |
+A2(Bc)BA(BG) |
+E2(EG)!fermata!A2z2) |]

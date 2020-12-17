@@ -1,0 +1,26 @@
+X: 11831
+T: La Gelderlandt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 873566248
+%%humdrum-veritas-data 1294320824
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('GGdd |
+g/ f/ g/ a/bd) |
+.('_ede/ d/ c/ B/ |
+A>GG2) :|]
+.('g>afd |
+_e>cdB) |
+.('fdga |
+^f>ga2) |
+.('de/ f/ge |
+f>d_ec) |
+.('dc/ A/BG |
+g>^fg2) |]

@@ -1,0 +1,20 @@
+X: 345
+T: Onse Vader in Hemelr.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 1816294730
+%%humdrum-veritas-data 3112005467
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 10/2
+Q: 1/2=60
+K: C clef=treble
+.('A4A2F2G2A2F2E2D4) |
+.('A4A2G2c2A2F2G2A4) |
+.('A4c2d2f2e2d2^c2d4) |
+.('d4e2d2c2B2A2^G2A4) |
+.('d4c2A2c2A2A2G2F4) |
+.('A4_B2A2F2G2F2E2D4) |]

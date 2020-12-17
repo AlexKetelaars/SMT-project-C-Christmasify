@@ -1,0 +1,23 @@
+X: 2183
+T: Ik heb gespeeld al met mijnheer de graaf Al  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 2413031789
+%%humdrum-veritas-data 745858084
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('de3/e/ [I:setbarnb 1]|
+d>dBAGA |
+B2>).('d2ef |
+gd/ d/cBd2 |
+A2>).('d2df |
+a>fdcBd |
+g2>).('g2fe |
+(de/) d<cF/A2 |
+G3) |]

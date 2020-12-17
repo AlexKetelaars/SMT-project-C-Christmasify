@@ -1,0 +1,38 @@
+X: 6561
+T: Laat ons gaan om te bezoeken Een klein kindj [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 1122793514
+%%humdrum-veritas-data 574856488
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A2d |
+B2A |
+(BA)G |
+(A{G A}G)F) |
+.('(EF)G |
+(AB)A |
+(A{G A}G)F |
+E2z) |
+.('(AG)F |
+(Bc)d |
+(FG)E |
+Dzz) |
+.('A2d |
+B2A |
+BAG |
+(A{G A}G)F) |
+.('(EF)G |
+(AB)A |
+(A{G A}G)F |
+E2z) |
+.('(AG)F |
+Bcd |
+(FG)E |
+Dzz) |]

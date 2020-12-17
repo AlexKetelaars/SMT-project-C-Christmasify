@@ -1,0 +1,32 @@
+X: 7676
+T: Aria wie Heeft
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:40
+%%humdrum-veritas 1727492672
+%%humdrum-veritas-data 636274781
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d c B c B A |
+G2GG2).('d |
+e d cc2e |
+d c BB2).('d |
+c B A B A G |
+d4z) |
+.('d [I:setbarnb 7]|
+d e =f f e d |
+c2BA2).('B |
+c d e e d c |
+B2AG2).('A |
+_B2A B A G |
+F G AD2).('d |
+B A G d c B |
+g3e3) |
+.('d c B c B A |
+G4) :|]

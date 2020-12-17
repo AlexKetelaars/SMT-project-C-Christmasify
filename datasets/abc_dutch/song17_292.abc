@@ -1,0 +1,36 @@
+X: 16291
+T: Wat loopt ge, ô Herderin, De Bosschen uit en in?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2558698108
+%%humdrum-veritas-data 2379160076
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2 f2 (f e) (d c) |
+{c}d6).('A2 |
+(B c) (d c) (d2 c) B |
+(B4A2)) .('F2 |
+G2 B2 (B2 A) G |
+(F E) D2 z2) .('A2 |
+(^G A) (B c) d2 c2 |
+c2B4).('(e d) |
+(c A) (d B2<) {A B} !trill!!trill!B2 A |
+A6) |
+.('(c d) [I:setbarnb 11]|
+e2A4(c d) |
+e2G4).('F E |
+(F D) (G E) (A2 G) F |
+{F}E4z2) .('A2 |
+B2B4c2 |
+(d c)d4).('A2 |
+B2B4c2 |
+(d c)d4).('A d |
+(B g f) e2< {d e} !trill!!trill!e2 d |
+d6) :|]

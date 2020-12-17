@@ -1,0 +1,19 @@
+X: 9884
+T: Kriebele katje komt geloopen om ons kinneke  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 1766697870
+%%humdrum-veritas-data 1737223599
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F F FF2F |
+F2FG2G) |
+.('F2F G/ G/ G G |
+c c cF3 |
+F3z2z) |]

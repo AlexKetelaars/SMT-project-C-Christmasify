@@ -1,0 +1,32 @@
+X: 9755
+T: De wintertijd is gepasseerd; de lente die komt aan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 580754868
+%%humdrum-veritas-data 4098087434
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/1
+Q: 1/2=60
+K: C clef=treble
+.('C2D2E2 [I:setbarnb 1]|
+F4A4 |
+A2A2!fermata!G4 |
+z2).('G2B2d2 |
+c4B4 |
+!fermata!A2).('C2D2E2 |
+[M:3/2]F2A2AA |
+G2>).('G2Bd |
+c4B2 |
+A2z).('AAA |
+c2>A2BA |
+!fermata!G4).('C2 |
+[M:2/1]F2E2F2G2 |
+A2).('C2D2E2 |
+[M:3/2]F2A2AA |
+G2>).('G2Bd |
+[M:2/1]c4(B2G2) |
+!fermata!A4z4) |]

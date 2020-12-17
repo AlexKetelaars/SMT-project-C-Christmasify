@@ -1,0 +1,28 @@
+X: 17513
+T: Straats borgers kloek van moed
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 4179628263
+%%humdrum-veritas-data 3771403307
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('a/ b/ [I:setbarnb 1]|
+aefg |
+a2c2 |
+dc/ d/ee |
+A3) |
+.('a/ g/ [I:setbarnb 5]|
+abc'b/ a/ |
+bbba/ g/ |
+abc'b/ a/ |
+bb/ c'/b).('a/ g/ |
+a3e |
+f3c |
+dc/ d/ee |
+A3) :|]

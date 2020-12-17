@@ -1,0 +1,55 @@
+X: 10503
+T: Daar kom wi’j an met de Pinksterbroed met al [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 4187704211
+%%humdrum-veritas-data 1993992640
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GGBA/ A/ |
+GGDD |
+G/ G/ G/ G/BA |
+GGD2) |
+.('GGB/ B/A |
+G4 |
+AA/ A/AA |
+BBBB |
+AA/ A/BA |
+G3).('D |
+GGBA |
+G/ G/GDD |
+GGBA |
+GGD2) |
+.('(cB)Ac |
+(BA)G2 |
+(cB)Ac |
+(BA)G2) |
+.('BBAA |
+B2GG |
+BBAA |
+B2GD |
+G2BA |
+G2DD |
+E2FF |
+G3).('B |
+d2dc |
+B2GB |
+d2dc |
+B2GG |
+A2BA |
+G3).('D |
+GGBA/ A/ |
+GGDD |
+GGBA/ A/ |
+GGDz) |
+.('G2BA |
+G2DD |
+E2FF |
+G2z) |]

@@ -1,0 +1,23 @@
+X: 5014
+T: B met een A - Ba, B met een E - Be
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2631657775
+%%humdrum-veritas-data 3123285336
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D D/ D/ [I:setbarnb 1]|
+G2G2G G/ A/ |
+B2B2).('B B/ c/ |
+d2d2c d |
+B2z2).('B B/ c/ |
+d2d2c B |
+c2c2).('c c/ c/ |
+[M:4/4]B2B2A G A B |
+G2z2) |]

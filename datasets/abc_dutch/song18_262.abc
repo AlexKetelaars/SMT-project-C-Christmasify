@@ -1,0 +1,28 @@
+X: 17261
+T: Bouree
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 2453936065
+%%humdrum-veritas-data 3810182140
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c [I:setbarnb 1]|
+defe/ d/ |
+e/ d/ e/ f/!mordent!!mordent!e).('c |
+defe/ d/ |
+!mordent!!mordent!e3) |
+.('c [I:setbarnb 5]|
+defe |
+!mordent!!mordent!d>cde |
+dc!mordent!!mordent!Bc |
+d/ c/ d/ e/d).('c |
+defe |
+!mordent!!mordent!d>cde |
+!mordent!!mordent!dcdg |
+e3) :|]

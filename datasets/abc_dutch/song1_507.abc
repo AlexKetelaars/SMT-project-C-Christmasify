@@ -1,0 +1,32 @@
+X: 507
+T: O siel! door d'onrust van Gods soon In de so [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 664242104
+%%humdrum-veritas-data 811402042
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A [I:setbarnb 1]|
+dfed |
+^cdA2) |
+.('d/ e/ f/ g/e2- |
+e).('Adf |
+ed^cd |
+A2).('d/ e/ f/ g/ |
+e2-e).('a/ g/ |
+fg/ f/e).('f/ e/ |
+de/ d/^cd |
+A2).('a3/g/ |
+f>ge3/d/ |
+d3).('c/ d/ |
+ecc).('e/ f/ |
+gfe2) |
+.('d/ e/ f/ g/e2) |
+.('a>gf3/g/ |
+^c>dd2) |]

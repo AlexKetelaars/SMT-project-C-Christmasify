@@ -1,0 +1,23 @@
+X: 3548
+T: Er was een meisje op het land, op het land ' [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 3265999536
+%%humdrum-veritas-data 842512101
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(D E) F (G F) E |
+E D D E D D) |
+.('G B, CD2D |
+(C E) CB,3) |
+.('G, B, D (G A) B |
+A2D(B2d)) |
+.('c B AG2G |
+(D E) FG2) |]

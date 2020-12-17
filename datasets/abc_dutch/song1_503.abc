@@ -1,0 +1,48 @@
+X: 503
+T: Heyl'ge Jesu! Hemelsch voorbeeld! Der Englen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 143870441
+%%humdrum-veritas-data 2465373153
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=92
+K: F clef=treble
+.('z2C2F2 |
+E2>F2G2 |
+A2G4 |
+F2).('F2G2 |
+A2B3A |
+G6 |
+z2).('A2B2 |
+c2F2B2 |
+A2G4 |
+F2).('G2E2 |
+F2D3C |
+C6 |
+z2).('F3G |
+E6 |
+F2G3G |
+A6 |
+z2).('B2A2 |
+G4(AB |
+cd2<)=B2B |
+c6 |
+z2).('c2B2 |
+A6 |
+z2B2A2 |
+G6) |
+.('A2B2c2 |
+F2G3F |
+F2).('c2B2 |
+A6 |
+z2B2A2 |
+G6 |
+z2).('A2B2 |
+c6 |
+F2G3F |
+F6) |]

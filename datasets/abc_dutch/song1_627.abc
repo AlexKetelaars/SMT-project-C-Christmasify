@@ -1,0 +1,16 @@
+X: 627
+T: Waer om wilt ghi ons verlaten? Uwen thoorn h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 4056989193
+%%humdrum-veritas-data 257450552
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2C2C2D2F2E2>D2(D2CB,DC)D4z2).('FFE2D2C2B,2(A,G,2<D2CC2B,A,CB,)C4).('z2C2C2D2F2E2>D2(D2CB,DC)D4z2).('FFE2D2C2(B,2A,G,2<D2CC2B,A,CB,)C4) ]|:
+.('z2A,2(A,B,C)A,(B,2A,)G,A,4z2).('A,2(A,B,C)A,B,2A,G,A,4z2).('EDFEDCD2E2>D2(D2CB,DC)D4z2).('F2E2D2C2B,2(A,G,2<)D2C(C2B,A,CB,)C) |]

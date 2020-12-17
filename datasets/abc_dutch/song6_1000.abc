@@ -1,0 +1,40 @@
+X: 5999
+T: is Lievde zoet Lijden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3740341937
+%%humdrum-veritas-data 1345620783
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ed [I:setbarnb 1]|
+c2dB/ c/ |
+dB).('ed |
+c2Bc/ B/ |
+A2).('ee |
+fdg3/f/ |
+ec).('c3/d/ |
+e2fd/ f/ |
+e2) :|]
+.('ed [I:setbarnb 9]|
+c2de/ g/ |
+fd).('e3/e/ |
+A2Bc/ d/ |
+B2).('e3/e/ |
+e2ea/ b/ |
+g2).('fe/ f/ |
+d2cB/ d/ |
+c2).('ed |
+c2de/ g/ |
+fd).('e3/f/ |
+fga3/b/ |
+g2z).('e |
+agee |
+c2).('ed |
+c2Bc/ B/ |
+A2) |]

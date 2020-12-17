@@ -1,0 +1,27 @@
+X: 6139
+T: O Ermite
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 555604017
+%%humdrum-veritas-data 233867212
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('Ad/ d/cA |
+dcde |
+fcfg |
+ab/ a<gf/ |
+f2) :|]
+.('aa [I:setbarnb 6]|
+gfga |
+g2fe |
+agfe |
+d2).('a/ b/a |
+gfeA |
+d^cde |
+f2d2) |]

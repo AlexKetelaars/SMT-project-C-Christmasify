@@ -1,0 +1,37 @@
+X: 746
+T: Een Coning, Prins of Heere, Hoe machtig dat hy sy,
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3047466029
+%%humdrum-veritas-data 907443268
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('d [I:setbarnb 1]|
+Bece |
+d2B).('(B/ c/) |
+ddcB |
+A2).('(B3/A/) |
+(G^F/ E/ F/) G/ A/ F/ |
+G3).('d |
+Bece |
+d2B).('(B/ c/) |
+ddcB |
+A2).('(B3/A/) |
+(G^F/ E/ F/) G/ A/ F/ |
+G3).('G |
+(A/ B/)ccB |
+c3).('c |
+defe |
+d2d).('G |
+(A/ B/)ccB |
+c3).('B |
+AdcB |
+AG).('(B3/A/) |
+(G^F/ E/ F/) G/ A/ F/ |
+G3) |]

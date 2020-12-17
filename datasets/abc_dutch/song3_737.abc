@@ -1,0 +1,25 @@
+X: 2736
+T: Kom vrienden wil mijn lied aanhoren en wil m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 2416547751
+%%humdrum-veritas-data 3644049336
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/DC/ [I:setbarnb 1]|
+[M:9/8]B,3/-B,B,/CD/ |
+[M:6/8]E3/D3/ |
+z).('D/EF/ |
+[M:9/8]G3/-GG/AG/ |
+[M:6/8](FE/)D3/ |
+z).('D/ (D/ E/) F/ |
+GG/ (A/ G/) F/ |
+E3/).('FE/ |
+DE/FE/ |
+[M:9/8]D3/z) |]

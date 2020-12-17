@@ -1,0 +1,25 @@
+X: 15206
+T: ‘k Zal Galopijn mijn dochter geven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1231422358
+%%humdrum-veritas-data 2048720784
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2AG2G |
+G F G F D z |
+D E FG2G |
+A2BA2D |
+B2AG2G |
+G F G F D z) |
+.('A A AA2G |
+F2Dd3 |
+c c cB2c |
+B2AG2z) |]

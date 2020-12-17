@@ -1,0 +1,26 @@
+X: 2014
+T: Jan ee zult wel eens verlangen Da'j eens heu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1449389558
+%%humdrum-veritas-data 2970455510
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('DBBB |
+DBBB) |
+.('DBBd/ d/ |
+cBA2) |
+.('DAAA |
+DAAA) |
+.('DAAc/ c/ |
+cBG2) |
+.('ddee |
+ccdd) |
+.('AABB/ B/ |
+EEE2) |]

@@ -1,0 +1,30 @@
+X: 4138
+T: Kerstkindeke dat is geboren Al op een Kerstt [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 4276638391
+%%humdrum-veritas-data 3687062142
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B B A/ A/ d |
+BG2).('d3// d// |
+d d e e |
+d3).('d |
+c> B A d3// d// |
+BG2).('d |
+d d e e |
+d2).('g2 |
+f f e e |
+d) .('d d e |
+[M:3/4]d> c B) .('B B d |
+[M:2/4]c> B A3/) .('G/ |
+[M:3/4]G G B d g c |
+[M:2/4]B2A2 |
+G3) |]

@@ -1,0 +1,37 @@
+X: 8297
+T: Eene mensch, eene mensch, moet zich niet gen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 1675234856
+%%humdrum-veritas-data 3035592959
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('F G [I:setbarnb 1]|
+A2 z2 F G |
+A2 z2) .('A A |
+d4F2 |
+A2 !fermata!G2) .('E F |
+G2 z2 E F |
+G2 z2) .('G G |
+c4B2 |
+B2 A2 z2) |
+.('x4A A |
+d2d4 |
+c2c4 |
+B2B4 |
+A2A4) |
+.('E F G A B c |
+e d c B) .('A A |
+d2d4 |
+c2c4 |
+B2B4 |
+A2A4) |
+.('E F G A B c |
+e d c A B c |
+d4) |]

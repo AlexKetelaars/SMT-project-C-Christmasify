@@ -1,0 +1,32 @@
+X: 1463
+T: Al op een vastenavond al op een dure tijd
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 369826931
+%%humdrum-veritas-data 2730450547
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G A B c (d e) d) .('c |
+B B A AG2z) .('D/ D/ |
+G A B c d e d) .('c/ c/ |
+B B A A2<G2).('B |
+B B B Bc2c) .('c |
+A A A A2<d2).('D |
+G A B c d e d) .('c |
+B B A A2<G2).('B |
+B B B Bc2c) .('c |
+A A A Ad2d2) |
+.('G2B2d3z) |
+.('c c c c B B B B |
+A2d2G4) |
+.('c cc2c cc2) |
+(3.('A A A A Ad2d2) |
+.('G A B c d/ d/ d d) .('d |
+e/ e/ e c/ c/ BA2G2) |]

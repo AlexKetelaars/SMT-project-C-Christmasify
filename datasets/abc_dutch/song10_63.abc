@@ -1,0 +1,39 @@
+X: 9062
+T: Ik was lestmaal aan mijne deur gezeten op ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 2427310852
+%%humdrum-veritas-data 2024222316
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('E C D [I:setbarnb 1]|
+E E E A c B |
+A2!fermata!C) .('C D E |
+G F E ^D =D B, |
+A,2z) .('E C D |
+!fermata!E- E- E A c B |
+A2!fermata!C) .('C D E |
+G F E ^D =D B, |
+A,2z) .('E E E |
+D B, G, B, D D |
+C2!fermata!A,) .('E E E |
+D C D E F F |
+E2z) .('E C D |
+E E E A c B |
+A2C) .('C D E |
+(G F) E ^D =D B, |
+A,2z) .('E E E |
+D B, G, B, D D |
+C2!fermata!A,) .('E E E |
+D C D E F F |
+E2z) .('E C D |
+E- E- E A c B |
+(A2C)) .('C D E |
+(G F) E ^D =D B, |
+A,2z2z2) |]

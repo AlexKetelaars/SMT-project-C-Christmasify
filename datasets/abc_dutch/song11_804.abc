@@ -1,0 +1,22 @@
+X: 10803
+T: Jan Alberts stond op en hij zong er een lied [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1772095984
+%%humdrum-veritas-data 777575920
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('B/ [I:setbarnb 1]|
+BB/ B/cc/ B/ |
+AB/ c/B).('G |
+F(G/ A/)BA/ G/ |
+F(F/ G/)F).('E |
+Ac(BG) |
+E(A/ G/)FB |
+A3) |]

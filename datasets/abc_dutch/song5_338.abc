@@ -1,0 +1,53 @@
+X: 4337
+T: Touter de touter m’n huiske brandt af Wie do [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 3963693495
+%%humdrum-veritas-data 3124250675
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/> d/ d/ B/ B/ B/ |
+d/ d/ d/B).('e/ |
+d3/Be/ |
+d3/B3/) |
+.('dd/ B/ B/ e/ |
+dd/B).('e/ |
+dd/B).('B/ |
+dd/Be/ |
+d3/B3/) |
+.('d/ d/ d/ B/ B/ e/ |
+d3/B3/) |
+.('dd/Be/ |
+dd/B).('B/ |
+d/ d/ d/Be/ |
+d3/B).('B/ |
+dd/Be/ |
+d3/B).('B/ |
+dd/dd/ |
+e3/-e).('B/ |
+dd/dd/ |
+e3/-e).('B/ |
+dd/Be/ |
+d3/B).('B/ |
+dd/Be/ |
+d3/B).('B/ |
+dd/dd/ |
+e3/-e).('B/ |
+dd/dd/ |
+eA/A).('B/ |
+dd/dd/ |
+ee/e3/) |
+.('de/dd/ |
+d3/B3/) |
+.('e3/de/ |
+d3/B3/) |
+.('dd/ee/ |
+dd/ e/ e/) .('d/ |
+dd/ed/ |
+B3/-B3/) |]

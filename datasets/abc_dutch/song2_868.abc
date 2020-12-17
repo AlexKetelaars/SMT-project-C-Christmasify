@@ -1,0 +1,32 @@
+X: 1867
+T: Wij trekken naar een ander land hoera hoera  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 3792336093
+%%humdrum-veritas-data 3774371651
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G A B> c d g d3/ e/ |
+d2A2B2z) .('G |
+G A B> c d g d e |
+f2e2d2z) .('d |
+A> B c A G F G F |
+G2A2B2z) .('d |
+d d g g f e c3/ c/ |
+[M:3/4]B2A2G2 |
+z4).('G3/ A/ |
+B2d> d c3/ B/ |
+A2z2).('A3/ B/ |
+c2e> e d3/ c/ |
+B2z2).('G B |
+[M:4/4](d2g2)g> g g f |
+[M:3/4]e2z) .('g f e |
+d> e f e d c |
+[M:4/4]B2A2G2z) |]

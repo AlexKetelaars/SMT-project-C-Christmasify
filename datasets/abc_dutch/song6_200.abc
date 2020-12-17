@@ -1,0 +1,27 @@
+X: 5199
+T: Vrienden luistert naar mijn reden Ik zal zin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 242576123
+%%humdrum-veritas-data 980204848
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D2D [I:setbarnb 1]|
+G3B2>(A2 G) F |
+(G2A2<)G2).('D2D |
+A3F2A (G F) E |
+D4>).('D4D |
+G3B2>(A2 G) F |
+(G2A2<)G2).('D D D |
+A3F2A (G F) E |
+D3-D2).('AA2A |
+B3G3B2B |
+A4>).('D4D |
+(E3c2)AG2F |
+G6) |]

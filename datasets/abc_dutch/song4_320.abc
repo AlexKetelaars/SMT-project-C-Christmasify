@@ -1,0 +1,25 @@
+X: 3319
+T: Es wollte ein Mädchen früh aufstehen Dreivie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 1487038224
+%%humdrum-veritas-data 981097942
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GGFF |
+EED).('D |
+EcB3/A/ |
+G2).('zG3// A// |
+BGBd |
+(dc)A).('z/ d/ |
+d>ff3/e/ |
+(ed)B).('d |
+dcEF |
+G2z) |]

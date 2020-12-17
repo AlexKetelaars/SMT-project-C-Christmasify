@@ -1,0 +1,44 @@
+X: 5952
+T: Sinte Maartens-avond, En mijn torre gaat mee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1368130887
+%%humdrum-veritas-data 4168682169
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c2c (c B) c |
+A2>G2) .('A B |
+c B A G A B |
+c B A G) .('A B |
+c d cc2B |
+!wedge!cz2z2).('G |
+c2cc2B |
+A2AG3) |
+.('c d/ c/ cc2B |
+!wedge!cz2z3) |
+.('c3G3 |
+c3G2).('G |
+c d c (c d) c |
+c B cG2z) |
+.('c2cc2B |
+c2cG2).('G |
+c2cc2B |
+c2cG2z) |
+.('c d cB2B |
+c3G3) |
+.('c d cc2B |
+c3G3) |
+.('c d c c d c |
+c2GG2z) |
+.('c d cB2B |
+c2GG2z) |
+.('c d c c B c |
+d2zz3) |
+.('c d c c (d c) |
+B2B {d} !wedge!cz2) |]

@@ -1,0 +1,31 @@
+X: 3077
+T: Komt vrienden en wij gaan er u wat nieuws be [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 2503348068
+%%humdrum-veritas-data 1240453155
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+d> g f> ed2d d |
+e2f2g2d) .('d |
+(e d) c BA2B2 |
+d2d2B2).('B d |
+g2>g2d2d d |
+e2f2g2d) .('d/ d/ |
+e d c BA2B c |
+d2d ed2z) .('d/ d/ |
+B d d d e d B d |
+B d B d e d B z/) .('d/ |
+g2a2b> g g f |
+a e e fg2z) .('d/ d/ |
+B d d d e d B d |
+B d B d e d B z/) .('d/ |
+g2a2b> g g f |
+a e e fg2) |]

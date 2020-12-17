@@ -1,0 +1,30 @@
+X: 8857
+T: Jan Pierewiet, Jan Pierewiet, Jan smerig soldaat
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 1786744323
+%%humdrum-veritas-data 3307554991
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('D B/ B/ B |
+D B/ B/ B |
+B d c |
+BA2) |
+.('D A A |
+D A A |
+A/ B/ c B |
+AG2) |
+.('G G F |
+ED2 |
+G/ G/ G F |
+ED2) |
+.('D/ D/ D G |
+AB2 |
+B/ B/ c A |
+FG2) |]

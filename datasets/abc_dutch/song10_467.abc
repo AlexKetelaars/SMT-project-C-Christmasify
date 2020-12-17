@@ -1,0 +1,23 @@
+X: 9466
+T: Komt, vrienden, gesprongen op veld en op wei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 5466632
+%%humdrum-veritas-data 1049336293
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F A G G B |
+E E GF2).('C/ C/ |
+F F A G G B |
+E E GF2).('c |
+G G c A A c |
+c B AG2).('C |
+F F A c A F |
+B G E!fermata!F2) |]

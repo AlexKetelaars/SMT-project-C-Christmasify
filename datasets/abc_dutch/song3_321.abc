@@ -1,0 +1,27 @@
+X: 2320
+T: Er was eens een meissie dat vroeg op wou staan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 1942555207
+%%humdrum-veritas-data 3249934449
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G2G GA2 |
+B B B A2<G2).('B |
+d d d ed2G G |
+A G F ED2).('B c |
+d2e d B B d d |
+(c2B2)A3).('D |
+G G G A B B c B |
+(A2d2)B3).('c |
+d2e d B B d d |
+(c2B2)A3).('D |
+G G G A B B c B |
+(A2d2)G2) |]

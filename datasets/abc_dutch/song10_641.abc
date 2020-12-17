@@ -1,0 +1,31 @@
+X: 9640
+T: Hoe kunnen de wevers heeren zijn, Zij hebben [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 2209689945
+%%humdrum-veritas-data 2159857754
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B B Bc2c |
+d2cB2).('B |
+c2cf2f |
+d3B2).('F |
+B2Bc2c |
+d2cB2).('B |
+c2c (c d) B |
+(B2F)B2z) ||
+[M:2/4].('B2c2 [I:setbarnb 10]|
+d/ c/ B/ c/d2) |
+.('c F c F |
+d4) |
+.('B2c2 |
+d/ c/ B/ c/d2) |
+.('c F c F |
+B2z2) |]

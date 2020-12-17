@@ -1,0 +1,49 @@
+X: 17023
+T: Que la Tere
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 617159413
+%%humdrum-veritas-data 147808609
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('zdd |
+_eee |
+ccf |
+B>Bc |
+d>_ed |
+c2).('c/ d/ |
+_eee |
+dgg |
+a>ab |
+g>ga |
+!mordent!!mordent!^f2).('A |
+ddB |
+_eGc |
+A2-A/ d/ |
+!mordent!!mordent!=B2).('d/ d/ |
+eee |
+ffc/ c/ |
+ddd |
+c>).('cf |
+d>dd |
+e>ef |
+!mordent!!mordent!f>fe |
+f2).('A |
+A!mordent!!mordent!A3/A/ |
+Bcd |
+c2c/ f/ |
+d2).('d |
+dd3/d/ |
+_efg |
+d!mordent!!mordent!c3/B/ |
+B2).('d |
+dd3/d/ |
+_efg |
+d!mordent!!mordent!c3/B/ |
+B3) |]

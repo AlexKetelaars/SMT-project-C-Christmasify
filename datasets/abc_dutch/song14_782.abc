@@ -1,0 +1,30 @@
+X: 13781
+T: [Divert. 13.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 2151196834
+%%humdrum-veritas-data 3793975876
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2A2E2F2 |
+G2>A2G2c2 |
+(c B) (B A) (A G) (G F) |
+F2E2z2).('e2 |
+(3d B cd2(3c A Bc2 |
+(3B d d (3d d d (3d d d (3d d d |
+(3d c d (3e d cB2!trill!!trill!A2 |
+G4z4) |
+.('d2e2B2c2 |
+d2>e2d2g2 |
+(3f e df2(3e d c (3(g f e) |
+e2d2z2B2 |
+c2G2z2B2 |
+c2G2z2B2 |
+(3c G _B (3A G FE2!trill!!trill!D2 |
+C4z4) :|]

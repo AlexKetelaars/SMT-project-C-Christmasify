@@ -1,0 +1,46 @@
+X: 16746
+T: S’t za lustig laet ons drincken vat nu vrij  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1899779080
+%%humdrum-veritas-data 4150211818
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c>dcG |
+c2cd/ e/ |
+d(e/ f/)e(d/ c/) |
+(d/ c/) (d/> e/)d).('G |
+c>dcG |
+c2c(d/ e/) |
+de/ f<dc/ |
+c3) |
+.('c [I:setbarnb 9]|
+GA(_B/ A/) (G/ F/) |
+G2Gc |
+GA(_B/ A/) (G/ F/) |
+G3) |
+.('G [I:setbarnb 13]|
+c>dcB |
+A2Ad |
+(e/ d/) (c/ B/) (c/ A/) (d/ c/) |
+B2Bz/) .('G/ |
+c>dcB |
+A2Ad |
+(e/ d/) (c/ B<)AG/ |
+G2x2) |
+[M:6/4].('x4xc |
+GEGEDG |
+ccGc>).('cd |
+ecGc>d e/ c/ |
+d3).('d>c B/ A/ |
+BGD>G G/ A/ B/ c/ |
+d3).('d>c B/ A/ |
+G>AGGDG |
+[M:2/2]G3) :|]

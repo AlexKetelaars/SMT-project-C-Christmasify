@@ -1,0 +1,30 @@
+X: 4487
+T: Mijn vriendje mijn vriendje ik zal eens wat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 1510063819
+%%humdrum-veritas-data 2076772914
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+G3/GD/ |
+G3/G).('D/ |
+GA/Bc/ |
+d3/!fermata!B).('B/ |
+c/ c/ c/Ac/ |
+BB/G).('B/ |
+AG/FG/ |
+A3/D3/) ||
+.('G3/GD/ [I:setbarnb 10]|
+GG/G).('D/ |
+G/ G/ A/Bc/ |
+de/d).('c/ |
+BG/AF/ |
+A3 |
+G3/-G) |]

@@ -1,0 +1,27 @@
+X: 5946
+T: Liedjeszanger draai den hoed. Weet j’ het ni [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1671921697
+%%humdrum-veritas-data 1061477855
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A2B [I:setbarnb 1]|
+c2Bc2d |
+e3).('e2e |
+f2ee2d |
+c2B).('A2B |
+c B cd2d |
+e3).('e2e |
+e f ed2d |
+c2B).('B2d |
+c2>B2 c A |
+B3).('E2A |
+G2AB2c |
+A3) |]

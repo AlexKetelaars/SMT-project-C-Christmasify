@@ -1,0 +1,22 @@
+X: 11978
+T: Entre des Mores 1
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 3943545916
+%%humdrum-veritas-data 3240388884
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f2> f2 e2> d2 c2> B2 A3 f |
+d2> e2 f2> g2a4).('(f3 a) |
+a2> g2 f2> e2 d2> f2 g3 a |
+b2> b2 a2> g2g8) |
+.('g4c'2> b2 a2> g2 f3 a |
+g2> e2 f2> g2e4).('d3 d |
+c2> A2 B2> c2 F2> f2 d3 g |
+e2> f2 f2> e2f8) :|]

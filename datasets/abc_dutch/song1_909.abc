@@ -1,0 +1,27 @@
+X: 909
+T: Zolang deze boom zal bloeien en in zijn kleu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 745463356
+%%humdrum-veritas-data 924581319
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('(D/ F/) [I:setbarnb 1]|
+GGGB |
+BD2).('B |
+A>GA3/B/ |
+c2z).('(d/ c/) |
+BBB(c/ d/) |
+dcBA |
+(G>A)B3/A/ |
+B2z).('(B/ c/) |
+dddg |
+eeze |
+d>e (d/ c/) (B/ A/) |
+G2z) |]

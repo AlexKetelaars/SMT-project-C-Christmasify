@@ -1,0 +1,28 @@
+X: 17113
+T: Bouré
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 1174293516
+%%humdrum-veritas-data 2384854424
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2e f [I:setbarnb 1]|
+g2f ef2e d |
+e d e fe2e f |
+g2f ef2e d |
+e4x2) |
+.('e f [I:setbarnb 5]|
+g2f ef2e d |
+e2A2A2d c |
+B2c2d2e2 |
+d c d ed2).('e f |
+g2f ef2e d |
+e2A2A2d c |
+B2c d2<d2c |
+c4) :|]

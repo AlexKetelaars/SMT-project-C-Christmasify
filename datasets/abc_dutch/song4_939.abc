@@ -1,0 +1,15 @@
+X: 3938
+T: Toen ik klein was van mijne voeten Droeg ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3734960907
+%%humdrum-veritas-data 2497585087
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2B dB2d2B/ B/ AG2-G) .('B dg2dc2B BA2-A3).('A2B c c Bc2d2<f2).('A2Bc2ed2c (Bd2-d3)).('d2B d B d B AG2).('g f g f e d fe2).('e e/ e/ e e f f gd2).('G G Bd2Ad2B/ B/ AG2) |]

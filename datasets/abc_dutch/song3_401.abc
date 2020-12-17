@@ -1,0 +1,30 @@
+X: 2400
+T: Lieve vrienden ga op reis Wie gaat met mij mede
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 2572157957
+%%humdrum-veritas-data 2185320888
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('DGGG |
+ABA2) |
+.('FFEF |
+G2G2) |
+.('BBBB |
+ccc2) |
+.('AAAA |
+BBB2) |
+.('G>AG=F |
+E2D2) |
+.('G>AG=F |
+E2D2) |
+.('cccA |
+cccA) |
+.('d>cBG |
+A2G2) |]

@@ -1,0 +1,30 @@
+X: 11104
+T: Onder schaauw van Elze Boomen, Aan een krist [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 222686913
+%%humdrum-veritas-data 2510842517
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('G,>^F,G,G, |
+_E,>C,D,D, |
+^F,D,G,G, |
+F,>F,B,2) |
+.('B,>^F,G,3/F,/ |
+(_E,/ D,/) (C,/ B,/)B,B, |
+C>B,F,_E, |
+F,F,B,2) |
+.('^F,D,B,3/_E,/ |
+(C,/ D,/) (_E,/ C,/)D,D, |
+E,>E, (D,/ E,/) (F,/ G,/) |
+A,A,D,2) |
+.('G,>F,_E,3/F,/ |
+(G,/ F,/) (G,/ C,/)D,D, |
+B,G,(C,/ D,/) (_E,/ C,/) |
+D,>D,G,2) |]

@@ -1,0 +1,62 @@
+X: 15147
+T: 2de Marsch uit de draaimolen v. Wolffs
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1730489309
+%%humdrum-veritas-data 1763871377
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('D/ E/ =E/ F/ [I:setbarnb 1]|
+G4- |
+G F D B |
+B2A3/ E/ |
+B3A |
+A2G3/ E/ |
+A3G |
+G2F3/ B,/ |
+D2).('D/ E/ =E/ F/ |
+G4- |
+G F D B |
+B2A3/ C/ |
+B3A |
+A2G3/ C/ |
+A3G |
+G _GF2) |
+.('F ^F G3/ G/ |
+G _GF2 |
+F ^F G3/ G/ |
+G _GF2) |
+.('G Gc2 |
+F FB2 |
+A> G F =E/ F/ |
+G2).('F3/ F/ |
+F ^F G3/ G/ |
+G _G F3/ F/ |
+F ^F G3/ G/ |
+G _GF2) |
+.('G Gc2 |
+F FB2 |
+A> G F/ E/ D/ C/ |
+B,3).('D |
+F3D |
+F3D |
+F =E/ F/ G D |
+F3=E/ F/ |
+A E E D |
+E3D/ E/ |
+G D D ^C |
+D3).('D |
+F3D |
+F3D |
+F D/ F/ B A |
+G4) |
+.('G cc2 |
+F BB2 |
+A> G F/ E/ D/ C/ |
+B,2) |]

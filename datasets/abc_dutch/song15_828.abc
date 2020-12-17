@@ -1,0 +1,30 @@
+X: 14827
+T: Marche
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 2152979334
+%%humdrum-veritas-data 1349095220
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c2c> cc2e3/ c/ |
+G2G> GG2z2 |
+e2>c2 e d c B |
+c2c> cc2z2) |
+.('e2c e (e d) (d c) |
+d2B d (d c) (B A) |
+(G/ B/ d/ g/) (^f/ e/ d/ c/)B2A2 |
+G2G> GG2z2) |
+.('G2G> G B> G d3/ B/ |
+G2G> G G (G/ A/ B/ c/ d/ e/) |
+f4e> d e3/ f/ |
+d2d> dd2z2) |
+.('e2c e (e d) (d c) |
+d2B d d c c B |
+A (d/ e/) (g/ f/ e/ d/)c2B2 |
+c2c> cc2z2) :|]

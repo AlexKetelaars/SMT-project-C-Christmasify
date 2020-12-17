@@ -1,0 +1,28 @@
+X: 6093
+T: De Lier
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2125615576
+%%humdrum-veritas-data 3620133098
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d2f2a3b |
+a b a g f a e f |
+g a g f a e f c |
+d8) :|]
+.('d2d fe2e f |
+g f e de4) |
+.('d c d f e d e f |
+g f e de4) |
+.('e2e fa4 |
+a2f ga4 |
+a2f ga2a2 |
+a2>).('b2 a b a g |
+f2e f g f e c |
+d4) |]

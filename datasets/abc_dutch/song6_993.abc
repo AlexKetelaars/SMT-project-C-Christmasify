@@ -1,0 +1,30 @@
+X: 5992
+T: Klijne God der Min
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 2255166625
+%%humdrum-veritas-data 1913344474
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G4A4 |
+c BA2D4) |
+.('B4c4 |
+e dB2G4) |
+.('d4g df2 |
+e4d4) |
+.('G2A Bc2B2 |
+A8) :|]
+.('A2d2A G F D |
+A Be2d2A2) |
+.('d2g2d c B G |
+d ef2e2).('d g |
+f gd2g f g F) |
+.('G2A2B2A2 |
+G4) |]

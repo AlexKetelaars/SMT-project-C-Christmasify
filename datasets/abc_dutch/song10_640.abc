@@ -1,0 +1,29 @@
+X: 9639
+T: Daar zat een muis in de schapraai Van den ho [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 1536282581
+%%humdrum-veritas-data 1675882479
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2G |
+A2A |
+A2A |
+A2).('A/ A/ |
+AcA |
+(GB)E |
+G>F) .('F/ F/ |
+FFA/ z/ |
+F/ z/zA/ z/ |
+F/ z/zA/ z/ |
+E/ z/z).('A/ A/ |
+AcA |
+(GB)E |
+GFz) |]

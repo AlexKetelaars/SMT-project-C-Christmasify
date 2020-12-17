@@ -1,0 +1,24 @@
+X: 4331
+T: Laatstmaal was er een arm soldaat Zijn geldj [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 3532424471
+%%humdrum-veritas-data 3191191523
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2d d e d |
+d2dB2).('d |
+d c B A B c |
+e d ^cd2).('d |
+d2B/ B/e2d |
+d2c A A) .('B |
+c2c/ c/d2c |
+c2BB2).('B |
+B2Ac2F |
+A3G2) |]

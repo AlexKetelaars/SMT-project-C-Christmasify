@@ -1,0 +1,25 @@
+X: 3543
+T: Ik wou er van deze avond Nog eens uit vrijen gaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 3989183115
+%%humdrum-veritas-data 868847829
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+E F G (G F) E |
+A3D2).('D |
+G2BA2c |
+B3-B3) |
+[M:9/8].('(B2d) (d c) B A G A |
+[M:6/8]B2AG2).('A |
+B2G G F E |
+A2AD2).('c/ c/ |
+B B dA2D |
+G3-G2) |]

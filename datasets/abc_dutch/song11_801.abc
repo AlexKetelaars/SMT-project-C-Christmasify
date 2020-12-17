@@ -1,0 +1,31 @@
+X: 10800
+T: Er wou er een magetje vroege opstaan, die wo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 16346374
+%%humdrum-veritas-data 909794737
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('F [I:setbarnb 1]|
+F2GA |
+G2FC |
+F2C3/_B,/ |
+A,3).('F |
+[M:3/4]FDF |
+A/ A/GE/ E/ |
+[M:4/4]G2E(D/ G/) |
+C3).('F/ F/ |
+G2GA |
+G2FC |
+(F2C_B,) |
+A,3).('F |
+FDDF |
+AAGE |
+(G2ED/ G/) |
+C3) |]

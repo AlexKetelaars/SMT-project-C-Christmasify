@@ -1,0 +1,16 @@
+X: 655
+T: Hoort mijn ghebet o Heere Mijn roepen wilt ontfaen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1813865662
+%%humdrum-veritas-data 70852253
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2D2D2D2C2A,2D4E4).('G4F2E4D4C2D4z2).('D2D2D2C2A,2D4E4).('G4F2E4D4C2D4) ]|:
+.('z2D2A2A2E2E2F2F2G2>).('F2E2D2C2D2E2A,2B,4A,4z2).('D2E2>F2G2A2F2E2D4z2).('G2F2E2(A2>G2FGAF)G2F2E4D4) |]

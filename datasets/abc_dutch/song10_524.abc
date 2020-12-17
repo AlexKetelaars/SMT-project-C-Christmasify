@@ -1,0 +1,26 @@
+X: 9523
+T: Naar Oosterland wil ik varen, daar woont er  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 3226025266
+%%humdrum-veritas-data 1339352871
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d2 [I:setbarnb 1]|
+d2c dB2(A G) |
+^F4G2).('(G A) |
+B2A B2<c2B |
+A6).('G A |
+B2(A B)c2(d e) |
+c4d2).('A2 |
+(B2A G)A2G2 |
+^F4D4) |
+.('(G A)B2c2d2 |
+c4A4 |
+G6) |]

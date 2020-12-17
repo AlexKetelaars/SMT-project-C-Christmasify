@@ -1,0 +1,47 @@
+X: 11132
+T: Schoone, die, door Vénus kleine wicht veel m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 3737726606
+%%humdrum-veritas-data 1959221959
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c2G2 |
+c> c d3/ d/ |
+e> e d3/ e/ |
+c> e d3/ c/ |
+B3).('G |
+c> c c3/ G/ |
+A> A A3/ G/ |
+F> F F3/ E/ |
+D3).('D |
+(3G> A G (3G> A ^F |
+G3G |
+(3A> B A (3A> B ^G |
+A2).('B2 |
+(3c> d B (3A> G ^F |
+G2-G) .('G |
+(3c> d c (3c> d e |
+A3A |
+d> c B3/ A/ |
+^G2E2) |
+.('c> c (3c> d e |
+f ff2) |
+.('B> B (3B> c d |
+e> e c3/ B/ |
+d> c (3c> B A |
+A3).('A |
+d> d (3d> c d |
+B3G |
+c> c (3c> B c |
+A3).('A |
+B> B (3B> A G |
+c2d2 |
+(3e> d c (3B> G B |
+c2-c) |]

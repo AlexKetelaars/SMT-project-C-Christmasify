@@ -1,0 +1,36 @@
+X: 6069
+T: Schotse Mars
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 1016031244
+%%humdrum-veritas-data 1700211012
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+A EA2A EA2 |
+A EA2A2).('d2 |
+d Ad2d Ad2 |
+d Ad2d2).('e2 |
+f2g ae2).('e2 |
+f2g ae2).('e2 |
+f2g aa2b ^g |
+a4a2) |
+.('a g [I:setbarnb 9]|
+f2e dg2f e) |
+.('f2e dg2f e) |
+.('f2g aa2g f |
+e4e2).('f g |
+a4g4 |
+f4e4) |
+.('f4g2a g |
+f4e2).('a g |
+f2e de2).('a g |
+f2e de2).('a g |
+f2g aA2d c |
+d4) |]

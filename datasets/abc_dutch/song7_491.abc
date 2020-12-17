@@ -1,0 +1,53 @@
+X: 6490
+T: No 26
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 2202578931
+%%humdrum-veritas-data 2408230747
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A2d e f g |
+(a2f2)f2) |
+.('A2d e f g |
+(a2g2)g2) |
+.('A2c d e f |
+(g2c2)c2 |
+(c2B2)B2 |
+(B2A2)A2) |
+.('A2d e f g |
+(a2f2)f2) |
+.('A2d e f g |
+(a2g2)g2) |
+.('A2c d e f |
+g f e d c B |
+A G ^G A B c |
+d2d2z2) |
+.('a2f d f a |
+g2A c e a) |
+.('g2A c e a |
+(f2d2d2)) |
+.('a2f d f a |
+g2A c e a) |
+.('g2A c e g |
+d2d2z2) |
+.('d2e f g a |
+b2b2b2) |
+.('b2a g f e |
+(e2d2d2)) |
+.('c2d e f d |
+c2d f a d |
+(b2g2)g2) |
+.('d2e f g a |
+b2b2b2) |
+.('e2f g a b |
+c2c2c2) |
+.('e2A ^G A B |
+d2A ^G A B) |
+.('d2A ^G A B |
+G2g2z2) :|]

@@ -1,0 +1,15 @@
+X: 199
+T: Van der jueght aen hebben sy my gequelt, Duy [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 138231427
+%%humdrum-veritas-data 1803256304
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G4G2F2E4D4F2A4G4F2G4z4).('A4c2B2A4G4A2B2G2A2G4F4z4).('G4G2F2G4A4c2G2A4B4A4z4).('A4A2G2F4D4F2G2A2G4F2G4) |]

@@ -1,0 +1,37 @@
+X: 8955
+T: Kom hier, gij proper maagdetje, Kom dans met mij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 1231314129
+%%humdrum-veritas-data 4201590075
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G B A d |
+d> d c d |
+e2c2 |
+d2z) .('d |
+e2c2 |
+d3G |
+G B B d |
+d> d d) .('d |
+e e e d |
+c B B d |
+c2A A |
+B G) .('B d |
+c2A2 |
+G2z B |
+B d c B |
+A2G B |
+B d c B |
+A2G2) |
+[M:6/8].('G2Bd2d |
+d2dd3 |
+e2dc2B |
+B2AG2) |]

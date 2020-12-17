@@ -1,0 +1,28 @@
+X: 14862
+T: Sprich weiter nicht, geliebter Engel Sprich  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 1636539968
+%%humdrum-veritas-data 556742923
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=76
+K: Bb clef=treble
+.('G2_A< G c/ =B3/ [I:setbarnb 1]|
+e2>d2f2{e} d c |
+=B/ A/ G z eF2e2 |
+d2c Bc2{B}A2 |
+B2) :|]
+.('d2=B// A// G3/d2 [I:setbarnb 5]|
+=B// A// G3/ d// c// B3/ f(e2d) |
+e/ d/ c z e2< {e}d2c |
+d ^F G !trill!!trill!c2< {B}A2G |
+G2).('d2=B// A// G3/d2 |
+=B// A// G3/ d// c// B3/ f(e2d) |
+e/ d/ c z e2< {e}d2c |
+=B// A// G3/ f// e// d3/ {e}!trill!!trill!d3c |
+c2) |]

@@ -1,0 +1,32 @@
+X: 17371
+T: Buttert Peasse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 1457041901
+%%humdrum-veritas-data 2408625522
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('Bd [I:setbarnb 1]|
+d(c/ B/)ce |
+e(d/ c/)Bd |
+d(c/ B/)cA |
+A2).('Bd |
+d(c/ B/)ce |
+e(d/ c/)Bd |
+AcBA/ G/ |
+G2) |
+.('Bd [I:setbarnb 9]|
+d(e/ f/) (g/ f/) (e/ d/) |
+g2Bd |
+d(c/ B/)cA |
+A2).('Bd |
+d(e/ f/) (g/ f/) (e/ d/) |
+g2Bd |
+AcBA/ G/ |
+!fermata!G2) :|]

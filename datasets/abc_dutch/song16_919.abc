@@ -1,0 +1,36 @@
+X: 15918
+T: Alemanda
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 124875407
+%%humdrum-veritas-data 2387523390
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c [I:setbarnb 1]|
+fcAc |
+fcAf |
+gab/ a/ g/ a/ |
+f/ e/ f/ g/fc |
+fcAc) |
+.('fcAf |
+gab/ a/ g/ a/ |
+f3) |
+.('f [I:setbarnb 9]|
+g2g2 |
+g2za |
+bagf |
+g/ f/ e/ d/ c/ d/ e/ f/ |
+g/ f/ e/ d/ c/ d/ e/ f/ |
+g/ f/ e/ d/) .('c/ d/ e/ f/ |
+g2g2 |
+g2).('za |
+bagf |
+c'2a2 |
+baga |
+f3) |]

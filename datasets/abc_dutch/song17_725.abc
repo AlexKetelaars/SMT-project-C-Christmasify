@@ -1,0 +1,60 @@
+X: 16724
+T: Schoon ghij koudt, niet en houdt van te bemi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3145809866
+%%humdrum-veritas-data 703901250
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c>de |
+B>cd |
+c>B (A/ B/) |
+B2B) |
+.('e>^fg |
+^f>ga |
+c>dB |
+A3) |
+.('e>ec |
+g>ge |
+f>fe |
+d>ef) |
+.('gfe |
+d>ef |
+edc |
+B2).('g |
+gf3/f/ |
+f2e |
+e>fd |
+c3) :|]
+.('aea |
+^f2f |
+gab |
+e>^f).('g |
+B>cA |
+G2g |
+g^f3/e/ |
+^d>).('e^f |
+Bbg |
+ea^f |
+^d).('Be |
+e>^f^d |
+e3) ||
+.('c>de [I:setbarnb 35]|
+^f2f |
+gab |
+e>^f).('g |
+B>cA |
+G2g |
+g^f3/e/ |
+^d>).('e^f |
+Bbg |
+ea^f |
+^d).('Be |
+e>^f^d |
+e3) |]

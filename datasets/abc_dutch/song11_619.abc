@@ -1,0 +1,25 @@
+X: 10618
+T: Alleluja, den blijden toon, Alleluja, Wordt  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 4259847575
+%%humdrum-veritas-data 1502840941
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+CDEF |
+GAG).('A |
+EFGG |
+cBAA |
+G(G/ F/)E2) |
+.('(FE)D3/D/ |
+C3).('G |
+ABcF |
+EAG(F/ E/) |
+D>DC) |]

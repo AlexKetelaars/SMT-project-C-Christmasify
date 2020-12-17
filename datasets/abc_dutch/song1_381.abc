@@ -1,0 +1,75 @@
+X: 381
+T: Repicavan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 1021605531
+%%humdrum-veritas-data 740203542
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('f6f2 [I:setbarnb 1]|
+f16 |
+e16 |
+a16 |
+g8f8 |
+e16 |
+d16 |
+z4).('f4f4g4 |
+a12a4 |
+a8f8 |
+g16 |
+f16- |
+f8).('f6f2 |
+f6e f g f g f g f e d |
+e16 |
+a8z2) .('A B c d e f |
+g2 G A B c d e f2) .('F G A B c d |
+e f g a g f e d ^c d e f e A B c |
+d16 |
+z4).('f4f2 e f g2 f g |
+a12).('a4 |
+a g a _b a2 g2f8) |
+.('c d e f g a _b a g f e d e f g a |
+f16 |
+z4).('f4f4f4 |
+e12e4 |
+e8e8 |
+d16 |
+^c16 |
+z4).('f4f4f4 |
+e12e4 |
+e d ^c B A B c de8) |
+.('d ^c d e f d e f g a f g e f d e |
+^c16- |
+c8e4e4) |
+[M:3/4].('f4f4f4 |
+g4g4g4 |
+a12 |
+a4a4a4) |
+.('d4>e4f4 |
+f4g6f2 |
+f12) |
+[M:4/4].('a8g6a2 |
+f4f4f8) |
+.('e4>f4d4d4 |
+d4>e4^c6d2 |
+[M:3/4]d12) |
+.('f e f g f2 f2f4 |
+g f g a g2 g2 g2 f g |
+a12) |
+.('a4a g a g a g f e |
+d4>e4 f e f g |
+f d e f e f g a g c f e |
+f12) |
+[M:2/2].('x8a8 |
+a2> _b2 a b a b2< g2 a g a g a |
+f) .('c d e f g a g2< f2 g f g f g |
+e2> f2 e f e f d) .('A B ^c d e f e |
+d e f d g f e d ^c d e f e A B c |
+d16- |
+d8) :|]

@@ -1,0 +1,47 @@
+X: 4307
+T: Ik ben door mijn ouders verlaten Misschien z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 2457491713
+%%humdrum-veritas-data 3973370501
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B B B B A G |
+(B2d)B2).('d |
+d d d d c B |
+A3-A2).('d |
+B B B (B A) G |
+(B2d)B2).('d |
+d d d d c B |
+A3-A2).('D |
+B B B B A G |
+(B2d)B2).('d |
+d d d d c B |
+A3-A2).('d |
+B B B B A G |
+(B2d)B2).('d |
+d d d A B ^c |
+d3-d3) |
+.('B3d3 |
+B3-B2A |
+G2FA2G |
+F3E3) |
+.('c3e3 |
+c3-c2B |
+A2^GA2A |
+B3-B2).('D |
+B3d3 |
+B3-B3 |
+B B Bc2B |
+E3-E3) |
+.('F3A3 |
+G F E (D G B |
+d3F3) |
+G3-G2) |]

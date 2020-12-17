@@ -1,0 +1,68 @@
+X: 7171
+T: No739. Air uijt ‘t Spreekend Schilderij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 413329868
+%%humdrum-veritas-data 4094129171
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=104
+K: G clef=treble
+.('B3c |
+d/ B/ Gz2 |
+F3G |
+A/ F/ Dz2 |
+z2).('d/ A/ A/ B/ |
+B/ G/ G/ A/ A/ F/ F/ G/ |
+G D d/ A/ A/ B/ |
+B/ G/ G/ A/ A/ F/ F/ G/ |
+G D) .('B e |
+A d G ^c |
+^c d A F |
+B G A3/ A/ |
+D2z2) |
+.('B2B c |
+d/ B/ Gz2 |
+F3G |
+A/ F/ Dz2) |
+.('g f e d |
+d3c/ d/ |
+e d c B |
+B3).('d/ c/ |
+!fermata!B2A B |
+c d e F |
+G zz2) |
+.('g f e d |
+d3c/ d/ |
+e d c B |
+B3).('d/ c/ |
+!fermata!B2A B |
+c d e F |
+G g A F |
+G g A F |
+!fermata!G2) ||
+.('d _B [I:setbarnb 34]|
+G D d _B |
+G2D z |
+z2=f d |
+_B =F =f d |
+_B2=F z |
+z2).('c d |
+_e B c d |
+_e z c d |
+_e =f g A |
+_B2).('=f =F |
+G =F _e3/ =f/ |
+_e/ d/ c/ _B/ =f =F |
+G =F _e3/ =f/ |
+_e/ d/ c/ _B<) .('d A/ |
+_B G g ^c |
+d2d3/ A/ |
+_B G g ^c |
+d2).('g ^c |
+d2g ^c |
+d2z2) |]

@@ -1,0 +1,40 @@
+X: 525
+T: Almagtig Heer! gedugte Godt! Die 's werelds Ront'
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 4065547569
+%%humdrum-veritas-data 3631980477
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('B [I:setbarnb 1]|
+B>AGB |
+A>G^F2 |
+z).('GA3/A/ |
+D>EFF |
+_E>DCC- |
+C).('FF3/_E/ |
+DB,CD |
+B,2A,).('D |
+D>=B,CF |
+_EDC3/B,/ |
+B,3) |
+.('D [I:setbarnb 12]|
+D>EFD |
+E>FG2 |
+z).('GAB |
+c>BAF |
+G>GF2- |
+F).('FGA |
+B>AGB |
+AG^F2- |
+FG2).('G |
+F>ED).('B |
+A>GAD) |
+.('(E/ ^F/)GG3/F/ |
+G4) |]

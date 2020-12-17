@@ -1,0 +1,29 @@
+X: 537
+T: De tijd van seventig of tagtig jaar Had ons  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 208597898
+%%humdrum-veritas-data 69387244
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: Bb clef=treble
+.('BBF [I:setbarnb 1]|
+B>cdec3/f/ |
+d2>).('d2ef |
+B>cdec3/B/ |
+B2x3) |
+.('d [I:setbarnb 5]|
+d2cc2B |
+B>G A/> B/c3) |
+.('FF(F// G// A/)B3 |
+z2GG>A B/ G/ |
+c2>).('c2BA |
+G2F(FG/ A/G) |
+F2>).('B2e(f// e// d/) |
+c2B(BA2) |
+B3) |]

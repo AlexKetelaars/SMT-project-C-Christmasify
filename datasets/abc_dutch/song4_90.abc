@@ -1,0 +1,23 @@
+X: 3089
+T: Ik stel in de band van trouwen geen behagen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 2142663380
+%%humdrum-veritas-data 1480503873
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+d2c Bc2d2 |
+e2d ^cd2B2) |
+.('d2c B c c c d |
+e2(d ^c)d2z2) |
+.('G2B dg2f f |
+[M:5/4]e f g ed2B) .('B c d |
+[M:4/4]e2>e2d2c2 |
+B4z3) |]

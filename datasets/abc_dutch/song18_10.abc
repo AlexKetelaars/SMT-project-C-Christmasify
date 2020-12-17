@@ -1,0 +1,30 @@
+X: 17009
+T: Marche Des Sacrifice
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2771933086
+%%humdrum-veritas-data 2100928673
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d2g2 [I:setbarnb 1]|
+!mordent!!mordent!e2>e2d3c |
+B2G2).('^c2c2 |
+!mordent!!mordent!^c2>d2 B e c d |
+d4) |
+.('a2a2 [I:setbarnb 5]|
+a2f ge2e f |
+^d2B2e2e f |
+g a !mordent!!mordent!a> g!mordent!!mordent!f3e |
+e2).('B cd2c B |
+A2A B2<c2c |
+c d B c2<!mordent!!mordent!A2G |
+G) .('A B c d e f d |
+g e =f g e ^f g a |
+f f g a2<!mordent!!mordent!a2g |
+g4) |]

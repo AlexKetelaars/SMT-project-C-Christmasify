@@ -1,0 +1,30 @@
+X: 9
+T: Mijnen geest voel ick my dringen Tot een vro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:28
+%%humdrum-veritas 199667456
+%%humdrum-veritas-data 3567704328
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=66
+K: C clef=treble
+.('cBAG |
+^FGAG) |
+.('cBG^F |
+G2).('cB |
+AG^FG |
+AG).('cB |
+G^FG2) |
+.('z2zG |
+G>AG^F/ E/ |
+D2D).('D |
+E>^FED/ C/ |
+B,3).('A, |
+G,A,B,C |
+D2D).('E |
+^FGAF |
+G4) |]

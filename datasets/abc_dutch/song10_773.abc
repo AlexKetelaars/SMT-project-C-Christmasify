@@ -1,0 +1,26 @@
+X: 9772
+T: Poezeminneke is gelegen, ‘t Arem beestje is  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1603358104
+%%humdrum-veritas-data 4044366626
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F2G A A A |
+G2BA2A) |
+.('F2G A A A |
+G2GF3) |
+.('F2G A A A |
+G G BA2A) |
+.('F2G A A A/ A/ |
+G G GF3) ]|:
+.('A G FG2G |
+A G F G G) .('G |
+c c c c B A |
+G G GF3) :|]

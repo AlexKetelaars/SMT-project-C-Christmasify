@@ -1,0 +1,22 @@
+X: 1297
+T: De ruter timmerde’n hoes in ’t veld holderde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 678464293
+%%humdrum-veritas-data 2459779159
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G B A G |
+A2AA3) |
+.('G F E D E F |
+G2GG2).('D |
+G2G B A G |
+A2d (d B) A |
+G3z2) |]

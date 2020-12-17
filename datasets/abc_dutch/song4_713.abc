@@ -1,0 +1,23 @@
+X: 3712
+T: Geen geld geen goed Ach goddegoddegoddegod
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 1392270774
+%%humdrum-veritas-data 2018240264
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+A6G2 |
+A6).('G2 |
+c G G G G G G G |
+G6).('G2 |
+A6G2 |
+A6).('G2 |
+c G G G G G G G |
+G6) |]

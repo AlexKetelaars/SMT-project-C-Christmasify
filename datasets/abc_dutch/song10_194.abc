@@ -1,0 +1,31 @@
+X: 9193
+T: Ik vrijde een vrouwken alzoo fijn En droeg h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 2829381160
+%%humdrum-veritas-data 1965636153
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D [I:setbarnb 1]|
+D/ D/EFG |
+AAA).('A |
+ddAc |
+B2A).('D |
+DEFG |
+AAA).('A |
+ddAc |
+B2A).('A |
+BGAF |
+GBA).('A |
+BAGF |
+F2E).('A |
+BGAF |
+GBA).('A |
+BAGF |
+E2D) |]

@@ -1,0 +1,34 @@
+X: 5357
+T: Schoon Katrijn, o Beeld der Beelden, Gij heb [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 1389566689
+%%humdrum-veritas-data 3327288443
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G G [I:setbarnb 1]|
+G2c2A3B |
+c2c2>).('E2F2 |
+G2A2A3G |
+G6).('G G |
+G2c2A3B |
+c2c2>).('E2F2 |
+G2A2A3G |
+G6).('c B |
+c d2<e2cd2 |
+B2).('c d2<e2d |
+[M:2/16]c/ B/ |
+[M:4/4]A6).('B A |
+[M:5/4]G2G2A (B/ c/)B2G2) |
+[M:8/4].('G AB2c d2<d2cc4).('c B |
+c d2<e2cd2B2).('c d2<e2d |
+[M:2/16]c/ B/ |
+[M:4/4]A6).('B A |
+[M:5/4]G2G2A (B/ c/)B2G2) |
+[M:8/4].('G AB2c d2<d2cc4) |]

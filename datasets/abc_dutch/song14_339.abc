@@ -1,0 +1,34 @@
+X: 13338
+T: Aria Allegro
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 4271915454
+%%humdrum-veritas-data 1216401620
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('f [I:setbarnb 1]|
+f>ff |
+fe(f/ a/) |
+a2g |
+fzf |
+eae) |
+.('dcB |
+Ace |
+azA |
+ABc |
+de(f/ a/) |
+a>(g f/ g/) |
+ezb) |
+.('ddd |
+edc/ a/ |
+a3 |
+(a/ g/) .f/ .e/ g/ b/ |
+ddd |
+edc |
+dz) :|]

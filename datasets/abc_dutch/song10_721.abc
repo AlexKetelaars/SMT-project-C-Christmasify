@@ -1,0 +1,23 @@
+X: 9720
+T: Ik gevoel mijn dagen korten, ik zeg de werel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1904527688
+%%humdrum-veritas-data 2279397267
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('D3/E/ [I:setbarnb 1]|
+A2G2FE |
+D2A,).('A,DE |
+F2EGFE |
+D2z).('Add |
+A2G2FG |
+(FE)D2).('DE |
+F2D2CA, |
+!fermata!D2z2) |]

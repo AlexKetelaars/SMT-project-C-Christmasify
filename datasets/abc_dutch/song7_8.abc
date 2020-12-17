@@ -1,0 +1,34 @@
+X: 6007
+T: Boure
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 1281603551
+%%humdrum-veritas-data 3502739580
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ccBA |
+e/ d/ e/ f/e).('^f/ ^g/ |
+acBe |
+cB/ c/A2) |
+.('ccBA |
+e/ d/ e/ f/e).('^f/ ^g/ |
+acB3/A/ |
+A4) :|]
+.('aaAa |
+ggGg) |
+.('^fee^d |
+e2e2) |
+.('dd(e/ f/)g |
+d2d2) |
+.('ccc(d/ e/) |
+B2B2) |
+.('c>B A/ B/ c/ d/ |
+e/ d/ e/ f/e).('a |
+^gabg |
+a4) |]

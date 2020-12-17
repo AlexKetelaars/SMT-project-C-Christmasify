@@ -1,0 +1,50 @@
+X: 11311
+T: 123
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:14
+%%humdrum-veritas 3241978825
+%%humdrum-veritas-data 4227401237
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A4(B/ c/ d) |
+{G}F2(E< D) (G/ E3/) |
+{G}F2E< D (G/ A/ B) |
+A6) |
+.('A2d2(f/ e3/) |
+{g}f2(e< d) (g/ a/ b) |
+a2(a g) (g f) |
+{f}e6) |
+.('a4(b/ c'/ d') |
+{d'}c'2(b a)g2 |
+f2(e d) (c B) |
+A6) |
+.('d2D2E2 |
+{G}F2(E< D)G2 |
+(3F E DE3D |
+D6) |
+.('D6 |
+E4F2 |
+G2E3D |
+D6) |
+.('F2(F3E/ F/) |
+G2(B2d2) |
+^G2(G3F/ G/) |
+A2(c2e2)) |
+.('^A2(A3^G/ A/) |
+B2(d2f2) |
+{e}d2c B ^A B |
+F6) |
+.('B2B4 |
+B3(A/ B/)c2 |
+d e {d}c2(B A) |
+A2A3).('(^G/ A/) |
+B2B4 |
+B4c2 |
+d2B3A |
+A6) ||

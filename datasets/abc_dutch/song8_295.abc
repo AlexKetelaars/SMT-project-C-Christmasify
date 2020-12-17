@@ -1,0 +1,26 @@
+X: 7294
+T: Al die willen te kapren varen, Moeten mannen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 4213552505
+%%humdrum-veritas-data 1044912401
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A2c B c d |
+c2BA2E) |
+.('A2c B c d |
+c2BA2z) |
+.('c2de2d |
+c2de2z) |
+.('A B cB2B |
+B c dc2A) |
+.('c2de2d |
+c2de2z) |
+.('A B c B c d |
+c2BA2z) |]

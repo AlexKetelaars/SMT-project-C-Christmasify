@@ -1,0 +1,31 @@
+X: 4270
+T: Vier kleermakers vreemde gezellen Bevonden z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 3829666484
+%%humdrum-veritas-data 865984737
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G F E |
+E3D2).('D |
+E E E F E F |
+G3-G2).('D |
+B2A A G F |
+G3F2).('F |
+E E E G F E |
+D3-D2).('D |
+G G G G F E |
+G3F2).('E |
+F F F F E F |
+D3-D2).('B |
+B B B A G A |
+B3A2).('A |
+A G G A G F |
+D3-D2) |]

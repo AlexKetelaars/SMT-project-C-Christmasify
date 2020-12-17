@@ -1,0 +1,31 @@
+X: 4262
+T: Er kwam er eens een edele heer Die bij een s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 1583533686
+%%humdrum-veritas-data 2400510097
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d G B [I:setbarnb 1]|
+d d (3d d e d) .('d A B |
+c> e d c d G) .('G B |
+d d d ed2).('A B |
+c c B A G>) .('G G3/ B/ |
+[M:3/4]d2-d> d e3/ f/ |
+g g-g2).('g g |
+e2<e2d c |
+(B d) G) .('d G B |
+[M:4/4]d> d d e d) .('d A B |
+c e d c B) .('d G B |
+d> d d e d) .('d A B |
+c c B A G) .('d G/ G/ B |
+(3d d d d e d) .('d A B |
+c e d c B) .('d G/ G/ B |
+(3d d d d e d) .('d A B |
+c c B A G) |]

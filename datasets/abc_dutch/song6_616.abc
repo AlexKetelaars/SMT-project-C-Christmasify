@@ -1,0 +1,31 @@
+X: 5615
+T: Wel Anne Marieken, waer gaet gy naer toe, to [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 55684135
+%%humdrum-veritas-data 814050235
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G B |
+d e d |
+c B A |
+G2D) |
+.('G G B |
+d e d |
+c B A |
+G2z) |
+.('B B B |
+c c c |
+A A A |
+B2B) |
+.('G G G |
+A A A |
+F F F |
+!fermata!G2z) |]

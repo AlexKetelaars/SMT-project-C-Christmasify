@@ -1,0 +1,54 @@
+X: 359
+T: L'Amie Cillae
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 3039836163
+%%humdrum-veritas-data 3152388319
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('B [I:setbarnb 1]|
+B>cd |
+c/ B<AB/ |
+G3- |
+G2).('g |
+e2a |
+a>g ^f/ e/ |
+^fe3/d// e// |
+d3) |
+.('d>d e/ ^f/ |
+ggg |
+e3 |
+^fff |
+d3) |
+.('eee |
+c3 |
+ddd |
+B2g |
+d>de |
+d>c B/ A/ |
+BA3/G// A// |
+G3 |
+G2) |
+.('d/ c/ [I:setbarnb 23]|
+BGB |
+BA3/G// A// |
+G>A B/ c/ |
+d3) |
+.('dg^f |
+e2d/ e/ |
+f/ d<ed// e// |
+d3) |
+.('d>cB |
+ecA |
+dBG |
+cA^F |
+G>A B/ c/ |
+BA3/G// A//) |
+.('G3 |
+!fermata!G2) :|]

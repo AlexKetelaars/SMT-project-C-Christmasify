@@ -1,0 +1,35 @@
+X: 4439
+T: Vaarwel bruidje schoon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 2014654217
+%%humdrum-veritas-data 192907045
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) [I:setbarnb 1]|
+BAB/ c/ |
+(d!fermata!g)).('(d/ e/) |
+dcB |
+B/> B/A).('(G/ A/) |
+BA(B/ c/) |
+d!fermata!g).('(d/ e/) |
+dcB |
+B/> B/A).('d |
+[M:4/4]ee2d |
+ee2).('d |
+[M:3/4]efa |
+g2).('d |
+gfe |
+dB).('(d/ e/) |
+dcA |
+B2).('d |
+gfe |
+dB).('(d/ e/) |
+dcA |
+G2) |]

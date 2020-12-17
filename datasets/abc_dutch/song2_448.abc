@@ -1,0 +1,26 @@
+X: 1447
+T: Er was laatst een meisje loos Hoera en hoera [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 4212479234
+%%humdrum-veritas-data 2909567488
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('BBBd |
+cBA3/G/ |
+FA/ B/cB/ A/ |
+G2z2) |
+.('BBBd |
+cded/ c/ |
+BB/ c/dc/ B/ |
+AAA/>) .('B/ B3// A// |
+(GA)B/> A/ G3// F// |
+E2cB3// c// |
+dd/> d/dd |
+G2z2) |]

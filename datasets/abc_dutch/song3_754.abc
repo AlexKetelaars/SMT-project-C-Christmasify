@@ -1,0 +1,32 @@
+X: 2753
+T: Laatstmaal ach die zinnen mij kwellen om mij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 297751592
+%%humdrum-veritas-data 3857521807
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G> A c B> A G |
+[M:9/8](A2B2<)A2-A2).('A |
+[M:6/8]A> B c d c3/ A/ |
+B3B3) |
+.('d d> d e> e e |
+d> c BA3- |
+A3).('d3 |
+B B B B> c d |
+[M:9/8](c2B2<)A2-A3) |
+[M:6/8].('A B c d c3/ A/ |
+[M:9/8]B3B3-B3) |
+[M:6/8].('B d d e> d c |
+B3e3 |
+d3-d3) |
+.('G B d e d c |
+B3A3 |
+G3-G2) |]

@@ -1,0 +1,27 @@
+X: 6170
+T: ‘k Heb hier nog een zak te malen, ‘t Is voor [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2453589775
+%%humdrum-veritas-data 2960422679
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2GG2G |
+d2d d d) .('B |
+d2dd2d |
+d2de2e |
+d3B3) |
+.('G G G G G G |
+d d dd2d) |
+.('d2de2e |
+d d cB3) |
+.('B B Bc2B |
+A G AB2G) |
+.('B B Bc2B |
+A3G3) |]

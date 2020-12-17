@@ -1,0 +1,30 @@
+X: 16269
+T: Wat baat de mensch een ed’le ziel, Die hem a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3968962344
+%%humdrum-veritas-data 290193141
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('z2F2A3B |
+c2>d2B3A |
+^G2>).('e2e3c |
+f2>e2d3d |
+c2>).('c2B3c |
+A> B ^G> A F F z) .('B |
+e2>B2 c> B A3/ G/ |
+(F/ B/ A/ G/F2)E4) |
+.('z B B> cd2(d/ e/ f) |
+!trill!!trill!e2>d2c3).('c |
+B2>c2A2(A/ B/ c) |
+B2>A2^G4 |
+z) .('A A cF4 |
+z) .('d d f2<B2B |
+c> B c> dB3A |
+A8) :|]

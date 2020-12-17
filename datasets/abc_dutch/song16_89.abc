@@ -1,0 +1,127 @@
+X: 15088
+T: Veillons mes Soeurs Veillons encore La nuit  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 3489598234
+%%humdrum-veritas-data 3909218653
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2>-G2 A F |
+E2>-E2 F G |
+A3B3 |
+c e dc2).('g |
+(gf2-f) e d |
+c2>-c2 d e |
+f3e3 |
+{f/} e d ed2).('G |
+G2>-G2 A F |
+E2>-E2 F G |
+A3B3 |
+c e dc2).('c |
+f e d c B A |
+G6 |
+z z) .('d d e f |
+e g c B d B |
+c e) .('c d e f |
+e c G A f d |
+e3d3 |
+c3z2z |
+Z5 |
+.('B2>-B2 A G |
+^F G AG3 |
+d2>-d2 c B |
+A B cB3 |
+z6 |
+z2zz2A |
+B3A3 |
+G3z2z) |
+.('d2>-d2 c B |
+A B cB3 |
+B2>-B2 A G |
+^F G AG3 |
+g b a g ^f e |
+d c B e c A |
+G3^F3 |
+G3z2z |
+Z7 |
+.('g f e d c B |
+c2Gz2z |
+z6 |
+z2z c g e |
+e ^c d =c g e |
+e ^c d=c2c |
+A2FF2D) |
+.('e2>e2 d c |
+(c3B3) |
+f2>-f2 e d |
+{d}c3{B}A3) |
+.('^c3-c2c |
+d e f c d e |
+c3{c}!trill!!trill!B3 |
+{A B}A3z2z |
+z2z z) .('c A |
+e2Ez2z |
+z2z E B d |
+c2Az2z |
+z2z z c A |
+d2Dz2z |
+z2z D A c |
+z6) |
+.('c2>{e/} d2 c d |
+e2>-e2 f g |
+{g}f3e3 |
+!fermata!e3!fermata!d2).('G |
+G2>-G2 A F |
+E2>E2 F G |
+A3B3 |
+c e dc2).('g |
+(gf2-f) e d |
+c2>-c2 d e |
+f3e3 |
+{f/} e d ed2).('G |
+G2>-G2 A F |
+E2>-E2 F G |
+A3B3 |
+c e dc2z |
+Z2 |
+z z) .('d d e f |
+e g c B d B |
+c e) .('c d e f |
+e c G A f d |
+(e3d3) |
+c3z2z |
+Z4 |
+.('B2>-B2 A G |
+^F G AG3 |
+d2>-d2 c B |
+A B cB2z |
+z6 |
+z2zz2A |
+B3A3 |
+G3z2z) |
+.('e2>-e2 d c |
+B c dc3 |
+g2>-g2 f e |
+d e fe3 |
+c e d c B A |
+G F E a f d |
+c3B3 |
+c2).('c c e g |
+g f f B d f |
+f e e c e g |
+g f d B d f |
+{f2}e6) |
+.('f e d f e d |
+g f ee3) |
+.('f3f3 |
+e f g a g f |
+e6 |
+d3-d2d |
+c3z2z) |]

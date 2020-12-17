@@ -1,0 +1,31 @@
+X: 7258
+T: Hoort toe, gy arme en ryke, men zal u zingen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3154016695
+%%humdrum-veritas-data 3802010312
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('D [I:setbarnb 1]|
+D2AA2G |
+(G2F)F2).('F |
+F2FG2G |
+A2>A2 z) .('D |
+(D2A)A2G |
+G2FF2).('F |
+F2FG2G |
+A2>A2 z) .('A |
+c2cA2A |
+(G3F2)F |
+G2GA2A |
+(G2F) E z) .('E |
+E2EE2F |
+G3G2).('G |
+A2AG2A |
+(F2E)D2z) |]

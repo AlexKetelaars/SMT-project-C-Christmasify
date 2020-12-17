@@ -1,0 +1,25 @@
+X: 1851
+T: Wat een jammer en ellende Wat een jammer en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 3114371225
+%%humdrum-veritas-data 3975043086
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G3/A/ [I:setbarnb 1]|
+BedB |
+A2Dz) |
+[M:2/4].('G3/A/ |
+[M:4/4]BedB |
+Azz).('A/ B/ |
+cded |
+(BA)G).('(B/ d/) |
+[M:2/4]ed |
+[M:4/4]c2(AB) |
+G2) |]

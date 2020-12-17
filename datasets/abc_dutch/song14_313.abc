@@ -1,0 +1,47 @@
+X: 13312
+T: Air François
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 800697360
+%%humdrum-veritas-data 720140996
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A A (B/ A/) (G/ A/) |
+B2e2 |
+A A A B/ c/ |
+E2E) .('E |
+A A (B/ A/ G/ A/) |
+B2e2 |
+A A B/ A/ B/ c/ |
+A2z) ]|:
+.('(G/ A/) [I:setbarnb 9]|
+B B B B |
+B/ c/ B/ A/ G (G/ A/) |
+B B B B |
+B2z) .('(A/ B/) |
+c c c c |
+c/ d/ c/ B/ A (A/ B/) |
+c c c) .('c |
+cd2c |
+Be2d |
+c c B/ A/ B/ c/ |
+A2z) .('c |
+B3c |
+B3E |
+A2c2 |
+e2-!fermata!e/) .('(c/ d/ B/) |
+A A B/ A/ G/ A/ |
+B2e2 |
+A A A B/ c/ |
+E2E) .('E |
+A A (B/ A/ G/ A/) |
+B2e2 |
+A A B/ A/ B/ c/ |
+A2z) :|]

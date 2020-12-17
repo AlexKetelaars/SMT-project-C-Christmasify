@@ -1,0 +1,36 @@
+X: 14898
+T: Ich muß es frei gestehn Ich liebe Wunderschön
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 622985305
+%%humdrum-veritas-data 2413868759
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=84
+K: F clef=treble
+.('F [I:setbarnb 1]|
+c d (c/ A/) (B/ G/) |
+A2z F |
+c d (c/ A/) (B/ G/) |
+A2z) .('c |
+f f f f |
+f (e/ d/)g2 |
+e (d/ c/) d =B |
+c3) |
+.('c [I:setbarnb 9]|
+(_e/ c/) (d/ B/) c A |
+B2z d |
+f/ d/ _e/ c/ d =B |
+c2z) .('e |
+g f e (f/ e/) |
+^c2d2 |
+e f/ d/ e ^c |
+d2z) .('c |
+B B B B |
+(g/ f/ e/ d/) c B |
+A f A G |
+F3) |]

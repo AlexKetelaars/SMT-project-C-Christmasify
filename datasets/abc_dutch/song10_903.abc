@@ -1,0 +1,34 @@
+X: 9902
+T: B A ba, B E be, B I bi, ba, be, bi
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 478920249
+%%humdrum-veritas-data 3374037614
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C DD2 |
+D CC2) |
+.('C B (3B A G |
+A2).('C B |
+(3B A G A F) |
+.('F GG2 |
+E D E C |
+F2z2) ||
+.('F F/ F/F2 [I:setbarnb 10]|
+F F/ F/F2) |
+.('F F/ F/ c c |
+B AG2) |
+.('G G/ G/ B B |
+A G A F) |
+.('F F/ F/ G G |
+E D E C |
+F) .('c (3c c c |
+c3).('B |
+A F G E |
+F4) |]

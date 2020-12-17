@@ -1,0 +1,15 @@
+X: 182
+T: Wel hem die altydt is begheven, Tot Godts vr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1683087250
+%%humdrum-veritas-data 3311841993
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A4c2B2A4F4G2F2E4D4z4).('F4D2E2F2G2A2c2B4A4z4).('A4_B2A2F2G2A2B2G4F4z4).('F4G2F2D2E2F2G2A4D4z4).('d4c2d2A2=B2c2d2B4A4z4).('A4B4c4A2F2G2F2E4D4) |]

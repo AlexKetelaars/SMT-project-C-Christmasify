@@ -1,0 +1,27 @@
+X: 1443
+T: Toen ik op Nederlands berregje(s) stond Keek [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1562878946
+%%humdrum-veritas-data 648745128
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2A B c d |
+e e ed2).('d |
+e2e (f e) f |
+g3-g2).('d |
+g g f (e d) e |
+d3B2).('d |
+d e d d c B |
+A3-A2z) |
+.('e e ed2c |
+B2cd3) |
+.('e f ed2c |
+B2AG2) |]

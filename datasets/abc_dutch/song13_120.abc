@@ -1,0 +1,55 @@
+X: 12119
+T: 415
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 3311530095
+%%humdrum-veritas-data 2933033495
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('a_b [I:setbarnb 1]|
+{a/}g{f/}e{g/}f{e/}d |
+{f/}e{d/}^c(d/ f/) (e/ g/) |
+(f/ g/ g3// f/8 g/8)ad |
+^c{B/}A).('a_b |
+{a/}g{f/}e{g/}f{e/}d |
+{f/}e{d/}^c(d/ f/) (e/ g/) |
+f{e/}d{f/}e{d/}^c |
+d2).('de |
+fc{_e/}d{c/}_B |
+{d/}c{_B/}A{c/}B{A/}G |
+(A/ _B/ B3// A/8 B/8)cf |
+e{d/}cc'{_b/}a |
+{c'/}_b{a/}g{b/}a{g/}f |
+gc/ A/ (_B/ c/ c3// B/8 c/8) |
+dG{_B/}A{G/}F |
+F2).('a_b |
+{a/}g{f/}e{g/}f{e/}d |
+{f/}e{d/}^c(d/ f/) (e/ g/) |
+(f/ g/ g3// f/8 g/8)ad |
+^c{B/}A).('a_b |
+{a/}g{f/}e{g/}f{e/}d |
+{f/}e{d/}^c(d/ f/) (e/ g/) |
+f{e/}d{f/}e{d/}^c |
+d2).('fe |
+d{c/}B{d/}c{B/}A |
+{c/}B{A/}^G(A/ c/) (B/ d/) |
+(c/ d/ d3// c/8 d/8)eA |
+^G2).('ef |
+{e/}d{c/}B{d/}c{B/}A |
+{c/}B{A/}^G(A/ c/) (B/ d/) |
+c{B/}A{c/}B{A/}^G |
+A2).('a_b |
+{a/}g{f/}e{g/}f{e/}d |
+{f/}e{d/}^c(d/ f/) (e/ g/) |
+(f/ g/ g3// f/8 g/8)ad |
+^c2).('a_b |
+{a/}g{f/}e{g/}f{e/}d |
+{f/}e{d/}^c(d/ f/) (e/ g/) |
+f{e/}d{f/}e{d/}^c |
+d2) |]

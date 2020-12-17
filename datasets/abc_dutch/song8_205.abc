@@ -1,0 +1,25 @@
+X: 7204
+T: Joseph, Jesus voeder, Ging met Jesus Moeder
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3743702644
+%%humdrum-veritas-data 793422409
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('GDGA |
+B2{A}Gz) |
+.('BABc |
+dA^A(B/ ^c/) |
+d^cdz) |
+.('Bcd3/d/ |
+cB{B}Az) |
+.('G>GGD |
+G>ABA) |
+.('edd(c/ B/) |
+B(A/> G/)Gz) |]

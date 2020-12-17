@@ -1,0 +1,33 @@
+X: 16220
+T: Vryers, die Kussen garen, Wanneer het niemant ziet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1437582513
+%%humdrum-veritas-data 1656192221
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2 B c B2 A2 ^G2 E2 z2) .('e2 |
+A2 d2 c2 (B A) (A B c d e f d e)) |
+.('(c d) B c (A c) (B A)^G4e4 |
+A2 d2 c2 (B A)A4z2) .('c2 |
+B2 (A G) ^F2 B2 G2 E2 z2 c2 |
+B2 (A G) ^F2 B2 G2 E2 z2) .('B2 |
+(B4B c B c) (B2 A G) G2 (F E) |
+(E2 e2 d2> c2 B2 g2 f3 e |
+^d4)z4).('B2 (B2 B A B c) |
+(B2 A G) G2 (F E)E4z2) .('e2 |
+c2 A2 d2> c2 B2 G2 z2) .('c2 |
+c4z2 d2 d2 e2 (f e) (d c) |
+c2>) .('e2 e2> d2 c2> B2 (A c B A |
+^G2) E2 z2) .('(e2e4e d e f) |
+e2 (d c) (c B) A2 (A2> c2 B3 A |
+^G2> e2 d2> c2 B2 A2 B2 A2 |
+^G4)z2).('e4(e2 e d e f |
+e4e d e f) e2 (d c) c2 (B A) |
+A16) :|]

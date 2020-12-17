@@ -1,0 +1,15 @@
+X: 10072
+T: Christus, die sprak: Ik ga Tot die mij heeft [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 1624897033
+%%humdrum-veritas-data 3520339932
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('G3^F2G(AB)B2<G2-G3).('B3A2GA2G=F2D3-D3).('G3F2GA2B2<G2-G3).('B3A>AGA2G2<F2D3-D3).('d3d2dd2B2<B2A3-A2).('DG2AB2c2<d2-d2).('DG2AB2c2<d2G2).('AB2B(AB)A2<G2-G3) |]

@@ -1,0 +1,23 @@
+X: 3115
+T: In Frankrijk staat een herberg en een herber [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 3359319648
+%%humdrum-veritas-data 49685489
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+G B e d> c B |
+(A2B)G2).('A/ A/ |
+B A B c d e |
+d2>-d2 z) .('B |
+d g f e d e |
+(e2d)A2).('B/ B/ |
+c d e d> B A |
+G2>-G2 z) |]

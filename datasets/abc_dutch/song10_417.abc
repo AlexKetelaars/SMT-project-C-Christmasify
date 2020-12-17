@@ -1,0 +1,31 @@
+X: 9416
+T: Ik zat te spinnen voor mijne deur; Daar kwam [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 1887869852
+%%humdrum-veritas-data 4200191356
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c c _B [I:setbarnb 1]|
+A Az2).('(G c) _B E |
+F4z) .('F F F |
+G2>G2 (f d) (c B) |
+d2c2z) .('c c _B |
+A2>A2 (G c) _B E |
+F4z) .('F E F |
+G2>G2 f d c B |
+d2c2z) .('G A B |
+c2>c2d3G |
+e4).('d2(c B/) A/ |
+G3E/ G/F3D/ F/ |
+E4z) .('G A B |
+c2>G2d3G |
+e4).('d2(c B/) A/ |
+G3E/ G/f3B/ B/ |
+c4z) |]

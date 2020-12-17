@@ -1,0 +1,31 @@
+X: 5082
+T: Al is ons prinsje nog zoo klein, alevel zal  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 1816456962
+%%humdrum-veritas-data 211396399
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('(D F) [I:setbarnb 1]|
+A2AA2G |
+F2FF2).('E |
+D2D E D E |
+F2D D) .('(D F) |
+A2AA2G |
+F2FF2).('E |
+D2D (E F) E |
+D2>z2) .('C D |
+E2E (E D) E |
+F2D D) .('(C D) |
+E2E E D E |
+F2D D) .('(D F) |
+A2AA2G |
+F2FF2).('E |
+D2D (E F) E |
+D3z) |]

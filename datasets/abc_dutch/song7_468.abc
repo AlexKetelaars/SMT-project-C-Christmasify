@@ -1,0 +1,28 @@
+X: 6467
+T: No 107
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 774392461
+%%humdrum-veritas-data 803409511
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E [I:setbarnb 1]|
+E> F G A G A |
+B> A Bc2).('e |
+e> B G B A F |
+E2zz2) :|]
+.('E [I:setbarnb 5]|
+c2>(c2 B) A |
+A3G2).('G |
+A2>(A2 G) A |
+^A2>B2 z) .('E |
+A> G A F> ^E F |
+B> ^A B G> F E) |
+.('e d c B> c B |
+A2z!fermata!z2) |]

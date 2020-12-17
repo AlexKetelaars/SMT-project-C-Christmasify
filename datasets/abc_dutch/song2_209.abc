@@ -1,0 +1,27 @@
+X: 1208
+T: Jan Joris trok des morgens heel vroeg al naa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 771662923
+%%humdrum-veritas-data 939430420
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+BA/GF/ |
+(EF/)GA/ |
+Bd/BA/ |
+G3/-G).('B/ |
+A^G/AB/ |
+A3/dF/ |
+E3/A3/ |
+F3/-F).('D/ |
+AB/cd/ |
+e3/dc/ |
+B3/A3/ |
+G3/-G) |]

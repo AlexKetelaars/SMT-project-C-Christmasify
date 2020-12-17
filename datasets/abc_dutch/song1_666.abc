@@ -1,0 +1,15 @@
+X: 666
+T: Ghi kindren loeft den Heere Sinen naem tot a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 31298288
+%%humdrum-veritas-data 2836931783
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('D4F2F2G2G2A4A4z2).('ccB2A2A2G2A4F4z2).('G2A2G2F2E2D4D4z2).('A2A4G2F4E2D4C4z2).('D2E2E2A4A4G4F2E4D4C2(D2>E2F2)).('D2E2E2A4A4G4F2E4D4C2D4) |]

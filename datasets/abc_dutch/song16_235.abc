@@ -1,0 +1,30 @@
+X: 15234
+T: Hamburg ist ein schönes Städchen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2860417248
+%%humdrum-veritas-data 376567810
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A2>F2 D> F B3/ A/ |
+A2G z E> E E z) |
+.('A2>A2 c> B A3/ G/ |
+F2D> D D zz2) |
+.('d2>c2 e> d c3/ d/ |
+B2B2).('e> d c3/ d/ |
+A> A A> A c> B A3/ G/ |
+F2D> D D z) .('A3/ G/ |
+F> F F> FF2B3/ A/ |
+A2G> FG2).('G F |
+E c c cc2B A |
+A d d dd2).('A3/ G/ |
+F2D> DD2d3/ c/ |
+B2G> GG2).('B e |
+d2>d2 c d/ c/ B c |
+d4z4) |]

@@ -1,0 +1,43 @@
+X: 4785
+T: Twee meiden dienden bij enen baron
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 4022605179
+%%humdrum-veritas-data 1942017492
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GA<B-BB/ |
+[M:6/8]BB/cd/ |
+[M:9/8](e/d)d3/).('dd/ |
+c3/e3/dc/ |
+B3/-B3/).('GA/ |
+B3/-BB/cd/ |
+[M:6/8]e3/d3/- |
+d).('d/dd/ |
+[M:9/8]c3/e3/dc/ |
+[M:6/8]B3/-B).('B/ |
+A/A(A/ B/) c/ |
+BA/G).('A/ |
+B3/Bd/ |
+(c/ B/) A/GA// A// |
+B3/c3/ |
+d3/-d3/) |
+.('AA/ (A/ B/) c/ |
+BA/G).('A// A// |
+B3/c3/ |
+d3/-d3/) |
+.('BB/cc/ |
+d3/ee/ |
+dd/cA/ |
+B3/-B3/) |
+.('BB/cc/ |
+d3/ee/ |
+dd/cA/ |
+G3/-G) |]

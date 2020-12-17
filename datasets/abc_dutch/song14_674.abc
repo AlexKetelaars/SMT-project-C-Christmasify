@@ -1,0 +1,46 @@
+X: 13673
+T: Preseiujer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 153397971
+%%humdrum-veritas-data 202883365
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G B d B [I:setbarnb 1]|
+G B d B G2 e2 |
+d4).('c B A G |
+F G A B c A B G |
+G F E D) .('G B d B |
+G B d B G2 e2 |
+d4).('c B A G |
+F G A B c A G F |
+G4) ||
+.('D F A F [I:setbarnb 9]|
+D F A B c2 B2 |
+B2 A2) .('D F A F |
+D F A B c2 B2 |
+A4).('A ^c e c |
+A ^c e f g2 f2 |
+{f}e4).('d f a f |
+d f a f d2 b2 |
+a4).('g f e d |
+^c d e f g e f d |
+d ^c B A d f a f |
+d f a f d2 b2 |
+a4).('g f e d |
+^c d e f g e d c |
+d4).('d2 B d |
+c2 c2 c2 A c |
+B4).('c B A G |
+F A G B A G F E |
+D4z4) |
+.('d2 B d c2 c2 |
+c2 A cB4) |
+.('c B A G F2 g2 |
+f g a fg4) ||

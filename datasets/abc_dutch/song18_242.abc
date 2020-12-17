@@ -1,0 +1,38 @@
+X: 17241
+T: Ach! 'k zag het eind eens van myn smert, Was [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 2430980355
+%%humdrum-veritas-data 1445655098
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f4A> A A3/ =B/ |
+c2>d2=B2).('g e |
+^c2c d (d e/ f/e2) |
+d2z) .('AF2B B/ B/ |
+G> c A> f d c B A |
+G G z) .('g e g c c |
+f2f f/ e/f2).('c c |
+^c2c de2e) .('e |
+f e d c=B2^G G |
+A2A ^GA4) |
+.('f4A> A A3/ =B/ |
+c2>d2=B2).('g e |
+c2c d (d e/ f/e2) |
+d2).('f2^c4 |
+z ^c c> eA2A z |
+c c/ c/ d A B B) .('A A |
+d2d ef2e f |
+d> ^cd2c2z) .('e |
+f f/ f/ d d/ g/e2).('c3/ d/ |
+B B G G/ c/A2A2) |
+.('f4A> A A3/ =B/ |
+c2>d2=B2).('g e |
+^c2c d (d e/ f/e2) |
+d8) |]

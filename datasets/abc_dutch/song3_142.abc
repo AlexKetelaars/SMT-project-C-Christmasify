@@ -1,0 +1,31 @@
+X: 2141
+T: Het was eens op enen avond laat Kwam ik over [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 4018028714
+%%humdrum-veritas-data 3730648578
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G G G B |
+d2d B) .('A G |
+e c c c d e |
+d3-d2).('D |
+G G G G G B |
+d2d (B A)) .('G |
+e2c (c d) e |
+d3-d3) |
+.('c2cc2A |
+B B BB3) |
+.('A A AA2G |
+B2GD2).('D |
+G2GG2B |
+d2d (B A)) .('G |
+A B c B A F |
+G3-G2) |]

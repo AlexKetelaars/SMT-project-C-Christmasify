@@ -1,0 +1,24 @@
+X: 12960
+T: Schuitje varen, theetje drinken varen naar d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 2287720107
+%%humdrum-veritas-data 3849066178
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A2AF2B |
+A2AF2F) |
+.('A A AB2B |
+A2AF3) |
+.('A A AB2B |
+A2AF3) |
+.('G2GG2E |
+G3G3) |
+.('B2AG2F |
+E3D3) |]

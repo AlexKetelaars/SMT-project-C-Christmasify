@@ -1,0 +1,31 @@
+X: 13078
+T: De moeder van een duizendpoot Is vrees’lijk  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 3999791932
+%%humdrum-veritas-data 2085390461
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('D [I:setbarnb 1]|
+D D D D |
+D D D D |
+D E F G |
+A Az2) |
+.('A A A A |
+A AA2 |
+A G F E |
+D D z) .('D |
+D D E E |
+F F z) .('F |
+F F G G |
+A Az2) |
+.('A A A A |
+A A A) .('B |
+A G F E |
+D2z) |]

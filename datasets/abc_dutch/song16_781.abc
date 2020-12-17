@@ -1,0 +1,31 @@
+X: 15780
+T: het haags offeziertje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 2970371382
+%%humdrum-veritas-data 1842238882
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B c d FG2G2 |
+A B c AB2G2 |
+g2G2A2B2 |
+c B c AB2G2 |
+B2d2^c2e f |
+g f e d^c2x2) ||
+.('A2a2e2f2 [I:setbarnb 8]|
+a gf2e4 |
+d2d6) |
+.('d2c Bc2d f |
+e d c BB4 |
+e2g2f2g2 |
+a2g fg2e2 |
+g f e d e f g a) ||
+.('c2B2G2d2 [I:setbarnb 16]|
+g/ f/ e/ d/ c BA4 |
+G2G4) |]

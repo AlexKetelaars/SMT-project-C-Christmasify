@@ -1,0 +1,31 @@
+X: 45
+T: Die door des Werelts woeste baren, In’s Leve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3565444225
+%%humdrum-veritas-data 223150392
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('z4A2 |
+B4A2 |
+G4d2 |
+c4B2 |
+A2G2).('A2 |
+B4c2 |
+d4_e2 |
+c4c2 |
+B4).('d2 |
+d4e2 |
+f4d2 |
+B2>c2d2 |
+c2B2).('d2 |
+c2>B2A2 |
+G4d2 |
+c2>B2A2 |
+G3) |]

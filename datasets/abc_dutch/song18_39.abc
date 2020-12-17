@@ -1,0 +1,38 @@
+X: 17038
+T: Canaris
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2930155487
+%%humdrum-veritas-data 2978265951
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('e> f g |
+c> d e |
+f> g e |
+d> c B) |
+.('c> d e |
+A> B c |
+d> e c |
+!mordent!!mordent!B> A G) |
+.('g> f e |
+f> g a |
+e> f d |
+!mordent!!mordent!^c> B A) |
+.('a> g f |
+_b> b a |
+g> a f |
+!mordent!!mordent!e2d) |
+.('g> a f |
+c> d e |
+A> B c |
+d> c B) |
+.('c> d e |
+f> g a |
+d> e f |
+!mordent!!mordent!d2c) |]

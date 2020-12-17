@@ -1,0 +1,31 @@
+X: 16945
+T: [Si vous ne voulez me guérir]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2091925494
+%%humdrum-veritas-data 1514153762
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('D [I:setbarnb 1]|
+DEFF |
+EDA3/G/ |
+FGAA |
+GF).('cA |
+d^cde |
+e>d c/ B/c |
+B>AA) |
+.('e [I:setbarnb 8]|
+e^cdd |
+e>ff3/c/ |
+ccdd |
+eed3/).('c/ |
+c>B A// G// A// B// A// B// c// d// |
+B>AA).('d |
+^cd// e// f// g//e3/d/ |
+d3!fermata!d) |]

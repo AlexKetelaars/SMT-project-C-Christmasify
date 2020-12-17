@@ -1,0 +1,26 @@
+X: 6112
+T: Roomse Boonties
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 1350347020
+%%humdrum-veritas-data 700317857
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('AG [I:setbarnb 1]|
+FEFG |
+A2).('dc |
+defe |
+d2) :|]
+.('ef [I:setbarnb 5]|
+e/ d/ c/ B/Bc |
+Adcd |
+eA).('ef |
+e/ d/ c/ B/Bc |
+Adec |
+d2) |]

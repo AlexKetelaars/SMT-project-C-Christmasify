@@ -1,0 +1,43 @@
+X: 7211
+T: ‘t Wyl in den nacht, D’herders waren op wacht
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 984517490
+%%humdrum-veritas-data 2005835303
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A2G3/ F/ |
+c2z c |
+d> d g3/ f/ |
+f2z3/) .('c/ |
+d> d c3/ B/ |
+c2A2 |
+c B A G |
+F2).('f2 |
+g f e d |
+c G G f |
+e2d2 |
+c2z2) |
+.('G2(3(G A) B |
+A2z A |
+d c (3(c B) A |
+G2z) .('G |
+c3c |
+B> A B3/ c/ |
+A>) .('G A3/ B/ |
+A> G F3/ G/ |
+C2z) .('c |
+d2(3(e d c) |
+f2z c |
+f e d c |
+f2z2) |
+.('F G A B |
+(3c c c (3(d c) B |
+A2G2 |
+F4) |]

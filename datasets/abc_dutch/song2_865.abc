@@ -1,0 +1,23 @@
+X: 1864
+T: Een heer die ging ver van huis In geen zes z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 536506564
+%%humdrum-veritas-data 2620589352
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('DGA/ A/ [I:setbarnb 1]|
+B2>D2GA |
+B3).('B/> B/BB3// A// |
+G2>D2GA |
+B3).('B/> B/BB3// A// |
+[M:6/4]GBd2cB |
+BA2).('AcB/ B/ |
+A>G G/ A<BF/ F/ A/ |
+AGz/) |]

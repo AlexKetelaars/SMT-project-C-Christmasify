@@ -1,0 +1,48 @@
+X: 16602
+T: Met het verrysen van de zon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 3988693478
+%%humdrum-veritas-data 743643707
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2D DG4- |
+G (G// A// B<) G F/G4 |
+z2(B c)d2(A B) |
+G2>F2E3F |
+G2>A2A4 |
+B2z2).('B2B c |
+d2e2c3B |
+B4z2B2 |
+c2>d2G3A |
+(B/ c/ d) (d/ c/ B)A4) |
+.('G2z BB2A G |
+d2>D2G2A2 |
+F4z G B3/ E/ |
+E2>F2G2A2 |
+B D A G/ F/E4) |
+.('D4G2A A |
+A2B c2<B2A |
+A4z G B D |
+E2c B2<A2G |
+(G2F2)G4) ||
+[M:3/4].('z2z2B2 [I:setbarnb 22]|
+(B2c2)d2 |
+c4B2 |
+A4d2 |
+G4D2 |
+D4D2 |
+G4A2 |
+A6 |
+B6) ||
+[M:4/4].('d3(c/ B/)c3B [I:setbarnb 31]|
+A4z2c (B/ A/) |
+A2>G2F3G |
+A4(d2c/ B/ A/ G/) |
+(B2A2)G4) |]

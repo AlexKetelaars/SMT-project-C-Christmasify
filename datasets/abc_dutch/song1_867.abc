@@ -1,0 +1,23 @@
+X: 867
+T: Een lindeboom stond in het dal Van onderen b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 3980764437
+%%humdrum-veritas-data 194120254
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('BdB [I:setbarnb 1]|
+e2>d2cB |
+d2>).('G2AB |
+c3e/> e/fe |
+d2>).('d2ef |
+[M:4/4]agfe |
+[M:3/2](d2g)).('fee |
+d2>A2cB |
+G2z) |]

@@ -1,0 +1,15 @@
+X: 12901
+T: Sanctus Sanctus
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 486042047
+%%humdrum-veritas-data 4121157442
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('(c2>B2A2G2F2E2D4C4)z2).('(C2F2G2A2GFG4F2)).('(c2d2c4BAB2G2c2>)).('(B2A2G4F2-F2E2F2)z).('(GABc2F4)) |]

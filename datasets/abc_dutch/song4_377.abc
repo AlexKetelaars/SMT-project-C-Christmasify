@@ -1,0 +1,22 @@
+X: 3376
+T: Achter ons gelo is knollegroen bevroren Fald [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 1139394065
+%%humdrum-veritas-data 2022770494
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G> G G GA2A2 |
+d d d cB2A2) |
+.('G> G G> FE2D2 |
+G> G G> FE2D2) |
+.('G> G G GA2A2 |
+d d d cB2A2) |
+.('B4A4 |
+G> B d> BG4) |]

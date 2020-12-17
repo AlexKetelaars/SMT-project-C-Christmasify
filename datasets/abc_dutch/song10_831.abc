@@ -1,0 +1,46 @@
+X: 9830
+T: Verheugt u altemaal, de lentetijd komt aan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 619186637
+%%humdrum-veritas-data 2352662272
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+C F F F |
+F3).('G |
+A A A B |
+G3).('G |
+c c B B |
+A) .('F F G |
+F F E D |
+C2z) .('C |
+C F F F |
+F3).('F |
+(A G) (F A) |
+G2G) .('G |
+c c A A |
+F3).('G |
+A A G G |
+F2z) .('c ||
+A A G G [I:setbarnb 18]|
+F2C) .('c |
+A A G G |
+A G F) .('F |
+G C C C |
+C3).('C |
+A F F F |
+F2z) .('c |
+d d d c |
+B) .('B A G |
+c2c2 |
+c) .('F E D |
+(C2F2) |
+(E2G2) |
+F2z2) |]

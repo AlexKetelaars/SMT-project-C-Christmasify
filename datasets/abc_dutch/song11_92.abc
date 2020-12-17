@@ -1,0 +1,40 @@
+X: 10091
+T: Wat is er te doen, Zoo vroeg in’t Seizoen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 1451807569
+%%humdrum-veritas-data 2866415609
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+B G BA2A |
+B G BA2).('A |
+B G B A F A |
+G E GF3) |
+[M:2/4].('G G/ G/ G G/ G/ |
+G G G/ F/ G/ A/ |
+B4 |
+A2z) .('A |
+B4 |
+A2z2) |
+[M:6/8].('A F B!fermata!A2).('A |
+[M:2/4]G G/ G/ G/ G/ G/ A/ |
+[M:6/8]B G BA2).('A |
+[M:2/4]A/ A/ A/ A/ A A/ A/ |
+[M:6/8]B G BA2).('A |
+B G B A F A |
+G E GF2).('A |
+B G B A/ A/ F A |
+B G BA2).('A |
+B G B A F A |
+G E GF2).('A |
+B G B A F A |
+B G BA2).('A |
+B G B A/ A/ F A |
+G/ G/ E GF2z) |]

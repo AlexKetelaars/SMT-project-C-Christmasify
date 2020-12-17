@@ -1,0 +1,53 @@
+X: 5415
+T: Zoete Zangster verzacht myn smert, Verzacht  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 781159569
+%%humdrum-veritas-data 35323881
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('zce |
+dGc- |
+c(=B/ c/) (d/ c/) |
+c2).('c |
+(B_A3/)G/ |
+G3 |
+zz).('c |
+=Be2 |
+d2c |
+(B_A3/)G/ |
+G).('de |
+f=Bc |
+(d/ e// c//=B3/)c/ |
+c3- |
+c3 |
+z).('de |
+f=Bc |
+(d/ e// c//=B3/)c/ |
+c3) |
+.('zGc |
+B2c |
+B_A2 |
+G2F |
+z).('GB |
+E2G |
+F2E |
+EDz |
+z).('BG |
+(c3- |
+cd/ e/ c/ d/ |
+e3- |
+e>d c/ B/) |
+(_A/ G<)FE/ |
+E3 |
+z).('eA |
+A3- |
+A(Bc) |
+(BA3/)G/ |
+G3) :|]

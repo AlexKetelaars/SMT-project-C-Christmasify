@@ -1,0 +1,30 @@
+X: 16212
+T: Alziende Zon die ‘t Aardryk als verguld, En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 4174006105
+%%humdrum-veritas-data 2897444395
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2A2c3d |
+e2>e2d3c |
+B2>A2^G4 |
+z2).('G2A2B2 |
+c3(c/ B/)A3G |
+^F2>).('B2 e d e B |
+d2>).('c2d3e |
+(f g) (f g)d4 |
+c8) |
+.('x2d2e3f |
+g2c2c3B |
+A2z2z) .('f f e |
+d> e d> cB2z2 |
+z) .('e d eA2f2 |
+e2(d c)B4 |
+A8) :|]

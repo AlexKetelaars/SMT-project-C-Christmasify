@@ -1,0 +1,23 @@
+X: 1872
+T: Mien mouder dij wol ais aan ’t spinnen goan  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 3732181247
+%%humdrum-veritas-data 2864333643
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+[M:3/4]d d/ d/ d d d d |
+[M:2/4]e e d) .('g/ g/ |
+g> g f e |
+(e d) d z) |
+.('g2(f e) |
+e d d) .('d/ d/ |
+e d c B |
+(d G) G) |]

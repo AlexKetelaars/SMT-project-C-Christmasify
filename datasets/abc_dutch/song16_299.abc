@@ -1,0 +1,31 @@
+X: 15298
+T: Zou ik niet mijn Moeder eeren (Letzte Rose)
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 568621354
+%%humdrum-veritas-data 596411275
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('D3/ E/ [I:setbarnb 1]|
+F2d> c {c} B3/ A/ |
+A2F2D3/ E/ |
+(FA2)F {F} E3/ D/ |
+D4).('D3/ E/ |
+F2d> c {c} B3/ A/ |
+A2F z D3/ E/ |
+FA2G/ F< {F} E D/ |
+D2>z2) .('A3/ F/ |
+d2>c2 B3/ A/ |
+A2F z A3/ F/ |
+d2>c2 B ^A |
+B> {c B ^A B} c!fermata!d2).('D3/ E/ |
+F2d> c {c} B3/ A/ |
+A2F2D3/ E/ |
+(FA2)F {F} E3/ D/ |
+D2z2) |]

@@ -1,0 +1,30 @@
+X: 7054
+T: No590
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:34
+%%humdrum-veritas 2888953264
+%%humdrum-veritas-data 1322536942
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=144
+K: Bb clef=treble
+.('g2gg>ab |
+a>gf=e2d) |
+.('d>=efg>af |
+=e>d^cd3) |
+.('d2dd2c |
+d2ef3) |
+.('B2cd2c |
+B2AB>AG |
+B>AGB>AG |
+B2cd3) |
+.('d>cBA>Bc |
+B2AB>AG |
+B>AGB>AG |
+B2cd3) |
+.('d2g^fdg |
+g>a^fg3) :|]

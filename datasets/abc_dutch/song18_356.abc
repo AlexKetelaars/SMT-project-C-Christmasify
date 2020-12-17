@@ -1,0 +1,34 @@
+X: 17355
+T: Boere
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 2061951677
+%%humdrum-veritas-data 1951885801
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('ba/ g/fg |
+efd3/e/ |
+fBed |
+c/ d/ e/ f/dB) |
+.('ba/ g/fg |
+efd3/e/ |
+fBe(d/ c/) |
+c>BB2) |
+.('ba/ g/af |
+ba/ g/af |
+ac'/ d'<ac'/ |
+d'/ c'/ b/ a/af) |
+.('b(a/ g/)fg |
+efd3/e/ |
+fBed |
+c/ d/ e/ f/dB) |
+.('c'a/ g/fg |
+efd3/e/ |
+fBe(d/ c/) |
+c>BB2) :|]

@@ -1,0 +1,37 @@
+X: 16134
+T: Neen neen, geen Man zal my bekooren; De dart [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 2844715965
+%%humdrum-veritas-data 1378522978
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A [I:setbarnb 1]|
+d2ee2(e f g) |
+f2>e2 f d z) .('d |
+d2>d2B3A |
+B4z) .('A B c |
+d2>c2B3A |
+G2G2z) .('A B d |
+(d G) (A B2<)G2F |
+F4x x x) |
+.('A [I:setbarnb 9]|
+A2>G2F3E |
+F4z) .('F G A |
+A2>G2A2z) .('A |
+d2>c2 (c =B)c2 |
+=B6B2 |
+e2>e2 (e d)d2 |
+^c2>).('e2A2A f |
+d2d e^c2c A |
+(B/ A/ B/ c/ B/ c/ A/ B/ ^c/ B/ c/ d/ c/ d/ B/ c/ |
+d/ ^c/ d/ e/ d/ e/ c/ d/ f/ e/ d/ e/ f/ e/ f/ e/ |
+f2)A2z2).('e2 |
+e2d2d3^c |
+d4) :|]

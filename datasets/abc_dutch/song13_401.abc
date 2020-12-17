@@ -1,0 +1,30 @@
+X: 12400
+T: Follia d’ Espangne
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 2653634611
+%%humdrum-veritas-data 1541699012
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d ^c d ed2 |
+^c B c dc2 |
+d ^c d ed2 |
+e d e fe2) |
+.('f e f gf2 |
+e d e fe2 |
+d ^c d e d e |
+^c4c2) |
+.('d ^c d ed2 |
+^c B c dc2 |
+d ^c d ed2 |
+e d e fe2) |
+.('f e f gf2 |
+e d e fe2 |
+d2d3^c |
+d6) |]

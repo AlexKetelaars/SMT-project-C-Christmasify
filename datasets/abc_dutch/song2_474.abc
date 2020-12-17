@@ -1,0 +1,23 @@
+X: 1473
+T: Ik heb een jasje gekocht, naar de lommerd ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1405212732
+%%humdrum-veritas-data 3820057948
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ d/ [I:setbarnb 1]|
+d B gd2d/ d/ |
+d B gd2).('d |
+d B gd2d/ d/ |
+d B gd2).('d/ d/ |
+d B gd2d |
+d B gd2).('d/ d/ |
+d B g d d d |
+d3-d2) |]

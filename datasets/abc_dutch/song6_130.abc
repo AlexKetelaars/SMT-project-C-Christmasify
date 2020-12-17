@@ -1,0 +1,31 @@
+X: 5129
+T: In naam van Oranje, doe open de poort! de Wa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 2194492627
+%%humdrum-veritas-data 2207532036
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G> GB2A G |
+d2D> DD2z) .('D |
+G2G GA2G A |
+B4z2).('D2 |
+G2G> GB2A G |
+d2d> dd2z) .('d |
+d2^c BA2G3/ E/ |
+D4z2).('D2 |
+c2A> GF2E D |
+B2G> GG2z) .('D |
+c2A> GF2E D |
+B2G> GG2z) .('D |
+G2G> GG2A B |
+(c2d2e2)z) .('e |
+d2B> GD2E F |
+B4z2) |]

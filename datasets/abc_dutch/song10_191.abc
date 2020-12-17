@@ -1,0 +1,31 @@
+X: 9190
+T: Die winter is vergangen, Ik zie des meis virtuut
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 1665470166
+%%humdrum-veritas-data 2147461218
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GGAd |
+B2B).('c |
+AGAF |
+G3).('D |
+GGA/ A/d |
+B2B).('c |
+AGA/ A/F |
+G3).('(G/ A/) |
+BBB(A/ B/) |
+c2c).('c |
+BGA(c/ B/) |
+A3).('D |
+G/ G/GAd |
+B2B).('c/ c/ |
+AGAF |
+G3) |]

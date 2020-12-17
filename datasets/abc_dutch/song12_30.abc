@@ -1,0 +1,88 @@
+X: 11029
+T: Hoe tooi ik best, hoe tooi ik best de blonde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3285286745
+%%humdrum-veritas-data 578955123
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B2(A/ G/) |
+G2B |
+d2(d/ c/) |
+B2d |
+(e f) g |
+f3 |
+g2).('d |
+B2B |
+c2d |
+B2d |
+e2f |
+g2f |
+e3- |
+e2).('g |
+f2g |
+e2f |
+d2e |
+c3 |
+B2d |
+^c2(d/ e/) |
+e2d |
+d3- |
+d2).('d |
+e2e |
+(e f) g |
+f3- |
+f2).('g |
+d2d |
+e3- |
+e3- |
+e3 |
+e2e |
+(d c) B |
+A3 |
+B2).('d |
+g2d |
+e2B |
+^c2d |
+^c3 |
+d2d |
+g2d |
+(e f) g |
+f3- |
+f2).('d |
+e2d |
+c2d |
+B2B |
+B2B |
+c2B |
+c2d |
+B3 |
+B2).('g |
+f2e |
+d2d |
+d3- |
+d3- |
+d3- |
+d2).('d |
+(e/ d/ e/ f/ e/ f/ |
+d/ c/ d/ e/ d/ e/ |
+c/ B/ c/ d/ c/ d/ |
+B/ A/ B/ c/ B/ c/ |
+d c) B |
+B2A |
+B2).('B |
+G2d |
+g2d |
+(e d c |
+d c B |
+c B A |
+B2)(c/ B/) |
+A3 |
+G3) |]

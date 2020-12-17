@@ -1,0 +1,23 @@
+X: 4034
+T: Eens speelden op een morgen In het hartje va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 4071431470
+%%humdrum-veritas-data 2259508582
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>F2G2A2 |
+G4G2).('A B |
+c2(B c)d2(c B) |
+A8) |
+[M:6/4].('d4e2(d c)B2(A G) |
+[M:4/4](c2d2)d3).('c |
+B2B2(A G) (A B) |
+G8) |]

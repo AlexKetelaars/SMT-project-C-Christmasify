@@ -1,0 +1,44 @@
+X: 5876
+T: Komt hier, gij jongmans van moede kloek, En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2791785202
+%%humdrum-veritas-data 2192430452
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('GDG |
+G2A |
+{A}GAA |
+B2).('(B/ A/) |
+G2B |
+d2(c/ B/) |
+B(A/ G/) (B/ A/) |
+G2z) |
+.('GDG |
+G2A |
+GAA |
+B2).('(B/ A/) |
+G2B |
+d2(c/ B/) |
+B(A/ G/) (B/ A/) |
+G2).('G/ A/ |
+BBB |
+d>cB |
+BAB |
+{d}cB).('B/ B/ |
+BcB |
+B>AG |
+(GA)B |
+{B}A2z) |
+.('DGG |
+B2(A/ G/) |
+A(Bc) |
+B3 |
+A3 |
+G3) |]

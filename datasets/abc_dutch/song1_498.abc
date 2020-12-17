@@ -1,0 +1,35 @@
+X: 498
+T: Nu aan! Nu aan! Des werelds schonen blick
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3681431690
+%%humdrum-veritas-data 3680110645
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=44
+K: C clef=treble
+.('z4z (c/ B/) A (d/ c/) |
+B2>G2 (A/ B/) c B3/ d/ |
+c2>).('d2 (e/ f/) g ^f3/ a/ |
+g G A Bc2z) .('d |
+e2z ^GA2z B |
+c2z) .('e c (f/ e<) d c/ |
+c4).('z (c/ B/) A (d/ c/) |
+B2>G2 (A/ B/) c B3/ d/ |
+c2>).('d2 (e/ f/) g ^f3/ a/ |
+g G A Bc2z) .('d |
+e2z ^GA2z B |
+c2z) .('e c (f/ e<) d c/ |
+c4).('c2G3/ F/ |
+E2>D2 (E/ F/) G ^F3/ A/ |
+G2>).('E2 (F/ G/) A ^G3/ B/ |
+A2>).('G2 (A/ B/) c B3/ d/ |
+c2>).('d2 (e/ f/) g ^f3/ a/ |
+g G A Bc2z) .('d |
+e2z ^GA2z B |
+c2z) .('e f e d3/ c/ |
+c8) |]

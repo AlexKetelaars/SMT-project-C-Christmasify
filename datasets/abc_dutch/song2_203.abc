@@ -1,0 +1,22 @@
+X: 1202
+T: Hansje Pansje kevertje Die klom eens op een hek
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 1102604899
+%%humdrum-veritas-data 2219089283
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G> G G> A B> B B3/) .('B/ |
+A> G A> BG2z2) |
+.('B2B> cd2d3/) .('d/ |
+c> B c> dB2z2) |
+.('d2d> d e e e3/) .('e/ |
+c c c cd2z2) |
+.('G> G G> A B> B B3/) .('B/ |
+A> G A> BG2z2) |]

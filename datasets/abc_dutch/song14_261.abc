@@ -1,0 +1,35 @@
+X: 13260
+T: Hij die door zucht tot geld en goed Naar ‘t  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3286689478
+%%humdrum-veritas-data 511727966
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A A B [I:setbarnb 1]|
+(c f) .c (c g) .c |
+(c a) f (d B) G |
+F2AG2c |
+A2F) .('A A B |
+c2cc2d |
+{f}_e2e d e d |
+(c d) .c!trill!!trill!=B3 |
+c2>z2 z) .('c |
+c2>{_d} c2 B c |
+_d2(B/ F/) (F E) c |
+(c G) c (c A) c |
+(c G) c (c A)) .('F |
+f2dc2c |
+(c =B) ._BA2F |
+f2fc2c |
+.c .B .GF2).('A |
+c3c2.c |
+A3z2A |
+c2>c2 B .G |
+F2) |]

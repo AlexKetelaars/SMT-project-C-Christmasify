@@ -1,0 +1,42 @@
+X: 17965
+T: 96
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 944047234
+%%humdrum-veritas-data 448416798
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+G2G GG2(3A B c |
+B2B BB2c2 |
+(d B) (e c) (d B) (c A) |
+(B G) (A F)G2G G |
+G6).('g2 |
+G2G GG2(3A B c |
+B2B BB2f2 |
+(g e) (a e) (f d) e c |
+d2d dd2) |
+.('d2 [I:setbarnb 10]|
+A2A AA2B2 |
+c2c cc2B2 |
+c B c d e f e f |
+e d c B A G F G |
+A FD4).('g d |
+c B A c2<B2A/ G/ |
+A2G FG2g d |
+c B A c2<B2A/ G/ |
+A2G FG2).('D2 |
+(E G) (F A) (G B) (A c) |
+(B d) c e2<d2c |
+B c d gB2A G |
+G6).('D2 |
+(E G) (F A) (G B) (A c) |
+(B d) (c e2<)d2c |
+B c d gB2A G |
+G6) :|]

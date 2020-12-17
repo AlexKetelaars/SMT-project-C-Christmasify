@@ -1,0 +1,15 @@
+X: 120
+T: Godt die der Goden Heer is, spreken sal, End [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3013386391
+%%humdrum-veritas-data 1572106966
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d4c2B2A4c4d2c2B2A2G4z4).('G4d2d2c4d4e2f2e2e2d4z4).('d4d2d2c4A4B2d2c2B2A4z4).('d4d2d2c4A4B2d2c2B2A2).('c2B2A2G4F4G2A2B2c2d4A4z4).('A4c2c2d4f4e2d2c2B2A4G4) |]

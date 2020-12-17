@@ -1,0 +1,32 @@
+X: 11019
+T: De liefde doet veel jonkheden dwalen En bren [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3645261989
+%%humdrum-veritas-data 172252004
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A A B [I:setbarnb 1]|
+A2F A A B |
+A2F) .('F G A |
+B2G E A G |
+!fermata!F2>).('A2 A B |
+A2FA2B |
+A2F) .('F G A |
+B2G E A G |
+!fermata!F2>).('A2 F A |
+c2dc2A |
+F2>).('F2 F G |
+A2BA2F |
+C3) ]|:
+.('c c d [I:setbarnb 13]|
+e e dc2B |
+G2z) .('G A B |
+d d cd2c |
+!fermata!F2) :|]

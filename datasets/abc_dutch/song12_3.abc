@@ -1,0 +1,31 @@
+X: 11002
+T: Aanschouwt hier ons Belgiek, De hooveerdij i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3846707419
+%%humdrum-veritas-data 935352524
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('(C D) E [I:setbarnb 1]|
+F2AA2A |
+A2).('FG2A |
+B2Gc2E |
+F2z) .('(C D) E |
+F2AA2A |
+A2).('FG2A |
+B2Gc2E |
+F2z).('A2A |
+A2GA2B |
+c2c).('B2B |
+A2AF2F |
+G2z).('A2F |
+F2FA2A |
+A2F) .('G G A |
+B2Gc2E |
+F2zz2z) |]

@@ -1,0 +1,37 @@
+X: 6336
+T: Masissersche Galop
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 1092698139
+%%humdrum-veritas-data 1234586268
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('g3a/ g/ |
+f3g/ f/ |
+e3f/ e/ |
+d3).('B |
+c> e d3/ c/ |
+B> d c3/ B/ |
+A> c B3/ A/ |
+G d e f) |
+.('g3a/ g/ |
+f3g/ f/ |
+e3f/ e/ |
+d3).('B |
+c> e d3/ c/ |
+B> d c3/ B/ |
+G2z2) |
+.('c> BA2 [I:setbarnb 17]|
+B> AG2 |
+F E (D/ E/ F) |
+G B e d) |
+.('c> BA2 |
+B> AG2 |
+F D D/ E/ F |
+G2z2) :|]

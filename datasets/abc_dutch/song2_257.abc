@@ -1,0 +1,46 @@
+X: 1256
+T: Ik wou wel graag met Krelis trouwen Fifalder [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 3060121442
+%%humdrum-veritas-data 3258776976
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G2D |
+G2D |
+(GB)d |
+(dB)G) |
+.('AA3/A/ |
+c2F |
+A>GG |
+G3) |
+.('G2D |
+G2D |
+(GB)d |
+(dB)G) |
+.('AA3/A/ |
+c2F |
+A>GG |
+G3) |
+.('e2e |
+(gf)e |
+e2d |
+d3) |
+.('c2c |
+(ed)c |
+c2B |
+B3) |
+.('AA3/A/ |
+c2F |
+G>GB |
+d3) |
+.('AAA |
+c2F |
+A>GG |
+G3) |]

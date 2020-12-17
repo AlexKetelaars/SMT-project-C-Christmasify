@@ -1,0 +1,27 @@
+X: 2178
+T: De boer deed dadelijk open Maar hij was toch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 603969608
+%%humdrum-veritas-data 2727828652
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('g [I:setbarnb 1]|
+g> g g> g g> g) .('g3/ g/ |
+g> g g> gg3).('g |
+g> g g> g g> g) .('d3/ d/ |
+B> B A> AG3).('D |
+B> B B> AG3).('D |
+c> c c> BA3).('A |
+d> d d> dB2).('B3/ B/ |
+A> A A> A G>) .('G G3/ G/ |
+E> E E> E E) .('G G3/ G/ |
+A> D D> DD3).('D |
+c> c c> cB2).('B3/ B/ |
+A> A A> AG2) |]

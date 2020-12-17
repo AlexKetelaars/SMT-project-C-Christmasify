@@ -1,0 +1,31 @@
+X: 8816
+T: Als hier een pot met boonen stond En daar ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 1527677307
+%%humdrum-veritas-data 2905600461
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GGAB |
+GFE).('D |
+GGAB |
+A3).('B |
+ABAG |
+FED).('B |
+AGFE |
+D3).('D |
+B,DB,D |
+GGF).('C |
+A,CA,C |
+EED).('D |
+B,DB,D |
+BBA/) .('A/ A/ B/ |
+ccBA |
+G3) |]

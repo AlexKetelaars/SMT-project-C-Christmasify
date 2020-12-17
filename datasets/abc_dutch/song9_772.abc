@@ -1,0 +1,23 @@
+X: 8771
+T: ‘t Is de olie van de druiven, Die de droefhe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 776537730
+%%humdrum-veritas-data 138400700
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+G2B2A3/ B/ |
+G2G2)(3.('F- F E |
+D2D2E3/ D/ |
+C2C2)(3.('D- D D |
+G2B2A3/ B/ |
+G4)(3.('D- D D |
+G2B2A3/ B/ |
+G4) |]

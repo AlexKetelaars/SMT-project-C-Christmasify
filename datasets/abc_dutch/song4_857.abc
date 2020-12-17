@@ -1,0 +1,23 @@
+X: 3856
+T: Er was een maget vol benauwen Zeer onnozel a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 392064443
+%%humdrum-veritas-data 2203096694
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('DGA [I:setbarnb 1]|
+B2>G2A3/B/ |
+c2B2z2) |
+[M:3/4].('(EF)G |
+[M:3/2]A2>G2FE |
+D2z).('DGF |
+[M:9/4](E/ F/) (G/ A/)BG>FE2D2) |
+.('G2AB2cB2A |
+[M:3/2]G2z4) |]

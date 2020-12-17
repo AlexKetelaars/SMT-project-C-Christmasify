@@ -1,0 +1,32 @@
+X: 6066
+T: s[...]kelijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 804210986
+%%humdrum-veritas-data 458448128
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d3f [I:setbarnb 1]|
+e2>d2c3B |
+A4G3B |
+A2>G2F3E |
+D4).('d3f |
+e2>d2c3d |
+e4d2c2 |
+B2A2E2^G2 |
+A4) |
+.('d e f g [I:setbarnb 9]|
+e d e f g a g f |
+e2>a2 g a g f |
+e2>a2 g a g f |
+e4).('d3f |
+e2>d2c3B |
+A4B3c |
+d2B2A2d c |
+d4) |]

@@ -1,0 +1,29 @@
+X: 6921
+T: Daar kwam een muis geloopen, Aan alle muizen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 3998921611
+%%humdrum-veritas-data 1683448716
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2FF2F |
+G2>C2 z) .('C |
+F2F F E F |
+G3z2).('C |
+F2F F E F |
+G2>G2 z) .('F/ F/ |
+E2ED2D |
+!fermata!C3z2).('C |
+F2F F E F |
+!fermata!G3z2z) ]|:
+.('A3B3 |
+c3c2d |
+c2BA2G |
+F3z2) :|]

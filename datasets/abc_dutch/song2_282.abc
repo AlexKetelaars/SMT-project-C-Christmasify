@@ -1,0 +1,27 @@
+X: 1281
+T: Ik ben met mijn Catootje naar de Rozengracht [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 253964935
+%%humdrum-veritas-data 3811587176
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G> G G> G G> G F3/ G/ |
+A> G F> ED2).('D3/ D/ |
+c2c> cc2d3/ c/ |
+B6).('G3/ B/ |
+d2d> dd2(e3/ d/) |
+d2c2c2).('A B |
+c c A B c c d c |
+c2B2B2).('d3/ e/ |
+d4B2d3/ e/ |
+d4B2).('B3/ B/ |
+c2c> cd2d2 |
+G6) |]

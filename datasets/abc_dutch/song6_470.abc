@@ -1,0 +1,35 @@
+X: 5469
+T: Met luste willen wi singhen, Schoon lief, al [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2020208148
+%%humdrum-veritas-data 3836525831
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('eee [I:setbarnb 1]|
+eedc |
+z).('cde |
+(fe)(dc) |
+B3).('B |
+Bc(d/ c/)d |
+e2B3/).('B/ |
+e3d |
+cBGA |
+(F2E2) |
+z).('EG(A/ B/) |
+c>BA(G/ F/) |
+G2z).('E |
+Bc(d/ e/) f/ e/ |
+(d2B2) |
+z).('EGA/ B/ |
+c>B(AG/ F/) |
+G2).('e2- |
+edcB |
+GA(F2 |
+E4)) |]

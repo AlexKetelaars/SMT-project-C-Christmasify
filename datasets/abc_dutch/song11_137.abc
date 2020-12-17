@@ -1,0 +1,22 @@
+X: 10136
+T: Hoog huis, laag huis, Der hangt nen zak met  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 127901580
+%%humdrum-veritas-data 3055252173
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A2F2 |
+F2C) .('C |
+F F A A |
+(3F F F (3C) .('C C |
+A A c c |
+(3A A AF2) |
+(3.('F F F (3F F F |
+F FF2) |]

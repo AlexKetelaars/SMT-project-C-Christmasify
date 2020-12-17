@@ -1,0 +1,40 @@
+X: 6089
+T: De Slingerkoord
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2278048025
+%%humdrum-veritas-data 963136395
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2d2 [I:setbarnb 1]|
+e2f2g f e d |
+e2).('d cd2c B |
+A2G F E F G A |
+F2D2).('A2d2 |
+e2f2g f e d |
+e2).('d cd2c B |
+A2G FG2A2 |
+D4) :|]
+.('D E F G [I:setbarnb 9]|
+A2G FG2A2 |
+B4).('B c d B |
+e2d c B A ^G B |
+A2D2).('D E F G |
+A2G F G B A c |
+B4).('B c d B |
+e2d c B A ^G B |
+A4).('d e f g |
+a2g f a f g a |
+b2).('a g f ed2 |
+c2d e g e f c |
+d2A2).('d e f g |
+a2g f g f g a |
+b2).('a g f ed2 |
+c2d e f d e c |
+d4) |]

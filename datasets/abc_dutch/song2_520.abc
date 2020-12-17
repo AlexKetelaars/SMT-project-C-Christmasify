@@ -1,0 +1,23 @@
+X: 1519
+T: Te Meiert te Meiert op de Krom Daar staat ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 695606850
+%%humdrum-veritas-data 2092441868
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G DG2G G |
+G A B c2<d2).('B |
+B A B c (d e) d c |
+B A A A2<A2).('D |
+G G F EE2D D |
+G G A A2<B2).('B |
+B A B c d e d c |
+B B A AG3) |]

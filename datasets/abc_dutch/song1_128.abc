@@ -1,0 +1,15 @@
+X: 128
+T: Ghy Raedsheeren laet my doch hooren, Die my  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 284409654
+%%humdrum-veritas-data 57496913
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G4A2A2G4c4B2c2A4G4z4).('G4E2E2C2F2E4D4C4z4).('C4E2F2G4G4A2B2c4z4).('c4B2A2G2A2G2F2E4D4z4).('D4E2F2G4E4A2A2G4z4).('c4B2A2G2c2B4A4G4) |]

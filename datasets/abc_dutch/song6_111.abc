@@ -1,0 +1,36 @@
+X: 5110
+T: Mijn lieve krullemie, ik schep in u behagen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 603660936
+%%humdrum-veritas-data 2559660586
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F [I:setbarnb 1]|
+F2FF2F |
+F3z2).('A |
+A2AB2A |
+A3G2).('F |
+E2EE2E |
+E3z2).('E |
+E2FG2A |
+B3A2).('G |
+F2>-F2 z D |
+B2>-B2 z B |
+A2>-A2 z) .('A |
+(c B) A (G F) E |
+D2>-D2 z) .('F |
+F2FF2F |
+A> G FE2).('E |
+E2EE2E |
+G> F ED2).('D |
+B2>-B2 z B |
+A2>-A2 z) .('A |
+(c> B) A (G F) E |
+D2>-D2 z) |]

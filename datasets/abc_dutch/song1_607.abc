@@ -1,0 +1,15 @@
+X: 607
+T: O Heere wilt mi behouwen U naem die roep ick aen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2314579285
+%%humdrum-veritas-data 2420878525
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2G2B4A2A2(G4F2)G4(F4E2)F4z2).('F2G2F2c2B2B4z2).('G2G2G2G2G2(DEFG)A4z2).('B2A2G2(^FE)(GF)G4) |]

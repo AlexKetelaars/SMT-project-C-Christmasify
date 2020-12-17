@@ -1,0 +1,29 @@
+X: 4495
+T: Mijne vader en mijne moeder en die kwamen he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 1812842156
+%%humdrum-veritas-data 3987913028
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+G2G2A2d3/ d/ |
+B4B2).('c c |
+(B A) G GA2A2 |
+G6).('G A |
+B> B B B B> B c B |
+B A A ^GA2z) .('A |
+c> c c c c> c e e |
+c> c G G2<G2).('d |
+e2>d2e3d |
+e e d d e) .('d c B |
+c2c cd2d c |
+B4-B) .('A G F |
+E2E Ed2d3/ d/ |
+G6) |]

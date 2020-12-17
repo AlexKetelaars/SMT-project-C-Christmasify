@@ -1,0 +1,27 @@
+X: 2152
+T: Zij woonden een uurtje buiten de stad waar o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 2047745981
+%%humdrum-veritas-data 2677751009
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A/Bc/ [I:setbarnb 1]|
+d3/d3/ |
+BB/A).('B/ |
+c/> c/ B/cd/ |
+e3/d).('c/ |
+Be/dc/ |
+Bz/z).('A/ |
+Bc/dB/ |
+dz/z).('B/ |
+dd/ e/ e/ f/ |
+e3/d).('c/ |
+Be/dc/ |
+B3/z) |]

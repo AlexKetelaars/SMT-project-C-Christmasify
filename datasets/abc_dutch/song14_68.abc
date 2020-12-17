@@ -1,0 +1,23 @@
+X: 13067
+T: La meunière est bien malade son moulin ne to [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 4091972382
+%%humdrum-veritas-data 1714556484
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('E E [I:setbarnb 1]|
+E F G A |
+B B) .('E ^D |
+E F G A |
+B2).('B c |
+B A G F |
+E E) .('B c |
+B A F G |
+E2) |]

@@ -1,0 +1,21 @@
+X: 9077
+T: Een kind, een kind, een Koningskind, een kin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 1456318400
+%%humdrum-veritas-data 2828507920
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A, D F [I:setbarnb 1]|
+A2-A B A ^G |
+A2-A F F E |
+[M:4/4]F E (F E) !fermata!D) .('A, D F/ F/ |
+[M:3/4]A> A ^G A A G |
+A2>).('F2 F E |
+[M:4/4]F E (F E)!fermata!D2) |]

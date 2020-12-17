@@ -1,0 +1,26 @@
+X: 10539
+T: Tussen Keulen en Parijs Leit de weg naar Rome
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 2006131779
+%%humdrum-veritas-data 3678153228
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('A2cB2A |
+G2FE3) |
+.('F2EF2G |
+A3A3) |
+.('B2BB2c |
+d2cB3) |
+.('c2A A G A |
+B A FE3) |
+.('d2d d d d |
+c3e3) |
+.('d2d c c c |
+B3A3) |]

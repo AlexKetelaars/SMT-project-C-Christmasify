@@ -1,0 +1,42 @@
+X: 7519
+T: No 139
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 2360151367
+%%humdrum-veritas-data 3130722558
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d>ded |
+c>BAF |
+G>GAB |
+c/ B/ A/ B/G2) |
+.('B>Bcc |
+^c>cdA |
+d>def |
+g/ f/ e/ f/d2) |
+.('B>Bef/ g/ |
+!mordent!!mordent!f>edB |
+f>fgf/ e/ |
+!mordent!!mordent!e>^de2) |
+.('!mordent!!mordent!B>Bee |
+A>Add |
+G>GAB |
+c/ B/ A/ G/d2) |
+.('dg/ d<!mordent!!mordent!ee/ |
+fg/ a/fd |
+d>d e/ d/ c/ B/ |
+c/ B/ A/ G/!mordent!!mordent!F2) |
+.('d>ded |
+c>BAF |
+G>GAB |
+c/ B/ A/ B/G2) |
+.('d>ded |
+c>BAF |
+G>GAB |
+c/ B/ A/ B/G2) :|]

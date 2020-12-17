@@ -1,0 +1,23 @@
+X: 2420
+T: Er ging eens een bakker uit vrijen Er ging e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 2515847113
+%%humdrum-veritas-data 985998645
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G F E |
+D3B,2).('D |
+G G G G F E |
+D3B,2).('D |
+G2GG2A |
+B2BB2).('B |
+A2AE2F |
+G3-G2) |]

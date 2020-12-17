@@ -1,0 +1,29 @@
+X: 3454
+T: Komt vrienden luistert naar mijn lied Hetgee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 3965059391
+%%humdrum-veritas-data 2049134456
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+[M:9/8]G2Bd2ed2e |
+[M:6/8]d3-d2).('d |
+[M:9/8]e d c B d cB2A |
+G3-G2).('B c B A |
+GG2-G2).('gf2e |
+d3-d2).('de2f |
+g f e d e f e d ^c |
+[M:6/8]d3-d2).('d |
+e2f g f e |
+[M:9/8]d3-d2).('d (g f) e |
+d2BA2e d c B |
+[M:9/8]A3-A2).('B (c B) A |
+[M:6/8]G G GA2B |
+[M:9/8](c2B2<)A2-A2) |]

@@ -1,0 +1,29 @@
+X: 6536
+T: Al is er ons Prinsje nog zoo klein, En Hoeze [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 2415061936
+%%humdrum-veritas-data 826024630
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G (G F) G |
+A2AA2G/ A/ |
+B2zz2).('D |
+G G G (G F) G |
+A2AA2G/ A/ |
+B2zz2).('(B/ c/) |
+d d d (d e) d |
+c2cc2).('c |
+B2B B c B |
+A2AA2).('d |
+B2B c d e |
+d2zz2).('e |
+(d e) d c B A |
+G2zz2) |]

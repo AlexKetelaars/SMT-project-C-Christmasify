@@ -1,0 +1,33 @@
+X: 7328
+T: Komt hier, gy proper maegdetje! Komt, danst  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3665157844
+%%humdrum-veritas-data 1962258712
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G B B d |
+d> d d) .('d |
+e2c2 |
+d2z) .('d |
+e2c2 |
+d3).('G |
+G B B d |
+d> d d d |
+e e e d |
+d B) .('B d |
+c2A A |
+B G) .('B d |
+c2A2 |
+G2z) .('B |
+B d c B |
+A2G) .('B |
+B d c B |
+A2G2) |]

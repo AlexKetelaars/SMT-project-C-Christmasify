@@ -1,0 +1,30 @@
+X: 5998
+T: Oude Paspie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 137435832
+%%humdrum-veritas-data 2402089470
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('eae |
+dcB |
+cA/ B/ c/ d/ |
+e/ d/ e/ f/e) |
+.('eae |
+dcB |
+cA/ B/ c/ d/ |
+e) :|]
+.('d/ c/ d/ e/ [I:setbarnb 9]|
+f2e |
+fga |
+agf) |
+.('ed/ c/ d/ e/ |
+f2e |
+cB/ A/ B/ ^G/ |
+A2) |]

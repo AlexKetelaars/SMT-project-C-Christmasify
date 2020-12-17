@@ -1,0 +1,30 @@
+X: 5264
+T: Ik wil een meisje naar mijn zin gaan trouwen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3977235036
+%%humdrum-veritas-data 4057670762
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G2F E |
+D D E F |
+A2G2 |
+E2C2) |
+.('G2F E |
+D2E F |
+A2G2 |
+E4) |
+.('C2E G |
+(c2B) A |
+A3G |
+E2C2) |
+.('G2G G |
+A3G |
+(G F) (D E) |
+C4) |]

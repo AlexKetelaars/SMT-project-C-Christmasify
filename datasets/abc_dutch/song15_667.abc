@@ -1,0 +1,33 @@
+X: 14666
+T: Ou peut on être mieux
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 1953781013
+%%humdrum-veritas-data 3889974653
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B/ c/ c/ d/ |
+d3/c// B//A2 |
+c2c/ d/ e/ f/ |
+gf/ e/dd |
+edcB |
+B2A) |
+.('A, [I:setbarnb 7]|
+DFAd |
+f/ e/ d/ ^c/dA, |
+DFAd |
+f/ e/ d/ ^c/d).('d |
+BcAd |
+BcA/ c/ e/ c/ |
+BAG).('d |
+BcAd |
+BcA/ c/ e/ c/ |
+BAG/ c/ e/ c/ |
+B2!trill!!trill!A2 |
+G2z2) |]

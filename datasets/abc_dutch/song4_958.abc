@@ -1,0 +1,34 @@
+X: 3957
+T: Kaatje je moet er niet huilen Als 't regent  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 959477735
+%%humdrum-veritas-data 2377570290
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B B B B A B |
+c3B2).('B |
+A A A A G A |
+B3G3) |
+.('B B B B A B |
+c3e2).('e |
+d d dc2F |
+G3-G2).('d |
+d2de2e |
+d3-d2).('d |
+d2de2e |
+d6) |
+.('B B B B A B |
+c3B2).('B |
+A A A A G A |
+B3G3) |
+.('B B B B A B |
+c3e2).('e |
+d2dc2F |
+G3-G2) |]

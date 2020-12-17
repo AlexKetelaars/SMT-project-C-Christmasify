@@ -1,0 +1,32 @@
+X: 12508
+T: Marlotte
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 1027754915
+%%humdrum-veritas-data 3903104961
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G/ A/ B [I:setbarnb 1]|
+c2cc2e |
+c2B/ c/d2d |
+d e c B d c |
+B A G z) .('G/ A/ B |
+c2cc2e |
+c2B/ c/d2d |
+d e c B c A |
+G3z2) |
+.('B/ c/ [I:setbarnb 9]|
+d2dd2g |
+f2ed2B/ c/ |
+d2dd2g |
+f2ed2z) |
+.('c2zc2z |
+c B AG2z |
+G A B d f e |
+d c Bc2z) :|]

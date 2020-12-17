@@ -1,0 +1,23 @@
+X: 7634
+T: Daer is ä kindje in ‘t water gevallen, H’ä y [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 4114907455
+%%humdrum-veritas-data 3489557071
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+A2Ad2d |
+c B AG2G) |
+.('A A Ad2d |
+(c2B)A3) |
+.('c2cB2B |
+A G AG2G |
+A2cB2A |
+(G2F)G2z) |]

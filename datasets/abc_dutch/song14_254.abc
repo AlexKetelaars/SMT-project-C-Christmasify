@@ -1,0 +1,59 @@
+X: 13253
+T: Es wechseln die Männer So schnell wie der Wind
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 103180608
+%%humdrum-veritas-data 2163076873
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('g d B |
+A/ B/ c/ d/ .e |
+D E F |
+G z d ||
+d/ c/ B d [I:setbarnb 6]|
+d/ c/ B d |
+d/ c/ B A |
+G z) .('d' |
+d'/ c'/ b d' |
+d'/ c'/ b d |
+d/ c/ B A |
+G z) .('A |
+B B ^c |
+d d f |
+f/ e/ d ^c |
+d z) .('f/ a/ |
+a/ g/ f e |
+d z) .('f/ a/ |
+a/ g/ f/ d'/ ^c'/ e'/ |
+d'2).('d |
+d e f |
+g d B |
+{c/} c c/ B/ c/ d/ |
+B z) .('d |
+d e f |
+.g .d .B |
+{d/} c c/ B/ c/ d/ |
+B z) .('d |
+d e f |
+g d B |
+{d/} c c/ B/ c/ d/ |
+B z) .('d |
+d e f |
+g d B |
+{d/} c c/ B/ c/ A/ |
+G z) .('g |
+(f/ a<) d f/ |
+(g/ b<) d b/ |
+a/ d/ d'/ d/ a/ d/ |
+b d' g |
+(f/ a<) d f/ |
+g/ b/ d b |
+a/ d/ d'/ d/ c'/ a/ |
+g3 |
+!fermata!g z d) |]

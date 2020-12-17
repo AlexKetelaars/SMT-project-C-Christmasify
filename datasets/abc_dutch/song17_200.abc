@@ -1,0 +1,48 @@
+X: 16199
+T: Komt helden, rukt nu wakker voort, Drinkt uy [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1727130372
+%%humdrum-veritas-data 679141026
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G3 [I:setbarnb 1]|
+c2>B2 c d e f |
+g6).('g2 |
+d2>c2 B c d e |
+d6).('G2 |
+d2>c2 B c d e |
+f6).('f2 |
+c2>B2 d d c d |
+(e d)) .('e fg2f g |
+e2g fe2).('f e |
+d2>d2c4) |
+.('e2f ed2e d |
+c2d ed2).('e g |
+g2(f e2<)^f2g |
+g6) |
+.('g2 [I:setbarnb 15]|
+(e d) (e f) (e f) (g f) |
+(e d) (e f) (e f) g f |
+e6).('e d |
+(c B) (c d) (c d) (e d) |
+c6).('c c |
+d2>d2d2d2 |
+e2>e2e2).('(e d) |
+^c2(d e2<)e2d |
+d6).('d2 |
+(g f) g- g (g f) (g f) |
+(e d)) .('e f (e f) (g f) |
+e6).('(e d) |
+(c B) (c d) (c d) (e d) |
+c6).('c2 |
+d2>d2d2d2 |
+e2>e2e2).('e f |
+g2(a d2<)d2c |
+c6) :|]

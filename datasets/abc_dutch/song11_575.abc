@@ -1,0 +1,23 @@
+X: 10574
+T: Marieke van de mulder, Dat was zo’n oarig wi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 1388340594
+%%humdrum-veritas-data 4091835257
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G A B A |
+G G z D |
+G A B c |
+A2z) .('A |
+A G F E |
+D D z D |
+D D E F |
+G3) |]

@@ -1,0 +1,28 @@
+X: 10992
+T: Daar was laastmaal een mooie boerinne, Die m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1605154503
+%%humdrum-veritas-data 411065105
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B2>G2 (A B) |
+d2cA3 |
+G2z) .('D c3/ B/ |
+A2G/ F/ F G A |
+D2z) .('A B ^c |
+d2c B A B |
+A2z) .('c A B |
+G D GB2A |
+G2z) .('A B ^c |
+d2c B A B |
+A2z) .('c A B |
+G D GB2A |
+G2zz2z) |]

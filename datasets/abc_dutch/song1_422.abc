@@ -1,0 +1,36 @@
+X: 422
+T: Silvester inde Morgenstont
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 961074209
+%%humdrum-veritas-data 1021859219
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('z2zG |
+cGcd |
+e2d2 |
+cGG/ F/ E/ D/ |
+C3) |
+.('B/ c/ [I:setbarnb 6]|
+dd/ d/dA |
+d>edA |
+d>cBA |
+G3).('g/ f/ |
+eced |
+cGGA |
+dFED |
+C4) |
+.('AGAG |
+A>BAG |
+F2E2 |
+D3).('A |
+d>edA |
+d>edg/ f/ |
+ed/ c/ B/ c/ d/ B/ |
+c4) :|]

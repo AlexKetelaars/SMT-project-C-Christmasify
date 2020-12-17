@@ -1,0 +1,42 @@
+X: 17426
+T: Cicilia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 3776267065
+%%humdrum-veritas-data 3154538674
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('ABcd |
+e2ed/ e/ |
+ffed |
+e2ef/ e/) |
+.('ddde |
+cBcd |
+ed/ c<BA/ |
+A4) |
+.('aaab |
+g^fga |
+ba/ g<^fe/ |
+e3).('d |
+efga |
+f2e2 |
+dcdB |
+c3).('B |
+cdec |
+d2d2 |
+ccBA |
+B2B2) |
+.('ABcd |
+e2ed/ e/ |
+ffed |
+e2ef/ d/) |
+.('ddde |
+cBcd |
+ed/ c<BA/ |
+!fermata!A4) :|]

@@ -1,0 +1,28 @@
+X: 11861
+T: Bore d’olivet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 1980732247
+%%humdrum-veritas-data 4150347655
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('a2 [I:setbarnb 1]|
+a2f2g2f e |
+f2d4).('d e |
+f2f g2<g2a |
+a6) :|]
+.('A B [I:setbarnb 5]|
+c2A2d2(c B) |
+c2A4).('B c |
+d2(e f2<)f2e |
+e6).('(a b) |
+c'2a2g2f2 |
+g2e2f ga2 |
+^c2d e2<e2d |
+d6) |]

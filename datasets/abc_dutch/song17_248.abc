@@ -1,0 +1,38 @@
+X: 16247
+T: Verbode vrucht die my gestaag komt nooden, Z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 345100997
+%%humdrum-veritas-data 350442817
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('D2F3G |
+A2>d2e2 |
+(f e)d2(e B) |
+(^c2>B2)A2) |
+.('(d e) (e d) (c _B) |
+(A d c _B A) G |
+(F G2<)G2A |
+A6) |
+.('F2A3_B |
+(c A _B) GF2 |
+c2(f2d g) |
+e6) |
+.('c2d c _B A |
+G2>A2_B2 |
+A2d3e |
+^c4A2) |
+.('(f e) (d c) (_B A) |
+G A _B cd2) |
+.('(e f) (g f) (e d) |
+(^c d e) fA2) |
+.('A2(B ^c d e |
+^c d e f)g2 |
+e2(f e) (d ^c) |
+d6) :|]

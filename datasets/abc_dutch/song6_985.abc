@@ -1,0 +1,42 @@
+X: 5984
+T: Swarte Bette
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 318243920
+%%humdrum-veritas-data 638778663
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d3/c/ [I:setbarnb 1]|
+BAc3/B/ |
+AD).('G3/A/ |
+BAc3/B/ |
+AA).('d3/c/ |
+BAc3/B/ |
+AD).('G3/A/ |
+BcA3/G/ |
+G2) :|]
+.('d3/d/ [I:setbarnb 9]|
+g>fe3/d/ |
+dA).('a3/g/ |
+feg3/f/ |
+eA).('d3/e/ |
+feg3/f/ |
+ee).('a3/g/ |
+feg3/f/ |
+eA).('d3/e/ |
+fge3/d/ |
+d2).('d3/c/ |
+BAc3/B/ |
+AD).('G3/A/ |
+BAc3/B/ |
+AA).('d3/c/ |
+BAc3/B/ |
+AD).('G3/A/ |
+BcA3/G/ |
+G2) |]

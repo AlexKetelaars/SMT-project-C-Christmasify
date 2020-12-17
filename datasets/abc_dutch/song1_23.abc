@@ -1,0 +1,62 @@
+X: 23
+T: O! rusteloozen slaep, Daer de arme mensch in leydt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 1160453598
+%%humdrum-veritas-data 824620194
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2GA |
+B2A2 |
+G2).('dc |
+B2A2 |
+G4- |
+G2^F2 |
+GDE^F |
+G4) |
+.('G2GA |
+B2A2 |
+G2).('dc |
+B2A2 |
+G4- |
+G2^F2 |
+GDE^F |
+G4) |
+.('FEFG |
+A2G2) |
+.('FEFG |
+A2G2) |
+.('F2ED |
+D2D^C |
+D4) |
+.('FEFG |
+A2G2) |
+.('FEFG |
+A2G2) |
+.('F2ED |
+D2D^C |
+D4) |
+[M:3/2].('z2DG2B |
+B2GG2^F |
+G2).('dd2B |
+B2GG2^F |
+G2).('FF2A |
+A2FE2E |
+D2).('FF2A |
+A2FE2E |
+D6) |
+.('z2DG2B |
+B2GG2^F |
+G2).('dd2B |
+B2GG2^F |
+G2).('FF2A |
+A2FE2E |
+D2).('FF2A |
+A2FE2E |
+D6) |]

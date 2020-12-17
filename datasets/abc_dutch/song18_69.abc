@@ -1,0 +1,52 @@
+X: 17068
+T: Air
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 701091109
+%%humdrum-veritas-data 2672740211
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('g>d_e |
+B>Bc |
+dGf |
+e>ef) |
+.('g>ab |
+a>g f/ _e/ |
+d>d_e |
+c!mordent!!mordent!A3/A/ |
+B>).('c d/ e/ |
+f/ d<ga/ |
+!mordent!!mordent!^f3) |
+.('a>ba |
+^f>ga |
+dg2 |
+xf2) |
+.('x!mordent!!mordent!_e3/e/ |
+_ed3/d/ |
+dc3/d/ |
+d3) |
+.('a>ba |
+^f>ga |
+dg2 |
+xf2) |
+.('x_e3/e/ |
+_ed/ e/ d/ e/ |
+f>g_a |
+g>ga |
+b!mordent!!mordent!a3/g// a// |
+b).('d/ _e/f |
+c>d_e |
+B>cd |
+A>B!mordent!!mordent!B- |
+B/ A<!mordent!!mordent!AG/ |
+G).('d3/d/ |
+d>ef |
+e>e^f |
+g/ a<ag/ |
+g3) |]

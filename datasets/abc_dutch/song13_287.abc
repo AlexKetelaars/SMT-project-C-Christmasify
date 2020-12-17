@@ -1,0 +1,40 @@
+X: 12286
+T: De Fryse Boer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:23
+%%humdrum-veritas 3431823302
+%%humdrum-veritas-data 958981798
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('F/ G/A [I:setbarnb 1]|
+d2F/ G/A |
+D2).('de |
+f(e/ f/) g/ f/ e/ d/ |
+cA).('c/ d/e |
+a2c/ d/e |
+A2).('ae |
+f/ e/ d/ c<!trill!!trill!BA/ |
+A2) |
+.('f/ g/a [I:setbarnb 9]|
+f/ g/agf |
+ee).('f/ g/a |
+f/ g/a^g3/a/ |
+a2).('aa |
+fdg/ a/ g/ f/ |
+e2).('ff |
+dBe/ f/ e/ d/ |
+c).('AdA |
+eAfA |
+g2).('f/ g/ f/ e/ |
+d/ c/ d/ e<!trill!!trill!ed/ |
+d2).('AD |
+BDcD |
+dDAD |
+B/ A/ G/ F<!trill!!trill!ED/ |
+D2) :|]

@@ -1,0 +1,52 @@
+X: 11013
+T: In het begin al van mijn jonge jaren Heb ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3104362215
+%%humdrum-veritas-data 502090099
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c2c3/ c/ |
+c3B |
+A A B E |
+G2F2 |
+z2).('A3/ A/ |
+c3d |
+c c B B |
+A2z2) |
+.('c2c3/ c/ |
+c3B |
+A A B E |
+G2F2) |
+.('d> d d3/ d/ |
+c> (c e3/) d/ |
+c2G2 |
+c2z2) |
+.('A2A3/ A/ |
+A3A |
+G A B E |
+G2F2) |
+.('d d d d |
+c c e d |
+c2G2 |
+c2c) .('c |
+c> c c3/ B/ |
+A> A A3/ A/ |
+d2!fermata!c3/) .('c/ |
+d e f d |
+c2A A |
+c c B G |
+F2F2) |
+.('c> c c3/ B/ |
+A> A A3/ A/ |
+d> d !fermata!c3/) .('c/ |
+d e f d |
+c2A A |
+c c B G |
+F2-F/) |]

@@ -1,0 +1,30 @@
+X: 16166
+T: Zwyg weste wind, zwyg zilvre vliet, zwyg zil [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 1312319422
+%%humdrum-veritas-data 1049414349
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('dBG |
+d3- |
+d3) |
+.('dBG |
+^F2z) |
+.('G2z |
+A2z |
+B2z |
+c2z |
+d2z) |
+.('d-dd |
+(g/ f/ e/ d/ c/ B/) |
+A2z |
+z).('B(e/ d/) |
+(c/ B<)AG/ |
+G2z) |]

@@ -1,0 +1,31 @@
+X: 16590
+T: Loofd Godt den Heer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2036880931
+%%humdrum-veritas-data 4012705898
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A>BcA |
+fed3/c/ |
+B2z).('^G |
+A>BcA |
+A3e |
+fe(d/ e/) (d/ c/) |
+(B3A) |
+A2z).('B |
+c>dBe |
+Ad^c3/d/ |
+d3e |
+fed3/c/ |
+B3).('e |
+^GE(f/ e/) (d/ c/) |
+(B3A) |
+A4) |]

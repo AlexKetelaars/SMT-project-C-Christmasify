@@ -1,0 +1,23 @@
+X: 9907
+T: Een aapje liep door bosch en struiken, Een a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 4058743007
+%%humdrum-veritas-data 3938812558
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('A A A [I:setbarnb 1]|
+C2A2B A |
+A2G) .('G G G |
+C2G2A G |
+G2F) .('A A A |
+A z A z A c |
+B A G) .('G G G |
+G z G z G B |
+A G!fermata!F2) |]

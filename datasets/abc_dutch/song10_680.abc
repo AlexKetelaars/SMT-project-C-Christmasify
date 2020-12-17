@@ -1,0 +1,44 @@
+X: 9679
+T: Als de groote klokke luidt, De klokke luidt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 4224105416
+%%humdrum-veritas-data 3093160143
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c d c [I:setbarnb 1]|
+g2ga2a |
+g2ga2a |
+g2f e f g |
+e3) |
+.('e d e [I:setbarnb 5]|
+c d cB2c |
+d2d e d e |
+c f e d c B |
+c3) |
+.('G A B [I:setbarnb 9]|
+c d c B A B |
+c2c G A B |
+c d c B A B |
+c3) |
+.('d e f [I:setbarnb 13]|
+e d c d e f |
+e d c d e f |
+e d c B A B |
+c3) |
+{.('d e f}g3 [I:setbarnb 17]|
+e d c d e f |
+e2c {d e f}g3 |
+e d c d c d |
+e3) :|]
+.('d e f [I:setbarnb 21]|
+e d c d e f |
+e d c d e f |
+e d c B A B |
+c3) |]

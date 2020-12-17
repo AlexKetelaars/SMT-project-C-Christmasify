@@ -1,0 +1,42 @@
+X: 17238
+T: Als de deur van uw hert ontsluit, Wees bedag [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 820593660
+%%humdrum-veritas-data 2517219831
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('BG [I:setbarnb 1]|
+_e2d3/d/ |
+(d2c3/)d/ |
+d2).('^f3/f/ |
+g2g3/d/ |
+_e2e3/e/ |
+_e2e3/d/ |
+(d2c2) |
+B2) |
+.('dd/ e/ [I:setbarnb 9]|
+f>f(gf/) g/ |
+a3).('a |
+g>gg3/f/ |
+e2ef |
+d2(d^c/) d/ |
+^c4) |
+.('ffga |
+^c2(dc/) d/ |
+(d2^c2) |
+d3).('d |
+A>A(AG/) A/ |
+B2d3/d/ |
+g2g3/a/ |
+^f4) |
+.('g>f (g/ f/) (_e/ d/) |
+(_e>d)c3/B/ |
+(B2A2) |
+G2) |]

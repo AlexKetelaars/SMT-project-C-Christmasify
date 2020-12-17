@@ -1,0 +1,35 @@
+X: 12570
+T: O! Jammer & Elent
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 2628334354
+%%humdrum-veritas-data 451445721
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d3e> d e |
+f3d2).('e |
+f> g f e> f e |
+d2dA3) |
+.('d3e> d e |
+f3d2).('e |
+f> g f e> d c |
+d3-d2) |
+.('e [I:setbarnb 9]|
+a2ae2f |
+g2fe2).('e |
+a2a e> f g |
+!trill!!trill!f3e2).('A |
+d3e> d e |
+f3d2).('e |
+f> g f e> f e |
+d2dA3) |
+.('d3e> d e |
+f3d2).('e |
+f> g f e> d c |
+d3-d2) :|]

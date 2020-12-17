@@ -1,0 +1,23 @@
+X: 2619
+T: Zolang de boom zal bloeien En de leliën heer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 612585949
+%%humdrum-veritas-data 4268031421
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B2dg2d |
+fe2-e2).('e3// e// |
+e> e df2e |
+d3-d2).('d |
+B2dg2b |
+(a2g)e2).('g |
+f2A e e f |
+g3-g2) |]

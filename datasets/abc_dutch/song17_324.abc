@@ -1,0 +1,32 @@
+X: 16323
+T: Ren snel, o Zon, zoo dael de nacht: Dael ned [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3846837993
+%%humdrum-veritas-data 4088522388
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: E clef=treble
+.('(G A) [I:setbarnb 1]|
+B2 B2 e2 B2 |
+(A G) (A B) G2) .('B2 |
+A2 (G F) (G E) (B G) |
+(G4F2)) .('B2 |
+(3(c B ^A) B2 (3(c B A) B2 |
+e2 (d c) d2) .('(c B) |
+^A2 (B {e/} c2<) !trill!!trill!c2 B |
+B4z2) |
+.('B2 [I:setbarnb 9]|
+B2 =d2 d2 (c B) |
+(B A) (G A) F2) .('(A B) |
+G2 (A B) (3(c B A) (3(G F E) |
+(E4D2)) .('(B A) |
+G2 (F E) (c A) (e c) |
+(B A) (G F) E2) .('e2 |
+(3(c B A) (3(G F E) {E F} !trill!!trill!F3 E |
+E6) :|]

@@ -1,0 +1,36 @@
+X: 2818
+T: Nieuwe jaarke zoete Het varken heb vier voeten.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 701446437
+%%humdrum-veritas-data 1852890541
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('A A G GA2G) .('G |
+A A G GA2G2) |
+.('A2A A B BB2) |
+.('A2A2G GG2) |
+.('A A G G2<A2).('G |
+A A G GA2G) .('G |
+A A G G2<A2).('G |
+A A G GA2G2) |
+.('A A G G2<A2).('G |
+A A G G2<A2).('G |
+A A A/ A/ AB2B) .('B |
+A A A A2<G2).('G |
+A A G G2<A2).('G |
+A A G G2<A2).('F |
+A A A AB2B2) |
+.('A A A A2<G2).('G |
+A A G G A AG2) |
+.('A A G G A AG2) |
+.('A2G GA2G2) |
+.('A2G GA2G2) |
+.('A A A A B BB2) |
+.('A A A/ A/ A G GG2) |]

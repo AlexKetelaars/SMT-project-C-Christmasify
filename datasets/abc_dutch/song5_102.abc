@@ -1,0 +1,29 @@
+X: 4101
+T: Een klein zoontje door Bacchus beschonken Ta [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 2114140763
+%%humdrum-veritas-data 664451748
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2d g g B |
+c B AB2B) |
+.('B B> A B c d |
+e d> BA2).('d |
+d2d g g B |
+c B AB2B) |
+.('B B> A B c d |
+e d> BA3) |
+[M:9/8].('A2A/ A/A2A A B c |
+[M:6/8](c2d)B3) |
+[M:9/8].('A2A/ A/ A A A A B c |
+[M:6/8](c2d)B3) |
+.('e2>(e2 f) g |
+g/ g/ f e d) .('e d/ d/ |
+d c AB3) |]

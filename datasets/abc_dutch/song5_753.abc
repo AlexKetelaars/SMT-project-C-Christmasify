@@ -1,0 +1,30 @@
+X: 4752
+T: Hop poetje op een draf morgen is het zondag
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 1960340311
+%%humdrum-veritas-data 3856003736
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d2B e |
+d dB2) |
+.('d d B e |
+d2B2) |
+.('d2(3B B e |
+d2B2) |
+.('d d B e |
+d2B2) |
+.('d d d d |
+e ee2) |
+.('d d (3d d d |
+A AA2) |
+.('d/ d/ d/ d/e2 |
+d/ d/ d/ d/e2) |
+.('d d (3d d d |
+B AG2) |]

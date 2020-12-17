@@ -1,0 +1,22 @@
+X: 3666
+T: Wat zag ik daar van verre Een schoon jong he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 542650765
+%%humdrum-veritas-data 326371570
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('G2BedB |
+[M:2/2](AF)D2) |
+[M:3/2].('(GA)Bed(c/ B/) |
+[M:2/2]A2-A/) .('A/ A/ B/ |
+cded |
+[M:3/2]Bd/) .('d/G(A/ B/)c(B/ G/) |
+[M:2/2]B2A2 |
+G4) |]

@@ -1,0 +1,27 @@
+X: 8778
+T: Al inder de weide zoo gane wij zoeken, Naar  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 2736500009
+%%humdrum-veritas-data 3722951804
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: C clef=treble
+.('G G A G [I:setbarnb 1]|
+(C2E)G2A G> F E |
+D3C2).('DE2F |
+G2GA2GA2G |
+E6).('(E F) G |
+A3A2B c B A |
+G3c2).('G (G A) G |
+(C2E)G2A (G F) E |
+[M:6/8]D3G2).('G |
+C2DE2F |
+(G c)) .('B A G F |
+G3D3 |
+C3-C2) |]

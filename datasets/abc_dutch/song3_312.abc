@@ -1,0 +1,23 @@
+X: 2311
+T: Toen ik jong was en nog meid was wat voor me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 2373849224
+%%humdrum-veritas-data 2926248207
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B (B A) [I:setbarnb 1]|
+G2G2G B |
+d2d2).('c B |
+A2A2G A |
+B2>).('d2 d d |
+e2e2c d |
+e2d2).('c B |
+(A d) d> d e d |
+G3) |]

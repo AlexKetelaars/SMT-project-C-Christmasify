@@ -1,0 +1,24 @@
+X: 2380
+T: Een zeeman wou eens wandelen gaan Om wat ver [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 2076726502
+%%humdrum-veritas-data 3121884571
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d e d> c B d G) .('B |
+c B A d (c B) A) .('d |
+d e d> c B d G) .('B/ B/ |
+c B A d (c B) A) .('d/ d/ |
+d> e d> c B d G) .('d |
+d> e d> c B d G) .('B |
+c BA2d2f e |
+d>) .('d f ed2A2 |
+B ^cd2z2) |]

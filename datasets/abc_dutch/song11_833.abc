@@ -1,0 +1,38 @@
+X: 10832
+T: De schone Anna diende al aan des konings hof [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3833863112
+%%humdrum-veritas-data 1743362732
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2G |
+A2G |
+GF2- |
+Fz).('A |
+d2G |
+A2G |
+E3- |
+Ez).('G/ G/ |
+e2e |
+d2c |
+AA2- |
+Az).('c |
+B2A |
+G2F |
+E3- |
+Ez).('G/ G/ |
+e2e |
+d2c |
+ff2- |
+fz).('A |
+G2G |
+e2d |
+c2) |]

@@ -1,0 +1,32 @@
+X: 17507
+T: [wijsaanduiding ontbreekt]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 3443607003
+%%humdrum-veritas-data 2557587697
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=72
+K: C clef=treble
+.('eg [I:setbarnb 1]|
+gf/ e/fa |
+ag/ f/eg |
+gf/ e/fd |
+d2).('eg |
+gf/ e/fa |
+ag/ f/eg |
+dfed/ c/ |
+c2) |
+.('eg [I:setbarnb 9]|
+ga/ b/ c'/ b/ a/ g/ |
+c'2eg |
+gf/ e/fd |
+d2).('eg |
+ga/ b/ c'/ b/ a/ g/ |
+c'2eg |
+dfed/ c/ |
+c2) :|]

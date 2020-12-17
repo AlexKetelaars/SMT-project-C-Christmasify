@@ -1,0 +1,25 @@
+X: 2837
+T: Het soldatenleven en dat moet lustig zijn He [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 3669113921
+%%humdrum-veritas-data 708006914
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/8
+Q: 1/4=120
+K: G clef=treble
+.('d/> d/ e d [I:setbarnb 1]|
+(d g) g3/ f/ |
+e d c B |
+c) .('d/ d/ e (c/ B/) |
+(A e) e3/ e/ |
+d> d e d |
+B/>) .('B/ A/ A/ G e |
+d2B2 |
+[M:3/4]A2G/>) .('g/ g/> g/ f g |
+[M:4/8]d2B2 |
+A2G) |]

@@ -1,0 +1,25 @@
+X: 9558
+T: Waarmee maken we bruigom vet? Met gemalen boonen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 484894774
+%%humdrum-veritas-data 1454777346
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('c c c/ c/ c c> cc2) |
+.('c c c> AB2B) .('B |
+B c c c c> cc2) |
+.('c c c> A B B B z) |
+.('e E E E e E E E) |
+.('A B c d e e e d |
+c c B BA2).('c d |
+e2e eA2B c |
+d2d cB2z) .('E |
+A B c d e e e d |
+c c B BA2z2) |]

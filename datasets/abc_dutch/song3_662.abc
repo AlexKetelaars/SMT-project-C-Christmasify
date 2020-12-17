@@ -1,0 +1,22 @@
+X: 2661
+T: De ruiter die timmerde een hut in het veld H [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 3895407943
+%%humdrum-veritas-data 1034013644
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G A B B A G |
+A2BA3) |
+.('G F E D E F |
+G2GG2).('D |
+G A B B A G |
+A2B c B A |
+G3-G2) |]

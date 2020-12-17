@@ -1,0 +1,27 @@
+X: 9415
+T: Schoone tamboer, Ach toe! geef mij dat roosken
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3325618568
+%%humdrum-veritas-data 3161844180
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('c2A F |
+E2z) .('c |
+c e d c |
+c2B2) |
+.('B2G F |
+E2z) .('B |
+B c d e |
+d2c) .('B |
+A z A z |
+A/ A/ G/ F/ E) .('E |
+A B c d |
+e2e e |
+A2z2) |]

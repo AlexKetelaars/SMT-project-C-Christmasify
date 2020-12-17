@@ -1,0 +1,32 @@
+X: 6796
+T: No132
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:31
+%%humdrum-veritas 3009552379
+%%humdrum-veritas-data 2160977700
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G6 |
+G4z g |
+g2f2e2 |
+e dd2z2 |
+c2c c c c |
+c BB2z2 |
+B dd4 |
+c ee4 |
+d2g d c B |
+{B2}A4z2) |
+.('g2G G G G |
+G A B c!fermata!d2 |
+g2G G G G |
+G A B c!fermata!d2 |
+c cc4 |
+B BB4 |
+(3e d cB2!trill!!trill!A2 |
+G6) :|]

@@ -1,0 +1,31 @@
+X: 1569
+T: De meiboom wordt geplant versiert met bloeme [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3836502397
+%%humdrum-veritas-data 3211623625
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+EDB,D |
+G3).('B |
+B>BA3/A/ |
+G2F).('F/ G/ |
+AGFE |
+D).('FED |
+CB,D2 |
+A,3).('D |
+EDEF |
+G3).('D |
+EDDc |
+(B2A)).('B |
+BAEF |
+G).('GGA |
+B2A2 |
+G3) |]

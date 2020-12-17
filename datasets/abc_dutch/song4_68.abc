@@ -1,0 +1,23 @@
+X: 3067
+T: Onze jongeling die mout er gaon dainen Onze  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 4155098527
+%%humdrum-veritas-data 3515279003
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A [I:setbarnb 1]|
+B d d dd2c B |
+B2A2z2).('A B |
+c e e ee2d c |
+d2B2z2).('G B |
+d2d> d d d c d |
+e2e2g2).('f e |
+d2d> d d d c c |
+B4z2) |]

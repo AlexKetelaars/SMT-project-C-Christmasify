@@ -1,0 +1,25 @@
+X: 5250
+T: ‘k Heb een baron gevreeën Het meeste was om  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 3550774252
+%%humdrum-veritas-data 3436994360
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+E2FE2F |
+GG2-G2).('F |
+G A Bc2B |
+A3-A2).('B |
+A A GF2E |
+(D2F)B2).('B |
+B c B A G F |
+E2cB2).('c |
+B c B A G F |
+E3-E2) |]

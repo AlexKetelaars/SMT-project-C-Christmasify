@@ -1,0 +1,22 @@
+X: 995
+T: Kuiere kuiere straatje Willy gaat over 't praatje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 1470635715
+%%humdrum-veritas-data 4119959003
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d> d d e> e e |
+d3B3) |
+.('d d de2e |
+d3B3) |
+.('c c cc2G |
+c c cc3) |
+.('e2dc2B |
+A2AG3) |]

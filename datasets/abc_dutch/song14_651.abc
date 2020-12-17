@@ -1,0 +1,26 @@
+X: 13650
+T: Quadrilge
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 255752096
+%%humdrum-veritas-data 2909318538
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('f2 (f a) g2 (g a) |
+f2 f ag4) |
+.('f2 (f a) g2 (g b) |
+(b a) (g f) (f e) (d c)) |
+.('f2 f a g2 g a |
+f2 f ag4) |
+.('f2 f a g2 g b |
+a g f ef4) |
+.('f g a f f e d c |
+d f e g f2 f2) |
+.('f g a f f e d c |
+d f e gf4) :|]

@@ -1,0 +1,27 @@
+X: 9699
+T: Ik stond op Nederlansch bergen, En ik zag er [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3679665395
+%%humdrum-veritas-data 1288868284
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2G G G A |
+A3G2).('G/ G/ |
+A A c (B A) B |
+c3z2).('G/ G/ |
+c c cB2A |
+G3E2).('G |
+G A G (F E) D |
+C2>).('A2 A A |
+G2c (B A) B |
+c2>).('A2 A A |
+G2c (B A) B |
+c3z2z) |]

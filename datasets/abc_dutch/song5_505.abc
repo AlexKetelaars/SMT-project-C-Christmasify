@@ -1,0 +1,23 @@
+X: 4504
+T: Er was laatst eens enen blauwe huzaar
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3211016213
+%%humdrum-veritas-data 1346579182
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G/ G/ G/ B [I:setbarnb 1]|
+d> d c d/ d/ e d |
+B2>).('d2 g g |
+f3c/ c/ e e |
+d2>).('d2 e f |
+[M:2/4]g> g f g |
+[M:3/4]e2>).('e2 f/> f/ e/ e/ |
+[M:5/8]d d B e/ e/ d |
+[M:3/4]B3) |]

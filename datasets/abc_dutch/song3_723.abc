@@ -1,0 +1,30 @@
+X: 2722
+T: Met haar emmertjes aan haar hand Zo trok zij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 1711615757
+%%humdrum-veritas-data 2483821884
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('c2c2c2B c |
+d2e2d4) |
+.('c2c c(c2d) e |
+(d2c) BA4) |
+.('d2>c2B2A2 |
+c2B2A2G2) |
+.('B2A> GA2A2 |
+G> A B> cd3).('D |
+G2>A2B2B c |
+d2d ed2).('c B |
+[M:2/4]A c B A |
+G3).('D |
+[M:4/4]G2>A2B2B c |
+d2d ed2).('c B |
+[M:2/4]A c B A |
+[M:4/4]G8) |]

@@ -1,0 +1,16 @@
+X: 641
+T: Roepen, bidden, kermen ende claghen tot alle [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2694530635
+%%humdrum-veritas-data 640195642
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('G4(GABc)A4G4d2>c2B2c2A4G4z2).('d2c2B2<(A2BcAd4c2)d4z2).('d2c2B2(AGABcA2<d2)dc2B4A4z2).('F2F2F2B4A2G2>D2F2E4D4z2).('d2c2>d2e2f2e2(d4c2)d4z2) ]|:
+.('d2c2B2(A2>B2cA2<d2)dc2B4A4z2).('A2c2d2f4e2(d2>c2BAG2F2GABcA2)A2G4) |]

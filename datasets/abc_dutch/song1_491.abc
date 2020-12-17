@@ -1,0 +1,28 @@
+X: 491
+T: O! Heylig Heylig Heylig Ligt! O on-naspeurel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1979829172
+%%humdrum-veritas-data 4230894404
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2z(D/ E/ |
+F)E(D3/E/ |
+F/ G/)AA3/^G/ |
+A2).('zA |
+Ad(c3/_B/) |
+A2_BA |
+G2F2) |
+.('z(A/ G/)FE |
+D2C2 |
+(D/ E/) (F/ G/)E2) |
+.('zEEF |
+G2A2 |
+F(G// A// G// F//)E2 |
+D4) |]

@@ -1,0 +1,26 @@
+X: 8893
+T: Ik zing er al van een’ Ruyter koen, Maar nie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3462958572
+%%humdrum-veritas-data 1069702924
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+(3F F FA3F |
+(3:2:2E2 GB2z) .('B |
+d2-(3d c B (3A B G |
+F4z) .('c |
+f2-(3f e d (3c B A |
+(3B A Bd3).('d |
+c2-(3c B A (3B A G |
+(c2f2d2 |
+c2>)).('A2 (3B A G |
+c4G3/ A/ |
+F4z) |]

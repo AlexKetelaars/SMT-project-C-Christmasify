@@ -1,0 +1,26 @@
+X: 11950
+T: Balett D Dames [James?]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 2292749442
+%%humdrum-veritas-data 2888884432
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G [I:setbarnb 1]|
+G2>d2 B G _e3/ e/ |
+d3g/ f/ _e d c3/ B/ |
+A2(G> d) d d c3/ B/ |
+f2z/ f/ g/ a/ b a g3/ a/ |
+f6) ||
+.('a2 [I:setbarnb 6]|
+a2z/ a/ g/ f/ e f e3/ d/ |
+d3f/ _e/ d B e3/ d/ |
+c2(B> d)d2_e3/ e/ |
+^f> g a d b a a3/ g/ |
+g6) ||

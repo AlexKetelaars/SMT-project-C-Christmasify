@@ -1,0 +1,31 @@
+X: 5570
+T: O nacht, jalourse nacht, die, tot mijn leet  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2094928449
+%%humdrum-veritas-data 906804943
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+c> A B c |
+d3).('c |
+A c B A |
+G2F) .('B |
+=B c d d |
+e3).('e |
+d f e d |
+c3).('c |
+f f (e/ f/) (e/ d/) |
+c3).('c |
+A c B A |
+G2A) .('c |
+c G A B |
+A3).('A |
+(B/ A/) (G/ F/) G E |
+F4) |]

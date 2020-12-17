@@ -1,0 +1,32 @@
+X: 3790
+T: Onder het stadhuis daar liep een muis Is men [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 2541655071
+%%humdrum-veritas-data 3144409746
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d e dB2e |
+d2dB3) |
+.('d2de2e |
+d e dB2).('B |
+d2d e e e |
+d2dB3) |
+.('d2d e e e |
+d3B3) |
+.('d2d (e f) e |
+d2dB3) |
+.('d2>e2 f e |
+d2dB3) |
+.('d2>e2 f e |
+d2dB3) |
+.('g3g2g |
+f2ff3) |
+.('e2de2f |
+d2dd3) |]

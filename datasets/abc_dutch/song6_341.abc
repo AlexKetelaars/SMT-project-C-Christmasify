@@ -1,0 +1,29 @@
+X: 5340
+T: Ach dwaze menschen wilt toch aanmerken En lu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3891634746
+%%humdrum-veritas-data 1655004557
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C D E [I:setbarnb 1]|
+F A F (C F) G |
+Ac2).('F G A |
+c2c (G> A) B |
+c3).('(c/ B/) A c |
+d2dc2B |
+(A/ G/)F2).('G A B |
+c2AG2A |
+F2z) .('C D E |
+(F A) F (C F) G |
+Ac2).('F G A |
+c3).('(c/ B/) A c |
+d2dc2B |
+(A/ G/)F2).('c A G |
+F3) |]

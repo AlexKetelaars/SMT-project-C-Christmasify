@@ -1,0 +1,38 @@
+X: 6362
+T: Ziet Ze rukken op in scharen Hoort zij trekk [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 1484148356
+%%humdrum-veritas-data 2108847568
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A> A A> AA2A2 |
+c2A2 ||
+A> A A3/ A/ [I:setbarnb 3]|
+G2F2E4) ||
+.('A> A A> AA2A2 [I:setbarnb 5]|
+d2A2 ||
+A> A A3/ A/ [I:setbarnb 6]|
+G2F2E4) ||
+.('F> F F> FF2F2 [I:setbarnb 8]|
+_A4A4 ||
+_A> A A> AA2A2 [I:setbarnb 10]|
+=B8) ||
+.('B> B B> Bd2d2 [I:setbarnb 12]|
+d4A4 ||
+G2>A2 B> c d3/ e/ [I:setbarnb 14]|
+A8) ||
+.('x6x/ z A/ [I:setbarnb 16]|
+d> ^c d> cd2e2 ||
+f4f> d B3/ c/ [I:setbarnb 18]|
+A6) ||
+.('x/ z B/ [I:setbarnb 19]|
+e> ^d e> de4 ||
+g2g gf2e2 [I:setbarnb 21]|
+d4) |]

@@ -1,0 +1,45 @@
+X: 3890
+T: Kom vrienden ik zal u een kluchien verhalen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1057010835
+%%humdrum-veritas-data 1852307145
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2(Bd) |
+g2fg |
+(Bc)(df) |
+e2d).('c |
+(Bd)(gf) |
+e3d |
+c3B |
+A3).('d |
+d2ef |
+g2g2 |
+(Bc)(df) |
+e2d).('c |
+(Bd)gf |
+e3d |
+c3B |
+A3).('d |
+d2ef |
+g3f |
+e3d |
+c3).('d |
+eefg |
+(a2b)a |
+(g2f)g |
+d4) |
+.('g3a |
+g2fg |
+dg(gf) |
+(ed)).('cd |
+e2e2 |
+(d2e)f |
+g3) |]

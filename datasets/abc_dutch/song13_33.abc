@@ -1,0 +1,20 @@
+X: 12032
+T: Intrada
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 3067613629
+%%humdrum-veritas-data 3833890391
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=48
+K: D clef=treble
+.('f2>B2 B e e3/ A/ |
+A a a/ ^g/ g/ a/g3g |
+f2).('a> d d b a3/ d/ |
+d g/ a< b e< f B/ B e |
+e> A A d/ e< f c/ d d/ c/ |
+c2>B2B4) :|]

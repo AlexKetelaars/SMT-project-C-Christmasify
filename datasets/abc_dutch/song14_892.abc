@@ -1,0 +1,30 @@
+X: 13891
+T: Andante
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 1139622114
+%%humdrum-veritas-data 1074877405
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F4E2F2 |
+D8 |
+=C2B4c3/ d/ |
+(F4E2)z2 |
+F4E2F2 |
+(D d) !wedge!d !wedge!d (c A) (G d) |
+F6{A/} G3/ F/ |
+F8- |
+F) .('F (E F) (_A F) (f F) |
+F8- |
+F F (E F) (_A F) (f F) |
+F8- |
+F F (E F) (_A F) (f F) |
+G2(_A> G)!wedge!G2(F3/ E/) |
+E2(F> E)E2(D3/ C/) |
+!fermata!C) |]

@@ -1,0 +1,56 @@
+X: 5390
+T: ‘t Was nacht, ‘t was nacht, ‘t was midden in [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 392530644
+%%humdrum-veritas-data 3481829589
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+FA |
+FA |
+B/ A/ G/ F/ |
+E).('A |
+FA |
+FA |
+B/ A/ G/ F/ |
+E).('A |
+FA |
+FA |
+B2 |
+A).('A |
+FA |
+FA |
+B2 |
+A).('A |
+FA |
+FA/ A/ |
+B/ A/ G/ F/ |
+E).('A |
+FA |
+FA |
+B/ A/ G/ F/ |
+E).('A |
+FA |
+FA |
+B2 |
+A).('A |
+FA |
+FA |
+B2 |
+A).('A |
+dA |
+dA |
+B/ A/ G/ F/ |
+E).('A |
+dA |
+dA |
+BB |
+cc |
+d2) |]

@@ -1,0 +1,52 @@
+X: 16588
+T: Mynen geest
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2597927063
+%%humdrum-veritas-data 467940373
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D2>D2 G A G F |
+E2>A2F2D2 |
+G F G AB2c2 |
+A2>G2F4) |
+.('!mordent!!mordent!G2>A2 B A G F |
+E4!mordent!!mordent!A3B |
+c B A GF4 |
+!mordent!!mordent!d2d2e f d e |
+c d B c A B G A |
+F Dz2G F G A |
+B2c2B2(A G) |
+G2z2).('!mordent!!mordent!D E D E |
+D E F DG2G2 |
+G A G A G A G A |
+B2G2d4 |
+e Bc6 |
+d AB6 |
+c G A B G A F G |
+F4).('!mordent!!mordent!d2d2 |
+(d c)c2c2c2 |
+(c B)B2z2).('(d2 |
+A2)B2B2(A G) |
+G4z2(!mordent!!mordent!d2 |
+A2)B2B2(A G) |
+G4z2F2 |
+G4z2).('D2 |
+G2A2B2c2 |
+B c B AG2(A B) |
+c e d c2<B2A |
+A6z) .('A |
+c2>c2c2d2 |
+B2>B2z2B2 |
+A2A2G3G |
+F2>F2z2).('d2 |
+e2A2B2(A G) |
+G6D2 |
+(E F) (G A)B2(A G) |
+G2z2z4) |]

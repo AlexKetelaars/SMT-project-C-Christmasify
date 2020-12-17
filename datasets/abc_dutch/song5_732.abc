@@ -1,0 +1,40 @@
+X: 4731
+T: En den boer die stond mee peerden op de mert [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 3944011885
+%%humdrum-veritas-data 1798415531
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('A A [I:setbarnb 1]|
+d2(B A)G2B2 |
+d> d d ed4) |
+.('d> d d ed4) |
+.('g> g g g f f d e |
+f2e2d2).('A3/ A/ |
+d d d e d d B B |
+d d d ed4) |
+.('g2g g f f d e |
+f f/ f/ e ed2).('A3/ A/ |
+d2d> dd2e2 |
+(B2A2)G2).('A3/ A/ |
+d2d2d2e2 |
+(B2A2)G2).('d3/ d/ |
+g g f e d> d d3/ d/ |
+g> g f ed4) |
+.('g> g g g f> f d e |
+f> f f ed2).('B c |
+d2d> ed2B3/ c/ |
+d d d ed4) |
+.('g2g> g (3f f f d e |
+f2e2d2).('A A |
+d> d d> d f f) .('A3/ A/ |
+B> B B> Be4) |
+.('d2B> c d c B A |
+G6) |]

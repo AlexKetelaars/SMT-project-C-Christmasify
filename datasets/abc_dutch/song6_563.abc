@@ -1,0 +1,30 @@
+X: 5562
+T: ‘k Had een liefje teêr van herte, trouwe zwo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 473980574
+%%humdrum-veritas-data 1347828581
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B A2<G2G |
+c BA2A2 |
+d d e d B G |
+A6) |
+.('B A2<G2G |
+c BA2A2 |
+d d e d c A |
+G6) |
+.('F AD2c2 |
+B dG2G2 |
+F AD2e2 |
+d gB4) |
+.('B AG2G2 |
+c BA2A2 |
+d g d B B A |
+G6) |]

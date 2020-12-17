@@ -1,0 +1,31 @@
+X: 10610
+T: De smid, de smid, Dee nemp zien mèken met
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3655573501
+%%humdrum-veritas-data 2481604480
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+E3G |
+E3G |
+AGFE |
+D3).('F |
+D3F |
+D3F |
+GFED |
+C3).('G |
+cBAG |
+GFE2 |
+FDD2 |
+ECC).('G |
+c/ c/BAG |
+GFE2 |
+GFED |
+C3) |]

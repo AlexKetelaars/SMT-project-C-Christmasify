@@ -1,0 +1,46 @@
+X: 4485
+T: Achter het kerkhof staat een huis Is mijnhee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 505833389
+%%humdrum-veritas-data 3986301046
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d d/ e/ d c |
+B AG2) |
+.('d> e d c |
+B AG2) |
+.('d> d d c |
+B> AG2) |
+.('d> d d c |
+B AG2) |
+.('d2d3/ e/ |
+d dg2) |
+.('d2d3/ d// d// |
+d dg2) |
+.('d2d3/ d/ |
+d2g3/) .('d/ |
+d d d d |
+d2g2) |
+.('d2d3/ d/ |
+d2g2) |
+.('d d d d |
+d2g2) |
+.('d d d d |
+d2g2) |
+.('d d d d |
+d2g3/) .('d/ |
+d d d d |
+e e e) .('e/ e/ |
+d d d d |
+c cc2) |
+.('d d d d |
+g4) |
+.('d2d d |
+G4) |]

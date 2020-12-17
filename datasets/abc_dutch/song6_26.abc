@@ -1,0 +1,34 @@
+X: 5025
+T: De hooge wagen de leege wagen, Die zal er ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 53354702
+%%humdrum-veritas-data 4167272986
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A [I:setbarnb 1]|
+G2G F G A |
+G2G F G) .('A |
+G G G F G A |
+G2GF2).('A |
+G3F2A |
+G3F2).('A |
+G G GF3 |
+G G GF2).('A |
+G2GF2).('C |
+F F G A A A |
+G2GF2).('A |
+G3F2A |
+G3F2).('C/ C/ |
+F2GA2A |
+G3F3) |
+[M:2/4].('c cc2 |
+d dc2) |
+.('B B A A/ A/ |
+G2F2) |]

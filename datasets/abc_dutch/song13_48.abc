@@ -1,0 +1,20 @@
+X: 12047
+T: Daal dantz
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 3444984237
+%%humdrum-veritas-data 1802673314
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: D clef=treble
+.('a2f2a2 |
+g2e2g2 |
+f2d2f2 |
+e4d2) |
+.('a4a2 |
+e2f2d2) :|]

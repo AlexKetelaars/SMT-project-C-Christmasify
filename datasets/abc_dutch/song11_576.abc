@@ -1,0 +1,23 @@
+X: 10575
+T: Gooi’n oavend leu, Woe geet ‘t oe nog? De ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3187568197
+%%humdrum-veritas-data 921914100
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B> DF2(B A) |
+[M:4/4]G> FG2).('z B/ B/ A B |
+[M:2/4]c3B |
+[M:3/4]A G F) .('E D E |
+[M:2/4]F2F2 |
+[M:4/4]F2B2>).('B2 B c |
+[M:2/4]d2d2 |
+[M:3/4]c2B2z2) |]

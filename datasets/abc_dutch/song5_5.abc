@@ -1,0 +1,31 @@
+X: 4004
+T: Mien mouder wol mie geven Al met geweld.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3760651236
+%%humdrum-veritas-data 2407056393
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+G G A A |
+B2c) .('c |
+B2A2 |
+G3).('D |
+G G A A |
+B2c) .('c |
+B B A A |
+G4) |
+.('d d d/ d/ d/ d/ |
+e e e3/) .('c/ |
+c c c c |
+d dd2) |
+.('G2B2 |
+d3).('e/ e/ |
+d c B A |
+G3) |]

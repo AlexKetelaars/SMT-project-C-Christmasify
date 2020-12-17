@@ -1,0 +1,25 @@
+X: 3853
+T: Ik was een schone van tweeëntwintig jaren Al [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 4212998096
+%%humdrum-veritas-data 1661435321
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: G clef=treble
+.('d2B3/c/ [I:setbarnb 1]|
+d2ddbag3/B/ |
+d2B2z).('ggg |
+f>ee2>a2g3/e/ |
+e>dg2>).('d2gB |
+[M:3/2]cd2<f2e |
+[M:2/2]d>def |
+[M:4/4]g3).('g |
+g>gag |
+[M:4/2]e2>g2f>eed |
+g3z) |]

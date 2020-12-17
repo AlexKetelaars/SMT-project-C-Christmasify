@@ -1,0 +1,32 @@
+X: 9594
+T: Tsooren was een rijk man, Een koopman, een m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 479720202
+%%humdrum-veritas-data 124129714
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('GG/GG/ |
+d3/dB/ |
+d3/dB/ |
+dd/d).('d/ |
+GG/GG/ |
+dd/dd/ |
+dd/e).('e/ |
+dc/Bz/) |
+.('BB/Bc/ |
+BB// A//G).('B/ |
+BB/Bc/ |
+BA/Gz/) |
+.('B3/BA/ |
+Bc/dz/) |
+.('BB/BA/ |
+Bc/d).('d/ |
+gd/dc/ |
+B/ B/ A/G3/) |]

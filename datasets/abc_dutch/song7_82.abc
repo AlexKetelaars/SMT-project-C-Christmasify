@@ -1,0 +1,39 @@
+X: 6081
+T: Menuet Akater
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2407941077
+%%humdrum-veritas-data 3093792454
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('d2d e f g |
+a4g a |
+b2a2g2 |
+f4e2) |
+.('d2d e f g |
+a4g a |
+b2a2g2 |
+e4) :|]
+.('f g [I:setbarnb 9]|
+a2>a2 a a |
+g2>f2 e f |
+g2>g2 g g |
+f4e2) |
+.('d2d f e d |
+^c2A2d2 |
+e fg2f2 |
+e4).('f g |
+a2>a2 a a |
+g2>f2 e f |
+g2>g2 g g |
+f4e2) |
+.('d2d e f g |
+a2b a g f |
+e2d2^c2 |
+d4) |]

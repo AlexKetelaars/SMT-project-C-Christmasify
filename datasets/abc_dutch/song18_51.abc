@@ -1,0 +1,26 @@
+X: 17050
+T: Rigadon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1683057442
+%%humdrum-veritas-data 3432567906
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2z ce2!mordent!!mordent!f3/ e// f// |
+g2>g2 a a a3/ g// f// |
+g g g) .('g a a !mordent!!mordent!a3/ g// f// |
+g a g f!mordent!!mordent!e2!mordent!!mordent!d2 |
+c3) |
+.('cd2!mordent!!mordent!e2 [I:setbarnb 6]|
+d2>d2 d e f e |
+d e d c!mordent!!mordent!B2!mordent!!mordent!A2 |
+G2>).('c2d2e2 |
+d2>c2 d e f d |
+g f e d c> d !mordent!!mordent!d3/ c/ |
+c3) |]

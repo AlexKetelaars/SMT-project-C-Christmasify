@@ -1,0 +1,25 @@
+X: 7268
+T: Wy klommen op hooge bergen, En keken te zeew [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3433091225
+%%humdrum-veritas-data 2464021887
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('D [I:setbarnb 1]|
+G G AB2A |
+G2>D2 z) .('G |
+B B B c B c |
+d2>-d2 z) .('d |
+d d de2d |
+(d2c)A3) |
+.('c2ed2d |
+d c BA2).('A |
+c d e!fermata!G2!fermata!A |
+G3-G2z) |]

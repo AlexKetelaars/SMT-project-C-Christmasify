@@ -1,0 +1,32 @@
+X: 16353
+T: Waer dwalen toch uw schapen, O schoone Herderin?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2901997939
+%%humdrum-veritas-data 1666833355
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+B e e G |
+GF2).('A |
+A f f A |
+{A}G2z) .('B |
+B g (3(g/ f/ e/) (3(d/ c/ B/) |
+=Af2).('e |
+d (3(e/ d/ c/) {B c} !trill!!trill!c3/ B/ |
+B2z) |
+.('B [I:setbarnb 9]|
+B f f A |
+AG2).('c |
+=B {c d} c d e |
+{e}d2z) .('d |
+e (d/ c/) (B// c// d// e// f/) A/ |
+Ge2).('c |
+B (3(c/ B/ A/) G !trill!!trill!F |
+E2z) :|]

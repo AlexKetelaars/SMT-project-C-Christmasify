@@ -1,0 +1,28 @@
+X: 14422
+T: Fransche Boerin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:44
+%%humdrum-veritas 873436093
+%%humdrum-veritas-data 1415399893
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d d g f |
+e2f d |
+e2A/ B/ c |
+d/ c/ d/ e/ d) .('A |
+d d g f |
+e2f d |
+e2A/ B/ c |
+!fermata!d3) |
+.('e [I:setbarnb 9]|
+e2A e |
+e2A e |
+f> e d/ e/ f/ g/ |
+e3) :|]

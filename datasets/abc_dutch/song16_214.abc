@@ -1,0 +1,27 @@
+X: 15213
+T: o Vaarwel, vergeet mij niet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 3804190530
+%%humdrum-veritas-data 3630839038
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B, B, [I:setbarnb 1]|
+G2>G2 B A G F |
+{F}E4z E D E |
+F4B3A |
+A2G2z2).('E E |
+c2>c2e3c |
+c2B2z2B B |
+=A2c2e3A |
+B4z2).('A/ G/ F/ E/ |
+F4z2B/ A/ G/ F/ |
+G4z2E E |
+c2>c2B3D |
+E4z2) |]

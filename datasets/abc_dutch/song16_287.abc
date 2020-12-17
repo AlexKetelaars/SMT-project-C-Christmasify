@@ -1,0 +1,28 @@
+X: 15286
+T: Die ‘t dagwerk hem gegeven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 1543406316
+%%humdrum-veritas-data 3406746941
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+cBAG |
+G2FG |
+A2B2 |
+G2z) :|]
+.('G [I:setbarnb 5]|
+FB=Ac |
+B>cde |
+d2c2 |
+B2z).('B |
+ed/ c/BB |
+c2BA |
+GA2F |
+E2z) |]

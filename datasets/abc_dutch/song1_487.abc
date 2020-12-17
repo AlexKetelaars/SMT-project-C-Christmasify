@@ -1,0 +1,37 @@
+X: 487
+T: Doe Israel sijn nare sugten Met Pharo's slav [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 4279690345
+%%humdrum-veritas-data 2832438303
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2A2(A> G F3/ E/ |
+D2)d2^F3F |
+G2G2(A3G/ F/) |
+E2>).('E2 ^F> G A3/ A/ |
+B> c(d3e/ f/ e d) |
+^c4).('(d3=c/ B/) |
+(A2>B2)c4 |
+_B2A2G3F |
+F6).('A2 |
+[M:3/4]d6 |
+d2B2G2 |
+c6 |
+c2_B4 |
+A6) |
+.('A2G2A2 |
+_B4A2- |
+A2G2A2 |
+[M:2/2](F2>G2A3G/ F/) |
+E8) |
+.('z2(A B)^c4 |
+(d3c/ B/)A3A |
+(G> A F> GE3)D |
+D8) |]

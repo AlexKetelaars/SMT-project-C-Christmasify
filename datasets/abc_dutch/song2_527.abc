@@ -1,0 +1,31 @@
+X: 1526
+T: Er was er eens een meisje een meisje lief en teer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 148538307
+%%humdrum-veritas-data 4249086529
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2AA2A |
+A A zz2).('c |
+B2GB2d |
+A4z) .('d |
+d2A (A B) c |
+(B2d)f2).('e |
+e2dd2c |
+B3-B2).('D/ D/ |
+G2AB2c |
+d2B G z) .('G |
+c2e (g f) e |
+d3z2).('d |
+f2fe2d |
+(G2e)e2).('e |
+d d d (c A) d |
+G3-G2) |]

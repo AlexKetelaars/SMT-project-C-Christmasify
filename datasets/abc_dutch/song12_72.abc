@@ -1,0 +1,85 @@
+X: 11071
+T: Zal myn lyden, zal myn lyden, zoeten Engel,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 4147000236
+%%humdrum-veritas-data 2752763892
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d2(d/ e/ f)e2A2 |
+d2(d/ e/ f)e2A2 |
+B2(A/ B/ c)B2A2) |
+.('(d2>c2B3A |
+G B) (A G) (F/ E/ G/ F/ F E/ D/) |
+D4z4) |
+.('(d2>c2B3A |
+G B) (A G) (F/ E/ G/ F/ F E/ D/) |
+D4z2).('A F |
+c2z4z2 |
+[M:4/8]A F c c |
+c G A F) |
+[M:8/8].('z4z2f e |
+[M:4/8]d c =B A |
+^G G e e |
+[M:2/2]A d c =B (c/ B/ d/ c/ c B/ A/) |
+A2z4z2) |
+[M:3/8].('z z A |
+d3 |
+z z A |
+(d e) f |
+e2d |
+^c3 |
+A3) |
+.('z z A |
+B> c A |
+(G F) G |
+B3) |
+.('z z A |
+B> c A |
+(G F) G |
+(d> e d |
+^c3 |
+d> e d) |
+^c2).('(e/ f/) |
+g> a f |
+f2(e/ d/) |
+d3- |
+(d> e d |
+^c3 |
+d> e d) |
+^c2).('(e/ f/) |
+g> a f |
+f2(e/ d/) |
+d3) |
+.('z A B |
+c> d c |
+c2B |
+A F z) |
+.('z A B |
+c> d c |
+c2B |
+A F) .('c |
+d2c |
+B2c |
+A A) .('d |
+^c2d |
+f2(e/ d/) |
+(d> e d |
+d> e d |
+^c> d c |
+d> e d) |
+^c2).('c |
+(d/ e/ d/ e/ d/ e/ |
+^c/ B/ c/ d/ c/ e/ |
+d/ ^c/ d/ e/ d/ e/ |
+^c)- c z) |
+.('z z f |
+(g f) e |
+f2(e/ d/) |
+d3) |]

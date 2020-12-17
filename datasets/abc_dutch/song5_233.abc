@@ -1,0 +1,62 @@
+X: 4232
+T: A is het anker dat gifdrank bevat B is de bo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 2491015255
+%%humdrum-veritas-data 61424658
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B B B B A B |
+d A AA3) |
+.('A A A A G A |
+B B BB3) |
+.('B B B B A B |
+d A AA3) |
+.('A A A A G A |
+B B BB3) |
+.('B B B B A B |
+c A AA3) |
+.('A A A A G A |
+B B BB3) |
+.('B B B B A B |
+c A AA3) |
+.('A A A A G A |
+B B BB3) |
+.('B B B B A B |
+B B BB3) |
+.('A A A A A G |
+A A AA3) |
+.('B B B B A B |
+c c cc3) |
+.('A A A A G A |
+G G GG3) |
+.('B B B B B B |
+B G AB3) |
+.('A A A A G G |
+G G GG3) |
+.('B B B B A A |
+A A AA3) |
+.('B B B B A A |
+A A AA3) |
+.('B G A B G A |
+B G AB3) |
+.('A A A A G A |
+A A AG3) |
+.('B B B B B A |
+A A AB3) |
+.('B B B B A A |
+A G GG3) |
+.('B B B B B A |
+A A AB3) |
+.('B B B B A A |
+A A GG3) |
+.('B B B B B B |
+B G AB3) |
+.('A A A A A A |
+G G GG3) |]

@@ -1,0 +1,39 @@
+X: 6656
+T: As de zwaluw ons verlaat En der bloemen scho [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 1917374525
+%%humdrum-veritas-data 1510779963
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('D E [I:setbarnb 1]|
+F2>B2 d3/ c/ |
+B4).('A G |
+(F2-F/ B/) (A/ G<) F E/ |
+D4).('D ^F |
+G2>G2 A3/ D/ |
+B4).('(B/ d/) (B/ G/) |
+F> CA3G |
+F4).('F3/ G/ |
+A2>F2 A B |
+c4).('A3/ B/ |
+c2>=B2 c d |
+e6) |
+.('d4(3(c d c) |
+B4F2 |
+(F2G A) (B c) |
+d4z2) |
+.('G2d2z c |
+F4B2 |
+A2B2c2 |
+d6) |
+.('(f2>e2) G c |
+c4B2 |
+A2d3c |
+B4) |]

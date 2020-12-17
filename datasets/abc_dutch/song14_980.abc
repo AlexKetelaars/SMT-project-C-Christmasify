@@ -1,0 +1,60 @@
+X: 13979
+T: [NLB177382_01]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 1982501494
+%%humdrum-veritas-data 3769829745
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('Gzcz/ B/ |
+ABcz |
+GzGz/ A/ |
+GFDz |
+Gzcz/ B/) |
+.('ABcz/ e/ |
+dzGz/ A/ |
+BAGz) :|]
+.('ee/ e/ee |
+(eG)G(e/ d/) |
+(dc)E(c/ B/)) |
+.('BA/ F/Dz |
+ff/ f/ff |
+fAAf/ e/) |
+.('f/ d/ ^F/ G/ ^G/ A/ A/ B/ |
+cc/ c/cz) :|]
+[K:Bb] .('(A4 |
+B2A2) |
+(c4 |
+G)zz2 |
+(A4 |
+G2)F2 |
+(G4 |
+C)zz2 |
+(A4 |
+B2A2) |
+(D>A)G2)- |
+.('G2(3G A B |
+c2-(3c .G .A |
+B2-(3B .D .E) |
+.('FF/ F/ F/ F/ F/ F/ |
+_A4 |
+_A>.AG3/F/ |
+c2G2 |
+c>cc=B) |
+.('F>F_A2 |
+G>FCz |
+(3:2:6z C D E F G |
+A4) |
+.('B2A2 |
+D>AG2- |
+G2(3G A B |
+c2-(3c G A) |
+.('B2-(3B D E |
+FzA3/A/ |
+FF/ F/F) |]

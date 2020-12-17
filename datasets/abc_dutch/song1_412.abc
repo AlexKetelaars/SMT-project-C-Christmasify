@@ -1,0 +1,62 @@
+X: 412
+T: Amarilli mia bella
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2924100477
+%%humdrum-veritas-data 1609158369
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('d2^c2d4 |
+A2_B2A4 |
+A6).('F2 |
+c2>c2c2d2 |
+A4F4- |
+F2c cc4) |
+.('F4F4- |
+F2A2A4 |
+E EA6 |
+D8) |
+.('d2^c2d4 |
+A2_B2A4 |
+A6).('F2 |
+c2>c2c2d2 |
+A4F4- |
+F2c cc4) |
+.('F4F4- |
+F2A2A4 |
+E EA6 |
+D8) |
+.('d2A _BA4 |
+z A A _Bc2A2 |
+_B4G4 |
+A4).('D3D |
+A2A A_B4 |
+A4F4- |
+F2G DA2A2 |
+z) .('A A Bc2A2 |
+E4A2A A |
+_B4A2A A |
+D4).('E2E E |
+F6G D |
+A8 |
+D8) |
+.('d2A _BA4 |
+z A A _Bc2A2 |
+_B4G4 |
+A4).('D3D |
+A2A A_B4 |
+A4F4- |
+F2G DA2A2 |
+z) .('A A Bc2A2 |
+E4A2A A |
+_B4A2A A |
+D4).('E2E E |
+F6G D |
+A8 |
+D8) |]

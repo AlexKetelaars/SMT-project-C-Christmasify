@@ -1,0 +1,24 @@
+X: 1721
+T: Daar waren laatst twee boerenzoons Die in he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 1385207679
+%%humdrum-veritas-data 1996029880
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D G E [I:setbarnb 1]|
+D2G2E D |
+E2z) .('G F G |
+A2A G (F E) |
+[M:2/4]D) .('C B, C |
+D2D D |
+D2G2) |
+.('z G G A |
+B2G G |
+(A F)G2) |]

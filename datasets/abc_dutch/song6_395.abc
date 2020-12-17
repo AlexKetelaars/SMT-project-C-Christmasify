@@ -1,0 +1,46 @@
+X: 5394
+T: Hou maar aan de rokkies vast, hou maar aan d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 4068684301
+%%humdrum-veritas-data 3597987363
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D> F A> B A> FD2 |
+D> F A> B A> FD2) |
+.('d d c c B B A A |
+B B A A G G F F) |
+.('D> F A> B A> FD2 |
+D> F A> B A> FD2 |
+A4c4 |
+d6z2) |
+.('A2A AA2A A |
+A2^G AB4 |
+B2B BB2B B |
+B2^A Bc4) |
+.('c2c cc2=c ^c |
+e2d2F4 |
+E F ^G F E d c B |
+A2A2A2z2) |
+.('D> F A> B A> FD2 |
+D> F A> B A> FD2) |
+.('d d c c B B A A |
+B B A A G G F F) |
+.('D> F A> B A> FD2 |
+D> F A> B A> FD2 |
+A4c4 |
+d6z2) |
+.('B> A B> =cd2B2 |
+g2e2d4 |
+=c> d c> BA2D2 |
+B> =c B> AG2D2) |
+.('B> A B> =cd2B2 |
+g2e2d4 |
+=c d f e d c B A |
+G2G2G2z2) |]

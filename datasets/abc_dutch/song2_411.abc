@@ -1,0 +1,33 @@
+X: 1410
+T: Er zou eens een maagdje vroeg opstaan Om haa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 3347092645
+%%humdrum-veritas-data 3493144698
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+dde |
+d2A |
+(cd)d |
+B3- |
+Bz).('(A/ B/) |
+dde3// e// |
+d2A3// B// |
+(Bd)(d |
+B3)- |
+Bz).('d/ d/ |
+Bdd |
+Bdd |
+ee2- |
+ez).('e3// e// |
+d-d/> e/ d3// e// |
+d/> d/BG |
+AG2- |
+Gz) |]

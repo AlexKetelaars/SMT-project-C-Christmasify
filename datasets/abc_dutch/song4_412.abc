@@ -1,0 +1,26 @@
+X: 3411
+T: En wat zag ik daar van verre Een schoon jong [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 1187536854
+%%humdrum-veritas-data 1239480390
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('G3A2ed2B |
+[M:6/8]A/D2-D3).('B/ |
+[M:9/8]d2>(d2 B) de2d |
+[M:6/8]A3-A2).('d/ d/ |
+e2ee2e |
+[M:9/8](d2B)G2).('c d e e |
+[M:6/8]d3c3 |
+B3-B2).('d/ d/ |
+e2ee2e |
+[M:9/8](d2g)g2).('f e d e |
+[M:6/8]d3A3 |
+G3-G3) |]

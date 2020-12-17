@@ -1,0 +1,31 @@
+X: 6522
+T: Koop, volkje! koop bij mij, Bezie mijn korfje vrij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 2995264975
+%%humdrum-veritas-data 151130522
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G G A B |
+c G E C |
+A2G2 |
+E2z) .('E |
+D D E ^F |
+(G/ ^F/ G/ A/) B G |
+E A G ^F |
+G2z) .('G |
+d c B A |
+A2G G |
+d c B A |
+G2z) .('G |
+G A B c |
+e2d c |
+c c (c/ B/) (A/ B/) |
+c2z) |]

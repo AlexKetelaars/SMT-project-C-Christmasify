@@ -1,0 +1,28 @@
+X: 15168
+T: Kennst du Herr Jansen, Herr Jansen und sein Sohn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2162181212
+%%humdrum-veritas-data 672352670
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('FFG |
+AAA |
+G/> ^F/GA |
+F3) |
+.('AAB |
+ccc |
+B/> A/Bc |
+A3/z//) .('F/< F/ A// |
+cc/> c/ d3// A// |
+cB/ z//) .('G/< G/ A// |
+BB/> B/ c3// G// |
+BAz) |
+.('GGG |
+Fzz) |]

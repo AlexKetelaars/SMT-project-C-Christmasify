@@ -1,0 +1,28 @@
+X: 749
+T: Tquaet groeyt in groot getal, End’ ’theeft s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 1521936079
+%%humdrum-veritas-data 672803327
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('B [I:setbarnb 1]|
+Add^c |
+d3B |
+ed(cB/) A/ |
+B3).('B/ c/ |
+dc/ B/A).('A/ B/ |
+cB/ A/G).('d |
+ed/ c/BB/ c/ |
+d2).('zA/ B/ |
+c2zG/ A/ |
+B2).('zd |
+edc/ d/ B/ c/ |
+AGG^F |
+G3) |]

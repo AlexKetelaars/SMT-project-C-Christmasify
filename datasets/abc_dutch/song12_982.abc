@@ -1,0 +1,30 @@
+X: 11981
+T: Entre de vente le grand balet 4
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 835421974
+%%humdrum-veritas-data 2771089985
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c>fd3/g/ |
+e>cf3/f/ |
+f>ga3/b/ |
+c'2).('!mordent!!mordent!a3/f/ |
+b2!mordent!!mordent!g3/e/ |
+a2!mordent!!mordent!f3/d/ |
+ged3/c/ |
+c4) |
+.('A>FB3/c/ |
+d2c3/c/ |
+d>de3/f/ |
+g2).('!mordent!!mordent!a3/e/ |
+^f2!mordent!!mordent!g3/d/ |
+e2!mordent!!mordent!c3/f/ |
+d>ge3/f/ |
+f2) :|]

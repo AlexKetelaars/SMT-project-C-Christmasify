@@ -1,0 +1,54 @@
+X: 6143
+T: Aimable Vainqueur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3705206450
+%%humdrum-veritas-data 2687259784
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c B [I:setbarnb 1]|
+A2>G2 F E |
+F2>F2G2 |
+A2B A G E |
+c4-c/) .('c/ d/ e/ |
+f2c2d2 |
+c2>A2c2 |
+c2B3A |
+G4).('!tenuto!c2 |
+A2!tenuto!d4 |
+=B2G2c2 |
+d2>e2 f g |
+e2>d2 c =B |
+c d2<=B2c |
+c4) :|]
+.('c2 [I:setbarnb 15]|
+f e f g a c |
+d4d2 |
+g a g f e d |
+^c2A2).('e2 |
+f2d e f g |
+e2A2d2 |
+e f2<^c2d |
+!tenuto!d4).('f2 |
+c2c2d2 |
+A4F G |
+A2B A G F |
+c4).('c2 |
+d2B c d B |
+c2A2c2 |
+d2B c d B |
+c2A2).('c2 |
+c2d c B A |
+G4g2 |
+a2f g a f |
+g2c2).('g2 |
+a2f g a f |
+g2c2f2 |
+g a2<e2f |
+f4) |]

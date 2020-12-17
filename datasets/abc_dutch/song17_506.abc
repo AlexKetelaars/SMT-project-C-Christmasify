@@ -1,0 +1,20 @@
+X: 16505
+T: Corant
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:04
+%%humdrum-veritas 1562127572
+%%humdrum-veritas-data 3567000166
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('z/ g/ [I:setbarnb 1]|
+g>abba3/a/ |
+bgdBc3/d/ |
+e2>).('d2c3/B/ |
+B>).('cAAB3/c/ |
+d3d2) :|]

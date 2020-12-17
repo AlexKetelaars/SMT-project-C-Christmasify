@@ -1,0 +1,62 @@
+X: 14741
+T: Wel Wat Zeg Je me dan Nou rijs van mijn kipp [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 858110738
+%%humdrum-veritas-data 3220303483
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=88
+K: G clef=treble
+.('G2A |
+B2c |
+B2A |
+G2D) |
+.('G2A |
+B2c |
+B2A |
+G3) ||
+.('G2A [I:setbarnb 10]|
+B2c |
+B2A |
+G2D) |
+.('G2A |
+B2c |
+B2A |
+G3) ||
+.('G F G [I:setbarnb 18]|
+E2E |
+A2G |
+F E D) |
+.('G F G |
+E F G |
+B2A |
+G3) ||
+.('G F G [I:setbarnb 26]|
+E2E |
+A2G |
+F E D) |
+.('G F G |
+E F G |
+B2A |
+G3) ||
+.('d2B [I:setbarnb 34]|
+d2B |
+c B A |
+G A B) |
+.('d2B |
+d2B |
+c B A |
+G3) |
+.('d2B |
+d2B |
+c B A |
+G A B) |
+.('d2B |
+d2B |
+c B A |
+G3) |]

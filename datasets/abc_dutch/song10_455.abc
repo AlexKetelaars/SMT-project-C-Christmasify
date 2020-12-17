@@ -1,0 +1,29 @@
+X: 9454
+T: En Mijnheerke die zouder uit jagen gaan; En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3954985342
+%%humdrum-veritas-data 326172593
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c/ c/ [I:setbarnb 1]|
+c d c B c A |
+(B A) ^GA2) :|]
+.('c/ c/ [I:setbarnb 3]|
+c G c (c B) c |
+e d dd3) |
+.('c c cc2B/ B/ |
+A B c d e) .('d |
+c B A B A ^G |
+A3z2).('c/ c/ |
+c G c (c B) c |
+e d dd3) |
+.('!fermata!c c/ c/ c/ c/ c G) .('c |
+G/ c/ d/ d/ d/ d/ c B A |
+A2z) |]

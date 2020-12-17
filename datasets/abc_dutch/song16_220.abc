@@ -1,0 +1,27 @@
+X: 15219
+T: Die Jule ist so schön
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1204471935
+%%humdrum-veritas-data 2991197952
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A [I:setbarnb 1]|
+A A A A |
+A2z A |
+A A G F |
+{G}F2E) .('E |
+B B B B |
+B2z B |
+B B A G |
+{G A}G2F z) ]|:
+.('A A A/> G/ F |
+F E E z |
+B B B/ A/ G |
+G F F z) :|]

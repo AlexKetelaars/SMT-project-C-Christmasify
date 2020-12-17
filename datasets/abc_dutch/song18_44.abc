@@ -1,0 +1,28 @@
+X: 17043
+T: Prelud
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2224614725
+%%humdrum-veritas-data 3129169586
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z2d2d d [I:setbarnb 1]|
+g a ^f ga2a b |
+g2g c' a b !mordent!!mordent!a3/ g/ |
+g2).('d B f3/ _e// d// e d |
+!mordent!!mordent!c2c fd2).('g3/ g/ |
+a b a3/ g// a//b2).('d3/ e/ |
+f> g !mordent!!mordent!g3/ f// g//a2).('a f |
+d2b g e f !mordent!!mordent!e3/ d/ |
+d2).('B B _e d c B |
+A2a bg2g c' |
+a b a> gg2).('d e |
+f> f f ge2e a |
+!mordent!!mordent!^f2a b g a !mordent!!mordent!a3/ g/ |
+g8) |]

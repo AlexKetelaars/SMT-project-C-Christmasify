@@ -1,0 +1,41 @@
+X: 13976
+T: No 34
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 1135541279
+%%humdrum-veritas-data 2952294337
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('(f ^e f) [I:setbarnb 1]|
+(d4A) (f ^e f) |
+(d4A) (f ^e f)) |
+.('d (a ^g a) f (d' c' d') |
+c'2 a2 z (g f g) |
+(e4A) (g f g)) |
+.('(e4A) (g f e) |
+c d e f g a b c' |
+d'4x2) :|]
+.('e' e' [I:setbarnb 9]|
+e'2 d'2 ^a2 b2 |
+d'2 c'2 ^g2 a2 |
+g2 e2 d'2 b2 |
+^b c' d' c' =b a ^g e) |
+.('e'2 d'2 ^a2 b2 |
+d'2 c'2 ^g2 a2 |
+g f e d' c' d' b g |
+b4a x) ||
+[K:G] .('d2 [I:setbarnb 17]|
+d4^c d e d |
+B2 {f} g2 d2 {a} b2 |
+a4a b a g |
+f g f e (d e d c)) |
+.('d4(^c d e d) |
+B2 {f} g2 d2 {a} b2 |
+d'2 c' b a2 b a |
+g2 b2 !fermata!g2) |]

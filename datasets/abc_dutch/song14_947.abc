@@ -1,0 +1,63 @@
+X: 13946
+T: No 12
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 4221542987
+%%humdrum-veritas-data 1796448894
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('g3 |
+g f e |
+d3 |
+d c B |
+A B c |
+D E F |
+G G G |
+G G) ||
+.('(^c [I:setbarnb 9]|
+.d) z (^c |
+d2)g |
+(b3 |
+g2)d |
+e2d |
+B2G) |
+.('F .F/ .F/ .F/ .F/) |
+.('F F (^c |
+d2)(^c |
+d2)a |
+(c'3 |
+a2)d) |
+.('e2d |
+A2c |
+B2G |
+G G G |
+e) .('.e/ .e/ .e/ .e/) |
+.('eg2 |
+fB2 |
+(e/ ^d/ e/ .f/) g |
+a .a/ .a/ .a/ .a/) |
+.('ad'2 |
+^c' a c' |
+d'2x) |
+.('d2(c/ A/) |
+d2(c/ A/) |
+(G/ B/ d/ g/) .b |
+(G/ B/ d/ g/) .b) |
+.('a .a/ .a/ a |
+c'2(b/ a/) |
+(g/ f/ g/ b/ a/ f/) |
+g2z) |
+[K:C] .('g .g/ .g/ .g/ .g/ |
+ag2 |
+gf2 |
+fe2) |
+.('(d/ c/ d/ e/) f |
+a> (g e/ c/) |
+g> (f d/ B/) |
+c2z) :|]

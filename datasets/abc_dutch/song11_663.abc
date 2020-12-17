@@ -1,0 +1,25 @@
+X: 10662
+T: Komt vrienden, luistert naar dit lied, Wat i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 4120089939
+%%humdrum-veritas-data 1895112346
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('(F A) [I:setbarnb 1]|
+c2c2B d c B |
+A4-A) .('(c d c) |
+G2G2A G F G |
+A2F2).('A2B A |
+G2c2e2d2 |
+c4-c) .('c B A |
+G A B G(F2G2) |
+A4).('c2d e |
+f e d B(A2G2) |
+F6) |]

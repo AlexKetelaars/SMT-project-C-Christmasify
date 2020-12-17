@@ -1,0 +1,48 @@
+X: 14418
+T: [NLB178050_01]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:44
+%%humdrum-veritas 4228366456
+%%humdrum-veritas-data 553901950
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Ab clef=treble
+.('A, CE2A2 |
+G, B E B e d |
+c2(d c) (B A) |
+(G/ A/) BE2E2) |
+.('C e G e G e |
+F e A e d c |
+B, d F d F d |
+E d G d c B) |
+.('A, c E c E c |
+D c d c B A |
+(G/ A/ B)E2G2 |
+A6) |
+.('c E A, E e c |
+B E A, E e B |
+c B A G F E |
+=D2C DB,2) |
+.('(E G B) e F A |
+=D B f a D g |
+(E G B) e F A |
+=D B f a D g |
+A, e B, e f =d |
+e2>).('d2 c d |
+e F =A, _g f e |
+d F B, c B c |
+d E B, f e d |
+c E A,) .('B A B |
+c A D c B A |
+G F E) .('B c d |
+B, F d F A, F |
+G, E d B c A) |
+.('B, F d F A, F |
+G, E d B c A |
+C A D B E G |
+A6) :|]

@@ -1,0 +1,39 @@
+X: 722
+T: O Heer wat hebben wy nu hier al ongevals? Me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2384463994
+%%humdrum-veritas-data 3314708168
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('B [I:setbarnb 1]|
+B2c |
+c2d |
+d2e |
+e2c |
+ed2 |
+c2).('B |
+B2c |
+c2d |
+d2e |
+e2c |
+ed2 |
+c2).('c |
+c2B |
+B2A |
+A2d |
+d2B |
+c2A |
+G2).('c |
+c2B |
+B2A |
+A2d |
+d2B |
+c2A |
+G2) |]

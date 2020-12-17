@@ -1,0 +1,39 @@
+X: 4383
+T: Het vrijen is gemeen Dat ziet men alle dagen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 1115649556
+%%humdrum-veritas-data 1607166565
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+B B B A |
+G3).('G |
+A> A A B |
+c2B) .('B |
+B A A G |
+F>) .('F F/ F/ E |
+D2F2 |
+G2G) .('D |
+B B B A |
+G2G) .('G |
+A> A A B |
+c3).('B |
+B A A G |
+F2F) .('E/ E/ |
+D> D E F |
+G2).('D2 |
+G> G G G |
+FE2).('E |
+A> B A G |
+FD2).('D |
+D D c c |
+B) .('A B3/ A/ |
+G> G F3/ F/ |
+G3) |]

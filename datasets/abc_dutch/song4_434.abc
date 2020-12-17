@@ -1,0 +1,47 @@
+X: 3433
+T: Broeders laat ons de kazerne slopen En op ha [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 2367659916
+%%humdrum-veritas-data 1774569729
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D ^C [I:setbarnb 1]|
+D ^C D C E FG2 |
+F4E2).('F G |
+A2(G F)E2D C |
+B,6).('D2 |
+D2>D2 E F A G |
+F4E) .('E F G |
+A2G FE2D C |
+B,4z) .('D D E |
+D2A, B,C2E2 |
+D4D) .('C B, C |
+D2A, B,C2E2 |
+D6).('D2 |
+E2>F2 E D C B, |
+(C2B,2)A,2).('G2 |
+F2>G2 F> E D E |
+F6).('D2 |
+B2>B2 A A A A |
+B4B) .('B B B |
+A2A AA2c2 |
+(B2A2)G3).('D |
+D2>D2 E D C B, |
+A,4z) .('G F G |
+A2E2G2F3/ F/ |
+E4D4) |
+.('G2>G2A2G F |
+E2E> E E) .('G F E |
+D2A, B,C2E2 |
+D8) |
+.('B2>G2D2F G |
+A2E> E E) .('A A A |
+B2>B2B2F2 |
+G8) |]

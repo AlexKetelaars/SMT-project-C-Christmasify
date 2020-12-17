@@ -1,0 +1,39 @@
+X: 3916
+T: En als ’s avonds de winkels gesloten zien En [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1415026387
+%%humdrum-veritas-data 296109878
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+D E F G G B |
+B2AA2).('A/ A/ |
+A A AG2F |
+G3-G2).('D |
+G2A/ A/B2d |
+d2cB2).('B |
+A A AG2F |
+G3-G2).('A |
+A2B B> B A |
+A2BB2).('A3// A// |
+(A E) F (G F) G |
+A3-A2).('A/ A/ |
+A A BB2A |
+A2BB2).('A |
+A E F G F E |
+D3-D2).('D/ D/ |
+G2Bd2G |
+B3-B2).('G |
+G2AB2c |
+A6) |
+.('A B c d c B |
+A G AB2).('B |
+A B cB2A |
+G3-G2) |]

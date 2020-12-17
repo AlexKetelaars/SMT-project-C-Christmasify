@@ -1,0 +1,72 @@
+X: 546
+T: Triumph d'amour
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3150190848
+%%humdrum-veritas-data 1081835910
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c/ c/ d/ e<fg/ |
+a>aa3/).('b/ |
+g2g3/g/ |
+g3/f// e//f3/f/ |
+f>).('ge3/f/ |
+d>dg3/g/ |
+c>cf3/).('A/ |
+B>BB3/A/ |
+A2).('A/ A/ B/ c/ |
+d>dd3/c/ |
+c2).('f3/f/ |
+f/ f/ g/ a<ba/ |
+gz// f// e// f//f3/e/ |
+[M:6/4]e3) |
+.('c>dc [I:setbarnb 15]|
+f>fga>ba |
+g>fed2).('d |
+e2ff>ge |
+f3).('e>ef |
+g>gab3 |
+a2).('aa>bg |
+a2).('cd>ef |
+e>fgf>ef) |
+.('d>defe3/d/ |
+d2).('gg3/f// e//f |
+f>gedd3/c/ |
+c2).('ff3/_e// d//e |
+_e>fdc>cf) |
+.('d>cdB>AB |
+A2A).('d>ed |
+c2cf>ef |
+d2dg>fg |
+e2).('ad>cB |
+c>def2f |
+f2f).('g>ab |
+a2ab>ab |
+g2gg>a^f |
+g2).('de>fg |
+c>cd=B2g |
+e>dcf3) |
+.('c>BcA>GF |
+B>cdc>d_e |
+d2fb>ab |
+g2ea>ga |
+f>gag>fe) |
+[M:2/2].('f2A3/d/ |
+=BGg3/g/ |
+g>af3/f/ |
+f3/_e// d//e3/e/ |
+_e>dd3/c/ |
+c3z/) .('g/ |
+ecf2- |
+f/ d/ d/ d/g2 |
+g/ e/ d/ z/z2 |
+ffb2 |
+b>c'a2- |
+a>gg3/f/ |
+[M:6/4]f2f4) ||

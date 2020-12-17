@@ -1,0 +1,31 @@
+X: 2526
+T: Es schlief ein Graf bei seiner Magd bis an d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 954373170
+%%humdrum-veritas-data 2824448099
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ B/) [I:setbarnb 1]|
+dd(d/ c/) (B/ A/) |
+GBB3/).('d/ |
+A>Bc3/d/ |
+cB2).('(G/ B/) |
+dd(d/ c/) (B/ A/) |
+GBB3/).('d/ |
+A>Bc3/d/ |
+cB2).('B |
+Afff |
+(f/ e/ g/) f<e).('A/ |
+Aggg |
+g(a/ g/) (f/ e/)) .('(d/ c/) |
+B>dg3/f/ |
+fe2).('e |
+d>gb3/a/ |
+ag2) |]

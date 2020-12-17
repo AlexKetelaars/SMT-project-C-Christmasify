@@ -1,0 +1,39 @@
+X: 9339
+T: Er was een herderinnetje al in het jeugdig g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3061425894
+%%humdrum-veritas-data 887277500
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G/ [I:setbarnb 1]|
+GG/GG/ |
+AA/ G/ z/) .('c/ |
+BB/AA/ |
+G3/z).('G/ |
+GG/ G/ G/ G/ |
+AA/G).('c/ |
+BB/AA/ |
+G3/z).('d/ |
+d^c/de/ |
+(dB/)G).('F/ |
+EG/cd/ |
+e3/z).('e/ |
+d^c/de/ |
+(dB/)G).('c/ |
+BB/AA/ |
+G3/z).('E/ |
+EF/GE/ |
+EF/G3/) |
+.('cd/ed/ |
+cB/B3/ |
+A3/).('Bc/ |
+G3/cd/ |
+e3/d3/ |
+c3/z) |]

@@ -1,0 +1,23 @@
+X: 9798
+T: Jan, doe je doos op, (bis) Jan, doe je doosj [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1064761061
+%%humdrum-veritas-data 1488315618
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B AG2D2 |
+B2d cB2B2) |
+.('A2A> A A> c B3/ A/ |
+(G2F2)G z) ||
+.('G2 [I:setbarnb 5]|
+A G F G A G F G |
+A2B2c2B2) |
+.('d2d d e d c B |
+B4A2z2) |]

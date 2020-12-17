@@ -1,0 +1,46 @@
+X: 15
+T: Ghy klaeght dat ghy altijdt Verwonnen wordt  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 1246895500
+%%humdrum-veritas-data 3248918522
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=152
+K: F clef=treble
+.('z2d |
+d2c |
+B2A |
+G2).('d |
+_e2d |
+g2^f |
+g2a |
+gg^f |
+g3) |
+.('fff |
+f3) |
+.('ddd |
+d3) |
+.('BBB |
+B3) |
+.('d2c |
+B2f |
+fgf |
+fcf |
+f2d) |
+.('d2d |
+c2d |
+B2c |
+A3) |
+.('d2c |
+B3) |
+.('_e2d |
+c3) |
+.('f2_e |
+d2g |
+g^f2 |
+g3) |]

@@ -1,0 +1,48 @@
+X: 11009
+T: Door de traaljen van een venster, Langs een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1595893207
+%%humdrum-veritas-data 3611444754
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A2B [I:setbarnb 1]|
+c2ec2B |
+A!fermata!E2).('A2B |
+c2cd2d |
+!fermata!e3).('A2B |
+c2ec2B |
+A!fermata!E2).('A2B |
+c2c d c d |
+e6) ||
+.('c B A c B A [I:setbarnb 10]|
+e3B3) |
+.('c B A c B A |
+!fermata!e2z).('f2e |
+e2Af2e |
+e2d).('A2B |
+c2cd2d |
+!fermata!e2z).('f2e |
+e2Ag2e |
+(f e) d).('c2c |
+B2ee2d |
+e3-e2z) ||
+[K:A] .('A3A3 [I:setbarnb 22]|
+A2A (A B) c |
+(B2G)E3) |
+.('A3A2c |
+B2AE3- |
+E z z).('d2c |
+B B A G G F |
+F3E3) |
+.('F3G3 |
+(c3e2)z |
+z2).('dB2G |
+F2EB2c |
+A2>-A2 z z) |]

@@ -1,0 +1,15 @@
+X: 2746
+T: Mijnheer de graaf droomde eens op een keer H [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 2837783809
+%%humdrum-veritas-data 1084398116
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d d ed2c A G A2<B2).('G B d g e c/> c/ B/> B/d2A2>).('A2 d fa2d> c B d2<g2).('g/> g/ f e d> B c BA2G3) |]

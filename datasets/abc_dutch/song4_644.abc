@@ -1,0 +1,32 @@
+X: 3643
+T: Wij zijn naaisters vol van glorie We laten d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 1988663797
+%%humdrum-veritas-data 2003462819
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B B B c2<d2).('d |
+e d A Bc2B3/) .('B/ |
+B B B cd4) |
+.('e d A Bc2B2) |
+.('G G G G2<e2).('e |
+g g f ed2).('d d |
+e e e e e e) .('e f |
+g g f ed2).('d3/ d/ |
+g4d2g3/ g/ |
+f4e4) |
+.('f2f f f f e f |
+g g f ed2).('d d |
+g4d2g g |
+a4e4) |
+.('f2f> fe2f2 |
+g4-g) .('B (3B B B |
+d4-d) .('B (3B A G |
+D2G6) |]

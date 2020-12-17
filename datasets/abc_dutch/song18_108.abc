@@ -1,0 +1,50 @@
+X: 17107
+T: La nosce de vilage
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 2152153399
+%%humdrum-veritas-data 1987313925
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e>dc |
+gfe |
+d2d) |
+.('f>fe |
+ad3/c/ |
+c3) |
+.('g>fe |
+fd3/c/ |
+B2B) |
+.('e>dc |
+fB3/A/ |
+A3) |
+.('c>de |
+e^fg |
+^f2f) |
+.('d>cB |
+eA3/G/ |
+G3) |
+.('e>dc |
+gfe |
+d2d) |
+.('f>fe |
+ad3/c/ |
+c3) |
+.('e>ef |
+dde |
+^c2c) |
+.('a>gf |
+_ae3/d/ |
+d3) |
+.('A>Bc |
+Ad3/c/ |
+B>AG) |
+.('gec |
+dd3/c/ |
+c3) |]

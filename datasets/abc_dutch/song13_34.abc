@@ -1,0 +1,18 @@
+X: 12033
+T: 1 Mascharada
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 1531747962
+%%humdrum-veritas-data 2926102118
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f2 f f f2 g2a4z2 g2 |
+f2 e f g f e dc8) |
+.('c d c B A B c A d c B A G A F2 |
+f2 f g a g a ef8) :|]

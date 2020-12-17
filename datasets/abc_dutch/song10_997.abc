@@ -1,0 +1,15 @@
+X: 9996
+T: De liefde van het zoete paar Was zonder maat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1110927129
+%%humdrum-veritas-data 640053197
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('DDDG2AA2G(EG2)).('GAB/ A/G2D(F>E)D4).('DDDG2AA2G(EG2)).('ABAG2D(F>E)D4).('GGGG2D(ED>)CB,2).('GAB/ A/G2D(D/ E/D)C/B,4).('GGGGAAAG(EG2)).('AB/ B/AG2D(F>ED)D2) |]

@@ -1,0 +1,35 @@
+X: 9405
+T: “Ach mijn aller zoetste engelin, Wil mij ant [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2610492899
+%%humdrum-veritas-data 1649645945
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C2 [I:setbarnb 1]|
+F3A/ A/ |
+B A G F |
+G2).('E3/ G/ |
+B2E2 |
+G2F2 |
+z2).('C2 |
+F3A |
+B A G F |
+G2).('E3/ G/ |
+B2E2 |
+G2F2 |
+z2).('c2 |
+A3c |
+d c B A |
+B z).('B2 |
+G3B |
+c B A G |
+A2).('F3/ A/ |
+c2(A F) |
+G2F2) |]

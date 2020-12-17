@@ -1,0 +1,39 @@
+X: 17240
+T: Schoon de hel, en al 't basterd zaad, Ons la [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 2380288264
+%%humdrum-veritas-data 3455635044
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('zzA/ A/ |
+e2c |
+AAB |
+^G2).('B |
+c>c d/ e/ |
+B2B/ B/ |
+cc3/d/ |
+e2e ||
+z).('cA [I:setbarnb 10]|
+BBc |
+A2z/ d/ |
+dA3/e/ |
+cA).('E/ ^F/ |
+GGE |
+A>AB |
+c^G3/A/ |
+A2).('f/ f/ |
+(f>e) z// e/ e// |
+(e>d) z// z// d/ |
+dB3/e/ |
+ec).('e/ f/ |
+gde |
+f>cd |
+eB3/A/ |
+A2) |]

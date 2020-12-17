@@ -1,0 +1,46 @@
+X: 17250
+T: O Schepper van het licht, gy verdeeld [besti [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3080018443
+%%humdrum-veritas-data 3374935116
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2 [I:setbarnb 1]|
+f2>f2 f d |
+g4e e |
+e4d e |
+d2B2).('d2 |
+c2>c2f2 |
+B4B c |
+A4).('c2 |
+c2>c2 c d |
+e d c B A G |
+^F4).('d2 |
+e4c2 |
+A4z d |
+c B(B2A2) |
+G4).('B2 |
+A2>A2 B c |
+d d d d =e f |
+=e4).('c2 |
+d4B2 |
+G4z c |
+B A(A2G2) |
+F4).('F2 |
+B2>B2 c d |
+G2G2).('B2 |
+e2>e2e2 |
+d2c3B |
+B4).('d2 |
+d2>d2 d d |
+e2e2).('g2 |
+c2>c2c2 |
+d2c3B |
+B4) |]

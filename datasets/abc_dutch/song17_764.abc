@@ -1,0 +1,52 @@
+X: 16763
+T: La roudoute
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1888859114
+%%humdrum-veritas-data 855453808
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G D G B A c |
+B D G B A c |
+B G).('e2d2 |
+c4B2 |
+A B c A B G |
+!fermata!A6) |
+.('d A d f e g |
+f A d f e g |
+f a g f e d |
+^c B A G F E |
+D2).('G B A c |
+B D G B A c |
+B d B G A F |
+!fermata!G6) |
+[M:6/8].('d B d d B d |
+c3A3 |
+B G B B G B |
+A3D3) |
+.('d B d d B d |
+c A c c A c |
+B d G A c F |
+G3-!fermata!G3) |
+.('a f a a f a |
+g3e3 |
+f d f f d f |
+e3A3) |
+.('f d f e A e |
+f d f e A g |
+f a d e g ^c |
+{c}d2>z2x2) |
+.('d B d d B d |
+c3A3 |
+B G B B G B |
+A3D3) |
+.('B G B A D A |
+B G B A D c |
+B d G A c F |
+G3-G3) |]

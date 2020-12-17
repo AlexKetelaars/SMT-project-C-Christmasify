@@ -1,0 +1,32 @@
+X: 16777
+T: Den jageman
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 2811280437
+%%humdrum-veritas-data 2681060907
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('e [I:setbarnb 1]|
+c2c c B A |
+B2BB2e |
+c B A B A ^G |
+A3A2).('e |
+c2c c B A |
+B2BB2e |
+c B A B A ^G |
+A3-!fermata!A2) |
+.('e [I:setbarnb 9]|
+a2ef2e |
+a2ef2e |
+a g f e d c |
+B3-B2).('e |
+c2c c B A |
+B2BB2e |
+c B A B A ^G |
+A3-A2) :|]

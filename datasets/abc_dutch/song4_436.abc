@@ -1,0 +1,23 @@
+X: 3435
+T: Daar bloeit een wolkje aan het hemelrond Doo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 1829628484
+%%humdrum-veritas-data 2873884161
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B B3/ A/ [I:setbarnb 1]|
+B2>A2 e d A3/ c/ |
+B4z) .('B A G |
+E2>G2 E A d3/ c/ |
+B4z) .('B B3/ B/ |
+B2>A2 B c d3/ d/ |
+e4z) .('A B c |
+[M:3/4]d> d d e d e |
+[M:4/4]d4z) |]

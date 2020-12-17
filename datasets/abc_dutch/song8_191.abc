@@ -1,0 +1,29 @@
+X: 7190
+T: Daer was een sneeuwwit vogeltje, Daer was ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3124741776
+%%humdrum-veritas-data 1871843033
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('E A G [I:setbarnb 1]|
+A2B2 |
+c cB2 |
+z) .('E A G |
+A2B2 |
+c cB2 |
+z) .('A B c |
+d c B A |
+G2).('A A |
+(G F)E2 |
+z) .('A B c |
+d c B A |
+G2).('A E |
+A2z2 |
+z) |]

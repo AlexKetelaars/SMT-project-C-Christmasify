@@ -1,0 +1,22 @@
+X: 4355
+T: Ginder achter in die groene heide Daar staat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 159871615
+%%humdrum-veritas-data 1043434222
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('eeee |
+d/> d/ d/ c/BG) |
+.('A2ed |
+BBG2) |
+.('e2gg |
+[M:5/4]ddB/> A/ G/>) .('G/ A3// G// |
+[M:6/4](Ae)d(Ac)B |
+[M:4/4]G3) |]

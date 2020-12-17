@@ -1,0 +1,23 @@
+X: 10552
+T: Aan de oever van een snelle vliet, Een treur [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 1867302465
+%%humdrum-veritas-data 2411314592
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B/ B/ [I:setbarnb 1]|
+(G B) G (F A) F |
+(E G) EB,2).('B, |
+A2A (G B) G |
+F3z2).('B |
+G2G (A G) A |
+B2e (c A)) .('F |
+E2EG2F |
+E3z2) |]

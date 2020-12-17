@@ -1,0 +1,37 @@
+X: 14704
+T: Vivace La Carmagnole
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1977963315
+%%humdrum-veritas-data 3132433369
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=88
+K: G clef=treble
+.('G/ [I:setbarnb 1]|
+Bc/dd/ |
+ce/dd/ |
+cc/A3/ |
+B3/dB/ |
+G3/z).('G/ |
+Bc/dd/ |
+ce/dd/ |
+cc/A3/ |
+B3/dB/ |
+G3/).('d3/ |
+BB/GB/ |
+A3/d3/ |
+BB/GB/ |
+A3/).('G3/ |
+BB/dd/ |
+BA/ B/ c/ d/ |
+G>A G/ A/ |
+Dz/).('G3/ |
+BB/dd/ |
+BA/ B/ c/ d/ |
+c3/AF/ |
+G3/) |]

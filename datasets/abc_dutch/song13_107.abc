@@ -1,0 +1,59 @@
+X: 12106
+T: 402
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 2596275268
+%%humdrum-veritas-data 3102483240
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+d2A2G2A2 |
+F2E FD2).('A2 |
+d2e d ^c d e c |
+d ^c d ed2).('A2 |
+d2A2G2A2 |
+F2E F).('D2).('A2 |
+d2e d ^c d e c |
+d6).('A2 |
+d2A2G2A2 |
+F2E FD2).('A2 |
+d2e d ^c d e c |
+d ^c d ed2).('A2) |
+.('d2A2G2A2 |
+F2E FD2).('A2 |
+d2e d ^c d e c |
+d6).('A _B |
+c2c2c2d2 |
+c _B A GF2c2 |
+f2e fd2g2 |
+e2d e).('c2).('A _B |
+c2c2c2d2 |
+c _B A GF2c2 |
+f e d e2<e2f |
+f6).('f g |
+a2A2A2d2 |
+B2A BG2).('e f |
+g2G2G2e2 |
+c2B c).('A2a2 |
+B c d e2<^c2d |
+d6).('A _B |
+c2c2c2d2 |
+c _B A GF2c2 |
+f2e fd2g2 |
+e2d ec2).('A _B |
+c2c2c2d2 |
+c _B A G).('F2c2 |
+f e d e2<e2f |
+f6).('f g |
+a2A2A2d2 |
+B2A BG2).('e f |
+g2G2G2e2 |
+c2B cA2a2 |
+B c d e2<^c2d |
+d8) |]

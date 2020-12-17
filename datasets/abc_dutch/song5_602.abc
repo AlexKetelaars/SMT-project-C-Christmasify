@@ -1,0 +1,44 @@
+X: 4601
+T: Touter Klaas Wouter Klaas Annemoeis pot; het [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 1417487061
+%%humdrum-veritas-data 1277339693
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2D B |
+G2D) .('B |
+G/ G/ G D B |
+G G D) .('D |
+G G B B |
+G2D2) |
+.('G/ G/ G B/ B/ B |
+G2D2) |
+.('G/ G/ G B/ B/ B |
+G2D) .('D |
+G G B B |
+G2D2) |
+.('G2B2 |
+G2D2 |
+G G B B |
+G2D) .('G |
+c c/ c/ c c |
+B B B) .('B |
+A G A B |
+A2G2) |
+.('G2B2 |
+G2D3/) .('D/ |
+G/ G/ G B B |
+G2D3/) .('D/ |
+G/ G/ G B B |
+G/ G/ GD2) |
+.('G/ G/ G B B |
+G GD2) |
+.('G G B/ B/ B |
+G2D2) |]

@@ -1,0 +1,37 @@
+X: 8633
+T: Een meisje moest om water gaan. Om water moe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:48
+%%humdrum-veritas 322163652
+%%humdrum-veritas-data 2562024420
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2A |
+F2G |
+A2G |
+F2).('G |
+c2c |
+(B G) B |
+A2).('F |
+d2d |
+d d d |
+d2c |
+c2).('c |
+c d c |
+(c B) A |
+G3) |
+.('c2B |
+A B A |
+G2G |
+F3) |
+.('c2B |
+A B A |
+G2G |
+F2) |]

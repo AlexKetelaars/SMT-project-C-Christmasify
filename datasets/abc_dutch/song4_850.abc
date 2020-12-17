@@ -1,0 +1,29 @@
+X: 3849
+T: Ik kwam er laatst over die markt gegaan Dubb [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 2439323459
+%%humdrum-veritas-data 1244625495
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G G B d d d |
+d2ed3) |
+.('e e d e e d |
+d c BA2).('G |
+G G B d d d |
+d2ed2).('d/ d/ |
+g f e/ e/d2F |
+A3G3) |
+.('B3B2B |
+d2dc2).('B |
+A A A A G A |
+B B BB2).('d/ d/ |
+g f e/ e/d2F |
+A3G2) |]

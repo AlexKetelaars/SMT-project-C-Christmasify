@@ -1,0 +1,33 @@
+X: 7022
+T: No552
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:33
+%%humdrum-veritas 2496754892
+%%humdrum-veritas-data 1982187743
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('z2A G A E A c |
+B2B A B E B d |
+c A c d e c f e |
+d B e d c A d c |
+B2).('G A B B e B |
+G E G A B B e B |
+G E c d e e a e |
+c A c d e e a e |
+c2).('A G A E A c |
+F D B ^A B F B d |
+G E e f e d c B |
+c2c d c B A G |
+A2).('A G A E A c |
+F D B ^A B F B d |
+G E e f e d c B |
+c2c d c B A G |
+A2).('e f e d c B |
+c2c d c B A G |
+A2z2z4) :|]

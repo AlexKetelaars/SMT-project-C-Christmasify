@@ -1,0 +1,38 @@
+X: 1702
+T: Er zou eens een magetje vroeg opstaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 3081263667
+%%humdrum-veritas-data 279605645
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D(E/ F/) [I:setbarnb 1]|
+G2DB |
+A2GE |
+DCB,).('B/ G/ |
+GEcB |
+AAGB |
+(AG)GE |
+D2).('D(E/ F/) |
+G2DG |
+A2GA |
+G2DC |
+B,3).('B/ A/ |
+GAdB |
+AA(GA/) B/ |
+(AG)FE |
+D2).('D(E/ F/) |
+G2DB |
+A2GA |
+G2DC |
+B,3).('B/ A/ |
+GEdB |
+AA(GF/) G/ |
+(AG)FE |
+D2) |]

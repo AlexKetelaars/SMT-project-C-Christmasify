@@ -1,0 +1,23 @@
+X: 8822
+T: Wat is die schildwacht droef en bleek, Die n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 1585244663
+%%humdrum-veritas-data 3101341123
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+ABAG |
+F>FE).('G |
+cdcB |
+A3).('C |
+FAc3/E/ |
+Gdc).('G |
+FEAG |
+F3) |]

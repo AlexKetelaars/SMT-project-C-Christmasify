@@ -1,0 +1,38 @@
+X: 17111
+T: [Que devant vous tout s’abaisse]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 3878755930
+%%humdrum-veritas-data 2916112652
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('ddf |
+BB_e |
+ccf |
+!mordent!!mordent!d>cB) |
+.('ccd |
+!mordent!!mordent!=B>Bc |
+d!mordent!!mordent!c3/d/ |
+d3) |
+.('dde |
+f2f |
+fge |
+f2c) |
+.('fdg |
+!mordent!!mordent!efd |
+_e!mordent!!mordent!^c3/d/ |
+d3) |
+.('dgd |
+_e>dc |
+cfc |
+!mordent!!mordent!d>cB) |
+.('ccd |
+_e>dc |
+B!mordent!!mordent!A3/G/ |
+G3) |]

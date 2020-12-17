@@ -1,0 +1,87 @@
+X: 14700
+T: Sonatine
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 2351486907
+%%humdrum-veritas-data 3216368283
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c d e f g a b c' |
+b a g a g f e d |
+c d e f g a b c' |
+b a g a g f e d |
+c2c2z2c'2 |
+a2a2z2c'2 |
+g2g2z2g2 |
+f4e4 |
+{f}(e4d2)z2 |
+d e ^f g a b c' a |
+b d' c' b a g ^f g |
+e c' b ag2^f2 |
+g2z2z2g2 |
+c'2c'2z2c'2 |
+b2b2z2b2 |
+a2a2a3b |
+g2z2z2g2 |
+c'2c'2z2c'2 |
+b2b2z2b2 |
+a2a2a3b |
+g2z2a3d' |
+b2z2^f3a |
+g2z2a3d' |
+b2z2^f3a |
+g2z2g4 |
+g4z4) |
+.('G A B c d e f g |
+f e d e d c B A |
+G A B c d e f g |
+f e d e d c B A |
+G2G2z2g2 |
+f2f2z2f2 |
+e2e2z2e2 |
+d2d2z2d2 |
+c2c2z2c2 |
+_B2B2z2B2 |
+A2A2z2a2 |
+f2>e2d3c |
+B2z2g4 |
+f4e4 |
+d4g4 |
+f4e4 |
+!fermata!d8 |
+z2G> B c d e ^f |
+g a b c' d' b c' a |
+b g a ^f g f a f |
+g ^f a f!trill!!trill!g2{f g}!fermata!g2 |
+c d e f g a b c' |
+b a g a g f e d |
+c d e f g a b c' |
+b a g a g f e d |
+c2c2z2c'2 |
+!accent!a2a2z2c'2 |
+!accent!g2g2z2g2 |
+f4e4 |
+{f2}e4d2z2 |
+G A B c d e f d |
+e g f e d c B c |
+A f e d!trill!!trill!d4 |
+c2z2z2c2 |
+!accent!f2f2z2f2 |
+!accent!e2e2z2e2 |
+d2d2d3e |
+c2z2z2c2 |
+f2f2z2f2 |
+e2e2z2e2 |
+d2d2d3e |
+c2z2d3g |
+e2z2B3d |
+c2z2d3g |
+e2z2B3d |
+c2z2c'2c'2 |
+c'4z4) :|]

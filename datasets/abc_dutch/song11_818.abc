@@ -1,0 +1,35 @@
+X: 10817
+T: ‘t Is die wilt hooren in een lied, Wat datte [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3985893943
+%%humdrum-veritas-data 1266296963
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+E2F2 |
+G2(B A) |
+G2A2 |
+B3).('B |
+B A B c |
+d2A d |
+d c B A |
+!fermata!G2).('G A |
+B2B2 |
+B2c d |
+d d c B |
+A3).('G |
+A3d |
+c B A G |
+B2(B c) |
+(BA2)).('G |
+A3d |
+c B A G |
+B2B2 |
+E2z2) |]

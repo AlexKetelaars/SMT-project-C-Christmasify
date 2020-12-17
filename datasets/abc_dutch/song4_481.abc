@@ -1,0 +1,22 @@
+X: 3480
+T: Osse bosse teune De varken loopt under de beume
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 3692609948
+%%humdrum-veritas-data 1159031495
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G G B B |
+A2G) .('G |
+(3A A B (3B B B |
+A2G) .('G |
+(3:2:4B2 B B2 G |
+(3:2:2B2 BB2) |
+.('G A B B |
+A2G2) |]

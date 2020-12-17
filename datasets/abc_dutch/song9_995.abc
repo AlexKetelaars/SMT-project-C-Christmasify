@@ -1,0 +1,31 @@
+X: 8994
+T: Den dag is nu al aangekomen, Den dag van ons [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 71912942
+%%humdrum-veritas-data 3809294762
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+G2>G2 E G c A |
+(G2>F2)D2z) .('G |
+G2>G2 A G F D |
+C4-C z).('G2 |
+G3G/ G/ E G c A |
+(G2>F2)D2z) .('G |
+G2>G2 A G F D |
+[M:2/4]C C z) .('C |
+[M:3/4]C D E E F F |
+G2>E2 E D |
+[M:2/4]C2A2 |
+[M:3/4](G> F)D2z) .('C |
+(3C C D E E F F |
+G2>G2 A B |
+c AG2(F D) |
+[M:4/4]C4z2) |]

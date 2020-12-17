@@ -1,0 +1,30 @@
+X: 14775
+T: Grasiozo
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2512956115
+%%humdrum-veritas-data 1945450811
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=72
+K: C clef=treble
+.('c c/ c/c2 |
+e e/ e/e2 |
+a/ g/ f/ e/ a/ g/ f/ e/ |
+d d/ d/d2) |
+.('c c/ c/ c c |
+e e/ e/ e e |
+g (g// f// e// d//) c !trill!!trill!d |
+c c c z) |
+.('d d/ e/ f f |
+e fg2 |
+a g f e |
+d d/ d/d2) |
+.('a g f e |
+d c B c |
+e e d d |
+c2z2) :|]

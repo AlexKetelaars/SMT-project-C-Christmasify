@@ -1,0 +1,38 @@
+X: 10223
+T: Vastenavend, boerekind, En hee je dan geen haan?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 1675762510
+%%humdrum-veritas-data 2874701209
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2AB2c |
+d2dd2c |
+B2BA2A |
+G4z) .('D |
+G2AB2c |
+d2d d z c |
+B B BA2A |
+G4z) .('B |
+B B B B B B |
+c2c c z B |
+A2AA2A |
+B4z) .('G |
+G2AB2c |
+d2>d2 z) .('G |
+G G AB2c |
+d2>d2 z) .('G |
+G2AB2c |
+d4z) .('G |
+G G AB2c |
+d2>d2 z) .('G |
+G2AB2c |
+d3).('d2c |
+B2BA2A |
+G3z3) |]

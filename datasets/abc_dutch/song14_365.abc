@@ -1,0 +1,52 @@
+X: 13364
+T: Andantino
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 4026705368
+%%humdrum-veritas-data 2715940684
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+BdG |
+FAc |
+B3- |
+Bdd |
+dgB |
+Ace |
+G2A/ G/) |
+.('Fdc |
+BdG |
+FAc |
+B3 |
+^ceg |
+f2d |
+B/ ^c/ d/ e/ f/ g/) |
+.('d2e |
+d3 |
+dBG |
+^G3 |
+A2B |
+c3 |
+c/ e/ d/ c/ B/ A/ |
+GFF |
+GBd |
+!fermata!B3/{c B A B c d B}!fermata!Az/) |
+.('Bdc |
+A3 |
+ced |
+BBc |
+def |
+g/ f/ g/ e/ c/ A/ |
+G2A) |
+.('BB/ d/ c/ e/ |
+d/ f/ e/ g/ f/ a/ |
+g/ f/ g/ e/ c/ A/ |
+G2B |
+Ggg |
+g2z) :|]

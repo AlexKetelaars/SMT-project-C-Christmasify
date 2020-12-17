@@ -1,0 +1,29 @@
+X: 10558
+T: Wat hoor ik hier in ‘t midden al van de nach [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 2478550247
+%%humdrum-veritas-data 1669521495
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: C clef=treble
+.('G,C2E [I:setbarnb 1]|
+[M:6/8](A3G2)G |
+G F G (A G) F |
+[M:9/8]E3-E2).('GC2E |
+[M:6/8]G3A2G |
+G (c B) (A G) F |
+G3-G2z) |
+[M:9/8].('A2>A2 G A c B c |
+[M:6/8]G3).('A3 |
+A G F (A G) F |
+[M:9/8]G3-G2).('E (E F) E |
+D3A2GA2G |
+E3-E2).('E (E F) E |
+D3A2GA2G |
+C3-C2) |]

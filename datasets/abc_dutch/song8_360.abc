@@ -1,0 +1,27 @@
+X: 7359
+T: Zoo lang de roosjes bloeien, En de lelies he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:37
+%%humdrum-veritas 3732534362
+%%humdrum-veritas-data 4168814898
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+E2Gc2B |
+B A zz2).('c/ c/ |
+B2AG2F |
+E3z2).('G |
+E2Gc2G |
+B A zz2).('c |
+B2A D A G |
+E3z2).('G |
+E2Gc2e |
+(d2c)A2).('c |
+B2A G A B |
+c3z2) |]

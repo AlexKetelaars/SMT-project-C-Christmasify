@@ -1,0 +1,25 @@
+X: 1485
+T: Boom boom o lieflijken boom Spreidde uit die [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1437874924
+%%humdrum-veritas-data 4136136745
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d4e3d |
+c> B c ed4) |
+.('B> B B c d> d e e |
+d2c2B4) ||
+.('B2>A2B2c2 [I:setbarnb 6]|
+B2>A2!fermata!G2z) .('D |
+G D G A!fermata!B2).('B2 |
+B2A> AB2c2 |
+d2>d2e2e2 |
+d4c4 |
+B6z2) |]

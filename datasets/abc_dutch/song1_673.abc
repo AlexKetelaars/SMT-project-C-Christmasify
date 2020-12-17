@@ -1,0 +1,16 @@
+X: 673
+T: Stelt mi een wet Heer onbesmet, Een wech wil [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3321154567
+%%humdrum-veritas-data 1194794345
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=bass
+.('E,4G,4F,4E,4F,4D,4D,4C,4z2).('C,2G,4G,4A,4>G,4(F,2>E,2D,4)E,4).('E,4G,4F,4E,4F,4D,4D,4C,4z2).('C,2G,4G,4A,4>G,4F,2>(E,2D,4)E,4) ]|:
+.('z2E,2A,4G,4A,4C4B,4B,4A,4z2).('G,2C4A,4B,4C4A,4G,4z2).('G,4<E,4F,4<G,4F,2(E,2>D,2E,4)D,4z2).('D,2G,4A,4B,4z4).('D4C4B,4A,4).('B,4C4A,4G,4).('A,4G,4F,4E,4z4).('E,4D,4C,4F,4E,4(D,2>C,2D,4)C,4z4).('C4A,4B,4C4z4).('B,4A,4A,4G,4z4).('A,4E,4D,4A,4G,4(F,2>E,2D,4)E,4) |]

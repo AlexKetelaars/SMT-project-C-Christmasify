@@ -1,0 +1,27 @@
+X: 3158
+T: O moeder zeide zij moeder Ik draag een zware last
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 2511897343
+%%humdrum-veritas-data 2352189528
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G3 [I:setbarnb 1]|
+(A c) e d e d |
+[M:9/8](A2B2<)A2).('(d2g) |
+[M:6/8]g2fe2d |
+A3z2).('d |
+e2f (g f) e |
+[M:9/8](d2g)g2).('fe2e |
+[M:6/8]d3c2c |
+B3z2).('d |
+e2f (g f) e |
+[M:9/8](d2g)g2).('f (e f) e |
+[M:6/8]d3A2A |
+[M:9/8]G6) |]

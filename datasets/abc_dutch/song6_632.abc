@@ -1,0 +1,51 @@
+X: 5631
+T: Al wie wil hooren een nieuw lied, hoe Pier m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2183914230
+%%humdrum-veritas-data 3879119959
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('A A A |
+d2A |
+F2A |
+D3) |
+.('F ^G F |
+E2c |
+B3 |
+A3) |
+.('A A A |
+d2A |
+F2A |
+D3) |
+.('F ^G F |
+E2c |
+B3 |
+A3) |
+.('A B =c |
+(c B) A |
+(A G) F |
+G3) |
+.('B c d |
+(A B) A |
+(A2G) |
+F3) |
+.('A A A |
+B2B |
+(c d) e |
+d3) |
+.('A d c |
+(B A) G |
+(F2G) |
+A3) |
+.('A d c |
+(B A) G |
+(F3 |
+E3) |
+D2z) |]

@@ -1,0 +1,28 @@
+X: 10924
+T: Tusschen negen en half en tiene, Laura die!  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 1011879448
+%%humdrum-veritas-data 405639598
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C2F [I:setbarnb 1]|
+F F AA2A |
+A2A).('G2A |
+B2>(B2 c) B |
+A3) :|]
+.('c2c [I:setbarnb 5]|
+c c cc2c |
+d2d).('B2B |
+B2BA2B |
+c2c).('A2G |
+F3C2C |
+A3).('c2c |
+c2cB2G |
+F3z2z) |]

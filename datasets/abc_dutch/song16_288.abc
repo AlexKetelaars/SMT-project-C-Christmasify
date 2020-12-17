@@ -1,0 +1,29 @@
+X: 15287
+T: Een arme kleine bedelaar
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 253545593
+%%humdrum-veritas-data 991128815
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B, E G [I:setbarnb 1]|
+B2>G2A3F |
+E4z G G G |
+F2>F2 F c B A |
+G4z G G G |
+F2B2d2c2 |
+B4z2).('B2 |
+d2>B2 B B c d |
+e2B2z2B2 |
+d2>B2 B B c d |
+e2B2z) .('B B B |
+c2>c2d3d |
+!fermata!e4z e G c |
+B2>=A2 c B A D |
+E6z) |]

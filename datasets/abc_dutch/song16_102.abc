@@ -1,0 +1,29 @@
+X: 15101
+T: Wij leven vrij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 2582069273
+%%humdrum-veritas-data 2303589434
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c>GEC/ E/ |
+GGGG/ B/ |
+d>c B/ A/ G/ F/ |
+E2z).('E |
+DGGB |
+B>AGG/ B/ |
+dcBA |
+G>FE).('G/ F/ |
+ECEG |
+c>deG |
+AdcB |
+c2).('d2 |
+ecGA/ B/ |
+c3) |]

@@ -1,0 +1,27 @@
+X: 9078
+T: En er was eens een jager uit jagen gegaan, E [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3749488682
+%%humdrum-veritas-data 1424490848
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C/ C/ [I:setbarnb 1]|
+A G AF2F/ F/ |
+A G AF2).('F/ F/ |
+G ^F G c B G |
+F2>-F2 z) .('c/ c/ |
+c c c c d c |
+(c2=B)_B2).('B/ B/ |
+(G A) B B (A G) |
+(c2B)A2).('F/ F/ |
+F d c G B A |
+F2GA2).('c/ c/ |
+c d c G B A |
+F3z2) |]

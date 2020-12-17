@@ -1,0 +1,24 @@
+X: 2588
+T: Daar was eenmaal een koekoek Lie sal die lim [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 1832325811
+%%humdrum-veritas-data 1421714256
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+B A G B |
+(d B)G2) |
+.('G G/ G/ G G |
+G G/ G/ c G/ G/ |
+G2).('d2 |
+B A G B |
+d2d2 |
+d2d2 |
+G2) |]

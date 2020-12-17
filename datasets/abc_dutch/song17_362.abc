@@ -1,0 +1,30 @@
+X: 16361
+T: Word Fillis, door myn’ Zang ontwaekt, De zon [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 4023860121
+%%humdrum-veritas-data 254583791
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('Adf |
+(AG)F |
+(3(B/ A/ G/F)E |
+{E2}F3) |
+.('F^GA |
+(^Ge3/)d/ |
+(3(c/ B/ A/!trill!!trill!B3/)A/ |
+A3) |
+.('ABA |
+(^GE)F |
+(GA)G |
+(G2F)) |
+.('Bcd |
+{e f}g2f |
+e{d2}!trill!!trill!c2 |
+d3) :|]

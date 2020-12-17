@@ -1,0 +1,23 @@
+X: 4911
+T: Krui krui, wagentje Had ik maar een ragetje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 1012133244
+%%humdrum-veritas-data 1989640806
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E2G2F FE2 |
+E E G G F F E) .('B, |
+E2G FE4) |
+.('E E G FE2B, B, |
+E2G FE2B,2) |
+.('E F G A B B B B |
+c c c cB4) |
+.('A A A A G G G G |
+F2F2E4) |]

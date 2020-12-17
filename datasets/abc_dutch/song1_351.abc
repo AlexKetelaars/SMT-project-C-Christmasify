@@ -1,0 +1,52 @@
+X: 351
+T: Lavignone
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2639277659
+%%humdrum-veritas-data 627124990
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('A [I:setbarnb 1]|
+A2G |
+FE2 |
+D2A |
+B3) |
+.('A2d |
+^c2d |
+e2f |
+ed^c |
+d3) |
+.('ccc |
+c3 |
+AAA |
+A3 |
+FFF |
+c>BA |
+AG2 |
+F3 |
+!fermata!F2) |
+.('c [I:setbarnb 19]|
+cGc |
+cGc |
+!fermata!c3 |
+c2A |
+!fermata!A3 |
+A2G |
+G2A |
+F2G |
+E3) |
+.('AAG |
+F3 |
+BBA |
+G3 |
+cc=B |
+A2d |
+d^c2 |
+d3 |
+!fermata!d2) :|]

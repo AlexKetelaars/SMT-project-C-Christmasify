@@ -1,0 +1,46 @@
+X: 16341
+T: Tirsis zat in ‘t Bosch gedoken, Treurende, o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 4190160259
+%%humdrum-veritas-data 92519398
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: E clef=treble
+.('B2e2 |
+d2(cB) |
+(AB/ c/B)A |
+G2(FE)) |
+.('G2c2 |
+^A2B2 |
+c2d2 |
+(d2c2)) |
+.('c2d2 |
+e2(dc) |
+d2(cB) |
+^A2(GF)) |
+.('f3e |
+d2(cB) |
+(dc)(B^A) |
+B4) |
+.('B2=d2 |
+(=d2c)d |
+(cB)(AG) |
+A2(GF)) |
+.('F2(GA) |
+G2(FE) |
+B2G2 |
+(G2F2)) |
+.('B3A |
+G2(FE) |
+e2c2 |
+^A2B2) |
+.('A2(GF) |
+G2(FE) |
+(GF)(ED) |
+E4) :|]

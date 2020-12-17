@@ -1,0 +1,29 @@
+X: 10750
+T: ‘k Kwam er’s in het groene land, Daar zag ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:08
+%%humdrum-veritas 3089485253
+%%humdrum-veritas-data 1923245805
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C D E F |
+G G G) .('G |
+A G F E |
+E2D7//) .('D// |
+C D E F |
+E2D7//) .('D// |
+C D E F |
+E2D7//) .('C// |
+C D E F |
+G G G7//) .('G// |
+c2G7// F// |
+E2D7//) .('G// |
+c2G7// F// |
+(E2D2) |
+C2z2) |]

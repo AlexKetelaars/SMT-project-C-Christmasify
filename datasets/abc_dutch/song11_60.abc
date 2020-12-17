@@ -1,0 +1,15 @@
+X: 10059
+T: Ach vrienden, ‘oort mijn lied: In Pruisen is [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 3037070202
+%%humdrum-veritas-data 983702275
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A,D2FA2BA2).('cB2AGBA2<F2-F2).('AA>BAGFEF2G2<A2-A2).('ABBc(dc)BA2(^GFG2<)A2-A2).('AB2AB2c2<d2-d2).('d(dc)B(AB)cd2A=G2F2<E2-E2).('GF2EDAAB2A(GEF2<)E2-E2).('D(FG)Ad2d2<A2).('BcdA>FF(AG)E2<D2-D2) |]

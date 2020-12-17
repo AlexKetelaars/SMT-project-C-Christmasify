@@ -1,0 +1,16 @@
+X: 658
+T: Danct doch den Heer bidt sinen naem Vertelle [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1186939731
+%%humdrum-veritas-data 3390890454
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('A4A2A2(c2>B2AGABA2)G4F4E2F4z2).('F2A4A2d4c2(A2c2c2BAB4)A4).('A4A2A2(c2>B2AGABA2)G4F4E2F4z2).('F2A4A2d4c2(A2c2c2BAB4)A4) ]|:
+.('z2d2c2>B2A2>G2F4z2).('C2F2F2(GAB)GA4z2).('d2c2>B2A2GF2<(E2DEFG4FED4)C4).('c4A2>B2c2A2d4z2).('A2(A2G)FE2D2A4z2).('G2F2>E2F2E2D4c4(ABcAd2cBA4GFEDE4)D4) |]

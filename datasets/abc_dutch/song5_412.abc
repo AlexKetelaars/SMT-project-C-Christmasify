@@ -1,0 +1,26 @@
+X: 4411
+T: Ik ging er eens vrijen naar Amsterdam aju En [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 231152041
+%%humdrum-veritas-data 3571477320
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G A B |
+B2A (A G) A |
+G3-G2).('B/ B/ |
+d d d d c B |
+c2ce2).('c/ c/ |
+B B B/ B/ (B A) G |
+A2AA2).('d |
+B2B/ B/ c B c |
+d3).('e3 |
+d2d/ d/ c B A |
+G3-G2) |]

@@ -1,0 +1,32 @@
+X: 16284
+T: Fillis neen dat raedt gy niet, Dat ‘k alleen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3358934020
+%%humdrum-veritas-data 2470762539
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('d e [I:setbarnb 1]|
+f2 (3(e d c) B2 A2 |
+{A}B4z2) .('c d |
+(3(e d c) g2 (g2 f) e |
+(3(d c B) B2 z2) .('d =e |
+f2 (c d) (d2 c) B |
+(A B) c2 z2) .('c A |
+(3(d c B) (3(A G F) !trill!!trill!G3 F |
+F4z2) |
+.('(f d) [I:setbarnb 9]|
+=B2c4(e c) |
+A2B4).('c d |
+(e c) (d B) f2 d2 |
+(d2 c2) z2) .('(c d) |
+(e f)e4(d c) |
+(d e)d4).('c B |
+(3(A G F) (B c2<) !trill!!trill!c2 B |
+B4) :|]

@@ -1,0 +1,39 @@
+X: 11127
+T: Kees zit, van ‘s mórgens vroeg, In de kroeg. [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 2300047783
+%%humdrum-veritas-data 2792253398
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('A/ G/ [I:setbarnb 1]|
+FEFG |
+A2AA/ G/ |
+FGAB |
+c2c).('A/ B/ |
+cfcA/ B/ |
+cfcB/ c/ |
+d/ c/ B/ A<GF/ |
+F3).('e/ d/ |
+cABc |
+d2dd/ c/ |
+BGAB |
+c2c).('c/ d/ |
+ecde |
+fedc |
+BAGA |
+B/ A/ G/ F/E).('c/ d/ |
+eAAA |
+A3d/ e/ |
+fBBB |
+B3).('d/ c/ |
+BABG |
+A/ G/ A/ B/AE |
+A2(AG) |
+A3) |]

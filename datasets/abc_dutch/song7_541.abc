@@ -1,0 +1,30 @@
+X: 6540
+T: Eia, popeia, kookt kindekes pap; heb je geen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 4001104560
+%%humdrum-veritas-data 4212783216
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('C C C |
+E E E |
+D D D |
+C2z) |
+.('C C C |
+E E E |
+D D D |
+C2z) |
+.('E C C |
+C2C |
+E E E |
+E2z) |
+.('D D C |
+D D E |
+C C C |
+C2z) |]

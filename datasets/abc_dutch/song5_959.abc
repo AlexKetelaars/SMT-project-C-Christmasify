@@ -1,0 +1,26 @@
+X: 4958
+T: ’k ên etwat in my koffertje, Een nieuw ivoor [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 772019943
+%%humdrum-veritas-data 1142003996
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D2G G G G |
+G2GG2).('G |
+A2AA2A |
+F2ED2z) |
+.('D2G G G G |
+G G GG2G) |
+.('A A AA2A |
+F2ED2).('D |
+A3A3 |
+F2ED2z) |
+.('D E FG2A |
+G2FG2z) |]

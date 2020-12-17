@@ -1,0 +1,28 @@
+X: 12273
+T: Geeft Een Aalmoes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:23
+%%humdrum-veritas 1976789681
+%%humdrum-veritas-data 3589663404
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d>ecd) |
+.('!trill!!trill!d>cdd) |
+.('!trill!!trill!e>fg(f/ e/) |
+!trill!!trill!e>dd2) |
+.('!trill!!trill!f>gae) |
+.('!trill!!trill!e>deA) |
+.('!trill!!trill!f>gae) |
+.('!trill!!trill!e>deA) |
+.('a>a b/ a/ g/ f/ |
+!trill!!trill!e>dd2) |
+.('!trill!!trill!d>cBB |
+!trill!!trill!e>dcA) |
+.('!trill!!trill!d>efg/ f/ |
+!trill!!trill!e>dd2) :|]

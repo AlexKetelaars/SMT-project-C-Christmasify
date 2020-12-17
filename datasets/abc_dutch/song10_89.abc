@@ -1,0 +1,48 @@
+X: 9088
+T: Ik heb een hinneke in mijnen stal. En al de  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 612858695
+%%humdrum-veritas-data 1725384496
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A,D2E [I:setbarnb 1]|
+F3F2-F |
+A2GF2E |
+D3-D2).('F |
+A2AA2B |
+A2GG2G |
+G G G B B/- B/ B |
+A2GF2).('A, |
+D2DE2E |
+F2F B B B |
+A B A G F E |
+D3-D2).('A, |
+D2DE2E |
+F2F B B B |
+A B A G F E |
+D3-D2).('A, |
+D2FA2-A |
+A2AA3) |
+.('B2A(A2G) |
+G2GG3) |
+.('A2AG2-G |
+F2FF2-F) |
+.('G2GF2-F |
+D2DD2-D) |
+.('F2GA2-A |
+A2AA2-A) |
+.('B2-BF2-F |
+G2GG2-G) |
+.('A2AG2G |
+F2F/ F/F2-F) |
+.('G2GF2F |
+E2EE2E) |
+.('F2GA2A |
+A2AA2) |]

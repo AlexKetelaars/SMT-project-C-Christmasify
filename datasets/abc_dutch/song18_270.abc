@@ -1,0 +1,39 @@
+X: 17269
+T: suivons suivons la moer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3711460147
+%%humdrum-veritas-data 3794683712
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('ga [I:setbarnb 1]|
+g!mordent!!mordent!g3/f/ |
+eg(a/ g/) |
+(f/ e<)!mordent!!mordent!d(e// f//) |
+e).('ga |
+g!mordent!!mordent!g3/f/ |
+eg(a/ g/) |
+(f/ e<)!mordent!!mordent!de// f// |
+e).('g2 |
+zf2 |
+zeg |
+a/ d<!mordent!!mordent!dg/ |
+e).('e3/e/ |
+e!mordent!!mordent!d3/e/ |
+ff3/g/ |
+!mordent!!mordent!e>ed |
+c!mordent!!mordent!B3/A/ |
+A2).('e/ e/ |
+f!mordent!!mordent!f3/e/ |
+d3 |
+z).('g3/g/ |
+g!mordent!!mordent!f3/e/ |
+!mordent!!mordent!d>de |
+f!mordent!!mordent!d3/g/ |
+e) :|]

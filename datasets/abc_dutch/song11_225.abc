@@ -1,0 +1,31 @@
+X: 10224
+T: Daor achter in dat vensterlain, Doar lag n’n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 86674897
+%%humdrum-veritas-data 1597642503
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F G |
+A F F) .('G |
+A A G G |
+F3).('A |
+A G A/ A/ B |
+c2c) .('c |
+c c B B |
+A3z) |
+.('c2A A |
+c c/ c< A) .('A/ |
+B A B c |
+d c c3/) .('c/ |
+F F/ F/ F G |
+A3).('B |
+A A G G |
+F3) |]

@@ -1,0 +1,36 @@
+X: 8892
+T: “Wilhellemus al van Nassouwe,” God lof, nu i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 1267340352
+%%humdrum-veritas-data 1054729989
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G>AGG |
+A2d2 |
+B2A).('d |
+c2B2 |
+A>GAB |
+G2z).('D |
+G>AGG |
+A2d2 |
+B2A).('d |
+c2B2 |
+A>GAB |
+G2z).('D |
+GABc |
+dd(e/ d/) (c/ B/) |
+A2z).('D |
+G>AGG |
+A2d2 |
+B2A).('d |
+c2B2 |
+AGAB |
+G2z) |]

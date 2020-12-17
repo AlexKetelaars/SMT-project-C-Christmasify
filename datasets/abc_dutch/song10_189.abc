@@ -1,0 +1,39 @@
+X: 9188
+T: Wech op! Wech op! dat herte mijn, Dat heeft  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 2172239691
+%%humdrum-veritas-data 3809609650
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D [I:setbarnb 1]|
+D2FD2F |
+G2FF2).('F |
+A2GF2G |
+F2EE2).('E |
+D2FD2F/ F/ |
+G2FF2).('A |
+B2AF2D |
+E2DD2).('d |
+c2d B B c |
+B2AA2).('d |
+c2AF2A |
+G2FF2).('d |
+c2dB2c |
+B2AA2).('B |
+d2AF2D |
+(E2D)D2).('D |
+D D FD2F |
+G2FF2).('F |
+A A GF2G |
+F2EE2).('E |
+D2FD2F |
+G2FF2).('A |
+B2AF2D |
+E2DD2) |]

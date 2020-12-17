@@ -1,0 +1,50 @@
+X: 14798
+T: Mijn Bolero
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1892798692
+%%humdrum-veritas-data 3589666294
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2>A2 c A |
+d2>=B2 c A |
+G G/ A/ B G D E |
+G4F2) ||
+.('F3A/ B/ c A [I:setbarnb 6]|
+d2c =B c A |
+G2c2=B2 |
+c4z) ||
+.('A/ B/ [I:setbarnb 9]|
+c A A A d B |
+G A B G c3/ B/ |
+B4A2) |
+.('F2F F F F |
+_G G G G _A G |
+_G2F2F F |
+F2>_A2 G F |
+c4) ||
+.('c3/ B/ [I:setbarnb 17]|
+A2A2d c |
+B c B AG2 |
+G2G2c B |
+A B A GF2) |
+.('A2A2d c |
+B c B AG2 |
+G2G2c B |
+A B A GF2) ||
+.('F2>A2 c A [I:setbarnb 26]|
+d2>=B2 c A |
+G G/ A/ B G D E |
+G2F2).('D E |
+G4F C |
+F2>A2 c A/ A/ |
+d2>=B2 c A |
+G G/ A/ B G) .('D E |
+G4F) |]

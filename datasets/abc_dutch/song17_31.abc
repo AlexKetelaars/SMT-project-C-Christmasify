@@ -1,0 +1,30 @@
+X: 16030
+T: Se je vous aime
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:59
+%%humdrum-veritas 806802329
+%%humdrum-veritas-data 489310906
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d2B3c |
+A4A2 |
+d2e d c B |
+A4G2) |
+.('d2>d2 g f |
+e2>e2a2 |
+g f2<e2d |
+d6) |
+.('d2d e f f |
+d4d2 |
+c2>d2 c B |
+A4A2) |
+.('d2>c2 B A |
+B2>c2d2 |
+e2A3F |
+G6) :|]

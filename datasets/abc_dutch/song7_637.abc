@@ -1,0 +1,37 @@
+X: 6636
+T: Van mannen in Oorlog, van mannen in Vreê, Ou [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 4205514749
+%%humdrum-veritas-data 1182348872
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+(F> B) d> cB2A3/ G/ |
+F2E> DG3).('G |
+C2D> EF2B3/ G/ |
+F4D2z) .('F |
+(F> B) d> cB2A2 |
+(G> A) G> F=E3).('G |
+G2A Bc2F2 |
+(B2A G)A2).('F2 |
+G2A A2<c2B |
+(A2>G2)F2z) .('F |
+F2>A2c3B |
+(A G) (A B)c2z) .('A |
+A2>c2e3d |
+(c B) (A B)c2).('F2 |
+B2B2c2c2 |
+f2>e2d2).('B2 |
+G2e2d3c |
+B4z2).('F2 |
+B2B2c2c2 |
+f2>e2d2).('B2 |
+(G A) (B c2<)d2c |
+B4z2z) |]

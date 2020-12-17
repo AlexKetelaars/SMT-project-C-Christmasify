@@ -1,0 +1,27 @@
+X: 3292
+T: Is dat nait ain pot mit teer Joa dat is ain  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 2207728320
+%%humdrum-veritas-data 1191510780
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B c d ed2) |
+.('d> d d c B AG2) |
+.('G A B c d d/ e/d2) |
+.('d> d d c B A/ A< G) .('B/ |
+d d d B d d/ d/d2) |
+.('g2>f2 (f e)d2 |
+e2>d2 (d c)B2) |
+.('A2(B c) (d e) (c A) |
+G2(B A)G2).('!fermata!g3/ g/ |
+f/ f/ e d c B ed2) |
+[M:5/4].('d d/ d/ d d/ c/ B ed2).('!fermata!g3/ g/ |
+[M:4/4]f/ f/ e e d B ed2) |
+.('d d/ d/ d e/ f/ a gg2) |]

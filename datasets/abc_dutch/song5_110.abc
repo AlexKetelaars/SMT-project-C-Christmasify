@@ -1,0 +1,50 @@
+X: 4109
+T: Ommel Jan Bommel Jan Boertien is dood
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 2386534077
+%%humdrum-veritas-data 2362330895
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d d e e e |
+d d dB2).('c |
+d2de2e |
+d/ d/ d dB2).('e |
+d3B2).('e |
+d3B2).('e |
+d3B2).('e |
+d> d d/ d/B2).('e/ e/ |
+d2dB2).('e |
+d/ d/ d dB2e) |
+.('d3B2).('e |
+d> d d/ d/B2).('e/ e/ |
+d d dB2).('e |
+d> d d/ d/ B B e) |
+.('d3B3) |
+[M:2/4].('d d e e |
+d2B2) |
+.('c c c A |
+c2c) .('B |
+(3A A G A B |
+A2G) .('G |
+A A B B |
+A A G) .('G |
+A A B B |
+A2G3/) .('G/ |
+c c c G |
+B/ B/ B B3/) .('B/ |
+A G A/ A/ B |
+A2G) .('G/ G/ |
+[M:3/4]B2B2G) .('G |
+[M:2/4]A A B B |
+G7/).('G/ |
+c c c G |
+[M:3/4]B B B) .('B A G |
+[M:2/4]A2B2 |
+G4) |]

@@ -1,0 +1,28 @@
+X: 5475
+T: Isser iemant uyt Oostindien gekomen Die er w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3435520989
+%%humdrum-veritas-data 1432558404
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D E [I:setbarnb 1]|
+F2F2F2(G A) |
+B2D EF4 |
+B,2).('A B (c d) (e c) |
+d4z2).('D E |
+F2F2F2(G A) |
+B2D EF4 |
+B,2).('(A B) (c d) (e c) |
+d6).('(B c) |
+d2d2d2(c B) |
+G2G2G2).('(A B) |
+c2>B2 A A G G |
+E2).('(B c)d2c2 |
+B6) |]

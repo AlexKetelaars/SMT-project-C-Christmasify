@@ -1,0 +1,19 @@
+X: 2021
+T: In Engeland woont een koopman rijk en machti [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 364831909
+%%humdrum-veritas-data 416986889
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ G/ G/ A [I:setbarnb 1]|
+B2G2B B A G |
+F2D2z) .('d d d |
+A2d> c B d B A |
+G4z) |]

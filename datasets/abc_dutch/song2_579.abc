@@ -1,0 +1,30 @@
+X: 1578
+T: Ik heb zo lang met de rommelpot gelopen 'k H [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 89352131
+%%humdrum-veritas-data 2356776845
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('ddee/ e/ |
+d/ d/ d/ d/BG) |
+.('ddee |
+dd/ d/BG) |
+.('d/ d/ d/ d/e2 |
+e/ e/ e/ e/d2) |
+.('ccBG/ G/ |
+AAGz/) .('G/ |
+ddee |
+d2B).('B |
+ddee |
+d2Bz/) .('B/ |
+=ffff |
+eedz/) .('d/ |
+dcde |
+d/ d/ B/ B/B) |]

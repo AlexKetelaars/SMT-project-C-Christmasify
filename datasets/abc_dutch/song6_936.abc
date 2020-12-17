@@ -1,0 +1,25 @@
+X: 5935
+T: In Holland staat een huis, In Holland staat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 2752111225
+%%humdrum-veritas-data 4062023239
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G [I:setbarnb 1]|
+cBAB |
+c2).('e2 |
+dcBA |
+G/ ^F/ G/ A/G).('A |
+GAGA |
+G/ ^F/ G/ A/G).('G |
+ccdd |
+e).('cfd |
+c2B2 |
+c2z2) |]

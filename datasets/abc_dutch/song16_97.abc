@@ -1,0 +1,31 @@
+X: 15096
+T: Triomf, de vreugde stijgt ten top
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 1923835212
+%%humdrum-veritas-data 3789533014
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: E clef=treble
+.('B A [I:setbarnb 1]|
+G B, G B, G B, G B, |
+A B, A B,A2).('A G |
+F B, F B, F B, F B, |
+G B, G B,G2).('B G |
+E E E E F F F F |
+G G G GA2c2 |
+B4^A4 |
+B6).('B c |
+d/ B/ A/ F/ d/ B/ A/ F/ d/ B/ A/ F/ d/ B/ A/ F/ |
+e/ B/ G/ E/ B/ G/ E/ G/B2).('c B |
+A/ F/ D/ B,/ A/ F/ D/ B,/ A c B A |
+G/ E/ B,/ G,/ G/ E/ B,/ G,/G2).('A G |
+F2c2B2D2 |
+E4c4 |
+B2e2d2d2 |
+e6) |]

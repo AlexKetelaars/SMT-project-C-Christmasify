@@ -1,0 +1,54 @@
+X: 13825
+T: [Divert. 23.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 3100406620
+%%humdrum-veritas-data 1675702000
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('b2a g |
+g4 |
+g2f e |
+!trill!!trill!e2d2 |
+(d e) (e f) |
+f2g2 |
+!wedge!B2!wedge!c2 |
+!wedge!d2!wedge!e2 |
+!wedge!f2!wedge!g2 |
+e2z) .('b |
+(g4 |
+f2)z b |
+c4 |
+d2z D |
+E E E E |
+D D D D |
+A A A A |
+B2z) .('f |
+c2e d/ e/ |
+d2f2 |
+z2a g/ a/ |
+b2f2 |
+z2e d/ e/ |
+d2f2 |
+z2a g/ a/ |
+b2f2) |
+.('_a4 |
+g (=B c e) |
+(g4 |
+f) (A B d) |
+c g f/ e/ d/ c/ |
+B2b3/ B/ |
+c g f/ e/ d/ c/ |
+!wedge!B) .('(f g f) |
+f2e d/ e/ |
+!wedge!d (d e d) |
+d2c B/ c/ |
+B z {d/} c B/ c/ |
+B z {d/} c !trill!!trill!B/ c/ |
+B2z2) ||

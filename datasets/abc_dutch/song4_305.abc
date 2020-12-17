@@ -1,0 +1,23 @@
+X: 3304
+T: Es wollt[e] ein Mann in seine Heimat reisen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 3198972576
+%%humdrum-veritas-data 228739972
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D E F [I:setbarnb 1]|
+G2>B2 B B A B |
+c2A2z) .('D E F |
+G2>d2 d d B G |
+A4z) .('A A B |
+A2>B2 c d e d |
+d2B2z) .('d e d |
+d2>c2 D c B A |
+G4z) |]

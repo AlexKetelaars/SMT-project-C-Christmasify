@@ -1,0 +1,31 @@
+X: 2036
+T: Ik reed laatst met een wagen door het veld E [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 2558132991
+%%humdrum-veritas-data 1244649572
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+G2A> AB2A3/ A/ |
+G2F> ED2).('G A |
+B2d2c2B2 |
+B2A2z2).('B3/ c/ |
+d2d> BG2B2 |
+A> G F> ED2).('G A |
+B2d dc2B B |
+B2A2z3).('B |
+d> d d BG2A B |
+c> B c BA2).('D2 |
+G G/ G/ G A B B c c |
+B B A AG2z) .('B |
+d> d d BG2A B |
+c> c c BA2).('D2 |
+G G/ G/ G A B B c c |
+B B A AG2) |]

@@ -1,0 +1,24 @@
+X: 1470
+T: Moeder waar is Jan, daar ginter komt hij an. [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1113960541
+%%humdrum-veritas-data 789489566
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B c2<d2e |
+d c B A2<G2).('D |
+G A B c2<d2e |
+d2c cc2B) .('D |
+G A B c2<d2e |
+d c B AG2z) .('D |
+G A B c2<d2e |
+d2c ce2d) .('d |
+G A B c2<d2e |
+d c B AG2z2) |]

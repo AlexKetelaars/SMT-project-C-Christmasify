@@ -1,0 +1,36 @@
+X: 9704
+T: Hetgeen de natuur ons toont, dat ware liefde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3870869222
+%%humdrum-veritas-data 2704807100
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/2
+Q: 1/2=60
+K: Eb clef=treble
+.('C2C2C2C2 [I:setbarnb 1]|
+(G2B2A2)(G4F2) |
+G4z2).('C2D2E2 |
+F4(ED)G2F2E2 |
+!fermata!D4z2).('C2C2C2 |
+(G2B2)A2(G2F2)F2 |
+G6z4).('C2 |
+D4E2F2G2F2 |
+E4D2).('!fermata!F4ED |
+C4D2E4F2 |
+G4).('C2D4E2 |
+F4(ED)E4D2 |
+C2z4).('!fermata!F4ED |
+C4D2E4F2 |
+G4).('C2D4E2 |
+F4(ED)E4D2 |
+C4z2).('F4(ED) |
+C4D2E4F2 |
+G4).('CCD4E2 |
+F4F2E4D2 |
+G6-G6 |
+C6z6) |]

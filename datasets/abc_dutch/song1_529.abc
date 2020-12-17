@@ -1,0 +1,29 @@
+X: 529
+T: ‘t Slapen is maar voor de nagt En lang genoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1154948749
+%%humdrum-veritas-data 3267470866
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('F>EDA |
+A^GA).('D |
+F>EDA |
+A^GA).('d |
+d^cd(A/ G/) |
+FED2) |
+[M:3/2].('AcBA2).('A |
+_B2BA2).('A |
+G2FF2z) |
+[M:2/2].('z2F/ E/ F/ G/ |
+AAG3/^F/ |
+^F2).('A/ G/ =F/ E/ |
+DGF/ E/ F/ G/ |
+Ad^c3/c/ |
+d4) |]

@@ -1,0 +1,47 @@
+X: 5832
+T: Ontwaakt, loopt, herders, dezen nacht, Verla [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1428612502
+%%humdrum-veritas-data 3884056097
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) [I:setbarnb 1]|
+B2A |
+G2B |
+d2(d/ c/) |
+B2).('A |
+G2A |
+(Bc)d |
+(d2^c) |
+d2).('(G/ A/) |
+B2A |
+G2B |
+d2(d/ c/) |
+B2).('A |
+G2A |
+(Bc)d |
+(d2^c) |
+d2z) |
+.('dBd |
+(cB)A |
+G2A |
+D2).('B |
+d2c |
+c2d |
+B3 |
+A2z) |
+.('dBd |
+(cB)A |
+G2A |
+D2).('d |
+(gf)e |
+(dc)B |
+(B2A) |
+G2) |]

@@ -1,0 +1,38 @@
+X: 1490
+T: Vastenavond die komt aan, dat men de gans za [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2107112343
+%%humdrum-veritas-data 1337694677
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D G G G F GA2 |
+B G/ G/ A FA2G3/) .('D/ |
+D G G G/ G/ F GA2 |
+B G/ G/ A FA2G2) |
+.('D G G G F/ F/ G A A/ A/ |
+B G A FA2G2) |
+.('D G G G/ G/ F GA2 |
+D A A A/ A/ G AB2) |
+.('c c B GA2G2 |
+c c B B A/ A/ A G/ G/) .('G/ G/ |
+c c B GA2G2 |
+G G/ G/ G G/ G/ F GA2) |
+.('D AA2G AB2 |
+c c B B A AG2) |
+.('D G G G/ G/ F/ F/ F/ G/ A A) |
+.('D A A A G A B B) |
+.('c/ c/ c/ c/B2A/ A/ A/ A/d2) |
+.('c c/ c/ B B A AG2) |
+.('D/ D/ G G G F/ F/ G A A |
+B/ B/ G A FA2G2) |
+.('D G G G F/ F/ G A A/ A/ |
+B G A FA2G2) |
+.('c/ c/ c B B A/ A/ Ad2 |
+c c B B A/ A/ AG2) |]

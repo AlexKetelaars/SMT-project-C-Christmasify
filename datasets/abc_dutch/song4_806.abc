@@ -1,0 +1,29 @@
+X: 3805
+T: Ach hemel ik bespeur Dat ik niet meer kan leven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 1344312534
+%%humdrum-veritas-data 2450795127
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+gdBd |
+g3).('b |
+a>dd3/c/ |
+cB2).('d |
+gdBd |
+g3).('b |
+a>dd3/c/ |
+[M:6/4]cB2).('ABc |
+[M:4/4]d>ed).('d |
+cBcd |
+B).('GGB |
+[M:6/4]d>ed3).('d |
+[M:4/4]cBcd |
+B3) |]

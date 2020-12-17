@@ -1,0 +1,36 @@
+X: 12429
+T: Ag zoete meisjes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 2244711890
+%%humdrum-veritas-data 3581115493
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('gf/ e/ [I:setbarnb 1]|
+decd |
+!trill!!trill!B>cd).('G |
+cB/ c/ A/ B/ c/ d/ |
+BG).('gf/ e/ |
+decd |
+!trill!!trill!B>cd).('G |
+cB/ A<!trill!!trill!AG/ |
+G2) |
+.('gf/ g/ [I:setbarnb 9]|
+ad).('gf/ g/ |
+ad).('gf/ g/ |
+a/ g/ f/ g/ a/ g/ f/ g/ |
+ad).('gf/ e/ |
+decd |
+!trill!!trill!B>cd).('G |
+cB/ c/ A/ B/ c/ d/ |
+BG).('gf/ e/ |
+decd |
+!trill!!trill!B>cd).('G |
+cB/ A<!trill!!trill!AG/ |
+G2) :|]

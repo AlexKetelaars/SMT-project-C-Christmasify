@@ -1,0 +1,29 @@
+X: 12044
+T: Saraband
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 401771690
+%%humdrum-veritas-data 3922239251
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('G>A^F |
+G>AB |
+d>c_e |
+c2B) |
+.('g>ab |
+f>_ed |
+_ef/ e/d |
+c2B) |
+.('g>FB |
+c>d _e/ d/ |
+c>BB) |
+.('B/ A/GA |
+^F>dd |
+_cd/ =c/B |
+A2G) :|]

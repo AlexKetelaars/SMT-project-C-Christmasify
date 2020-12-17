@@ -1,0 +1,67 @@
+X: 16927
+T: [Als men eens het oog laat wegen] Vers 2
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 1166901206
+%%humdrum-veritas-data 3217977602
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('(AB)c |
+(Bc)(d/ e/) |
+c2(B/ A/) |
+A>B c/ d/ |
+e2e |
+e>d c/ B/ |
+A>B c/ d/ |
+e2e |
+f2(e// f// g/) |
+f2e |
+e3) |
+.('(!mordent!!mordent!AB)c |
+(Bc)(d/ e/) |
+c2(B/ A/) |
+A>B c/ d/ |
+e2e |
+e2e |
+f2(e// f// g/) |
+f2e |
+e3) |
+.('!mordent!!mordent!c2d |
+e/ f/ e/ d/ c/ d/ |
+B2B |
+B2B |
+cd/ c/ B/ A/ |
+^G2E) |
+.('e2e |
+f2e |
+d2c |
+d2d |
+(ed)c |
+d/ e/ d/ c/B |
+(!mordent!!mordent!cB)B |
+c/ d/ c/ B/A) |
+.('(ed)c |
+(fe)(d/ c/) |
+B2B |
+c3 |
+A>c B3// d// |
+c>e d3// f// |
+(ed)c |
+(dc)B |
+c2d |
+edc |
+B2B |
+^G2G) |
+[M:2/4].('A/ ^G// A// B/ A// B// |
+c/ B// c// d/ c// d// |
+e2) |
+[M:3/4].('(eB)B |
+(cA)A |
+A2^G |
+A3) |]

@@ -1,0 +1,26 @@
+X: 7291
+T: Het windetje die uyt den oosten waeyt, Lief, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 1449274918
+%%humdrum-veritas-data 1288243724
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A> A A A B c d3/ c/ |
+B4z2).('e3/ d/ |
+c2c c B c (d3/ c/) |
+B2>z2).('B2B B |
+c2B cA2A B |
+{A}^G4z2z) .('A |
+A A A Bc2B A |
+(G F) E z) .('E> F G G |
+G F E z) .('c c c d |
+e2d c (c B) A B |
+{B} (A ^G) A z) |]

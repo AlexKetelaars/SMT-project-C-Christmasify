@@ -1,0 +1,23 @@
+X: 3251
+T: Ik ben er de groenebos paden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 3713686782
+%%humdrum-veritas-data 3978284737
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+G B d d e d |
+B A zz2).('B |
+G A B A G G |
+Dz2z2).('B |
+c d e e d c |
+e2>g2 z) .('B/ B/ |
+d e d e d A |
+G3z2) |]

@@ -1,0 +1,30 @@
+X: 16155
+T: Dat ‘s Wyn, dat ‘s Wyn, rechte Medecyn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 7434945
+%%humdrum-veritas-data 2173668039
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('G,2 [I:setbarnb 1]|
+E,2G,2C,2D, E, |
+(F, E,) (D, C,)B,2).('C B, |
+A,2>A,2A,2B, C |
+(D2G,2D,3)D, |
+G,6) |
+.('G, F, [I:setbarnb 6]|
+E,2E, D,^C,2A, G, |
+F,2>E,2D,2D,2 |
+G,2_B,2A,2A,2 |
+D,6).('G, F, |
+E,2>D,2B,2C B, |
+(A, B, A, G,) (F, G, F, E,) |
+D,2>-D,2D,2-D,2 |
+A,2F,2G,3G, |
+C,6) ||

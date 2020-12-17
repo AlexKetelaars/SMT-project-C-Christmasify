@@ -1,0 +1,31 @@
+X: 6518
+T: Arm en nedrig is mijn hutje, Maar de rust en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 1416407758
+%%humdrum-veritas-data 1152814472
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F/ A/ [I:setbarnb 1]|
+cccc |
+AFz).('G/ A/ |
+B>cA3/B/ |
+G2z).('F/ A/ |
+cccc |
+AFz).('c/ d/ |
+e>cd3/=B/ |
+c2z).('A/ G/ |
+F>GA(d/ c/) |
+cBz).('B/ G/ |
+E>Gc3/B/ |
+(BA)z).('A/ B/ |
+c>cf3/e/ |
+edz).('B/ A/ |
+G>Gc(B/ G/) |
+F2z) |]

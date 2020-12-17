@@ -1,0 +1,42 @@
+X: 7
+T: 'tHert is my benout, Benout (helaes!) tot in [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:28
+%%humdrum-veritas 1386361717
+%%humdrum-veritas-data 1010462171
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2f2 |
+e^cA).('a |
+gfed |
+^cAA2) |
+.('fd^cA) |
+.('GFED) |
+.('Add^c |
+d4) |
+.('A2f2 |
+e^cA).('a |
+gfed |
+^cAA2) |
+.('fd^cA) |
+.('GFED) |
+.('Add^c |
+d4) |
+.('f/ g/a).('e/ f/g) |
+.('d/ f/ e/ d/^cA) |
+.('F/ G/A).('E/ F/G) |
+.('D/ F/ E/ D/^CA,) |
+.('d/ e/ f/ g/ a/ f/d) |
+.('D/ E/ F/ G/ A/ F/D) |
+.('f/ g/ a/ _b/ c'/ a/f) |
+.('F/ G/ A/ _B/ c/ A/F) |
+.('a2gf |
+e>d^c).('A |
+Bdd^c |
+d4) |]

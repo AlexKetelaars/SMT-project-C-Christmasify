@@ -1,0 +1,41 @@
+X: 13374
+T: Un jour Lisette allait aux Champs
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 2069714106
+%%humdrum-veritas-data 935103330
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E G c [I:setbarnb 1]|
+e2e d c d |
+c2>).('G2 A G |
+G A G G A G |
+G2>).('E2 G c |
+e2e (d c) !wedge!d |
+c c G g ^f e |
+d c AG2^F |
+G2zz2).('G |
+(d2Bc2)G |
+(f2d)e2G |
+d2Bc2e |
+G2>).('c2 d e |
+c2>c2 d e |
+c2c d f d |
+c3B2d |
+c2>).('c2 d e |
+c2>c2 d e |
+c2c d f d |
+c3B2d |
+e2e d f d |
+c3B2).('d |
+c2ag2).('a |
+g a/ g/ f/ e/ d/ c/ d/ e/ f/ d/ |
+e2).('ag2a |
+g a/ g/ f/ e/ d/ c/ d/ e/ f/ d/ |
+c3) |]

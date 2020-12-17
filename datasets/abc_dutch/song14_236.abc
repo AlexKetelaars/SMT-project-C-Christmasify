@@ -1,0 +1,49 @@
+X: 13235
+T: Un jour pur éclairoit mon Ame J’ unisois l’  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 2841738185
+%%humdrum-veritas-data 2777664274
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('(c d) (c B) |
+A4 |
+A F B G |
+c2A2 |
+(A B) (c d) |
+c2(c/ B/) (A/ G/) |
+F2E2 |
+F4) |
+.('(c d) (c B) |
+A4 |
+A F B G |
+(c/ d/ c/ B/)A2 |
+(A B) (c d) |
+c2{c/} B (A/ G/) |
+F2E2 |
+F4) |
+.('(c A) A A |
+c A c A |
+(c/ B/ A/ B/)G2 |
+C2F A |
+c4 |
+{B c} d c B A |
+(A2G2) |
+A2A B |
+A2{B A}G2 |
+B2B c |
+c/ B/ A/ B/A2) |
+.('c3c |
+d4 |
+B> A B3/ d/ |
+c4 |
+A2c2 |
+(c/ B/ A/ B/) (c/ B/) (A/ G/) |
+F2E2 |
+F4) |]

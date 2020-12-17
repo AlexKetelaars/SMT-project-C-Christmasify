@@ -1,0 +1,30 @@
+X: 16329
+T: Myn lief die ‘k min tot in myn Ziel, Ach of  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 4255444966
+%%humdrum-veritas-data 3159740205
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2d2F2 |
+(G2e2){d}c2 |
+(A2(3f e d) (3(c B A) |
+{A2}B6) |
+.('(d f2<)f2d |
+(c2B2)A2 |
+(3(d c B {A}!trill!!trill!G3)F |
+F6) |
+.('F2f2d2 |
+(=B2c2)e2 |
+(A2B/ c/ d/ e/ f) d |
+(d4{c d}c2)) |
+(3.('(c d e)e4 |
+(3(d e f)f3e |
+(3(d e fB2)A2 |
+{A2}B6) :|]

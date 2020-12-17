@@ -1,0 +1,26 @@
+X: 4462
+T: Kom vrienden hier in het ronde staan Kom en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 560271827
+%%humdrum-veritas-data 2738948239
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+B B A A B B z) .('B |
+B BB2A2c B |
+A2G4).('D2 |
+G A B A G A !fermata!B) .('B |
+B BB2A2c3/ B/ |
+A2G4z) .('D/ D/ |
+c c A A2<B2).('G |
+G G A G (3(G F E) (3D G A |
+B4)(3.('G G G A3/ B/ |
+c4).('B> B B3/ d/ |
+B> A A> BA2G2) |]

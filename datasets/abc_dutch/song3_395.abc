@@ -1,0 +1,29 @@
+X: 2394
+T: Ik ben van deze morgen vroeg opgestaan Ik be [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 2446931293
+%%humdrum-veritas-data 1658315769
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B/ [I:setbarnb 1]|
+AG/AB/ |
+(AB/) (c/ d/) e/ |
+d3/c3/ |
+B3/-B).('B/ |
+AG/AB/ |
+(AB/) (c/ d/) e/ |
+d3/c3/ |
+B3/-Bz/) |
+[M:9/8].('(df/)ed/ e/ d/ c/ |
+[M:6/8]d3/Ac/ |
+B3/-B3/) |
+[M:9/8].('(df/)ed/ e/ d/ c/ |
+[M:6/8]d3/AB/ |
+G3/-G3/) |]

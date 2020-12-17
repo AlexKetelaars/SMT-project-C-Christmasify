@@ -1,0 +1,40 @@
+X: 4780
+T: Alweer een nieuwe koning steek uit de hand,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 65743505
+%%humdrum-veritas-data 2569303647
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G A B cd2e c |
+B2A2G3).('c |
+B2A2G4) |
+.('G B/ B/ d B/ B/ c A/ A/ B G) |
+.('G B/ B/ d B/ B/ c A G3/) .('d/ |
+d B/ B/ d B/ B/ A/ c/ B/ A/G2) |
+.('c2B2A2G2) |
+.('c2B2A2G2) |
+.('c/ c/ c/ c/ B/ B/ B/ B/ A/ A/ A/ A/G2) |
+.('c2B2A AG2) |
+.('c/ c/ c/ c/ B/ B/ B/ B/ A A G) .('G |
+c G/ G/ G G c G/ G/ G) .('G |
+A A d dB2G2) |
+.('c G/ G/G2c GG2) |
+.('c G/ G/G2c/ c/ G/ G/G2) |
+[M:6/8].('d> e d/ c/ B A G |
+A A A B G G) |
+.('d> e d/ c/ B G G |
+A A AG3) |
+[M:4/4].('AA2A BB2B |
+[M:6/8]d> B AB3) |
+[M:4/4].('AA2A BB2B |
+[M:6/8]d> B AB3) |
+[M:4/4].('G B/ c< d B/ c A/ A/ B G) |
+.('G B/ c< d e/ d/ c/ B/ A/G2) |]

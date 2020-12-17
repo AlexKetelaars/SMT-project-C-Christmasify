@@ -1,0 +1,37 @@
+X: 16780
+T: den edelman
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 4233674875
+%%humdrum-veritas-data 3945907340
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2d2 |
+dcBA |
+BGAF |
+G3d |
+g>f e/ f/ e/ d/ |
+^c2Ae |
+agfe |
+f2gf/ g/ |
+ade^c |
+!fermata!d4) |
+.('aaea |
+f2d2 |
+gagf |
+e3f |
+d3A) |
+.('dc/ B/Ad |
+B3G |
+cdef |
+g2e2 |
+abag |
+fdga |
+ba/ g/ f/ g/ a/ f/ |
+g3) |]

@@ -1,0 +1,61 @@
+X: 10865
+T: Eén. Als ‘t kindje Jezus op de wereld kwam,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1435310835
+%%humdrum-veritas-data 4281949303
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('z2B2 |
+z B B3/ B/ |
+B/ B/ B/ B/ c c |
+d B/ B/ c c |
+d2z2) |
+.('B2G z |
+z2d c |
+B2c2 |
+A2z2) |
+.('B2G B |
+(3B> B B B B |
+c2d B |
+c2d2) |
+.('B2G z |
+d2c B |
+A2z2) |
+.('B2G B |
+(3d d d d3/ d/ |
+c> cB2) |
+.('B2G z |
+d> d d3/ d/ |
+c> cA2) |
+.('B2G z |
+(3B B B (3c c c |
+c2d B |
+c2d2) |
+.('B2G d |
+d2(c B) |
+A2z2) |
+.('B2G z |
+(3B> d d (3d> d c |
+c2B z) |
+.('B2G B |
+d> d d3/ d/ |
+c2A2) |
+.('B2G B |
+d> d d3/ d/ |
+c2A2) |
+.('B2G B |
+(3d> d d d3/ d/ |
+c> cA2) ||
+.('(B> A) G B [I:setbarnb 43]|
+(3d d d (3d d d |
+(3c> c cA2) |
+.('B> A G z |
+(3d d d d3/ d/ |
+c2A2) |]

@@ -1,0 +1,24 @@
+X: 1448
+T: Anoeska, mijnheer kap’laan kom vertellen wat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 772702717
+%%humdrum-veritas-data 1140062115
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G2>A2 B G |
+E6).('c c |
+B2G2A G F A |
+G G G GG2) ||
+.('D E [I:setbarnb 5]|
+G2G2G2A2 |
+B2G4).('E E |
+A A A AA2B2 |
+c2A2z2) :|]

@@ -1,0 +1,30 @@
+X: 17030
+T: menuet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1618101397
+%%humdrum-veritas-data 3436465098
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('dfd |
+a2f |
+ga2 |
+!mordent!!mordent!f2d) |
+.('dfd |
+a2e |
+f!mordent!!mordent!f3/e/ |
+e3) |
+.('efd |
+g2e |
+^cd3/e/ |
+!mordent!!mordent!e2A) |
+.('dfd |
+gec |
+d/ e<!mordent!!mordent!ed/ |
+d3) :|]

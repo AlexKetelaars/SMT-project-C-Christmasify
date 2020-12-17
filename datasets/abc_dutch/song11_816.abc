@@ -1,0 +1,27 @@
+X: 10815
+T: Daar buiten in die velden daar staat een herenhuis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1917319507
+%%humdrum-veritas-data 1663258357
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('(G3/ F/) [I:setbarnb 1]|
+E2>F2G2A2 |
+G2F4).('A2 |
+A2>A2B2(d B) |
+A6z2) |
+.('B4B2d2 |
+(A> B) A> G F A) .('A A |
+B2(E> F)G2A2 |
+F6z2) |
+.('B4B2d2 |
+(A> B) A> G F A) .('A A |
+B2(E> F)G2A2 |
+D6) |]

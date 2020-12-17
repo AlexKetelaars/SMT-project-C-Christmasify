@@ -1,0 +1,28 @@
+X: 6740
+T: ‘k Heb een groot fortuun gedaan Met mijn twe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:31
+%%humdrum-veritas 836930477
+%%humdrum-veritas-data 2214379915
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D D D D [I:setbarnb 1]|
+G2GG2G |
+G z) .('G A A A |
+A A GF2E |
+D z z).('A2A |
+A2Bc2B |
+B2A).('A2A |
+A2B c B B |
+B2A) ||
+.('G3 [I:setbarnb 9]|
+G2>(G2 F E) |
+D2z) .('D E F |
+G A B c B A |
+G2z) |]

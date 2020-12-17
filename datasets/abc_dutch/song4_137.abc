@@ -1,0 +1,22 @@
+X: 3136
+T: En zondag en zondag dat is de dag des Heren  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 4275137228
+%%humdrum-veritas-data 2319574236
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2B ed2B d |
+g g f ed2d d |
+(e2f2)g2z) .('d |
+(3g g g e e f f d d |
+e e ^c Ad2d2) |
+(3.('B B B B B/ B/ (3c e ed2) |
+(3.('g g g g g/ g/ (3g b a!fermata!g2) |]

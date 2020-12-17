@@ -1,0 +1,30 @@
+X: 9831
+T: Nel die was geschoven met haar wieltje nevens Jan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 3598411155
+%%humdrum-veritas-data 271943461
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F> G A G |
+F2C2) |
+.('F G A G |
+A B c) .('c/ c/ |
+G B A G |
+F2C2) |
+.('D D E C |
+F2z2) |
+.('G> B A G |
+F CC2) |
+.('G G/ G/ A B |
+c c A F) |
+.('G> B A G |
+F cc2) |
+.('G c E G |
+F2z2) |]

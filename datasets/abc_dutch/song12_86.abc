@@ -1,0 +1,32 @@
+X: 11085
+T: Vaarwel Amie, mon grande bon Confreere. Vaar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1254346843
+%%humdrum-veritas-data 617637961
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z A [I:setbarnb 1]|
+d4^c4 |
+d6z A |
+_B> A G> FE4 |
+[M:3/4]D4).('(D E) |
+[M:2/2]F2>G2A3B |
+c> B c> d e^c2).('d |
+e2>A2A3B |
+c2(d c2<)B2A |
+A6).('A2 |
+A2>B2c4 |
+z2d2c3B |
+A2G2A2F2) |
+.('z2F2E2D2 |
+A2>B2 c> B c3/ d/ |
+e2^c2).('(d e f d) |
+d2>^c2d4- |
+d6) |]

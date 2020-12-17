@@ -1,0 +1,25 @@
+X: 44
+T: Waer om maeckt zich menich moe En brengt hee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 804697308
+%%humdrum-veritas-data 2263810379
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('B>cBA2G |
+G2^FG2z) |
+.('B>cBA2G |
+G2^FG2z) |
+.('G>A B/ c/d2d |
+d2cB2).('d/ e/ |
+f2BB3) |
+.('G>A B/ c/d2d |
+d2cB2).('c |
+c2dG2B |
+A>G^FG3) |]

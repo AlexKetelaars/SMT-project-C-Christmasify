@@ -1,0 +1,16 @@
+X: 855
+T: Die goetheyt van myn Heer Sal ick hier altyt meer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 1590618560
+%%humdrum-veritas-data 2602541555
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('G4G2G2A2G2G4z2).('G2A2B2c2A2B4).('A4A2A2(d2>c2BA)B4(c2>B2G2A2)A2G4) |
+.('z2c2c3c2d2c2B2B2A4z2).('A2A2A2F2A4_B2G2G2F4z2).('c2c3A2c2d2(e2dc)d2c2z2).('e2e2e2d2c2=B3A2G2z2).('G2A2G2c4B2A2>G2E2F2F2E4) ||

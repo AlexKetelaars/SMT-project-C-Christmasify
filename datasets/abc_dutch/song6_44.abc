@@ -1,0 +1,35 @@
+X: 5043
+T: Laatst was ik op een kopje thee Hier bij mij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 3824532567
+%%humdrum-veritas-data 2137451595
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F F F [I:setbarnb 1]|
+C2CD2D |
+C2>).('F2 E F |
+G2FB2A |
+A2G) .('G G G |
+G2Gc2G |
+G2>).('F2 E D |
+C2FE2D |
+D2C) .('A, B, =B, |
+C2C (C D) _E |
+D3).('D2_E |
+F2_ED2E |
+F2).('F _A G F |
+_A G F F G _E |
+D2>).('C2 D _E |
+B,2_AG2F |
+_E2).('E _A G F |
+_A G F F G _E |
+D2>).('C2 D _E |
+B,2_AG2F |
+_E3) |]

@@ -1,0 +1,29 @@
+X: 3904
+T: Christenmens wilt toch opmerken En luister n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1632005416
+%%humdrum-veritas-data 692421412
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('GB [I:setbarnb 1]|
+d2d2e3/d/ |
+d2c).('BAB |
+c2e2d^c |
+d2>).('c2Bc |
+d2d2gg |
+f2e>).('cce |
+d2d2cA |
+B2>).('G2GB |
+d2d2e3/d/ |
+d2c).('BAB |
+c2>).('A2AB |
+[M:4/2]c2>B2BBcd |
+[M:3/2]f2e).('eA3/c/ |
+B4) |]

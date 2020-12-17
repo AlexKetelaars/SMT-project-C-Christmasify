@@ -1,0 +1,30 @@
+X: 13311
+T: Air allemande
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 3034847350
+%%humdrum-veritas-data 2427844794
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ B/) [I:setbarnb 1]|
+d/ e/ d/ ^c/ d/ e/ d/ c/ |
+d B G B |
+A c D E/ F/ |
+G B d B |
+A c D E/ F/ |
+G2z) :|]
+.('B [I:setbarnb 7]|
+A A B B |
+c c B B |
+A A B B |
+c c B B |
+A A B B |
+c zz2 |
+B2z2 |
+!fermata!A2z) |]

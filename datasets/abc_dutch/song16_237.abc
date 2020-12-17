@@ -1,0 +1,32 @@
+X: 15236
+T: Ik wensch, dat jou de duivel haal
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2419959430
+%%humdrum-veritas-data 822771922
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: E clef=treble
+.('B [I:setbarnb 1]|
+c B A G |
+F ^E F G |
+B A C D |
+E2z) :|]
+.('G [I:setbarnb 5]|
+F F G ^A |
+B F d d |
+e c G ^A |
+B d/ c/ B B) |
+.('c B A F |
+G B e B |
+d c B A |
+G2z) .('B |
+c B A F |
+G B e B |
+d c A D |
+E2z) |]

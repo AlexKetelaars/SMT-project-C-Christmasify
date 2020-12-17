@@ -1,0 +1,29 @@
+X: 3657
+T: Hoe een zeker jeugdig jongeling Die hier zij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 2541429609
+%%humdrum-veritas-data 1833243109
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('DG2F [I:setbarnb 1]|
+A2F A A B |
+[M:9/8](A2F2<)A2-A2).('A |
+D2FA2Be2d |
+B3-B3).('G2B |
+[M:6/8]d e dc2B |
+(A2B)c3- |
+c2).('ed2c |
+[M:9/8]B3-B2G (A B) A |
+G3-G3).('G2B |
+[M:6/8]d e dc2B |
+(A2B)c3- |
+c2).('ed2c |
+[M:9/8]B3-B2G (A B) A |
+G3-G3) |]

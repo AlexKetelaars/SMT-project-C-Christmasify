@@ -1,0 +1,48 @@
+X: 14722
+T: Bataafsche Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 3507080914
+%%humdrum-veritas-data 1503714973
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d2e/ d/ c/ d/ |
+B3d |
+A> B A G |
+G2F) .('A |
+d2e f |
+e3d/ c/ |
+B2c d |
+d2c) .('e |
+e2d/ c/ B/ A/ |
+^G3A |
+B c d e |
+d2c) .('A |
+d2d/ c/ B/ A/ |
+d2f2 |
+e2c e |
+e/ d/ c/ B/ d/ c/ B/ A/ |
+E3).('B |
+=c2e d/ c/ |
+B3(e/ d/) |
+c2d/ c/ B/ A/ |
+d3).('A |
+B c d e |
+f2d f |
+e (f/ d/) c !trill!!trill!B |
+A3).('A |
+d2e/ d/ c/ d/ |
+B3d |
+c d c d |
+A3).('A |
+d2e f |
+e2B g |
+f2f/ e/ d/ e/ |
+d3) |]

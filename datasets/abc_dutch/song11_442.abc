@@ -1,0 +1,23 @@
+X: 10441
+T: Nachtegaaltje, klein vogeltje koen, Van je l [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 2178194997
+%%humdrum-veritas-data 1196732799
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B2B2B B |
+G GF2E2).('B, B, |
+E2F2G2F2 |
+B B B AG2F2) |
+.('G2G FE2F G |
+E2D2E4- |
+E2).('D CB,4 |
+B, B, ^C ^DE4- |
+E8) |]

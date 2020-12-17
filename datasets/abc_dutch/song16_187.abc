@@ -1,0 +1,31 @@
+X: 15186
+T: Vooruit, Mina
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2527564821
+%%humdrum-veritas-data 1895577450
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c [I:setbarnb 1]|
+c2=BB2_B |
+B2AA2A |
+G2G G A B |
+d2cc2).('c |
+c2=BB2_B |
+B2AA2A |
+G A B d c E |
+F3z2).('G |
+G A =B c B A |
+G2EG2G |
+F E F D E F |
+A3G2).('G |
+G A =B c B A |
+G2EG2c |
+=B A G F E D |
+C3z2) |]

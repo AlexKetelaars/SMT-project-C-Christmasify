@@ -1,0 +1,27 @@
+X: 3329
+T: Er hing een heertje al uit zijn venster al u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 764874786
+%%humdrum-veritas-data 3549836826
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D G3/ B/ [I:setbarnb 1]|
+d2d> e d3/ e/ |
+d2B>) .('d e3/ d/ |
+d2>c2 d3/ c/ |
+B2>).('g2 g g |
+e d c c c3/ c/ |
+d2d) .('d d e |
+f2>e2 c A |
+G2>).('g2 g g |
+e2c2c3/ c/ |
+d2).('z d d e |
+f f e d c A |
+Gz2) |]

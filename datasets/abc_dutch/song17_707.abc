@@ -1,0 +1,30 @@
+X: 16706
+T: Aij mij Bellinde waerom verlaet gij mij gaet [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 4098928281
+%%humdrum-veritas-data 3325762490
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('g>ab |
+adg |
+^f2g |
+(a/ g/) (a/ b/)a) |
+.('g>ab |
+adg |
+^f2g |
+a3) |
+.('fff |
+f>_ed |
+f(g/ f/) (_e/ d/) |
+c2B) |
+.('d(_e/ d/) (c/ B/) |
+c(d/ c/) (B/ A/) |
+B(c/ B/) A/ G/ |
+A2G) :|]

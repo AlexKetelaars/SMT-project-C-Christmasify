@@ -1,0 +1,44 @@
+X: 3509
+T: Er kwamen drie kanonnetjes aan Van ome ome diese.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 2569976708
+%%humdrum-veritas-data 3215820333
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('d2dd2e |
+d2dd2e |
+d3d2e |
+d2dd3) |
+.('B2Bc2c |
+e3d3) |
+[M:2/4].('B B c c |
+e2d2) |
+.('B B c c |
+e ed2) |
+.('B B c c |
+e ed2) |
+.('B B c c |
+e2d2) |
+[M:6/8].('B2Bc2c |
+e3d3) |
+.('B2Bc2c |
+[M:2/4]e ed2) |
+[M:6/8].('B2Bc2c |
+e2ed3) |
+.('B2Bc2c |
+e3d3 |
+e3d3) |
+.('B2BB2c |
+e3d3 |
+e3d3) |
+[M:2/4].('B B B B |
+d d d) .('B |
+B B/ B/ B/ B/ B |
+G G G) |]

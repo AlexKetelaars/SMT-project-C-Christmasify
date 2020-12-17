@@ -1,0 +1,62 @@
+X: 411
+T: Amarilli mia bella
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 639243022
+%%humdrum-veritas-data 1100075103
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('a2e2f4 |
+e2d2e4 |
+e4z2).('a2 |
+g2e2g2f2 |
+e4a4- |
+a2g gg4 |
+f4a4)- |
+.('a2e2e2e e |
+e8 |
+d8) |
+.('a2e2f a d f |
+e2d2e A ^c d |
+e4z2).('a2 |
+g c e f g a f g |
+e e f g a A F G |
+A a g f g) .('c d e |
+f d f g a A F G |
+A a g f e A ^c d |
+e2).('e f e f/ g/ a A |
+d8) |
+.('f2e de4 |
+z) .('c c de2c2 |
+d8 |
+^c4f3d |
+e2^c cd4) |
+.('e4a4- |
+a2g fe2e2 |
+z c c de2c2 |
+B4A2).('^c c |
+d4^c2e e |
+^f4g2^g g |
+a6g f |
+e6d2 |
+d8) |
+.('f> f e d e a g f |
+e c c d e> d ^c A |
+d D F E D f e d |
+^c4).('d a d f |
+e> d ^c A d e f d |
+e e f g a A F G |
+A) .('a g fe2e2 |
+z c c d e> d c d/ c/ |
+B A e EA2).('^c c |
+d> f e d ^c A e e |
+^f> d e fg2).('^g g |
+a> b c' b a a g f |
+e/ ^c/ d/ e/ f/ g/ a/ g/ a A B c |
+!fermata!d8) |]

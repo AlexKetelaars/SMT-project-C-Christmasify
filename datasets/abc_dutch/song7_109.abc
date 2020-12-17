@@ -1,0 +1,39 @@
+X: 6108
+T: Bruijds Balet of den poveren trijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 1515494944
+%%humdrum-veritas-data 2246521546
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('de [I:setbarnb 1]|
+fe/ d/aa |
+a2).('ef |
+gf/ e/dd |
+c2).('de |
+fe/ f/ e/ d/c |
+B2).('ef |
+gf/ g/ag |
+f2).('ed |
+c2dB |
+ed/ c/ B/ A/^G |
+A) :|]
+.('fga [I:setbarnb 12]|
+bbag |
+fbag |
+f).('eag |
+fefg |
+ab/ a/ga/ f/ |
+e2).('aa |
+d2gg |
+f2ff |
+BBed |
+cA).('aa |
+ag/ f/ed/ c/ |
+d2) |]

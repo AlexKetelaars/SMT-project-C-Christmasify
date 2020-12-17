@@ -1,0 +1,26 @@
+X: 9769
+T: Do, do, kinneke do Slaap en doe uw oogskens toe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1661070610
+%%humdrum-veritas-data 1277048307
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c3G3 |
+c c cG3) |
+.('c2cG2G |
+c2cG3) |
+.('G/ A/ B cd2c |
+B2AB2G) |
+.('G/ A/ B c d d c |
+B2AB2G) |
+.('c3G3 |
+c c cG3) |
+.('c2cG2G |
+c2cc3) |]

@@ -1,0 +1,48 @@
+X: 16408
+T: Cipria de reys aenvaert eert morghen root be [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 1501993683
+%%humdrum-veritas-data 373896201
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('G2d3/B/ |
+c>ABc |
+d2z).('d |
+[M:3/2]f4e2 |
+d2c2B2 |
+A3x3 |
+[M:2/2]G2z).('G |
+B>cdA |
+Bd(c/ B/ c/ d/ |
+c)fee |
+d2z).('f |
+[M:3/4]f2c |
+d2B |
+A3- |
+A2).('B |
+B2F |
+G2F |
+[M:4/4]D2z).('G |
+BAB3/c/ |
+dff3/e/ |
+(d/ c/ d/ e/fe/ d/ |
+c)dc2 |
+d2z).('d |
+c>dBc |
+A2zd |
+g>^fgg |
+^f2z).('f |
+[M:3/4]^f2e |
+d2c |
+B>c d/ e/ |
+f2d |
+c2B |
+A>AA |
+G3) |]

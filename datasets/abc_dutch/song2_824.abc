@@ -1,0 +1,31 @@
+X: 1823
+T: Al op een morgen vroeg ging ik de paarden halen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 4214128350
+%%humdrum-veritas-data 94796247
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/GG/ |
+G3/).('B3/ |
+AG/FE/ |
+E3/D).('D/ |
+G/ G/ G/GG/ |
+G3/).('B3/ |
+AG/FE/ |
+E3/D).('B// B// |
+cc/dc/ |
+BB/).('cc/ |
+B3/AA/ |
+G>-G z/) .('G/ |
+AA/dc/ |
+BB/).('cc/ |
+B3/AA/ |
+G3/-G) |]

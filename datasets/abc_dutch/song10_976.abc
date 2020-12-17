@@ -1,0 +1,43 @@
+X: 9975
+T: In Den Helder daar woonde een boertje, o ja, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 3028313685
+%%humdrum-veritas-data 1350218075
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C/ C/ [I:setbarnb 1]|
+FFF |
+AGF |
+GGG |
+B2).('G |
+FAc |
+cBA |
+G2).('C/ C/ |
+FFF |
+AGF |
+G2A |
+B2).('G |
+FAc |
+cBA |
+G2).('A/ A/ |
+BBB |
+dc=B |
+c2).('A/ A/ |
+BBB |
+dcB |
+A2).('c |
+A2F |
+B2B |
+G2B |
+A).('AA |
+F2c |
+cdc |
+(BAG |
+F2)z/) |]

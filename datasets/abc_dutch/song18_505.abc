@@ -1,0 +1,30 @@
+X: 17504
+T: Il n'a rien des plus aimable
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 1952297853
+%%humdrum-veritas-data 2549442169
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('f> cf2a2 |
+g> fg2b2 |
+a> ga2c'2 |
+b> ag4) |
+.('f> cf2a2 |
+g> fg2b2 |
+a> g a> b c'3/ d'/ |
+a> gf4) |
+.('b> ab2d'2 |
+c'> ba2c'2 |
+b> ab2c'2 |
+b> ag4) |
+.('f> cf2a2 |
+g> fg2b2 |
+a> g a> b c'3/ d'/ |
+a> gf4) :|]

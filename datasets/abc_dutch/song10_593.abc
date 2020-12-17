@@ -1,0 +1,36 @@
+X: 9592
+T: Vier mennekes met vier mutskes, Die kwamen d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 1586909691
+%%humdrum-veritas-data 3467580260
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B B BB2B |
+B3F2).('F |
+G2FG2A |
+B3z2).('F |
+B2BB2B |
+B3F2).('F |
+G G F G G A |
+B3z2z) |
+.('B2B (3B B B B |
+B2BB2).('B |
+B2BB2B |
+B B B B) .('B B |
+B2>z2 B B |
+B3z2).('B |
+B2Bc2B |
+B3_A2).('A |
+G2G G F G |
+E3z2).('A |
+B3z2A |
+B3z2B |
+B3-B2) |]

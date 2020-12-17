@@ -1,0 +1,27 @@
+X: 9752
+T: De vrouw die sprak: “Ach lieve man, wilt gij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 4049529620
+%%humdrum-veritas-data 1067286157
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('CFG [I:setbarnb 1]|
+A2>F2AG |
+F2>).('C2FG |
+A2>F2AG |
+[M:4/2]F2>).('D2D2(3(D C D) |
+D2>E2F2ED |
+[M:3/2]D2C2).('DC |
+D2>C2DE |
+F2!fermata!C).('CFG |
+A3G/ A/ (3(B A) G |
+A2>).('(G2F)E |
+[M:4/2]D2DEFFEA, |
+D2z2z4) |]

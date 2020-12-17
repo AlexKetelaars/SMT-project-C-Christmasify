@@ -1,0 +1,15 @@
+X: 195
+T: Die op den Heere vast betrauwen, Die sullen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 4085587253
+%%humdrum-veritas-data 3020659990
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A4A2c2B4A4G2F2E4D4z4).('F4F2E2F4G4A4z4).('A4c2c2B4d4A4z4).('D4A4B4c2B2A2A2G4F4z4).('A4A2A2d4c4B2A2G4A4z4).('F4G2F2E4D4) |]

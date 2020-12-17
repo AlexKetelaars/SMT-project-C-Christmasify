@@ -1,0 +1,43 @@
+X: 14724
+T: Vort vort Jou lelikke Zaartje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2923346903
+%%humdrum-veritas-data 945173182
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d2dc2c |
+B2BA2A |
+B2BF2^G |
+A2zz2).('A |
+d2dc2d |
+e2ee2d |
+c2c B A B |
+A3f3) |
+.('c2ed2f |
+e3a3 |
+c d e d e f |
+e3a3) |
+.('e2ed2c |
+B3B2B |
+e2ee2d |
+c3A2).('A |
+f2ff2e |
+d2>d2 c d |
+e2eB2c |
+d3a3) |
+.('d2dd2c |
+B3B2B |
+e2ee2d |
+c2AA2).('A |
+f2ff2e |
+d2>d2 c d |
+e2eB2c |
+d3) |]

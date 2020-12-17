@@ -1,0 +1,83 @@
+X: 10416
+T: 179
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 2004663814
+%%humdrum-veritas-data 3724666576
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('e2 [I:setbarnb 1]|
+a2 a2- (3a c' b (3a b ^g |
+a2 a2- (3a c' b (3a ^b ^g |
+{b} a2 g f {f} e d {d} c B |
+c2A4).('a c' |
+(3b e ^f {a} (3^g f e (3b e f {a} (3g f e |
+d' c' b a ^g f e d |
+c2A4).('e2 |
+f2 f2 (3d' c' b (3a g f |
+e2 e2 (3c' b a (3g f e |
+d2 d2 (3b a ^g (3f e d |
+(3c A B (3c B A (3a A B (3c B A) |
+(3.('f d e {e} f2 (3d' c' b (3a g f |
+(3e c d {d} e2 (3c' b a (3g f e |
+(3d B c {c} d2 (3b a ^g (3f e d |
+(3c e a (3c B A (3B d c (3B A ^G |
+A2 C2 D2 E2 |
+!fermata!A4z2) .('e2 |
+e2 e2 e2 e2 |
+f4-(3f G A {c} (3B A G |
+f2 f2 (3f g a (3b c' d' |
+e4-(3e F G {B} (3A G F) |
+.('e2 e2 (3e f g (3a b c' |
+d4-(3d E ^F (3^G F E |
+d2 d2 (3d e ^f (3^g a b |
+(3c B A (3d c B (3e d c f2 |
+(3c B A (3d c B (3e d c f c |
+c2 B2 z2) .('c2 |
+g2 g2- (3g c d {f} (3e d c |
+g2 g2- (3g c d (3e d c |
+a2 a2 a2 a2 |
+d' c' b a g ^f e d |
+g2 g2 g2 g2) |
+.('c' b a g f e d c |
+f2 f2 f2 f2 |
+(3G B d (3f d B (3G B d f f |
+!mordent!!mordent!f2 e2 z2) .('g2 |
+!mordent!!mordent!a4(3F A c (3f a f |
+!mordent!!mordent!g4(3E G c (3e g e |
+!mordent!!mordent!f4(3G B d (3f b d') |
+.('f2 e2 g2 c2 |
+(3a g f (3f e d (3d c B (3f g a |
+(3g f e (3e d c (3c B A (3e f g |
+(3f e d (3d c B (3B A G (3d e f) |
+.('!mordent!!mordent!e4-(3e c d {f} (3e d c |
+!mordent!!mordent!f4-(3f d e {g} (3f e d |
+!mordent!!mordent!g4-(3g e f {a} (3g f e |
+a g g f f e d c |
+B AG4).('d2 |
+(3_e d c z c (3a g ^f z f |
+(3g d BG4B d |
+_e2 e2 (3e d c (3a g ^f |
+!mordent!!mordent!g4).('!mordent!!mordent!f4 |
+(3e f g (3a b c' A2 B2 |
+(3e f g (3a b c' A2 !mordent!!mordent!B2 |
+c2 E2 F2 G2 |
+c4z2) .('e2 |
+(3^c e d (3c B A _b2 c2 |
+d ^c d2- (3d A B (3c B A |
+g2 g2 (3g a g (3f g e |
+!mordent!!mordent!f2 d2 z2) .('^f2 |
+(3^d ^f e (3d ^c B c'2 d2 |
+e ^d e2- (3e B ^c (3d c B |
+a2 a2 (3a b a (3g a ^f |
+g2 e2 z2) .('e2 |
+^g2 g2 (3g b a (3g ^f e |
+a ^g a2 (3z e ^f (3g f e |
+b a b2 (3z e ^f (3^g f e |
+c' ba4e2) :|]

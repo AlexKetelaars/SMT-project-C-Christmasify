@@ -1,0 +1,22 @@
+X: 9109
+T: Vrienden, wilt gij met ons wonen? Vrienden,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 288696139
+%%humdrum-veritas-data 3133778025
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+G2GA2A |
+F E F/ E/D2F |
+E2FG3- |
+G) .('(E F)G2D |
+E2DB,2A, |
+E F/ F/ A G F E |
+D2>-D2 z z) |]

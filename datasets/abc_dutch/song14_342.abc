@@ -1,0 +1,41 @@
+X: 13341
+T: Walzer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 3625401647
+%%humdrum-veritas-data 2539441682
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('D F [I:setbarnb 1]|
+A2A FA2 |
+A2A F A F |
+D2D2D2 |
+D4G A) |
+.('B2B AB2 |
+c2c Bc2 |
+d2d2f2 |
+d4) |
+.('c d [I:setbarnb 9]|
+e2c2A2 |
+a4f d |
+d c B A B c |
+d fd2c d) |
+.('e2c2A2 |
+a4f d |
+d c B A B c |
+d4) |
+.('F G [I:setbarnb 17]|
+A2A BA2 |
+F4G2 |
+A2d2c2 |
+B4A2 |
+G2G AG2) |
+.('E4G2 |
+F G E Fx2 |
+D4) :|]

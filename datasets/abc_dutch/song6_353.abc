@@ -1,0 +1,23 @@
+X: 5352
+T: Wilt gij o vreemdling mij ontvluchten Langs  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 693352447
+%%humdrum-veritas-data 1188155927
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G A3/ G/ [I:setbarnb 1]|
+C2>G2 A G |
+(F D)B,2).('G3/ A/ |
+B2>A2 G3/ F/ |
+E2z2).('G3/ G/ |
+(G2^F) G A3/ G/ |
+G2(c C)) .('D E |
+A2>G2 F E |
+C2z) |]

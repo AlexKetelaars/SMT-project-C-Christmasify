@@ -1,0 +1,43 @@
+X: 4608
+T: Luistert hier gij meiden en gij heren knecht [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3853370839
+%%humdrum-veritas-data 4071702278
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('GA/ [I:setbarnb 1]|
+B3/-BB/ |
+[M:9/8]BB/cB/cd/ |
+e3/d3/).('dB/ |
+A3/e3/dc/ |
+[M:6/8]B3- |
+B).('G/GA/ |
+B3/B3/ |
+[M:9/8]BB/cB/cd/ |
+e3/d3/).('dB/ |
+A3/e3/dc/ |
+[M:6/8]B3/-B).('B/ |
+AA/ A/ A/ c/ |
+B/ B/ A/G).('A/ |
+B3/e3/ |
+d3/-d).('A/ |
+AA/Ac/ |
+BA/G).('A/ |
+B3/e3/ |
+d3) |
+.('B3/Bc/ |
+d3/ee/ |
+d/> d/ d/cc/ |
+B3) |
+.('G3/Bc/ |
+d3/ee/ |
+d/> d/ d/cc/ |
+B3- |
+B3/) |]

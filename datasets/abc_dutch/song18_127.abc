@@ -1,0 +1,42 @@
+X: 17126
+T: La Bacante
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 1806887262
+%%humdrum-veritas-data 4187674453
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c [I:setbarnb 1]|
+fccd/ e/ |
+fccf |
+efga |
+g/ f/ e/ d/ c/ d/ e/) .('c/ |
+fccd/ e/ |
+fccf |
+efg/ f/ e/ g/ |
+f3) |
+.('c [I:setbarnb 9]|
+dddc/ B/ |
+c3c |
+dccf/ e/ |
+dccf/ e/ |
+d/ e/ f/ g/ e/ f/ e/ d/ |
+^cB/ c/A).('f/ g/ |
+aafd |
+a2fd |
+f2!trill!!trill!e2 |
+d3).('A/ B/ |
+cA/ B/cd |
+c3A/ B/ |
+cA/ B/cd |
+c>BAe/ f/ |
+gec).('e/ f/ |
+gecf |
+ef/ g<gf/ |
+f3) :|]

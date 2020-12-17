@@ -1,0 +1,28 @@
+X: 16250
+T: Jonge Minnaars dat gy ‘t wist, Hoe g’ u vergist
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3533383846
+%%humdrum-veritas-data 2127410077
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d ^c [I:setbarnb 1]|
+d2e2A2f2 |
+e4^c2d e |
+^c4z2).('f e |
+d2(g f) (e d) (e f) |
+^c2A2z2).('A2 |
+F2(E D2<)_B2B |
+A6A2 |
+d2>d2(e2d) e |
+f4z2).('A2 |
+(e f)e2z2A2 |
+g2g2z f e d |
+(^c A) (d g)e4 |
+d6) :|]

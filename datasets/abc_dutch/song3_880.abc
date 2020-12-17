@@ -1,0 +1,24 @@
+X: 2879
+T: Er was laatst een turveboer die met zijn sch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 3919405846
+%%humdrum-veritas-data 2847429957
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2Bd2d |
+e2ed2).('d |
+e2e (f e) d |
+d2cB2).('d/ d/ |
+e d ef2g |
+d3f3) |
+.('e2e (e d) c |
+B2BB2).('d |
+d e dc2B |
+(A2B)G3) |]

@@ -1,0 +1,30 @@
+X: 17036
+T: Menuet Des Musses
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 633004150
+%%humdrum-veritas-data 1463456984
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('g(!mordent!!mordent!g3/f// g//) |
+a>_ba |
+fdg |
+e/ f/ e/ d/c) |
+.('g(!mordent!!mordent!g3/f// g//) |
+a>_ba |
+fdg |
+e3) |
+.('d(!mordent!!mordent!d3/c// d//) |
+e>fe |
+cAd |
+B/ c/ B/ A/G) |
+.('d(!mordent!!mordent!d3/c// d//) |
+e>fg |
+a!mordent!!mordent!d3/c/ |
+c3) |]

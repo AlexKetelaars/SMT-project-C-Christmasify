@@ -1,0 +1,23 @@
+X: 4338
+T: Ik zou zo graag ’n koeike kopen Annemarie, M [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 555937176
+%%humdrum-veritas-data 4041638406
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GG2A |
+B2BG2G) |
+.('G G GA2G |
+F2ED3) |
+.('G2GG2A |
+B2BG2G) |
+[M:9/8].('G G G2<A2D3 |
+[M:6/8]G3-G2) |]

@@ -1,0 +1,24 @@
+X: 1090
+T: En wat zag ik daar van verre Zulk een schoon [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 3582510327
+%%humdrum-veritas-data 331952238
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('E/ F/ [I:setbarnb 1]|
+Ged(c/ B/) |
+(AF)D).('E/ F/ |
+Ged(c/ B/) |
+A3).('A/ B/ |
+ceee |
+(dB)G).('A/ B/ |
+[M:2/4]cA |
+[M:4/4]d2A2 |
+G3) |]

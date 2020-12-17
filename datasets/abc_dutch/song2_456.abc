@@ -1,0 +1,23 @@
+X: 1455
+T: Draai het wieltje nog eens om, klap eens in  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 3820007191
+%%humdrum-veritas-data 1612988971
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D G G/ G/ G A AA2) |
+.('F D E FG2G2) |
+.('D G G G A AA2) |
+.('F D E/ E/ F A GG2) ]|:
+.('d2(3B B B (3A A AG2) :|]
+(3.('B B B!fermata!d2(3B B B!fermata!d2) |
+.('B A B c2<d2).('D |
+G> A B> cd2e3/) .('c/ |
+B> B A> AG3z) |]

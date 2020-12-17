@@ -1,0 +1,42 @@
+X: 16962
+T: Sarabande en rondeau
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 3315923740
+%%humdrum-veritas-data 501370190
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('efg |
+_aaf |
+dg=B |
+cde |
+!mordent!!mordent!d2c) |
+.('gge |
+bbg |
+_aag |
+fbe) |
+.('c_a3/c/ |
+dbg) |
+.('c'fg |
+!mordent!!mordent!f2e) |
+.('efg |
+_aaf |
+dg=B |
+cde |
+!mordent!!mordent!d2c) |
+.('e!mordent!!mordent!=e3/e/ |
+ffg |
+_ag3/g/ |
+_aag |
+f!mordent!!mordent!fe |
+d2).('b/ b/ |
+b!mordent!!mordent!a3/g/ |
+!mordent!!mordent!^fad |
+gab |
+!mordent!!mordent!a2g) |]

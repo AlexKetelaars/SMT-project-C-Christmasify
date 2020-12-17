@@ -1,0 +1,40 @@
+X: 3887
+T: Daar was laatst een boerinnetje al in het je [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 3915937057
+%%humdrum-veritas-data 154632726
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ [I:setbarnb 1]|
+dd/dd/ |
+ee/d).('g/ |
+ff/ee/ |
+d3/-d).('d/ |
+dd/dd/ |
+ee/d).('g/ |
+ff/ee/ |
+d3/-d).('f/ |
+aa/ab/ |
+(ag/)f).('A/ |
+de/fg/ |
+a3/-a).('a// a// |
+aa/ab/ |
+(af/)d).('e/ |
+(f3/g)f/ |
+(e3/f)e/ |
+d).('B/Bc/ |
+dd/de/ |
+d3/).('ga/ |
+ba/gf/ |
+f3/e3/ |
+z3/).('ge/ |
+d3/(ga/) |
+b3/a3/ |
+g3/-g) |]

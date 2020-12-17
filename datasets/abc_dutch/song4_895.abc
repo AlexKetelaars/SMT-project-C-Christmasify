@@ -1,0 +1,36 @@
+X: 3894
+T: Ik heb een vader en een moeder En die komen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 305439020
+%%humdrum-veritas-data 2838572591
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ D D [I:setbarnb 1]|
+G G G G (B A) |
+[M:2/2]G6).('G B |
+d2d d (e d) c e |
+d6).('B c |
+d2d d (e d) c e |
+d6).('B c |
+d d d dd2e3/ d/ |
+d2c> cc2).('d B |
+B B B B d d c B |
+A d d> d (d c) B A |
+G6z) .('B |
+B2G Bd2c B |
+A4).('G3A |
+B2G Bd2c A |
+B4).('A3c |
+B2G Bd2c A |
+G4).('c2c B |
+A4d2d B |
+G4).('d2d d |
+e d c BB2A2 |
+G6) |]

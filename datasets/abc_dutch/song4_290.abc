@@ -1,0 +1,22 @@
+X: 3289
+T: Ain koekoek zat in toren Bim bam baasje died [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 1204345154
+%%humdrum-veritas-data 3956711233
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+B G B d |
+(d c)A2) |
+.('G G G G |
+[M:3/4]A/ A/ AD2).('d2 |
+[M:2/4]B G B d |
+d4 |
+G4) |]

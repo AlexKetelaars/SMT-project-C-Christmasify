@@ -1,0 +1,74 @@
+X: 7151
+T: No718. Annette & Lubin Allegro
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3583775838
+%%humdrum-veritas-data 3980645158
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+d6e2 |
+{=f}e4{d e} d2 c2 |
+B2 A G (B< A) (G/ F3/) |
+G2 D2 z2) .('G2 |
+d6e2 |
+e4d2 c2 |
+B2 A G (B< A) (G/ F3/) |
+G4z4) |
+.('B2 z2 d2 z2 |
+A4z2 d2 |
+g2 f e B2 ^c2 |
+d4z4) |
+.('B2 z2 d2 z2 |
+A4z2 d2 |
+G2 F F !trill!!trill!E2 D2 |
+A4z2 A2 |
+{B}A4z2 A2 |
+{B}A4z2) .('A2 |
+d ^c B A G F E D |
+B A g f e d ^c B |
+A4!trill!!trill!e4 |
+d4z2) .('A2 |
+d ^c B A G F E D |
+B A g f e d ^c B |
+A4!trill!!trill!e4 |
+d4z4) |
+.('A D F A d A F D |
+B ^c d D F2 !trill!!trill!E2 |
+D4z4) |
+.('A D F A d A F D |
+B ^c d D F2 !trill!!trill!E2 |
+D2 (3f g a A2 ^c2 |
+d2 (3f g a A2 ^c2 |
+{^c}d4z2) .('D2 |
+A6B2 |
+{^c}B4{A B} A2 G2 |
+{G/} F2 E D {F/} E2 {D/} ^C2 |
+D4z2) .('D2 |
+A6B2 |
+{^c}B4{A B} A2 G2 |
+{G/} F2 E D {F/} E2 {D/} ^C2 |
+D4z2) .('G2 |
+d6e2 |
+e4d2 c2 |
+{c/} B2 A G {B/} A2 G F |
+G4=f2 z2 |
+=f2 z2 f2 z2 |
+e2 z2 g2 z2 |
+g2 z2 g2 z2 |
+f4z2) .('d2 |
+g f e d c B A G |
+e d c B A G F E |
+D4!trill!!trill!A4 |
+G4z4) |
+.('d G B d g d B G |
+e f g G B2 !trill!!trill!A2 |
+G2 (3B c d D2 !trill!!trill!F2 |
+G2 (3B c d D2 !trill!!trill!F2 |
+G6) |]

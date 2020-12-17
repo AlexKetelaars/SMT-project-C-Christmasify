@@ -1,0 +1,31 @@
+X: 9797
+T: In de ker-r’k zeid’-ie, Heb ‘k gezeten, zeid’-ie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 3740690832
+%%humdrum-veritas-data 592849976
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B A [I:setbarnb 1]|
+G G G G F G |
+A A A A) .('c c |
+F F F F E F |
+G2z2).('B A |
+G G G G F G |
+A2A A) .('c c |
+F2F F E F |
+G2z2).('D (E |
+c4)B A |
+B BB2A A |
+B B B B A G |
+B2z2).('D (E |
+c4)B A |
+B B B z/ B/ A A |
+c c B A G B |
+G2z2) |]

@@ -1,0 +1,29 @@
+X: 9802
+T: Klein Venus zoontje, van Bachus geschonden,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 2915461246
+%%humdrum-veritas-data 3694799440
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c c c c c d |
+c B AA2G) |
+.('A A A A G A |
+c B AG2z) |
+.('c c cc2A |
+c B G F F) .('G |
+A B c(d2c) |
+(c B) AG2z) |
+.('F F G F F G |
+A F GA2A) |
+.('F F FG2G |
+A F G A !fermata!G z) |
+.('B2B A B c |
+d e f c B G |
+F3z2z) |]

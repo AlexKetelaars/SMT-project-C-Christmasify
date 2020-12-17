@@ -1,0 +1,34 @@
+X: 9395
+T: Door Venus’ stralen Ben ik vroeg opgestaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3041913551
+%%humdrum-veritas-data 1524278300
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F2>-F2 G A |
+B2>A2 z) .('F |
+F2>F2 G B |
+A3-A2z) |
+.('F2>F2 G A |
+B2>A2 z) .('F |
+F2F G G B |
+A3-A2z) |
+.('G E C G E A, |
+(D F A)A2z) |
+.('G E C G E A, |
+(D F A)A2z) |
+.('d3c2B |
+A2>-A2) .('B A |
+F B A (F B) A |
+F3-F2z) |
+.('d3c2B |
+A2>-A2) .('B A |
+F B A (A G) E |
+D3-D2z) |]

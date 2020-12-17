@@ -1,0 +1,26 @@
+X: 4855
+T: Peer halt den hund vast, dat er mich niet bi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 4016136411
+%%humdrum-veritas-data 3832703737
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d3/Bc/ |
+d3/B3/ |
+AA/AA/ |
+G3) |
+.('AA/AA/ |
+BB/B3/) |
+.('AA/AA/ |
+BB/B3/) |
+.('d3/Bc/ |
+d3/B3/ |
+AA/AB/ |
+G3) |]

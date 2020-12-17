@@ -1,0 +1,35 @@
+X: 3034
+T: Nachtegaaltje klein vogel koen nachtegaaltje [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 3533001577
+%%humdrum-veritas-data 456071856
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G A [I:setbarnb 1]|
+B2G B d e |
+d4).('c B |
+A2D G (3A c B |
+A2>).('G2 G A |
+B2G B d e |
+d2>).('c2 c B |
+B2G> G A F |
+G4).('D G |
+B2G2E G |
+c2G2c e |
+e2d2).('E G |
+c2G2E c |
+B2A2G A |
+G4).('D G |
+B2G2D B |
+e2c2e e |
+d2B> A G G |
+A4z2) |
+.('G4A2 |
+G4) |]

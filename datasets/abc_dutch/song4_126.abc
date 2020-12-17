@@ -1,0 +1,25 @@
+X: 3125
+T: Vrienden hier een stuk aanhoren wat er in ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 3212689147
+%%humdrum-veritas-data 1204846558
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G> G G GG2F G |
+A (G F) ED2z2) |
+.('A2A BA2G A |
+B2B AG2z2) |
+.('B2B AB2B c |
+d4A3A) |
+.('c2B Ac2B A |
+G F G E/ E/D2).('E F |
+G2F Gd2B2 |
+A4G4) |]

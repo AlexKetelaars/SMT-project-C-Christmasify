@@ -1,0 +1,25 @@
+X: 4683
+T: Daar was een mannetje die was niet wijs Die  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 2787244632
+%%humdrum-veritas-data 2855715766
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/GG/ |
+FF/D).('D/ |
+ED/EF/ |
+G3/-G3/) |
+.('c>B B/ B/ |
+A3/-A).('D/ |
+GA/Bc/ |
+d3/).('cc/ |
+BB/AA/ |
+G3/-G) |]

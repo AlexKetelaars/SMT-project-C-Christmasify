@@ -1,0 +1,23 @@
+X: 7274
+T: Zeg mij wat is een koning, Een koning zonder land?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 863976061
+%%humdrum-veritas-data 2712763233
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D/ [I:setbarnb 1]|
+DE/FG/ |
+(AF/)D).('D/ |
+GB/dB/ |
+A3/-A).('d/ |
+cB/BA/ |
+(FA/)B).('A/ |
+AA/GF/ |
+D3/-D) |]

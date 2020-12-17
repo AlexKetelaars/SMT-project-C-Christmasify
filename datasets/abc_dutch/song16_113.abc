@@ -1,0 +1,24 @@
+X: 15112
+T: Schilder, ‘k wou mij zelf eens zien
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 3913138716
+%%humdrum-veritas-data 145074350
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('EF/Gc/ |
+B/ A/ B/c3/ |
+AG/FE/ |
+G3/D3/) |
+.('DF/Ec/ |
+B/ A/ B/c3/) |
+.('cc/cc/ |
+e3/c3/ |
+dd/BB/ |
+d3/c3/) :|]

@@ -1,0 +1,38 @@
+X: 17015
+T: Les Tritons
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 178321115
+%%humdrum-veritas-data 979238474
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('g [I:setbarnb 1]|
+!mordent!!mordent!B>cd |
+ecA/ B/ |
+!mordent!!mordent!B>AG |
+d!mordent!!mordent!B3/).('g/ |
+g!mordent!!mordent!e3/a/ |
+afb- |
+b/ a<!mordent!!mordent!gf/ |
+!mordent!!mordent!ed) |
+.('z/ f/ [I:setbarnb 9]|
+!mordent!!mordent!f>fg |
+!mordent!!mordent!e>ea |
+a>b^g |
+a>).('g f/ e/ |
+d!mordent!!mordent!c3/B/ |
+cAB/ c/ |
+B/ c<!mordent!!mordent!cB/ |
+AG3/).('d/ |
+d3 |
+e3 |
+f>g f/ g/ |
+afg |
+a!mordent!!mordent!a3/g/ |
+g3) :|]

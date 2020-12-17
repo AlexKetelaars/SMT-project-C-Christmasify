@@ -1,0 +1,43 @@
+X: 14736
+T: Marsche Guerrière
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2227427974
+%%humdrum-veritas-data 2126488882
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G G G [I:setbarnb 1]|
+E2C2E2G2 |
+c4z> G c3/ e/ |
+d2>B2G3d |
+(e2c2)z>) .('c c3/ c/ |
+e2c2A2^F2 |
+G4z G G G |
+c2c> cd2d3/ d/ |
+e4z) .('G G G |
+c2c> cd2d3/ d/ |
+e2>c2g3e |
+d2B G2<g2e |
+!fermata!d6z) .('e |
+e2>d2d3c |
+c2c> cc2G2 |
+f2>f2e3e |
+d2d> dd2z2) |
+.('c2>e2 d c B c |
+d2d> d f d f d |
+c4(e d c d) |
+c E F G A B c d) |
+.('e2>e2d3d |
+c2c> cc2G2 |
+f2>f2e3e |
+d2d> dd2z2) |
+.('c2>e2 d c B c |
+d2d> d (f d) (f d) |
+c4e d c d |
+c2c> c c) |]

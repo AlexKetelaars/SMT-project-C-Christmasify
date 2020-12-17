@@ -1,0 +1,30 @@
+X: 14802
+T: Allegro
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1702727760
+%%humdrum-veritas-data 3378838515
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('!wedge!c!wedge!c(ce) |
+!wedge!e!wedge!e(eg) |
+(ge)(ge) |
+(d/ c/ d/) e/dz) |
+.('!wedge!c!wedge!c(ce) |
+!wedge!e!wedge!e(eg) |
+(ge)g/ f/ e/ d/ |
+cccz) |
+.('!wedge!d!wedge!f(fd) |
+!wedge!e!wedge!g(ge) |
+egf/ e/ d/ c/ |
+(d/ c/) .d/ .e/dz) |
+.('!wedge!d!wedge!f(fd) |
+!wedge!e!wedge!g(ge) |
+dfe/ f/ e/ d/ |
+cccz) |]

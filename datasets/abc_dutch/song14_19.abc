@@ -1,0 +1,26 @@
+X: 13018
+T: Krui, kruiwagentje, krui maar voort 'k Heb z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 2616815863
+%%humdrum-veritas-data 3943728652
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2A2G GE2 |
+G2A2G2z2) |
+.('c c B A A G G G |
+A2G2E2z2) |
+.('G G A AG2E2 |
+G G A A G E) .('c c |
+B A A G G GA2 |
+G2E2z2).('G2 |
+A AG2E2G2 |
+A2G2z2).('c c |
+B A A G G GA2 |
+B2c2z2) |]

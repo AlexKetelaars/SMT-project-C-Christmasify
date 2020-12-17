@@ -1,0 +1,39 @@
+X: 16992
+T: marche Des Amazzonnes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 401534683
+%%humdrum-veritas-data 527631030
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('cde |
+!mordent!!mordent!e>dc |
+ga/ g/ f/ e/ |
+!mordent!!mordent!d2d) |
+.('cde |
+!mordent!!mordent!e>fg |
+f/ e<!mordent!!mordent!dc/ |
+c3) |
+.('g!mordent!!mordent!e3/e/ |
+f>g a/ b/ |
+!mordent!!mordent!^g>fe |
+a>b^g |
+a3) |
+.('!mordent!!mordent!e>fg |
+!mordent!!mordent!^f>ed |
+g>a^f |
+g3) ||
+.('!mordent!!mordent!e>fg [I:setbarnb 19]|
+!mordent!!mordent!e>dg |
+c!mordent!!mordent!c3/d/ |
+!mordent!!mordent!B>AG) |
+.('g!mordent!!mordent!e3/e/ |
+fdB |
+c!mordent!!mordent!c3/B/ |
+c3) |]

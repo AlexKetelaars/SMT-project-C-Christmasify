@@ -1,0 +1,23 @@
+X: 3306
+T: Aorend Eemten zul naor de peerdemarkt gaon H [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 962657968
+%%humdrum-veritas-data 722882723
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B B [I:setbarnb 1]|
+B B B2 B2 d2 |
+c c B2A4) |
+.('d2 d d d2 c c |
+B2 A2 G2) .('B B |
+B B B2 B2 d2 |
+c c B2 A2) .('d d |
+d2 d d e2 d2 |
+G6) |]

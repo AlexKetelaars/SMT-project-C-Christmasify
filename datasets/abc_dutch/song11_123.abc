@@ -1,0 +1,33 @@
+X: 10122
+T: Drie herderkens gingen hoeden En zij stonden [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 3062189526
+%%humdrum-veritas-data 372648668
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F FA2A |
+c2>c2 F F |
+G2BA2G |
+F2>z2) .('C C |
+F2FA2A |
+c2>c2 F F |
+G2BA2G |
+F2>z2) .('F F |
+B B BB2B |
+A2>A2 A A |
+A2AG2F |
+G2>z2) .('C C |
+F2FA2A |
+c2>c2 F F |
+G2BA2G |
+A2>z2) .('F F |
+G2BA2G |
+F3z2) |]

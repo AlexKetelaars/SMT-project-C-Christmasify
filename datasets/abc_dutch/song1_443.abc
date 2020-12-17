@@ -1,0 +1,28 @@
+X: 443
+T: Janneman en Alemoer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1550247052
+%%humdrum-veritas-data 4126382321
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('G [I:setbarnb 1]|
+GABc |
+dddg |
+^fgaf |
+g3) |
+.('g [I:setbarnb 5]|
+a>gfe |
+f>ed).('e |
+f_edc |
+B3).('B |
+ffgg |
+ddB).('d |
+cBA/ G/A |
+G3) :|]

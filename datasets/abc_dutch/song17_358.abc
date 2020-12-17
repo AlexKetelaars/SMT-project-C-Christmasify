@@ -1,0 +1,32 @@
+X: 16357
+T: Wie de wereld wel beziet, Zal ze vol van Zot [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1185042003
+%%humdrum-veritas-data 3301230521
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A B [I:setbarnb 1]|
+c2c2(c2f) d |
+(d4c2)).('B A |
+B2d2(G2A) B |
+(A G)F4).('A =B |
+c2(d e)f2(e d) |
+(e f)g4).('d f |
+(e c) (f d) (e c) (d =B) |
+{=B2}c6) |
+.('c _e [I:setbarnb 9]|
+d2c2B2A2 |
+(B A)G4).('B d |
+c2B2A2G2 |
+(A G)F4).('G A |
+B2B2B2B2 |
+B6).('c B |
+A2(G A/ B/) (A G) (F E) |
+F6) :|]

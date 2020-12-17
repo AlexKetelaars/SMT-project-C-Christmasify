@@ -1,0 +1,49 @@
+X: 16172
+T: O krachtig gelt, Gy maakt een helt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 3410620062
+%%humdrum-veritas-data 903019355
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('Gcd |
+e3 |
+def |
+g3) |
+.('efg |
+(ae)f |
+e2d) |
+.('d>ef |
+g>fe |
+f>ed |
+^c3) |
+.('aef |
+gfe |
+e2d) |
+.('def |
+g3 |
+efa |
+a3) |
+.('def |
+(ae)f |
+d2c) ||
+.('cBA [I:setbarnb 23]|
+A3 |
+dcB |
+c3) |
+.('cde |
+(fA)B |
+B2A) |
+.('cde |
+f3 |
+def |
+g3) |
+.('eef |
+ade |
+d2c) |]

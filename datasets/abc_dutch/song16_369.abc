@@ -1,0 +1,54 @@
+X: 15368
+T: Juich aarde, juich met blijde galmen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 2187826244
+%%humdrum-veritas-data 210319677
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+E2D2 |
+G2G2 |
+A2c2 |
+B2!fermata!A2) ||
+.('x2d2 [I:setbarnb 6]|
+B2B2 |
+G2c2 |
+B2A2 |
+!fermata!G4) ||
+.('x2G2 [I:setbarnb 11]|
+E2D2 |
+G2G2 |
+A2c2 |
+B2!fermata!A2) ||
+.('x2d2 [I:setbarnb 16]|
+c2B2 |
+A2G2 |
+G2F2 |
+!fermata!G4) ||
+.('x2d2 [I:setbarnb 21]|
+d2c2 |
+B2A2 |
+G2F2 |
+E2!fermata!D2) ||
+.('x2D2 [I:setbarnb 26]|
+G2G2 |
+F2E2 |
+G2A2 |
+!fermata!B4) ||
+.('x2G2 [I:setbarnb 31]|
+G2A2 |
+B2G2 |
+c2c2 |
+B2!fermata!A2) ||
+.('x2d2 [I:setbarnb 36]|
+c2B2 |
+A2G2 |
+G2F2 |
+!fermata!G4) |]

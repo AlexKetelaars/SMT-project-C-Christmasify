@@ -1,0 +1,42 @@
+X: 5446
+T: O Fillis zoet bekje, Waarom vlucht gy voor my?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 3285708624
+%%humdrum-veritas-data 2400055172
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('d [I:setbarnb 1]|
+c>dB |
+cA).('d |
+Bc3/B/ |
+AG2) |
+.('d>ec |
+c>(d e/ f/) |
+dB).('d/ d/ |
+d>ec |
+d3) |
+.('zdc |
+=Bcd |
+ec).('f |
+GAB |
+A2).('d |
+ddg |
+(g/ f/) (f/ g/) (d/ e/)) |
+.('c2B |
+B2d3// e// |
+c).('c(c// d// e/) |
+dd(d// e// ^f/) |
+=ee).('(e// e// g/) |
+^f>ed |
+g).('de |
+fdB |
+c>d).('B |
+BA3/G/ |
+G2) :|]

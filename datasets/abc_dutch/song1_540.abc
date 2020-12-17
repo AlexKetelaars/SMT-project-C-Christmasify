@@ -1,0 +1,33 @@
+X: 540
+T: Ah! dat mijn hert (door d'oogen So ligt in s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3007631693
+%%humdrum-veritas-data 2232603637
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G2GD |
+_EFD2 |
+D).('G^FG |
+A(B/ c/)A2 |
+G2).('G2 |
+GD_EF |
+D2D).('G |
+^FGA(B/ c/) |
+(B<A)G2 |
+z).('AB2 |
+A(_e/ d<)cB/ |
+B2z).('A |
+BG/ d/c).('B |
+ABA3/G/ |
+^F3).('D |
+G2A3/A/ |
+B3).('B |
+c(d/ A/) (B/AG/) |
+G4) |]

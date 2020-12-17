@@ -1,0 +1,42 @@
+X: 9114
+T: Wij gaan vooruit, vooruit door het veld, voo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 2425927308
+%%humdrum-veritas-data 3603188129
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A, B, C [I:setbarnb 1]|
+D2D2D2D D |
+D4-D) .('A, B, C |
+D2D2D2C3/ D/ |
+E4-E) .('F F F |
+F2F2F> F F3/ F/ |
+B4-B) .('G G G |
+F2F2F2G3/ F/ |
+E4D2z2) |
+.('A,4D2E2 |
+F4E4 |
+E2>E2 E E E E |
+C2).('C> CC2C2 |
+C2C> DE2F2 |
+E2F2E2A2) |
+.('D2D> DD3D |
+C E C E C (3E/ E/ E/ (C E)) |
+.('C2C> DE2F3/ F/ |
+E2F> FE2A2) |
+.('F2F> FB3A |
+^G G F FE4) |
+.('E2>C2!fermata!A2C C/ C/ |
+F> F F F F> F F F |
+F2).('B,2C2^D2 |
+E4-E> E E ^G |
+B4A>) .('E E ^G |
+B4A2z A |
+A2A2A2z2) |]

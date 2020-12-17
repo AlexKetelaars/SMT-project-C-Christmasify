@@ -1,0 +1,52 @@
+X: 7146
+T: No713
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 755652860
+%%humdrum-veritas-data 2112290120
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d2>e2d2 |
+c2B2A2 |
+c/ B/ e/ d/d2z2) |
+.('d2!trill!!trill!c4 |
+B2c2d2 |
+(3e d cB2!trill!!trill!A2 |
+{A2}G6) |
+.('d2>e2d2 |
+(d< c) (c< B) (B/ A3/) |
+.c/ (B/ e/ d/)d2z2) |
+.('e2g f e d |
+{d2}!trill!!trill!^c4d2 |
+(3B A GF2!trill!!trill!E2) |
+.('F G A F B A |
+A2G2F d |
+(3B A GF2E2 |
+{E2}D6) |
+.('d2>e2d2 |
+d =fe2d2 |
+!trill!!trill!d2{c d}c2z2) |
+.('c2>d2c2 |
+c ed2c2 |
+!trill!!trill!c2{B c}B2z2) |
+.('B4c A |
+B4c A |
+B dc2B2 |
+!trill!!trill!B2A2z2) |
+.('G F G B A c |
+{c2}B4z2 |
+B A B d c e |
+{e2}d4z2) |
+.('d2c4 |
+B2c2d2 |
+(3e d cB2A2) |
+.('B c d B e c |
+d2!trill!!trill!c2B d |
+(3e d cB2!trill!!trill!A2 |
+G6) :|]

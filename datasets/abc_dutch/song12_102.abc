@@ -1,0 +1,76 @@
+X: 11101
+T: Madamoisel, sie hier al weere Vot Serviteur, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 1372971825
+%%humdrum-veritas-data 720928198
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('z G B G2<c2c |
+c2>B2B2B2) |
+.('z d G B G> G G3/ ^F/ |
+^F2F2).('z A A B |
+c c c> B B d e/ e/ c/ e/ |
+A> A A) .('A2<d2A |
+B> G c> c c> d e e) |
+.('z f f> ed3d |
+d> c B> A^G2G2) |
+.('z c d e f> f f e |
+d2>c2c3B |
+B4).('z c d e |
+A2A2B> B B3/ A/ |
+^G2G2).('z c d3/ e/ |
+(A B) (c d)e2(d c) |
+c2c2z4) |]
+.('z G B G2<c2e [I:setbarnb 18]|
+d2>c2B4) |
+.('z4z G B G |
+c2>e2d3c |
+B2>B2A2B2 |
+c2>B2A3G |
+^F4).('z d d3/ e/ |
+c2>d2A3d |
+B B z c c> c c e |
+A2A2B3B |
+^G2>).('c2c3c |
+A2>f2d2(c d) |
+e2e eA2A2 |
+d2>c2c3B |
+B4).('z d g d |
+e2>d2c3B |
+A2A d (B/ c/ d/ c/ B/ c/ A/ B/ |
+G>) GG2).('z c c3/ d/ |
+B d c BA4 |
+G8) |
+.('z G G> Gc2z e |
+c2>B2B4) |
+[M:3/4].('g2>^f2e2 |
+d4e2 |
+d4c2 |
+B4G2) |
+.('g2>^f2e2 |
+d4e2 |
+d4c2 |
+B2G2^d2 |
+e4^d2 |
+e4^f2 |
+(g2^f2)e2 |
+^d2d2).('d2 |
+e4d2 |
+c4B2 |
+(A2G2)A2 |
+B4d2 |
+d4d2 |
+G4c2 |
+c2>(d2 c B) |
+A4A2) |
+.('d2d2d2 |
+(G2A2)B2 |
+B4(A G) |
+G4G2) |]

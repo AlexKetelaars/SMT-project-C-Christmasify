@@ -1,0 +1,33 @@
+X: 5470
+T: Met [Uyt] vreuchden werd hier een liedt ghes [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3934863695
+%%humdrum-veritas-data 1943692926
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G G G (A/ G/ A/ B/) [I:setbarnb 1]|
+c2>c2 d c |
+[M:3/4]B2A) .('c B A |
+G2(F/ E/) (E/ A/) (A/ G/) (G/ F/) |
+G) .('G G G (A/ G/ A/ B/) |
+c2>c2 d c |
+[M:3/4]B2A) .('c B A |
+G2(F/ E/) (E/ A/) (A/ G/) (G/ F/) |
+G2>).('G2 G (=F/ E/) |
+D2>G2 G (=F/ E/) |
+D2>).('D2 =F G |
+A2>A2 B A |
+(d2>c2 B/ A/ B) |
+A2>).('d2 c B |
+A2A A/ G/ F (F/ E/) |
+D2>).('D2 F G |
+A Gc4- |
+c2(B A/ G/) G F |
+G6) |]

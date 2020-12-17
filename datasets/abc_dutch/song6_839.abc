@@ -1,0 +1,30 @@
+X: 5838
+T: ‘t Was op een kouden nacht Als het kindetje  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 3636648619
+%%humdrum-veritas-data 3153876874
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G [I:setbarnb 1]|
+EFGA |
+B2z).('B/ c/ |
+de/ d/cB |
+{c} (B/ A/)Bz).('B/ A/ |
+GABc |
+{c} (B/ A/)Bz).('B |
+B>AGe |
+d2B).('d |
+cB(BA/) {G} F/ |
+E2FG |
+(BA)z).('B |
+E>FGA |
+BA/ B/c).('B |
+(B/ A/) (G/ F/)(GF/) G/ |
+E2z) |]

@@ -1,0 +1,40 @@
+X: 16426
+T: Laura sat laest bij de Beek
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 3666976242
+%%humdrum-veritas-data 3784687109
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A>Bc2 |
+zfed |
+^c4) |
+.('d>efA |
+dcB2 |
+A2).('a3/a/ |
+gcf/ e/ d/ c/ |
+d/ e/ f/ g/a2) |
+.('f3e |
+d2c2 |
+BAG2 |
+F4) |
+.('f>f e/ f/ g/ e/ |
+c/ d/ e/ c<de/ |
+fe/ d/e2 |
+f2).('B2- |
+BAdc |
+BAG2) |
+.('A>Bcc |
+dA=B2 |
+c2).('e3/c/ |
+f3d |
+c>AB2 |
+A2).('A3/=B/ |
+cddc |
+d4) |]

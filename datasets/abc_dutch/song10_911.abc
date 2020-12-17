@@ -1,0 +1,23 @@
+X: 9910
+T: ‘t Zal regenen en ‘t zal waaien, Pitje gaat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 2974963090
+%%humdrum-veritas-data 2166094310
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(3G G G A A |
+G2D2) |
+(3.('G G G A A |
+G2D2) |
+.('G A B c |
+d dd2) |
+.('d cB2 |
+A2G z) |]

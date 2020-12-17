@@ -1,0 +1,25 @@
+X: 3401
+T: Er woonde laatst een koopman aan de dijk en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 251509074
+%%humdrum-veritas-data 4027372005
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GGGG |
+A/> A/ A/ A/D).('F/ G/ |
+AAGA |
+BB/ B/Az/) .('D// D// |
+BBBd |
+(cB)A3/).('A/ |
+BB/ A/GF/ G/ |
+A/> A/ A/ F/D).('E/ E/ |
+EEDc |
+(BA)G3/) |]

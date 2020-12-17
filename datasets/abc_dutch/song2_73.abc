@@ -1,0 +1,31 @@
+X: 1072
+T: Ze heeft haar witte kousen aangedaan om naar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 1053494727
+%%humdrum-veritas-data 1687963735
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+BBBB |
+B/> A/ B/> c/d2) |
+.('cBAd3// d// |
+B2Gz/) .('D/ |
+BBBB |
+B/> A/ B/> c/d2) |
+.('cBAd |
+G2z2) |
+.('A>BcA |
+F2D2) |
+.('G>ABc |
+d/ d/ c/ B/A2) |
+.('A>BcA |
+F2D2) |
+.('d/> d/ d/ c/BA |
+Gzz2) |]

@@ -1,0 +1,22 @@
+X: 10455
+T: Stookt vier, maakt vier Sinte Maarten komt alhier
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 376773816
+%%humdrum-veritas-data 4134952471
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A2F2 |
+A2F2 |
+E F G G |
+F GA2) |
+.('A A B3/ B/ |
+A2G G |
+F G A C |
+E2D2) |]

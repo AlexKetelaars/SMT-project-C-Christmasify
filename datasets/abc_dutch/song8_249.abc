@@ -1,0 +1,23 @@
+X: 7248
+T: Op eenen witten donderdag, ‘s nachts omtrent [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2766035032
+%%humdrum-veritas-data 3197079150
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G A) [I:setbarnb 1]|
+B B B B B B |
+B4).('B c |
+d2>d2 c B |
+(c B)A2z) .('A |
+A A A A A A |
+A2>).('A2 A B |
+c2>c2 B A |
+(B A)G2z2) |]

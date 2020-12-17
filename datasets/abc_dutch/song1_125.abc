@@ -1,0 +1,15 @@
+X: 125
+T: O Heer wilt myn ghebedt verhooren, Keert nie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 2604247166
+%%humdrum-veritas-data 3414283963
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E4G2G2A4G4c2B2A4G4z4).('G4A2A2G4E4F2E2D4C4z4).('G4A2A2G4c4B2c2A4G4z4).('A4G2F2E4A4G2F2E4z4).('G4A2B2c4G4A2B2c4z4).('c4B2A2B4G4A2c2B4A4) |]

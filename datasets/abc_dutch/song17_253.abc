@@ -1,0 +1,31 @@
+X: 16252
+T: O zoete kitteling vermaaklyk priklend’ zot,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 119151727
+%%humdrum-veritas-data 2525309583
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('(C D) [I:setbarnb 1]|
+E2F2G3G |
+G6E2 |
+D2=B,2C3C |
+G,6).('(G, A,) |
+=B,2C2D2E2 |
+F6(E D) |
+(C E) (D F) (E G) (F _A) |
+G2G,2z2).('(G F) |
+=E4E3E |
+F2F2z2F E |
+D2C2=B,2C2 |
+G,6).('F2 |
+D2(G F)E2(_A G) |
+F4z E D C |
+=B,2C2G,4 |
+C4) :|]

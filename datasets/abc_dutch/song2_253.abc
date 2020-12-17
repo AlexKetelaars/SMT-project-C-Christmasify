@@ -1,0 +1,34 @@
+X: 1252
+T: Bloem bloem Marreker bloem Marreker bloem st [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 3004987562
+%%humdrum-veritas-data 2307565621
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2d2(3B B BG2) |
+(3.('A A A d> d B> BG2) |
+(3.('A A A d> dB2G3/) .('G/ |
+A A d d B BG2 |
+A2d2B2G3/) .('G/ |
+A A d d B BG2 |
+A2d dB2G3/) .('G/ |
+A A d d B BG2 |
+A2d dB2G3/) .('G/ |
+A A d d B/ B/ BG2 |
+A A d dB2G3/) .('G/ |
+A A d d B/ B/ B/ B/G2 |
+A2d dB2G2) |
+.('A2d d B BG2) |
+.('c c c c (3B B BB2) |
+.('A G B A/ A/ A A/ A< G) .('G/ |
+(3A A A d dB2G) .('G |
+(3A A A d dB2G2) |
+.('c c c c B BB2) |
+.('A G B A (3A A AG2) |]

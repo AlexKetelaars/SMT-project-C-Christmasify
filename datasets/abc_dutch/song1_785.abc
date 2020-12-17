@@ -1,0 +1,32 @@
+X: 785
+T: Wat heeft God wond're daden Tot aller tyd gedaan?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 248050246
+%%humdrum-veritas-data 1981495249
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('dd/ d/d_e |
+dd).('z(c/ B/) |
+cc(BA/) G/ |
+A2).('z(B/ c/) |
+dB(c/ B/ c/) d/ |
+(_e>d)c).('B |
+ABBA |
+B4) |
+.('zdc/ B/ c/ d/ |
+c).('cB/ A/ B/ c/ |
+d).('fed |
+d^cd2) |
+.('zdcB |
+cAB2) |
+.('zA/ B/cc) |
+.('zc/ c/dd) |
+.('z(d/ c/)Bc |
+AAB2) |]

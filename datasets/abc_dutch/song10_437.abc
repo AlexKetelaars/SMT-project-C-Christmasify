@@ -1,0 +1,46 @@
+X: 9436
+T: Jong dochters, die zoudt geerne trouwen, En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 4075381195
+%%humdrum-veritas-data 1687666617
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A [I:setbarnb 1]|
+A3-A2A |
+A2A (A B) c |
+d3c2z |
+z2zz2).('A |
+c2BG3- |
+G3-G2G |
+{B}A2GF2z |
+z2zz2z/) .('A/ |
+A3-A2A |
+A2A (A B) c |
+d3c2z |
+z6) |
+{.('A}c2BG3- |
+G3-G2G |
+{B}A2G F z) .('f |
+G z G G z G |
+(B A) G F z) .('G |
+A3B3 |
+c2zz2).('f |
+G> G G G> G G |
+(B A) G F z) .('A |
+(A2>-A2 ^G) E |
+A3-A2z) |
+{.('A}G3B2d |
+c2z d z d |
+c z c B z B |
+A3z2z) |
+.('G3B2d |
+c2z d z d |
+(c d) c (B A) G |
+F3z2) |]

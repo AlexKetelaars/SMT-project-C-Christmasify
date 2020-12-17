@@ -1,0 +1,38 @@
+X: 16898
+T: Minuet d' Dophijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 521370923
+%%humdrum-veritas-data 3124253353
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('de2 |
+f>ed |
+ag2) |
+.('a/ g/ f/ e/ d/ c/ |
+de2 |
+f>ed |
+aa3/^g/ |
+a3) |
+.('aab |
+c'ba |
+gga |
+ba/ g/ f/ a/ |
+ge2) |
+.('f>ga |
+gg3/f/ |
+f3) |
+.('a>ga |
+g>fe |
+ad3/e/ |
+c>BA) |
+.('f>ef |
+g>ae |
+fe3/d/ |
+d2) :|]

@@ -1,0 +1,31 @@
+X: 4857
+T: Op de hoek daar woont een bakker En die bakk [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 3801144017
+%%humdrum-veritas-data 3367361290
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2A [I:setbarnb 1]|
+G2GG2G |
+G2G).('G2G |
+F2FE2E |
+D3).('G2G |
+G2GG2G |
+G2G) .('G G G |
+F2FE2E |
+D2>).('D2 D D |
+c2>c2 c c |
+B3B2B |
+A2AG2E |
+D2>).('D2 D D |
+c2>c2 c c |
+B3A2c |
+B2AG2E |
+D3) |]

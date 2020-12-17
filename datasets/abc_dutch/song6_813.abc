@@ -1,0 +1,35 @@
+X: 5812
+T: Wat slooven en zwoegen de menschen door een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 3473942660
+%%humdrum-veritas-data 1908962682
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+(D B) A G (G d) c B |
+(A G) A B G2 z) .('B |
+(A f) e d (^c B) A G |
+F A G E D z) .('D2 |
+(D B) A G (G d) c B |
+{B} (A G) A B G2 z) .('B |
+A2 B c d2 f d |
+A2 B ^c d2 z) .('d |
+(A B) c d B2 d B |
+(A B) c d B2 z) .('G |
+e2 e e d2 g c |
+(B d) c A G2 z) .('B |
+[M:2/8](A B) c d |
+B2 d B |
+(A B) c d |
+B2 z) .('G |
+e2 e e |
+d2 g c |
+B d c A |
+G2 z2) |]

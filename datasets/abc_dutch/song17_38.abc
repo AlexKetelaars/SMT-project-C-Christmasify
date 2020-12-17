@@ -1,0 +1,42 @@
+X: 16037
+T: Het best op aarde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:59
+%%humdrum-veritas 3602844607
+%%humdrum-veritas-data 552195613
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A2d3e |
+c2>c2d2 |
+d e2<e2f |
+f6) |
+.('d e f ga2 |
+e2>f2g2 |
+f2e3d) |
+.('c2>c2d2 |
+e2f e d c |
+B2>c2d2 |
+c d2<B2A |
+A6) |
+.('a2a3g |
+f2>f2f2 |
+e d2<e2f |
+f4e2) |
+.('g2g3f |
+e6 |
+f e2<d2c |
+B2>c2d2 |
+e d2<c2d |
+e6 |
+f e2<d2c |
+B6) |
+.('g f2<e2d |
+c2>c2d2 |
+d e2<e2d |
+d6) :|]

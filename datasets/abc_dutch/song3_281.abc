@@ -1,0 +1,35 @@
+X: 2280
+T: Komt vrienden wilt eens luisteren En hoor ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 3989339504
+%%humdrum-veritas-data 1350004106
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D2DE2D |
+B3B2).('c |
+B2AG2G |
+E3-E2).('A |
+A2A A A B |
+A3A2).('A |
+(A B) cB2A |
+D3-D2).('E |
+G2AB2d |
+G3-G2).('A |
+B2dc2B |
+A3-A2).('c |
+B2AG2B |
+E) .('F G A B c |
+B3(A2c) |
+B3-B2).('c |
+B2AG2B |
+E) .('F G A B c |
+B3(A2F) |
+G3-G2) |]

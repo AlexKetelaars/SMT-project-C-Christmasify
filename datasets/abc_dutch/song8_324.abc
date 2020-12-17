@@ -1,0 +1,43 @@
+X: 7323
+T: Kindertjes, Kindertjes, steekt yulder keeleg [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2467992378
+%%humdrum-veritas-data 91310007
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d d d d d |
+d e f g f e |
+d3).('c2c |
+B2B A A A |
+G2z) .('g f e |
+d2d g f e |
+d2>).('c2 c c |
+B2BA2A |
+G3-G2z) ||
+[M:2/4].('G A B G [I:setbarnb 11]|
+A2A2 |
+G A B G |
+A3z) |
+.('G A B G |
+A2A2 |
+G A B G |
+A3z) |
+.('d> c B d |
+G2G2 |
+d> c B d |
+G3z) |
+.('d> c B d |
+G2G2 |
+d> c B d |
+G3z) |
+.('G A B G |
+A/ A/ A/ A/ A z) |
+.('G A B G |
+A A/ A/ G z) |]

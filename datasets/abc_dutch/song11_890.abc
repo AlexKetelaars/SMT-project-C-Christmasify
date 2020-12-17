@@ -1,0 +1,26 @@
+X: 10889
+T: “ ‘k Wenschte, da’ ‘k inne den hemel waar’,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 1677768363
+%%humdrum-veritas-data 2064740078
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G GG2A B |
+(c2B) A (G A)) .('B c |
+d2d2^c2e2 |
+d4z2).('B3/ c/ |
+e2d2(d =f) e d |
+(d c)c2(c e)) .('d3/ c/ |
+B2B2d2(c B)) |
+.('B A A G A c) .('B A |
+G2A2B2c2) |
+.('d ^c d c d e) .('d =c |
+B2A> G (BA2)G |
+G2z2z4) |]

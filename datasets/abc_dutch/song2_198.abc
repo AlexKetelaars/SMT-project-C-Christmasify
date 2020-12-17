@@ -1,0 +1,27 @@
+X: 1197
+T: Zolang de boom zal bloeien De leliën heerlij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 4221924633
+%%humdrum-veritas-data 488030730
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(G, B,) DG2G |
+FE2-E z) .('A, |
+C2DF2E |
+D2>-D2 z) .('D |
+(G, B,) D (G A) B |
+(A2F) (E F)) .('G |
+F2E (D E) F |
+G2>-G2 z) .('D |
+(G, B,) D (G A) B |
+(A2F) (E F)) .('G |
+F2E (D E) F |
+G2>-G2 z) |]

@@ -1,0 +1,16 @@
+X: 573
+T: Die Heere moet u dan verhoren Als ghi hebt d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2756062295
+%%humdrum-veritas-data 1232304939
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2F2E2D2C2F2G2A2>G2).('A2G2A2B2A2(A2GFG2)A4) ]|:
+.('z2(FEFGA2)A4A2G4F2E2A2G2G2).('F2E2F2G2A2(F2>E2FDG4)F4) :|]

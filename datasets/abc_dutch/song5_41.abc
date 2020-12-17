@@ -1,0 +1,35 @@
+X: 4040
+T: Mijn zuster en mijn broeder Die leven in gro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 2978526968
+%%humdrum-veritas-data 4061670595
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G2A2c2 |
+(B A)G4).('E2 |
+D2c cB2A2 |
+G6).('G A |
+B B B BB2B2 |
+B2A2A3).('A |
+c2c2c2d c |
+c2B2B3).('D |
+G2>G2A3A/ A/ |
+B d c A G) .('F G E |
+D2c cB2A A |
+G) .('F G Bd2d d |
+d4c3c |
+B6-B) .('D |
+G2>G2A3A/ A/ |
+B d c A G) .('F G E |
+D2c cB2A2 |
+G) .('F G Bd2d2 |
+d4c4 |
+B6-B) |]

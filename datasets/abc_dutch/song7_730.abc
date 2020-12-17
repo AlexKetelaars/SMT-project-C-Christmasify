@@ -1,0 +1,28 @@
+X: 6729
+T: No13
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 1642243502
+%%humdrum-veritas-data 1629905385
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('da [I:setbarnb 1]|
+ag/ f/ge |
+fdda |
+ag/ f/ge |
+f2) |
+.('d!wedge!d/ !wedge!e/ [I:setbarnb 5]|
+f2d!wedge!d/ !wedge!e/ |
+f2d!wedge!d/ !wedge!e/ |
+f!wedge!d/ !wedge!e/f!wedge!d/ !wedge!e/ |
+f2).('da |
+ag/ f/ge |
+fdda |
+ag/ f/ge |
+f2) :|]

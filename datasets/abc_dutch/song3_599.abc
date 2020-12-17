@@ -1,0 +1,26 @@
+X: 2598
+T: Ja dat is zeker en gewis dat hij hij Isaak e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 737529959
+%%humdrum-veritas-data 791777334
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D E FG2G |
+D2DB,3) |
+.('D E F G F E |
+D2CB,3) |
+.('G G AA2A |
+GE2-E2).('A |
+B2AG2F |
+ED2-D3) |
+.('G G A (A d) d |
+(c B) A-A2).('B |
+c2dB2A |
+(G F) G-G3) |]

@@ -1,0 +1,47 @@
+X: 17071
+T: Air pour La Jeunesse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 161734433
+%%humdrum-veritas-data 383338383
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('ga [I:setbarnb 1]|
+bab |
+g^fg |
+aa3/g/ |
+^f).('ga |
+bab |
+g^fg |
+aa3/g/ |
+^f).('dg |
+eea |
+^fga |
+ba3/g/ |
+g).('dg |
+eea |
+^fga |
+ba3/g/ |
+g).('de |
+fga |
+^cde |
+f!mordent!!mordent!e3/d/ |
+d).('fd |
+_eec |
+fdB |
+cc2 |
+B).('ba |
+gfg |
+ec'a |
+b!mordent!!mordent!^f3/g/ |
+g).('ba |
+gfd |
+_ecA |
+BA3/G/ |
+G) |]

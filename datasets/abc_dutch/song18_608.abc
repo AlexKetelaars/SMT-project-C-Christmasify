@@ -1,0 +1,42 @@
+X: 17607
+T: Laat de lonkjes Zyn de vonkjes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 2611270317
+%%humdrum-veritas-data 529914309
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('A2A |
+c2B |
+(A B) c |
+^G2E |
+A2B |
+c2B |
+(A B) c |
+^G2E) |
+.('(e d) e |
+A2A |
+(f e) f |
+B2B |
+(g f) g |
+(a d) e |
+e (d c) |
+c3) |
+.('e2f |
+(g d) e |
+c2d |
+B (A3/ G/) |
+(c d) c |
+c2c |
+e d d |
+d2-d |
+z e d |
+c2d |
+c (B A) |
+A3) :|]

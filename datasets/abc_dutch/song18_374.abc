@@ -1,0 +1,44 @@
+X: 17373
+T: La Musette
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 2553600706
+%%humdrum-veritas-data 102145417
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('Bd [I:setbarnb 1]|
+cBAG |
+D2G/ F/ G/ A/ |
+GDG/ F/ G/ A/ |
+BA).('Bd |
+cBAG |
+D2G/ F/ G/ A/ |
+BAc/ B/ A/ B/ |
+G2) |
+.('dg [I:setbarnb 9]|
+deB3/c/ |
+d2dg |
+deB3/c/ |
+d2c/ B/ A/ G/ |
+cBAG |
+A2).('Bd |
+cBAG |
+D2G/ F/ G/ A/ |
+GDG/ F/ G/ A/ |
+BA).('Bd |
+cBAG |
+D2G/ F/ G/ A/ |
+BAc/ B/ A/ B/ |
+G2).('gd |
+gf/ e/dc |
+B2G/ A/ B/ c/ |
+de/ f/gd |
+B2B/ c/ B/ A/ |
+GAB3/c/ |
+d3) |]

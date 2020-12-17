@@ -1,0 +1,31 @@
+X: 16214
+T: Ach! wat behaagt het Fluitespel, Myn hart en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2338171812
+%%humdrum-veritas-data 2957158453
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('z>A,A,3/A,/ |
+^G,>G,A,3/A,/ |
+E,>).('D,C,3/C,/ |
+B,>A,E,2 |
+A,>).('A,A,3/A,/ |
+^G,>G,A,3/A,/ |
+E,>).('D,C,3/C,/ |
+B,A,E,2 |
+A,2).('A,3/A,/ |
+D>CB,3/A,/ |
+G,>).('E,F,3/E,/ |
+D,>D,G,3/G,/ |
+C,3).('C,/ C,/ |
+D,>E,F,3/D,/ |
+E,>).('D,C,3/C,/ |
+B,A,E,3/E,/ |
+A,4) |]

@@ -1,0 +1,19 @@
+X: 4915
+T: Komt vrienden luistert naar mijn lied Wat er [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 2830964730
+%%humdrum-veritas-data 1912731101
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G G G [I:setbarnb 1]|
+G2>G2 G G |
+G2>).('G2 G G |
+A2>G2 F D |
+C4z) |]

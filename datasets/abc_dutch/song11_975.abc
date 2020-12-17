@@ -1,0 +1,40 @@
+X: 10974
+T: En ik kwammere laatstmaal bij mijn zoetelief [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 1588099122
+%%humdrum-veritas-data 2955042933
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F A [I:setbarnb 1]|
+c> c c c |
+A2F A |
+c> c c c |
+A2F2- |
+F z) .('F A |
+c> c c c |
+d2e f |
+e e d d |
+!fermata!c2).('c c |
+f2g f |
+!fermata!c2d d |
+B2c d |
+c cA2- |
+A z F d |
+c2d c |
+c B A B |
+!fermata!c2).('d e |
+f2g f |
+!fermata!c2d c |
+G2A B |
+d> dc2- |
+c F d3/ d/ |
+c3d |
+c> B A G |
+F2) |]

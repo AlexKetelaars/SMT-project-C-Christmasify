@@ -1,0 +1,30 @@
+X: 5407
+T: Myn Overschoone [Lief, myn schoone], Die ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2672439422
+%%humdrum-veritas-data 1345385533
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('dd3/d/ |
+^cc).('c |
+dd3/d/ |
+ee).('e |
+ff3/f/ |
+ee).('f |
+dd3/d/ |
+^cc2) |
+.('dd3/d/ |
+^cc).('c |
+dd3/d/ |
+ee).('e |
+ff3/f/ |
+e>).('e (f/ e/) |
+(f/ e<)d^c/ |
+d3) :|]

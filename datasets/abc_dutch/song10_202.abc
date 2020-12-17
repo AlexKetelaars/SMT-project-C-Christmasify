@@ -1,0 +1,31 @@
+X: 9201
+T: “Willen wij, willen wij ‘t Haasken jagen doo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 940827302
+%%humdrum-veritas-data 1269754267
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D2F [I:setbarnb 1]|
+A3A2A |
+A3).('A2A |
+B2AA2G |
+F2z).('F2A |
+G2FE2G |
+F2D).('F2A |
+G2FE2G |
+[M:9/8]F2D).('A2A B A G |
+[M:6/8]F3E3 |
+[M:9/8]A2z).('A2A B A G |
+[M:6/8]F3E3 |
+D2z).('d3 |
+D2D D E F |
+D2D).('d3 |
+D2D (E F) E |
+D3) |]

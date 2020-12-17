@@ -1,0 +1,23 @@
+X: 2312
+T: Er was er eens een meisje Zo jong en florisant
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 4031232224
+%%humdrum-veritas-data 1644254450
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G>FGA |
+(GF)E).('D |
+G>ABA |
+D3).('B |
+Addd |
+(cB)A).('G/ G/ |
+FDB3/A/ |
+G3) |]

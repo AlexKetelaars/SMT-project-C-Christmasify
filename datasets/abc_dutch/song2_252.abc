@@ -1,0 +1,30 @@
+X: 1251
+T: Het oude paard lag in de sloot Met zijn beid [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 823993542
+%%humdrum-veritas-data 225220655
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A2Ad2d |
+B2BG3) |
+.('A2Ad2d |
+B B BG3) |
+.('A2A d d d |
+B3G2).('G |
+A2A d d d |
+B3G3) |
+.('c2cc2c |
+B3B2).('B |
+A2GB2A |
+A3G3) |
+.('c2cc2c |
+B2BB2).('B |
+A A G B B A |
+A2AG3) |]

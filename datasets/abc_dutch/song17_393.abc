@@ -1,0 +1,22 @@
+X: 16392
+T: O Wyntje! gy zyt al myn vreugd O Wyntje! gy  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 1634420872
+%%humdrum-veritas-data 4216148884
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('z D G G E A F3/ F/ |
+(G/ A/ B/ c/ A/ B/ c/ d/ B)) .('D G G |
+E G B (A/ G<) G) .('B/ B A |
+B A B ^c d) .('A B c |
+d e ^c> dd2z2) |
+.('z B A G A D G A |
+B G z) .('D E A F G |
+B3(A/ G/) G Gz2) :|]

@@ -1,0 +1,41 @@
+X: 13791
+T: [Divert 16]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 2878464711
+%%humdrum-veritas-data 1948149133
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=72
+K: A clef=treble
+.('e2 [I:setbarnb 1]|
+{d/} c2> d2 e2 e2 |
+(3e d cd4B2 |
+(c B) (d c) !wedge!e (e d c) |
+c2 B2 z2 e2 |
+{d/} c2> d2 e2 e2 |
+^d2> e2 f2) .('a2 |
+(g e) !wedge!B !wedge!B (a f) B B |
+(g e) !wedge!B !wedge!B (a f) B B |
+!wedge!g (g f g) a f e ^d |
+e4d4 |
+c4B4 |
+^A2 B2 z2) .('d2 |
+c2 e2 d2 f2 |
+e2 d c d2 c2 |
+B2 d2 c2 e2 |
+{e/} d2 c B c e a =g |
+{=g/} f2> e2 e d d c |
+c2 B2 z2) .('e2 |
+{d/} c2> d2 e2 e2 |
+(3e d cd4B2 |
+c e {g/} f e/ d/ c2 B2 |
+A4=G4 |
+F4G4 |
+A2 B G A2 B G |
+A2 A2 A2 A2 |
+A4z2) ||

@@ -1,0 +1,37 @@
+X: 11997
+T: Trompet primo
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 68482477
+%%humdrum-veritas-data 1607061358
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=52
+K: D clef=treble
+.('a> g f/ g/ a d e f d/ e/ |
+f/ g/ a f/ g/ a d d/ e/f2) |
+.('f/ e/ f/ g/ f/ g/ a a g/ f/ e a |
+b/ a/ g/ f/ e f e> dd2) |
+.('A d e A A d e A |
+f/ e/ f/ g/ f/ g/ a a g/ f/ e a |
+b/ a/ g/ f/ e f e> dd2) |
+[M:3/4].('f2g2a2 |
+d2>e2f2 |
+a g f g f e |
+d2A2d2) |
+.('(d e) (f e)d2 |
+(f g) (a g)f2 |
+b a2<g2f |
+f4x2) |
+.('a2g2f2 |
+g2a g f e |
+f2g f e d |
+e2A2d2) |
+.('f2d e f g |
+a f b a g f |
+e f2<e2d |
+d4) :|]

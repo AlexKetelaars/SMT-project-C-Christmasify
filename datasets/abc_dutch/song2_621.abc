@@ -1,0 +1,28 @@
+X: 1620
+T: Ach dwaze mensen wilt aanmerken En luister n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 608176005
+%%humdrum-veritas-data 2134282717
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B2B (A B) G |
+E D z) .('E D G |
+E2A (A c) B |
+Gz2).('F G A |
+B2B (A B) A |
+F D z) .('G G F |
+D2E (G A) B |
+A2>).('F2 G A |
+B2B (A B) G |
+[M:10/8]F D F G FD2).('F G A |
+[M:6/8]B2B (A B) G |
+F D F G F D- |
+D3) |]

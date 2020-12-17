@@ -1,0 +1,36 @@
+X: 9115
+T: Wij komen al van ‘t Oosten, wij komen al van ver
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 2669933286
+%%humdrum-veritas-data 3791911326
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G |
+G2F G |
+A G F E |
+D2B, B, |
+D D E F |
+G2z) .('D |
+G2G G |
+G2F G |
+A G F E |
+D2B, B, |
+D D E F |
+!fermata!G) .('D G A |
+B B B B |
+B3B |
+c B A G |
+A2A2 |
+A2z) .('D |
+D E F G |
+A B c A |
+B2F2 |
+G3z) |]

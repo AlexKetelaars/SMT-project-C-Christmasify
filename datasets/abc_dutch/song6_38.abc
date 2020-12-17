@@ -1,0 +1,22 @@
+X: 5037
+T: Daar reed ers een heertje Prins Wilderiedom
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 2423898525
+%%humdrum-veritas-data 1019092869
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('D [I:setbarnb 1]|
+G2G A |
+G2G A |
+G F/ E/ D) .('E |
+F F/ E/ F G |
+F/ F/ F/ E/ D E |
+(F E) F A |
+G3) |]

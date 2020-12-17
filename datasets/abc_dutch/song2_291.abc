@@ -1,0 +1,35 @@
+X: 1290
+T: Gij komt o stille avond Weer tot ons in dit uur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 2091871289
+%%humdrum-veritas-data 2492617918
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(GB)G |
+(A>G)A |
+B3 |
+A2).('D |
+(GB)(d/ e/) |
+(dc)B |
+A2).('(B/ A/) |
+(GB)G |
+A>GA |
+B3 |
+A2).('G |
+(Ec)B |
+A>G (A/ B/) |
+G2z) |
+.('d3 |
+e3 |
+d3 |
+B3 |
+(A2A/ B/) |
+G2) |]

@@ -1,0 +1,35 @@
+X: 1162
+T: Sinte Maarten heugeltje Road road veugeltje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 2039412939
+%%humdrum-veritas-data 2710069141
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G G B A G GD2 |
+G2(B A) G GD2) |
+.('G2(B A)G2D2) |
+.('G G B A G G D D |
+G G B A G GD2) |
+.('G G B A G GD2 |
+G G B AG2D2) |
+.('G G B AG2D2) |
+.('B2A2B2A2 |
+A B ^c d c BA2) |
+.('A B ^c d (c B)A2 |
+A B ^c d (c B)A2) |
+.('A B ^c d (c B)A2 |
+(A B) (^c d) (c B)A2) |
+.('(^c B) (c d) e ee2 |
+^c2B B A A/ A/A2) |
+.('A> A ^c> B A> A E3/ E/ |
+A> A ^c c/ B/A2D2) |
+.('A> A ^c> BA2D2) |
+.('^c> B c> d e> ee2 |
+^c> c B> B A> AA2) |]

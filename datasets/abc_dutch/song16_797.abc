@@ -1,0 +1,32 @@
+X: 15796
+T: koop kammen en brielen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 2222309358
+%%humdrum-veritas-data 1584492607
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2e2 |
+A/ B/^cBA |
+d/ e/fg2 |
+f/ e/ f/ g/fd) |
+.('d2e2 |
+A/ B/^cBA |
+d/ e/ f/ g/af |
+ed/ ^c/d2) |
+.('fe/ f/ f/ e/f |
+gga/ g/x |
+ffe/ d/x |
+eAA2) |
+.('defg |
+ad^cA |
+ad^cA |
+ad^cA |
+B/ ^c/ d/ e/dc |
+d4) |]

@@ -1,0 +1,32 @@
+X: 14910
+T: Sorge nur nicht der Himmel wird sorgen Kucke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 2873576311
+%%humdrum-veritas-data 3799321956
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B2(c B) (A B) |
+G4g f |
+e2d2(c d) |
+B4A2) |
+.('B2c B A B |
+G4g d |
+e2d2c2 |
+B6) |
+.('B2(c B) (A G) |
+d2D2D2 |
+(G F) (G B) (A G) |
+F2>E2D2) |
+.('g2f2e2 |
+d6 |
+e2d2c2 |
+(B A B c)d2) |
+.('(e/ f/) g (c B) (A G) |
+G6) |]

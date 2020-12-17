@@ -1,0 +1,39 @@
+X: 4678
+T: Het is nu ruim veertien maandjes geleden Dat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3502100130
+%%humdrum-veritas-data 1791394188
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B< G B/ [I:setbarnb 1]|
+d2d> dd2e3/ d/ |
+(d c2<)A2).('g g g |
+f> e d f a> g f3/ e/ |
+d4-d) .('c B c |
+d> d d> dd2e3/ d/ |
+(d c2<)A2).('f f g |
+f e d f (a g) f e |
+d4-d) .('d e3/ d/ |
+d2>c2 A> B c3/ B/ |
+(B A2<)G2).('B B3/ B/ |
+A2d> d d> d e3/ d/ |
+A4-A) .('A B c |
+d2>d2 e f g3/ f/ |
+(e d2<)a2).('g f e |
+d2d> e f e c A |
+G4z) .('d e3/ d/ |
+d2>c2 A> B c3/ B/ |
+(B A2<)G2).('B B B |
+A2d d d d e d |
+A4-A) .('A B c |
+d2>d2 e f g3/ f/ |
+(e d2<)a2).('g f e |
+d2d> e f e c A |
+G4z3/) |]

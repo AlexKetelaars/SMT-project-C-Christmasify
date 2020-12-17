@@ -1,0 +1,26 @@
+X: 4237
+T: Dwars door de buien, door weer en wind, Liep [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 3993533125
+%%humdrum-veritas-data 322534004
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2D D |
+A2D2 |
+B2G B |
+A4) |
+.('B2B d |
+(d B)G2 |
+A2A B |
+c4) |
+.('(d B) d B |
+(A c)A2 |
+G2F F |
+G4) |]

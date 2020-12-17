@@ -1,0 +1,29 @@
+X: 5267
+T: Hoe kan Fortuin zoo slecht verkeeren Om van  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 855722680
+%%humdrum-veritas-data 148292209
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A A A [I:setbarnb 1]|
+A2G (G F) E |
+F2F) .('E E F |
+G2c=B2d |
+c2c) .('A A A |
+A2G (G F) E |
+F2-F) .('E E F |
+G2c=B2d |
+c2c) .('A A A |
+A2G (G F) E |
+F2F).('E2F |
+G2c=B2d |
+c3).('A2G |
+F2A (c B) G |
+F3) |]

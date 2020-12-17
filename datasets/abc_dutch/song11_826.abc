@@ -1,0 +1,23 @@
+X: 10825
+T: Dare was een schamel vrouwe, En haren man was dood
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1084831993
+%%humdrum-veritas-data 1599581880
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B c2<d2e |
+d2!fermata!B2z2).('d2 |
+^c d e d!fermata!A2).('G B |
+d2e2d2d2 |
+(c B)A2z2).('(B c) |
+d2(d c) (B A) B c |
+d4-d z) .('(G B) |
+d2(d c)B2A3/ A/ |
+G4z4) |]

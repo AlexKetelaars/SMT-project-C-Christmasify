@@ -1,0 +1,36 @@
+X: 15249
+T: Maar wie koopt er mijn haantje, zoo vlug en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 915611102
+%%humdrum-veritas-data 1999694721
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G3// G// [I:setbarnb 1]|
+GEG |
+cGA/ G/ |
+FDG |
+EC) :|]
+.('c3// c// [I:setbarnb 5]|
+cBA |
+DE^F |
+G>A B/ c/ |
+d2).('d3// d// |
+e/ d/ c/ B/ A/ G/ |
+^FBA |
+Gz/ G/ A/ G/ |
+GFF |
+dzD3// E// |
+FAG |
+cz) ]|:
+.('C3// C// [I:setbarnb 16]|
+EEG |
+ccc |
+dBG |
+cz) :|]

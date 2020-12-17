@@ -1,0 +1,26 @@
+X: 14766
+T: Moderato
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 3652464333
+%%humdrum-veritas-data 876521634
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('e c A e c A |
+a g fe3 |
+d d d c c c |
+B B BA3) |
+.('A A/ B/ c/ d/e3 |
+f f fe3 |
+d' d' d' c' c' c' |
+b b ba3) |
+.('E E E D D D |
+C C CB,3 |
+d' d' d' c' c' c' |
+b b ba3) :|]

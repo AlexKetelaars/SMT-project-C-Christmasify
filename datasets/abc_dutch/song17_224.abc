@@ -1,0 +1,38 @@
+X: 16223
+T: Hoe gaat myne ziel ter feest, En hoe vernoeg [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 165265546
+%%humdrum-veritas-data 1718667321
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e [I:setbarnb 1]|
+e3e/ e/c3e |
+A2).('f2d2d d |
+g2d2e2).('g2 |
+c2c f2<B2c |
+B4) ||
+.('e4 [I:setbarnb 6]|
+^c c d ef2f e |
+d2(d c)B2B) .('^G |
+A B c d B B c d |
+e2f2d2d) .('d |
+g f e dc2).('c B |
+A2A Ad2).('d c |
+B2B Be2).('e d |
+^c2c cd2).('B B |
+e2A B2<^G2).('e |
+e3e/ e/c3e |
+A2).('c2f2f e |
+d2>c2B2G2) |
+.('c B c d2<e2f |
+d2).('d ef4 |
+e2e de2e ||
+e [I:setbarnb 21]|
+e2) |]

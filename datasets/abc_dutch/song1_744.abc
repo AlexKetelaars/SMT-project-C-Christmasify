@@ -1,0 +1,29 @@
+X: 744
+T: Wat baed u de voochdy der Landen, End’ dat g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 1310222115
+%%humdrum-veritas-data 2113833861
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('B4A2A2 |
+G B A G^F2D2) |
+.('G2^F G A G F E |
+D8) |
+.('B4A2A2 |
+G B A G^F2D2) |
+.('G2^F G A G F E |
+D8) |
+.('x2x2x2B2 |
+d2d2d2c2 |
+d6).('d2 |
+_e d c B A B c A |
+B2).('A B c B A G |
+^F2).('G A B c A F |
+G6) |]

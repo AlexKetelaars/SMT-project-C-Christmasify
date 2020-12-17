@@ -1,0 +1,35 @@
+X: 5891
+T: Er kwam een mannetje uit Holland gegaan, Met [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2493197431
+%%humdrum-veritas-data 3441309208
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+c3c |
+c c c e |
+(d c) B A |
+G2z2) |
+.('(d2e) d |
+(d2c) d |
+e2g2 |
+(d2c)) .('d |
+e2e2 |
+e e e g |
+f3e |
+d2z2) |
+.('e2d e |
+c3e |
+(d c) (B A) |
+G2).('G2 |
+A2B c |
+(G2f) e |
+{d e}d4 |
+c2z2) |]

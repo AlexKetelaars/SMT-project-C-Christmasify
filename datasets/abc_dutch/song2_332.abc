@@ -1,0 +1,31 @@
+X: 1331
+T: Als wij de trommels horen razen En wij march [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 3339162793
+%%humdrum-veritas-data 1670810943
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D3/ E/ [I:setbarnb 1]|
+G2G2A2A2 |
+B2G2z) .('A B3/ c/ |
+d2>d2(e2f) e |
+d4-d) .('d e3/ d/ |
+c2e2d> c B3/ d/ |
+(G2B2)d2).('c B |
+A2c2B2A2 |
+G6).('D3/ D/ |
+G2B> A G> G G3/ A/ |
+B2G2z) .('B B c |
+d2>d2(e2f) e |
+d6).('d d |
+c2e2(d> c) B3/ d/ |
+(G2B2)d>) .('d c B |
+A2c cB2A3/ A/ |
+G4-G) |]

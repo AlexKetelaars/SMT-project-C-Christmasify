@@ -1,0 +1,27 @@
+X: 1913
+T: Kom vrienden wil mij eens aanhoren Wat vroeg [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 3469873959
+%%humdrum-veritas-data 3474678912
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G/ [I:setbarnb 1]|
+GG/GG/ |
+GG/G3/ |
+G3/z).('G/ |
+G/ G/ G/ G/ G/ G/ |
+GG/G3/) |
+[M:1/4].('d |
+[M:4/4]dddd |
+gdd).('d |
+e/ e/ e/ e/ge |
+d2B).('B/ B/ |
+A/ A/Bed |
+B2A) |]

@@ -1,0 +1,31 @@
+X: 7288
+T: God heeft zyn wonderwerken En hemelshooge kracht
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2380313337
+%%humdrum-veritas-data 3042610488
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G B d e |
+d2B B |
+B A G A |
+B2z) .('G |
+G B d e |
+d2B B |
+B A G A |
+B2z) .('B |
+B G A B |
+d2c B |
+B A G A |
+A2z) .('d |
+d e d c |
+(B A) G A |
+B B A A |
+G2z) |]

@@ -1,0 +1,31 @@
+X: 4057
+T: En Joele was zo schoon En waarlijk uitgelezen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 1257143190
+%%humdrum-veritas-data 1469132987
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D B B B |
+B3).('A |
+G G A G |
+F2E) .('E |
+E c c c |
+c3).('B |
+A A B3/ A/ |
+A2G) .('D |
+D B B B |
+B3).('A |
+G G A G |
+F2E) .('E |
+E c c c |
+c3).('B/ B/ |
+A A B3/ A/ |
+A2G) |]

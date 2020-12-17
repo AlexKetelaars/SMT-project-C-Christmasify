@@ -1,0 +1,31 @@
+X: 8997
+T: En als ‘t dan Sinte Gregoreken was, Met blij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 875594551
+%%humdrum-veritas-data 4003458112
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2G A A A |
+G G GE2).('G |
+G2GA2A |
+G3E2).('G |
+G G GA2A |
+G2G).('E2D |
+D3G2F |
+[M:9/8]E3C3).('C2D |
+[M:6/8]E2EG2G |
+A2>).('A2 A A |
+G G G F F F |
+E3).('C2D |
+E2EG2G |
+A2).('GA2B |
+G G G A B B |
+c2zz2) |]

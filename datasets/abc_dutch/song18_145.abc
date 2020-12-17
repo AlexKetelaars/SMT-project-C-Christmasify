@@ -1,0 +1,36 @@
+X: 17144
+T: Pasmetroij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 1315797453
+%%humdrum-veritas-data 3459417015
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('a g [I:setbarnb 1]|
+f2d2d2e f |
+g2g2g2a g |
+f2e f g f e d |
+e2A2A2).('a g |
+f2d2d2e f |
+g f g ab2e2 |
+f g a b2<!trill!!trill!e2d |
+d6x) |
+.('f/ g/ [I:setbarnb 9]|
+[M:6/8]a2a a> b a |
+f3d3 |
+a2a a> b a |
+f3d2).('a/ f/ |
+f e f d e f |
+g2gg2a/ g/ |
+f2f f> e d |
+e2AA2).('a/ g/ |
+f> e f d> e f |
+g2ab2e |
+f> g f e> d c |
+d2dd2) :|]

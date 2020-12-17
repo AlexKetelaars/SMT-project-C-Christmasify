@@ -1,0 +1,22 @@
+X: 3827
+T: En er waren eens twee zoeteliefjes En die ha [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 4269651335
+%%humdrum-veritas-data 3029660915
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d d G G G G A A |
+G AB2B4) |
+.('d d G G G G A A |
+G AB2B2).('B c |
+d2-d d/ d/ c B c d |
+e2e2e2).('c e |
+d2-d d/ d< c e< d c/ |
+B8) |]

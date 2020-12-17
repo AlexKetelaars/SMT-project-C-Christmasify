@@ -1,0 +1,35 @@
+X: 3813
+T: Klein zieltje klein zieltje ’k sta voor d’r  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 3844293285
+%%humdrum-veritas-data 1364835222
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B B A G A B |
+B A ^GA2).('A |
+B B e d> c B |
+c B AG2).('D |
+B B A G A B |
+B A ^GA2).('A |
+B B e d> c B |
+c B AG3) |
+[M:2/4].('G/ G/ B/ B/d2 |
+e/ e/ e/ e/d2) |
+.('c c/ c/ B B/ B/ |
+A AG2) |
+.('d d/ d/ c c/ c/ |
+B/ B/ B/ B/ A A) |
+.('d d/ d/ c c/ c/ |
+B B/ B/ A A) |
+.('G/ G/ G/ G/d2 |
+e/ e/ e/ e/d2) |
+.('c c/ c/ B B/ B/ |
+A dG2) |]

@@ -1,0 +1,208 @@
+X: 13903
+T: [Duetto 1.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 1410886964
+%%humdrum-veritas-data 3217968135
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('g [I:setbarnb 1]|
+(g e c) {/d/} c B c |
+(d2B) !wedge!G !wedge!A !wedge!B |
+c2{d c B} c (d f d) |
+c3B2).('g |
+(g e c) {/d/} c B c |
+(^c d B) G A B |
+c2{d c B} c (c e d) |
+c G E!fermata!C2) |
+.('(e [I:setbarnb 9]|
+d) B cd2(e |
+c) A Bc2d |
+(B/ d/) g/ b/ a/ g/ (^f/ e/) d/ c/ B/ A/ |
+(B/ d/) g/ b/ a/ g/ (^f/ e/) d/ c/ B/ A/) |
+.('(B/ d/ e/) d/ A/ c/ (B/ d/ e/) d/ A/ c/ |
+(B/ d/ e/) d/ A/ c/ (B/ d/ e/) d/ A/ c/ |
+(B/ d/ e/) d/ A/ c/ (B/ d/ e/) d/ A/ c/ |
+(B/ b/) a/ g/ ^f/ a/ (a/ g/) =f/ e/ d/ f/) |
+.('(f/ e/) d/ c/ B/ c/ (d/ c/) B/ A/ ^G/ B/ |
+(A/ E/) ^F/ ^G/ A/ B/ (c/ d/) e/ c/ B/ A/ |
+(B/ d/) e/ ^f/ g/ f/ (g/ d/) e/ f/ g/ a/ |
+b/ ^f/ g/ a/ b/ c'/ d'/ b/ g/ d/ B/ G/ |
+D3!trill!!trill!A3) |
+.('(G2B)(A2D) |
+(G2B)(A2D) |
+G z ^F G z F |
+G z (^F G) z) .('F |
+G G G B, B, B, |
+C z (^G A) z E |
+E2zE2z |
+D2).('zz2z |
+z6 |
+B B B c c c |
+B2z z) .('a g |
+^f2z z g f |
+f2z z (a g) |
+f (f e) d f e |
+d (d c) B) .('d c |
+B (B A) G (G A) |
+B (B c) d (d e) |
+(f2e)(f2e) |
+f3!fermata!^f2) ||
+[K:Eb] .('G, [I:setbarnb 41]|
+C E Gc2!trill!!trill!d |
+e c =Bc2!trill!!trill!d |
+e e ee2!trill!!trill!f |
+g e de2).('g |
+(a g) ^f g z =f |
+(=e g) c f z g |
+(a f) d (g e) c |
+(=B f) ed2).('z |
+z6 |
+z2zz2G, |
+C E Gc2!trill!!trill!d |
+e c =Bc2z |
+z2).('c (=B d) G |
+z2B (A c) G |
+(F A) B (E G) c |
+F G G, C z) .('d |
+{/f}e2e e g e |
+d2c' b z d |
+{/f} e e e e g e |
+(d2c') b z) .('!trill!!trill!B |
+(e/ B/) =A/ B/ c/ B/ G/ B/ F/ B/ E/ B/ |
+(D/ B/) =A/ B/ (c/ B/) _A/ B/ G/ B/ F/ B/ |
+(E/ B/) =A/ B/ (c/ B/) G/ B/ F/ B/ E/ B/ |
+(D/ B/) =A/ B/ (c/ B/) _A/ B/ G/ B/ F/ B/ |
+E) .('(b/ a/ g/ f/) g (g/ f/ e/ d/) |
+e (e/ d/ c/ =B/) c (c/ _B/ A/ G/) |
+A (A/ G/ F/ =E/) F (A/ G/ F/ E/)) |
+.('(F A c) (=e g a) |
+c'2>c'2 a f |
+e2!trill!!trill!e(g2f) |
+e2z e f g |
+(a2f) f g a |
+(b2g) e f g |
+(a2f) f g a |
+b) .('z z b (b/ a/ g/ f/) |
+g (g/ f/ e/ d/) e (e/ d/ c/ =B/) |
+c (c/ B/ A/ G/) A (c/ B/ A/ G/) |
+A2zz2z |
+z6) |
+.('G G G A A A) |
+.('b/ g/ e/ B/ G/ E/G,2z |
+a/ f/ d/ B/ F/ D/B,2z |
+b/ g/ e/ B/ G/ E/G,2z |
+a/ f/ d/ B/ F/ D/B,2z) |
+.('E/ G/ B/ e/ g/ b/f2z |
+C/ E/ G/ c/ e/ g/d2z |
+A,/ C/ E/ A/ c/ e/f2z |
+B,/ D/ F/ B/ d/ f/g2z) |
+.('!trill!!trill!c2e e d c |
+=B (^f g) z ^c d |
+z (^A =B) z (^F G) |
+G,2zz2).('G, |
+C E Gc2!trill!!trill!d |
+e c =Bc2!trill!!trill!d |
+e e ee2!trill!!trill!f |
+g e de2).('!trill!!trill!g |
+(a g ^f) g z =f |
+(=e g) c f z !trill!!trill!g |
+(a f) d (g e) c |
+(a f) d (g e) c |
+(a f) d z!fermata!z2 |
+(g e) c!fermata!z2).('g |
+^f2f (f =a) g |
+^f2f (f =a) g |
+(^f =a) g (f a) g |
+(^f e) d (c =B) =A |
+=B2B (B d) c |
+=B2=B (=B d) c |
+(=B d) c (B d) c |
+(=B A G F E D) |
+(E G =A =B c d) |
+(e =B c d =e ^f) |
+g6 |
+g6 |
+{^f g a}!trill!!trill!g3z2) ||
+[K:C] .('(e [I:setbarnb 116]|
+d) B cd2(e |
+c) A Bc2d |
+(B/ d/) g/ b/ a/ g/ (^f/ e/) d/ c/ B/ A/ |
+(B/ d/) g/ b/ a/ g/ (^f/ e/) d/ c/ B/ A/) |
+.('(B/ d/ e/) d/ A/ c/ (B/ d/ e/) d/ A/ c/ |
+(B/ d/ e/) d/ A/ c/ (B/ d/ e/) d/ A/ c/ |
+(B/ d/ e/) d/ A/ c/ (B/ d/ e/) d/ A/ c/ |
+(B/ b/) a/ g/ ^f/ a/ (a/ g/) =f/ e/ d/ f/) |
+.('(f/ e/) d/ c/ B/ c/ (d/ c/) B/ A/ ^G/ B/ |
+(A/ E/) ^F/ ^G/ A/ B/ (c/ d/) e/ c/ B/ A/ |
+(B/ d/) e/ ^f/ g/ f/ (g/ d/) e/ f/ g/ a/ |
+b/ ^f/ g/ a/ b/ c'/ d'/ b/ g/ d/ B/ G/ |
+D3!trill!!trill!A3 |
+G2z z) .('a g |
+^f2z z g f |
+f2z z a g |
+f (f e) d (f e) |
+d (d c) B (d c) |
+B (B A) G (G A) |
+B (B c) d (d e) |
+(f2ef2e) |
+!fermata!f3!fermata!^f2).('g |
+(g e c) {/d/} c B c |
+(d2B) !wedge!G !wedge!A !wedge!B |
+c2{d c B} c (d f d) |
+c3B2).('g |
+(g e c) {/d/} c B c |
+(^c d) B !trill!!trill!G A B |
+c2c (d e) d |
+c2z c d e |
+(f2d) d e f |
+(g2e) c d e |
+g2z g (g/ f/ e/ d/) |
+e (e/ d/ c/ B/) c (c/ B/ A/ ^G/) |
+A (A/ G/ F/ E/) F (A/ G/ F/ E/) |
+F2zz2z) |
+.('(_E ^F A) (c _e ^f) |
+g (d e) f (c d) |
+e (B c) d (A B) |
+c z (B c) z (B |
+c) z (B c) z (B |
+c2)zz2z |
+E E E F F F) |
+.('(E/ G/) ^F/ G/ A/ G/ E/ G/ D/ G/ C/ G/ |
+B,/ G/ ^F/ G/ A/ G/ =F/ G/ E/ G/ D/ G/ |
+E/ G/ ^F/ G/ A/ G/ E/ G/ D/ G/ C/ G/ |
+B,/ G/ ^F/ G/ A/ G/ =F/ G/ E/ G/ D/ G/ |
+E) .('(g/ f/ e/ d/) e (e/ d/ c/ B/) |
+c (c/ B/ A/ ^G/) A A/ =G/ F/ E/ |
+F (F/ E/ D/ ^C/) D (F/ E/ D/ C/) |
+(D F A) (d f a) |
+c'6 |
+(c' b) ba3 |
+{/b} (a g) gf3) |
+.('e/ g/ a/ g/ f/ d/ e/ g/ a/ g/ f/ d/ |
+e/ g/ a/ g/ f/ d/ e/ g/ a/ g/ f/ d/ |
+e/ g/ c'/ b/ a/ g/ f/ e/ d/ c/ B/ A/ |
+G3!trill!!trill!d3) |
+.('c e f(g2f) |
+e c de2d |
+c e f(g2f) |
+e c de2d |
+z2zz2).('g |
+(g e) c {/d} c B c |
+d B G !trill!!trill!G A B |
+c2c (d f d) |
+(c3B2)).('g |
+(g e c) {/d} c B c |
+(d B) G (G A B) |
+c2!trill!!trill!c (d e d) |
+c z g d e d |
+c z g d e d |
+c z {/e} (d c) z {/e} d |
+c2zb2z |
+c'2zz2z) |]

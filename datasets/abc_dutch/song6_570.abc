@@ -1,0 +1,30 @@
+X: 5569
+T: Mijn hertken heeft altijts verlanghen Naer u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 292680782
+%%humdrum-veritas-data 1301827232
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('d2d d |
+A (^c/ d/) f (e/ d/) |
+e2A2 |
+z) .('e f f |
+e g (f/ e/) (d/ ^c/) |
+d2).('c2 |
+e d c3/ B/ |
+A4 |
+z) .('f e d |
+(c> B) A3/ A/ |
+B> G (d ^c) |
+d2).('e3/ e/ |
+f> f e d |
+c2).('e3/ e/ |
+f (e/ f/) (f/ e/) (d/ ^c/) |
+d4) |]

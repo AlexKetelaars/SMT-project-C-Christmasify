@@ -1,0 +1,24 @@
+X: 5492
+T: Wel op, wel op, mijn cnaepjes goet, En sadel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3615668042
+%%humdrum-veritas-data 3924060986
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('G [I:setbarnb 1]|
+BBcc |
+d2G).('d |
+edcA |
+(B/ c/ d/ c// B//A3/)).('A/ |
+B/ d/dcA/ A/ |
+(GF/ E<)D).('D/ |
+F/ F/FGA |
+(Bc)).('G3/A/ |
+(B/ A/) (B/ c/)d2) |]

@@ -1,0 +1,23 @@
+X: 4264
+T: Er was een schoon maagd zeer vroeg opgestaan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 636943004
+%%humdrum-veritas-data 523860531
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2d> dg2f3/ e/ |
+d2d2B3).('B |
+c c c de2e e |
+d2c2B2).('d d |
+g2d> d g g f e |
+d4B3).('B |
+c c c d e e e e |
+(d2c2)B3) |]

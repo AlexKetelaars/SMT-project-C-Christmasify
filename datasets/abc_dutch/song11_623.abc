@@ -1,0 +1,46 @@
+X: 10622
+T: Een en enen God alleen En enen Zaligmaker en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3477886706
+%%humdrum-veritas-data 1438029373
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F3C |
+F C F A |
+c3).('B |
+A G A B |
+c2d B |
+A2G2 |
+F4) ||
+.('F2E D [I:setbarnb 9]|
+D CC2) ||
+.('F2F F [I:setbarnb 11]|
+F2C2 |
+F2F2 |
+G2G2 |
+c3B |
+A2G2) ||
+.('x2z F [I:setbarnb 17]|
+F2F F/ F/ |
+F2C2 |
+F F F F |
+F2C2) ||
+.('x2z F [I:setbarnb 22]|
+F> F F F/ F/ |
+F2C2 |
+F F F F |
+F2C2) ||
+.('x2z C [I:setbarnb 27]|
+F2A B |
+c3B |
+A G A B |
+c2d B |
+A2G G |
+F4) |]

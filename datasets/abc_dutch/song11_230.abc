@@ -1,0 +1,47 @@
+X: 10229
+T: En dansen is geen zonde, Ik heb het ondervonden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 3452860297
+%%humdrum-veritas-data 3488657625
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d d d d |
+B2G d |
+d d d d |
+B2G) .('G |
+F F c c |
+F3F |
+E E B B |
+E3).('d |
+d d d d |
+B2G d |
+d d d d |
+B2G) .('G |
+F F F F |
+F3F |
+F G ^G ^A |
+B4) |
+.('G2G2 |
+G3A |
+G2E2 |
+F4) |
+.('D ^D E _E |
+D2d z |
+D2d z |
+B AG2) |
+.('G2G2 |
+G3A |
+G2E2 |
+F4) |
+.('D ^D E _E |
+D2d z |
+D2d z |
+G GG2) |]

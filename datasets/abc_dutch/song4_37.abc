@@ -1,0 +1,28 @@
+X: 3036
+T: Een jagertje wou eens uit jagen gaan uit 't  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 439232700
+%%humdrum-veritas-data 716145186
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G G A |
+B2BB2).('d |
+d e d A e d |
+B3).('d3 |
+B c d B c d |
+(e2c)A2).('c |
+A B c (c d) e |
+(d2B)G2).('d/ d/ |
+d e d A c B |
+G2AB2c |
+d3-d2).('d/ d/ |
+d e d A c B |
+G3-G2) |]

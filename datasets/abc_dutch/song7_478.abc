@@ -1,0 +1,30 @@
+X: 6477
+T: No 13 Volkslied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 1223940710
+%%humdrum-veritas-data 370249061
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('A>E B3// A// |
+dcz) |
+.('A>E B3// A// |
+czz) |
+.('Bz/ e/ e/ B/ |
+eez) |
+.('c>A B3// E// |
+Az!fermata!z) ||
+.('B/ G<BB/ [I:setbarnb 10]|
+eE).('G3// c// |
+B2G3// F// |
+Bzz) |
+.('c/ A<cc/ |
+cF)(3.('e/ ^d/ c/ |
+B2B |
+Ezz) |]

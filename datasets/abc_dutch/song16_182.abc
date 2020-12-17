@@ -1,0 +1,24 @@
+X: 15181
+T: Vijftig jaren is het geleden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 3654858327
+%%humdrum-veritas-data 1886603761
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: E clef=treble
+.('B ^A =A [I:setbarnb 1]|
+G2G G ^^F G |
+B2B) .('c B ^A |
+B2FA2G |
+E3) :|]
+.('F F F [I:setbarnb 5]|
+^A2A A G F |
+B2B) .('F F F |
+^A2A A d3/ c/ |
+B2>B2 ^A =A) |]

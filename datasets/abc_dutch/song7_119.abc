@@ -1,0 +1,28 @@
+X: 6118
+T: Rammetjens van voore
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 10037501
+%%humdrum-veritas-data 2186805427
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d4c de2 |
+f2d4).('f g |
+a4f ga2 |
+b2a4).('a2 |
+a2e2e2f g |
+a6) :|]
+.('f g [I:setbarnb 7]|
+a4a ag2 |
+f4d2).('e f |
+g4g gf2 |
+e4e2).('A2 |
+d2d ef2e2 |
+d4) |]

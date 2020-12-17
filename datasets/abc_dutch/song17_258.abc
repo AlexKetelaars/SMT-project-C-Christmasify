@@ -1,0 +1,31 @@
+X: 16257
+T: ‘k Heb meenigmaal gedocht, Zoo de vrees my n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 833244966
+%%humdrum-veritas-data 2606126882
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+d2>e2^c3d |
+d6A A |
+_B2>A2G3B |
+E6).('A2 |
+F2D2A3d |
+B6A2 |
+(^G2A) B2<B2A |
+A4z2).('e2 |
+^c2>B2 A G F E |
+F6).('G2 |
+A2>A2d3e |
+^c4z) .('A B c |
+(d ^c d e d e f g |
+e d ^c B A G F E |
+F G A) d2<^c2d |
+d6) :|]

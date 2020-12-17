@@ -1,0 +1,25 @@
+X: 10828
+T: Mooi Amberecht schreef een brievetje fijn: A [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 2344330742
+%%humdrum-veritas-data 1614037273
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('z2d B B c |
+d2e d ^c d |
+!fermata!B2).('de2d |
+c B cc2d |
+e3z2z) |
+.('e3g2f |
+d3(f2e) |
+(d c) ed3 |
+z2).('ef2g |
+e3c2d |
+(e d) ed3) |]

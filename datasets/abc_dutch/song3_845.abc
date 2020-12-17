@@ -1,0 +1,26 @@
+X: 2844
+T: Ik stond laatst op de bergen Zag ik van verr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 3544589923
+%%humdrum-veritas-data 1116353761
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2BB2c |
+d3B2).('d |
+[M:4/4]e gg2f e e e |
+[M:3/4]d2>).('d2 d e |
+d2>e2 d c |
+(e f) g) .('B A d |
+(d g) g f e d |
+A2>).('d2 e d |
+c> a a g f e |
+d2g) .('d d g |
+f2e d c B |
+G3) |]

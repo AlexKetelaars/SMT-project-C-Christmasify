@@ -1,0 +1,35 @@
+X: 9694
+T: Ik ging lestmaal uit wandelen om mijn zinnen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 1701150742
+%%humdrum-veritas-data 4292984937
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GA2A |
+B2A G) .('G G |
+(A B) A (G A) B |
+A2D!fermata!D2).('D |
+c2>(B2 c) d |
+e3d2).('G |
+c2c (B A) G |
+(B2c/ B/A2)).('A |
+A2AB2B |
+A2zz2).('F |
+G2F (E F) G |
+(A2F)D2).('A |
+B2G (G A) B |
+(A2G)F2z) |
+.('(G F) E (E D E) |
+D2zz2).('D |
+G2A (B c) d |
+e2z).('(d2B) |
+c2B (A G) A |
+G3z2z) |]

@@ -1,0 +1,35 @@
+X: 3431
+T: Daar gaat een roep van land tot land Reikt w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 462986076
+%%humdrum-veritas-data 4156516193
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GBd3/d/ |
+BdG).('G |
+ABcA |
+G>GF).('D |
+B2A/ G/ F/ G/ |
+A3).('G |
+E/ F/ A/ G/FE |
+D3).('D |
+A>GF3/F/ |
+GDD3/).('D/ |
+c>BAA |
+B>AG2) |
+.('D2DD |
+(DG)G3/G/ |
+G2AA |
+B4) |
+.('G2GD |
+(GB)dc |
+B2A3/A/ |
+G4) |]

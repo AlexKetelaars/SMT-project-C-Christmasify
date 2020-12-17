@@ -1,0 +1,32 @@
+X: 13014
+T: Twee emmertjes water halen, Twee emmertjes pompen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 21294736
+%%humdrum-veritas-data 3083213792
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G2>A2 A A |
+G2GE2C) |
+.('G2>A2 A A |
+G3E3) |
+.('G2GA2A |
+G3E3) |
+.('F2FF2C |
+F2FF3) |
+.('A2GF2E |
+[M:9/8]D2D2<C2).('C2E |
+[M:4/4]G2G2G2A3/ G/ |
+G F F FF2).('D3/ E/ |
+F2F2F2G3/ F/ |
+F E E EE2).('C3/ E/ |
+G2G2G2c3/ B/ |
+B A A AA2).('A3/ A/ |
+G2>z2B3z |
+c2>z2z4) |]

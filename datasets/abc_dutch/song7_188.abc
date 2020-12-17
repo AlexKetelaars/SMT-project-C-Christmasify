@@ -1,0 +1,24 @@
+X: 6187
+T: Blijf, o Hoop! mijn lot verzoeten; ‘k Ben, d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 78421864
+%%humdrum-veritas-data 2971340825
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G2Ec2G |
+F2Dd2G) |
+.('(G c) c (c B) G |
+(G e) (d/ c/) (cB2)) |
+.('G2c (d> c) (A/ F/) |
+^F2d (e> d) (B/ G/)) |
+.('e2(d// c// B// A//)G2E |
+D2(A/ G/)(F2E)) |
+.('(E G) c (e> c) (G/ E/) |
+(G> F) (E/ D/)C2z) |]

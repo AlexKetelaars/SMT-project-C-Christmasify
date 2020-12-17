@@ -1,0 +1,15 @@
+X: 189
+T: Ghelucksaeligh is die mensche die leeft, In  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 2562658921
+%%humdrum-veritas-data 3134116611
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F4G2A2F4A4c2c2B2A2G4z4).('A4F2E2D4C4F2G2A2c2B4A4z4).('c4B2A2G4A4G2F2F2E2F4z4).('c4A2B2c4B4A2G2F2E2D4C4z4).('F4E2F2G4A4B2A2G2F2E4z4).('F4G2A2B4A4G2F2E2F2G4F4) |]

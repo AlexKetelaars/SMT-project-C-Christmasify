@@ -1,0 +1,22 @@
+X: 12999
+T: Torentje torentje bussekruit! Wat hangt er uit?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 3050428521
+%%humdrum-veritas-data 3167926940
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G G G A A A |
+G2GE2).('A |
+G2GE2A |
+G2GE2).('E |
+G2GA2A |
+G3E3) |
+.('c c GF2E |
+D3C3) |]

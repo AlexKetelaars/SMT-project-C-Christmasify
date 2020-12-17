@@ -1,0 +1,25 @@
+X: 9782
+T: Als kleine Jan kwam van den akker Als kleine [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 379167247
+%%humdrum-veritas-data 84504784
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F A |
+c B A G |
+F F F A/ B/ |
+c A !fermata!G) .('C |
+F F F A |
+c B A G) |
+.('d d d e/ f/ |
+e dc2) |
+.('B B A A/ c/ |
+G c F) |]

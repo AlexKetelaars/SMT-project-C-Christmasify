@@ -1,0 +1,30 @@
+X: 6153
+T: De Fiool
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3135942388
+%%humdrum-veritas-data 3958009802
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('g [I:setbarnb 1]|
+d2e dc2d A |
+B2A GB2d c |
+d2>d2d3).('g |
+d2e dc2d A |
+B2A GA2G ^F |
+G6) :|]
+.('d e [I:setbarnb 7]|
+f2>f2f2c d |
+e2>e2e2f e |
+d2c BA2B c |
+B4B2).('g a |
+b2>b2a3g |
+f2g a2<d2d |
+=e2^f ga2g f |
+g4) |]

@@ -1,0 +1,46 @@
+X: 10284
+T: 43
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:04
+%%humdrum-veritas 1499975316
+%%humdrum-veritas-data 4057401718
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('e2a2 [I:setbarnb 1]|
+{a}g2f e!mordent!!mordent!d2e c |
+!mordent!!mordent!B2A G c G c e |
+d G B d c G c e |
+d G B d).('c2a2 |
+{a}g2f e!mordent!!mordent!d2e c |
+!mordent!!mordent!B2A G {d e}f2e d |
+!uppermordent!!uppermordent!e2d c2<!mordent!!mordent!B2c |
+!fermata!c4) |
+.('g2c'2 [I:setbarnb 9]|
+!mordent!!mordent!b2a g!mordent!!mordent!a2b g |
+!mordent!!mordent!^f2e d B G B d |
+^F D F A G D B d |
+^F D A d).('d2c'2 |
+!mordent!!mordent!b2a g!mordent!!mordent!a2b g |
+!mordent!!mordent!^f2e d!mordent!!mordent!c2B A |
+!mordent!!mordent!B2c d!mordent!!mordent!B2A G |
+G4).('b2e2 |
+!mordent!!mordent!^d2^c B b g ^f e |
+e ^d ^c B g B e g |
+c' e a c' ^f d f a |
+b d g be2c'2 |
+b2a g2<!mordent!!mordent!^f2e |
+e4).('e2a2 |
+{a}g2f e!mordent!!mordent!d2e c |
+c B A G c G c e |
+d G d f e G e g |
+B G d g).('c2a2 |
+{a}g2f e!mordent!!mordent!d2e c |
+c B A G {d e}f2e d |
+e2d c2<!mordent!!mordent!B2c |
+c4) :|]

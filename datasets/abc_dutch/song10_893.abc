@@ -1,0 +1,30 @@
+X: 9892
+T: Klein, klein, kleuterken! Wat doede gij in d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 2204372962
+%%humdrum-veritas-data 3444562888
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G3c3 |
+G2FE2G |
+F F ED2D |
+C2>-C2 z) .('C |
+D2DD2D |
+E2ED2D |
+E2E^F2F |
+G2>-G2 z) .('G |
+G2Gc2c |
+G3E2G |
+G2Gc2c |
+G3-G2z) |
+.('G3c3 |
+G2FE2G |
+F2ED2D |
+C3-C2z) |]

@@ -1,0 +1,22 @@
+X: 10040
+T: Rikke, rikka, teekas, Veur ‘n spelle te zien
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 3229135404
+%%humdrum-veritas-data 4063034070
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F E F E |
+F2C2) |
+.('D C (3C D E |
+F4) |
+.('F E F E |
+F2C2) |
+.('D C (3C D E |
+F4) |]

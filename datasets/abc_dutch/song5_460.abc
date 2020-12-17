@@ -1,0 +1,28 @@
+X: 4459
+T: Vrienden ik zal u iets vertellen [2x]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 3696164425
+%%humdrum-veritas-data 1278078537
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+(3.('D D D [I:setbarnb 1]|
+G G A d B !fermata!G) (3.('D D D |
+G G A d B !fermata!G z) .('B |
+[M:6/8]c c c/ c/ A B c |
+B2dG2).('B |
+A A cF2A |
+G F ED3- |
+D3-D2).('D |
+G3-G2B |
+d3-d2D |
+G2AB2c |
+d3).('e3 |
+d d d c B A |
+G3-G2) |]

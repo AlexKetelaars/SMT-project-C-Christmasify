@@ -1,0 +1,15 @@
+X: 5
+T: O deuchdt ghy zijt zoo schoone, Ghy zijt zoo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:28
+%%humdrum-veritas 853088985
+%%humdrum-veritas-data 3910819950
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2G2GG2EF2E2z).('cB2AG2GA2Bc2BA4<G4).('G2G2GG2EF2E2z).('cB2AG2GA2Bc2BA4<G4z).('G(c>BA)Az).('Ad>cB).('A2<G2GGG(EF2E4)).('zGccB2G2).('zGAA^FFG>=FECD2E2).('zGccB2G2).('zGAA^FFG>=FECD2E2) |]

@@ -1,0 +1,29 @@
+X: 10057
+T: Jupieter is verheven Al op zijn troon met macht
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 91374992
+%%humdrum-veritas-data 3109382273
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('D [I:setbarnb 1]|
+G2GG2A |
+G3E2).('E |
+G2AA2G |
+[M:5/4]G4).('D |
+[M:6/4]G2GG2A |
+c3A2).('G |
+G2AB2A |
+[M:5/4]A4).('A |
+[M:6/4]A2BA2G |
+[M:9/4]G2G(A2Bc2)).('A |
+[M:6/4]E2FG2A |
+G3D2).('D |
+G2AB2G |
+G4-G) |]

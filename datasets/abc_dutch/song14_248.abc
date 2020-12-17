@@ -1,0 +1,31 @@
+X: 13247
+T: Ich war erst sechzehn Sommer alt Unschuldig  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 606192760
+%%humdrum-veritas-data 2666518443
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2B (B c) A |
+A G GG2G |
+A2A (A B) c |
+c2>B2 z) .('d |
+B2dA2d |
+G2gf2d |
+e2e {d/} (^c B) c |
+e2>d2 z) .('d |
+(d B) c (d g) d |
+(d B) cc2c |
+(c A) B (c a) (f/ d/) |
+c2>{B c} B2 z) .('d |
+B z d A z d |
+B z d A z g |
+(g e) c (B c) A |
+A2>{G A} G2 z) |]

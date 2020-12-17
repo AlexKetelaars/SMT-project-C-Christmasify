@@ -1,0 +1,16 @@
+X: 566
+T: O Heer mijn God hoe lang salt dueren Dat ghi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3839938060
+%%humdrum-veritas-data 2163775767
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2c2c2c2(c2>B2A2)c2c2c2B2A2).('A2A2A2(GFGABcd2)c2(=BA)(c=B)c4z2).('c2c2c2(c2>_B2A2)c2c2c2B2A2) ]|:
+.('z2B2A2G2(A2GFED2<G2)FF4E2F4) :|]

@@ -1,0 +1,35 @@
+X: 10103
+T: Devote ziel die God mint bovenal, Komt, ziet [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 2827965980
+%%humdrum-veritas-data 3997505786
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F2FG |
+AGBA |
+A2G2 |
+F2z2) |
+.('A2FA |
+cccd |
+=B4 |
+c2=Bd |
+!fermata!c4) |
+.('c2cc |
+d2dc |
+A2BG |
+c2z).('A |
+A3c |
+ccBA |
+G2(AB) |
+A2z2) |
+.('c2AF |
+B2AF |
+(GA)(GF) |
+F2z2) |]

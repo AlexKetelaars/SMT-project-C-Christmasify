@@ -1,0 +1,45 @@
+X: 14716
+T: Aria Des deux Petites Savoyaards
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 612109338
+%%humdrum-veritas-data 811260544
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C2C [I:setbarnb 1]|
+F2FG2A |
+F2FF2E |
+D2DE2C |
+F3).('C2C |
+F2FG2A |
+F2FF2E |
+D2DE2C |
+F2F).('=B2G |
+c2G=B2G |
+c2GE2c |
+A2A A G F |
+E3!trill!!trill!D3 |
+C3A2z |
+c2z) .('C D E |
+F2FG2G |
+B2BG2G |
+A2FA2c |
+!fermata!G2>).('A2 B c |
+B2>G2 A B |
+c2>A2 B c |
+B2>G2 A B |
+c2>A2 B c |
+B2BG2G |
+!fermata!c2>).('A2 B c |
+B2BG2G |
+A2>A2 B c |
+B2BG2G |
+F f f f c c |
+c A A A F F |
+F3) |]

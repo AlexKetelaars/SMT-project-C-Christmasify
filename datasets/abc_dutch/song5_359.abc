@@ -1,0 +1,31 @@
+X: 4358
+T: Majoor daar gaat hij heen Maar hoe gaat hij  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 1216226722
+%%humdrum-veritas-data 2143744825
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> G G3/ A/ |
+B3).('B |
+[M:3/4]B B B B c B |
+[M:2/4]A3).('A |
+A d d d |
+de2).('d3// d// |
+d A A A |
+[M:3/4]d2>).('d2 e d |
+[M:7/8]BA2).('B c d d |
+[M:2/4]BG2).('G/ G/ |
+[M:3/4]F A A !fermata!D) .('e e |
+[M:6/8](d e) d (c B) A |
+G2).('G (F A) A |
+D2>-D2) .('e e |
+(d e) d (c B) A |
+[M:2/4]G3) |]

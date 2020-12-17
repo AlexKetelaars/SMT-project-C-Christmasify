@@ -1,0 +1,36 @@
+X: 14729
+T: Etude
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 433177255
+%%humdrum-veritas-data 1599853896
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+(3.('D E F (3G A B (3c d e |
+(3f d A (3A A A (3A A A |
+(3g e A (3A A A (3A A A |
+(3a f d (3A A A (3G F E) |
+(3.('D E F (3G A B (3c d e |
+(3f d A (3a a a (3a a a |
+(3^g b a (3g f e (3d c B |
+(3c e c (3B d BA2) |
+(3.('(A, B, C) (3(C D E) (3(E F G) |
+(3G F E (3D C B, (3A, A, A, |
+(3(D E F) (3(F G A) (3(A B c) |
+(3(d c B) (3(d c B)A2) |
+(3.('D E F (3G A B (3=c d c |
+(3B =c d (3e f g (3b a ^g |
+(3a f d (3A B A (3G F E |
+(3D F A (3d f ed2) :|]
+.('g2g2g2 |
+f4z2 |
+c2c2c2 |
+d4z2 |
+f2z2z2 |
+!fermata!D6) |]

@@ -1,0 +1,52 @@
+X: 14777
+T: Trio
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1191989573
+%%humdrum-veritas-data 1680962136
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('g2z2 |
+z4) ||
+.('B c/ B/ A B [I:setbarnb 4]|
+c cA2 |
+c d/ c/ B c |
+d dB2) |
+.('B c/ B/ A B |
+c ee2 |
+d (^c/ d/ ^d/ e/ ^e/ f/ |
+g) zz2) |
+.('B c/ B/ A B |
+c cA2 |
+c d/ c/ B c |
+d dB2) |
+.('B c/ B/ A B |
+c ee2 |
+d (^c/ d/ ^d/ e/ ^e/ f/ |
+g2)A2) ||
+[K:D] .('B> A A A [I:setbarnb 20]|
+B> A A A |
+d> c c c |
+e> d d d) |
+.('f> e d B |
+B> A ^G A |
+c> B A G |
+F z) .('A A |
+B> A A A |
+B> A A A |
+d> c c c |
+e> d d d) |
+.('f e d B |
+B> A A A |
+A A B c |
+d2d2) ||
+.('g d/ d/ d f [I:setbarnb 36]|
+g d/ d/ d f |
+g> g g g |
+g2z2) |]

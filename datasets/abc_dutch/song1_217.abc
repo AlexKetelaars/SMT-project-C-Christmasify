@@ -1,0 +1,15 @@
+X: 217
+T: Loeft Godt: het sijn heerlicke dinghen, Dat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1967073254
+%%humdrum-veritas-data 464808898
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('C4G4A4G2A2c2B2A4G4z4).('A4A2B2c4A4G2F2E4D4z4).('D4E2F2G4E4F2G2A4G4z4).('A4c2B2A4G4E2G2F4E4z4).('E4D2C2G4E4F2E2D4C4z4).('G4E2A2G2E2F2G2A4G4z4).('G4c4A4B2G2A2c2B4A4z4).('c4A2A2G2E2G2G2F4E4) |]

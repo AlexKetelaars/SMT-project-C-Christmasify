@@ -1,0 +1,30 @@
+X: 11963
+T: Balet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 2840656098
+%%humdrum-veritas-data 4069300035
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d6^c3/ c/ |
+d2c _BA2a3/ e/ |
+f> d c> d A> f e3/ d/ |
+d2>).('e2 f> g a3/ _b/ |
+a> g a> fg3f |
+f2).('!mordent!!mordent!d e f g a _b |
+^g2a2a3g |
+a4x3) |
+.('e [I:setbarnb 9]|
+e4z a g3/ a/ |
+f> d g> a _b> g g3/ f/ |
+g2).('!mordent!!mordent!c'> _b a> b g3/ f/ |
+e> c f> g a> _b g3/ f/ |
+f2).('!mordent!!mordent!a> d ^c> f e3/ d/ |
+^c> A d> e f> g e3/ d/ |
+d4) :|]

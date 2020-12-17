@@ -1,0 +1,23 @@
+X: 10005
+T: En daar reed laatst een ruiter al door de st [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1311730121
+%%humdrum-veritas-data 1070125219
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/4
+Q: 1/4=120
+K: D clef=treble
+.('A> GF2F3/ E/ [I:setbarnb 1]|
+D4E2F2B2B2 |
+A6).('A> GF2F3/ E/ |
+D4E2F2B2B2 |
+A6).('F> GA2B d |
+d2c> BA2A GF2).('E F |
+A A G FE6).('F3/ G/ |
+A2B dd2c> BA2A G |
+F2).('E F A G F ED6) |]

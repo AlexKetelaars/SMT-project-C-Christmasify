@@ -1,0 +1,32 @@
+X: 17195
+T: Boure
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 3731568937
+%%humdrum-veritas-data 630780568
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('z/ A/ B/ ^c/ [I:setbarnb 1]|
+d4A3G |
+^F G F ED2d2 |
+e2^f2g f g a |
+^f e f g f e d ^c |
+d4).('A3G |
+^F G F ED2d2 |
+e2^f2g f g a |
+^f6) :|]
+.('a2 [I:setbarnb 9]|
+e d e ^fe2a2 |
+e d e ^fe2f2 |
+g2^f2e3d |
+^c d c BA2z/) .('A/ B/ c/ |
+d4A3G |
+^F G F ED2F2 |
+G ^F E D2<^C2D |
+D6) :|]

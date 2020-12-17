@@ -1,0 +1,23 @@
+X: 1701
+T: Er was eens een meissien dat vroeg op wou st [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 1672104738
+%%humdrum-veritas-data 240403691
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G> GG2A B |
+B2B> AG2z) .('d |
+d2d dG2A B |
+A G F ED2z) .('B |
+d d d dG2B3/ d/ |
+(c2B2)A2).('D D |
+G G A B B B c/ c/ c |
+(B2A2)G2) |]

@@ -1,0 +1,46 @@
+X: 9544
+T: 57. BOERENSCHOTS (II)
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 941894720
+%%humdrum-veritas-data 305071019
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('f2f2f2f2 |
+f e d eb2a2) |
+.('a g g f f e e d |
+d c c B!mordent!!mordent!B2A2) |
+.('f2f2f2f2 |
+f e d eb2a2) |
+.('a g g f f e e d |
+d2f2d2z2) ||
+[K:A] .('e2d2B4 [I:setbarnb 10]|
+c2A2E4) |
+.('D E G F E D C B, |
+A, G, A, CF2E2) |
+.('e2d2B4 |
+c2A2E4) |
+.('E F G F E D C B, |
+A,2C2A,2z2) ||
+[K:D] .('f2f2f2f2 [I:setbarnb 18]|
+f e d eb2a2) |
+.('a g g f f e e d |
+d c c B!mordent!!mordent!B2A2) |
+.('f2f2f2f2 |
+f e d eb2a2) |
+.('a g g f f e e d |
+d2f2d2z2) ||
+[K:G] .('d2g> ab4 [I:setbarnb 26]|
+a2g> ed4) |
+.('d d f fe2d2 |
+d d f fe2d2) |
+.('d2g> ab4 |
+a2g> ed4) |
+.('c' c' c' c'b2g b |
+d'2f2g2z2) |]

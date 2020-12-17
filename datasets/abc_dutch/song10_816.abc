@@ -1,0 +1,28 @@
+X: 9815
+T: Als Peken over zijn onderdeur lag, Koekoek!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 643538338
+%%humdrum-veritas-data 3082509602
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G G A B |
+B B AA2).('c |
+B3z2).('D |
+G2GG2B |
+B2A (A B)) .('c |
+B3z2z) |
+.('d d d d c B |
+c2cc2z) |
+.('B B B B A G |
+A2AA2).('D |
+G2AB2d |
+B3A3 |
+G3z2z) |]

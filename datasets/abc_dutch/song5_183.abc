@@ -1,0 +1,15 @@
+X: 4182
+T: Een maagd uit Amsterdam Die daar de reis aannam
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 4028756687
+%%humdrum-veritas-data 3596283197
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 1/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B e d c> BA3).('G/ G/ A B c d/ d/ e d/ c/ B e d> cB2>).('G2 d> d e> Bd2>).('d2 e> d (d/ f) e/ e d e d (B c/) B/A3) |]

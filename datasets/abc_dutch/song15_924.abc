@@ -1,0 +1,21 @@
+X: 14923
+T: Du stilles guten Leben Kanst mir Vergnügung geben
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 4092854096
+%%humdrum-veritas-data 2045567068
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F A G/ F/ A G/ F/ [I:setbarnb 1]|
+d c z f e f g B |
+A G z G A G f e |
+d2>=B2 c d/ e/ c B |
+c2) |
+.('z c c/ B/ A/ G/ F _E [I:setbarnb 5]|
+_E D z d d/ c/ B/ A/ G F) ||

@@ -1,0 +1,38 @@
+X: 16722
+T: Noijt heeft de Min een wreeder schight gesch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1608123344
+%%humdrum-veritas-data 2435457879
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c2d3/(c// d//) |
+e3e |
+f>ed3/c/ |
+B2G2) |
+.('c>cE3/F/ |
+G>G).('A3/B/ |
+c>dB3/c/ |
+d3).('e |
+c>BA3/G/ |
+^F>FG3/A/ |
+A2G2) |
+.('d>dg3/f/ |
+e>dc3/B/ |
+B2A2) |
+.('f>fe3/d/ |
+^c3c |
+d>ee3/d/ |
+d3).('d |
+g>fe3/d/ |
+c(_B/ A<)Bc/ |
+A3).('e |
+f>ed3/e/ |
+c>Bc3/d/ |
+d2c2) :|]

@@ -1,0 +1,52 @@
+X: 11863
+T: Lavione nouvelle
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 3936669891
+%%humdrum-veritas-data 1571018066
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('z/ G/ [I:setbarnb 1]|
+G>dd |
+ga3/b/ |
+a>ab |
+gf3/e/ |
+d3) |
+.('cc3/B/ |
+A>AB |
+cd3/e/ |
+f3) |
+.('g/ f<ea/ |
+a2!mordent!!mordent!f |
+x/> z/ f// g// a// b// ^f/ x/ |
+g3) |
+.('f_e3/d/ |
+cfd |
+(_e/ d<)cB/ |
+B3- |
+B2) :|]
+.('z// b// a// g// [I:setbarnb 19]|
+^f>ga |
+dg3/f/ |
+e3) |
+.('cf3/_e/ |
+d>ef |
+(c/ d<)cB/ |
+B3) |
+.('cd_e |
+d2c |
+ff3/_e/ |
+d3) |
+.('!mordent!!mordent!e>fg |
+^f>ga |
+ba3/g/ |
+g>a b/ ^f/ |
+gg3/^f/ |
+g3- |
+g2) |]

@@ -1,0 +1,25 @@
+X: 7226
+T: Daer kwaemen dry koningen met een sterr’, Uy [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 1074485624
+%%humdrum-veritas-data 2170012517
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c c c d d d |
+e2dc2).('G |
+c c c d d d |
+e2dc3) |
+.('d2>(e2 d) c |
+(c B) A B A G |
+A3-A2z) |
+.('d2>(e2 d) c |
+(c B) A B A G |
+A3-A2z) |]

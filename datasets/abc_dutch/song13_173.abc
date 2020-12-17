@@ -1,0 +1,27 @@
+X: 12172
+T: Een Engelsch’ Koopman zeer rijk en machtig D [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 2086000372
+%%humdrum-veritas-data 846901629
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('DEFG |
+F>E(D3/F/) |
+A(G/ F/)E2) |
+.('ABAG |
+GF/ A/ B/ B/A) |
+.('D>FAA |
+dcB/ c/ d/ c/ |
+BA).('AA |
+GFFF |
+(E/ A/)BBA) |
+.('AAGF/ F/ |
+FE/ F/GE |
+D2z2) |]

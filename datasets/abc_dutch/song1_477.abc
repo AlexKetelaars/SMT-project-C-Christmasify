@@ -1,0 +1,69 @@
+X: 477
+T: Ah! Heere Jesu treckt gy 't herte Dat u gene [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 497829412
+%%humdrum-veritas-data 4019080500
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c2cc |
+B2A2 |
+G3G |
+A2F2) |
+.('c4 |
+ccBA |
+G4 |
+ddcB |
+A4) |
+.('ccBA |
+GFEC) |
+.('c3c |
+B2A2 |
+G3G |
+F4) |
+.('c2cc |
+B2A2 |
+G3G |
+A2F2) |
+.('c4 |
+ccBA |
+G4 |
+ddcB |
+A4) |
+.('ccBA |
+GFEC) |
+.('c3c |
+B2A2 |
+G3G |
+F4) |
+.('GGGF |
+E2C2) |
+.('GGAB |
+c3).('c |
+ccBA |
+G3E) |
+.('FAGF |
+E3).('D |
+CCC(D/ E/) |
+F3).('E |
+DDD(E/ F/) |
+G3).('F |
+EEE(F/ G/) |
+A3).('G |
+FF(F/ G/ A/ B/ |
+c)cBA |
+G4) |
+.('ddcB |
+A4) |
+.('ccBA |
+GFEC) |
+.('c3c |
+B2A2 |
+G3G |
+F4) |]

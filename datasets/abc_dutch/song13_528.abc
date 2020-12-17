@@ -1,0 +1,143 @@
+X: 12527
+T: [NLB167120_01]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 1720157982
+%%humdrum-veritas-data 774779314
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('F> F F G/ A/ (A/ G/ F/ E/) |
+E2F2c3/ c/ |
+c f e d c B |
+B2A2A3/ F/) |
+.('F2E2B3/ G/ |
+G2F2c3/ c/ |
+(3c d e (3f e d (3c B A |
+A2G2) |
+.('c3/ c/ [I:setbarnb 9]|
+(3c d e (3f e d (3c B A |
+A2G2G3/ G/ |
+(3G A B (3c B A (3G F E |
+E2F2).('F3/ F/ |
+F2(3d c B (3A G F |
+F2E2e3/ e/ |
+(3e d cc2g3/ a/ |
+(3g f ee2).('e3/ e/ |
+(e/ d/) (f/ d/)c2=B2 |
+=B2c2c3/ c/ |
+c2(3a g f (3e d c |
+(3B A GG2).('B3/ B/ |
+B2(3g f e (3d c B |
+[M:2/4](3A G FF2 |
+[M:3/4]c> c (3c d e (3f e d |
+(3c B AA2G2) |
+.('F> F F G/ A/ A/ G/ F/ E/ |
+E2F2c3/ c/ |
+c f e d c B |
+B2A2G3/ F/ |
+F2E2).('B3/ E/ |
+G2F2c3/ A/ |
+(3G B dF2G2 |
+^G2A2a3/ a/ |
+(3a g ff2).('f3/ f/ |
+(3f e dd2d3/ d/ |
+c d/ B/A2G2 |
+F6) |
+[M:2/4].('f f (g/ f/ e/ d/) |
+c c c d/ e/ |
+f f (g/ f/ e/ f/) |
+g2c'2) |
+.('f f g/ f/ e/ d/ |
+c c c d/ e/ |
+f f (g/ f/ g/ a/) |
+f ff2) |
+.('a a b/ a/ g/ f/ |
+g gc'2 |
+f f (g/ f/ e/ d/) |
+e aA2) |
+.('d e (g/ f/ e/ d/) |
+c d e a |
+g2f2 |
+e2f2 |
+e2f2 |
+!fermata!e4) |
+.('f f (g/ f/ e/ d/) |
+c c c d/ e/ |
+f f (g/ f/ e/ f/) |
+g2c'2) |
+.('f f (g/ f/ e/ f/) |
+c c c d/ e/ |
+f f (g/ f/ g/ a/) |
+f ff2) |
+.('f2g2 |
+a2b2 |
+(b/ a/ g/ f/) (e/ f/ g/ e/) |
+f c A F) |
+.('f2g2 |
+a2b2 |
+c A/ c/ (c/ B/ A/ G/) |
+F FF2) |
+.('f f (g/ f/ e/ d/) |
+c c c d/ e/ |
+f f (g/ f/ e/ f/) |
+g2c'2) |
+.('f f (g/ f/ e/ d/) |
+c c c d/ e/ |
+f f (g/ f/ g/ a/) |
+f ff2) |
+.('c c A A |
+G G/ A/F2 |
+G G A A |
+(B/ c/ B/ A/)G2) |
+.('c c A A |
+G G/ A/F2 |
+G G A A |
+(c/ B/ A/ G/)F2) |
+.('G G A A |
+B BG2 |
+A A B B |
+c cA2) |
+.('c3B |
+A A A c |
+B2G2 |
+F F/ E/F2) |
+.('f f (g/ f/ e/ d/) |
+c c c d/ e/ |
+f f (g/ f/ e/ f/) |
+g2c'2) |
+.('f f (g/ f/ e/ d/) |
+c c c d/ e/ |
+f f (g/ f/ g/ a/) |
+f ff2) |
+.('a a b/ a/ g/ f/ |
+g gc'2 |
+f f (g/ f/ e/ d/) |
+e aA2) |
+.('d e (g/ f/ e/ d/) |
+^c d e a |
+g2f2 |
+e2f2 |
+e2f2 |
+!fermata!e4) |
+.('f f (g/ f/ e/ d/) |
+c c c d/ e/ |
+f f (g/ f/ e/ f/) |
+g2c'2) |
+.('f f (g/ f/ e/ d/) |
+c c c d/ e/ |
+f f (g/ f/ g/ a/) |
+f ff2) |
+[M:3/4].('F> F F G/ A/ (A/ G/ F/ E/) |
+F2F2c3/ c/ |
+c f e d c B |
+B2A2A3/ F/) |
+.('F2E2B3/ G/ |
+G2F2c3/ A/ |
+G/ B/ dF2E2 |
+F6) :|]

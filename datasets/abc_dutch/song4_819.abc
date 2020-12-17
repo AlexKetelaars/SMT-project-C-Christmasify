@@ -1,0 +1,29 @@
+X: 3818
+T: Daar was eens een boer met veel geduld Die w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 488548877
+%%humdrum-veritas-data 3551793677
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G GB2G |
+A2Bc2).('A |
+G G GB2G |
+E2ED2).('D/ D/ |
+c2c c B A |
+B3d3) |
+.('c2c c B A |
+B2BB2).('G |
+A d d d c B |
+A3G3) |
+.('c2c c B A |
+B2BB2).('G |
+A d d d c B |
+A3G2) |]

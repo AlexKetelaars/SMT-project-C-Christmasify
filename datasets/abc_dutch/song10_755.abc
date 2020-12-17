@@ -1,0 +1,27 @@
+X: 9754
+T: Te Antwerpen onder den gulden troon, het hui [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 848679390
+%%humdrum-veritas-data 3669777362
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+F B c d d e |
+(d c) dc2).('B |
+c2c d d B |
+(c A) G G !fermata!F) .('F |
+(F B) cd2d |
+d c dB2).('d |
+e d c d B G |
+G3F2).('B |
+(B c) d B c d |
+(f e) d!fermata!c2).('F |
+B2d (d c d) |
+B3z2z) |]

@@ -1,0 +1,27 @@
+X: 3414
+T: Geachte waarde huisman schoon En wat ik u za [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 1266100069
+%%humdrum-veritas-data 2543021480
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ [I:setbarnb 1]|
+g2ef2e |
+[M:7/8](d e) c B>) .('f a/ a/ e |
+[M:6/8](f e) (d/ c/) (B/ c/)d2) |
+.('d B d (e g) (f/ e/) |
+[M:7/8](d e) c B>) .('a g (f/ e/) |
+[M:6/8](f> e) (d/ c/) (B/ c/)d2) |
+.('d B d (e g) (f/ e/) |
+[M:7/8](d e) c B>) .('a g (f/ e/) |
+[M:6/8]f2e (d e) c |
+[M:5/8]B2).('A d (e/ f/) |
+[M:9/8]g2(a/ g/) fe2).('e/ g/ g (f/ e/) |
+[M:6/8]f> e (d/ c/) (B/ c/)d2) |]

@@ -1,0 +1,23 @@
+X: 3340
+T: Het was op een mooie zomerdag Dat ik in 't b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 1180908343
+%%humdrum-veritas-data 1401657387
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d B d [I:setbarnb 1]|
+g2ag2f |
+c2>).('c2 A c |
+f2ed2c |
+B2>).('d2 B d |
+g2ba2g |
+e2>).('a2 g3/ e/ |
+d2g (f e) f |
+g3) |]

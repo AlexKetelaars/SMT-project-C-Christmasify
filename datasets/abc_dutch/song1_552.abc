@@ -1,0 +1,26 @@
+X: 552
+T: Galliard
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 1177160346
+%%humdrum-veritas-data 2286810060
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2>f2e3d |
+c4c3B |
+A4A4) |
+.('f2>g2f3e |
+d2>e2c3d |
+B4B4) |
+.('d2>d2g3g |
+c2>c2f3e |
+e4e4) |
+.('d2>d2d3e |
+c2>d2d3c |
+c4c4) |]

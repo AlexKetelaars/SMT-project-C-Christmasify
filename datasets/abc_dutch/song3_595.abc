@@ -1,0 +1,29 @@
+X: 2594
+T: Maar wat zag ze in haar vaders klein boomgaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 4051728832
+%%humdrum-veritas-data 2851663877
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GFE/ E/ |
+EDA |
+AGA |
+B2).('D/ D/ |
+GFE/ E/ |
+EDA |
+AGA |
+B2).('B3// c// |
+d>A A3// B// |
+c>c) .('B3// A// |
+A>G F3// E// |
+ED).('A |
+AcB |
+G2) |]

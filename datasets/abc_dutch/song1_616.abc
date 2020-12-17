@@ -1,0 +1,15 @@
+X: 616
+T: Tot u mijn God vroech wil ic waken Want mijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 733645175
+%%humdrum-veritas-data 2655274696
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2d2d2>c2(BABc2<d2)c(BAB)GF2D2).('F2G2A2c4B4A2B4z2).('d2d2>c2(BABc2<d2)cB2(AG)F2D2z2).('c2c2c2(BABcd2)c4B2A4G4) |]

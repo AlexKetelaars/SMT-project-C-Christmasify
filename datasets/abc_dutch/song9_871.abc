@@ -1,0 +1,38 @@
+X: 8870
+T: Laat die boeren dansen, dansen, dansen Laat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 2128487786
+%%humdrum-veritas-data 308700311
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B A B c |
+d2B2 |
+c2A2 |
+B2G2) |
+.('B A B c |
+d2B2 |
+c2A2 |
+G4) |
+.('G2B2 |
+B2A B |
+c c A A |
+B2B2) |
+.('G2B2 |
+B2A B |
+d c B A |
+G4) |
+.('G2B2 |
+B2A B |
+c c A A |
+B2B2) |
+.('G2B2 |
+B2A B |
+d c B A |
+G4) |]

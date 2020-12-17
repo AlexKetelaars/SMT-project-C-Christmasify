@@ -1,0 +1,30 @@
+X: 14662
+T: Menuet non ge ne veux plus d’amour
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 2313117294
+%%humdrum-veritas-data 3748791728
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c2c2B c |
+e d c Bc2 |
+e2e2d e |
+g f e de2) |
+.('c2c2B c |
+e d c Bc2 |
+d ef2e2 |
+!trill!!trill!e4d2) |
+.('G AG2g2 |
+g2f ef2 |
+G AG2f2 |
+f2e de2) |
+.('c2c2B c |
+e d c Bc2 |
+d fe2!trill!!trill!d2 |
+c4z2) :|]

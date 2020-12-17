@@ -1,0 +1,30 @@
+X: 8548
+T: Kleine Piet ging wand’len met zijn Pa in ‘t  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:48
+%%humdrum-veritas 53502674
+%%humdrum-veritas-data 2726722398
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('E2GB2c |
+B3G3) |
+.('A2A (G A) B |
+F3-F2z) |
+.('F2ed2c |
+B3G3) |
+.('F2B=A2c |
+B2zz2).('G/ A/ |
+B2G/ A/B2G/ A/ |
+(B3e2)z) |
+.('(B c) B (A G) F |
+G2zz2).('G/ A/ |
+B2G/ A/B2G/ A/ |
+(B3e2)z) |
+.('(B c) B (A G) F |
+E2zz2!fermata!z) |]

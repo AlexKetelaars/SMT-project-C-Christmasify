@@ -1,0 +1,32 @@
+X: 12574
+T: Renwegen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 152894716
+%%humdrum-veritas-data 347572272
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c B [I:setbarnb 1]|
+A2F2F2).('f g |
+a2f2f2).('g a |
+b2a2g2f2 |
+e f g ec2).('c B |
+A2F2F2).('f g |
+a2f2f2).('g a |
+b2a g2<!trill!!trill!g2f |
+f6) |
+.('e f [I:setbarnb 9]|
+g2g2g2).('(f e) |
+d2d2d2).('(d e) |
+f2(e f) g f e d |
+c2c2c2).('(g a) |
+b2b2b2).('(a g) |
+a2a2a2).('(g f) |
+e2(f g2<)!trill!!trill!g2f |
+f6) :|]

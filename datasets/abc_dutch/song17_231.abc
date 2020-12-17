@@ -1,0 +1,47 @@
+X: 16230
+T: Waar zal, waar zal in ‘t eind’ myn Liefdesch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1097885911
+%%humdrum-veritas-data 3317614776
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+Z3 |
+z4z c |
+(F E) F (G A) B |
+A2z z z c |
+(d _e) d (c B) A |
+G3C2).('c |
+(c2>c2 B) c |
+A3F2f |
+(f2>e2 f) f |
+d3G3 |
+(c2>c2 B) A |
+G2z z z) .('G |
+G2^FG2A |
+B2z z z c |
+d2^FG2A |
+^F2>z2 z) .('A |
+(B A) G (_e d) c |
+B3^F3 |
+G2AA3 |
+G2z4 |
+z z) .('d (c B A |
+G A) FE3 |
+z z G (c B A |
+G A) FE3 |
+z z) .('C (F E) F |
+(G A) BA3 |
+G2).('cc2c |
+c2cc2c |
+c2).('B (A G) F |
+E2DC3 |
+z z cF3 |
+G3C2F |
+G3F2) |]

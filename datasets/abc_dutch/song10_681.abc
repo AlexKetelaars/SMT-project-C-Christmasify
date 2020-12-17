@@ -1,0 +1,32 @@
+X: 9680
+T: Zoekend in zijn hooge vlucht, Of hij kon de  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 4239729281
+%%humdrum-veritas-data 4246472747
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F2G [I:setbarnb 1]|
+(A> G) FA2B |
+c3).('d2c |
+B2A (G A) B |
+A2F).('F2G |
+(A> G) FA2B |
+c3).('d2c |
+B2A (G F) G |
+F3) :|]
+.('A2B [I:setbarnb 9]|
+c3E2F |
+G3).('A2G |
+F2E (D E) F |
+(E D) C).('F2G |
+(A> G) FA2B |
+c3).('d2c |
+B2A (G F) G |
+F3) |]

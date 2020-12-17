@@ -1,0 +1,24 @@
+X: 9195
+T: “Meiseken jong, mijn maagdeken fier, Waar st [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 1031544195
+%%humdrum-veritas-data 2595386498
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+(3.('C C C [I:setbarnb 1]|
+F2A2(3G F E |
+F2>z2) (3.('C C C |
+F2A2(3G F E |
+F2z2)(3.('A A B |
+(c2(3c d) c (3(c B) A |
+B2z2)(3:2:2.('G2 A |
+B2>B2 (3(B A) G |
+[M:2/4](3A) .('F F (3F E F |
+G2F2) |]

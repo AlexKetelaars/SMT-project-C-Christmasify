@@ -1,0 +1,34 @@
+X: 6028
+T: Foppenburger Boer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 521945673
+%%humdrum-veritas-data 674148695
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('dAdA |
+B(A/ G/)F2) |
+.('DEFG |
+A(B/ c/)AD) |
+.('dAdA |
+B(A/ G/)F2) |
+.('fe/ d/cd |
+ecd2) |
+.('f(e/ d/)cA |
+BcdA) |
+.('fe/ d/cA |
+Bcd2) |
+.('f(e/ d/)cA |
+f(e/ d/)cA) |
+.('fe/ f/ g/ f/ e/ d/ |
+c2B2) |
+.('dABA |
+dABA |
+dAB/ A/ G/ F/ |
+E2D2) :|]

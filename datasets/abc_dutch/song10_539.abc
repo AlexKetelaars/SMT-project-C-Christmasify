@@ -1,0 +1,32 @@
+X: 9538
+T: ‘t Ros Beiaard maakt zijn ronde, In de stad  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 3213924494
+%%humdrum-veritas-data 2033151932
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2) ||
+.('B(A/ B/)cG [I:setbarnb 2]|
+EC).('cG |
+(A/ G/) (A/ B/)cG |
+EC).('FG |
+EFDG |
+(EC)).('FG |
+EFDG |
+[M:6/4]C2>z2).('CC |
+C2CEEF |
+G2>-G2z).('G |
+A2AB2B |
+c2>-c2zz) |
+.('c3-c2B |
+A3G2z) |
+.('F2F(FG)A |
+E3D3 |
+[M:2/2]C2).('c2) |]

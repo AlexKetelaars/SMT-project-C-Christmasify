@@ -1,0 +1,53 @@
+X: 16076
+T: Duetto
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 232382761
+%%humdrum-veritas-data 2008266109
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+Z2 |
+BBc |
+dc/ d/B |
+(e/ B/) (e/ B/) (3e/ f/ g/ |
+d(3e/ d/ c/d |
+c(3c/ e/ d/ (3c/ B/ A/ |
+B{B}A2 |
+zz).('=e |
+fBA |
+=EE.E |
+FFA |
+BB,C |
+F3) |
+.('zAG |
+^F>DG |
+zGF |
+=E>CF) |
+.('FGA |
+BGA |
+=EFG/ F/ |
+=E2).('a |
+agf |
+g2g |
+gf=e |
+f2f |
+g/> G/ A/> G/=E) |
+.('FBA |
+BcC |
+Ac/ B/ A/ G/ |
+(3A/ B/ c/ {c}BA |
+(3B/ c/ d/ {d}cB |
+(3c/ d/ e/ {e}dc |
+(3B/ c/ d/ {B}A2) |
+.('DD(3A,/ C/ F/ |
+BFB, |
+BBc |
+(3d/ c/ B/ (3E/ D/ C/D |
+cBA |
+B3) :|]

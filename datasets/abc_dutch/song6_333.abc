@@ -1,0 +1,32 @@
+X: 5332
+T: Een meisje zedig en vol deugd, Zat op het ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3989204440
+%%humdrum-veritas-data 3401682375
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('E2C E2<A2E |
+(E F) (E D2<)C2).('E |
+c B A GF2(G A) |
+(B G)E2z4) |
+.('C2C E2<A2E |
+(E F) (E D2<)C2).('E |
+c B A GF2(G A) |
+(B G)E2z4) |
+.('B2G EA4 |
+(E F) E DC4) |
+.('B2(G E)A2B c |
+d2c2B4) |
+.('B2G FE4 |
+F2E DC4) |
+.('B2G E A A B c |
+d2c2B4) |
+.('(c B) A GF2d2 |
+(c A) (B E)A4) |]

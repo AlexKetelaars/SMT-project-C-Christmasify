@@ -1,0 +1,23 @@
+X: 4954
+T: Wie gaat er mee uit hazen jagen Door de boom [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 683683174
+%%humdrum-veritas-data 263961441
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/GA/ [I:setbarnb 1]|
+BD/GA/ |
+BB/).('de/ |
+dc/BA/ |
+G3/).('GA/ |
+B3/GA/ |
+B3/).('de/ |
+dc/BA/ |
+G) |]

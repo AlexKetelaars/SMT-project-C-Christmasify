@@ -1,0 +1,50 @@
+X: 15375
+T: Het Kerkhof
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 3860035508
+%%humdrum-veritas-data 2630271662
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('C [I:setbarnb 1]|
+FAGF |
+^E2CC |
+FGAB |
+G2z).('G |
+A^AB^B |
+cBA^A |
+BdFG |
+A2z).('E |
+E/> c/cBG |
+AFEE |
+D/> c/cBG |
+A2z).('c |
+BAGF |
+^EFGB |
+AFG^E |
+F2z) ||
+[K:F#] .('C [I:setbarnb 17]|
+FAGF |
+E2DC |
+FAc/ B/A |
+G2z).('G |
+AABc |
+d-d/> G/GG |
+cFE/ F/ G/ A/ |
+F2z).('c |
+ccc^B |
+c>GGG/ F/ |
+EF/ E/DE/ D/ |
+C2z).('c |
+B/ A/ G/ F/ G/ A/ B/ c/ |
+d-d/> B/BB/ A/ |
+GGGc/ B/ |
+AFFF |
+B2E2 |
+F2z) |]

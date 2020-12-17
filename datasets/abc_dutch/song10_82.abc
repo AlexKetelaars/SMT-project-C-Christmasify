@@ -1,0 +1,31 @@
+X: 9081
+T: En in de Mei, zoo gaan wij zoeken naar een m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3153169867
+%%humdrum-veritas-data 255169897
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C D E [I:setbarnb 1]|
+F2(F> A)c2(B3/ A/) |
+G2F2>).('G2 A =B |
+c2d2c c B c |
+A4-A) .('C D E |
+F2(F> A)c2(B3/ A/) |
+G2F2>).('G2 A =B |
+c2d2c c B c |
+A6).('F A |
+[M:3/4]c c2<d2A |
+[M:4/4](c =B2<)_B2).('B c B |
+A F G A2<c2A |
+[M:3/4]G2C3).('C |
+[M:4/4]F G A B2<c2c |
+(3d c B A G2<F2).('C |
+F G A B2<c2).('c |
+(3d c BA2G2F2) |]

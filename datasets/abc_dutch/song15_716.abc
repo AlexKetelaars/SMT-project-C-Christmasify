@@ -1,0 +1,53 @@
+X: 14715
+T: Marsch des Marsellois
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2359730075
+%%humdrum-veritas-data 1856253389
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G G G [I:setbarnb 1]|
+c2c2d2d2 |
+g2>f2 e> c e3/ c/ |
+A2f4d3/ B/ |
+c2c> cc2).('c3/ d/ |
+e2e2e2f3/ e/ |
+e> dd2z2d3/ e/ |
+f2f2f2g3/ f/ |
+e4z2).('g3/ g/ |
+g2e> cg2e3/ c/ |
+G4z) .('G G G |
+B2>d2f3d |
+d cc2z2_B2 |
+A2c> cc2B3/ c/ |
+d4z2).('d3/ d/ |
+_e2e> ee2f3/ e/ |
+d4z2_e3/ d/ |
+c2c2c2d3/ c/ |
+c> BB2z2).('g3/ g/ |
+g4-g> e c3/ e/ |
+d4z2g3/ g/ |
+g4-g> e c3/ e/ |
+d4z2).('G2 |
+c2c> cc2d2 |
+{e d ^c d}e2e> ee2z2 |
+f4g2a2 |
+B6a2 |
+g4-g> e f3/ d/ |
+c2c> cc2).('G2 |
+c2c> cc2d2 |
+{e d ^c d}e2e> ee2z2 |
+f4g2a2 |
+B6a2 |
+g4-g> e f3/ d/ ]|:
+c2).('c> c d d d3/ d/ |
+e e/ f/ g g g f e d :|]
+c) .('a/ b/ c' a g f e d |
+c2c'> c'c'2c'2 |
+c'4z) |]

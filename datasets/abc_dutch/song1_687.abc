@@ -1,0 +1,16 @@
+X: 687
+T: Mijn hert en is verheven niet O Heer wilt ho [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 403092558
+%%humdrum-veritas-data 3234013580
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('z2z2F2(F2>G2)A2B4A2F2A4G4z2z2).('F2>G2A2B4A2F2A4G4z2) ]|:
+.('F2E2F2(G4F2)E2D4C4(c4c2BA)G2).('c2c2B2A2>(G2F2A2)G4F4) |]

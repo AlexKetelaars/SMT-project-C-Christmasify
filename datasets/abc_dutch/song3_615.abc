@@ -1,0 +1,30 @@
+X: 2614
+T: Er ging eens een jager uit jagen daar kwam n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 3203075592
+%%humdrum-veritas-data 3541141423
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GDG |
+GFG |
+AD).('A |
+(AG)A |
+(AG)B |
+d>e d/ c/ |
+B2).('G/ B/ |
+[M:4/4]ddd(d/ c/) |
+[M:3/4]B3/A).('B/ |
+cc(c/ B/) |
+A>G).('A |
+BA(B/ c/) |
+d2).('e |
+ecA |
+G2) |]

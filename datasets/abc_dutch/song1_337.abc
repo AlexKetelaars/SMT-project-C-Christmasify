@@ -1,0 +1,15 @@
+X: 337
+T: Hoe sullen wij hier prijsen Als nu Sorobabel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 3038848753
+%%humdrum-veritas-data 1667595895
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('zFA>AB>Bc2c2).('zcAABdc2).('zddccc(cB/ A/)G2).('zFGG/ G/ccF2).('zccBAG(F>E)FC).('zFFGAFc(B/ A/)Bc2).('zAB>cdc(BA>G A/ G/)F4) |]

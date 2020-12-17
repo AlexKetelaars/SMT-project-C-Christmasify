@@ -1,0 +1,38 @@
+X: 6509
+T: Arme Klaas, wat zijn je grieven, Dat je hoof [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 1982490053
+%%humdrum-veritas-data 3373052477
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('B2c |
+B2B |
+B2c |
+c2B) |
+.('B2B |
+A2A |
+G2G |
+F3) |
+.('B2c |
+B2B |
+c2d |
+d2c) |
+.('c2d |
+c2c |
+c2e |
+e2^d) |
+.('e2B |
+c2A |
+G2F |
+E3) |
+.('E2E |
+(E G) F |
+E2^D |
+E2z) |]

@@ -1,0 +1,35 @@
+X: 1293
+T: Ver in het zuiden ligt mijn Spanje Spanje is [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 944788296
+%%humdrum-veritas-data 2953316500
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('dc/ [I:setbarnb 1]|
+c3/B3/gd/ |
+d3/d3/).('gB/ |
+A3/-Ae/dc/ |
+B3/-B3/).('dc/ |
+c3/B3/gd/ |
+d3/d3/).('de/ |
+f3/-fA/fe/ |
+d3/-d3/).('dc/ |
+c3/Bd/ge/ |
+e3/d3/).('de/ |
+f3/-fA/fe/ |
+d3/-d3/).('dg/ |
+b3/-ba/gf/ |
+a3/g3/).('fe/ |
+d3/-de/dc/ |
+B3/-B3/).('dg/ |
+b3/-ba/gf/ |
+a3/g3/).('fe/ |
+d3/-dg/fa/ |
+g3/-g3/) |]

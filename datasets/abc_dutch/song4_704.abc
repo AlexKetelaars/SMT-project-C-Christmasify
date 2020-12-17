@@ -1,0 +1,29 @@
+X: 3703
+T: Toen ik jong was, Toen ik jong was Had ik gr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 3390922495
+%%humdrum-veritas-data 4292279542
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+B B B/ B/ B B) .('B/ B/ |
+c2BA3) |
+.('D2F A B c |
+B2AG3) |
+.('B2BB2d |
+d c BA3) |
+.('c c cc2e |
+[M:9/8]e d c/ c/B3).('d3 |
+[M:6/8]G G A B B c |
+B2AG2).('d |
+B2BB2d |
+c2BA3) |
+.('D2F A A c |
+B2AG2) |]

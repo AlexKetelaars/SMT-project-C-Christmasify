@@ -1,0 +1,27 @@
+X: 9983
+T: Zolang de roosjes bloeien, En de lelies heer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 59420935
+%%humdrum-veritas-data 2119827558
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+E>DEG |
+GC2).('A/ G/ |
+F>EFG |
+A2z).('(B/ A/) |
+GGGB |
+(B>A)Gz/) .('F/ |
+E>FGG/ F/ |
+G2z).('(G/ A/) |
+BBB(e/ d/) |
+ccz).('c |
+B>c (B/ A/) G/ F/ |
+E3) |]

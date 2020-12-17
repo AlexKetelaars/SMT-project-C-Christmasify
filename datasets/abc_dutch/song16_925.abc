@@ -1,0 +1,36 @@
+X: 15924
+T: Mars van d. Garde van Sweeden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 2439219459
+%%humdrum-veritas-data 3606151598
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f2>c2f2g2 |
+a b a g f g a b |
+c'2c'> c'c'2b3/ a/ |
+b2b> bb2a3/ g/ |
+a g a b).('c'2b a |
+g f e d c d e c |
+f2>).('c2 (3f g a (3g a b) |
+.('a2f2f g a b |
+c'2c'> c'c'2b a |
+b2b bb2a g |
+a b c' d'2<g2f |
+f4x4) |
+.('a2>b2c'2b a |
+g f e d c d e f |
+g2g> gg2f3/ e/ |
+f2f> ff2e3/ d/ |
+e f g a2<d2c) |
+.('c8) |
+.('g2>f2g2a2 |
+g2>f2g2a2 |
+g2a2b2a2 |
+g4).('z c d e) |]

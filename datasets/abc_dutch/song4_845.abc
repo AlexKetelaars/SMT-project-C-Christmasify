@@ -1,0 +1,44 @@
+X: 3844
+T: Vastenavond die komt aan hoort mannen hoort  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1449369914
+%%humdrum-veritas-data 730745068
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('GBAG |
+FED2 |
+E2FF |
+G3).('G/ G/ |
+A/ A/AAB |
+cBAA/ A/ |
+BG/ G/FG |
+A2).('D2 |
+BBG/ G/ G/ G/ |
+ccGG |
+B/ B/BAG |
+B2G).('G/ G/ |
+BB/ B/AG |
+B2G2) |
+.('BGGG |
+BGGG |
+A/ A/Add |
+B2G2) |
+.('BGFG |
+B/ B/ G/ G/G).('G/ G/ |
+D/ D/ D/ D/ d/ d/ d/ d/ |
+B2Gz) |
+.('DBAG/ G/ |
+F/ F/ E/ E/FD/) .('D/ |
+DBAG |
+FEFD) |
+.('A/ A/ A/ A/B2 |
+A/ A/ A/ A/B2) |
+.('AA/ A/AA/ A/ |
+A/ A/ A/ A/D2) |]

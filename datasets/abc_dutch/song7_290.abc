@@ -1,0 +1,31 @@
+X: 6289
+T: Waar kan men beter zijn, Dan bij zijn goede  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 4075928149
+%%humdrum-veritas-data 3258756376
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G/ [I:setbarnb 1]|
+EG/cB/ |
+(B3/A)).('A/ |
+GG/AF/ |
+(GF/)Ez/) |
+.('^F3/GA/ |
+B3/GA/ |
+(B/ c/) B/ (A/ B/) A/ |
+G3/-Gz/) |
+.('B3/dB/ |
+c3/-c).('G/ |
+Ad/cB/ |
+c3/-cz/) |
+.('B3/dB/ |
+c3/-c).('G/ |
+Ad/cB/ |
+c3/-cz/) |]

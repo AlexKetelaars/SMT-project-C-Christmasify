@@ -1,0 +1,45 @@
+X: 8257
+T: Liefste vriendin, aanhoort mijn klachten, Ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 3972322557
+%%humdrum-veritas-data 327099186
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: E clef=treble
+.('B c/ B/ G E B, E |
+G2G2z) .('B |
+c B/ B/ G E B ^A |
+A4z) .('A |
+A G G F ^E F |
+B2F2z) .('D |
+F B G c B ^A |
+B2-B z).('B2 |
+B (c/ B/) G E B, E |
+G2G2z) .('B |
+c B G E B ^A |
+A4z) .('A |
+A G G F ^E F |
+B2F2z) .('D |
+F B G c B ^A |
+B4z) .('B |
+B c2<c2B ||
+[M:2/4]G E B, E ||
+[M:3/4]G2G2z) .('B [I:setbarnb 20]|
+B c2<c2B ||
+[M:2/4]G E B, E ||
+[M:3/4]G4).('G3/ B/ [I:setbarnb 23]|
+e2>G2 A B |
+d2c2z) .('c/ c/ |
+d c (F G) A c |
+B> AG2).('G3/ B/ |
+e2>G2 A B |
+d2c2z) .('c/ c/ |
+d c F) .('G/ G/ A c |
+B2B ^A =A F |
+E4z2) |]

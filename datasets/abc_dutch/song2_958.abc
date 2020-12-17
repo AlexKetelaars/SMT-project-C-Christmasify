@@ -1,0 +1,23 @@
+X: 1957
+T: Kon ik al die mooie meisjes krijgen Ik zou z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1417147678
+%%humdrum-veritas-data 871009665
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ d< d c/ [I:setbarnb 1]|
+[M:3/4]B2d2g3/ B/ |
+[M:4/4]B2A2>).('B2 c B |
+A2c2A2d2 |
+B2G2>).('d2 e f |
+g2>B2c2d2 |
+e4-e) .('g f e |
+d> d d d- d c B A |
+G4z) |]

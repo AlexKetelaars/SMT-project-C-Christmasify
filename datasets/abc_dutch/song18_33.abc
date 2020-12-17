@@ -1,0 +1,74 @@
+X: 17032
+T: prologue Trompettes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 50540576
+%%humdrum-veritas-data 2476678117
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e3/e// e//eg |
+e3/e// e//eg |
+egeg |
+e/ f/ g/ a/ g/ a/ g/ a/ |
+g/ a/ g/ a/ g/ a/ g/ f/) |
+.('e/ f/ e/ f/gf/ e/ |
+d3/d// d//de |
+d3/d// d//de |
+de!mordent!!mordent!d3/c/ |
+c3).('e/ e/ |
+!mordent!!mordent!d2dB |
+c2c3/e/ |
+A2!mordent!!mordent!A3/B/ |
+c2).('c3/d/ |
+e2e3/f/ |
+d2dd/ d/ |
+e2ee |
+A2).('A3/B/ |
+c2c3/d/ |
+e2e3/c/ |
+A2Ad |
+!mordent!!mordent!BBBe |
+c2c3/f/ |
+d2-!mordent!!mordent!d3/).('e/ |
+e3/e// e//eg |
+e3/e// e//eg |
+egeg |
+e/ f/ g/ a/ g/ a/ g/ a/ |
+g/ a/ g/ a/ g/ a/ g/ f/) |
+.('e/ f/ e/ f/gf/ e/ |
+d2).('B^c |
+d2GB |
+c2ce |
+!mordent!!mordent!A2Af |
+!mordent!!mordent!e2ee |
+d2).('de |
+!mordent!!mordent!c2cd |
+e2ec |
+A>AA3/d/ |
+!mordent!!mordent!B2Bc |
+!mordent!!mordent!A2-A3/G/ |
+G2).('B^c |
+d2AB |
+c2ce |
+A2Af |
+!mordent!!mordent!e2ee |
+d2).('de |
+c2ff |
+!mordent!!mordent!f2fe |
+d2-!mordent!!mordent!d3/).('e/ |
+e3/e// e//eg |
+e3/e// e//eg |
+egeg |
+e/ f/ g/ a/ g/ a/ g/ a/ |
+g/ a/ g/ a/ g/ a/ g/ f/) |
+.('e/ f/ e/ f/gf/ e/ |
+d3/d// d//de |
+d3/d// d//de |
+de!mordent!!mordent!d3/c/ |
+c4) |]

@@ -1,0 +1,22 @@
+X: 6844
+T: Hop, Marjannetje, stroop in ‘t kannetje, laa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 4278590121
+%%humdrum-veritas-data 1998614418
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2G G F G |
+B2G G F G) |
+.('A2Ad2d |
+B3G2z) |
+.('e2c (c d) e |
+d2BB2).('B |
+c2AG2F |
+A3G2z) |]

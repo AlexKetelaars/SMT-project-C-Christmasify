@@ -1,0 +1,41 @@
+X: 3993
+T: Een rijk bankier had eens een kast Een kwart [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 4290405457
+%%humdrum-veritas-data 2575669130
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d d e B |
+d d G) .('f |
+f f e f |
+e2d) .('d |
+d d e B |
+d d G) .('d |
+f f e f |
+e2d) .('d |
+d d e B/ B/ |
+d c/ c/ c) .('c/ c/ |
+c c d c |
+B B B) .('d |
+d3d |
+d3).('d |
+d d e d |
+d2c) .('c |
+B e d d |
+A e d3/) .('d/ |
+d c c B |
+A2d3/) .('d/ |
+d e f d |
+g7/).('d/ |
+c/ c/ B c B |
+A2d3/) .('d/ |
+d e f d |
+g3) |]

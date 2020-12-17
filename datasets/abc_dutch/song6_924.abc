@@ -1,0 +1,26 @@
+X: 5923
+T: Er wandeld’ een patertje langs de kant, En h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3598488464
+%%humdrum-veritas-data 3864194912
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('z2c c d c |
+c3G2G |
+A2Bc2).('c |
+c d cc3 |
+G2GA2B |
+c2zz2).('B/ c/ |
+d e d d ^c d |
+f2ed3) |
+.('e2c c B c |
+d2BG2).('G |
+A2A B A B |
+c3) |]

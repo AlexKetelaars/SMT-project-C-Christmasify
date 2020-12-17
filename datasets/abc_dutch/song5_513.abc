@@ -1,0 +1,33 @@
+X: 4512
+T: Ik zocht sinds jaren rust op aarde; 'k Vond  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3691763476
+%%humdrum-veritas-data 4265143734
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2>d2 ^c d e A |
+d2c2A3c |
+[M:2/4]B4) |
+[M:4/4].('d2>d2 ^c d e e |
+(d g)g2(Ge2)d |
+[M:2/4]B4) |
+[M:4/4].('A2>A2 B A ^G A |
+[M:5/4]d ^c B A(A2G2)).('G G |
+[M:4/4]e d ^c B (B A) (^G A) |
+[M:5/4]f2>e2d4).('A d |
+[M:4/4]f d e d e d ^c d |
+[M:4/4]B6).('e3/ e/ |
+e g f e (e d) (^c d) |
+f2e2d2).('d d |
+c A e e d B d d |
+c A d gf2).('A B |
+A> A A A g g f e |
+d2>c2A2d2 |
+B8) |]

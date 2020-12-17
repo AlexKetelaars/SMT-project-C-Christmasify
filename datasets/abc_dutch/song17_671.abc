@@ -1,0 +1,21 @@
+X: 16670
+T: Dat ick mijn Laura beminde nimmer mij iemant [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 4158969919
+%%humdrum-veritas-data 1966422880
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('A>d^cdef |
+e2e).('A>d^c |
+defe3) |
+.('A>BcB>cd |
+e>f (e/ d<)^c(B/A)) |
+.('e>fg^cde |
+e>d^cd3) :|]

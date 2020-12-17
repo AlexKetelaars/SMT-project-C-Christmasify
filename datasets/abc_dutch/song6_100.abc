@@ -1,0 +1,28 @@
+X: 5099
+T: Te Wageningen in de poort daar wonen drie ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 189490071
+%%humdrum-veritas-data 2615844698
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GG2G |
+G2DD2).('D |
+E2EF2F |
+G2DD2).('D |
+E> E EF2F |
+G3z2).('B ||
+[M:9/8]A> A A2<A2-A z) .('B [I:setbarnb 8]|
+A> A A2<A2-A z) .('B |
+A> A A2<A2-A !fermata!z) .('D ||
+[M:6/8]G G AB2c [I:setbarnb 11]|
+d2dd2).('c |
+B> c B A G A |
+G3z2) |]

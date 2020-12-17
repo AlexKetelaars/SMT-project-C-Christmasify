@@ -1,0 +1,31 @@
+X: 10891
+T: “Adieu, wereld, ik wil scheiden: Mijn gemeen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 205981440
+%%humdrum-veritas-data 3604058611
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2G [I:setbarnb 1]|
+G2Bd2B |
+B2A).('A2B |
+d2BA2B |
+G3).('G2G |
+G2Bd2B |
+B2A) .('A A B |
+d2c A B A |
+G3).('B2G |
+G2B A A B |
+c2B).('A2G |
+F2F G A A |
+B3).('D2G |
+G2BB2B |
+B2A) .('A A B |
+d2c A G F |
+G3z2z) |]

@@ -1,0 +1,38 @@
+X: 9382
+T: Komt vrienden luistert naar dees lied, Wat e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 1454911436
+%%humdrum-veritas-data 2573356288
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('E E C |
+G3 |
+G A B |
+c3) |
+.('E E A |
+G3 |
+D F E |
+C2z) |
+.('c d c |
+B2A |
+A2B |
+AG2) |
+.('G A B |
+(c B) A |
+G2G |
+F3) |
+.('D E F |
+A2A |
+G2G |
+ED2) |
+.('D F A |
+G3 |
+D F E |
+C2z) |]

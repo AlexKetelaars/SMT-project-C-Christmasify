@@ -1,0 +1,23 @@
+X: 2114
+T: Hier zijn wij hier zijn wij Hier zijn wij me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 3856465688
+%%humdrum-veritas-data 2674408561
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ d/ [I:setbarnb 1]|
+d B z g/ g/ g e z) .('g |
+f f e ed2z) .('d |
+d> d d d (d g) !fermata!b) .('d |
+d> d d d (d g) !fermata!b) .('g |
+g> g g g c c z) .('e |
+a> a a a d !fermata!d) (3.('d d d |
+d d d dd2b2 |
+g4-g3) |]

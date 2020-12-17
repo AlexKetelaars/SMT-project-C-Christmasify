@@ -1,0 +1,29 @@
+X: 8298
+T: Er was eens eene kwezel, wil mij wel verstaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 2571772608
+%%humdrum-veritas-data 1530520436
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E [I:setbarnb 1]|
+E E E E c c) .('B B |
+A2F2E2-E z) |
+.('F F F FA2).('G F |
+F E E EE2-E z) |
+.('c2c dc2B2) |
+.('B B B cB2A) .('E |
+A2A AB2B B |
+e2e eE2z) .('E |
+d d/ d/ d d c c) .('B d |
+c2B2A z/) .('A/ G/ G/ A |
+F> F F F F z/) .('A/ G/ G/ A |
+E> E E EE2z) .('E |
+d d/ d/ d d c c) .('B d |
+c2B2A2z) |]

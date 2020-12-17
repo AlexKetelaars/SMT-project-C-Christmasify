@@ -1,0 +1,30 @@
+X: 3589
+T: Moeder ik kom u een woordje vragen Allebert  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 658550656
+%%humdrum-veritas-data 1003538190
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G B d d d d |
+(d e) dB2G) |
+.('G F GA2d |
+(^c B) cd3) |
+.('G2Bd2d |
+d e dB2G) |
+.('(G F) GA2d |
+(^c B/) B/ cd2).('B/ B/ |
+d B d/ d/ d B G |
+c2eg3) |
+.('g f ed2B |
+(d B) AG2).('B/ B/ |
+d B d/ d/ d B G |
+c2eg3) |
+.('g f ed2B |
+(d B) AG2) |]

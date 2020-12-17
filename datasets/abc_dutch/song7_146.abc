@@ -1,0 +1,43 @@
+X: 6145
+T: Menuet Dan[...]ers
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3870933922
+%%humdrum-veritas-data 699000143
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('G2d3c |
+B4A B |
+c2d c B A |
+B A B G).('d2 |
+g f g ab2 |
+b2a2g2 |
+a2g af2) |
+.('b a g f e d |
+c d e fg2 |
+a2A3^c |
+d6) :|]
+.('g2a gd2 |
+e4e2) |
+.('c2d cd2 |
+=B4B2) |
+.('B2c Bc2 |
+A4A2) |
+.('d2d e f g |
+e4e2) |
+.('e2e f g a |
+^f4d2) |
+.('b4(3a b g |
+^f2d2g2 |
+a b2<^f2a |
+g ^f g ag2) |
+.('d2g f g d |
+e2>d2 c B |
+A B c B A B |
+G4) |]

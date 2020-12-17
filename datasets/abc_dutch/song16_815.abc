@@ -1,0 +1,30 @@
+X: 15814
+T: piesan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 1202054125
+%%humdrum-veritas-data 3503984777
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/8
+Q: 1/4=120
+K: G clef=treble
+.('G d [I:setbarnb 1]|
+d e d c |
+B2d G |
+c B A G/ F/ |
+G2) |
+.('g g [I:setbarnb 5]|
+f g/ f/ e d/ c/ |
+d2d e |
+d c/ B/ c d |
+B B/ c/ d d) |
+.('d B/ c/ d d |
+d c/ B/ e d/ c/ |
+c c/ B/ e e |
+e d/ c/d2 |
+B G c B |
+A G/ F/G2) |]

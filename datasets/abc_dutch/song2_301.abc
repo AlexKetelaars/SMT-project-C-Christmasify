@@ -1,0 +1,35 @@
+X: 1300
+T: Sunte Martis veugelken Dat had zo’n rood keugelken
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 3003440542
+%%humdrum-veritas-data 2944719327
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d d d e d d B) .('d |
+d de2d d B) .('B |
+d2e ed2B z) |
+.('d de2d de2 |
+f2d dd2d2) |
+.('d d d e d dB2) |
+.('d d e/ e/ e d dB2) |
+.('d d e e d dB2) |
+.('d d/ d/ e ed2B2) |
+.('d2e2d dB2) |
+.('d d e e d dB2) |
+.('d d e e d dB2) |
+.('d d e e d dB2) |
+.('d d d Be2e2) |
+.('d d d Be2e2) |
+.('d d d Be2e e/ e/) |
+.('f d d dd2d) .('B |
+d d e/ e/ e d/ d/ d B e |
+d d B e d d B) .('B |
+d d d e d/ d/ d B e |
+d d B e d d B z) |]

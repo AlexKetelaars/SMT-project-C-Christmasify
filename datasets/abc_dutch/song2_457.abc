@@ -1,0 +1,36 @@
+X: 1456
+T: Schuitje varen theetje drinken ganen we naar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 3573372463
+%%humdrum-veritas-data 1202535687
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2dB2e |
+d2dB2e) |
+.('d d de2e |
+d2dB3) |
+.('d d de2e |
+d d dB3) |
+.('d2c B B c |
+d3d2).('e |
+d2cB2c |
+d3d2).('e |
+d2cB2c |
+d2ed2).('d |
+g2g B B B |
+d2dc2z) |
+.('d3e3 |
+d3B2).('B |
+d2de2e |
+d3B2).('e |
+d d cB2c |
+d2e d d) .('d |
+g g gB2B |
+d3c3) |]

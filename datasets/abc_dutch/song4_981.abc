@@ -1,0 +1,23 @@
+X: 3980
+T: Klein Anna zat op enen steen Enen steen, ene [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 385150689
+%%humdrum-veritas-data 3444618804
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+g d c A |
+G BB2) |
+.('A cc2 |
+B d d) .('d |
+g d c A |
+G BB2) |
+.('g2f2 |
+g3) |]

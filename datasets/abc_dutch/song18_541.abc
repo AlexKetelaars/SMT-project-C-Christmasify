@@ -1,0 +1,30 @@
+X: 17540
+T: [Menuet van Locatelli]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 1169417090
+%%humdrum-veritas-data 3212428419
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=104
+K: G clef=treble
+(3.('B c d (3d c B (3B A G |
+(3f g a (3a g f (3f e d |
+(3e d c (3d c B (3c B A |
+(3B A G (3A G FG2) |
+(3.('g a b (3b a g (3g f e |
+(3f g a (3a g f (3f e d |
+(3g f ee4 |
+d6) |
+(3.('G A B (3B c d (3d e =f |
+=f4e2 |
+(3A B ^c (3c d e (3e f g |
+g4f2) |
+(3.('c d e (3e d c (3c B A |
+(3B c d (3d c B (3B A G |
+(3c B AA4 |
+{G}G6) :|]

@@ -1,0 +1,23 @@
+X: 7482
+T: No 112
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 64662576
+%%humdrum-veritas-data 3452919602
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A> B A!mordent!!mordent!^G2E |
+A> B A!mordent!!mordent!^G2).('E |
+A> B cB2A |
+e3e3) |
+.('c> B c A> B c |
+d2dd2).('e |
+c> B A B> A ^G |
+A3A2) |]

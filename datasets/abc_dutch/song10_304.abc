@@ -1,0 +1,39 @@
+X: 9303
+T: Ah, ben je daar, ah ben je daar? Ah ben je d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3984077495
+%%humdrum-veritas-data 2138917660
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/8
+Q: 1/4=120
+K: D clef=treble
+.('F F G [I:setbarnb 1]|
+A D D E |
+F) .('F F G |
+A D D E |
+F) .('F F G |
+A dA2- |
+A dA2) |
+.('B A B c |
+d2D2 |
+z) .('F F G |
+A D D E |
+F) .('F F G |
+A D D E |
+F2z) .('A |
+F3A |
+G4 |
+F2z2 |
+z2z) .('A |
+(d3c/ B/ |
+A2)z) .('A |
+(d3c/ B/ |
+A2)z) .('F |
+D3F |
+E4 |
+D) |]

@@ -1,0 +1,39 @@
+X: 6651
+T: Zij zullen hem niet hebben, Den vrijen Schel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 4050877236
+%%humdrum-veritas-data 1540262526
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('(c/ A/) [I:setbarnb 1]|
+FEFG |
+(A>G)F).('(G/ A/) |
+BAGF |
+c3).('^c |
+d>_edc |
+(B>A)G).('(A/ B/) |
+ccEE |
+F2z).('(A/ G/) |
+Gc=Bd |
+(c>G)G).('(c/ =B/) |
+Ac=BA |
+E2z).('e |
+f>edc |
+(=BA)G).('(c/ B/) |
+A>dc=B |
+c2z).('(c/ A/) |
+FEFG |
+(A>G)F).('(G/ A/) |
+BAGF |
+c3).('^c |
+d>_edc |
+(B>A)G).('(A/ B/) |
+ccEE |
+F2z) |]

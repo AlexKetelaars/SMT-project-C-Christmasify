@@ -1,0 +1,15 @@
+X: 92
+T: Waerom verlaet ghy my myn God myn Heer? Verr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3694946583
+%%humdrum-veritas-data 681778622
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c4A4d4c2c2f2f2e4d4c4z4).('G4c2d2e4e4d2c2A4A4B4z4).('c4d2e2A2e2f2e2d4c4z4).('e4d2c2B4A4z4).('e4e2e2d4G4c2d2e2f2e4d4z4).('e4e2e2A4B4c2d2e2d2c4B4z4).('G4A2B2c2c2d2e2f2e2d4c4z4).('e4d4B4A4) |]

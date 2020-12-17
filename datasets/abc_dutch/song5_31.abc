@@ -1,0 +1,23 @@
+X: 4030
+T: Er ging een heer heel ver van huis In zes ja [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 1940820787
+%%humdrum-veritas-data 2086674133
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2 B2 A A [I:setbarnb 1]|
+G4>D4 G2 A2 |
+B4>).('B4 c2 B3/ A/ |
+G4>D4 G2 A3/ A/ |
+B8-B2) .('B B |
+[M:9/8](c2 B2) A AG4e2d4c2 |
+[M:7/8]B4<A4).('A B c2 B3/ B/ |
+[M:6/8]A4(G A)B4F3/ F/ |
+A2G4) |]

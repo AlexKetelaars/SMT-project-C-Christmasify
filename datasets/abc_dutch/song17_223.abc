@@ -1,0 +1,42 @@
+X: 16222
+T: Waar voerd de min myn’ zinnen heen, Daar ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2930410683
+%%humdrum-veritas-data 3742633885
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('z2A,2E,3A, |
+F,2D,2E,3E, |
+A,2>).('A,2A,3B, |
+C2B,2(A, G,) (F, E,) |
+D,4z) .('G, F, G, |
+E,2E,2A,3G, |
+(E, G, A, G, F, G, F, E, |
+D,2)D,2z2).('A,2 |
+B,2>C2D2B,2 |
+B,4z A, A, A, |
+(F, E,) (F, D,)E,4 |
+A,8) |
+.('z2E,2F,2D,2 |
+G,2F,2F,3G, |
+C,4z) .('A, A,3/ B,/ |
+C2>B,2 (C B,) (C A,) |
+E2E2z) .('A, G, A, |
+F,2G,2F,3E, |
+E,4z2).('C2 |
+A,2A,2B,> A, D3/ A,/ |
+^G,2G,2z2).('C2 |
+^G,4z2A,2 |
+G,2A,2F,3E, |
+E,2>).('E,2A,3G, |
+F,2>E,2D,3C, |
+B,4z) .('C, D, E, |
+F,2D,2E,3E, |
+A,8) :|]

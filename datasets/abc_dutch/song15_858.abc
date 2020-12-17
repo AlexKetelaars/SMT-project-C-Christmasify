@@ -1,0 +1,36 @@
+X: 14857
+T: Contre-danse.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 169396842
+%%humdrum-veritas-data 3621225362
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+(d e) !wedge!dg2d |
+(d e) !wedge!dB2G |
+A2A A B c |
+c2>B2 z d |
+(d e) !wedge!dg2d |
+(d e) !wedge!dB2G |
+A B c D E F |
+A2>G2 z) |
+.('d [I:setbarnb 9]|
+c2BA2G |
+F2GA2d |
+c2BA2G |
+d2>d2 z d |
+(d e) !wedge!dg2d |
+d e dB2G |
+A2A A B c |
+(c2>B2) z d |
+d e dg2d |
+d e dB2G |
+A B c D E F |
+A2>G2 z) :|]

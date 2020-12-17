@@ -1,0 +1,35 @@
+X: 2348
+T: Wij zijn soldaten van het eerste regiment Wi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 103789676
+%%humdrum-veritas-data 805872839
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 5/2
+Q: 1/2=60
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+e2>B2d/ d/ d/ d<dd/ef |
+[M:4/2]g2g>gg).('gag |
+f2>g2agfe |
+d4z).('deB |
+d2>e2ddef |
+g2g>gg).('gag |
+f2>g2agfe |
+d4z).('de3/B/ |
+d2>d2ddef |
+a4g2).('g2 |
+g2>f2gfgb |
+a4z).('def |
+g2b2b>bag |
+(e2a2)a).('gfe |
+d2>d2gfga |
+b4z).('def |
+g2b2b>bag |
+(e2a2)a>).('gfe |
+d2>d2gaba |
+g6) |]

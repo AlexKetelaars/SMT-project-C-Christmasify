@@ -1,0 +1,15 @@
+X: 10861
+T: Twintig. ‘k Neme mijn gevangen aan Lisa. Aan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 705639013
+%%humdrum-veritas-data 3277583114
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A2A z A A A A A G F GA2z) .('A A BA2A zA2(c2B2)A2B2A2A z) .('A AA2A zA2c2B2A2B2A2z) .('A A AA2z2A Ac2B2A2B2z) .('AA2A z z A A A A Ac2=B2A2B2z) .('AA2A z z A A A _B AG2A2A2B2A2G2A2B2A2G2).('A2A zG2F2E2F2z) .('AA2A z z A A A A G F GA2z) .('AA2A z z A A A A Ac2=B AB2A2z) .('AA2A z A A A A AG2G z z) .('AA2A z A Ac2_B2A2B2A2z) .('AA2A z z (3A A A AA2B AG2F EF2F z z) .('AA2z2A A G AG2!fermata!G z).('A2A z (3:2:4(A2 G) (F2 A)G2E z).('A2A z (3:2:10z F G E2 C F G A G2 z).('A2A z (3:2:10z G A F2 C F G A G2 z).('A2(3:2:8z z G F2 C F G AA2G z).('A2(3:2:8z z G F2 C F G A!fermata!G2).('z AA2z2A A A A A A A A Ac2=B2A2B2z) .('AA2z2A2G2F2G2z) .('A AA2A zG2F2E2F4) |]

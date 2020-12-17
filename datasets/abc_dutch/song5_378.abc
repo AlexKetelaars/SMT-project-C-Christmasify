@@ -1,0 +1,27 @@
+X: 4377
+T: Bij Sedan op de heuvel Stond na een bloedige slag
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 2577847715
+%%humdrum-veritas-data 859558492
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G D D |
+EE2).('G |
+F> F E E |
+D3).('D/ G/ |
+B> A G F |
+AG2).('G/ F/ |
+E> G F3/ E/ |
+D3).('A,/ A,/ |
+A> G F E |
+GF2).('F/ F/ |
+E> G F E |
+D3) |]

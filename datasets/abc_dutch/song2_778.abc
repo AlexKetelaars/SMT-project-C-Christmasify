@@ -1,0 +1,28 @@
+X: 1777
+T: [In] Antwerpen woonde een koopmanszoon En ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 565552539
+%%humdrum-veritas-data 2775788682
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('GAB/ A/ |
+(Gc)e |
+(de)c |
+Az2) |
+.('f/ f/ed |
+c2B |
+AGz) |
+.('GAc |
+(Gc)e |
+dec/ B/ |
+Az2) |
+.('f/ f/ed |
+c2B |
+AGz) |]

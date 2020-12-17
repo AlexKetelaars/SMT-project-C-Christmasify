@@ -1,0 +1,47 @@
+X: 16428
+T: Galjarde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 2417447435
+%%humdrum-veritas-data 1065003100
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('zcBAG2 |
+F2>G2AB |
+c2A2B2 |
+c4c2 |
+c2>).('e2dc |
+B2>d2cB |
+A2>c2BA |
+G2>).('B2AG |
+F2>A2GF |
+F2F2E2 |
+F4F2) |
+.('e2>d2c2 |
+dcBAB2 |
+A4A2) |
+.('A2>A2Bc |
+d2>B2cd |
+e2>c2de |
+f2>e2cd |
+e2>).('d2Bc |
+d2>c2AB |
+c2>c2B2 |
+A2A2G2 |
+A4A2) |
+.('c2>c2B2 |
+A2>A2G2 |
+e2>e2d2 |
+c2>c2B2) |
+.('f2>f2e2 |
+d2>d2c2 |
+c2>c2B2 |
+A2>A2G2 |
+F2F2E2 |
+F6) |]

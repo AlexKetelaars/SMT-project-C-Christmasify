@@ -1,0 +1,27 @@
+X: 2991
+T: Toen ik op Neerlands bergen stond hoorde ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 1609442508
+%%humdrum-veritas-data 1282738477
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+d B c A |
+G G G) .('G/ G/ |
+c B c d |
+e2d3/) .('d/ |
+c d e c |
+B e d) .('B/ B/ |
+A B c B |
+(A d) d3/) .('c/ |
+c d e c |
+B e d) .('B/ B/ |
+A B c B |
+A2G) |]

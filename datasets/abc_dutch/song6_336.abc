@@ -1,0 +1,31 @@
+X: 5335
+T: Welnu minnaar! maak spoedig voort, De tijd d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3863021614
+%%humdrum-veritas-data 3286962442
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D2BB2B |
+B2EE2).('F |
+G2FG2A |
+B3-B2).('D |
+D2BB2B |
+B2EE2).('F |
+G2G (F E) F |
+E3-E2).('E |
+E2F (G F) E |
+A2^GA2).('A |
+(B ^c) dB2A |
+B3-B2).('D |
+D2BB2A |
+G2FE2).('D |
+B2A (G F) G |
+E3-E2) |]

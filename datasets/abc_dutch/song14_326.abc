@@ -1,0 +1,42 @@
+X: 13325
+T: Sonata 4.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 117600834
+%%humdrum-veritas-data 4075440141
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('f/ g/ [I:setbarnb 1]|
+af/ g/ag/ f/ |
+feze/ f/ |
+ggf/ e/ d/ c/ |
+d2zA/ c/ |
+eeed |
+dczA/ c/ |
+eeed |
+dczA/ c/ |
+ef/ e/ef/ ^g/ |
+a^g/ f/ed |
+cd/ B/A^G |
+{^G2}A2z) |
+.('e [I:setbarnb 13]|
+(AG)(GF) |
+{F2}G3c/ d/ |
+eggf |
+feze |
+(AG)(GF) |
+{F2}G3c/ d/ |
+e/ f/ g/ a<bd/ |
+dczA |
+BBBc |
+d/ e/ f/ g/aA |
+BB(B/ d/) (c/ e/) |
+dc/ B/Ag |
+fg/ e/de/ c/ |
+{c2}d3) :|]

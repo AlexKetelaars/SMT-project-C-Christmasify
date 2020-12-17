@@ -1,0 +1,34 @@
+X: 14710
+T: [La danse n’est pas ce que j’aime]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2111616486
+%%humdrum-veritas-data 2036987531
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('cA2c [I:setbarnb 1]|
+B2dc2B |
+A A cG2A |
+F2cG2A |
+F2).('FB2B |
+G2GB2B |
+{A B A G A}!fermata!G2).('Gc2c |
+B2AG2B |
+A F FG2).('G |
+c2c c d e |
+d3=B3 |
+c2).('GA2A |
+B2BA2A |
+G2GA2A |
+B2BA2A |
+G2>).('c2 =B c |
+F2z e d ^c |
+d2z d> c B |
+A3!trill!!trill!G3 |
+F2) |]

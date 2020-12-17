@@ -1,0 +1,31 @@
+X: 2010
+T: Onze fikshond onze fikshond Onze fikshond hè vleu.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 657403780
+%%humdrum-veritas-data 2665667754
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B2B2G A |
+B2B2).('G A |
+B2B2B2 |
+A4).('D D |
+A AA2D D |
+A AA2).('D D |
+A AA2B2 |
+G4).('B A |
+G2F2E2 |
+D4).('B A |
+G GF2E2 |
+D4).('D D |
+G2G2A2 |
+B4).('A A |
+c cA2F2 |
+G4) |]

@@ -1,0 +1,25 @@
+X: 1350
+T: Eenplantoona violetta
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 3383512285
+%%humdrum-veritas-data 3894267542
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D2D2B2G2 |
+D2D2B2G2 |
+G G G GG2G G |
+D2D2G4) |
+.('G G G G G G G G |
+D D D DB2G2 |
+D2D2G2z2) |
+.('G G G GG2G2 |
+D D D DG2z2) |
+.('G G G G G G G G |
+D D D DG2z2) |]

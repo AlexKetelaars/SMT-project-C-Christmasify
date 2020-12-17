@@ -1,0 +1,32 @@
+X: 16358
+T: o Beek waer in ik tranen stort, Aen uwen gro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2640502000
+%%humdrum-veritas-data 4241727634
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+d2 d2 d A B c |
+(c4B2)) .('(d G) |
+A2> e2 d c B A |
+(B A)G4).('B2 |
+e2> d2 (^c/ d/) (e/ f/) (g/ f/) (g/ e/) |
+(f g)a4).('(e3/ g/) |
+(f/ d/) (g/ e/) (a/ f/) (e/ d/) (B/ g/ f/ e< {d e} !trill!!trill!e) d/ |
+d6) |
+.('d2 [I:setbarnb 9]|
+d2 d2 (=f e/) c/ (c B/) A/ |
+!trill!!trill!^G4{A2 B2} A2) .('B2 |
+c A e c {B} A2 G2 |
+(G4F2)) .('D2 |
+(D E) (F G) A B A B |
+(c3 d/ e/) d2) .('c2 |
+(B/ c/ d/) ^d/ (e/ c/) (B/ A/) (E/ c/ B/ A< {G A} !trill!!trill!A) G/ |
+G6) :|]

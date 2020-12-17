@@ -1,0 +1,30 @@
+X: 1547
+T: Ik ben er laatst al op een keer naar mijn zo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3795304326
+%%humdrum-veritas-data 3865562561
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+d2dd2B |
+B2dd3) |
+.('B B B B d B |
+A3z2).('A |
+d2gB2c |
+d2dG2).('B |
+d2B B d B |
+A3z2).('A |
+d2A d e f |
+f2e d z) .('A |
+d2A d e f |
+f2ed3) |
+.('B d> ed3 |
+G B d g f3/ e/ |
+(d c) AG2) |]

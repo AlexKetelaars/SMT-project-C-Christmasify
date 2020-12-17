@@ -1,0 +1,29 @@
+X: 5292
+T: Hoort wat wonderlied Binnen Amsterdam geschied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3884202499
+%%humdrum-veritas-data 1617558270
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('E2E (E F) ^G |
+A2>).('(A2 G) F |
+E2E (E F) G |
+F6) |
+.('E2E (E F) ^G |
+A3).('B2A |
+G2FG3 |
+A2GF2E |
+F2>).('(A2 G) F |
+E2E (E F) G |
+F3-F2).('D |
+D2F (F E) F |
+A3).('B3 |
+A2F (A G) E |
+D6) |]

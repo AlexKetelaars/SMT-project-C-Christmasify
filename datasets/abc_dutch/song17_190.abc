@@ -1,0 +1,42 @@
+X: 16189
+T: Roozemondje, Troeteldiertje, Stookster van m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 782701126
+%%humdrum-veritas-data 3295656902
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('(A B) c |
+(B c) B |
+(A ^G) A |
+^G2G) |
+.('(A B) c |
+(B A) A |
+e2d |
+e2e) |
+.('e2f |
+g2f |
+(e d) c |
+c2z) |
+.('d2d |
+d2e |
+(f e) d |
+e2e |
+z) .('d c/ B/ |
+A2A |
+(B c) (B/ A/) |
+^G2G) |
+.('A2B |
+(c> d c/ B/ |
+A> B c/ d/ |
+e2)e |
+z) .('B c |
+(d e) f |
+B2A |
+A3) :|]

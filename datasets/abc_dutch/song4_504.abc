@@ -1,0 +1,20 @@
+X: 3503
+T: Al in het land van Rome Daar gingen wij onde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 2701401035
+%%humdrum-veritas-data 2584858023
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('d d de2d |
+[M:9/8]d3c3-c2).('c |
+[M:6/8]c c c d d c |
+[M:9/8]c3B3-B3) |
+.('d d dG2BA2D |
+[M:6/8]G3-G3) |]

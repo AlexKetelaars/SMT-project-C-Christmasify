@@ -1,0 +1,15 @@
+X: 250
+T: Die t' peck hier sal aenraken Sal hem daer b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 4209298525
+%%humdrum-veritas-data 1148475111
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('zGGBAG(B>A B/ c/d)d2).('zdd(c>B A/) G/AAG2).('zGGBAG(B>A B/ c/d)d2).('zdd(c>B A/ G/)AAG2).('zAB2d2cBAGc2(BA/ G/)FDGF/ E/D2).('zABBGG(B>A B/ c/d)d2).('zd/ d/d(c>B A/) G/AAG4) |]

@@ -1,0 +1,30 @@
+X: 15160
+T: Anna Maria, waar gade gij naar toe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 3682263150
+%%humdrum-veritas-data 6563000
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('FF3/G/ |
+AA3/A/ |
+G/> F/GA |
+F3) |
+.('AA3/B/ |
+cc3/c/ |
+B/> A/Bc |
+A3) |
+.('cdc |
+BB/> A/B |
+B/> d/cB |
+AA/> G/A) |
+.('ABc |
+dd/> d/d |
+c/> B/AG |
+F3) |]

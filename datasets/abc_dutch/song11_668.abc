@@ -1,0 +1,31 @@
+X: 10667
+T: Welkom, welkom, vaderland! Wij zijn nu weer  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3052462323
+%%humdrum-veritas-data 733608943
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: E clef=treble
+.('B3/ A/ [I:setbarnb 1]|
+G2G2F2G2 |
+A4-A) .('F F G |
+A2A2A2B2 |
+G2z4).('B A |
+G2B2G2E2 |
+(F2>D2) B,) .('F F A |
+G2B2G2E2 |
+(F2>D2) B,) .('B, C D |
+E2E2F2G2 |
+A4z) .('F G A |
+B2(d> c)B2A2 |
+G4z) .('B, C D |
+E2E2F2G2 |
+c4z) .('F G A |
+B2(d> c) (B> A) (G3/ F/) |
+E4z2) |]

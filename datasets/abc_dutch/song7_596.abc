@@ -1,0 +1,29 @@
+X: 6595
+T: En zijn kruisken moest Jezus dragen Tot Jeru [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 3827091778
+%%humdrum-veritas-data 2821807947
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GF/ E/ |
+D(E/ F/) |
+GG |
+z).('G/ A/ |
+Bc/ B/ |
+BA |
+G2 |
+z).('G/ A/ |
+BA/ B/ |
+cB |
+A).('B/ A/ |
+GE/ F/ |
+GF |
+E) |]

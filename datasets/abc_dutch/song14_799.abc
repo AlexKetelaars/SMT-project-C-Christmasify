@@ -1,0 +1,32 @@
+X: 13798
+T: [Divertimento 7.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 171248197
+%%humdrum-veritas-data 987608054
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+(3(F A) !wedge!d (3!wedge!d !wedge!d !wedge!d (3(G B) !wedge!e (3!wedge!e !wedge!e !wedge!e |
+(3(d c) !wedge!e (3(d c) !wedge!B A2 (3(A B) c |
+{e/} (3(d c) !wedge!d (3(f e) !wedge!d (3(e ^d) !wedge!e (3(g f) !wedge!e |
+(3(f d) !wedge!f (3a g f e2) .('A2 |
+(3(F A) !wedge!d (3!wedge!d !wedge!d !wedge!d (3(G B) !wedge!e (3!wedge!e !wedge!e !wedge!e |
+(3(d c) !wedge!e (3(d c) !wedge!B A2 (3(A B) !wedge!c |
+(3(d c) !wedge!d (3(f e) !wedge!d (3(e ^d) !wedge!e (3!wedge!g !wedge!f !wedge!e |
+(3d a f (3d A F D2) |
+.('f g [I:setbarnb 9]|
+(3(a a a) a2 (3(f f f) f2 |
+(3(g g g) g2 (3(e e e) e2 |
+(3f a g (3f e d (3B b a (3g f e |
+(d4c2) (f g) |
+(3(a a a) a2 (3(f f f) f2 |
+(3(g g g) g2 (3e e e (3c e g |
+(3f c d (3B b g (3a f d (3g e c |
+(3d a f (3d A F D2) :|]

@@ -1,0 +1,16 @@
+X: 17181
+T: Irijs et plus Charmante
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 3584482350
+%%humdrum-veritas-data 4061738346
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('cf/ g/ f<de/fccdc/ d/ABcfcfg/ f/defccdc/ d/ABc) |
+.('ccA/ccAcdAdAdc/ d/dc/ d/ececfg/ f/de/ f/fe/ d/c_B/ A/GF/ E/F) :|]

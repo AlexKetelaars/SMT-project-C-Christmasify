@@ -1,0 +1,29 @@
+X: 1205
+T: De klok der toren had negen geslagen En het  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 1692999421
+%%humdrum-veritas-data 366719188
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2A G A B |
+c c B A E) .('A |
+A2GF2E |
+(D E) FG2).('D |
+B2AG2B |
+c2B A E) .('A |
+A2GF2E |
+D2FG2).('G |
+F2Ae2d |
+B2cd2).('G |
+F2Ae2d |
+B2cd2).('d |
+f2ed2c |
+B2AG2) |]

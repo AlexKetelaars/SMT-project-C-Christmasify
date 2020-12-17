@@ -1,0 +1,25 @@
+X: 3275
+T: Kom burgers wij weten alweer een nieuw lied  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 3745732770
+%%humdrum-veritas-data 2130633339
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B [I:setbarnb 1]|
+A2A BA2G A |
+B2d2A2z) .('B |
+A2A BA2G A |
+B2d dA2z) .('A |
+B2B Bc2e2 |
+(d2B2)d2z) .('A |
+d2d2G2B2 |
+A2A FD2).('E F |
+G2B cd2d c |
+(B2A2)G2z) |]

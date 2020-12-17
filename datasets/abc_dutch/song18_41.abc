@@ -1,0 +1,54 @@
+X: 17040
+T: Trio quel bien devez
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1540988
+%%humdrum-veritas-data 469151342
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('efgagf |
+g2gzzg |
+cdefdg |
+!mordent!!mordent!e2).('fgfe |
+defedc |
+defedc |
+d3-d3) |
+.('efgagf |
+g2gzzg |
+cdefdg |
+!mordent!!mordent!e2).('fgfe |
+defedc |
+defedc |
+d2).('dgfe |
+fgadde |
+!mordent!!mordent!^c2agfe |
+fga!mordent!!mordent!e3- |
+e2).('efff |
+g!mordent!!mordent!e>dd2_b |
+ag^fga_b |
+!mordent!!mordent!^f3-f2).('f |
+g>ggg^f3/g/ |
+g2gfed |
+efgd3- |
+d2).('deef |
+fged!mordent!!mordent!d3/c/ |
+c3-c3) |
+.('c2dgfe |
+fgadde |
+!mordent!!mordent!^c2agfe |
+fga!mordent!!mordent!e3- |
+e2).('efff |
+g!mordent!!mordent!e>dd2).('_b |
+!mordent!!mordent!^f3-f2).('f |
+g>gga!mordent!!mordent!^f3/g/ |
+g2gfed |
+efgd3- |
+d2).('deef |
+fged!mordent!!mordent!d3/c/ |
+c3-c2) |]

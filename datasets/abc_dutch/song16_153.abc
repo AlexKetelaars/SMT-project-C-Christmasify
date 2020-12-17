@@ -1,0 +1,43 @@
+X: 15152
+T: De wereld is een speeltoneel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 4069469816
+%%humdrum-veritas-data 1765085564
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F G A c |
+A2G2 |
+F2z2 |
+z2).('A2 |
+B c d d |
+c2B2 |
+A2z) .('F |
+c c B B |
+A2z A |
+G A c c |
+A F) .('F A |
+c2B A |
+A4 |
+G4) |
+.('c2A c |
+d c B A |
+.B2.B2 |
+.B2z2) |
+.('d2d d |
+c B A G |
+A2B2 |
+c2z) .('C/ C/ |
+F F G G |
+A2z) .('A |
+B c d d |
+c F d B |
+A2G2 |
+F2z2) |]

@@ -1,0 +1,24 @@
+X: 3554
+T: Morgen dan gaan wij ons Nederland verlaten ' [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 1856413943
+%%humdrum-veritas-data 547215651
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2A B2<c2A |
+G B d BA2D2) |
+.('d> d e d2<c2c |
+B> A G BA4) |
+.('G2(B d)d2g2 |
+e2f e (e d)d2) |
+.('c> c c> cB3D |
+(A c B) AG4) |
+.('c> c c> cB3D |
+(A c B) AG4) |]

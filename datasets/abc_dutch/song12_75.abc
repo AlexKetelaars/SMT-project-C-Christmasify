@@ -1,0 +1,32 @@
+X: 11074
+T: Schep moed myn Ziel, schep moed; ô Schoone!  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 618422058
+%%humdrum-veritas-data 1562607603
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z4G4 |
+G2(A G2<)^F2F |
+G4B4 |
+A2>B2c2(c d) |
+B4A4) |
+.('d4B3c |
+d2_e2f4 |
+d4c3d |
+(_e f)d2c4 |
+B4).('A4 |
+d2>A2B2(A B) |
+G4^F4 |
+G2(G/ A/ B2<)c2B |
+A4).('D4 |
+G2(G A2<)^F2G |
+A4B4 |
+c2(d _e2<)A2G |
+G8) |]

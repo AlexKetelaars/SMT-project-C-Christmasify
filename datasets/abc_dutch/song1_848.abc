@@ -1,0 +1,15 @@
+X: 848
+T: Lof si u god voor alle saken, wiens goetheyt [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 792820215
+%%humdrum-veritas-data 282486278
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('zd2c2>B2 A F G AB2A2).('zA2A F G AB2A2).('zc2c2>(B2 A B) c AB2A2>(G2G4F2)G4).('zd2c2>B2 A F G AB2A2).('zA2A F G AB2A2).('zc2c2>(B2 A B) c AB2A2>(G2G4F2)G4).('d2d d d d d d d Bc2B4).('zG2(G A) B c d ef2(e2>d2-d4)c2d4).('d2c2B A cB2A4).('c2>-c2B2A4G2G2F2G4).('z B d c A B d c A B Gc2B2A2).('z B d c A B d c) .('A B Ac2B2A2).('zF2(G2A2)B2A4(G4F2)G4) |]

@@ -1,0 +1,28 @@
+X: 8929
+T: Lieve gebuurman, komde gij mee, Ons kerremis [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 1366911896
+%%humdrum-veritas-data 3470049733
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G A Gd2d |
+B A BG2).('G |
+A G Ad2d |
+B3A3) |
+.('G A Gd2d |
+B A BG2).('G |
+A G Ad2d |
+B3A2).('G |
+A2B c B c |
+B2>).('G2 F E |
+D2Dd2d |
+(B A) G) .('d e d |
+c B A A G F |
+G3z2z) |]

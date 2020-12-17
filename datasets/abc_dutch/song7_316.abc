@@ -1,0 +1,38 @@
+X: 6315
+T: Zeg Man kom van boven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 3996351354
+%%humdrum-veritas-data 4112236497
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ d/ d e/ e/ e |
+d g d B |
+d/ d/ d e/ e/ e |
+d g d B) |
+.('d d e f |
+g a b b |
+a b a d |
+(a g)z2) ||
+.('G A/ G/ F G [I:setbarnb 10]|
+c4 |
+e f/ e/ d e |
+g4) |
+.('G A B c |
+c2B2 |
+B G f d |
+(d2e2)) |
+.('G A/ G/ F G |
+c4 |
+e f/ e/ d e |
+g4) |
+.('G A B c |
+c2B2 |
+B G g d |
+c2z2) ||

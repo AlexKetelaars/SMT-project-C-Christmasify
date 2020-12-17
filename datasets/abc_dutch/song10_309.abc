@@ -1,0 +1,25 @@
+X: 9308
+T: Kom mee, naar de bruisende, frissche zee, ko [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 253145212
+%%humdrum-veritas-data 3155890912
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F2 [I:setbarnb 1]|
+B4cc |
+d2cBBA |
+BF(ED)C2 |
+B,2z).('Bed/ c/ |
+d2cB2A |
+BF(ED)C2 |
+B,2z).('FGE/ E/ |
+FB/ B/ c/ B/B2A |
+BF(ED)C2 |
+B,2) |]

@@ -1,0 +1,35 @@
+X: 5585
+T: God Pan die zat in ‘t veld, En teld’
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 3809898590
+%%humdrum-veritas-data 3484845315
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F2GA2G |
+F2FF2).('c |
+c2df2e |
+d2c (B c) d |
+c3z2).('F |
+F2GA2G |
+F2FF2).('c |
+c2df2e |
+d2c B c d |
+c3z2).('f |
+f2dc2c |
+A3).('G3 |
+A G/ A B/c2c |
+d2c (c B) A |
+G3z2).('c |
+c2dc2A |
+F2GF2).('F |
+(F G) AB2B |
+G A Bc2f |
+f2ef3) |]

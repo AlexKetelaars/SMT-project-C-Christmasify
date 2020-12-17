@@ -1,0 +1,23 @@
+X: 8275
+T: Dat huisje waar ik vrijen ging, Lag tusschen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 2260345091
+%%humdrum-veritas-data 3610120022
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('z G G G F F E E |
+E2-E) .('E c c B =A |
+B2z) .('B B e B B |
+d d c) .('c B B A F |
+!fermata!E2).('B2G G G B |
+B BA2).('A A A c |
+B2z) .('B B e B B |
+d d c) .('c B B A F |
+E2-E zz4) |]

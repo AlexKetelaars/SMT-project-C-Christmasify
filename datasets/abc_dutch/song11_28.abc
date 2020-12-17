@@ -1,0 +1,40 @@
+X: 10027
+T: Mensen, wil horen een aardigheid Hoe een bak [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2661603040
+%%humdrum-veritas-data 4070262839
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('DEF |
+GGG |
+(GA)B |
+G3) |
+.('A2B |
+A2G |
+F2E |
+D3- |
+D3) |
+.('A2A |
+A2d |
+c2B |
+B2A) |
+.('A2A |
+d2d |
+c2B |
+B2A) |
+.('G2G |
+GGG |
+GFE |
+D3) |
+.('ccc |
+BAG |
+(FG)A |
+G3- |
+G3) |]

@@ -1,0 +1,28 @@
+X: 16948
+T: Les habitans Chanpestre
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 455380874
+%%humdrum-veritas-data 689963994
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('gg [I:setbarnb 1]|
+!mordent!!mordent!g>fea |
+dc).('gg |
+!mordent!!mordent!g>fea |
+d2) |
+.('dd [I:setbarnb 5]|
+d>ef3/g/ |
+!mordent!!mordent!e2).('a3/a/ |
+ad_b3/a/ |
+gf).('ee |
+ec!mordent!!mordent!f3/e/ |
+dB).('g/ f/ e/ d/ |
+c/ B/A!mordent!!mordent!f3/e/ |
+!mordent!!mordent!dc) |]

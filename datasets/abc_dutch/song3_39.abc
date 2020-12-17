@@ -1,0 +1,28 @@
+X: 2038
+T: Een meisje wilde eens vroeg opgestaan Om met [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1053368517
+%%humdrum-veritas-data 2533668530
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+d2d2d2c c |
+B2A2G3z) |
+[M:2/4].('z g g g |
+[M:4/4]a2g gf2e2 |
+e2d2d2).('d2 |
+g2d2e f g e |
+d4B3).('B |
+c B c d e f g c |
+(B2A2)d2).('d2 |
+g2d2e f g e |
+d4B3).('d |
+c B c d e f g c |
+(B2A2)G2) |]

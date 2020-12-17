@@ -1,0 +1,39 @@
+X: 4220
+T: Wat is hier laatst gezongen Een kluchtje van [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 2511675105
+%%humdrum-veritas-data 3728107426
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2AB2c |
+d3B2).('d |
+e2e (e d) e |
+d3-d2).('g |
+d2d (c B) A |
+G2G).('e2d |
+(d e) d (c B) A |
+G3-G3) |
+.('d3e2d |
+c3-c2).('c |
+B2Ad2c |
+B2A-A2).('d |
+d2de2d |
+c3-c2).('c |
+B2Ad2c |
+B2A-A2).('D |
+G2AB2c |
+d3-d2).('d |
+e2e (e d) e |
+d3-d2).('g |
+d2d c B A |
+G2G).('e2B |
+d2d (c B) A |
+G3-G2) |]

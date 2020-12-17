@@ -1,0 +1,36 @@
+X: 17363
+T: Les Rads
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 1241190663
+%%humdrum-veritas-data 1005371303
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('FG [I:setbarnb 1]|
+A3B |
+AAAd |
+d2f2 |
+d2) |
+.('cd [I:setbarnb 5]|
+e3e |
+BBBe |
+c2B2 |
+A2).('FG |
+AB/ A/GB |
+AAFG |
+AB/ A/GB |
+A2).('cd |
+e2f2 |
+e2AA |
+AB/ c/dc |
+BA).('cd |
+e2f2 |
+e2AA |
+AB/ c/dc |
+!fermata!d3) :|]

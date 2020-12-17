@@ -1,0 +1,28 @@
+X: 17378
+T: Cordon bleu
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 2141761794
+%%humdrum-veritas-data 2961781092
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('g2g2 [I:setbarnb 1]|
+f2g2a g f e |
+d4c2c2 |
+B2c2d c B A |
+B2G2) |
+.('B A B c [I:setbarnb 5]|
+B2G2c2d2 |
+e4B A B c |
+B2G2B A B c |
+B2G2).('B A B c |
+B2G2c2d2 |
+e4a g f e |
+d2g2f g a f |
+!fermata!g4) :|]

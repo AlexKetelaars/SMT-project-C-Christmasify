@@ -1,0 +1,28 @@
+X: 16778
+T: Van den ketelaer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1002781420
+%%humdrum-veritas-data 3540418360
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2AB2c |
+d3d2c/ d/ |
+e f ed2c |
+d3-!fermata!d2) |
+.('e [I:setbarnb 5]|
+e f e e f g |
+f3e2g |
+f2ed2c |
+B2>).('B2 c d |
+e f e d e c |
+B2AB2c |
+d e c B A ^G |
+A3-A3) :|]

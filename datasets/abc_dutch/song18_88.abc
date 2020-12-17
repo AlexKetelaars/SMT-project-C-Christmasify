@@ -1,0 +1,55 @@
+X: 17087
+T: Rondeaú
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2785071512
+%%humdrum-veritas-data 3132796069
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c>de |
+B>cd |
+(c>B) A/ B/ |
+B2B) |
+.('e>^fg |
+^f>ga |
+c>dB |
+A3) |
+.('e>ec |
+g>ge |
+f>fe |
+d>ef) |
+.('gfe |
+d>ef |
+edc |
+B2).('g |
+gf3/f/ |
+f>ge |
+e>fd |
+c3) |
+.('c>de |
+B>cd |
+c>(B A/ B/) |
+B2B) |
+.('e>^fg |
+^f>ga |
+c>dB |
+A3) |
+.('aea |
+^f2f |
+g>ab |
+e>^fg |
+B>cA |
+G2).('g |
+g^f3/e/ |
+^d>e^f |
+Bbg |
+e).('a^f |
+^dBe |
+e>^f^d |
+e3) |]

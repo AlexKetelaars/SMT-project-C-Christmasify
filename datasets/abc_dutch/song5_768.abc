@@ -1,0 +1,23 @@
+X: 4767
+T: In Frankrijk daar staat er een herberg Een h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 658062996
+%%humdrum-veritas-data 1933890882
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('(B/ A/) [I:setbarnb 1]|
+G> B d d> c B |
+AG2-G2).('A |
+B c> d d e d |
+A3-A2).('d/ d/ |
+d g f (e d) f |
+(e2d)A2).('e |
+e> f g d> e d |
+G3-G2) |]

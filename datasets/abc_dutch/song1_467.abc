@@ -1,0 +1,25 @@
+X: 467
+T: Wat voert de lieve Morgen-stond Hem leckerny [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 803303901
+%%humdrum-veritas-data 2515013064
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2G2c2d2 |
+e e d cg4) |
+.('z2G2c2d2 |
+e e d c2<B2).('c |
+d2(c B) A B A3/ G/ |
+G6) |
+.('d2 [I:setbarnb 7]|
+d2e2f d g f |
+e2).('z AA2B2 |
+c B A B c) .('d e f |
+g e d> cc4) |]

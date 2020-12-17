@@ -1,0 +1,48 @@
+X: 5422
+T: Ach! myn vryheid waard te minnen, Ach! wat z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2137416952
+%%humdrum-veritas-data 2744686901
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('zBc |
+d2d |
+c2B |
+A2^F |
+z).('AB |
+(BA3/)G/ |
+G3) |
+.('d>cd |
+BGc |
+A2F |
+z).('fd |
+g2c |
+(dc3/)B/ |
+B3 |
+z).('Bc |
+d2d |
+c2B |
+A2^F |
+z).('AB |
+(BA3/)G/ |
+G2).('d |
+=B>cd |
+_e2e |
+c2c) |
+.('d_ef |
+_ec3/d/ |
+d3 |
+z).('Bc |
+d2d |
+c2B |
+A2^F |
+z).('AB |
+(BA3/)G/ |
+G3) :|]

@@ -1,0 +1,30 @@
+X: 6450
+T: No 89
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 1609061468
+%%humdrum-veritas-data 2599792681
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D4D> D F3/ D/ |
+A4z2).('A2 |
+B2B2B> B d3/ B/ |
+A4z2).('A2 |
+^G2B2d2(c B) |
+A2>c2E3).('c |
+B2B2d3^G |
+A4z2).('A2 |
+(A G) (F G) (A B) c d |
+B2>B2B3).('G |
+(G F) (E F) (G A) (B A) |
+G2>F2F3).('D |
+d8- |
+d4z2B2 |
+A2>F2G3E |
+D4) |]

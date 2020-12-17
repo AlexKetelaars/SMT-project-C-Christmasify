@@ -1,0 +1,58 @@
+X: 17299
+T: O God der Min! Moet ik dan eeuwig swichten V [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3820642245
+%%humdrum-veritas-data 109114525
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d [I:setbarnb 1]|
+B2d2 |
+G3d |
+_edcB |
+AB).('cd |
+_edcB |
+ABcd |
+B2A2 |
+G3) |
+.('g [I:setbarnb 9]|
+^f2g2 |
+a3b |
+agab |
+ag(fe) |
+f2e2 |
+d3).('g |
+^f2g2 |
+a3A |
+Bcde |
+^fgab |
+(g>a)(a3/g/) |
+g3) |
+.('d [I:setbarnb 21]|
+g2(f3/e// f//) |
+g3d |
+gab(a/ g/) |
+ff2).('(_e/ d/) |
+_edcB |
+c(d/ _e/)d(c/ B/) |
+AGA(G/ ^F/) |
+G3) |
+.('B [I:setbarnb 29]|
+cd_ed |
+c>Bc(B/ A/) |
+B>).('A B/ c/ d/ e/ |
+ffgf/ e/ |
+fg/ a/ga/ c'/ |
+fde^c |
+d3).('B/ c/ |
+d_e/ d/cB/ B/ |
+cd/ c/B).('B/ A/ |
+A3(d/ A/) |
+B2A2 |
+G3) :|]

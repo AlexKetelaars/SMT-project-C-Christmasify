@@ -1,0 +1,27 @@
+X: 5853
+T: Ach! dat ik in den hemel ware Al bij mijn zo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1181295997
+%%humdrum-veritas-data 359507853
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G G G> {A} GG2A2 |
+(B2>A2)G2).('(G3/ B/) |
+d2>d2c3c |
+B4z2).('B2 |
+B2B2(B A) (G3/ F/) |
+E4E2).('(F3/ G/) |
+A2A2A2A2 |
+d ^c d ed2).('A2 |
+B2A2B2A2 |
+B A B cd2).('G3/ B/ |
+d2c B2<A2G |
+G4z2) |]

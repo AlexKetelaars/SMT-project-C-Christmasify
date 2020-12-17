@@ -1,0 +1,32 @@
+X: 7103
+T: No663
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:34
+%%humdrum-veritas 2279570364
+%%humdrum-veritas-data 3077111509
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=66
+K: C clef=treble
+.('A B [I:setbarnb 1]|
+c2B2A B c d |
+e2E2E2a g |
+f2e2d e f g |
+e2c2c) .('d e f |
+g2g2^f2g2 |
+a2b2e2^f2 |
+g b a g ^f e ^d f |
+e4E2) |
+.('e f [I:setbarnb 9]|
+g2c2c2B c |
+d c B AG2G2 |
+A2B2c2B A |
+^G2E2E4) |
+.('A2B2c B c d |
+e4e2d c |
+B2A2c B A ^G |
+A6) :|]

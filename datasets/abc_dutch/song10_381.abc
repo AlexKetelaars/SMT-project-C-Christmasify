@@ -1,0 +1,33 @@
+X: 9380
+T: Te Halen was een man, Een man zeer oud van jaren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3624219853
+%%humdrum-veritas-data 3503616204
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('(F2G) [I:setbarnb 1]|
+A2F (G A) B |
+A2z).('(A2B) |
+c2cA2G |
+G F z).('(F2G) |
+A2F G A B |
+A2z).('(A2B) |
+c2cA2A |
+G F zz2).('C |
+F2GA2c |
+A3A2).('G |
+F2GA2c |
+G2zz2).('c |
+c2cd2c |
+A G zz2).('A |
+c2BA2G |
+F2z).('G3 |
+c2BA2G |
+F2z) |]

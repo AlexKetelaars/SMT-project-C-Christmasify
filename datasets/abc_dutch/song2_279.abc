@@ -1,0 +1,38 @@
+X: 1278
+T: Jan mieneman kom doe mir an God zal ons wel helpen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 1283067852
+%%humdrum-veritas-data 4078303212
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('BB/> B/BG |
+DDD2) |
+.('G>GAG |
+F2E2) |
+.('cccG |
+FFF).('F |
+EDEF |
+E2D2) |
+.('D2G3/A/ |
+B4) |
+.('A2G3/E/ |
+D4) |
+.('D2F3/F/ |
+E2D2) |
+.('D>DFF |
+E2D2) |
+.('D2G3/A/ |
+B4) |
+.('A2G3/E/ |
+D4) |
+.('c2c3/c/ |
+BG).('GB |
+A2F2 |
+G4) |]

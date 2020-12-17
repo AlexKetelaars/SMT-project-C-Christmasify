@@ -1,0 +1,32 @@
+X: 18091
+T: Slyffer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3872269225
+%%humdrum-veritas-data 2149787792
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+.('f g [I:setbarnb 1]|
+f2 (e d) (e c) |
+B2 (d F) (d F) |
+A2 (c F) (c F) |
+B2 (d F) (d F)) |
+.('f2 (e d) (e c) |
+B2 (d F) (d F) |
+A2 (c F) (c F) |
+B6) |
+.('x2 d2 c B |
+F2 (e F) (e F) |
+F2 (d F) (d F) |
+A c =e g b g |
+(g f =e f) d B) |
+.('F2 (e F) (e F) |
+F2 (d F) (d F) |
+(D F A c) e A |
+B6) :|]

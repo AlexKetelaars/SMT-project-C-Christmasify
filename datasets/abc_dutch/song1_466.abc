@@ -1,0 +1,15 @@
+X: 466
+T: Psalm 134
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 854444357
+%%humdrum-veritas-data 3091319817
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c4c2B2A2G2c4d4e4z4).('e4e2e2d2c2f4e4d4z4).('c4d2e2d2c2A4B4c4z4).('g4e4c4d2f2e4d4c4c4) |]

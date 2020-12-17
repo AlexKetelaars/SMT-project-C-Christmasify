@@ -1,0 +1,44 @@
+X: 6012
+T: Cecilia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2440896933
+%%humdrum-veritas-data 1729541414
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A/ [I:setbarnb 1]|
+A>Bc3/d/ |
+e2e3/e/ |
+f>fe3/d/ |
+e2z).('e |
+d>dde/ d/ |
+c>Bc3/d/ |
+e(d/ c/)BA |
+A2x3/) :|]
+.('a/ [I:setbarnb 9]|
+a>^ga3/b/ |
+g>^fg3/a/ |
+b(a/ g<)^fe/ |
+e2z3/).('d/ |
+e>fg3/e/ |
+a>gf3/e/ |
+d>cd(c/ B/) |
+c2z).('B |
+c>def/ e/ |
+d2d3/e/ |
+c>ccB/ A/ |
+B2B3/).('A/ |
+A>Bc3/d/ |
+e2e3/e/ |
+f>fe3/d/ |
+e2z).('e |
+d>dde/ d/ |
+c>Bc3/d/ |
+e(d/ c/)BA |
+A2) |]

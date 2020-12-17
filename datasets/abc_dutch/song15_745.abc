@@ -1,0 +1,42 @@
+X: 14744
+T: [Aria Raùl di Créqui]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 557700562
+%%humdrum-veritas-data 920240220
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E G c [I:setbarnb 1]|
+e2e d c d |
+c2>G2 A G |
+G A G G A G |
+G2>).('E2 G c |
+e2e d c d |
+c c) .('G g ^f e |
+d c AG2^F |
+G3).('z2G |
+d2Bc2G |
+f2de2).('G |
+d2Bc2e |
+G2>).('c2 d e |
+c2>c2 d e |
+c2c d f d |
+c3B2d |
+c2>).('c2 d e |
+c2>c2 d e |
+c2c d f d |
+c3B3 |
+g2).('g f a f |
+e3!trill!!trill!d3 |
+c2).('ag2a |
+g a/ g/ f/ e/ d/ c/ d/ e/ f/ d/ |
+e e) .('ag2a |
+g a/ g/ f/ e/ d/ c/ d/ e/ f/ d/ |
+c c c c c c |
+c3) |]

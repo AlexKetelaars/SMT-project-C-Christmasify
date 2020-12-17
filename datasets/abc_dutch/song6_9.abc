@@ -1,0 +1,30 @@
+X: 5008
+T: Goeden avond, blanke Leisje, ‘k heb zooveel  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2712061106
+%%humdrum-veritas-data 2166809794
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A3/ B/ [I:setbarnb 1]|
+c F E D |
+D C) .('C F |
+E F G A |
+G2).('A3/ B/ |
+c F E D |
+D C) .('C F |
+E F G A |
+G !fermata!z) .('G G |
+A> G G G |
+[M:3/4]E2).('G G A =B |
+[M:2/4]c2c z) ]|:
+.('A cB2 |
+G BA2) |
+.('C C A3/ G/ |
+(F E) F z) :|]

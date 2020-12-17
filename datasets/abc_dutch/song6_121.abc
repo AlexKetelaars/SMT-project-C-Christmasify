@@ -1,0 +1,23 @@
+X: 5120
+T: De vierde compie, die poetst niet graag, en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 3806431735
+%%humdrum-veritas-data 4001844214
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F C F (A F) A |
+c2AF2).('A |
+C2C C> C C |
+F2A c z) .('C |
+F C F (A F) A |
+c2AF2).('A |
+C2C C> C C |
+F3z2) |]

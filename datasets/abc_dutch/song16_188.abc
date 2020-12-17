@@ -1,0 +1,35 @@
+X: 15187
+T: Al was je maar nooit getrouwd
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2614122115
+%%humdrum-veritas-data 3357323594
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+{G} F =E FB2D |
+C3z2D |
+E D EG2A, |
+B,3z2).('F |
+{G} F =E Fd2d |
+d2cB2G |
+F =E FG2A |
+B3z2).('c |
+c2FA2c |
+c2BG2=e |
+=e2GB2d |
+d2cA2).('c |
+c2FA2c |
+=e3d2B/ G/ |
+d2>c2 B G |
+F3z3) ]|:
+.('F/ G/ A/ B/ c/ d/ e e e |
+F/ G/ A/ B/ c/ ^c/ d d d) |
+.('g f ec2g) :|]
+.('f e cB2) |]

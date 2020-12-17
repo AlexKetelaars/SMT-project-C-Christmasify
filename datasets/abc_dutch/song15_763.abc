@@ -1,0 +1,29 @@
+X: 14762
+T: Haidenröslein
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2059692282
+%%humdrum-veritas-data 1658613415
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B B B B |
+(d/ c/) (c/ B/)A2) |
+.('A A B c |
+(d2g) z) |
+.('B B B B |
+(d/ ^c/) (c/ B/)A2) |
+.('d d (e3/ d/) |
+(^c/ d/) (e/ f/)d2) |
+.('(d/ f/) (e/ d/) (^c/ B/) (^A/ B/) |
+(g> ^c)d2) |
+.('A A B c |
+d e/ f/!fermata!g2) |
+.('e g c e |
+G (B/ A/)G2 |
+z4) |]

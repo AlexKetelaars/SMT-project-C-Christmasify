@@ -1,0 +1,15 @@
+X: 1992
+T: Moeder mag ik u een woordje gaan vragen zo s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 3267074171
+%%humdrum-veritas-data 127506394
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2G G G G G B dB2d).('d2BA2G F G A2<D2).('G2GG2G G B dB2d).('d2BA2G (F G) AD2).('d/ d/ d e fe2e2<d2).('G G B d e d (c B) A2<G2-G2).('d/ d/ d e fe2e2<d2).('B B B B A B (d c) A2<G2-G2) |]

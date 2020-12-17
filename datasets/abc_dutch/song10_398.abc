@@ -1,0 +1,35 @@
+X: 9397
+T: ‘t Is met de kermisdagen Nog wel al van plezier
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 1797950896
+%%humdrum-veritas-data 397486464
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2> A2 F3 A |
+d4d2 z) .('d |
+d2> d2 A3 B |
+c6z) .('c |
+e2> d2 c3 B |
+A2> d2) .('F3 B |
+A2> A2 G3 G |
+F4z2) .('B A |
+G6c d |
+e6).('f e |
+e2> d2 F3 G |
+A6).('B A |
+G6c d |
+e6).('f e |
+e2> d2 F3 G |
+A6).('A A |
+f2 f f2< e2 e |
+f4).('d2 c B |
+A2> A2 c3 c |
+d4z2) |]

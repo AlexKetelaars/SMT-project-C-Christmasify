@@ -1,0 +1,30 @@
+X: 15374
+T: Rust mijn ziel, Uw God is Koning
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 3905281337
+%%humdrum-veritas-data 536849653
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F2G2 |
+A2F2 |
+A2B2 |
+c2!fermata!A2) ||
+.('d2c2 [I:setbarnb 6]|
+cBA2 |
+B2B2 |
+!fermata!A4) ||
+.('c2c2 [I:setbarnb 10]|
+c2G2 |
+A2B2 |
+A2!fermata!G2) ||
+.('F2G2 [I:setbarnb 14]|
+A2cB |
+A2G2 |
+!fermata!F4) |]

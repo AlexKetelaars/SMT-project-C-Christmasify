@@ -1,0 +1,27 @@
+X: 3130
+T: Wat zag ik daar van verre Een heel mooi meis [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 4044121075
+%%humdrum-veritas-data 2212670187
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d3 [I:setbarnb 1]|
+d2dc2B |
+[M:9/8]A3G3).('d3 |
+[M:6/8]g2fe2d |
+[M:6/8]A2>-A2 z) .('B/ B/ |
+c2de2e |
+[M:9/8]d3g2f e e e) |
+[M:6/8].('d3c3 |
+B2>-B2 z) .('B/ B/ |
+c2de2e |
+[M:9/8]d3g2f e e e) |
+[M:6/8].('d3A3 |
+[M:9/8]G2>-G2z2) |]

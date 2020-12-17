@@ -1,0 +1,38 @@
+X: 16338
+T: Waeyer die de hette weert, Die myn schoone K [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3278462901
+%%humdrum-veritas-data 4203730488
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('c2B |
+{B2}A2G |
+(F G) E |
+F3) |
+.('(f e) d |
+(e g) c |
+d {c}!trill!!trill!=B2 |
+c3) |
+.('(c B) A |
+(B A) B |
+g2B |
+!trill!!trill!B2A) |
+.('(c A) F |
+(D B) A |
+(G A) F |
+{F2}E3) |
+.('(c A) F |
+(d e) f |
+(e d) c |
+f2F) |
+.('(c A) F |
+(D B) A |
+G {F2}!trill!!trill!E2 |
+F3) :|]

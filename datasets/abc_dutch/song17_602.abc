@@ -1,0 +1,36 @@
+X: 16601
+T: Ik smelt in rouw
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2464816967
+%%humdrum-veritas-data 2534276390
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('e2A4(B3/ c/) |
+c4z2(d e/ f/) |
+e2>d2c3(B/ A/) |
+A4z2).('A2 |
+A2>B2c2(e d) |
+d2>c2c2z e |
+e2(e f/ g/)f3e |
+e2z e (e d) (f e) |
+d2>c2c2d e// f// B// c// |
+c2>B2B2) |
+.('B2 [I:setbarnb 11]|
+B3(e/ B/)c2(B c) |
+A2>B2^G2G2 |
+A2B> cd3d |
+(e B) (B/ c/ d)c2c2 |
+c2d e2<A2A |
+A Bc2(B/ A/^G2)E |
+z2).('c2d3e |
+e2(e d/ c<) (c B/) (B c/ d/) |
+c3(B/ A/)A2z (e/ B/) |
+c2(f e/ d/)c3(B/ A/) |
+A6) |]

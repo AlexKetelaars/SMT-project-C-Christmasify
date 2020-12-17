@@ -1,0 +1,43 @@
+X: 780
+T: Merck toch! wat een duyster wolcke Hing den volcke
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3644101884
+%%humdrum-veritas-data 844751179
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('f2f |
+e2e |
+(d>e)d |
+^c2A) |
+.('(f>e)d |
+^c2A) |
+.('_B2A |
+G2F |
+FE2 |
+F3) |
+.('(f>e)d |
+^c2(d/ e/) |
+fe2 |
+d3 |
+xx).('A/ _B/ |
+(c>d)c |
+c_B2 |
+c2).('A/ _B/ |
+(c>d)c |
+c_B2 |
+c3) |
+.('f2e |
+d3 |
+g2f |
+e3) |
+.('a2g |
+(^f>e d/) e/ |
+^fe2 |
+d3) |]

@@ -1,0 +1,31 @@
+X: 21
+T: Hoor na my, en merck ghy Volcken, al die ade [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 1776347391
+%%humdrum-veritas-data 1081970727
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=66
+K: F clef=treble
+.('G4 |
+G/ A/ B/ c/d2 |
+d2fd |
+_ecdB |
+cAB2 |
+BAGF |
+_EDC/ D/ E/ F/ |
+G/ A/ B/ c/d2) |
+.('dcBA |
+GF_E2- |
+E2D2) |
+[M:3/2].('d2dc2A |
+B2G^F2D |
+G>A B/ c/d2e |
+fged2z) |
+.('B2G^F2B |
+cd2G3) |]

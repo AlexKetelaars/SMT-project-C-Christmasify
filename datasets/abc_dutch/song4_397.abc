@@ -1,0 +1,33 @@
+X: 3396
+T: Jozefien was achttien jaren Schoon en liefli [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 3810570197
+%%humdrum-veritas-data 1408098743
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d3// c// [I:setbarnb 1]|
+BGg3/e/ |
+dB2).('e3// d// |
+cAd3/c/ |
+B3).('d3// c// |
+BGge |
+dd2).('d3// e// |
+fAB3/^c/ |
+d3).('d3// d// |
+dded |
+gg2).('g3// f// |
+efge |
+f3).('d/ g/ |
+b>agd |
+fe2).('B3// c// |
+d>edc |
+B3).('B3// c// |
+d>def |
+g3) |]

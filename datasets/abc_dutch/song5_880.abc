@@ -1,0 +1,40 @@
+X: 4879
+T: Daar komen we aan met onze stern Wij zoeken  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 4287052580
+%%humdrum-veritas-data 3889928659
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=63
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G GA2A |
+B2AA2).('G |
+B B BB2A/ G/ |
+B B AG2).('B |
+d d dd2(c/ B/) |
+c c cc2).('c |
+B B BB2A/ G/ |
+A2AA2).('D |
+G G GG3 |
+B A AA2).('A |
+B2BB2A/ G/ |
+B B AG2) ||
+.('B [I:setbarnb 13]|
+d3/ d3/d2d/ B/ |
+c2cc2).('c |
+B2BB2A/ G/ |
+A2AA3) |
+.('G2GG2A/ B/ |
+B2AA2).('G |
+B B BB2A/ G/ |
+B2AG2).('B |
+d d dd2(c/ B/) |
+c c cc2).('c |
+B2BB2G |
+A A AA2) :|]

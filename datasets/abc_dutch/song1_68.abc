@@ -1,0 +1,39 @@
+X: 68
+T: Hoe lang, ach Heer! Hoe lang nog mist mijn z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 2984694596
+%%humdrum-veritas-data 1373817289
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('z4A2 |
+d4G2 |
+^F4).('d2 |
+BAGBAG |
+^F2GBA2) |
+.('_e2dcd2 |
+G4z2) |
+.('z4A2 |
+d4G2 |
+^F4).('d2 |
+BAGBAG |
+^F2GBA2) |
+.('_e2dcd2 |
+G4z2) |
+.('^FGAAAA |
+A>G^FGA2 |
+z4z2) |
+.('FFBBBB |
+B>AGAB2- |
+Bz2).('GGc |
+cccc>BA |
+B2<c2).('A2 |
+d2>z2).('A2 |
+c2>z2).('G2 |
+G6) |]

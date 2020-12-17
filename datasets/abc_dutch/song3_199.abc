@@ -1,0 +1,40 @@
+X: 2198
+T: Vaarwel bruidje schoon De vreugd van m'n leven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 1068188398
+%%humdrum-veritas-data 270681700
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+GBd |
+g2-g/) .('B/ |
+BA3/F/ |
+AG2- |
+G2).('B/ A/ |
+GBd |
+g2).('d/ e/ |
+dc3/B/ |
+dA2- |
+A2).('d |
+eed |
+ee3/).('d/ |
+efa |
+g3- |
+g2).('b |
+gfe |
+dB).('e |
+dc3/A/ |
+B3- |
+B2).('g |
+gfe |
+dB).('e |
+dc3/A/ |
+G3- |
+G2) |]

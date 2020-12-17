@@ -1,0 +1,32 @@
+X: 13645
+T: ‘t Jagerke
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 3355420890
+%%humdrum-veritas-data 3081122716
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('G [I:setbarnb 1]|
+G2d d e ^f |
+g2GG2).('A |
+B2B c B c |
+d3z2).('G |
+G2d d e ^f |
+g2GG2).('A |
+B2B c B c |
+d3x2) |
+.('B/ c/ [I:setbarnb 9]|
+d2d d e d |
+c2cc2).('d/ c/ |
+B2B B c B |
+A2AA2).('G |
+G2d d e ^f |
+g2GG2).('A |
+B c B A G A |
+G3) :|]

@@ -1,0 +1,26 @@
+X: 15940
+T: Conterdans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 1075791458
+%%humdrum-veritas-data 4126011747
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2c de2e f |
+g2g2c'4 |
+e2d ef2e f |
+d4c4 |
+c'2c' d'c'2a b |
+g2g ^fg2a b) |
+.('c'2c' d'c'2b c' |
+a4g4) |
+.('c'2c' d'c'2b c' |
+a2g ^fg2=f e |
+f2e de2f e |
+d4c4) |]

@@ -1,0 +1,26 @@
+X: 5384
+T: Een heertje al tegen zijn dienstknecht sprak [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 3024943810
+%%humdrum-veritas-data 1326327599
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+(F E) F G (A G) A B |
+c2c2A2d2 |
+c6z) .('C |
+(F E) F G (A G) A B |
+c2c2A2d2 |
+c6z2) |
+.('c2c cF2G A |
+B2B AG2).('G G |
+A G G G A G G G |
+A G A B c d c) .('B |
+A2G2F2z) |]

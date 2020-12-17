@@ -1,0 +1,23 @@
+X: 16868
+T: La Moutarde Troisieme
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 30867118
+%%humdrum-veritas-data 9736795
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('afba |
+a>gfg |
+g>ff2) |
+.('f/ e/da/ g/f |
+ed/ c/Ad |
+c>dee) |
+.('f/ e/da/ g/f |
+e>dcd/ f/ |
+e>dd2) :|]

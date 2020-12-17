@@ -1,0 +1,15 @@
+X: 698
+T: Ick riep tot minen Heere Met mijnder stemmen claer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3344203447
+%%humdrum-veritas-data 1173029618
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('F2F2F2F2F2E2D2z2).('D2(E2F2)G2(F2E2)D2C4z2).('C2C2D2ED(E2F4)C4).('F2>E2D2C2A,2B,2G,4F,4z2).('F,2(A,2B,)CD4C2(B,2A,2)G,2A,4z2).('F,2C2D2(EFG)FE4C4).('F2>E2D2C2A,2B,2G,4F,4) |]

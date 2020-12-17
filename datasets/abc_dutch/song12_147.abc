@@ -1,0 +1,26 @@
+X: 11146
+T: «Waar hedde gij zoo lang gebleven, Isabelle, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 3626807984
+%%humdrum-veritas-data 3530930270
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G/ G/ G/ G/ G A |
+cB2z) |
+.('B> A (3G F G |
+B> A!fermata!A2 |
+z) .('D B3/ A/ |
+(3G G F (3E E E |
+D2z) .('D |
+G> F A3/ G/ |
+cB2z) |
+(3.('z B A (3G B A |
+G2-G z) |]

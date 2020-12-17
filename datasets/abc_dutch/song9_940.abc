@@ -1,0 +1,31 @@
+X: 8939
+T: Wel, Moeder, ge moet er mij geven een man, W [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 300302213
+%%humdrum-veritas-data 2916783407
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F G F F C |
+D D EF2).('C |
+F F G F F C |
+D D EF2).('A |
+A A AA2c |
+B2AG2).('F |
+A2FF2F |
+G2CC2).('C |
+D2D D E E |
+F3z2z) |
+.('A2AA2c |
+B2AG3) |
+.('A2AA2c |
+B2AG2).('C/ C/ |
+D> D D E/ E/ E E |
+F3-F2) |]

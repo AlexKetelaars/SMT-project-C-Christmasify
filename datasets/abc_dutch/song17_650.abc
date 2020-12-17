@@ -1,0 +1,41 @@
+X: 16649
+T: O wanhoop
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 1745434912
+%%humdrum-veritas-data 2802091970
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('e2 [I:setbarnb 1]|
+c3(B/ A/)A2e3/ a/ |
+^g2>^f2e4 |
+z2).('e2f> g e3/ f/ |
+d> e c> dB3B |
+c3(c/ d/)d3(c/ d/) |
+e6) |
+.('e2 [I:setbarnb 7]|
+c2A2e3e |
+f2>f2e2e2 |
+z2f2d4 |
+z2).('^c2d2=c2 |
+_B2>A2A4 |
+z f e> ea3g |
+f> e f> ge4 |
+z2).('e2(f e) (d c) |
+B2>B2 c> d e3/ f/ |
+d2>c2c4 |
+z2).('e2c2A2 |
+e2>d2c3B |
+c2A2z) .('f e3/ e/ |
+^d2e2^f3g |
+^f2>e2e4 |
+z2).('e2a g f e |
+d c _B A2<^G2A |
+B2(e/ d/ c/ B/)B3A |
+A6) |]

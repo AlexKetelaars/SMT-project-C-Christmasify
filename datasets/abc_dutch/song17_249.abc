@@ -1,0 +1,39 @@
+X: 16248
+T: O zoeten nacht, kost g’ in eeuwigheit duuren [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 4069114939
+%%humdrum-veritas-data 1094717178
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2>G2(F3E) |
+D6d d |
+e2d ef2d2 |
+z4).('A3A |
+(A B A B c d c d) |
+e2>f2e4 |
+f2d2B2c d |
+B4A4) |
+.('x4x2c2 |
+c2G2(G ^F G A |
+_B A B c d ^c d e |
+f2)(e d)^c2d2 |
+_B AA2z2).('A2 |
+f6f2 |
+d2d> A_B2B3/ A/ |
+G2G2z) .('E F G |
+(A _B c de2d c) |
+f6d c |
+(_B A) (G/ A/ F)G4 |
+F) .('A B ^c (d e A d |
+e f A e f g A f |
+g a A ga4)- |
+a6d2 |
+(_B A) (G A2<)E2D |
+D6) :|]

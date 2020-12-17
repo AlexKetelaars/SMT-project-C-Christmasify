@@ -1,0 +1,30 @@
+X: 13213
+T: Cueillons la rose sans la laisser faner Elle [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 211210023
+%%humdrum-veritas-data 505326693
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F2>(G2 F) G |
+(A2d)d2z |
+F2>(E2 D) E |
+(F G) FE3) |
+.('F2>(G2 F) G |
+(A2d)d3 |
+F2>(E2 D) E |
+!fermata!D3).('z2A |
+A2G (E F) G |
+A2FD2A |
+(A G) F (E F) G |
+A2FD2).('A |
+B2Gd2B |
+A2Fd2B |
+(A B) A (A G) F |
+(F3E3)) :|]

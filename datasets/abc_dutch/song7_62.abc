@@ -1,0 +1,40 @@
+X: 6061
+T: Galiart ‘t Blom
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2548502093
+%%humdrum-veritas-data 790247920
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d e [I:setbarnb 1]|
+f2f4e d |
+^c2>A2d2e2 |
+f2d2g a g f |
+e2d4).('d e |
+f2f2g f e d |
+^c2A2d3e |
+f2g f e d e ^c |
+d4d2) |
+.('f g [I:setbarnb 9]|
+a2a2a2g a |
+f2f4e f |
+g2f2g f e d |
+^c2A4).('=B c |
+d4e3d |
+^c2A4=B c |
+d2^c2d2e2 |
+f2f4).('e f |
+g4c4 |
+f e f gf2e2 |
+d2e2f2g2 |
+a2g a b aa2) |
+.('g2f2g f e d |
+^c2A2d2e2 |
+f2g f e d e ^c |
+d4d2) :|]

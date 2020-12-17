@@ -1,0 +1,27 @@
+X: 897
+T: In het lommer van het prieeltje zaten samen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 1923648737
+%%humdrum-veritas-data 3515192925
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B/ A/ [I:setbarnb 1]|
+(GB)BG/ G/ |
+(Ac)c).('A/ A/ |
+BddB |
+A3).('A/ B/ |
+ceee |
+(dB)G).('d/ d/ |
+dd/ d/cA |
+(GBd)).('d/ d/ |
+eeee |
+(dB)G).('d/ d/ |
+dd/ d/ef |
+g3) |]

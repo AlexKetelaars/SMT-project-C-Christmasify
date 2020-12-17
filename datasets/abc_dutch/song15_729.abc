@@ -1,0 +1,111 @@
+X: 14728
+T: Potpourri aus der Oper: Die Lustigen Weiber  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2016330438
+%%humdrum-veritas-data 1586806367
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G2B3/ c/ |
+d2z2 |
+G2c3/ d/ |
+e2z2) |
+.('G2d3/ e/ |
+f2e2 |
+f2e2 |
+!fermata!f4) ||
+.('(G e) e G [I:setbarnb 10]|
+(G e) e c |
+B c e a |
+(g2f) f |
+e f g a |
+a ^c d e |
+g f d B |
+(G2c) G) |
+.('(G e) e G |
+(G e) e c |
+B c e g |
+(^g2a) a |
+a d a d |
+a g e c |
+e d B G |
+c2z) .('e |
+e B ^d B |
+(e B) B B |
+e B ^d B |
+!fermata!e E !fermata!E G) |
+.('(G e) e G |
+(G e) e c |
+B c e g |
+(^g2a) a) |
+.('a d a d |
+a g e c |
+e d B G |
+a g e c |
+e d B G |
+a g e c |
+e d B G |
+c e e e) |
+.('.e .e .e .e |
+.e .e .e .e |
+e2(^f ^g) |
+a e ^g e |
+a e ^g e |
+a3A |
+B2^c2) ||
+[K:G] [M:4/4].('d2z2z4 [I:setbarnb 49]|
+z4z2G2 |
+(d2B2)(g2e2) |
+d6).('(B d) |
+e2(d B)G2A2 |
+D6).('D2 |
+(A2F2)(d2B2) |
+A6(F A) |
+B2(A F)D2(d A) |
+B2z2z2).('G2 |
+(d2B2)(g2e2) |
+d6(B d) |
+e2(d c)A2(d A) |
+c2D2D2).('(A d) |
+e2(d c)b2(a ^g) |
+!fermata!a4z2z) .('(B ||
+[M:2/4]d3)(B [I:setbarnb 65]|
+e3)(B |
+d3)(A |
+c3)(F |
+A3)B |
+c d e f |
+(a g) B e |
+d2z) .('(B |
+d3)(B |
+e3)(B |
+d3)(A |
+c3)(F |
+A3)B |
+c d e f |
+g4- |
+g zz2) |
+.('g2g2 |
+g2B c |
+d ^c d e |
+(e2A) z) |
+.('a2a2 |
+a2A B |
+c B c d |
+B3z) |
+.('g2g2 |
+g2B c |
+d ^c d e |
+(e2A) z) |
+.('A ^G A B |
+d3c |
+B c e f |
+g2z2 |
+g2z2 |
+!fermata!G,4) |]

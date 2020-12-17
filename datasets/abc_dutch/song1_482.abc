@@ -1,0 +1,32 @@
+X: 482
+T: Geluckig dien de Soon Des Hemels uyt sijn throon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1916405422
+%%humdrum-veritas-data 3774179555
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2E3/F/ |
+G>AG).('G |
+AGAB |
+c2).('zc |
+c>Bcd |
+G3).('G |
+AGG3/^F/ |
+G2).('zG |
+Ccdc |
+(cB/ A/G)).('G |
+AGFF |
+E2).('zE |
+DCB,C |
+D2C).('C |
+CDEF |
+GGAB |
+ced2 |
+c4) |]

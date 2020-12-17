@@ -1,0 +1,38 @@
+X: 4189
+T: Mieken ik heb ene mik en vla En een pötje boter.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 1447561774
+%%humdrum-veritas-data 3016973027
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G G/ B/ B B/ B/ |
+d dd2) |
+.('e e g e |
+d2d2) |
+.('c c c/ c/ c |
+B BB2) |
+.('A A A A |
+G GG2) |
+.('G G B B |
+d2g2) |
+.('e e f e |
+d3).('B |
+c c c c |
+B2B2) |
+.('A G A B |
+F4) |
+.('G A B c |
+d2g2) |
+.('e e f e |
+d3).('B |
+c> c c c |
+B2B) .('B |
+A G A B |
+G4) |]

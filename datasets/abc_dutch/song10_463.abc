@@ -1,0 +1,46 @@
+X: 9462
+T: 56. BOERENSCHOTS (I)
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 4119258362
+%%humdrum-veritas-data 307593977
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('AaAa |
+A/ a/ A/ a/fd) |
+.('AgAg |
+A/ g/ A/ g/fd) |
+.('AaAa |
+A/ a/ A/ a/fd) |
+.('c/ d/ e/ f/ g/ a/ b/ c'/ |
+d'ad'z) :|]
+[K:A] .('e^d/ e/ f/ e/ d/ e/ |
+ace).('^d/ e/ |
+fB/ c/dc/ d/ |
+eA/ B/cz) |
+.('e^d/ e/ f/ e/ d/ e/ |
+ace).('c/ d/ |
+^d/ e/ g/ f/ e/ =d/ c/ B/ |
+AaAz) :|]
+[K:D] .('AaAa |
+A/ a/ A/ a/fd) |
+.('AgAg |
+A/ g/ A/ g/fd) |
+.('AaAa |
+A/ a/ A/ a/fd) |
+.('c/ d/ e/ f/ g/ a/ b/ c'/ |
+d'ad'z) :|]
+[K:G] .('bbaa |
+ggBz |
+dcc/ B/c |
+edd/ ^c/d) |
+.('bbaa |
+ggBz |
+d/ e/ f/ e/ d/ c/ B/ A/ |
+GgGz) :|]

@@ -1,0 +1,24 @@
+X: 1107
+T: Van je Annetonelette bonefike medipoedinair
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 2634527036
+%%humdrum-veritas-data 99822414
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G B [I:setbarnb 1]|
+d d d d d d d d |
+[M:5/4]d d ^c d B AG2).('G B |
+[M:4/4]d2G GG2A B |
+d G G GG2).('G G |
+e2e2e2e e |
+d2d2d2).('B c |
+d c B c d c B c |
+d c B c d BG2) |
+.('G2B AG2) |]

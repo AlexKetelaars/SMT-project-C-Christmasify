@@ -1,0 +1,30 @@
+X: 1167
+T: Sintermaartens veugeltje Rood rood eugeltje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 1289455528
+%%humdrum-veritas-data 2554354425
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G G G G F ED2 |
+G2G2F ED2) |
+.('G2(F D) A AA2 |
+G G F F E ED2) |
+.('G G G G/ G/ F/ F/ ED2 |
+G G/ G/ G G/ G/ F ED2) |
+.('G G/ G/ G/ G/ EA2A2 |
+G G/ G/ F F/ F/E2D2) |
+.('G G/ G/ G G/ G/ F ED2 |
+G G G/ G/ G F ED2) |
+.('G G G/ G/ GA2A2 |
+G G/ G/ F/ F/ FE2D) .('G |
+F E D G F E D D |
+E E F FG2G) .('D |
+G/ G/ G/ G/ G G F E D D |
+E/ E/ E F/ F/ FG2G2) |]

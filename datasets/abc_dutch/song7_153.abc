@@ -1,0 +1,38 @@
+X: 6152
+T: serbande
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 135167725
+%%humdrum-veritas-data 2069915283
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B c [I:setbarnb 1]|
+d2>d2d2B c |
+d2>d2d2B c |
+d2>c2B3A |
+B2B cB2).('B c |
+d2>d2d2B c |
+d2>d2d2B c |
+d2>c2B3A |
+B6) :|]
+.('d e [I:setbarnb 9]|
+f2>f2f2d e |
+f2>f2f2d e |
+f2>g2f3e |
+d2d ed2c2 |
+B4c4 |
+B6).('B c |
+d2>d2d2B c |
+d2>d2d2B c |
+d2>c2B3A |
+G2G _AG2).('B c |
+d2>d2d2B c |
+d2>d2d3g |
+d2g2a g ^f a |
+g4) |]

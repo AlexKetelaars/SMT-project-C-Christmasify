@@ -1,0 +1,25 @@
+X: 1739
+T: Daar was eens een meisje van achttien jaren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 28179389
+%%humdrum-veritas-data 2460792633
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+c>dc |
+B>A G/ A/ |
+[M:4/4]BAz).('D |
+[M:3/4]c>dc |
+B>A G/ A/ |
+[M:4/4]BAz).('B/ A/ |
+GB/ A/Ge |
+[M:3/4](d>c)) .('B/ A/ |
+[M:4/4](G/ A/) B/ c/BA |
+[M:3/4]Gz) |]

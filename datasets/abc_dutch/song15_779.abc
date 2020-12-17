@@ -1,0 +1,54 @@
+X: 14778
+T: Studenten Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2877928457
+%%humdrum-veritas-data 34987726
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('fzz2 |
+fzz2 |
+az{c2 d2 c2 B2 c2}x2 |
+dd/ d/dz) ]|:
+.('.f/ .f/ .f/ .f/(gf) |
+A/ A/ A/ A/(BA) |
+(ed)(cd) |
+(^de)(fe)) |
+.('e/ e/ e/ e/(fe) |
+G/ G/ G/ G/(AG) |
+(Ag)(f^e) |
+(gf)(^ef)) |
+.('A/ A/ A/ A/(BA) |
+d/ d/ d/ d/(ed) |
+B/ B/ B/ B/(cB) |
+e/ e/ e/ e/(fe)) |
+.('c2e3/f/ |
+e3(E |
+d)(EB)E |
+AA/ A/Az) |
+.('(GA/ G/FG) |
+c3B |
+A(B/ A/)^GA |
+f3).('d |
+cece |
+cc/ c/cB |
+AdAd |
+BB/ B/BA) |
+.('(GA/ G/FG) |
+c3B |
+A(B/ A/)^GA |
+f3).('d |
+BeBe |
+dA/ A/Ad |
+GcGc |
+BA/ A/A).('d |
+BeBe |
+fd/ d/dA |
+_B>Ac3/A/ |
+dd/ d/dz) :|]

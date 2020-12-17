@@ -1,0 +1,43 @@
+X: 12247
+T: Blikken Doosje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:23
+%%humdrum-veritas 1147994896
+%%humdrum-veritas-data 715112908
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('B/ c/ [I:setbarnb 1]|
+dddd |
+e2c2) |
+.('d(c/ B/) A/ B/ c/ A/ |
+B(A/ B/) G/ A/ B/ c/ |
+dddd |
+e2c2) |
+.('d(c/ B/)AG/ ^F/ |
+G3) |
+.('d [I:setbarnb 9]|
+g(g/ ^f/)gd |
+e2c2) |
+.('fff/ g/ f/ e/ |
+dc/ d/B).('d/ e/ |
+fDDf |
+gEEg |
+fe/ d/cB/ A/ |
+B3).('(d/ e/) |
+ffff |
+^ffff |
+ggg/ b/ a/ g/ |
+a2a).('g/ a/ |
+bag/ b/ a/ g/ |
+^fdd).('g/ a/ |
+bBBb |
+aAAa |
+gGGg |
+^fga/ g/ a/ f/ |
+g2g) :|]

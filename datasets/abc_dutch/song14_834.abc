@@ -1,0 +1,48 @@
+X: 13833
+T: Allegro
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 1781335325
+%%humdrum-veritas-data 4105655426
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=132
+K: D clef=treble
+.('A A [I:setbarnb 1]|
+d2>e2f2e2 |
+d2A2B2A2 |
+d2>e2f2e2 |
+d4e2f2 |
+(a g) (f e) (g f) (e d) |
+(d c) (B A)).('e2f2 |
+(a g) (f e) (g f) (e d) |
+!wedge!e !wedge!A !wedge!A !wedge!B !wedge!A !wedge!G !wedge!F !wedge!E) |
+.('d2>e2f2e2 |
+d2A2B2A2 |
+d2>e2f2e2 |
+d4).('e2f2 |
+(a g) (f e) (g f) (e d) |
+(d c) (B A)d2f2 |
+B2g ed2c2 |
+!fermata!d4) ||
+.('B2c2 [I:setbarnb 17]|
+d2d2{/e}d2c B |
+A2A2B2c2 |
+d2d2{/e}d2c B |
+A4).('B2c2 |
+d2d2(e d) (c B) |
+A2A2B2c2 |
+d2d2(e d) (c B) |
+A4).('e3d |
+c2c BA2G2 |
+G2F2f3e |
+d2d cB2A2 |
+^G4).('B2=c2 |
+B4e3d |
+=c2B2a2e2 |
+{/g}f2e dc2B2 |
+!wedge!A !wedge!A !wedge!A !wedge!B !wedge!A !wedge!G !wedge!F !wedge!E) ||

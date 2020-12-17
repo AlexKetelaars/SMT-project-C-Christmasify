@@ -1,0 +1,32 @@
+X: 5441
+T: Hey laat ons vrolyk leven, en altyd lustig zyn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 1104448376
+%%humdrum-veritas-data 2160898084
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c [I:setbarnb 1]|
+gefd |
+e2c).('g |
+agfe |
+d3).('d |
+edcB |
+AA).('de |
+cBA3/G/ |
+G3) |
+.('d/ e/ [I:setbarnb 9]|
+f2fg |
+e2e).('e/ f/ |
+g2fe |
+d3).('d |
+eefg |
+ee).('gg |
+(a/ g/) (f/ e<)dc/ |
+c3) :|]

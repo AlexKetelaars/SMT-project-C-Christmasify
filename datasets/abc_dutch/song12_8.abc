@@ -1,0 +1,35 @@
+X: 11007
+T: De klokskes luiden al bim, bom, bom! En om n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 670100441
+%%humdrum-veritas-data 740253546
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G3G |
+G2G A |
+B3A |
+G2).('d3/ d/ |
+B2(A G) |
+A3B |
+G2).('d3/ c/ |
+B2(A G) |
+A3B |
+!fermata!G2).('G B |
+d2d3/ d/ |
+A2d2 |
+c4 |
+B2).('d3/ d/ |
+B B A G |
+A2B3/ A/ |
+G2).('d3/ c/ |
+B> B A G |
+A2B3/ A/ |
+G2z2) |]

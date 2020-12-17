@@ -1,0 +1,20 @@
+X: 4396
+T: En ik ben een muzikant Ik kom uit Zwabenland
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 1117529456
+%%humdrum-veritas-data 1925396759
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d d G A B cd2) |
+.('d2A A B BG2) |
+.('d2A2B2G2) |
+.('d2A2B B G3/) .('d/ |
+d2A AB2G2) |
+.('d2A A B BG2) |]

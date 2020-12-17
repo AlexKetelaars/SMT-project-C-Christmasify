@@ -1,0 +1,35 @@
+X: 4088
+T: De boerenstand de boerenstand Is heel plezan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 2579593026
+%%humdrum-veritas-data 4149677834
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D E F [I:setbarnb 1]|
+G> G G G G) .('D G A |
+B> B B BB2).('d2 |
+A2>B2 A G F E |
+(D F A F) !fermata!D) .('D E F |
+G> G G G G) .('D G A |
+B> B B BB2).('d2 |
+A2>B2 A G F3/ E/ |
+D d d> dd2).('D2 |
+c2>c2 c e d c |
+c2B4).('D2 |
+c2>c2 c e d c |
+B> G G B !fermata!d) .('D E F |
+(G B) B B (B A) G F |
+E2c2>).('A2 B/ B/ c |
+d2>d2 d d d3/ c/ |
+[M:2/4]B2).('B3/ c/ |
+[M:4/4]d4B2B3/ c/ |
+d4B) .('B A/ A/ B |
+c2>c2 c e d3/ c/ |
+B4-B) |]

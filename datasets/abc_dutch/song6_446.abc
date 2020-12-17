@@ -1,0 +1,32 @@
+X: 5445
+T: Hoort ô wreedste der schoonen! Neen neen Fil [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 94893306
+%%humdrum-veritas-data 3911663851
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z4d ef2 |
+e> d ^c A z) .('d d (e/ f/) |
+(g/ f/) (g/ f/) (e/ d/)d2A3 |
+z2z) .('B d> F G3/ A/ |
+A4).('c d/ e/ f f |
+f2e2).('A B/ c/ d d |
+d3/ c) .('(d/ e/ f/) e (d/ c<) B A/ |
+(A B c de4- |
+e4-e f/ e/ d/ c/ B/ A/ |
+^G2)z) .('f e (d/ c/)B2- |
+B AA6) |
+.('d ef4e3/ d/ |
+^c Az2).('d e f f |
+(e/ d/)d2).('A2d F G- |
+G/ A/A4).('f f f |
+e2cA2).('g g g |
+f2d2c2z) .('f |
+(_e/ d/) (^c/ d/) f (e/ d/)d4) :|]

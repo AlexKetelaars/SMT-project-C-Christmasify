@@ -1,0 +1,30 @@
+X: 5364
+T: Blauw garen en koperdraad
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2552388505
+%%humdrum-veritas-data 1025670647
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('d4d2e f |
+g2c2c2).('c2 |
+d2f2e f e d |
+^c2B cA4) |
+.('d4d2e f |
+g2c2c2).('c2 |
+d2f2e f e d |
+A2a gf4) |
+.('f2f2a g f e |
+f gf2).('a2f g |
+a2f ga2g f |
+e dc2).('g2e f |
+g2e f g a f g |
+f e d e) .('f ga2 |
+g fe2d2^c2 |
+e2d4d2) |]

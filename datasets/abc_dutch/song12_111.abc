@@ -1,0 +1,31 @@
+X: 11110
+T: Tabak, o édel Spruitje! Vol léver hom en kuitje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 645493641
+%%humdrum-veritas-data 2694424051
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+d2>e2d2^c2 |
+d4A2A2 |
+_B2A2(G A) (F G) |
+E4D2).('A2 |
+d2>e2d2^c2 |
+d4A2A B |
+c2(d c2<)B2A |
+A6).('A B |
+c2>d2c2(_B A) |
+G4G2A G |
+F2>E2 (F E) (F G) |
+A4A2).('A B |
+(c B) (c A2<)d2e |
+f4z2e d |
+^c2d2d3c |
+d6) |]

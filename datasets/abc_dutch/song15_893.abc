@@ -1,0 +1,32 @@
+X: 14892
+T: Ach! Wenn kömmt der frohe tag Wenn erscheint [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3036809391
+%%humdrum-veritas-data 253026486
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('FE/ D/AA |
+Adc2) |
+.('ceGG |
+(G/ B/) (A/ G/)FD) |
+.('A(G/ F/)B(A/ G/) |
+AdG2) |
+.('e(f/ g/) c/ A/ (d/ e/) |
+c>dd2) |
+.('fdBd |
+ecAc) |
+.('d(f/ e/) d/ c/ B/ A/ |
+^GABE) |
+.('c(c/ A/)d(d/ B/) |
+c(c/ A/)BE) |
+.('c(c/ A/)d(d/ B/) |
+c(c/ A/)Be) |
+.('e(f/ ^g/) (a/ e/) (f/ B/) |
+cBA2) |]

@@ -1,0 +1,23 @@
+X: 5179
+T: Waar blijft mijn herder het is al meer dan t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 1646124805
+%%humdrum-veritas-data 600860040
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2d> BF2F3/ F/ |
+G> F E> D C>) .('F F3/ F/ |
+F2B2z3B |
+c> B A> Bc3).('d |
+c> B A> Bc3d |
+c> B A> Bc3).('d |
+d> d f> e (d> c) B3/) .('c/ |
+d> c B> A B> B B3/ c/ |
+(d2>c2)B4) |]

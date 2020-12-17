@@ -1,0 +1,32 @@
+X: 17546
+T: Nous sommes icy en compagnie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 4279875005
+%%humdrum-veritas-data 712920551
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=132
+K: D clef=treble
+.('f/ e/ f/ g/fa |
+gfed |
+f/ e/ f/ g/fa |
+gfe) |
+.('d [I:setbarnb 5]|
+e2dg |
+fe/ f/ d/ c/d |
+e2dg |
+fe/ f/d) |
+.('f/ g/ [I:setbarnb 9]|
+a>gfe/ d/ |
+ecde |
+fe/ f/gf |
+e3).('f/ g/ |
+a>gfe/ d/ |
+ecd3/e/ |
+f>ge3/d/ |
+d3) :|]

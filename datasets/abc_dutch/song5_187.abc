@@ -1,0 +1,27 @@
+X: 4186
+T: En in die kamp van Milligen En daar in die g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 1391868000
+%%humdrum-veritas-data 130644660
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2BG2d |
+d2B G) .('d d |
+e2f (g f) g |
+d3-d2).('g/ g/ |
+f2fe2d |
+[M:9/8](G2B2<)e2).('f2e |
+[M:6/8]d2e d d c |
+B3-B2).('g/ g/ |
+f2fe2d |
+[M:9/8](G2B2<)e2).('f2e |
+[M:6/8]d2e d d c |
+B3-B2) |]

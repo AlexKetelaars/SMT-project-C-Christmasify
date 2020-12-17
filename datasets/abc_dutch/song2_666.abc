@@ -1,0 +1,25 @@
+X: 1665
+T: Het Stadskanaal of deze veenkolonie Het mees [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 2678300245
+%%humdrum-veritas-data 3318012111
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B2>d2 d B A B |
+G4F) .('A G F |
+(E2A) A A B c B |
+A4z) .('A A B |
+(c2d) c B A B c |
+d4e) .('d B A |
+G2>G2 F G A B |
+!fermata!G2).('d2(d2e) d |
+c2>B2 A G B A |
+G2z2z) |]

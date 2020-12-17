@@ -1,0 +1,31 @@
+X: 9517
+T: ‘k Heb een jakske gekocht, ‘t Is van voddeke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 1046581767
+%%humdrum-veritas-data 4063458442
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A B [I:setbarnb 1]|
+c2c c |
+c z A B |
+c c c c |
+c z) .('A B |
+c2A c |
+c2A B |
+c2c2 |
+c3z) |
+.('c3A |
+c3A |
+c2c2 |
+c2z2 |
+c3A |
+c3A |
+c2c2 |
+c2) |]

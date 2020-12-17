@@ -1,0 +1,30 @@
+X: 2776
+T: Ien twa trije Hans Bakker syn hynder Ien twa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 943440494
+%%humdrum-veritas-data 425907454
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G G A B B B |
+c B dB2B) |
+.('c c d B B B |
+A A AG3) |
+.('G2AB2B |
+c2dB2B) |
+.('c2d/ d/B2B |
+A A GG3) |
+.('G G Ge3 |
+e e ed3) |
+.('e2d/ d/c2A/ A/ |
+d d cB3) |
+.('G G Ge3 |
+e e ed3) |
+.('e2d/ d/c2A/ A/ |
+d d dG3) |]

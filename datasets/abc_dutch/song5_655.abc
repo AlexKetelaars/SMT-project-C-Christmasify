@@ -1,0 +1,29 @@
+X: 4654
+T: Kom Christene zielen wil met aandacht horen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 488451114
+%%humdrum-veritas-data 2544566124
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2>G2 F E |
+D2B,B,2D |
+D2D(G2E) |
+D6) |
+.('B3G2E |
+D2B,B,2D |
+D D D(G2E) |
+[M:2/4]D2-D/>) .('D/ D3// D// |
+E G F G |
+A3).('A |
+[M:3/4]c B A G F E |
+[M:2/4]F G F G |
+A) .('B c A |
+G2(D3/ F/) |
+G4) |]

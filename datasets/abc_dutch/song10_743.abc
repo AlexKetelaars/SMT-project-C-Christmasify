@@ -1,0 +1,23 @@
+X: 9742
+T: Naar Oosterland zullen wij rijden, naar Oost [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 3395466976
+%%humdrum-veritas-data 2638960792
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A A A B A B |
+(c2d)e2).('f |
+e d c B A G |
+A3z2).('G |
+c2e (d e) f |
+(g2e)c2).('d |
+e d c B A G |
+A2zz2z) |]

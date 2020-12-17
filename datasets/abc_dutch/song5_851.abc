@@ -1,0 +1,41 @@
+X: 4850
+T: Alfons was achttien jaar En hij moest de wap [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 747352514
+%%humdrum-veritas-data 2892421354
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2DB,2D |
+G3-G2).('D/ D/ |
+G2FG2A |
+(B2A)G2).('G/ G/ |
+A2A A A B |
+A3).('E2F |
+A2GF2E |
+D3-D3) |
+.('A2A A> A B |
+A2A D>) .('D D |
+E D E F E D |
+G3D2).('D/ D/ |
+A2AA2B |
+A3).('E2F |
+A2G F F E |
+D3-D2).('D/ D/ |
+(B3d2)c |
+B2GD3- |
+D2).('D/ D/G2A |
+B3A3 |
+B3-B2).('D/ D/ |
+(B3d2)c |
+B2GD3- |
+D2).('D/ D/G2A |
+B3A3 |
+G3-G2) |]

@@ -1,0 +1,38 @@
+X: 7688
+T: My man komt so laat naar huis, So laat naar  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:40
+%%humdrum-veritas 232511070
+%%humdrum-veritas-data 2661394697
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G G E D |
+C C C) .('C |
+C C D E |
+F3).('F |
+D D E F |
+G G G) .('F/ F/ |
+E E D D |
+C3).('G/ F/ |
+E C/ C/ D G/ F/ |
+E C/ C/ C) .('C/ C/ |
+C C D E |
+F3).('F |
+G G/ G/ E E/ E/ |
+G G D) .('F |
+E E D D |
+C2z/) .('C/ C/ C/ |
+C C A A |
+A3).('A |
+c c B A |
+G3).('F |
+G G F F |
+G G E) .('E |
+G F E D |
+C4) |]

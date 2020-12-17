@@ -1,0 +1,26 @@
+X: 7645
+T: Schilder verheeven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 1287007948
+%%humdrum-veritas-data 4236643964
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A [I:setbarnb 1]|
+d2dd2d |
+e2e!trill!!trill!e2).('f |
+g2f e> f d |
+e6) |
+.('!trill!!trill!e3e2e |
+!trill!!trill!f2>(d2 e f)) |
+.('g2ga2g |
+f2ff2).('f |
+g3e2g |
+f2e d e ^c |
+d4) :|]

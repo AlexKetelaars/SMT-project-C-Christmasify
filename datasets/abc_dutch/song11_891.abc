@@ -1,0 +1,32 @@
+X: 10890
+T: “Wien klopt er hier op mijn deur? En wie kom [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 114036782
+%%humdrum-veritas-data 2060082271
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+D G G (G F) G |
+A3z2).('B/ A/ |
+G A Bc2B |
+BA2z2).('D |
+G G G G F G |
+A2>-A2 z z) |
+.('G A Bc2B |
+AG2z2) ]|:
+.('F/ G/ [I:setbarnb 9]|
+A G A B d B |
+A3z2z) |
+.('c2B A B A |
+(GF2-F) z) .('G |
+D G G (G F) G |
+A3z2).('B/ A/ |
+(G c) B (A G) A |
+G3z2) :|]

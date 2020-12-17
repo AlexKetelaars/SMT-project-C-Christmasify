@@ -1,0 +1,22 @@
+X: 6524
+T: Aafje, mooi Aafje, Toon ons je bloemen!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 2158948283
+%%humdrum-veritas-data 663329112
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F A cf2A |
+B c dd2c) |
+.('G A B A d c |
+=B A Bc2z) |
+.('F A cf2A |
+B c dd2c) |
+.('c B A d c B |
+A B EF2z) |]

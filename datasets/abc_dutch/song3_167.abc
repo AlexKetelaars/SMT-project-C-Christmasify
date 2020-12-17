@@ -1,0 +1,49 @@
+X: 2166
+T: O Herre wij komen met onze sterre Waar komen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 425052575
+%%humdrum-veritas-data 2370187080
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G D G G D |
+G2A B B) .('B |
+B d BA2A |
+G B GF2).('F/ F/ |
+E D D c B A |
+G F GE2).('d/ d/ |
+B d B A c A |
+G2GF2!fermata!E/) .('E/ |
+D/ D/ D D c B A |
+(G F) G E E) .('d/ d/ |
+B2B A> A A/ A/ |
+G B GF2).('E |
+D D D c B A |
+(G F) GE2).('d |
+B d B A c A |
+G B GF2).('E |
+D D D c B A |
+G F GE2).('d |
+B2BA2A |
+G2GF2).('E |
+D D D c B A/ A/ |
+G F GE2).('d |
+B2BA2A |
+G2GF2).('E/ E/ |
+D D D c B A |
+(G F) GE2).('d |
+B2BA3 |
+G2GF2).('E/ E/ |
+D D Dc2A |
+G F GE2).('d/ d/ |
+B d BA2A |
+G B GF2).('E |
+D D D c B A |
+(G F) GE2) |]

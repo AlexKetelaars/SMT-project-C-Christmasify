@@ -1,0 +1,31 @@
+X: 10998
+T: In het jaar zeventienhonderd en achttien, Al [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 511842143
+%%humdrum-veritas-data 1892306949
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F A [I:setbarnb 1]|
+c2c c |
+(c d) c B |
+A2A2 |
+A2).('(B A) |
+G2c2 |
+d> d =B3/ B/ |
+c> d e3/ d/ |
+c2) |
+.('z c [I:setbarnb 9]|
+(c f) f c |
+c d e f |
+d2d2 |
+(d f)) .('e d |
+c> c c A |
+c2c2 |
+F2) :|]

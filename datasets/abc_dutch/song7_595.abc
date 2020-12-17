@@ -1,0 +1,29 @@
+X: 6594
+T: Wat draagt Jezus al op zijn hoofd? Eene sche [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 1974071501
+%%humdrum-veritas-data 1639905579
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('G/ A/ [I:setbarnb 1]|
+Bc/ B/ |
+BA |
+G2 |
+z).('A/ B/ |
+c(B/ c/) |
+dc |
+B2 |
+z).('B/ c/ |
+d(c/ d/) |
+fe |
+d).('c |
+B(A/ G/) |
+A3/B/ |
+B) |]

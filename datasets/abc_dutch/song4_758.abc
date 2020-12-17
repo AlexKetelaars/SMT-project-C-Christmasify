@@ -1,0 +1,26 @@
+X: 3757
+T: Vrienden wilt eens even horen wat ik voor u  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 242237090
+%%humdrum-veritas-data 2449215323
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('BA/GG/AA/ |
+B3/B3/).('ee/ |
+d3/-dB/AA/ |
+B3/-B3/).('dd/ |
+f3/e3/ce/ |
+e3/d).('B/BG/ |
+[M:6/8]dc/Ac/ |
+[M:9/8]B3/-B3/).('dd/ |
+d3/e3/ce/ |
+e3/d).('B/BG/ |
+[M:6/8]dc/AB/ |
+G3/-G3/) |]

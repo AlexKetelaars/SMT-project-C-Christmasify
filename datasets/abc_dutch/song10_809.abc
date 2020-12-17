@@ -1,0 +1,25 @@
+X: 9808
+T: Daar liep er een Patertje langs de kant, Hei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 3318303427
+%%humdrum-veritas-data 410819503
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F G A G F |
+c2cc2z) |
+.('d2dc2=B |
+c3z2).('A |
+B A G B A G |
+A2GF2z) |
+.('G2c=B2d |
+c2cc2z) |
+.('d2c (B A) G |
+F3z2z) |]

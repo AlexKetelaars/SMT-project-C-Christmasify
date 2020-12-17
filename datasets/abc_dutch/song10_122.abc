@@ -1,0 +1,31 @@
+X: 9121
+T: Wat voor vijand durft ons naken, Vier gebroe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3337137858
+%%humdrum-veritas-data 2832251793
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) (B/ c/) [I:setbarnb 1]|
+dde(d3// c//) |
+dd).('B3/c/ |
+dGcB |
+A>z).('F3/G/ |
+AA(c/ B/) (A/ G/) |
+AA).('F3/G/ |
+A(B/ G/)FE |
+D>z).('d3/c/ |
+BGd3/c/ |
+BG).('dd |
+edcB |
+A>z).('A3/G/ |
+FDA3/G/ |
+FD).('GA |
+(B/ d/) (c/ B/)BA |
+G3z/) |]

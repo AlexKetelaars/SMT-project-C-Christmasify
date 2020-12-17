@@ -1,0 +1,30 @@
+X: 16858
+T: La Fairenis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 1250464294
+%%humdrum-veritas-data 12448489
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('dc/ B/Ad |
+efed |
+fe/ d/cf |
+f>ef2) |
+.('ee/ e/ef |
+de^c2 |
+dd/ ^c/Ae |
+e>d^cA |
+AA/ B/^cA |
+def2) |
+.('ff/ g/aa |
+_bagf |
+ag/ f/ef |
+de^c3/d/ |
+e/ d/ ^c/ B/ A/ a/ g/ f/ |
+e>dd2) :|]

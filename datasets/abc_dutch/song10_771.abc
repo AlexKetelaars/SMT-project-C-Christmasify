@@ -1,0 +1,22 @@
+X: 9770
+T: Do, do, kinneke ‘t pappeke staat in ‘t spinneke
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 4162694641
+%%humdrum-veritas-data 579235077
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c2G2 [I:setbarnb 2]|
+c cG2 |
+(3c c c G G |
+c cG2) |
+.('c c G G |
+c cG2 |
+c c (3d c _B |
+(3A A GF2) :|]

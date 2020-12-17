@@ -1,0 +1,23 @@
+X: 1941
+T: Laat maar waaien de hele boel Er is maar een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 4267966828
+%%humdrum-veritas-data 1548222853
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('GA [I:setbarnb 1]|
+BB/ B/AB |
+Gz/) .('A/Bc |
+(de/) d/cd |
+B>).('G G/ G/ G/ G/ |
+ee).('e/ e/ e/ e/ |
+dB).('dd |
+cAd(d/ c/) |
+Bz) |]

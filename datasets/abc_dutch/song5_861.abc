@@ -1,0 +1,31 @@
+X: 4860
+T: De winternachtjes zijn zo koud Dat hebben we [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 3438521275
+%%humdrum-veritas-data 984635541
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+B2AG2D |
+B2AG2).('G |
+A A Ad2d |
+B3G3) |
+.('B2AG2D |
+B B AG2).('G |
+A2Ad2d |
+B2AG2).('G |
+A A Ad2d |
+B3G2).('G |
+A2Ad2d |
+B3G2).('D |
+B2AG2D |
+B2AG2).('G |
+A2Ad2d |
+B3G2) |]

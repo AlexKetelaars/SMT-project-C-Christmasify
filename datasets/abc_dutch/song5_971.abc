@@ -1,0 +1,39 @@
+X: 4970
+T: Laat klinken in deez’ dagen een hartig Neêrl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 948676622
+%%humdrum-veritas-data 661856362
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(G>AG)G |
+A2(d3/c/) |
+B2A).('B |
+c2B2 |
+(A>GA)B |
+G3).('D |
+(G>AG)G |
+A2(d3/c/) |
+B2A).('B |
+c2B2 |
+(A>GA)B |
+G3).('D |
+(GA)(Bc) |
+(d>ed)c |
+B2A).('D |
+(GABc |
+d>)dcB |
+A3).('D |
+(G>AG)G |
+A2(d3/c/) |
+B2A).('B |
+c2B2 |
+(A>GA)B |
+G3) |]

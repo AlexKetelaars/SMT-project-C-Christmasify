@@ -1,0 +1,25 @@
+X: 3792
+T: Er was er laatst een oude soldaat Zijn geldj [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 1188467104
+%%humdrum-veritas-data 2135915565
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2dB2d |
+d e dB2).('d |
+d> e f g> g g |
+g f ed2).('d/ d/ |
+d> e f g> f g |
+(e2a) g>) .('f e |
+d2dg2d |
+d c BA2).('A |
+e> e e d> c B |
+(A2d)G2) |]

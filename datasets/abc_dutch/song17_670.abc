@@ -1,0 +1,22 @@
+X: 16669
+T: Laura heeft al het vermogen al het bewint va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2873429193
+%%humdrum-veritas-data 910654826
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('f>efde^c |
+(d/ ^c/ d/ e/) (d/ e/)).('fef |
+de^cd3) |
+.('a>gfefd |
+^c2d(e/ d/) (e/ f/) (e/ f/)) |
+.('f2eg>fe |
+f(g/ f/) (e/ d/)).('^c2d |
+e(e>d)d3) :|]

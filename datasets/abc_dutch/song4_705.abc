@@ -1,0 +1,27 @@
+X: 3704
+T: Daar was een boerendochter naar de markt toe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 2527292296
+%%humdrum-veritas-data 2333618748
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 12/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/GA/BB/AG/ |
+F3/AA<c-c).('A/ |
+F3/AA<cc3/ |
+B3/G2>-G2).('D/ |
+GG/GB<dG3/ |
+F3/A3/c3/-c).('A/ |
+F3/A3/c3/d3/ |
+B3/G2>-G2).('B/ |
+d3// d3// d3// B3//G3/G3// G3// |
+c3// c/8 c/8 c3// B3//A3/-A).('G/ |
+F3/EE<Ddd/ |
+dd/cc<B-B) |]

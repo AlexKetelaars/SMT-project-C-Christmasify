@@ -1,0 +1,40 @@
+X: 4663
+T: Vrienden rondom ons geschaard Ik zing wat sc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3323033183
+%%humdrum-veritas-data 1241308586
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B/ B/ [I:setbarnb 1]|
+d2BG2A |
+B3-B2).('d |
+d2BG2A |
+B3-B2).('A |
+A2AA2A |
+A3d2e |
+f2fe2e |
+d3-d2).('d |
+d2BG2A |
+B3-B2).('d |
+d2BG2A |
+B3-B2).('A |
+A2AA2A |
+A3d2e |
+f3e3 |
+d6) ||
+[M:4/4].('z4z d e f [I:setbarnb 18]|
+g2B2>d2 e d |
+c2F2>).('d2 (3d d e |
+[M:3/4]f2>e2 c A |
+[M:4/4]G4-G) .('d e f |
+g2B2>d2 e d |
+c2F4).('d e |
+[M:3/4]ff2e c A |
+G4z) |]

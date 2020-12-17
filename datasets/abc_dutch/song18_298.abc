@@ -1,0 +1,35 @@
+X: 17297
+T: Dorethea hoort myn zuchten Wilt niet voor u  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 2446713524
+%%humdrum-veritas-data 3494129822
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2d2d2e2 |
+f2(g f)e2d2 |
+a2a2a2b2 |
+a2g2f2).('a2 |
+b6(f g) |
+f6e2 |
+(f ^g)a2a3g |
+a4-a4) |
+.('a2b4(a g) |
+a4f3g |
+a2f2e3d |
+c4A2).('e e |
+e6f f |
+g8 |
+a g f (g/ a/)e3d |
+c4A2).('e e |
+e6f f |
+g8 |
+a g f (g/ a/)e3d |
+d4-d4) :|]

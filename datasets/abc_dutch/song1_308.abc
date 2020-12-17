@@ -1,0 +1,15 @@
+X: 308
+T: Wie hier schriftuer waernemen sal Die can gh [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 104317465
+%%humdrum-veritas-data 3394879064
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('zD(D/ E/ F/) G/AGABc2).('zF(E/ F/ G/) A<(AG/)F(E/ D/)E2D2).('zD(D/ E/ F/) G/AGABc2).('zF(E/ F/ G/) A<(AG/)FE/ D/E2D2).('zDGG/ F/EFDDC2).('z2c/ c/BAGAB2A2).('zABcdAGFE2).('zF(D/ E/ F/) G/AGABc2).('zFE/ F/ G/ A<(AG/)FE/ D/E2D4) |]

@@ -1,0 +1,31 @@
+X: 5666
+T: Klein, klein kleuterken! Wat doede gy in mij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 3112175921
+%%humdrum-veritas-data 118882683
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('g [I:setbarnb 1]|
+(d> e) (d g) |
+(B> c) B) .('d |
+c B c d |
+B2z) .('g |
+d> e d g |
+B> c B) .('d |
+c B c d |
+B2z) .('G |
+B G B G |
+c2B) .('B |
+A G A B |
+G2z) .('g |
+(d> e) (d g) |
+(B> c) B) .('B |
+A G A B |
+G2z) |]

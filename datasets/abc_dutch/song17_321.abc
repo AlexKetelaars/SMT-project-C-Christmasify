@@ -1,0 +1,58 @@
+X: 16320
+T: ‘k Vrees dat gy my niet meer bemint. Ach! ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3886962885
+%%humdrum-veritas-data 1757838792
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+Z2 |
+z2z z z B |
+(B> A) B (G> F) E |
+D2C {D E}D2).('F |
+(D> C) Dz2z |
+z2z z z) .('(F/ G/) |
+A2BA2B |
+(A3/ B// c//) BA2).('A |
+(B> A) (G/ F/)=E2F |
+(F> G) =EF2z |
+z6 |
+z2z z z) .('A |
+(A> G) A (B> A) G |
+(C> F) =EF2).('C |
+(D> C) Dz2z |
+z2z z z) .('=E |
+(F> =E) Fz2z |
+z2z z z) .('c |
+F2FF3- |
+F2G (=E> F) G |
+A6- |
+A2).('B (G> A) B |
+c6- |
+c2dB3- |
+B2AG2).('c |
+(c> A) Fz2z |
+z2z z z) .('B |
+(B> G) AG2c |
+(c> A) BA2z |
+z2z z z) .('c |
+(G3/ A// B//) AB2B |
+(B> c) AB2z |
+Z4 |
+z z) .('Gc2B |
+(A> G) Az2z |
+z z) .('FB2_A |
+(G> F) G z z) .('G |
+A2G ^F> F) .('G |
+G2GG2G |
+(^F> =E) FG2).('B |
+(c> B) AB2G |
+(A> G) ^FG2).('G |
+G2G^F2G |
+(G> A) ^FG2) |]

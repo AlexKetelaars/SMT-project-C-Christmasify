@@ -1,0 +1,30 @@
+X: 12386
+T: No390
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 3836230782
+%%humdrum-veritas-data 3598693177
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=88
+K: F clef=treble
+.('F G F A B A |
+c2cA2A |
+F G F A B A |
+c2cC3) |
+.('F G F A B A |
+c d cf3 |
+f g a g f e |
+d c =Bc2z) |
+.('c d c e f e |
+g2ge2e |
+c d ef2c |
+B3A3) |
+.('d2dc2c |
+B2BA2A |
+G A B A G F |
+C3F2z) |]

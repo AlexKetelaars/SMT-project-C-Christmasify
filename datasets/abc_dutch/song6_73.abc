@@ -1,0 +1,31 @@
+X: 5072
+T: Ik zal gaan zingen een kluchtig aardig lied  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 3068212816
+%%humdrum-veritas-data 3829470495
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G3/ G/ |
+G2D3/ D/ |
+E> E E3/ E/ |
+D> C B,3/ C/ |
+D2G2 |
+z3).('G |
+A> G F3/ G/ |
+A2z) .('B |
+A> G F3/ G/ |
+A2z) .('B |
+A> G F3/ G/ |
+A2z) .('B |
+c> c c3/ c/ |
+B2G2) |
+.('A G/ G< F E/ |
+D> G F3/ G/ |
+A2G z) |]

@@ -1,0 +1,36 @@
+X: 10387
+T: 149
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 936382045
+%%humdrum-veritas-data 3047313282
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+(3.('G D G (3B G B (3d B d |
+{g a} b2 !mordent!!mordent!a2 g2 |
+(3F D F (3A F A (3d A d |
+{a b} c'2 b2 a2) |
+(3.('G D G (3B G B (3d B d |
+{g a} b2 a2 g2 |
+(3f e d !mordent!!mordent!e3 d |
+!fermata!d6) |
+(3.('E e d (3E d c (3E c B |
+(3c A B (3c d e (3f g a |
+(3D d c (3D c B (3D B A |
+(3B G A (3B c d (3e f g) |
+(3.('_B A G (3_e d c (3B A G |
+(3F G AD4) |
+(3.('E e d (3E d c (3E c B |
+(3c A B (3c d e (3f g a |
+(3D d c (3D c B (3D B A |
+(3B G A (3B c d (3e f g) |
+(3.('d B d (3e c e (3f d f |
+g2 f e d c |
+(3B A G !mordent!!mordent!A3 G |
+G6) :|]

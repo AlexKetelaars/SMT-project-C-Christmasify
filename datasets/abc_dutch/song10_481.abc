@@ -1,0 +1,27 @@
+X: 9480
+T: Daar was eens een kwezel; wilt mij wel verst [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 1682361472
+%%humdrum-veritas-data 1128539400
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G B B B |
+A G ED2).('D |
+A A A A A A/ A/ |
+B G GG2z) |
+[M:2/4].('G/ G/ F/ E/ E D |
+G/ G/ F/ E/ E D) |
+[M:6/8].('A2A A A A |
+d d dd2).('d |
+[M:2/4]c/ c/ c/ c/ c/ B/ c/ c/ |
+B A G z/) .('G/ |
+G/ G/ G/ G/ A/ A/ A/ A/ |
+d d G z) |]

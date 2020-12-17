@@ -1,0 +1,36 @@
+X: 9733
+T: Gildebroeders maakt goede siere met muziek v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 613556969
+%%humdrum-veritas-data 3842209808
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+(3.('(D E) F [I:setbarnb 1]|
+G2G2(3A G A |
+B2B2).('A3/B/ |
+c2>B2AB |
+G2z2)(3.('(D E) F |
+G2A2G3/A/ |
+B2B2).('A3/B/ |
+c2cBAB |
+G4z2) ||
+.('B6 [I:setbarnb 10]|
+B4-BB |
+c2>B2AG |
+A4A2) |
+.('B4A2 |
+G4F2 |
+E4D2) |
+.('d2>c2BA |
+G4z2) |
+.('(A4-AB) |
+B6 |
+c2>B2AB |
+G4z2) |]

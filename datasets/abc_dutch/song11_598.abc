@@ -1,0 +1,38 @@
+X: 10597
+T: Holla holla Keetje, Wacht nog maar een beetje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 80815331
+%%humdrum-veritas-data 2570487167
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('F> F G F |
+E2A z) |
+.('A> A c B |
+A2d z) |
+.('F> F G F |
+F EE2) |
+.('E E/ E/ F E/ E/ |
+E DD2) :|]
+[K:A] .('E> E F E |
+G2!fermata!G z) |
+.('E> E F E |
+A2!fermata!A z) |
+.('A G F E |
+G FE2) |
+.('G F/ F/ E D/ D/ |
+F EC2) |
+.('E> E F E |
+G2!fermata!G z) |
+.('E> E F E |
+A2!fermata!A z) |
+.('A G F E |
+G FE2) |
+.('G F/ F/ E G/ G/ |
+A A A z) |]

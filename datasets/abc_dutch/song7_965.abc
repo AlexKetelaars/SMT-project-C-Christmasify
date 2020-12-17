@@ -1,0 +1,30 @@
+X: 6964
+T: No471
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:33
+%%humdrum-veritas 4088846614
+%%humdrum-veritas-data 3051479505
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('(F> G) !wedge!Fd2B |
+(A> G) !wedge!F f> c A |
+F> G Fd2B |
+F> E D G E C) |
+.('(A c) !wedge!f (c f) !wedge!a |
+(B d) !wedge!g (e g) !wedge!b |
+(a f) !wedge!d (g e) !wedge!c |
+G c =Bc3) |
+.('c> d c (b> a) !wedge!g |
+(f> e) !wedge!d (c> B) !wedge!A |
+B> c Bg2G |
+(A B) c (A G) !wedge!F) |
+.('(A, C) !wedge!F (B, D) !wedge!G |
+(E G) !wedge!c (A c) !wedge!f |
+(c b) !wedge!a (g f) !wedge!e |
+f c AF3) :|]

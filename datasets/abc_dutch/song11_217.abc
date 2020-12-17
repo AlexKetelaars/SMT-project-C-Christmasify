@@ -1,0 +1,31 @@
+X: 10216
+T: De abt Antoon, de abt, de heilige Antoon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 3973076635
+%%humdrum-veritas-data 2320083183
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A2G2 |
+A2zE |
+AcBA |
+BEE).('B |
+BAGF |
+G2F2 |
+E2z).('E |
+A2(A3/G/) |
+FFF(G/ A/) |
+B2(B3/A/) |
+GGG) ]|:
+.('c [I:setbarnb 12]|
+cABc |
+dc/ d/ed |
+c2B2 |
+A3) :|]

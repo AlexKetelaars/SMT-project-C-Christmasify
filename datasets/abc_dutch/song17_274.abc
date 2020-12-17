@@ -1,0 +1,38 @@
+X: 16273
+T: Aangename Konst die onze ziel Ten hemel voer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 26053858
+%%humdrum-veritas-data 926906324
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('c2>d2ef |
+g2>g2fg |
+e4).('g2 |
+(a>g)(f>e)d3/e/ |
+=B2B).('Bcd |
+e2>e2e3/d/ |
+d2d2).('d2 |
+B4d2 |
+G4e2 |
+d4(cB) |
+A6 |
+G6) |
+.('z2=B2B3/B/ |
+c2>d2_e3/f/ |
+d4).('d2 |
+(e2>d2)(cB) |
+A4A2 |
+^F4D2) |
+.('d2g2d2 |
+(e2d2)e2 |
+d2d2).('d2 |
+G2>G2c2 |
+(dA)=B4 |
+c6) :|]

@@ -1,0 +1,31 @@
+X: 2924
+T: Ik ging laatstmaal uit wandelen Om mijn zinn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 1967767169
+%%humdrum-veritas-data 1519276526
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GB2G |
+D2FD2).('D/ D/ |
+E E E (G F) E |
+[M:9/8]D2B2<G2-G2).('A |
+[M:6/8]A2>(A2 B) c |
+d3d2).('d |
+c2BA2^G |
+A3-A2).('D |
+D2A A A A |
+A2BA2).('A |
+B A G (F E) D |
+[M:9/8](D2d2<)d2-d2).('d |
+[M:6/8]c B A G F E |
+D F Ad3) |
+.('D F Ac2B |
+G3-G2) |]

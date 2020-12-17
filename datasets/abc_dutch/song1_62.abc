@@ -1,0 +1,33 @@
+X: 62
+T: Licht kan u 't Vleysch veel uytvlucht dichte [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3346900544
+%%humdrum-veritas-data 1903522965
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A2BA |
+G2A2 |
+Bcdc/ B/ |
+A3).('d |
+fc_eB |
+dBA2 |
+G4) |
+.('A2AA |
+ABA2) |
+.('d2^cd |
+d^cd2) |
+.('A/ G/ F/ E/F2) |
+.('B/ A/ G/ ^F/G2) |
+.('c/ B/ A/ G/Ad |
+cBA2- |
+A2z).('d |
+g>f_ed |
+cBA2 |
+G4) |]

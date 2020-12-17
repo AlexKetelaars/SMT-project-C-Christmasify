@@ -1,0 +1,31 @@
+X: 8837
+T: Yn us Hynk-om sîn lân, Yn us Hynk-om sîn lân [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 1665454512
+%%humdrum-veritas-data 569724255
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('G/ G/ [I:setbarnb 1]|
+F G FE2).('G/ G/ |
+F G FE2).('D |
+C C C D D E |
+F3-F2).('B, |
+F2FG2G |
+F3E2).('D |
+C C C D D E |
+F3-F2).('B, |
+F F F G G G |
+F3E2).('E |
+F F F G G G |
+F3E3) |
+.('D2D D C B, |
+F F FF2).('F/ F/ |
+B2F E E D |
+C C CB,2) |]

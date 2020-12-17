@@ -1,0 +1,31 @@
+X: 4267
+T: Vader bedenk toch eens uw jaren Toen gij nog [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 4200757806
+%%humdrum-veritas-data 2506376379
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B B A [I:setbarnb 1]|
+G2GF2G |
+A2A).('A2G |
+F2E (D E) F |
+G3).('B2A |
+G2G F F G |
+A2A).('A2G |
+F2E D E F |
+G3).('B3 |
+A A GA2B |
+A2>).('B2 B A |
+G F D B B A |
+G3).('B3 |
+A A GA2B |
+A2>).('B2 B A |
+G F D B B A |
+G3) |]

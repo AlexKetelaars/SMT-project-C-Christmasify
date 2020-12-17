@@ -1,0 +1,30 @@
+X: 5850
+T: Laatstmaal op eenen zoeten morgentijd Ging i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1066048916
+%%humdrum-veritas-data 209657912
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c2d e |
+c B d B |
+(A c) (B A) |
+(A2^G2)) |
+.('E A A B |
+c B e d |
+!mordent!!mordent!d3{e d} c |
+B2z2) |
+.('c d e c |
+A3e |
+e d f e |
+(e d) z) .('e |
+e d c B |
+A ^G A B |
+(!mordent!!mordent!c2{d c} B) c |
+A4) |]

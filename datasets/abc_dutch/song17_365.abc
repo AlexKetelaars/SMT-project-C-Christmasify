@@ -1,0 +1,46 @@
+X: 16364
+T: Nimmer kwam ‘t in myn gedachten, Dat de Meis [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2645755155
+%%humdrum-veritas-data 1500112608
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('(c B) c |
+d2c |
+(f e) d |
+(e d) c) |
+.('e2^f |
+g d e |
+(!trill!!trill!c B) c |
+{c2}B3) |
+.('(d c) B |
+(A B) c |
+(B A) G |
+(^F E) D) |
+.('d c B |
+(e g) c |
+(B c) !trill!!trill!A |
+G3) |
+.('d2c |
+(B A) G |
+(G A) B |
+c3) |
+.('(f e) d |
+(e d) c |
+B2c |
+d2G) |
+.('(g e) c |
+(!trill!!trill!c B) c |
+(!trill!!trill!c B) c |
+(!trill!!trill!c B) c) |
+.('(g e) c |
+(c a) f |
+(e f) !trill!!trill!d |
+c3) :|]

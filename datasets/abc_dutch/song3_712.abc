@@ -1,0 +1,27 @@
+X: 2711
+T: Van een heer die in het wijnhuis zat
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 3252567475
+%%humdrum-veritas-data 4026516106
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('G/ A/ [I:setbarnb 1]|
+(B2A)G2d |
+dg>ga2g |
+f3e3 |
+d3-d2).('g |
+gggefg |
+de).('fe>dc |
+B3e3 |
+d3-d2).('g |
+gggefg |
+d>e).('fe>dc |
+B3A3 |
+G3-G2) |]

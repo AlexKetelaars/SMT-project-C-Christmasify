@@ -1,0 +1,31 @@
+X: 7304
+T: En ‘s avonds, en s’ avonds, En ‘s avonds is  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 209589076
+%%humdrum-veritas-data 1079222588
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F3F2G |
+A3A2A |
+G2FG2A |
+F3-F2).('C |
+F3F2G |
+A3A2A |
+G2FG2A |
+F2>-F2 z) .('c |
+c2c c c c |
+d2B B B/ z/) .('B |
+B2BB2B |
+c2A A A/ z/) .('C |
+F3F2G |
+A3A2A |
+G2FG2A |
+F2>-F2 z z) |]

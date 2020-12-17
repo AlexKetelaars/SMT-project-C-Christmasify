@@ -1,0 +1,29 @@
+X: 9746
+T: Ik zie een koor verheven van Engelkens pleza [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1289804953
+%%humdrum-veritas-data 526208282
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('F [I:setbarnb 1]|
+FAAGG2c).('c |
+c=BcAF2z).('F |
+FAAGG2c).('c |
+c=BcAF2z).('A |
+A2GGc2c).('A |
+FFGGA2z).('c |
+dc=BAG2G).('G |
+c=BAG!fermata!A2z).('F |
+FAAGG2c).('c |
+c=BcAF2z).('F |
+FFAGc2c).('c |
+ccAAF2GG |
+F2z).('F(FA2G |
+c=Bc)AF2z2) |]

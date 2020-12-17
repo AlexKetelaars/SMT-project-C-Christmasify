@@ -1,0 +1,32 @@
+X: 4499
+T: Wij zijn gebroeders zoals ge ziet [2x] En wa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3153050085
+%%humdrum-veritas-data 2088663557
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('dGB [I:setbarnb 1]|
+(de)e2- |
+eded |
+B).('DGB |
+(de)e2- |
+eded |
+[M:2/4]B).('B/ B/ |
+[M:4/4]BB/ B/Bd |
+d(c/ B/)c).('A/ B/ |
+cc/ c/ce |
+dd/ c/B).('d |
+dB3) |
+.('d/> d/ d/> e/dB- |
+B).('B/ c/dd/ d/ |
+[M:2/4]dd ]|:
+[M:4/4]d/> d/ d/> d/dd) :|]
+.('gedc |
+B4) |]

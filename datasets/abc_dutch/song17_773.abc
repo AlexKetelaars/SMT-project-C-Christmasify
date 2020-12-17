@@ -1,0 +1,38 @@
+X: 16772
+T: Den Catten menuet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1473149287
+%%humdrum-veritas-data 3626801280
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('F GA2A2 |
+d2A2e2 |
+f2d2f2 |
+e d c B A G) |
+.('F GA2A2 |
+d2A2e2 |
+f2d e f g |
+!fermata!e6) |
+.('f ga2d2 |
+c2B cA2 |
+d2c2d2 |
+e d e fe2 |
+f2d e f g |
+a6) |
+.('A2A A A A |
+A2F2G2 |
+A2A A A A |
+A6 |
+d e d c d B |
+g a g f g e) |
+.('a2g f e d |
+c2B Ag2 |
+f2e d c e |
+d6) |]

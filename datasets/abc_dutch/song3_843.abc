@@ -1,0 +1,27 @@
+X: 2842
+T: O pelgrim ziet gij dezen steen met donkre mo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 2426740608
+%%humdrum-veritas-data 1492640186
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ [I:setbarnb 1]|
+de/dc/ |
+Bd/G).('B/ |
+Ad/ee/ |
+d3/-d).('d/ |
+ga/gf/ |
+ee/d).('f/ |
+ed/Ac/ |
+B3/-B).('d/ |
+ga/gf/ |
+eg/d).('f/ |
+ed/Ad/ |
+G3/-G) |]

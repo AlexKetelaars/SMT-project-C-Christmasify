@@ -1,0 +1,32 @@
+X: 16675
+T: Ach! Gode kunt gij zien dat soo ‘t Leven, va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 1335310212
+%%humdrum-veritas-data 1326269454
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('a [I:setbarnb 1]|
+a>gf3/e/ |
+d2).('g3/a/ |
+_b>ba3/g/ |
+a2f2) |
+.('g>gg3/a/ |
+f2e2) |
+.('d>ef3/g/ |
+a3) |
+.('e [I:setbarnb 9]|
+e>d^c3/B/ |
+A2).('d3/e/ |
+f>fe3/d/ |
+g3).('a |
+_b3a |
+a3).('g |
+(f/ g/)ae3/d/ |
+d3) :|]

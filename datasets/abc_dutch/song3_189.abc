@@ -1,0 +1,30 @@
+X: 2188
+T: Een jonge maagd was vroeg opgestaan Om hare  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 3058505237
+%%humdrum-veritas-data 3608921712
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G3/ [I:setbarnb 1]|
+[M:2/4]GB3// e// |
+[M:3/4]d2(A/ B/) |
+(cd)A |
+B2-B3//) .('G// |
+GG/> B/ d3// e// |
+d>>A A3// B// |
+cdA |
+B2).('G3// G// |
+[M:2/4]GB3// d// |
+[M:3/4]dcd |
+ee2- |
+e2).('e |
+d>>e d3// e// |
+dcF |
+AG2) |]

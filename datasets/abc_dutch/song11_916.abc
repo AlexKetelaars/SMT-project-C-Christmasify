@@ -1,0 +1,33 @@
+X: 10915
+T: Daar zouden er drij jagers uit jagen gaan, U [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 80648053
+%%humdrum-veritas-data 74845975
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G> G G G |
+(E G) G G |
+A2B2 |
+c2z) .('G |
+G A B c |
+d2B d |
+d> d c3/ A/ |
+G2z) |
+.('G [I:setbarnb 9]|
+G B d d |
+c3B |
+A B c3/ A/ |
+(G3F) |
+E2z) .('G |
+G G F G |
+A> B c A |
+(G2B2) |
+c2z) :|]

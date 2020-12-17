@@ -1,0 +1,30 @@
+X: 5472
+T: Wie dat sich selfs verheft te met, Wordt wel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 1634327155
+%%humdrum-veritas-data 341209638
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A [I:setbarnb 1]|
+ddce |
+d(c/ B/)A).('A |
+BBcA |
+d2A).('A |
+ddce |
+d(c/ B/)A).('A |
+BBcA |
+d2A).('A |
+dABA |
+F>GA).('(G/ F/) |
+E>FGA |
+F>ED).('E |
+F>EDE |
+FAEE |
+D3) |]

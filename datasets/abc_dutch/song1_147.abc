@@ -1,0 +1,15 @@
+X: 147
+T: Ick hebb' myn stem opgheheven, End myn schre [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1565344220
+%%humdrum-veritas-data 3958691870
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G4G4F2G2A2B2A4G4z4).('G4G4F2G2A2B2A4G4z4).('B4A4G2B2A2G2F4z4).('F4E4D2G2G2F2G4z4).('B4c4d2d2c2B2c4B4z4).('B4c4d2d2c2B2c4B4z4).('B4A4G2B2A2G2F4z4).('F4E4D2G2G2F2G4) |]

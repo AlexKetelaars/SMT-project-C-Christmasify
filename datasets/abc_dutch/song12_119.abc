@@ -1,0 +1,39 @@
+X: 11118
+T: Zie daar ik heb den hooi van Tryn, Ik geef h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 3930535149
+%%humdrum-veritas-data 344224372
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+Gddg |
+f>edg |
+eaf3/f/ |
+g/ f/ g/ a/g).('G |
+Gddg |
+f>gag/ f/ |
+gf/ e<ed/ |
+d3).('G |
+Gdd/ e/ d/ c/ |
+B>AGd |
+efg(f/ e/) |
+^d>^cB).('f |
+gfgf |
+g^def |
+g/ b/ a/ g<fe/ |
+e2).('ef |
+gdd(e |
+=f/ e/ d/ c/ B/ c/ d/ B/ |
+c/ d/ c/ B/ A/ B/ A/ G/ |
+F>)ED).('d |
+dGGe |
+eddg/ f/ |
+e/ f/ g/ a<fg/ |
+g2-g) |]

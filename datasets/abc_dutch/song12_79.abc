@@ -1,0 +1,39 @@
+X: 11078
+T: Waar heen myn Ziel? helaas! waar heen? Wat w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 2481175498
+%%humdrum-veritas-data 3919235803
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('(d/ e/) [I:setbarnb 1]|
+f>edf |
+e>d^c2) |
+.('zde3/A/ |
+A>Bc(d/ c/) |
+_B>AGG) |
+.('zcc3/B/ |
+AFG3/(A// G//) |
+(F>E)E2) |
+.('zAA3/B/ |
+Gc(d/ c/) (B/ A/) |
+G>FF).('A |
+A>BcA |
+d>e^c2) |
+.('zdef |
+g>fe(f/ e/) |
+d>cc2) |
+.('zcde |
+f>ede |
+^c>cdd) |
+.('zcB3/A/ |
+A2zf |
+e>deA) |
+.('(B/ c/) (d/ e<)^cd/ |
+d3) |]

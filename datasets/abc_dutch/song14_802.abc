@@ -1,0 +1,32 @@
+X: 13801
+T: [Divert. 18]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 1075580314
+%%humdrum-veritas-data 1832009002
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 1/8=168
+K: Eb clef=treble
+.('E G F |
+G B A |
+(B/ e/) (e/ d/) (d/ c/) |
+B> A G |
+F2G |
+F2G |
+F (3c/ B/ A/ (3G/ F/ E/ |
+D3) |
+.('B d c |
+d f e |
+f a z/ A/ |
+A (F G) |
+g b z/ B/ |
+B (G A) |
+D2E3// e// |
+d2e |
+c/ B// A// G F |
+E3) :|]

@@ -1,0 +1,28 @@
+X: 15247
+T: Mijn lieve Krullemie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2931629519
+%%humdrum-veritas-data 13585858
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('F [I:setbarnb 1]|
+F F F F |
+F3F |
+F F B3/ A/ |
+A2G3/) .('F/ |
+E> E E3/ E/ |
+E3F |
+G> F G A |
+B2).('A G |
+F3F |
+B3B |
+A3B |
+c B G E |
+D3) |]

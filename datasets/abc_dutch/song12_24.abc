@@ -1,0 +1,42 @@
+X: 11023
+T: Kupido, dansende, klapte zyn vlerken, Baghus [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 813963795
+%%humdrum-veritas-data 3354859481
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('e> d e |
+c> d e |
+f> e d |
+e2c) |
+.('g> f e |
+d> e f |
+e> f g |
+e2e) |
+.('e> d c |
+B2B |
+c> B A |
+^G2G) |
+.('A> B c |
+B> c d |
+c> d e |
+d> e f |
+(e f) g |
+e2e) |
+.('e> d e |
+B2B |
+c> B A |
+e> f e |
+d> c d |
+B3) |
+.('e> d c |
+f> e d |
+c> B A |
+A3) |]

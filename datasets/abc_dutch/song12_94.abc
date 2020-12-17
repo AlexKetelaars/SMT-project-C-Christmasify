@@ -1,0 +1,39 @@
+X: 11093
+T: Goe mórgen Kniertje, heb ik jou daar? Jou oo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 3925786144
+%%humdrum-veritas-data 1647558439
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: D clef=treble
+.('F [I:setbarnb 1]|
+B2FF>EF |
+D2B,B,2).('F |
+B2FF>EF |
+D2B,B,2).('F |
+B>cdc>B^A |
+B2BB2).('F |
+B>cdc>B^A |
+B2BB2).('F |
+A2EE>FG |
+F2DD2).('F |
+A2EE>FG |
+F2DD2).('A |
+d>efe>dc |
+d2dd2).('A |
+d>efe>dc |
+d2dd2).('f |
+B>cdc>dB |
+c2FF2).('f |
+B>cdc>dB |
+c2FF2).('D |
+E>FGF>B^A |
+B2BB2).('D |
+E>FGF>B^A |
+B2BB2) |]

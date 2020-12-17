@@ -1,0 +1,23 @@
+X: 1474
+T: Mijn moeder heeft het land aan mij En ik wee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1323746659
+%%humdrum-veritas-data 1278942036
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+e d d c |
+B B B B/ B/ |
+B B c B |
+c3).('B |
+c B A G |
+d d d3/ e/ |
+d c B A |
+G3) |]

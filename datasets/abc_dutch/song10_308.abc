@@ -1,0 +1,36 @@
+X: 9307
+T: Altijd vroolijk, zing een lied, geen verdrie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 906055095
+%%humdrum-veritas-data 1898284299
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F/ G/ [I:setbarnb 1]|
+A>AAA |
+B2GG |
+A2z).('A |
+G2G2 |
+Fzz).('f |
+G2G2 |
+FzFz |
+Fzz).('f/ e/ |
+d>dee |
+(fc)AF |
+E>).('EEE |
+FzAz |
+B(G/ A/) (B/ c/) (d/ e/) |
+fzA).('A/ B/ |
+c>ccc |
+B2B(B/ G/) |
+F2z).('F |
+(cG)(EC) |
+Fcz2 |
+z(E/ F/) (G/ A/)B |
+Azz) |]

@@ -1,0 +1,39 @@
+X: 16213
+T: Schenk my weder Wyn in deez’. glazen; My lus [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 712691996
+%%humdrum-veritas-data 28303740
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e3d [I:setbarnb 1]|
+e2d cd2G2 |
+c4c) .('c c d |
+e2>e2e2e2 |
+(e d e fe2)d) .('d |
+d2c B2<A2G |
+G4 |
+z) .('G G G [I:setbarnb 7]|
+c2c2(c d c d |
+e f e d c d e f |
+g2d) e2<d2c |
+c4) |
+.('e2f2 [I:setbarnb 11]|
+d2>e2c2c B |
+A4A2).('B c |
+d2d2(d c d e |
+d B c de2)e f |
+(g f/ e/ d/ e/ c/ d/B2)G2 |
+z2).('c2A2f2 |
+e2>f2 d e ^c3/ d/ |
+d4z) .('G G G |
+c2c2(c d c d |
+e f e d c d e f |
+g2f) e2<d2c |
+c4) :|]

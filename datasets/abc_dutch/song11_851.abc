@@ -1,0 +1,28 @@
+X: 10850
+T: Hier woont een boer met zijn gezin. De arbei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 2766881076
+%%humdrum-veritas-data 994950585
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('G [I:setbarnb 1]|
+[M:9/8](G F) ED2dc2B |
+A2).('G (A B) c (d c) B |
+[M:6/8](A B) c (B A) ^G |
+A3).('A3 |
+B2A (B c) d |
+A2).('A (d c) B |
+(A G) F (G A) B |
+(A G) FE2).('A |
+[M:9/8]D2A B B AG2F |
+[M:6/8]E3E2).('A, |
+D2FA2B |
+(A B) AG2F |
+E2FD2) |]

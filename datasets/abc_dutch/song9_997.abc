@@ -1,0 +1,31 @@
+X: 8996
+T: Sint Annadag is deure! ‘k Ben mijn geldetje kwijt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 390614197
+%%humdrum-veritas-data 943934578
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F A A c |
+c2B A |
+G A B G |
+A2z) .('F |
+F A A c |
+c2B A |
+G A B G |
+A2z) .('A |
+A G A B |
+A2G G |
+A c c (B/ A/) |
+G z).('c2 |
+d/ d/ c B A |
+G FG2 |
+A B A G |
+F2z) |]

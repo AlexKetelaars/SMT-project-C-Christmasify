@@ -1,0 +1,40 @@
+X: 9068
+T: Daar kwamen drie koningen met eene ster, en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 1121911342
+%%humdrum-veritas-data 2270485798
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A, [I:setbarnb 1]|
+D D D D D D |
+D D DD2).('D/ D/ |
+G G A B B B |
+A2AG2).('G |
+D D D D D D |
+D D DD2).('D/ D/ |
+G G A B B B |
+A2AG2).('G |
+A A G c c c |
+E E ED3) |
+.('E2F G G G |
+F2GA3 |
+!fermata!D2).('D D D D |
+c c c A A A |
+D3).('E2F |
+A A GF2E |
+D3-D2z) |
+[M:2/4].('D> B, D3/ B,/ |
+D GB2 |
+A> G A3/ G/ |
+G ED2) |
+.('G> A B A |
+G E/ E/D2 |
+F> F A F |
+E2D z) |]

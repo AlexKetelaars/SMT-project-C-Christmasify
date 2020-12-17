@@ -1,0 +1,31 @@
+X: 6698
+T: De eedle zoon van Napoleon den Groote Sprak  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 2226523259
+%%humdrum-veritas-data 1015612594
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D E F [I:setbarnb 1]|
+G G/ G/ G G G G |
+(G F) !fermata!A) .('D F G |
+A2>A2 A A |
+A G !fermata!B) .('D E F |
+G> G G> G G G |
+(G F) !fermata!d) .('F A d ||
+[M:4/4]^c2>B2 A ^G =G E [I:setbarnb 8]|
+D4z) .('D E D |
+c2c c d c A B |
+(A G)B2z) .('D E D |
+c2>A2 A A G A |
+B4z) .('d c B |
+B2>B2 B d c B |
+(B A)E2z) .('E F G |
+A2>A2 d A c B |
+G4z) |]

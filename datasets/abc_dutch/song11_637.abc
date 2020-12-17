@@ -1,0 +1,23 @@
+X: 10636
+T: Er waren twee koningskind’ren, En die hadden [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 1380789147
+%%humdrum-veritas-data 1154808760
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C2 [I:setbarnb 1]|
+F2F FG2G2 |
+(A2d2)c2).('F F |
+A2B G F FE2 |
+F6).('C2 |
+F F F FG2G G |
+(A2d2)c2).('F F |
+A A B GF2E2 |
+F6) |]

@@ -1,0 +1,31 @@
+X: 2723
+T: En ik passeerde langs die groene weide met m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 56341917
+%%humdrum-veritas-data 4255132884
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2cB |
+A2f2 |
+gfgf |
+e2d2 |
+z).('def |
+[M:6/4](gf/) g/agfg |
+d3).('d/ d/ef |
+g>dg>fe3/B/ |
+[M:4/4](de)e2 |
+z).('ABe |
+[M:6/4](ef/) g/feBd |
+B3).('d/ d/ef |
+g>dg>fe3/B/ |
+[M:4/4](de)e2 |
+z).('ABe |
+[M:6/4](ef/) g/feBd |
+B6) |]

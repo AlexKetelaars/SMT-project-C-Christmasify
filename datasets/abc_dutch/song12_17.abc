@@ -1,0 +1,31 @@
+X: 11016
+T: Eertijds zingd’ ik en ik zing het nog, Dat e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3033817712
+%%humdrum-veritas-data 2297667941
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F E F A F G/ A/ |
+B3-B2).('B |
+A B A G A G/ F/ |
+E!fermata!F2z z) .('F |
+G z (G F) G F |
+E2>-E2 z) .('G/ G/ |
+c G E D F A |
+G3!fermata!C2).('C |
+B2BA2F |
+(G A) GF2).('C |
+F E F G F G |
+AG2z2).('C |
+F F F G F G/ A/ |
+B3-B2).('c/ B/ |
+A B A G A G/ F/ |
+E2<!fermata!F2z z) |]

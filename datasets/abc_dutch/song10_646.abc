@@ -1,0 +1,37 @@
+X: 9645
+T: Noorden ten Westen, Noord, Noord-West
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 2581507393
+%%humdrum-veritas-data 1178574091
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F F/ F/ F C |
+F FC2) |
+.('F F/ F/ F C |
+F F C) .('C |
+F G A B |
+(A2G2) |
+F4) ||
+[M:6/8].('G2GG2E/ E/ [I:setbarnb 9]|
+F2DC3) |
+.('C C CD2E |
+E3D3) |
+.('G2G/ G/G2E |
+F2DC3) |
+.('C2C/ C/D2E |
+E3D3) |
+.('F F F G G G |
+A2AA3) |
+.('A A B c c B |
+A3G3) |
+.('G G AB2B |
+A2AG2).('C |
+D C DA2G |
+G3F3) |]

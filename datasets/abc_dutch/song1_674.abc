@@ -1,0 +1,17 @@
+X: 674
+T: Mijn siel in dijnre salicheyden Was al van h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 251437436
+%%humdrum-veritas-data 1682708147
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2A2A4A4c2>B2A2G4(F2E4)D4).('F2>G2A2_B4A2A2G2A4).('z2A2A4A4c2>=B2A2G4(F2E4)D4).('F2>G2A2_B4A2A2G2A4) ]|:
+.('(D4E2)F4E2D4C2(F4G2)A4z2).('A2G2>F2E2F2D4C4z2) ]|:
+.('C2F2G2A2A2c4B4).('c4A2G4(F2E4)D4) |]

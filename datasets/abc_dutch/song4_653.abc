@@ -1,0 +1,23 @@
+X: 3652
+T: Ze was een meisje van achttien jaren [Ze had [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 259901439
+%%humdrum-veritas-data 2869895104
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B/ B3// B// [I:setbarnb 1]|
+G e e (d> c) B |
+AB2-B- B/>) .('G/ G3// A// |
+Be2d> c B |
+A3-A2).('d/ d/ |
+d B dd2f |
+ee2-e2).('d3// e// |
+f g fe2d |
+B3z2) |]

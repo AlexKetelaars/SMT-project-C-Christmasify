@@ -1,0 +1,32 @@
+X: 12453
+T: Waarom slaat gij mij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 4087103984
+%%humdrum-veritas-data 2511194037
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G [I:setbarnb 1]|
+cBcd |
+e3).('e/ f/ |
+gcAd |
+!trill!!trill!B>AG).('G |
+cBcd |
+e3).('e/ f/ |
+gcdB |
+c3) |
+.('E/ F/ [I:setbarnb 9]|
+GGGA |
+G2G).('E/ F/ |
+GGGA |
+G3).('G |
+cBcd |
+ecfe |
+dcdB |
+c3) :|]

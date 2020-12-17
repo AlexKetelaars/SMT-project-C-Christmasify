@@ -1,0 +1,30 @@
+X: 10235
+T: Kinderkens, zet uw korfkens uit, De Greef za [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 2730661653
+%%humdrum-veritas-data 3299457558
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+(3.('A A A G F |
+G F E E |
+A A B B |
+c2!fermata!B2) |
+.('d dc2 |
+B BD2 |
+B B c B |
+(A F) !fermata!A) .('E |
+A A A F |
+G FG2 |
+A A A B |
+c2!fermata!B2) |
+(3.('d d d c c |
+B2F2 |
+B B B c3// B// |
+(A> G)F2) |]

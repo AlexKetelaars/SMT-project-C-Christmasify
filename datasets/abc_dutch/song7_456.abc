@@ -1,0 +1,23 @@
+X: 6455
+T: No 94
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 2257121865
+%%humdrum-veritas-data 2561342605
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D/ F/ [I:setbarnb 1]|
+AAFD |
+E>FE(E/ F/) |
+GFED |
+A2z).('(A/ c/) |
+eecA |
+d>AAA |
+BGEA |
+D3) |]

@@ -1,0 +1,37 @@
+X: 5289
+T: En hij sprak mijn lieve Griet Dat zijn mijn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 2707675792
+%%humdrum-veritas-data 1375217776
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('D2E [I:setbarnb 1]|
+F2FG2=E |
+F3).('A2B |
+c2B (A B) G |
+F3).('D2E |
+F2FG2=E |
+F3).('A2B |
+c2B (A B) G |
+F6) |
+.('d3F2d |
+c6 |
+B3D2=E |
+F2>).('(e2 f) e |
+(d c) B (A B) G |
+F3).('D2E |
+F2FB2c |
+d3).('e2d |
+d2cd2c |
+c2B).('D2E |
+F2FB2c |
+d3).('e2d |
+d2cd2c |
+B3) |]

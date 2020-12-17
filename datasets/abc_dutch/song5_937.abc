@@ -1,0 +1,25 @@
+X: 4936
+T: Matheetje kwam van Watou, En hy wilde de mey [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2381300010
+%%humdrum-veritas-data 626056113
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A e e d |
+d2c c/ c/ |
+d d/ d/ e d |
+(c B) A) .('A |
+A B c B |
+A G A A |
+A B c B |
+A G A A) |
+.('e e e e |
+(c B) A z) |]

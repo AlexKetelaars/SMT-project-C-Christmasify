@@ -1,0 +1,26 @@
+X: 15774
+T: Wilhelmis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 1966911578
+%%humdrum-veritas-data 1360190667
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('D [I:setbarnb 1]|
+G>AGG |
+A2dc |
+B2A2 |
+dcBA |
+GABG) :|]
+.('AB/ c/de |
+dABc |
+dedc |
+BAG(G/ A/) |
+B(B/ c/)dd |
+cBA2) |]

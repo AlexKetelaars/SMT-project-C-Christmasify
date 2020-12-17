@@ -1,0 +1,47 @@
+X: 5244
+T: Wijntje jij bent groene Dat gaat in bruidjes hals
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 3143398083
+%%humdrum-veritas-data 624789730
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F2GA2B |
+c3c2B |
+A2AG2G |
+F3-F2).('C |
+F2GA2B |
+c2cc2B |
+A2AG2G |
+F3-F2z) |
+.('A2AA2A |
+B B BB2A |
+G2GG2G |
+c c cc3) |
+[M:22/8].('c c c2<d2c2c c c c c c c c2<d2c2).('B |
+[M:6/8]A2AA2A |
+B2BB3 |
+G2G G G G |
+c2cc3) |
+.('F2GA2B |
+c2cc3 |
+d2cc2B |
+A2GF2).('c |
+f2c c c c |
+f2c c c c |
+f2c B B A |
+G3F3) |
+.('A2AA2A |
+B2BB2A |
+G2GG2G |
+c c cc3) |
+.('f f cB2A |
+G3F3 |
+f f cB2A |
+G3F3) |]

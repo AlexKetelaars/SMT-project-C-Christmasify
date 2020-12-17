@@ -1,0 +1,31 @@
+X: 9005
+T: O Nederland, let op uw zaak, De tijd en ston [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 874688501
+%%humdrum-veritas-data 4008660651
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('C [I:setbarnb 1]|
+FGAB |
+ccc).('e |
+^dcc^B |
+c3).('C |
+FGAB |
+ccc).('e |
+^dcc^B |
+c3).('c |
+AAAc |
+BBB3/).('G/ |
+AGFA |
+B2G2) |
+.('F/ E/ F/ G/AG |
+F/ G/ A/ B<c).('c/ |
+BAGF |
+G2F2) |]

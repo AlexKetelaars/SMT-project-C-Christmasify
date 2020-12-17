@@ -1,0 +1,26 @@
+X: 7526
+T: No 146
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 1735247618
+%%humdrum-veritas-data 2737162658
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('e2B2e2f g |
+f2>e2f2B2) |
+.('e2d2c2B c |
+A2>B2B4) |
+.('B2B AG2E2 |
+c2c BA4) |
+.('d c d B e f g A |
+!mordent!!mordent!A2>G2G4) |
+.('B2e2^c4) |
+.('^c2f2^d4) |
+.('e2B2c B A G |
+F2>E2E4) :|]

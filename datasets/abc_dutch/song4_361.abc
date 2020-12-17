@@ -1,0 +1,22 @@
+X: 3360
+T: Geeze was ien de kelder ekreupen Hakke-maar- [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 2683831578
+%%humdrum-veritas-data 4202930627
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B BB2d2 |
+c2B2A2A2) |
+.('G G G GF2D2 |
+c c B BB2G) .('A |
+B2B BB2c d |
+c2B BA2A2) |
+.('d d d de2d2 |
+G4z4) |]

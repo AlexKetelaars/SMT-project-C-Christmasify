@@ -1,0 +1,31 @@
+X: 13047
+T: Zie ginds komt de stoomboot uit Spanje weer aan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 1823005804
+%%humdrum-veritas-data 809480676
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F A |
+G G B |
+E E G |
+F z) .('C |
+F F A |
+G/ G/ G B |
+E E G |
+F z) .('c |
+G G c |
+A A c |
+B B A |
+G z) .('C |
+F (F/ G/) (A/ B/) |
+c A F |
+B G E |
+!fermata!F2) |]

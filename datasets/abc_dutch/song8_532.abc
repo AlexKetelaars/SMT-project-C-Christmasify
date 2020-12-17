@@ -1,0 +1,26 @@
+X: 7531
+T: No 151
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 2565237772
+%%humdrum-veritas-data 3068736764
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('GcBc |
+d/ c/ d/ e/d).('d |
+eABc/ d/ |
+d>cc2) |
+.('ed/ c/dd |
+ed/ c/d2) |
+.('ed/ e/ed/ e/ |
+ed/ c/d2) |
+.('GcBc |
+d/ c/ d/ e/d).('d |
+eABc/ d/ |
+d>cc2) :|]

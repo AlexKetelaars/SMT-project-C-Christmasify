@@ -1,0 +1,30 @@
+X: 5160
+T: Ik ging op enen morgen al door den Aerdenhout
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 2873735892
+%%humdrum-veritas-data 484710261
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('D [I:setbarnb 1]|
+DAcd |
+(A>G)AD |
+F(A/ G/)GE |
+D2z).('D |
+DAcd |
+(A>G)AD |
+F(A/ G/)GE |
+D2z).('F |
+GG/ A<(FG/) |
+AAGG |
+F2z).('F/ F/ |
+ccdd/ d/ |
+(A>G)A).('D |
+FAGE |
+D4) |]

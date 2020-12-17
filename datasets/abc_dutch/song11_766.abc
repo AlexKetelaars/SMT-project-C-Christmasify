@@ -1,0 +1,23 @@
+X: 10765
+T: Daar was er laatst zo’n aardig meisje, Dat b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:08
+%%humdrum-veritas 1204622518
+%%humdrum-veritas-data 2402837278
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+B3/c/ |
+[M:3/4]A>G F/ G/ |
+AGz) |
+.('A/ G/FF/ F/ |
+[M:2/4]Gd |
+[M:3/4]c2).('A/ A/ |
+[M:4/4]GB/ B/AG |
+[M:2/4]F) |]

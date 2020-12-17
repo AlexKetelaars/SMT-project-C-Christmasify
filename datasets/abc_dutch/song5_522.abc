@@ -1,0 +1,24 @@
+X: 4521
+T: O m’n lief Katrieneke, wa zijde gij toch fij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3750681232
+%%humdrum-veritas-data 1390051899
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d> d d B G G A B |
+c> c c BA4) |
+.('A B c de2e2 |
+A> A B cd2d2) |
+.('d> d d B G G A B |
+c> c c BA4) |
+.('A B c d e> e e e |
+d2e dc4) |
+.('e> e f e d d e d |
+d2d cB4) |]

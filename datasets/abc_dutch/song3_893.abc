@@ -1,0 +1,24 @@
+X: 2892
+T: Een rijk heer uit de stad Die zette zijn zin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 3034042765
+%%humdrum-veritas-data 263099060
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('c [I:setbarnb 1]|
+G2cd2c |
+d3-d2).('e |
+d A AA2A |
+[M:9/8]e2c2<B2).('B3 |
+[M:6/8]G G GA2A |
+d3-d2).('d/ d/ |
+B2dc2).('c |
+[M:9/8]B B B A A F A B A |
+[M:6/8]G3-G2) |]

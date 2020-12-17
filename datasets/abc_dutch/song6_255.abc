@@ -1,0 +1,31 @@
+X: 5254
+T: Op Zondag op Zondag dan is het de dag des He [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 340392262
+%%humdrum-veritas-data 1145606319
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C [I:setbarnb 1]|
+E3C2C |
+E3C2C |
+D D DD2D |
+E3C2).('C |
+E E EE2F |
+G2GG2G |
+A2GG2F |
+E3C3) |
+.('E2E E D C |
+D2DD3 |
+F2E E D C |
+D D DD3) |
+.('C2CC2C |
+E3C2C |
+D D D B, B, B, |
+D3C2) |]

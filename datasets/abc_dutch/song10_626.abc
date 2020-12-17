@@ -1,0 +1,23 @@
+X: 9625
+T: Een, twee, drij, vier, en da’s vijf, Boerken [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 2186388253
+%%humdrum-veritas-data 3744090025
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E2F [I:setbarnb 1]|
+G2>A2 A A |
+G2>).('F2 F F |
+E2E D D D |
+E2C).('E2F |
+G2>A2 A A |
+G2>).('F2 F F |
+E2ED2D |
+C2) |]

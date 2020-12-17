@@ -1,0 +1,36 @@
+X: 5552
+T: Gekwetst ben ik van binnen, deurwond mijn he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3917284579
+%%humdrum-veritas-data 2397676762
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A2AA |
+^GEA2 |
+B2).('d2 |
+cBA^G |
+A4) |
+.('A2AA |
+^GEA2 |
+B2).('d2 |
+cBAG |
+A2z).('A |
+eeBc |
+ccd2 |
+z).('cBA |
+^GABE |
+F2E2 |
+z).('Bcd |
+e(d/ e/)cB |
+A).('dcB |
+(e2-e/ d/ c/ d/ |
+e)Bd3/c/ |
+(cB3) |
+A2z2) |]

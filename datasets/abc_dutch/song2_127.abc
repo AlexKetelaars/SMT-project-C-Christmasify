@@ -1,0 +1,28 @@
+X: 1126
+T: Palm palm pasen ei kokerei
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 3643143287
+%%humdrum-veritas-data 1787251784
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('dedB |
+B2A2 |
+B2AA |
+G3z) |
+.('dd/> d/dd |
+e2ee |
+ddde |
+c3z) |
+.('d2e2 |
+dBG2 |
+d2e3/e/ |
+dBG2) |
+.('d2ee |
+d2B2) |]

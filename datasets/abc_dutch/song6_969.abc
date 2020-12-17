@@ -1,0 +1,40 @@
+X: 5968
+T: De uijtreghtse vrede
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 188645451
+%%humdrum-veritas-data 2961766103
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B A [I:setbarnb 1]|
+G2d4c d |
+e2c4).('e d |
+c2B c A B c d |
+B2G4).('B A |
+G2d4c d |
+e2c4).('e d |
+B2A G F G A F |
+G6) :|]
+.('F G [I:setbarnb 9]|
+A G F G A G F E |
+F2D4).('A B |
+c2B c A B c d |
+B2G4).('c d |
+e d c d e d c B |
+c2A4).('f g |
+a2g f g f e ^c |
+d4z) .('e d c |
+B2G2A3B |
+c2C4).('c B |
+c2>B2c2d2 |
+e2A4).('e f |
+g2f2e2d2 |
+g f g ag2).('B2 |
+c d c B c A B F |
+G4) |]

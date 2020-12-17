@@ -1,0 +1,28 @@
+X: 13252
+T: Die liebe warme Sonne saugt Das Lindenblatt heraus
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 1521000910
+%%humdrum-veritas-data 777356735
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2Bg2e |
+d2cB2B |
+A2Gc2B |
+A F/ G/ A/ B/A2) |
+.('A [I:setbarnb 5]|
+A2AB2B |
+c2Bc2c |
+B c ^c d =c B |
+{B2}A2zz2).('D |
+c2cB2B |
+e2ed2B |
+A2Ad2d |
+G D/ E/ D/ C/B,2) |]

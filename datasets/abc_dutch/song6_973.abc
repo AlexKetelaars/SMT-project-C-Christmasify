@@ -1,0 +1,35 @@
+X: 5972
+T: Conter Dans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3754331850
+%%humdrum-veritas-data 128954160
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2d2 |
+B3c |
+dcBA |
+BG).('c/ d/ B/ A/ |
+BGc/ d/ B/ A/ |
+BGAF |
+G2G2) :|]
+.('d2g2 |
+f3g |
+agfe |
+fd).('g/ a/ f/ e/ |
+fdg/ a/ f/ e/ |
+fde^c |
+d4) |
+.('A2B2 |
+c3c |
+dcBA |
+BG).('c/ d/ B/ A/ |
+BGc/ d/ B/ A/ |
+BGAF |
+G4) |]

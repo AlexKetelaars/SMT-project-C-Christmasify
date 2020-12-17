@@ -1,0 +1,31 @@
+X: 11109
+T: Genaevongt zoete Teuntje, Myn alder liefste  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 974313531
+%%humdrum-veritas-data 3962238704
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A>Bc3/d/ |
+B2A3/B/ |
+c>cd3/e/ |
+e3).('e |
+e>ee3/d/ |
+e2c3/d/ |
+e>ed3/c/ |
+B2).('B3/c/ |
+d>cB3/A/ |
+B3).('A |
+c2d2 |
+e2(e3/d/) |
+c2d2 |
+B2c3/A/ |
+^GABG |
+A2) |]

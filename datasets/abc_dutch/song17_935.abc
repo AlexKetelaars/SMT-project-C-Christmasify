@@ -1,0 +1,25 @@
+X: 16934
+T: Ali alo pour Maschero Ali ali alo
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2524825058
+%%humdrum-veritas-data 3373591961
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A2Bc2d |
+e2cA2z) |
+.('e e ee2d |
+e2>-e2 z) .('e |
+e2ee2e |
+e d cd2z) |
+.('d d dd2c |
+d2ed2z) |
+.('e e ec2B |
+A3-A2z) |]

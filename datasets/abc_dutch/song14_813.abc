@@ -1,0 +1,60 @@
+X: 13812
+T: Divert. 21
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 1089555390
+%%humdrum-veritas-data 4274415883
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=104
+K: A clef=treble
+.('E2>F2 E F |
+E2>F2 E F |
+E A c e {e/} d (c/ B/) |
+A2E2z e |
+f3a/ g/ {b/} a g/ f/ |
+!wedge!e2(G2A2) |
+B/ c/ B/ c/d2c2 |
+c2B2z) .('g |
+f3/ (g// a//) g !wedge!B !wedge!B !wedge!B |
+B (c/ B/) A (B/ A/) G g |
+f3/ (g// a//) g !wedge!B !wedge!B !wedge!B |
+B (c/ B/) A (B/ A/) (G/ B/ e/ g/) |
+b3(a/ g/ f/ e/ ^d/ e/) |
+{d}c3(B/ A/ G/ F/ ^E/ F/) |
+GB2G/ E/!trill!!trill!F2 |
+E2z) .('b {a/} g f/ e/ |
+(e< ^d) z a {g/} f e/ d/ |
+^d< e z b {a/} g f/ e/ |
+e< ^d z a {g/} f e/ d/ |
+e2E2z2) |
+.('G2>(A2 G A) |
+G2>(A2 G A) |
+(G c) (c B) (B A) |
+!trill!!trill!A2G2z2 |
+(=g e) z e/ f/ {a/} g f/ e/ |
+d f z f {e/} d {c/} B |
+{B/}c3e/ =g/ (f/ e/ d/ c/) |
+Bf2e/ d/ {e/} f e/ d/ |
+c e z e {d/} c {B/} A |
+(B/ c/ B/ c/ d/ e/ d/ e/) f A |
+G (e ^d =d) c a/ c/ |
+c2B2z) .('A |
+G3/ (A// B//) A (.c .c .c) |
+c (d/ c/) B (c/ B/) A c |
+B3/ c// d// c (.e .e .e) |
+e (f/ e/) d (e/ d/) c/ (E/ A/ c/) |
+e3(d/ c/) (B/ A/ G/ A/) |
+f3(e/ d/ c/ B/ ^A/ B/) |
+ce2c/ A/!trill!!trill!B2 |
+A2>).('(=G2 F E) |
+A2>d2 B G |
+A2>=G2 F E |
+A2>d2 B G |
+A2>(F2 E F) |
+E2>F2 E F |
+E6) ||

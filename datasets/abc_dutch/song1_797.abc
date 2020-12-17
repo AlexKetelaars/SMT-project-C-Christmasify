@@ -1,0 +1,23 @@
+X: 797
+T: Daar vlogen drij vogelkens over den Rijn Daa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 821983713
+%%humdrum-veritas-data 124882280
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('A [I:setbarnb 1]|
+d2e/ d/ |
+d2e/ d/ |
+d B B |
+B2).('B |
+B G G |
+(G F) G |
+B2A/ A/ |
+A2) |]

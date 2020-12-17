@@ -1,0 +1,31 @@
+X: 5498
+T: «Die voghelkens in der muiten Sy singhen har [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2314974149
+%%humdrum-veritas-data 2229673117
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+AA/ A/cA |
+(c/ B/ c/ d/)e).('e |
+[M:6/8]ed/cB/ |
+[M:4/4]A2z2) |
+.('AAAA |
+(c/ B/ c/ d/)e).('e |
+[M:6/8]ed/cB/ |
+[M:4/4]A2z).('c |
+cedc |
+B>c).('dc |
+AGE/A(G// F//) |
+E2z).('B |
+cd/ d/ (e/ d/) c/ (B// A//) |
+ee2).('e |
+[M:6/8]e/ d/> d/ c/> c/ B/ |
+[M:4/4]A3) |]

@@ -1,0 +1,31 @@
+X: 4806
+T: Komt Sasse mannen altezamen Kom trekt er nu  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 530428471
+%%humdrum-veritas-data 2753987392
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>G2G2D2G2B2 |
+e4d6).('B2 |
+[M:4/4]B2>d2 d d A3/ B/ |
+G6).('D2 |
+[M:3/2]G4G2G2G2B2 |
+e4d6).('B2 |
+[M:4/4]B2>d2 d d A B |
+G6).('F G |
+A A A A c c B A |
+G G G Ad2).('D D |
+(3G G G G A B B A G |
+F F E Ad2).('B c |
+d2e> e d> d c3/ c/ |
+B6).('c c |
+d2e> d d> c c3/ A/ |
+G6) |]

@@ -1,0 +1,34 @@
+X: 16150
+T: Ach, ach, ik sterf, ik voel myn harte beeven [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 752066683
+%%humdrum-veritas-data 990101249
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d2B2G2 |
+^F2>G2A2 |
+B2(c2d)e |
+A2G).('G_AG |
+G2>G2c3/c/ |
+c2>).('d2ed |
+cBA^FGA |
+(A2>G2)G2) |
+.('d2e2zd |
+d4zd |
+f>e (d// e//) (c// d//)=B2B |
+z).('B2A3 |
+z=B2c3 |
+z^c2d3 |
+zgeded |
+(gfedcd |
+edcBAG |
+d2>)d2z).('B |
+cdeAA2- |
+A4G2) :|]

@@ -1,0 +1,62 @@
+X: 9484
+T: De koekoek in den Mei Die hoorde den nachteg [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3667685058
+%%humdrum-veritas-data 2879646396
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2c (E F) G |
+C3z2).('G |
+G B d c B A |
+(G2c)!fermata!G2).('c |
+A G F E D C |
+(C B, C)!fermata!G2).('G |
+G E G (G A) _B |
+A3z2).('A |
+A F G A B c |
+B3z2).('G |
+c B A G E G |
+c B A G E) .('c |
+A G F E D C |
+C B, GG2).('c |
+C3z2c |
+C3z2).('C |
+(C D) EF2F |
+D F A !fermata!G) .('G F |
+E F E D G F |
+E F E D) .('G G |
+G B d d c A |
+G3z2).('G |
+e2dc2B |
+(c2B)A2).('G |
+c d c A B d |
+(c2B)A2).('c |
+G2cG2c |
+G3z2).('G |
+e2c d A B |
+c3z2).('G |
+c B A G E G |
+c B A G E) .('c |
+A G F E D C |
+C B, D!fermata!G2).('G |
+G E G (G A) _B |
+A2F!fermata!F2).('A |
+A F A A B c |
+c d c!fermata!B2).('G |
+c c c C E G |
+c2z).('D2E |
+F A G F E D |
+C3z2).('c |
+c2ce2c |
+c3z2).('C |
+(C D) E F F F |
+D F A G) .('c c |
+d c B!fermata!c3) |]

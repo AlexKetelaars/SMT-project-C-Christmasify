@@ -1,0 +1,29 @@
+X: 2256
+T: Het was op een driekoningenavond
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 1799420224
+%%humdrum-veritas-data 1873350223
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D3// D// [I:setbarnb 1]|
+GAB |
+d2d |
+BA).('B3// A// |
+GFG |
+A>FE |
+D2).('B3// B// |
+Bee |
+edc |
+(Bce) |
+d2).('d3// d// |
+dBG |
+(cB)A |
+G3- |
+G2) |]

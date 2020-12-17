@@ -1,0 +1,40 @@
+X: 3009
+T: Daarom laat ons lustig klinken Lustig drinke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 3163310856
+%%humdrum-veritas-data 204075369
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d3/ c/ [I:setbarnb 1]|
+B B B B B G G B |
+d d d d d d) .('e3/ e/ |
+d2A2z d e d |
+d2B2z2).('d3/ c/ |
+[M:5/4](3B B B B B B B B G) .('G B |
+[M:4/4]d d d d d d) .('d e |
+f2d2z A/ A/ A ^c |
+e2d2z2).('d d |
+e e e e g g f e |
+e d d d g g) .('B c |
+d d d d d c B A |
+d2z2z2).('d d |
+(3e e e e e g g) .('f e |
+e d d d g B) .('B c |
+d d d d d c B A |
+G4z2z) ||
+.('B [I:setbarnb 17]|
+B B B B B G z B |
+d> d d> dd2z) .('d |
+d A A d f d z d |
+e d d ^cd2z) .('d |
+d d d d d d z d |
+g g f e f z z) .('c |
+c c c d g g z e/ e/ |
+e d d dd2) |]

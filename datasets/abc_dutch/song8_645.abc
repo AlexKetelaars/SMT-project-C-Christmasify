@@ -1,0 +1,35 @@
+X: 7644
+T: Aria Katrijntje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 4133598764
+%%humdrum-veritas-data 2978648030
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f2a2a2(g f) |
+g2b2b2(a g)) |
+.('a2c'2c'2b a |
+g f e dc4) |
+.('f2a2a2(g f) |
+g2b2b2(a g)) |
+.('a2(g f) (e f) (g e) |
+f6) :|]
+.('c'2 [I:setbarnb 9]|
+c'2(b a) (g a) (b g) |
+a4z2c'2) |
+.('c'2b ag2a2 |
+b2g2a4) |
+.('f2a2a2(g f) |
+g2b2b2(a g)) |
+.('a2c'2c'2b a |
+g f e dc4) |
+.('f2a2a2(g f) |
+g2b2b2(a g)) |
+.('a2(g f) (e f) (g e) |
+f4) |]

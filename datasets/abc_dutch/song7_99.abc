@@ -1,0 +1,40 @@
+X: 6098
+T: ‘T Juffertie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2217002228
+%%humdrum-veritas-data 2829555913
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A2 [I:setbarnb 1]|
+d2d e f e f g |
+a2g af2g a |
+f g f e d e f g |
+e2e fe4) |
+.('A2A =B c =B c d |
+e2e fe2d e |
+c2=B A ^G A =B G |
+A6) :|]
+.('F G [I:setbarnb 9]|
+A2>B2 A B c A |
+d2>_e2 d e d c |
+B2>c2 B c B A |
+G2>A2 G B) .('A B |
+c2>d2 c B c A |
+d2>c2 B c B A |
+G2>F2 E F G E |
+F4C4) |
+.('F2F G F G A B |
+c2c d c B c A |
+d2d e f e f d |
+^c2=B cA4) |
+.('d2d e f e f g |
+a2g f b a b g |
+a2g f a e f ^c |
+d4) |]

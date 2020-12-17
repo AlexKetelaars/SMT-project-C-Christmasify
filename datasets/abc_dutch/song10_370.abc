@@ -1,0 +1,30 @@
+X: 9369
+T: Hebde niet gezien, N’avez-vous pas vu? Hebde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3947786799
+%%humdrum-veritas-data 4129047263
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F/> G/ A3// B// |
+cB3// c// |
+dB |
+cz) |
+.('F/> G/ A3// B// |
+cc |
+C2 |
+Fz) |
+.('FF |
+cc |
+d/> e/ f3// d// |
+cz/) .('c// c// |
+BB/ B/ |
+AF |
+G2 |
+Fz) |]

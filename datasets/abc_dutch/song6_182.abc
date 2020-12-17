@@ -1,0 +1,25 @@
+X: 5181
+T: Er gingen drie regimenten al over de Rijn Er [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 2580905611
+%%humdrum-veritas-data 1610623286
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(3G G G G GG2G A |
+B2B> AG3).('G |
+(3A A A A AA2B c |
+d2d> cB2).('d3/ c/ |
+B> B B> B (B A) G3/ B/ |
+d> d d> d (d c)) .('B A |
+G2e2(d c) (B A) |
+A4G2).('G G |
+G2e2(d c) (B A) |
+A4G2z) |]

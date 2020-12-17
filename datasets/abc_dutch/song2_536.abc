@@ -1,0 +1,35 @@
+X: 1535
+T: Het was in die stad van Wenen Al in die grote stad
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 42565318
+%%humdrum-veritas-data 1399302723
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ [I:setbarnb 1]|
+dA/AB/ |
+(AB/)A).('c/ |
+Bd/ (d/ c/) B/ |
+A3/z).('d/ |
+dA/AB/ |
+(cd/)f).('e/ |
+ed/dc/ |
+B3/z).('d/ |
+dB/GB/ |
+(dg/)g).('e/ |
+ed/cB/ |
+A3/z).('g/ |
+ff/ee/ |
+(GB/)d).('e/ |
+dd/cd/ |
+B3/z).('g/ |
+ff/ee/ |
+(GB/)d).('e/ |
+dd/ (c/ B/) A/ |
+G3/z) |]

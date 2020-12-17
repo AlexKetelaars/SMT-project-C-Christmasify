@@ -1,0 +1,28 @@
+X: 758
+T: Geluckig is hy die leert sterven, D’wyl hij leeft
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3670651465
+%%humdrum-veritas-data 3764248531
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('(E F) [I:setbarnb 1]|
+G2G2G2(A B) |
+c2(E F)G2C2) |
+.('(c2B c d e f) d |
+e6).('(E F) |
+G2G2G2(A B) |
+c2(E F)G2C2) |
+.('(c2B c d e f) d |
+e6).('(c d |
+e2)e2e4 |
+A2A2A2).('B c |
+d2>c2 B B A A |
+G2).('c de2d2 |
+c6) |]

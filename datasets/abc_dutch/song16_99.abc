@@ -1,0 +1,39 @@
+X: 15098
+T: ‘k Ben fier, ‘k ben trotsch, wenn ick die kl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 1934704852
+%%humdrum-veritas-data 229736046
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G< E F/ [I:setbarnb 1]|
+G2>G2 A B |
+d2c z/ G< E F/ |
+G2>A2 B A |
+D3z/) .('G< E F/ |
+G2>G2 A B |
+d2c z/ e/ d c |
+B2e d A B |
+G2>).('G2 B d |
+f2>d2 B G |
+e2c> c c B |
+A2>B2 c d |
+e2>).('G2 f3/ e/ |
+d2>A2 (3B A B |
+c2).('G A B c |
+d2>d2 ^c d |
+e2>G2 f3/ e/) |
+.('d2A2(3B A B |
+c2G> G f e |
+d2>c2 e d |
+c3z/ x/x2) ||
+.('d2A2e3/ d/ [I:setbarnb 22]|
+c2G> A B c |
+e2>d2 A3/ B/ |
+c3z/) |]

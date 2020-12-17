@@ -1,0 +1,28 @@
+X: 12889
+T: Ben ik dan tot niet gebooren Als tot droefhe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 167722717
+%%humdrum-veritas-data 3909217488
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+d2 d2 (d g f) !wedge!e |
+(e2 d2) z2) .('e c |
+B2 (c A) G2 F2 |
+G6) |
+.('d B [I:setbarnb 5]|
+A2> c2 (B G) (d B) |
+!trill!!trill!B2 {A B} A2 z2) .('d B |
+A2> c2 (B G) (d B) |
+(!trill!!trill!B2 A2) z2) .('B c |
+d2 d2 (d g f) !wedge!e |
+!trill!!trill!e2 d2 z2) .('e c |
+(B2 c) A G2 F2 |
+G6) ||

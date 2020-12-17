@@ -1,0 +1,30 @@
+X: 17601
+T: la erseidieck [?]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 2739319100
+%%humdrum-veritas-data 662108707
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('D2D2 |
+D3A, |
+D D F A |
+D3).('d |
+d A A f |
+f d d a |
+g2f2 |
+e4) |
+.('e/ g/ f/ a/ g z |
+f/ a/ g/ b/ a z |
+e/ g/ f/ a/ g z |
+f/ a/ g/ b/ a z) |
+.('D A, A, F |
+F D D d |
+F E/ D/ A, C |
+D4) :|]

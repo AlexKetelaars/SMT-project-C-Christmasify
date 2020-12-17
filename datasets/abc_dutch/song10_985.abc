@@ -1,0 +1,23 @@
+X: 9984
+T: Wie rijk wil worden mit zijn gemak, En die d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1766498112
+%%humdrum-veritas-data 3976888019
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c2 [I:setbarnb 1]|
+c2c2A2c2 |
+B2B> AG2).('c3/ c/ |
+A2A> GF2F3/ A/ |
+G2c2c4) |
+.('F> F F> GA4 |
+G> G G> AB2).('d3/ d/ |
+c2A2B2E2 |
+F6) |]

@@ -1,0 +1,28 @@
+X: 6071
+T: Mars van Olstijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2074301000
+%%humdrum-veritas-data 2568176839
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2d2e f [I:setbarnb 1]|
+g2f2e f d e |
+a2).('A2d2e f |
+g2f2e f d e |
+c2).('B2c2d f |
+e2d c B A ^G B |
+A4) |
+.('a b e f [I:setbarnb 7]|
+g2f2g f g a |
+f2).('f2B2c2 |
+d2c2d c d e |
+c2).('d2e2f2 |
+g2a f g e f c |
+d4) |]

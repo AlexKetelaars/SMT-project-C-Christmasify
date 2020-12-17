@@ -1,0 +1,30 @@
+X: 8881
+T: Meisjes! als ge doove koolen Hebt gerakeld o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 598223
+%%humdrum-veritas-data 3680382661
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A> F G/ F/ G/ B/ |
+(A d) A) .('D/ E/ |
+F> G (A/ B// A// G/) F/ |
+E3z) |
+.('A> F G/ F/ G/ B/ |
+(A d) A) .('G/ F/ |
+E A c3/ B/ |
+A z) .('A A |
+B> A B3/ A/ |
+d2).('A F |
+D> D D E |
+F z) .('A A |
+B> A B3/ A/ |
+d2).('(c/ e/ d/) B/ |
+A> F F E |
+D2z2) |]

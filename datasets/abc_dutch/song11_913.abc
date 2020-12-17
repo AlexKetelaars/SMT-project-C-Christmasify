@@ -1,0 +1,26 @@
+X: 10912
+T: Ik ging laastmaal door stad op gemak, Al smo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 3821620377
+%%humdrum-veritas-data 2958063011
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2Ac2A |
+G A GF2).('G |
+A B c d e d |
+c2>-c2 z) |
+.('A [I:setbarnb 5]|
+c2cd2d |
+c B AG3) |
+.('G2GG2A |
+c B A G) .('A B |
+c d c (B A) G |
+F2>-F2 z) :|]

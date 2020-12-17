@@ -1,0 +1,33 @@
+X: 10827
+T: Bruid Ader en Heer Halewijn Het waren twee k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3478678080
+%%humdrum-veritas-data 3492729386
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('BA2A [I:setbarnb 1]|
+c2ce2e |
+e2).('d c B c |
+[M:9/8]e3d2d e> e d |
+[M:6/8]!fermata!B2).('AB2c |
+d2ed2c |
+[M:9/8]A3G2).('e/ e/e2e |
+d2c (B c) d(e2d) |
+[M:6/8](c2B)A3 |
+z2).('AB2c |
+[M:9/8]d2ed2cA2B |
+A3G2).('e/ e/e2e |
+d2c (B c) de2d |
+[M:6/8](c2B)A3 |
+z2).('A/ A/B2c |
+d2e d d c |
+[M:9/8]A3G2).('e/ e/ e d c |
+[M:6/8]B c de2d |
+(c2B)A3) |]

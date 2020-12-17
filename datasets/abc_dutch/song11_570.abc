@@ -1,0 +1,38 @@
+X: 10569
+T: Jannoa hier en Jannoa doar en Jannoa overal, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 2765916343
+%%humdrum-veritas-data 1760914390
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('GGG3/F/ |
+EEE3/D/ |
+CCDC |
+B,3z/) .('E/ |
+GGG3/F/ |
+EDC3/C/ |
+CCDE |
+F4) ||
+.('x3G, [I:setbarnb 10]|
+CCCD |
+EEEF |
+GGAG |
+E2zz/) .('E/ |
+GGFE |
+D2zz/ D/ |
+FFED |
+C4) |
+.('CCCD |
+EEEF |
+GGAG |
+E2zz/) .('E/ |
+GGFE |
+DD/ D/ED |
+C3) |]

@@ -1,0 +1,30 @@
+X: 9567
+T: Schaart, vrienden, u hier vroolijk om mij he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 1686169077
+%%humdrum-veritas-data 3766052518
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G3/GA/ |
+G3/-GF/ |
+EG/cE/ |
+E3/D3/) |
+.('G3/GA/ |
+G3/-GG/ |
+^FG/AG/ |
+E3 |
+z).('C/EG/ |
+c3/-cc/ |
+ed/cB/ |
+B3/A3/ |
+z).('F/ED/ |
+B3/-BA/ |
+AG/AG/ |
+C3/zz/) |]

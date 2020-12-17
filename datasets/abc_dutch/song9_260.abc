@@ -1,0 +1,26 @@
+X: 8259
+T: Moeder, ‘k weet met wien ik dans, met Franci [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 2521268153
+%%humdrum-veritas-data 453151351
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c2A2 |
+G> B A G |
+F2-F z |
+z2).('E F |
+G G F G |
+A2F z) |
+.('c2A2 |
+G> B A G |
+F2-F z |
+z2).('F A |
+c> c c c |
+F2-F z) |]

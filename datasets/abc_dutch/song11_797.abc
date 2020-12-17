@@ -1,0 +1,37 @@
+X: 10796
+T: Op eenen Drijkoningenavond, En op eenen Drij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3573268882
+%%humdrum-veritas-data 2658728513
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2B A |
+(G F) E D |
+(G2B2) |
+!fermata!A2).('c B |
+A2B c |
+d2c B |
+A2).('F G |
+A2B c |
+d2c B |
+!fermata!A) .('A A A |
+A d d c |
+B B d3/ B/ |
+(G2F2) |
+E2).('c3/ c/ |
+B4 |
+!fermata!A) .('G A B |
+c> A d c |
+B2c2 |
+d>) .('c B c |
+d> e d c |
+B2A2 |
+G2z2) |]

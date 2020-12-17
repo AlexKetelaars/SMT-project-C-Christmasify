@@ -1,0 +1,35 @@
+X: 2968
+T: Zie ginds in de wolleken Enen boer op z'n fiets.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 2346292857
+%%humdrum-veritas-data 4010590540
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2Bd |
+d>cB).('d/ d/ |
+c2Ac |
+B3).('d |
+d2Bd |
+d>cB).('d |
+c2AB |
+B3).('d |
+g2fe |
+d>cB).('d |
+de/ e/cd |
+B3).('d |
+g>gfe |
+d2B).('c/ c/ |
+decd |
+B4) |
+.('d>cB2 |
+b>ag2) |
+.('egfe |
+d3) |]

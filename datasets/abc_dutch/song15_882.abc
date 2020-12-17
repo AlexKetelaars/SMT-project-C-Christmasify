@@ -1,0 +1,38 @@
+X: 14881
+T: Das Glücke lag in letzten zügen Und wollte v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3730517156
+%%humdrum-veritas-data 3173242427
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=132
+K: G clef=treble
+.('ddd |
+(gf)e |
+(dc/ B/) (c/ A/) |
+B(A/ B/)G) |
+.('^cc(3(e/ d/ c/) |
+d2g |
+(f/ e/d)^c |
+d3) :|]
+.('dgf |
+(gf)e |
+^d2e |
+fe/ (^d/ ^c/) B/) |
+.('cBA |
+(GF)E |
+Bg/ f/ e/ ^d/ |
+e2).('g |
+B2d |
+(cd/ e/)d |
+(e/ d/c)B |
+AG/ F/ E/ D/) |
+.('gdB |
+(GD)c |
+(3(B/ A/ G/)A2 |
+G3) |]

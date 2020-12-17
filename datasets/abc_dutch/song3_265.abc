@@ -1,0 +1,22 @@
+X: 2264
+T: Moeder ik ben zo raar van binnen Moeder ik h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 325227061
+%%humdrum-veritas-data 3288962359
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D G/ G/ G G |
+F G A A) |
+.('D A/ A/ A A |
+G A B G) |
+.('B d c A |
+A cB2) |
+.('G B A E |
+F AG2) |]

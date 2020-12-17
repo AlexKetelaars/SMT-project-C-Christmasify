@@ -1,0 +1,39 @@
+X: 16387
+T: O min! wat lyd myn hart al pyn, Dat het myn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 4147318931
+%%humdrum-veritas-data 2073423671
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('z2z2e2 |
+c4B2 |
+A4E2 |
+G4F2 |
+E4).('^G2 |
+A4B2 |
+c4B2 |
+c4d2 |
+e4G2 |
+(FED4) |
+C6) |
+.('z2z2E2 |
+A4B2 |
+c4c2 |
+B4e2 |
+(c2B2)A2 |
+G4(^FE) |
+E6) |
+.('z2z2A2 |
+d4c2 |
+f4e2 |
+d4c2 |
+(_B2A2=B2 |
+c2B4) |
+A6) :|]

@@ -1,0 +1,31 @@
+X: 10845
+T: Berg Nederendale, daar staat e kasteel, En h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 2492201818
+%%humdrum-veritas-data 3606855696
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('c [I:setbarnb 1]|
+c2c A |
+B2!fermata!c) .('c |
+c2c d |
+c2-c z) |
+.('c2B A |
+B2c3/ c/ |
+c2c B |
+c2!fermata!B) .('A |
+A A B c |
+!fermata!B4) |
+.('c2c3/ c/ |
+c2!fermata!B) .('A |
+A2A B |
+c2!fermata!B2) |
+.('c2c3/ c/ |
+c2!fermata!B2) |]

@@ -1,0 +1,52 @@
+X: 17409
+T: Marsche Van De Guarde Te Voet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 3804114118
+%%humdrum-veritas-data 3036197523
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c2 [I:setbarnb 1]|
+f2(g a)g2(a b) |
+a2(g f)g2e2 |
+f2(e d)c2B2 |
+A2G AF2z2 |
+z) .('c e g a fc2 |
+c2e g e g b a |
+a g g f f e e d |
+d =B c dG2).('B2 |
+c2d ed2e f |
+e2f gf2g a |
+g2a f (3g a b a f |
+g4z2).('a2 |
+g2f e f e d e |
+c2d =Bc2d B |
+c4z2B2 |
+c6) |
+.('G2 [I:setbarnb 17]|
+c2d ed2e f |
+e2f gf2(3g a b |
+a2g f e f g a |
+f2e fd2a2) |
+.('b2B2A2a2 |
+g2G2F2d2 |
+e f (g a) g^c2d |
+d4z2).('F2 |
+A2F F A A c c |
+A2F F A A c c |
+f2_e2-e2d c |
+d2c dB2c2 |
+d d e f e e f g |
+f f g a g g a b |
+a2b ga2b g |
+a4z2).('b2 |
+a g f g2<g2e |
+f2g ef2g e |
+f4z2e2 |
+!fermata!f4) :|]

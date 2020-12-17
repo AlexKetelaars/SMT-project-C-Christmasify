@@ -1,0 +1,34 @@
+X: 7619
+T: No 43
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 1525832931
+%%humdrum-veritas-data 1950945013
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ABcB |
+cde2) |
+.('e(d/ c/)Bc |
+d(c/ B/)cA) |
+.('ABcB |
+cde2) |
+.('e(d/ c/)BA |
+B^GA2) |
+.('Bcdd |
+dd!trill!!trill!d2) |
+.('defe |
+ede2) |
+.('Bcdc |
+BA^GE) |
+.('Bcdc |
+BA^GE) |
+.('ABcB |
+cd!trill!!trill!e2) |
+.('e(d/ c/)BA |
+B^GA2) :|]

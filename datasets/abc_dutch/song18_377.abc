@@ -1,0 +1,28 @@
+X: 17376
+T: La Petite Amoureuse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 4161905588
+%%humdrum-veritas-data 1738042274
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('dd/ e/ [I:setbarnb 1]|
+fe/ d/ec |
+dAd/ c/ d/ e/ |
+f(e/ d/)ec |
+d2) |
+.('ee/ f/ [I:setbarnb 5]|
+gfed |
+c/ B/ c/ d/ed |
+g2f2 |
+e2).('ee/ f/ |
+gfed |
+c/ B/ c/ d/ed |
+g2{f}e2 |
+!fermata!d2) :|]

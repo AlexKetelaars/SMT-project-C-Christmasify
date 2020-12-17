@@ -1,0 +1,53 @@
+X: 16170
+T: Blanke handjes, witte tandjes, zilvre lokjes [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 317486517
+%%humdrum-veritas-data 4268685649
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+.('(G A) B |
+(A B) c |
+(B A) G |
+(^F E) D) |
+.('(G A) B |
+(A B) G |
+d2d |
+d3) |
+.('(d c) B |
+(A B) c |
+A2G |
+G3) |
+.('(B c) d |
+(d c) B |
+(f e) c |
+(d c) B) |
+.('(d c) B |
+(A B) A |
+(G A) G |
+^F3) |
+.('(G A B) |
+(c B) A |
+B2B) |
+.('(d c) B |
+(A B) c |
+A2G |
+G3) |
+.('(G/ A/ B/ G/ A/ B/ |
+c3 |
+A/ B/ c/ A/ B/ c/ |
+d3 |
+d/ e/ d/ c/ B |
+c/ d/ c/ B/ A |
+d/ c/ B/ A/ G |
+G/ A/ B/ c/ d)) |
+.('(e d) c |
+(d G) A |
+A2G |
+G3) :|]

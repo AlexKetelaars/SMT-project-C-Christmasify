@@ -1,0 +1,40 @@
+X: 16406
+T: Lauraes Droom liet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 3610432725
+%%humdrum-veritas-data 2440091950
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('E>FG2 |
+zcBA |
+^G4) |
+.('A>BcE |
+AGF2 |
+E2).('e3/e/ |
+dGc/ B/ A/ G/ |
+A/ B/ c/ d/e2) |
+.('c3B |
+A2G2 |
+FED2 |
+C4) |
+.('c>c B/ c/ d/ B/ |
+G/ A/ B/ G<AB/ |
+cB/ A/B2 |
+c2).('F2- |
+FEAG |
+FED2) |
+.('E>FGG |
+AE^F2 |
+G2).('B3/G/ |
+c3A |
+G>EF2 |
+E2).('E3/^F/ |
+^GAAG |
+A4) :|]

@@ -1,0 +1,27 @@
+X: 9687
+T: Ik voer laatst over zee, Ga, je mee?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 4166770268
+%%humdrum-veritas-data 3578688311
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+FFFG |
+AA/ G/F).('F/ A/ |
+ccBB |
+A3).('F |
+ddfd |
+c>dcz) |
+.('AA/ A/GG/ G/ |
+CCC3/).('C/ |
+FFAA |
+(c>dc)).('B |
+AAGG |
+F3) |]

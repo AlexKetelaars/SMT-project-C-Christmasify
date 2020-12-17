@@ -1,0 +1,23 @@
+X: 1084
+T: Zeg meisjelief waar weent gij om Ach om een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 3489910712
+%%humdrum-veritas-data 1087600042
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GA/Bc/ |
+BA/G).('B/ |
+Ad/ (e/ f/) e/ |
+d3/-d).('d/ |
+fe/gf/ |
+ee/d).('B/ |
+ed/Ad/ |
+G3/-G) |]

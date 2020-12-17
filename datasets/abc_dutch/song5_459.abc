@@ -1,0 +1,27 @@
+X: 4458
+T: Hoort boerendochters allen in het rond Hetge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 352218751
+%%humdrum-veritas-data 2542314295
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2B2B2A2 |
+G G F ED2).('G2 |
+F2G Ac2B2 |
+B2A4).('D2 |
+G2B2B B A A |
+G G F ED2).('F3/ G/ |
+A2B dc2B B |
+B2A4-A) .('B |
+(3:2:4d2 d d2 BG2(3:2:2A2 B |
+(3:2:4c2 B c2 BA4) |
+(3:2:2.('G2 G F ED2c c |
+B2A AG2) |]

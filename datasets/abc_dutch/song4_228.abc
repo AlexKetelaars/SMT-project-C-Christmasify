@@ -1,0 +1,23 @@
+X: 3227
+T: Ik stond op de bergen en ik buigde mij neder [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 4109640720
+%%humdrum-veritas-data 9623046
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B A/ A/ [I:setbarnb 1]|
+G2G G/ G/ F G/ G/ |
+(A d)d2).('c B |
+[M:4/4]A2A2A> A G A |
+[M:3/4]B2z2).('d d |
+e2e2d B |
+e2d2).('c B |
+(A d)d2e d |
+G4) |]

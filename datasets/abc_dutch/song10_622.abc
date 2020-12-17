@@ -1,0 +1,33 @@
+X: 9621
+T: Hier is de meid, Bazinne van minne zoo zoet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3922802151
+%%humdrum-veritas-data 1050528691
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('B A GF2F |
+G G G A A c |
+G3z2).('F |
+d2cB2A |
+G3F2).('F |
+G G G A A c |
+G2>z2) .('F F |
+d d c B B A |
+G3F2).('F |
+G G G A A c |
+G3z2).('F |
+d2cB2A |
+G3F2).('F |
+G G G A A c |
+G2>z2) .('F F |
+d2c c B A |
+G3F2).('F |
+G G G A A A |
+B3z2z) |]

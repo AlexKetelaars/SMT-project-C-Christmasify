@@ -1,0 +1,32 @@
+X: 7652
+T: Morki
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 2129747819
+%%humdrum-veritas-data 3185949980
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('F2E DA2A2 |
+A2>{A B c} d2c4) |
+.('c3(d/ e/)G2G2 |
+G B A GF2E D |
+A2G FB2A G |
+A2d2G4) |
+.('F2d2E d (3c d e |
+A2c2d4) |
+.('f2d2A2f d |
+e2c2A2d c |
+B2c2d c B A |
+^G A B GE4) |
+.('c2c Ad2d B |
+c2c AB2^G E) |
+.('c2c Ad2d B |
+c2c Ae4) |
+.('e2f ^g a c d e |
+c2B AA4) |]

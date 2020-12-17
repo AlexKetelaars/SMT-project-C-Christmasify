@@ -1,0 +1,33 @@
+X: 4969
+T: Wilhelmus van Nassouwe, ben ick van duytsche [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2453791759
+%%humdrum-veritas-data 2891979451
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GG(A/ B/) (c/ A/) |
+BA/) .('B/cB |
+(A/ G/)Ax2 |
+G3).('D |
+GG(A/ B/) (c/ A/) |
+BA/) .('B/cB |
+(A/ G/)Ax2 |
+G3).('(B/ c/) |
+[M:3/4]d2e |
+d2c |
+BA/) .('B/c |
+BAG |
+A2).('D |
+(G/ F/ G/ A/)B |
+A2G |
+FD).('E/ F/ |
+GGF |
+G3) |]

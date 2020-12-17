@@ -1,0 +1,27 @@
+X: 11018
+T: Van die wilt hooren een nieuw lied, Van wat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3038203605
+%%humdrum-veritas-data 1606940843
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G (B G) B |
+d2dB2).('B |
+c d c A G A |
+G2>z2) .('B c |
+d2d B c d |
+d2c c) .('B c |
+A2A A G A |
+B2G!fermata!G2).('D |
+G2G (B G) B |
+d2dB2).('c |
+B c B A B A |
+G2>z2 z) |]

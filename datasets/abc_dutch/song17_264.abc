@@ -1,0 +1,42 @@
+X: 16263
+T: Ach ongelukkige! die staag begeer, ‘t geen m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3242852912
+%%humdrum-veritas-data 1292351022
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d2B2(AG) |
+!trill!!trill!^F>ED3z) |
+.('!trill!!trill!d2d2(cd) |
+e4).('d2 |
+!trill!!trill!c4B2 |
+!trill!!trill!A4A2) |
+.('d2g3d |
+e2e2c2 |
+c2>).('c2d3/A/ |
+B2>B2!trill!!trill!A3/G/ |
+^F6) :|]
+.('A2d3A |
+=B2>B2cd |
+G4d2 |
+e2>).('e2fg |
+=B6 |
+c2c4 |
+(c/ d/e2<)!trill!!trill!d2c |
+c4).('c2 |
+A4A2 |
+d4d2 |
+d4c2 |
+c4d2 |
+=B2>).('d2Bd |
+G6 |
+e2e2(dc) |
+!trill!!trill!B4(AG) |
+G6) :|]

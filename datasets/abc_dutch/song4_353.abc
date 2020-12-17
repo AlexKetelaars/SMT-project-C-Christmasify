@@ -1,0 +1,41 @@
+X: 3352
+T: In het Haagje woont een man Die er heel goed [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 252930155
+%%humdrum-veritas-data 2597692649
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2G [I:setbarnb 1]|
+G2GG2A |
+G2G).('d2d |
+d d dB2G |
+A2).('z/ D/D2F |
+G2GG2A |
+G2G).('d2d |
+d d dB2G |
+A3).('d3 |
+B2AG2B |
+A3).('d3 |
+B2AG2G |
+A3).('G2G |
+A2Ad2d |
+B2A).('G2G |
+A2>(G2 F) E |
+D3).('G2G |
+A A A d d d |
+B2B).('c2e |
+d2d (c B) A |
+G3).('G2G |
+A3G2B |
+A3).('G2G |
+A ^G A d d d |
+B2B).('c2c |
+B2G (A G) F |
+G2) |]

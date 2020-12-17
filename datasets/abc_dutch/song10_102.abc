@@ -1,0 +1,70 @@
+X: 9101
+T: Komt, vrouwkes wil bemerken en hoe dat ik nu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3717374057
+%%humdrum-veritas-data 1889813908
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2B |
+B2B |
+G3 |
+G3- |
+G G G |
+A2c |
+e2d |
+d2B |
+d3- |
+d) .('D G |
+B2B |
+B2B |
+G3 |
+G3- |
+G2G |
+A2c |
+e2d |
+G3- |
+G2).('G |
+A2A |
+B2B |
+d3 |
+c3- |
+c2c |
+B2B |
+c2B |
+B2A |
+A3- |
+A2).('d |
+^c2c |
+^c2c |
+e2e |
+d2B |
+A2G |
+F2E |
+D) .('B B |
+B2B |
+B3- |
+B B e |
+e2e |
+d3- |
+d z) .('B |
+A B c |
+c2c |
+B2B |
+B2B |
+B3- |
+B B B |
+e2e |
+d3- |
+d z) .('B |
+A A A |
+(c B) A |
+G3- |
+G z) |]

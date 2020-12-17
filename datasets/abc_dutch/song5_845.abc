@@ -1,0 +1,22 @@
+X: 4844
+T: Ik sjouw haile doagen deur de haile stad. Om [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 1631239737
+%%humdrum-veritas-data 1684564339
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D G G GB2G2 |
+D G F A2<G2).('D |
+G> G G GB2G2 |
+D G F AG4) |
+.('d d d de2A2 |
+c c (B c)d2G2) |
+.('G G G AB2G G |
+D> G F AG4) |]

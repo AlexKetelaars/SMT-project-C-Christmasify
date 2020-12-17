@@ -1,0 +1,35 @@
+X: 9103
+T: Nu ben ik hier alleen in ‘t jeugdig groen. W [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 4195182924
+%%humdrum-veritas-data 710637174
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A A B [I:setbarnb 1]|
+A2>D2 D C C B, |
+A,4-A, A A B |
+A4).('B, B, C D |
+E2A,2z A, A, A, |
+D4-D D E F |
+E4-E) .('A, A, B, |
+A,2G2F2C2 |
+E2D4z2 |
+C2z2z E E E |
+D2B,2z4) |
+.('C2z2z E E E |
+D2B,2z B, B, B, |
+D4-D D A G |
+F4-F) .('F G F |
+(E2>C2) A, G, C E |
+D4-D D G F |
+E4E F G A |
+B4z) .('B, B, =C |
+D2>G2F3G |
+G6z2) |]

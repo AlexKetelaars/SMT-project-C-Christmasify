@@ -1,0 +1,39 @@
+X: 969
+T: Het was op Elandslaagte een zonnige dag Daar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 3968097821
+%%humdrum-veritas-data 3808676950
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D B, C D D D |
+D B, DG2).('G |
+G F G A, F3/ E/ |
+D G B,D2).('B, |
+B, G, B, D D3/ D/ |
+C E G (G F3/)) .('E/ |
+D G A B B D |
+A A> FG2).('G |
+F F> G A C C/ C/ |
+C E> DD2).('D |
+c B A (G F) E |
+(D G) B,D2).('D |
+D D DD2D/ D/ |
+C E G (G F3/)) .('E/ |
+D G A B B D/ D/ |
+A A> FG2).('G |
+F F> G A C C/ C/ |
+C E> DD2).('D |
+c B A G F E |
+D G B,D2).('D |
+D D DD2D/ D/ |
+C E G (G F3/)) .('E/ |
+D G A B B D |
+A A> FG4) |]

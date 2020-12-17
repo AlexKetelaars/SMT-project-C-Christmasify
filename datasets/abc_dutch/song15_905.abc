@@ -1,0 +1,30 @@
+X: 14904
+T: Allen Schönen zu gefallen Das geht beijnah u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 4054641793
+%%humdrum-veritas-data 464574369
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('f4(3f g a |
+d4(3d e f |
+B4(3B c d |
+{A}G4F2) |
+.('E2e2g2 |
+f2(e d c B) |
+(A d)F2E2 |
+D6) |
+.('f4(3d e f |
+(e2c2)A2 |
+(d2B2)^G2 |
+(c2A2)E2) |
+.('e2a2^g2 |
+a2(^g f e d) |
+(c B)A2^G2 |
+A6) :|]

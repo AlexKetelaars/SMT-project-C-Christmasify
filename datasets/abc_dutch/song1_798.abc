@@ -1,0 +1,23 @@
+X: 798
+T: Daar vloog eenen ruiter al door dat bosch en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2948572902
+%%humdrum-veritas-data 851277955
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('G G A G [I:setbarnb 1]|
+G A F (F E) F |
+E2).('E/ G/ (B c) B |
+G c B (=A B c) |
+G2zz2).('G/ G/ |
+G A B c B c |
+(G> F) Ez2).('D/ E/ |
+F A G G A F |
+G3C2z) |]

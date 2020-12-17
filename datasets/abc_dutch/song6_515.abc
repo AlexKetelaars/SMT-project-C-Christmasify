@@ -1,0 +1,33 @@
+X: 5514
+T: Des winters als het reghent, Dan sijn de pae [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 672999875
+%%humdrum-veritas-data 463723689
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2GA2B |
+c3c2).('c |
+d2d (f e) d |
+(d c) ff2).('c |
+c2BB2B |
+B2AA2z) |
+.('c d c (c B) A |
+G2z) .('C D E |
+F2F G F G |
+A2A) .('A G A |
+B2B B A B |
+d6 |
+c2z) .('c d e |
+f e d d c B |
+d6 |
+c2z).('B2B |
+A2AG2G |
+F3z2) |]

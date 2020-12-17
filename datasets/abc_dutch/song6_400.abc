@@ -1,0 +1,41 @@
+X: 5399
+T: In ‘t ruisschen der boomen, Daar ‘t vogeltje fluit
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 86144963
+%%humdrum-veritas-data 2666094843
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('d [I:setbarnb 1]|
+d>cd |
+BGg |
+g>a^f |
+g2).('G |
+B>AG |
+d2d |
+g>ab |
+a>(gf) |
+=e>d^c |
+d2x) |
+.('d>cd |
+e2d |
+c>Bc |
+d3) |
+.('d=e^f |
+gab |
+(c>B)A |
+B3) |
+.('d>cB |
+c3 |
+BAG |
+d3) |
+.('d=e^f |
+gab |
+a>g^f |
+g3) :|]

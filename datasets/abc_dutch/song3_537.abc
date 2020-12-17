@@ -1,0 +1,24 @@
+X: 2536
+T: Er zouden eens drie jagers uit het jagen gaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 2077003208
+%%humdrum-veritas-data 1744594003
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 12/8
+Q: 3/8=80
+K: G clef=treble
+.('B,/ [I:setbarnb 1]|
+DD/B,C/DD/B,C/ |
+D3/B3/G3/-G).('G/ |
+AG/FG<AB3/ |
+A3/GE<D-D).('D/ |
+DD/BA<G-G).('G/ |
+EF/GE<D-D3/ |
+B,3/-B,3/z3/z).('B,/ |
+A,B,/CD/EG/FA/ |
+(G3/F3/)G3/-G) |]

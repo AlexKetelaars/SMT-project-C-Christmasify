@@ -1,0 +1,60 @@
+X: 14703
+T: Marsch Henrij IV
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 3144676207
+%%humdrum-veritas-data 2172051305
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=132
+K: C clef=treble
+.('c4E2F2 |
+G2>A2G4 |
+A2>c2B2d2 |
+c2>d2e2g2 |
+f2g fe2d2 |
+c B A Bc4) |
+.('g2g g g e a g |
+f2G> GG4 |
+f2f f f d g f |
+e2c> cc4) |
+.('e2e e e c e g |
+^f2f f f d f a |
+g d g b a d a c' |
+b a g ^f g f e d |
+e c B cd2^f2 |
+g2g> gg4) |
+.('g4B2c2 |
+d2e2g f e d |
+g4c2d2 |
+e2f2a g f e) |
+.('a c c c c B/ c/ c B/ c/ |
+a c c c c B/ c/ c B/ c/ |
+g2d e g f e d |
+e2e f a g f e) |
+.('g2d e g f e d |
+e2e f a g f e |
+d2g f d g B d |
+G2>A2 G F E D) |
+.('c4E2F2 |
+G2>A2G4 |
+A2>c2B2d2 |
+c2>d2e2g2 |
+f2g fe2d2 |
+e d c dc4) |
+.('g2g g g e a g |
+f2G> GG4 |
+f2f f f d g f |
+e c c cc'2a2) |
+.('g c c cc'2a2 |
+g g g a_b4 |
+a b b c' c' g a f |
+e g e c!trill!!trill!d4) |
+.('c2>c2 e c g e |
+c2>c2 e c g e |
+c2c'> c'c'2c'2 |
+c'8) |]

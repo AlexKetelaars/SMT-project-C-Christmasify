@@ -1,0 +1,55 @@
+X: 5435
+T: Gun ô Vorstin, van myn ziel en van myn zin,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 3935234054
+%%humdrum-veritas-data 3335640805
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('z2f3g |
+a2e3a |
+d2d3e |
+c2>B2A2 |
+z2).('f3g |
+a2e3a |
+d2d3e |
+f2e3).('d |
+d2d3f |
+e2A3).('A |
+d2B3B |
+e2c3).('a |
+f2d3f |
+e2A3).('A |
+d4d2 |
+d2(c3B/ c/ |
+d2)A3).('A |
+A2>A2 B c |
+d2d3d |
+(e d e f g a |
+f2)).('A3A |
+A2>A2 B c |
+d2>).('c2 d e |
+f2e3d |
+d2).('f a g f |
+e2).('e g f e |
+(d c d e f g- |
+g6) |
+z2).('f a g f |
+e2).('e g f e |
+(d c d e f g |
+a2)e3d |
+d2).('f g f g |
+a2a3a |
+(b a g f e d |
+f2)e2).('f g |
+f2).('f g f g |
+a2a3a |
+(b a g f e d)) |
+.('f2e3d |
+d6) :|]

@@ -1,0 +1,31 @@
+X: 6171
+T: Laat ons te samen vroolijk zijn, De hemel za [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2201604418
+%%humdrum-veritas-data 3165382874
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+B2GG2B |
+(c d) eB2).('B |
+B2GG2G |
+(F G) AG2).('B |
+B2B (G E) G |
+G3F2).('B |
+B2B (G E) G |
+G3F2).('G |
+B c BB2e |
+(f e) de2).('B |
+B c B B A G |
+F2AG2).('B |
+B2>B2 c d |
+e3c2).('c |
+(c d) ec2A |
+B3E3) |]

@@ -1,0 +1,21 @@
+X: 3037
+T: Anna vroeg aan hare papa of zij met heer Alb [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 3495783779
+%%humdrum-veritas-data 3185945251
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2d (d c) B |
+B A AA2).('B |
+G G G B A G |
+G> F FD3) |
+.('B2>B2 A G |
+c3B2G |
+A B AG3) |]

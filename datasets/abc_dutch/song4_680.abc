@@ -1,0 +1,25 @@
+X: 3679
+T: IJn Oereterp dêr is in fint Dij is mei 't fr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 3131435083
+%%humdrum-veritas-data 1345468589
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/GB/ |
+dd/d).('c/ |
+BA/ed/ |
+cd/B).('d/ |
+ee// e//ee/ |
+d3/d).('B/ |
+cc/ec/ |
+BB/B).('B/ |
+AA/dd/ |
+A3/G) |]

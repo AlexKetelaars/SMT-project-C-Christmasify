@@ -1,0 +1,27 @@
+X: 5324
+T: Hier achter in de Ridderstraat Daar woont ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 2447809620
+%%humdrum-veritas-data 254936238
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2FA2G |
+F2FG2).('A |
+B2AB2d |
+c3z2).('A |
+B2AB2c |
+d3d3) |
+.('c2>(c2 B) A |
+G G GG2).('A |
+B2AB2c |
+d2>(d2 c)) .('B |
+A2A (G F) G |
+F3z2) |]

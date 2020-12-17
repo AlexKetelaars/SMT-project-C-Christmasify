@@ -1,0 +1,34 @@
+X: 11059
+T: ô Zuivre Zon! ach! welk een Hémelstraal, Str [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1781126239
+%%humdrum-veritas-data 559896745
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A>Bc2 |
+zeg(f/ e/) |
+d>dd2) |
+.('zec3/d/ |
+e(d// c// B/)B2 |
+A2x2) |
+.('xec3/d/ |
+e>e(g3/f// e//) |
+d>dd2) |
+.('zed3/c/ |
+B>Bd3/(c// d//) |
+B>BA-A) |
+[M:19/16].('zed/> e/f3/d// |
+[M:2/2]e).('cd/> e/ f3// g// |
+ecd/> e/ f3// e// |
+d2c2) |
+.('zed3/c/ |
+B>Bd(c/ d/) |
+B>BA) |]

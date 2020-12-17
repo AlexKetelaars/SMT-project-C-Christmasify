@@ -1,0 +1,36 @@
+X: 14831
+T: Walzer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 2908234734
+%%humdrum-veritas-data 692272952
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('(E/ F/) [I:setbarnb 1]|
+G2G G A B |
+c2GG2(e/ g/) |
+!wedge!f (f/ e/) !wedge!f !wedge!e (e/ d/) !wedge!e |
+(d g) gg2).('(E/ F/) |
+G2G G A B |
+c2GG2(e/ g/) |
+!wedge!f (f/ e/) !wedge!f !wedge!d (d/ c/) !wedge!d |
+c c cc2) ]|:
+.('G [I:setbarnb 9]|
+F2ED2F |
+E2cG2G |
+G F ED2F |
+E2cG2).('G |
+(G e) !wedge!d (c B) !wedge!c |
+A2>(f2 e) !wedge!d |
+c3B3 |
+c c/ B/ c/ d/ e e/ d/ e/ g/ |
+f f/ e/ f d d/ c/ d |
+c c/ B/ c/ d/ e e/ d/ e/ g/ |
+f f/ e/ f d d/ c/ d |
+c c' c'c'2) :|]

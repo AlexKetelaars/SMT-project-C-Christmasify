@@ -1,0 +1,41 @@
+X: 14732
+T: La dernière pensée de Weber
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 592351502
+%%humdrum-veritas-data 3102881824
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(d g) [I:setbarnb 1]|
+(g f) (f A) (c e) |
+(e d) (d D) (G B) |
+(B A) (B A) (B A) |
+(G B) (B d)) .('(d g) |
+(g f) (f A) (c e) |
+(e d) (d D) (G B) |
+(B A) (B A) (B A) |
+G2z2) |
+.('(B e) [I:setbarnb 9]|
+(e ^d) (d B) (d f) |
+(f e) (e B) (e g) |
+(g f) (f B) (f a) |
+(a g) (g e)) .('(B e) |
+(e ^d) (d B) (d f) |
+(f e) (e B) (e g) |
+(g f) (f ^e) (f g) |
+e2z2) ||
+[K:D] .('(A G) [I:setbarnb 17]|
+F2>F2 (A/ G/ F/ G/) |
+(B2A) z (d f) |
+(f e) (f e) (f e) |
+(d f) (d A)) .('(^G =G) |
+F2>F2 (A/ G/ F/ G/) |
+(B2A) z (d f) |
+(f e) (f e) (f e) |
+d4) :|]

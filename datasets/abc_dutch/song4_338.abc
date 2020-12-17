@@ -1,0 +1,32 @@
+X: 3337
+T: En dan heb ik nog een allerliefste broeder m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 3355565954
+%%humdrum-veritas-data 4003579059
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B/ c/ [I:setbarnb 1]|
+d/ d/ d/ d/ d/ c/ B/ A/ |
+GDD).('B/ c/ |
+dde/ d/ c/ B/ |
+BAA).('B |
+E2EB/ B/ |
+E2E).('B |
+[M:5/4]B/ B/ B/ B/ B/ B/ B/ B/ B/ B/ |
+[M:3/4]d>dc |
+B2z) |
+.('A2A |
+AGA |
+B2A |
+G3) |
+.('(Bc)d |
+eed |
+(cB)A |
+Gz) |]

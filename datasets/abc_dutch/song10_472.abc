@@ -1,0 +1,29 @@
+X: 9471
+T: Wat groeit er meest in onzen hof? Ajuin! Wat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 1578273144
+%%humdrum-veritas-data 2124482685
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+C2> F2 F3 A |
+A2> G2 G2 z) .('B |
+A4z2 z) .('C |
+C2> F2 F3 A |
+A2> G2 G2 z) .('B |
+A4z2 z) .('A |
+c2> c2 c3 c |
+c2> B2 B3) .('B |
+A2> A2 c3 A |
+A2> G2 G2 z) .('c |
+A2> A2 G3 G |
+F4).('G4 |
+A2> A2 G3 G |
+F4z4) |]

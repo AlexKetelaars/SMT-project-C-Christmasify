@@ -1,0 +1,29 @@
+X: 7313
+T: Den uyl die op den peerboom zat, En boven zy [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2841813754
+%%humdrum-veritas-data 3999645332
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2EF2G |
+A2G F z) .('A |
+A2GA2B |
+c2B A z) .('c |
+c c cc2A |
+B B BB2).('G |
+A A A A G F |
+G G G G z) .('c |
+c c cc2A |
+B B B B !fermata!z) .('B |
+c3B3 |
+A3z2A |
+A3G3 |
+F3-F2z) |]

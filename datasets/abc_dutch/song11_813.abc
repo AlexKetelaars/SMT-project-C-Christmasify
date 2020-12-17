@@ -1,0 +1,31 @@
+X: 10812
+T: Wat zag ik van verre met haar twee bruine oo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1704519966
+%%humdrum-veritas-data 388987327
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+FEG |
+FEF |
+G(c/ B/) A/ A/ |
+(G/ E/)C).('(C/ E/) |
+GGG |
+ABd |
+cBA |
+G2).('G |
+[M:4/4](A/ B<)cB/ A3// A// |
+[M:3/4](GF)E |
+DAG |
+FE).('G3// G// |
+CEG |
+cBA |
+GFD |
+C2) |]

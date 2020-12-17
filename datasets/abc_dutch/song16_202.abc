@@ -1,0 +1,31 @@
+X: 15201
+T: Kom Volkje, koop bij mij enz.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2348873608
+%%humdrum-veritas-data 2182455326
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2AB2A |
+F3z2A |
+A2EG2F |
+D3).('z2F |
+F2F F E D |
+A2>A2 z F |
+F2F F E D |
+A3-A2).('A |
+c B A c B A |
+d2>e2 d B |
+A2AA2G |
+F3z2).('A |
+c2c c B A |
+d2>d2 c B |
+A B A G F E |
+D3z2) |]

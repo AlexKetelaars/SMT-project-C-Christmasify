@@ -1,0 +1,30 @@
+X: 17525
+T: De Malle moolen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 2446192178
+%%humdrum-veritas-data 3324701213
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=132
+K: C clef=treble
+.('G2G2c2c2 |
+d c B AB2G2 |
+c2d2e2d e |
+f e d cd4) |
+.('e2f2g2d e |
+f e d cB2G2 |
+c2B cA2G2 |
+^F G A FG4) |
+.('E2F2G F G A |
+G2c2G2F2 |
+E2F2G F G A |
+G2c2G4) |
+.('c2d2e2d e |
+f e d cB2G2 |
+g f e de2d c |
+B c d Bc4) :|]

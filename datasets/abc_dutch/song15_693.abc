@@ -1,0 +1,32 @@
+X: 14692
+T: Nieuwe Walz’
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 37756316
+%%humdrum-veritas-data 2460769743
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2(d// c// B// c//) |
+e c c |
+f d d |
+d2).('G |
+d2(e// d// ^c// d//) |
+f d d |
+g a b |
+c'2) |
+.('g [I:setbarnb 9]|
+e' d' c' |
+c' b a |
+g a b |
+c' e' g |
+e' d' c' |
+c' b a |
+g a b |
+c'2) ||

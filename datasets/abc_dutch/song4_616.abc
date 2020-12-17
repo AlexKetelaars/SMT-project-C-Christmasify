@@ -1,0 +1,23 @@
+X: 3615
+T: Wij reizen naar Frankrijk En dat valt oh [on [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 3078891386
+%%humdrum-veritas-data 4021677851
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+D2B,2D2 |
+D2!fermata!B2).('A A |
+G2>A2 B B |
+A4).('A B |
+c2>c2 d c |
+B2>A2) .('G3/ G/ |
+A2G2F3/ F/ |
+G4) |]

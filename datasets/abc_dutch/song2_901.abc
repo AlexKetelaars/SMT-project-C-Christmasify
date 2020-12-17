@@ -1,0 +1,25 @@
+X: 1900
+T: Foeke foeke rommelpot 'k Heb zo lang met de  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 2879250039
+%%humdrum-veritas-data 2622609590
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d d e e d dB2) |
+.('d> d e e/ e/ d/ d/ d/ d/ B G) |
+.('d d e e d d B G) |
+.('=f/ f/ f/ f/f2e/ e/ e/ e/e2) |
+.('d d e e/ e/ d/ d/ c c) .('G |
+d d e ed2c) .('G |
+d d e ed2B) .('G |
+=f f f f e e e) .('c |
+d d e e d/ B/ B/ B/ c) .('G |
+=f f f fe2e) .('c |
+d d e ed2c z) |]

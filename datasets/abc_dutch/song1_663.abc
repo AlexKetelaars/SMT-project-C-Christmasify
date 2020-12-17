@@ -1,0 +1,15 @@
+X: 663
+T: Die Heer tot minen Heere, Die sprac met clae [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1155448893
+%%humdrum-veritas-data 2592656954
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=bass
+.('F,4F,2F,2A,2G,2C4C4z2).('C2G,4A,2C4B,2(C2>B,2A,G,2<F,2E,E,D,C,4)z2).('C2C2C2A,2B,4C2A,4F,4).('A,4G,2C4B,2G,4F,4) |]

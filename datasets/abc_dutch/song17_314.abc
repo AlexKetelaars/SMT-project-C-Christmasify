@@ -1,0 +1,36 @@
+X: 16313
+T: Het minnen is geen zonden, En ‘t drinken is  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2551257199
+%%humdrum-veritas-data 1048502822
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F2 [I:setbarnb 1]|
+A2 (G F) c2 d2 |
+d4c2) .('B2 |
+A2 (G F) (A G) (F E) |
+{E2}F6).('A2 |
+A2 d2 d2 c2 |
+c4(=B c)) .('(d e) |
+f2 (f e) f2 f2 |
+(f e) f2 z2) .('(d e/ f/) |
+(e c) (f d) (e c) (d =B) |
+c4z2) |
+.('c2 [I:setbarnb 11]|
+e2 (d c) g2 B2 |
+(B2 A) B A2) .('d2 |
+(^c d) (e f) g2 (f e) |
+{e2}f6).('(d c) |
+(=B c) (d e) f2 (e d) |
+{d2}e6).('G2 |
+A2 (G F) B2 (A G) |
+(c B) (A G) F) .('c f e |
+d2 (c B) A2 G2 |
+F6) :|]

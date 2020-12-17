@@ -1,0 +1,23 @@
+X: 2506
+T: Daar had eens een meisje water gehaald Al in [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 430815048
+%%humdrum-veritas-data 3047942560
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GG/ G/cc |
+BA/ A/G).('A |
+BBcc |
+B2A2) |
+.('dd/> d/ed |
+B/ B/ G/ B<d).('A/ |
+B(G/ B/)dA3// B// |
+A2G2) |]

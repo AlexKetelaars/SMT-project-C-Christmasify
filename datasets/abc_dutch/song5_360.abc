@@ -1,0 +1,23 @@
+X: 4359
+T: Er was een reine maagdeke vroeg opgestaan Om [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 778980958
+%%humdrum-veritas-data 3178317324
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('c [I:setbarnb 1]|
+d d d> d d e d c |
+[M:3/4]B A2<G2).('g |
+[M:4/4]a a g> g f f e f |
+[M:9/8]g f e2<d2-d) .('d e |
+[M:4/4]g G d d(g2f) e |
+(d2g2)B2z) .('d |
+[M:3/4]c d e f g3/ c/ |
+[M:4/4](B2A2)G3) |]

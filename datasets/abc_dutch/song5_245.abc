@@ -1,0 +1,31 @@
+X: 4244
+T: Mien moeke wol mie geven Ain bakker met geweld.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 4235808624
+%%humdrum-veritas-data 892948668
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G |
+G2G) .('G |
+B B A G |
+F3).('F |
+F/> F/ F F F |
+(F A) A) .('A |
+d c B A |
+G2).('!fermata!d2 |
+B d d d |
+e e/ e/ d) .('d |
+B d d d |
+e d d) .('G |
+G G G B |
+d3).('e |
+d c B A |
+G3) |]

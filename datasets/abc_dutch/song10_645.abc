@@ -1,0 +1,30 @@
+X: 9644
+T: Alle die willen naar Island gaan, Om kabelja [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 1105623082
+%%humdrum-veritas-data 1526741875
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('A4A3 B |
+c4c3 d |
+e4d4 |
+c6z) .('d |
+e2> d2 c3 B |
+A2> B2 c3 d |
+e2> d2 c3 B |
+A4^G2 z) .('E |
+A2> B2 c3 A |
+B2> c2 d3 B |
+c4d3 d |
+e6z) .('c |
+d2> c2 d3 e |
+f2> e2 d3 c |
+c4B4 |
+A4z4) |]

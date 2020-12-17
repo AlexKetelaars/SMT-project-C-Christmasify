@@ -1,0 +1,41 @@
+X: 5662
+T: De boerkens smelten van vreugd en plezier Al [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 1012982963
+%%humdrum-veritas-data 3975215628
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2A B c d |
+G G G G) .('B B |
+(B c) d d c B |
+A3D2).('D |
+G2A B c d |
+G G G G) .('d c |
+(B A) G D E F |
+G2>z2 z) .('A |
+B2BB2A |
+B2cd2).('G |
+F F E F F E |
+F2GA2).('A |
+A A A A A A |
+A A A A A) .('A |
+B2A G E A |
+D2>z2 z) .('D |
+G G G G G F |
+F2EE2).('E |
+c c c B B B |
+A A dd2).('B |
+d d dc2c |
+B A BA2).('B |
+d d d c c c |
+B A B A) .('d c |
+B A G D E F |
+G2>z2 z) |]

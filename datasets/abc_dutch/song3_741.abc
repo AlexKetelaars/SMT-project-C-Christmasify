@@ -1,0 +1,46 @@
+X: 2740
+T: D’r heit er laatst in de krant esteen Tralie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 2699756339
+%%humdrum-veritas-data 3201137037
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G D G (B G) B |
+d2dd2).('D |
+D2DD2B |
+G3-G2).('D |
+G D G B G B |
+d d dd2).('B |
+A B A G F E |
+F2>).('G2 A B |
+F2>E2 E E |
+D3-D2).('D |
+D E F G A G |
+F c cc2).('D |
+D E F G A G |
+F c cc2).('c |
+[M:7/8]B G G G G G F |
+[M:6/8]G A BA2).('A |
+A E E E F G |
+A G FG3) |
+.('D2GE2F |
+G2G G A B |
+D3D3 |
+z2).('D D E F |
+G2GF2G |
+[M:9/8]A3-A2).('B D E F |
+G3G2>G2 A B |
+E3E3).('E2E |
+D3G3G2G |
+E3G3).('G2G |
+[M:6/8]D3G3 |
+G2G F E F |
+G3-G2) |]

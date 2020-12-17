@@ -1,0 +1,24 @@
+X: 6000
+T: Belegering van doorenick
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 257991412
+%%humdrum-veritas-data 2209006282
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2c d [I:setbarnb 1]|
+e2a2e fd2 |
+c2B2c Ac2 |
+d2c de2d c |
+B4) :|]
+.('B2B B [I:setbarnb 5]|
+c BA2d2d d |
+e cB2).('e ea2 |
+e dc2d cB2 |
+A4) |]

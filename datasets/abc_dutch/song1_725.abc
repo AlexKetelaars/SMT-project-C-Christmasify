@@ -1,0 +1,49 @@
+X: 725
+T: Geen dingen syn so,, Geringe geschapen,, Of  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3030057045
+%%humdrum-veritas-data 3883444423
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c [I:setbarnb 1]|
+c>dc |
+A2d |
+d>cd |
+BG).('g |
+g>ag |
+fe2 |
+d2c |
+ed2 |
+c2).('c |
+c>dc |
+A2d |
+d>cd |
+BG).('g |
+g>ag |
+fe2 |
+d2c |
+ed2 |
+c2).('e |
+e>dc |
+B>cd |
+d>cB |
+A2G) |
+.('cGc |
+c2d |
+f2e |
+d2).('e |
+e>dc |
+B>cd |
+d>cB |
+A2G) |
+.('c>de |
+g>fe |
+(d>c)d |
+c2) |]

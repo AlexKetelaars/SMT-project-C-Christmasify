@@ -1,0 +1,42 @@
+X: 16149
+T: Verbeelding, verbeelding, wat baart gy al kw [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 400820270
+%%humdrum-veritas-data 2535163258
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G [I:setbarnb 1]|
+c2dg |
+e2c_a |
+f2fd |
+e2dc |
+=B3).('d |
+d2dd |
+(ed)fA |
+B2A3/G/ |
+G3) |
+.('d [I:setbarnb 10]|
+e2dc |
+f2f(_a/ g/) |
+f2=ee |
+f2f).('g |
+_a2gf |
+(=ec)fg |
+_a2gf |
+f2f).('g |
+f2e(d/ c/) |
+=B2BB/ z/ |
+c2de |
+d3).('G |
+c2dg |
+e2c_a |
+f2fd |
+e2(f/ e/) (d/ e/) |
+c3) :|]

@@ -1,0 +1,23 @@
+X: 9076
+T: Een jongeling was ‘s morregens vroeg opgesta [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 128398973
+%%humdrum-veritas-data 793269948
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G,2 [I:setbarnb 1]|
+C> C C C (C E) D C |
+(B,> C) D B,G,2z2) |
+.('G2G G (E C) D E |
+F2G2D2).('D E |
+F2E DE2D C |
+(E2D2)C2).('E F |
+G2G G (E C) D E |
+(F2G2)D2) |]

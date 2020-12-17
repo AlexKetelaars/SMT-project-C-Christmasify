@@ -1,0 +1,56 @@
+X: 439
+T: Excusemoy
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 2555144157
+%%humdrum-veritas-data 2552301173
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('G2G |
+d2g |
+f2_e |
+d>).('_ef |
+_e2d |
+c2B |
+A3- |
+A3) |
+.('f2d |
+_e2c |
+d2B |
+c2).('A |
+B>AG |
+G^F3/_E// F// |
+G3- |
+G3) |
+.('ddd |
+d2A |
+B2c |
+d2).('A |
+B2c |
+d2g |
+f3 |
+d3) |
+.('ABc |
+d2c |
+f2c |
+d2).('c |
+=Bcd |
+_e2d) |
+.('g2f |
+_e2d |
+f2c |
+d2c) |
+.('B>AG |
+FGA |
+B>AG |
+FD).('d/ c/ |
+B>AG |
+G^F3/_E// F// |
+G3- |
+G3) :|]

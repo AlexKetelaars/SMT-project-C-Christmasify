@@ -1,0 +1,23 @@
+X: 4852
+T: Vrienden wilt eens wederhoren 't Geen ik u h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 533477635
+%%humdrum-veritas-data 1758924821
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2c [I:setbarnb 1]|
+[M:9/8]B3-B2AB2d |
+e3d2>).('(d2 e) g |
+(g3e2)fg2f |
+e3d2>).('d2 e f |
+[M:6/8]g2f (g f) g |
+(e2f)) .('g f e |
+(d e) f (e d) ^c |
+d3) |]

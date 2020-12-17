@@ -1,0 +1,54 @@
+X: 5517
+T: Hart voor hart, hand voor hand! Roepen wy to [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 714369455
+%%humdrum-veritas-data 4262867375
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Db clef=treble
+.('B,D/F3/- |
+F3 |
+EG/B3/- |
+B3) |
+.('=A3/c3/ |
+B3/(B=A/) |
+(B3/c)B/ |
+(FE/)(DC/)) |
+.('B,D/F3/- |
+F>(F G/ F/) |
+EG/B3/- |
+B>(B =A/ B/)) |
+.('(c3/=d)c/ |
+B3/=G3/ |
+(F=E/) (_E/ C/ F/) ||
+[K:Bb] B,z/zz/) [I:setbarnb 17]|
+.('d3/-dB/ |
+(F/> G/ F// D//)B,3/) |
+.('d3/-d=B/ |
+d3/c3/ |
+c3/-cA/ |
+F3/-FA/ |
+c3/-cc/ |
+Bz/zz/) |
+.('e3/-ee/ |
+d3/-dB/ |
+c3/-cc/ |
+B3/-BG/) |
+.('=B>-(B A/) B/ |
+c>-(c =B/) c/ |
+(^c>B A/) G/ |
+d3) |
+.('d3/-dB/ |
+F3/-FB/ |
+e3/-ed/ |
+c3/-cB/) |
+.('B3/-BG/ |
+F3/-FF/ |
+F3/F3/ |
+B,3/zz/) |]

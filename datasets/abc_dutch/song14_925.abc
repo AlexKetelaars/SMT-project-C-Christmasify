@@ -1,0 +1,32 @@
+X: 13924
+T: Novellie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 43613916
+%%humdrum-veritas-data 3474916582
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('g [I:setbarnb 1]|
+e2e e f g |
+c2cc2e |
+d2d d e f |
+f3e3) |
+.('e3f3 |
+g2ag2c' |
+b a g a g f |
+g g gg2) |
+.('g [I:setbarnb 9]|
+c'2c'c'2b |
+a2aa2g |
+f2ff2e |
+d2>z2 z) .('G |
+c2cc2_B |
+A2AA2f |
+e g e d c d |
+c2cc2) :|]

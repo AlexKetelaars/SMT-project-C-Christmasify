@@ -1,0 +1,29 @@
+X: 3170
+T: Laatst was ene maagd vroeg opgestaan om hare [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 267353686
+%%humdrum-veritas-data 879567628
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ B/) [I:setbarnb 1]|
+d2e/ e/ |
+d2(A/ B/) |
+(cd)c |
+Bz).('(G/ B/) |
+d2e |
+d2A/ B/ |
+cdc |
+Bz).('G/ B/ |
+[M:2/4]dd |
+[M:3/4]dcd |
+[M:4/4]eez).('e |
+[M:3/4]d>e d/ e/ |
+dcB |
+AG) |]

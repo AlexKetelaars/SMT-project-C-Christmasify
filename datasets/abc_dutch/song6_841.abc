@@ -1,0 +1,38 @@
+X: 5840
+T: Uit Oosterlanden Kwamen met offeranden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1013425308
+%%humdrum-veritas-data 3988019397
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A2A/ B/ |
+AE).('c3// B// |
+cc(c/ d/) |
+cA).('A/ c/ |
+eef |
+(edc) |
+BcB |
+B2) :|]
+.('c/ d/ [I:setbarnb 9]|
+eee/ f/ |
+eB).('B/ c/ |
+ddd/ e/ |
+dc).('B |
+AGF |
+ded |
+c2B |
+c2).('e |
+(Bc)d |
+c2){.('c}e |
+eee |
+fed |
+!fermata!c2B |
+A2) |]

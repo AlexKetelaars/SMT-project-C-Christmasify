@@ -1,0 +1,34 @@
+X: 12297
+T: In ‘t Haagse Rasphuys
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:23
+%%humdrum-veritas 853652629
+%%humdrum-veritas-data 394298529
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A2AA2a |
+g2fe2a |
+g f e d e c |
+B3G3) |
+.('f a g g f e |
+d e f e d c |
+B c A B A ^G |
+A6) |
+.('c2e (e f g) |
+B2d d B G |
+c2e e c a |
+g2fe3) |
+.('B2cd2d |
+g d eB2G |
+e f e e ^f g |
+a> b a/ g/^f2d) |
+.('g a g g f e |
+d e f e d c |
+B c A B A ^G |
+A3-A2) :|]

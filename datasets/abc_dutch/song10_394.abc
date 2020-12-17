@@ -1,0 +1,28 @@
+X: 9393
+T: En ik ging op roovers bergen staan En ik gin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 1156241471
+%%humdrum-veritas-data 3329991533
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A/ A/ [I:setbarnb 1]|
+D2EF2G |
+B2BA2) :|]
+.('A/ A/ [I:setbarnb 3]|
+B B Bc2c |
+d3z2).('A/ A/ |
+d d c B c d |
+A3F2).('A/ A/ |
+A B A A G F |
+E2>z2) .('B B/ B/ |
+A A DF2G/ G/ |
+A3).('B2B/ B/ |
+A A DF2E/ E/ |
+D3z2) |]

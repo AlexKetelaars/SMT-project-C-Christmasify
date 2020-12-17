@@ -1,0 +1,31 @@
+X: 10738
+T: De jongens van de Marine Die dragen een blau [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:08
+%%humdrum-veritas 4256738761
+%%humdrum-veritas-data 4122375383
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G G G G/ G/ A A z) .('G |
+G c/ c/ B A2<B2).('G |
+G G G G A A z) .('G |
+G f e d2<e2).('G |
+G G G G A A z) .('G |
+G c B A2<B2).('d |
+d d d c c B z) .('B |
+A/ A/ c B AG2-G) .('G |
+e2d> c c G ^F G |
+B> A A A2<A2).('A |
+B> B B B2<B2A |
+A> G G GG2-G) .('G |
+e2d> c c G ^F G |
+B> A A A2<A2).('A |
+B2>B2A2B2 |
+c4-c2z) |]

@@ -1,0 +1,56 @@
+X: 16210
+T: Weg Venuswicht, ‘k wil uw juk niet meer draa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 654609547
+%%humdrum-veritas-data 2628104561
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('dBG [I:setbarnb 1]|
+^F2c3/d/ |
+_ee/ d/c2 |
+Az/) .('d/de |
+f2_e3/d/ |
+c2d3/d/ |
+_e4 |
+zz/) .('G/GA |
+B>dd3/d/ |
+A2A3/B/ |
+(G3/A// B//)A3/G/ |
+^F4) |
+[M:3/4].('zdc |
+BBA |
+GGF |
+_Ezz |
+z).('_ed |
+ccB |
+A>).('GA |
+BAG |
+^FF3/).('A/ |
+B>B B/ c/ |
+d>f (g/ f/) |
+(_e/ d<)cB/ |
+B2).('d |
+c>B A/ G/ |
+d>).('cd |
+B>AB |
+A>A) .('B/ c/ |
+(dc/ d/ _e/ c/ |
+d_e/ d/ c/ B/ |
+A)A).('B |
+G>^FG |
+^FF).('G |
+AB2 |
+A>Ad |
+c>dB |
+AA).('A |
+d2B |
+G>^FG |
+AA3/G/ |
+G2) :|]

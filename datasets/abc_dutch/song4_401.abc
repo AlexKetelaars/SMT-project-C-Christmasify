@@ -1,0 +1,24 @@
+X: 3400
+T: Toen in de boom een koekoek Siserdesis kompa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 2307040609
+%%humdrum-veritas-data 3666912849
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d4 |
+B B G B |
+d2d2) |
+.('G G/ G/ G G |
+[M:3/4]G F/ G/ A F/ F/D2) |
+[M:2/4].('G G G F/ G/ |
+[M:3/4]A FD2).('d2 |
+[M:2/4]B B G B |
+d2d2 |
+G3) |]

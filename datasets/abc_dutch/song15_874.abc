@@ -1,0 +1,75 @@
+X: 14873
+T: Tu puoi straziarmi Puoi tormentarmi
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 2199713580
+%%humdrum-veritas-data 3307060731
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=69
+K: C clef=treble
+Z3 |
+C E G |
+c G z |
+c B/ A/ G/ F/ |
+E D z) |
+.('G A D |
+B/ c/ B/ A/ B/ G/ |
+c/ d/ c/ B/ c/ A/ |
+B/ c/ B/ A/ B/ G/ |
+A/ B/ c/ A/ B/ G/ |
+^F> E D) |
+.('D/ E/ ^F/ G/ A/ B/ |
+c/ d/ c/ A/ B |
+G A ^F |
+G3 |
+Z4 |
+.('C E G |
+c G z |
+_B c/ B/ A/ G/ |
+A/ G/ F z) |
+.('D ^F A |
+d A z |
+c d/ c/ B/ A/ |
+B/ A/ G z) |
+.('G B d |
+F d/ c/ B/ A/ |
+G d F |
+E2z) |
+.('c B/ A/ G |
+A> B c |
+E/ G/ E D/ C/ |
+C2z) |
+.('G c G |
+A> B c |
+F G G |
+C3) |
+.('A, C E |
+A E z |
+E d/ c/ B/ A/ |
+^G/ ^F/ E z) |
+.('B ^G E |
+d B ^G |
+B E B |
+c2z) |
+.('A ^F D |
+c A ^F |
+A D A |
+B3) |
+.('B B B |
+B A/ G/ A |
+A A A |
+A G/ ^F/ G) |
+.('G G G |
+c^F2 |
+A ^F E |
+^D3) |
+.('B A/ G/ ^F/ E/ |
+c ^D z |
+z z c/ B/ |
+G> ^F E |
+E3) |]

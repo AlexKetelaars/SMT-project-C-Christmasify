@@ -1,0 +1,39 @@
+X: 5261
+T: En het was op een nieuwejaarsseizoen En het  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3660509949
+%%humdrum-veritas-data 489814157
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C/ E/ [I:setbarnb 1]|
+GG/ G/EG |
+FFD).('D/ E/ |
+FFDD/ D/ |
+GEz).('C/ E/ |
+GGEG |
+FFD).('D/ E/ |
+FF/ F/DD/ D/ |
+GEz).('C |
+GGEC |
+AAG).('G |
+FF/ F/EE/ E/ |
+(D/ C/) (D/ E/)C).('C |
+F>GAC |
+F>GAA) |
+.('G>FED |
+GCz).('C |
+F>GAC |
+F>GA).('A |
+G>FED |
+GCz2) |
+.('BB/ B/GG |
+cc/ c/Az) |
+.('BB/ B/GG/ G/ |
+FAF) |]

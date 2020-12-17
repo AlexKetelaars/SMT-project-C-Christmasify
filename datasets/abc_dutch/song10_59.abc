@@ -1,0 +1,47 @@
+X: 9058
+T: En ‘t is van Mieke Stout en ‘t is van Mieke Stout
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 1914030435
+%%humdrum-veritas-data 4004331183
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2AB2B |
+A2>-A2 z F |
+A2AB2B |
+A2>-A2 z) .('F |
+G2GG2G |
+A2AA2A |
+A2AA2A |
+D2>-D2 z) .('A |
+A2AB2B |
+A2>-A2 z F |
+A2AB2B |
+A2>-A2 z) .('F |
+G2GG2G |
+A2AA2A |
+A2AA2A |
+D3-D2z) |
+[M:2/4].('D2F2 |
+E EE2 |
+G2B2 |
+A AA2) |
+.('d d c B |
+A AA2 |
+E G F E |
+D FA2) |
+.('D2F2 |
+E EE2 |
+G2B2 |
+A AA2 |
+d d c) .('B |
+A AA2 |
+E G F E |
+D2z2) |]

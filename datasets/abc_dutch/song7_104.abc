@@ -1,0 +1,27 @@
+X: 6103
+T: De Brusselse Vismart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 802681076
+%%humdrum-veritas-data 3511752498
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('g2f g [I:setbarnb 1]|
+a2d2d2c d |
+e2A2).('B2c B |
+A2d2c d e c |
+d4) :|]
+.('d2d c [I:setbarnb 5]|
+B2B2c2c d |
+e4).('e2e f |
+e2a2^g3a |
+a2).('a gf2f2 |
+g2g fe2f B |
+c2d2e2d c |
+d4) |]

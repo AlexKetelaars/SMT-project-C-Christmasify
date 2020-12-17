@@ -1,0 +1,34 @@
+X: 15324
+T: Wer nicht liebt Wein, Weib und Gesang
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 4027054947
+%%humdrum-veritas-data 3863909493
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Ab clef=treble
+.('C3/ D/ [I:setbarnb 1]|
+E2c2(3c B F |
+B2z> A (3A G D |
+G2>>F2 (3F E C |
+E2z2).('C3/ D/ |
+E2=E2(3F E F |
+d2>d2 c =B |
+c2>>E2 c3/ B/ |
+A4) ||
+.('E2 [I:setbarnb 9]|
+A2>G2 F =E |
+F> FF3B |
+c2>A2 B G |
+B2A2z3/) .('A/ |
+A F D F A d |
+c4z3/ A/ |
+A F D F A d |
+c4z3/ c/ |
+c B A G F G |
+B2A2) |]

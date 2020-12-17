@@ -1,0 +1,19 @@
+X: 8299
+T: Kosterken, kosterken Weldaad, mijn getrouwe  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 1199126408
+%%humdrum-veritas-data 1993585463
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+(3.('A A A (3A A AB2!fermata!A2) |
+.('G G A AF2!fermata!E2) |
+.('A (3:2:8A/ A/ A/ A A A B2 B !fermata!A) .('A |
+A A A/ A/ A/ A/ (3:2:2B2 B!fermata!A2) |
+(3.('A A !fermata!A G A (3:2:2F2 F!fermata!E2) |]

@@ -1,0 +1,33 @@
+X: 3271
+T: Kom burgers blijf eens even bij ons staan en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 1165123618
+%%humdrum-veritas-data 1578026853
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D/B,D/ [I:setbarnb 1]|
+BB/AG/EG/ |
+D3/).('zD/ (D/ E/) F/ |
+[M:6/8]G3/-GA/ |
+[M:9/8]G3/F3/).('zF/ |
+ED/FE/CD/ |
+FF<F).('zF/ |
+FD<FFF/ |
+[M:6/8]E3/D3/) |
+.('zD/^CD/ |
+[M:9/8]E3/-EE/ F/ F/ F/ |
+G3/-G).('G/cB/ |
+A3/-AE/FG/ |
+[M:6/8]A3/-A).('z/ |
+D3/BA/ |
+[M:9/8]G3/-GG/AB/ |
+dc/B).('B/AB/ |
+cB/AE/FA/ |
+G>-G z/) |]

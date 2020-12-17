@@ -1,0 +1,30 @@
+X: 16857
+T: petit Sot d'Bourdous
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 3973866498
+%%humdrum-veritas-data 3361912238
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('AAd3/d/ |
+e/ f/ g/ a/f2) |
+.('fe/ d/cd |
+e2e3/d/ |
+d4) |
+.('c>dee |
+ed/ c/BA |
+AdAd |
+def2) |
+.('f/ g/aa/ g/f |
+e>deA |
+ABcd |
+e2e3/d/ |
+dAAB |
+cde/ f/ g/ f/ |
+e>dd2) :|]

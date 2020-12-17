@@ -1,0 +1,15 @@
+X: 611
+T: Ghi die de waerheyt spreken sout Sprect die  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 4120825241
+%%humdrum-veritas-data 930651813
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=bass
+.('D,2D,2F,2E,2D,2(F,2>G,2A,2)B,4A,4z2).('G,2A,2A,2(C2>B,2A,2)D4C2B,4A,4).('A,2B,2>A,2G,2(F,2>E,2)D,2E,2D,4C,4z2).('C,2F,2F,2G,2A,2(A,2>G,2F,E,G,2)E,4D,4).('D,2G,4F,2E,4z2).('E,2F,2F,2G,2A,4A,2C4A,2(A,2>G,2F,E,A,2)).('G,4F,2E,4D,4) |]

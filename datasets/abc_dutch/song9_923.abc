@@ -1,0 +1,25 @@
+X: 8922
+T: Een lied... een lied, uw leven lang! Och mog [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3769255290
+%%humdrum-veritas-data 1195063551
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e2 [I:setbarnb 1]|
+d> cG2A2 |
+G> EC2z) .('E |
+E G G F A3/ G/ |
+G Ez2).('e2 |
+d> cG2A2 |
+G> EC2z) .('E |
+c> B A G ^F A |
+d2F) .('E F G |
+A2c (B c) d |
+c2z2) |]

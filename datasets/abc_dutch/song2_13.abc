@@ -1,0 +1,54 @@
+X: 1012
+T: Schuitje varen naar Amerika Zakken vol geladen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 3600668926
+%%humdrum-veritas-data 1482125829
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d> d d> dd2g2 |
+B> B A> AG4) |
+.('d> d d> dd2g2 |
+B> B A> AG4) |
+.('d2d2d3c |
+B> B A> AB2G2) |
+.('d2d2d3c |
+B> B A> AB2G2) |
+.('d2g2f2e2 |
+d4d2d3/ d/ |
+[M:3/4]e2e2d3/ d/ |
+e2e2f2 |
+[M:2/4]g4) |
+[M:4/4].('B2d2d4 |
+B2d2d4) |
+.('B d d dd2d2 |
+B d d dd4) |
+.('g2d2g2d2 |
+e2f2g4) |
+.('a2>g2f2e2 |
+e2d2d4) |
+.('e2d2d4 |
+e2d2d4) |
+.('d> d d> de2e2 |
+[M:5/4]f2f2g4).('B c |
+[M:3/4]d4B2 |
+d4d d |
+e4B2 |
+d6) |
+[M:4/4].('d2d2e2B2 |
+d4d2d d |
+e2B2d2).('d d |
+B2d dB2d d |
+b4g2).('g g |
+a2a af2f f |
+g6).('d d |
+B2d dB2d d |
+b4g2).('g g |
+a2a af2f f |
+g6) |]

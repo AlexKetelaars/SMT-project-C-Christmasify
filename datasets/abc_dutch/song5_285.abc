@@ -1,0 +1,15 @@
+X: 4284
+T: Het is van een edele Jaan Die vrijden een ko [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 377218261
+%%humdrum-veritas-data 655511352
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F F E D/ D/ E2<F2).('G F/> F/ E F D D ED2>>).('=B,2 D> D D D F (E D)C2).('D E F (E D) C B,> G,A,2>).('D2 D/ D/ D G/ G/ G D> C) .('_B, D D/ D/ G G/ G/ ^FG2>>).('D2 D D/ _E/ =F G G/ G/ ^F2<G2).('A/ B/ A/ A/ G =F AG3) |]

@@ -1,0 +1,46 @@
+X: 17258
+T: Goude zon, verhaast u te daalen, Beroof my v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3046830913
+%%humdrum-veritas-data 1395623839
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d3/d/ [I:setbarnb 1]|
+c2zf |
+B2Bc |
+A2A2 |
+z).('ff3/e/ |
+dB2B/ A/ |
+G2G).('g |
+gfed |
+c3d |
+=eff3/e/ |
+f2) |
+.('zf [I:setbarnb 11]|
+^fffa |
+d2de |
+A2AA |
+B2G2) |
+.('ddde |
+f2fg |
+c2c2 |
+z).('ffb |
+edc3/B/ |
+B2z).('f |
+^fffa |
+d2de |
+A2AA |
+B2G2) |
+.('ddde |
+f2fg |
+c2c2 |
+z).('ffb |
+edc3/B/ |
+B2) |]

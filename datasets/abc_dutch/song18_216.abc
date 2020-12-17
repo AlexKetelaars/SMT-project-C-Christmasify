@@ -1,0 +1,92 @@
+X: 17215
+T: Gelukkig is hij, die de laagen Op het aards  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 287098303
+%%humdrum-veritas-data 416365607
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=bass
+.('C [I:setbarnb 1]|
+G,G,G, |
+A,A,E, |
+F,F,).('F,/ G,/ |
+A,A,B, |
+CCA, |
+DDD, |
+G,2).('G, |
+E,>E, E,/ E,/ |
+F,2F, |
+G,>G, G,/ G,/ |
+A,2).('A,/ B,/ |
+CCD |
+_B,B,B, |
+G,A,A, |
+D,D,z/) .('D,/ |
+A,>A, A,/ F,/ |
+C>CC |
+B,A,3/G,/ |
+G,).('G,3/F,/ |
+E,E,E, |
+A,A,F, |
+D,G,G, |
+C,C,).('C |
+B,2_B, |
+A,A,A, |
+G,F,3/E,/ |
+E,2).('E,/ ^F,/ |
+^G,G,G, |
+A,A,D, |
+E,2E, |
+A,2).('A, |
+G,2G, |
+F,>F,F, |
+E,D,C, |
+G,2).('G,/ G,/ |
+A,A,B, |
+CCF, |
+G,2G, |
+C,z).('C,/ D,/ |
+E,E,F, |
+G,2G,/ G,/ |
+A,A,B, |
+C2C) |
+.('A,A,_B, |
+G,2F, |
+C,2-C,/ C,/ |
+F,2).('F,/ G,/ |
+A,A,3/B,/ |
+CC/ B,/ A,/ G,/ |
+D2).('_B, |
+_B,/ B,/^F,G, |
+_E,E,E, |
+C,D,D, |
+G,G,).('G,/ G,/ |
+CC3/_B,/ |
+A,A,/ A,/ G,/ F,/ |
+E,>).('E, E,/ E,/ |
+F,2D, |
+A,>A,A, |
+F,G,G, |
+C,C,).('C |
+B,2_B, |
+A,A,A, |
+G,F,3/E,/ |
+E,2).('E,/ ^F,/ |
+^G,G,G, |
+A,A,D, |
+E,2E, |
+A,2).('A, |
+G,2G, |
+F,>F,F, |
+E,D,C, |
+G,2).('G,/ G,/ |
+A,A,3/B,/ |
+CCF, |
+G,2G, |
+C,3) |]

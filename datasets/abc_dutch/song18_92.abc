@@ -1,0 +1,28 @@
+X: 17091
+T: Canarie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2065964186
+%%humdrum-veritas-data 4092598301
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('e> d c [I:setbarnb 1]|
+g> f e d> e c |
+B> A G) .('c> d e |
+f> g e d> e f |
+e3) |
+.('e> f g [I:setbarnb 5]|
+f> g e a> a b |
+^g> ^f e) .('a> =g =f |
+e> d c B> A ^G |
+A3).('c> d e |
+e> f g c> d e |
+d> c B) .('c> d e |
+e> f g c> d B |
+c2) |]

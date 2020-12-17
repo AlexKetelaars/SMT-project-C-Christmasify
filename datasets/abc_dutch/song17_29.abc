@@ -1,0 +1,32 @@
+X: 16028
+T: alleg Sonde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:59
+%%humdrum-veritas 2684259071
+%%humdrum-veritas-data 2182356493
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d/ e/ [I:setbarnb 1]|
+fffg |
+fdAd/ e/ |
+fe/ d/eA |
+dAF).('d/ e/ |
+fe/ d/eA |
+d/ c/ d/ e/fg |
+d2A2 |
+F3) |
+.('A/ B/ [I:setbarnb 9]|
+cAAc |
+AccA/ B/ |
+cAAc |
+dzz).('d/ e/ |
+fdfg |
+fe/ d/eA |
+dDA2 |
+F3) :|]

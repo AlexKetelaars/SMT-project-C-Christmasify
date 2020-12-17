@@ -1,0 +1,30 @@
+X: 515
+T: ‘k Twijffel, of den Hemel op der aard Gecome [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1264905163
+%%humdrum-veritas-data 481091176
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z4z2F G |
+A2>A2 G A B c |
+A2>).('A2 G A F G |
+E2C2).('D E F G |
+A2G F E F G E |
+F6).('F G |
+A2>A2 G A B c |
+A2>).('A2 G A F G |
+E2C2).('D E F G |
+A2G F E F G E |
+F4) |
+.('z2F E [I:setbarnb 12]|
+D2D2C2).('F E |
+D2D2C2).('F G |
+A2G F E F G E |
+F8) |]

@@ -1,0 +1,23 @@
+X: 2414
+T: In Frankrijk buiten de steden En daar woont  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 1116169691
+%%humdrum-veritas-data 3380000875
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=104
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+G2G2(A G) F3/ G/ |
+(A2B2)A2).('G3/ A/ |
+B2d dc2B2 |
+A6).('A3/ B/ |
+c2>c2 (d c) B3/ A/ |
+B4G2).('A3/ B/ |
+c2B> A(F2B3/) A/ |
+G6) |]

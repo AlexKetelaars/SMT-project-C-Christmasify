@@ -1,0 +1,44 @@
+X: 17396
+T: Attendes moy sous l'ormes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 3992721287
+%%humdrum-veritas-data 1805043087
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d/ [I:setbarnb 1]|
+g>ba3/^f/ |
+g2d3/_e/ |
+d>cB3/A/ |
+G3z/) |
+.('A/ [I:setbarnb 5]|
+B>cB3/A/ |
+B2A3/B/ |
+G>AB3/c/ |
+d3z/) .('c/ |
+d>ef3/d/ |
+g2d3/b/ |
+a>gg3/^f/ |
+g2z/x3/) |
+[M:3/4].('G/ A/Bc |
+B2A |
+ddg |
+^ff/ g/a) |
+.('G/ A/Bc |
+B2A |
+de^c |
+d3) |
+.('g/ f/gf |
+{f}_e2d |
+c/ A/Ad |
+B2A) |
+.('G/ A/Bc |
+d3 |
+ga^f |
+!fermata!g3) :|]

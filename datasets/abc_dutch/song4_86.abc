@@ -1,0 +1,31 @@
+X: 3085
+T: Als de zon komt uit haar kim gerezen Ga ik m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 2243322046
+%%humdrum-veritas-data 3581801519
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G B [I:setbarnb 1]|
+d2>d2 d> B g3/ e/ |
+(d2e2)d2).('e d |
+d2c2(A c e) d |
+B6).('G B |
+d2>d2 (d> B g3/) e/ |
+(d2>e2)d2).('e d |
+d2c2(A c e) d |
+B2z2z) .('d e d |
+d c c B c e d c |
+B G G G G>) .('d e d |
+d c c B c e d3/ c/ |
+B G G G G) .('G G B |
+d2>d2 (d B g) e |
+(d2>e2)d2).('e d |
+c2>B2 (A c e) d |
+B6) |]

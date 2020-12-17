@@ -1,0 +1,24 @@
+X: 2233
+T: Wilhellemus van Nassouwe Ben ik van nederdui [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 1116749276
+%%humdrum-veritas-data 1478090703
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2> G2G4A4d4 |
+B4A2) .('B2c4B4 |
+A2 G2 A2 B2 G2) .('c2 B2 c2 |
+d2> e2 d2) .('c2 B2 c2 d3 e |
+d2) .('c2B4A4!fermata!G4) |
+.('c> B B> B d> B B> B A> G G> G B> G G3/ G/) |
+.('c> B B> B d> B B> B B2 A2G4) |
+.('c> B B> B d> B B> B A> G G> G B> G G3/ G/) |
+.('c> B B> B d> B B> B B2 A2G4) |]

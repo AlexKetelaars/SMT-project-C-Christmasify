@@ -1,0 +1,25 @@
+X: 9744
+T: Daar was een edel palstgravin, De graaf die  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 3073544958
+%%humdrum-veritas-data 1349623637
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: Bb clef=treble
+.('D [I:setbarnb 1]|
+G2AB2A |
+G2F!fermata!G2).('G |
+B2Bc2c |
+(AG)A!fermata!F2).('F |
+B2Bc2c |
+(dcd)G2).('G |
+BABAGA |
+!fermata!D2).('DA2A |
+c2B(AGF) |
+G3z2) |]

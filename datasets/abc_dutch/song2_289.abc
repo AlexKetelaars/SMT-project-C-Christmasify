@@ -1,0 +1,38 @@
+X: 1288
+T: Er was eens een herderinnetje Al in het jeug [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 1270815117
+%%humdrum-veritas-data 973552793
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+D/ D/ D/GF/ |
+EE/D).('F/ |
+AA/EE/ |
+D3/-D).('B,/ |
+DD/GF/ |
+EE/D).('F/ |
+AA/EE/ |
+D3/-D).('F/ |
+AG/AB/ |
+(AF/)D).('C/ |
+B,D/GA/ |
+B3/-B).('B// B// |
+AG/AB/ |
+(AF/)D).('E/ |
+FF/EE/ |
+D3/).('B,C/ |
+DE/DE/ |
+D3/).('(GA/) |
+BB/AG/ |
+[M:9/8]F3/E>).('(G F/) E/ |
+[M:6/8]D3/(GA/) |
+B3/(AF/) |
+G3/-G) |]

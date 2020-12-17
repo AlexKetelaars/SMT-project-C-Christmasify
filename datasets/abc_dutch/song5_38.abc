@@ -1,0 +1,27 @@
+X: 4037
+T: Wat hoor ik hier in het stille al van die na [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3497051556
+%%humdrum-veritas-data 4276538661
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G B c [I:setbarnb 1]|
+(d2B)e2d |
+(d A) A (e d) A |
+[M:9/8]B3-B2>).('D2 G B |
+[M:6/8]d3e2d/ d/ |
+d A A (e d) A |
+B3-B2).('G |
+e c e (g f) g |
+d3).('e3 |
+e d c (e d) c |
+[M:9/8]B3-B3).('D/ D/ G B |
+d3e2d d c A |
+B3-B3) |]

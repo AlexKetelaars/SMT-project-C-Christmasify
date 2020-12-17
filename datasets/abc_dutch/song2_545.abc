@@ -1,0 +1,28 @@
+X: 1544
+T: Het was nacht het was nacht t was midden in  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 1905411702
+%%humdrum-veritas-data 2459213659
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+B2d2B2d2 |
+e d c Bc2).('c2 |
+A Ac2A2c2 |
+d c B AB2).('d2 |
+B2d2B2d2 |
+e d c Bc2).('c c |
+A2c2A2c2 |
+d4G2).('d d |
+B2d dB2d2 |
+e d c Bc2).('c c |
+A2c cA2c2 |
+d c B AB2).('G G |
+A2d2G2) |]

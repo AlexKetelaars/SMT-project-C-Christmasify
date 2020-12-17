@@ -1,0 +1,38 @@
+X: 11862
+T: La Modene
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 4128662839
+%%humdrum-veritas-data 2759419498
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('z/ g/ [I:setbarnb 1]|
+g>^fg |
+dBe |
+ef/ e/ d/ c/ |
+B3) |
+.('AA3/G/ |
+G>A B/ c/ |
+d!mordent!!mordent!e3/^f/ |
+g^fb |
+ee3/d/ |
+d3 |
+d2x) ||
+.('a>b^f [I:setbarnb 13]|
+g^f3/e/ |
+^d3) |
+.('Be3/d/ |
+^cde |
+^fe3/d/ |
+gea |
+^fg3/a/ |
+b3 |
+aa3/g/ |
+g3- |
+g3) |]

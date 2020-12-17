@@ -1,0 +1,23 @@
+X: 8198
+T: Hansken leerde goede manieren, Hanske was ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:44
+%%humdrum-veritas 822740070
+%%humdrum-veritas-data 3571205441
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c G G F E D/ D/ E C) |
+.('c B d c B AG2) |
+.('c G G F E D E C) |
+.('c B d c B AG2) |
+.('G G G E F G A G) |
+.('G G G E F G A G) |
+.('c B d c B AG2- |
+G2).('c> d e c d d |
+c2-c zz4) |]

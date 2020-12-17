@@ -1,0 +1,21 @@
+X: 1179
+T: Drie troubadours die kwamen uit het oosten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 874690118
+%%humdrum-veritas-data 513488842
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B> AG3).('B |
+B> c d> cB2A2) |
+.('A2c> BA3).('A |
+A> B c> de2d3/) .('c/ |
+B2B> B (3B B A G3/) .('D/ |
+G A B c(B2A2) |
+G4z4) |]

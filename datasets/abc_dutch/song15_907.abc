@@ -1,0 +1,42 @@
+X: 14906
+T: Ich bin nun wie ich bin Und bleib beij meiner Mode
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3217564182
+%%humdrum-veritas-data 3531655771
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=66
+K: D clef=treble
+.('(D/ F/) [I:setbarnb 1]|
+AAA(B/ c/) |
+d3A |
+B(c/ d/)A(B// c// d/) |
+{A}G2F).('A |
+B(c/ d/)A(d/ A/) |
+G2F).('d |
+cdef |
+g3).('a |
+f(e/ d<)cd/ |
+d3) |
+.('(d/ e/) [I:setbarnb 11]|
+ff(g/ f/) (e/ d/) |
+eazB/ c/ |
+dd(e/ d/) (c/ B/) |
+cfz).('F |
+BBB(c/ d/) |
+A3d |
+A(G/ F/) (G/ B/) (A/ G/) |
+F3).('A |
+B(c/ d/)A(d/ A/) |
+G2FA |
+BdAd |
+G2F).('d |
+cdef |
+g3a |
+fe/ d<cd/ |
+d3) :|]

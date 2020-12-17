@@ -1,0 +1,30 @@
+X: 9012
+T: Z’heeft heur witte kousen aangedaan, Om naar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 2342273904
+%%humdrum-veritas-data 2749684101
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('AAAA |
+A/> G/ A/> B/c2) |
+.('BAGc/ c/ |
+A2F2) |
+.('AAAA |
+A/> G/ A/> B/c2) |
+.('BAGc |
+F3z) |
+.('G>ABG |
+E2C2) |
+.('FFFA |
+c/ c/ B/ A/G2) |
+.('G>ABG |
+E2C2) |
+.('c/ c/ c/ B/AG |
+F3z) |]

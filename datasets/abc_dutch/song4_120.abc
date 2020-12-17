@@ -1,0 +1,23 @@
+X: 3119
+T: Hoe kan er een zee zijn zonder water hoe kan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 3037152709
+%%humdrum-veritas-data 3699395236
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d e d/ d/ [I:setbarnb 1]|
+d2g2f3/ f/ |
+(e g) d) .('g g g/ a/ |
+b> b a g a g |
+d2z) .('d/ d/ g a |
+b2a2g3/ g/ |
+(f g) e) .('b/ b/ a g |
+d> d g f e f |
+g3) |]

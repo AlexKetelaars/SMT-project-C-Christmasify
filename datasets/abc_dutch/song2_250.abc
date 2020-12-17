@@ -1,0 +1,39 @@
+X: 1249
+T: In een blok in een blok in een vierkante blo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 3025718695
+%%humdrum-veritas-data 3053787911
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('c/ c/ [I:setbarnb 1]|
+BA/ A/Gc/ c/ |
+BA/ A/G).('G/ G/ |
+AAdd |
+B2G).('G |
+cccc |
+BB/ B/B).('B |
+AGBA |
+A2Gz) |
+.('AAdd |
+BBGG) |
+.('AAdd |
+BBGG) |
+.('cccc |
+BBBB) |
+.('AGBA |
+AAGG |
+[M:3/2]z/ z//) .('d/< d/ e//d2B/> d/ d3// e// |
+[M:2/2]d2Bz) |
+.('cc/> c/dd |
+G2z).('D |
+cccc |
+BBBB) |
+.('A/ A/GBA |
+AAGG) |]

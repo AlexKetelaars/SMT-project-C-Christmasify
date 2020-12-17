@@ -1,0 +1,27 @@
+X: 11014
+T: Eene juffrouw was in belet: Ze was met eenen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 434887311
+%%humdrum-veritas-data 1069493945
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('D D D [I:setbarnb 1]|
+G2^FG2A |
+B2).('BB2B |
+A2AG2^F |
+G2>-G2 z) .('A |
+B2B B A B |
+c3!fermata!A2).('G |
+A2B c c d |
+B2AG2).('G |
+D2DG2G |
+G G GB2).('B |
+B A Bc2c |
+(B2A)G3) |]

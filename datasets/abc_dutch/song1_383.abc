@@ -1,0 +1,28 @@
+X: 383
+T: O Heyligh zaligh Bethlehem
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 3832194573
+%%humdrum-veritas-data 2106907356
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('G/ A/ [I:setbarnb 1]|
+BAG3/A/ |
+B/ c/dd^c |
+d3).('d |
+dgf2 |
+d2_ed |
+c2B) |
+.('d/ c/ [I:setbarnb 7]|
+BAG2 |
+^F2G/ A/ B/ c/ |
+A3).('A |
+ABc2 |
+d2Bc |
+A2G) :|]

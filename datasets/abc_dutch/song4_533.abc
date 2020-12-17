@@ -1,0 +1,27 @@
+X: 3532
+T: Vier Fransen schoot hij dood Maar nu kwam de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 3764606008
+%%humdrum-veritas-data 1885267841
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2cd2e |
+d3).('e3 |
+A c ed2c |
+B3-B2).('B |
+A2G A A B |
+d3d2).('d |
+e2f (g f) e |
+d3-d2).('e |
+d> d c/ B/ (A B) c |
+(B2A)G2).('B |
+d2B A B A |
+G3z2) |]

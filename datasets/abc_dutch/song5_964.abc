@@ -1,0 +1,26 @@
+X: 4963
+T: Schuitje varen naar Ootje toe, Ootje mellekt [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2326189790
+%%humdrum-veritas-data 958498315
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A2A G A B |
+A2AG3) |
+.('G2A B B B |
+A2AG3) |
+.('G2A B B B |
+A2AG3) |
+.('G2AB2B |
+A2AG3) |
+.('G2AB2c |
+d2dd3) |
+.('e2d c c B |
+A A AG3) |]

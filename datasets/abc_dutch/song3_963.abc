@@ -1,0 +1,29 @@
+X: 2962
+T: Driekoningen driekoningen Geef mij enen nieu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 1695217992
+%%humdrum-veritas-data 593566908
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G>ABD |
+G>AB).('c |
+AF/> G/AB |
+GGG).('D3// D// |
+GG/> G/GG |
+A2d).('D3// D// |
+GGG/ G/G |
+A2d).('D3// D// |
+GG/> G/GG |
+[M:2/4]A2) |
+[M:4/4].('d2BA |
+GGcc |
+B2A2 |
+G3) |]

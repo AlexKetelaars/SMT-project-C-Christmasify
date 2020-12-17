@@ -1,0 +1,32 @@
+X: 12353
+T: No126
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 2297700743
+%%humdrum-veritas-data 2694762899
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A [I:setbarnb 1]|
+dAdA |
+d/ c/ d/ e/dd |
+e/ d/ e/ f/ea |
+f>ed).('f |
+e/ d/ c/ d/ef |
+e/ d/ c/ d/ef |
+ed/ c<!trill!!trill!BA/ |
+A3) |
+.('e [I:setbarnb 9]|
+aeae |
+fe/ f/de/ f/ |
+gfed |
+e/ d/ c/ B/A).('A |
+dA!trill!!trill!BA |
+dA!trill!!trill!BA |
+B/ c/ d/ e/ c/ d/ e/ c/ |
+d3) :|]

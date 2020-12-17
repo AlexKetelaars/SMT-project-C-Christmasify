@@ -1,0 +1,33 @@
+X: 16661
+T: O goon! verschoon mijn liefd, bekroon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 3428034456
+%%humdrum-veritas-data 939737681
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('f [I:setbarnb 1]|
+f(_e/ d/)e(d/ c/) |
+dBB).('f |
+b(b/ a<)gf/ |
+ec).('g3/g/ |
+_a>gg3/f/ |
+f3) |
+.('c [I:setbarnb 7]|
+c(B/ A/)B(A/ G/) |
+AF).('Ff |
+d>d_ef |
+g>).('gab |
+afff |
+b(_a/ g/)a(g/ f/) |
+g2).('f(_e/ d/) |
+_e(d/ c/)d(c/ B/) |
+cA).('fd |
+gcc3/B/ |
+B3) :|]

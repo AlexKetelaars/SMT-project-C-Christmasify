@@ -1,0 +1,43 @@
+X: 22
+T: Werelt, met uw schijn En vermomde dingen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3778319042
+%%humdrum-veritas-data 3878903727
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d>ddd |
+_e2).('dd |
+BBc2 |
+B2).('d3/d/ |
+dd_e2) |
+.('ddBB |
+c2B2) |
+.('zdcc |
+BBA2) |
+.('Bc2B |
+A2G2) |
+.('zdcc |
+BBA2) |
+.('Bc2B |
+A2G2) |
+.('z2zd |
+B>cd_e |
+d2c2) |
+.('z_edc |
+BAGc |
+A2G2 |
+G4) |
+.('z2zd |
+B>cd_e |
+d2c2) |
+.('z_edc |
+BAGc |
+A2G2 |
+G4) |]

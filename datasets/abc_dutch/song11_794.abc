@@ -1,0 +1,27 @@
+X: 10793
+T: Daar was er een kapiteinsdochtere, En den sc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 2658907572
+%%humdrum-veritas-data 3864248856
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2A c d c |
+c/ c/A2z z) .('C/ F/ |
+A A c c B A |
+G2>z2 z) .('G/ A/ |
+(B A) B d c B |
+(A/ B/)c2z z) .('c |
+d B G G A G |
+(BA2)z z) .('G/ A/ |
+(B A) B d c B |
+(A/ B/)c2z z) .('F |
+d B G G F E |
+F3z2z) |]

@@ -1,0 +1,31 @@
+X: 15931
+T: Voerman van de Hel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 2367322164
+%%humdrum-veritas-data 1954778508
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+(3.('g/ a/ b/ [I:setbarnb 1]|
+c'g/ a<gf/ |
+e2z).('g/ a/ |
+f>ede |
+fe2c |
+gga3/b/ |
+c'2z).('b) |
+.('agg3/^f/ |
+g2z) |
+.('g [I:setbarnb 9]|
+c'g/ a<gf/ |
+e2z).('g/ a/ |
+f>ede |
+(e/ g/)e2).('g |
+f>ede |
+f>gad |
+d>cc2) |]

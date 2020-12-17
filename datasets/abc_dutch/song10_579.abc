@@ -1,0 +1,26 @@
+X: 9578
+T: Groote klokken loopen tik, tak, tik, tak, Kl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 1958691097
+%%humdrum-veritas-data 1917235233
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('D2D2 |
+D D D D |
+F2D2 |
+F2D2) |
+.('F F F F |
+F2F2 |
+A A F F |
+A A F F) |
+.('A A A A |
+A A A A |
+d/ d/ d/ d/ d/ d/ d/ d/ |
+d/ d/ d/ d/ d z) |]

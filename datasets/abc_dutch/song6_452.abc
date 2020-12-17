@@ -1,0 +1,32 @@
+X: 5451
+T: O liefde welk een vreugd, [2x] Wanneer tot e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 42728021
+%%humdrum-veritas-data 3708992738
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2e2d3d |
+e2>B2c4 |
+z8 |
+z2z) .('e2<d2d |
+e2>B2c3).('c |
+A2A2B> c B3/ A/ |
+^G2G2z) .('c c G |
+(A B)c2c3B |
+B B z) .('B (A G) (A G) |
+F2>E2E4) |
+.('z2e2e> f g3/ d/ |
+f2>e2e2e2 |
+z2).('e2d3d |
+e> d e> Bc4 |
+z) .('f f> e d> e d3/ c/ |
+B2B2z) .('e e3/ e/ |
+c2d2B3A |
+A8) :|]

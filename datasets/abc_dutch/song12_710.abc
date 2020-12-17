@@ -1,0 +1,26 @@
+X: 11709
+T: 218
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:17
+%%humdrum-veritas 2903317190
+%%humdrum-veritas-data 248331697
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d/ A [I:setbarnb 1]|
+d> e d e> f e |
+f> e d d>) .('f e |
+d> e f e> d c |
+d3-d3/) |
+.('d/ e [I:setbarnb 5]|
+f> ^g f f> g a |
+^g3-g>) .('e B |
+c> d c B> e B |
+c> d c B>) .('e B |
+c> B A A> B ^G |
+A3-A3/) |]

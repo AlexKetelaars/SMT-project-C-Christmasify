@@ -1,0 +1,24 @@
+X: 10570
+T: Al wat jònk is zoept zo geern, zoept zo geer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 2881671013
+%%humdrum-veritas-data 397744420
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('C2E2G2E2 |
+F FD2E EC2) |
+.('C2E2G2E2 |
+F F D DC4) |
+.('C CD2D DD2 |
+C D2<E2EE2) |
+.('D EF2F FF2 |
+E F2<A2G!fermata!G2) |
+.('C2E2G2E2 |
+F F D DC2) |]

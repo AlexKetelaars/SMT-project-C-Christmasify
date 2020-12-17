@@ -1,0 +1,33 @@
+X: 5622
+T: Heer Jesus heeft een hofken daer schoone blo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2545701752
+%%humdrum-veritas-data 736639709
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('zFFG |
+ABcc |
+cAGG |
+F2z).('C |
+FGAB |
+cccA |
+(G/ F/)GF2 |
+zz/) .('C/FG |
+ABG/ G/G |
+FFGG/ G/ |
+F4) |
+.('A2(F/ G/)A |
+BAGF |
+BAGF |
+GGF2) |
+.('A2(A/ B/)c |
+BAGF |
+BAGF |
+GGF2) |]

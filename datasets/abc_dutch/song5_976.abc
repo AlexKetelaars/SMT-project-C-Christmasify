@@ -1,0 +1,35 @@
+X: 4975
+T: Daar wuift ge weer zoo vrij en blij, gij vad [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1465833576
+%%humdrum-veritas-data 4204485991
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F>>GAc |
+(d/> c/ B/>) d/c).('c |
+fA(Gd3//) c// |
+A3).('C |
+F>>GAc |
+(d/> c/ B/>) d/c).('A |
+Gcd-d3// e// |
+c2z).('c |
+dAB^F |
+A>GG).('A |
+Bdgf |
+e2z).('c |
+AFGA |
+c>BB).('A |
+A>GFG |
+A2z).('c |
+AABc |
+f>dd).('d |
+c>FA(G3// A//) |
+F2z) |]

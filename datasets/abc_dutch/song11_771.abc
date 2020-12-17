@@ -1,0 +1,26 @@
+X: 10770
+T: Der waren twee eigen zusteren Van in de twin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:08
+%%humdrum-veritas 77480110
+%%humdrum-veritas-data 3513462559
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('z2A A A A |
+G3d3 |
+c2c!fermata!G2).('G |
+c2cd2d |
+e d cd2d |
+(c2B)!fermata!c3) ]|:
+.('z2G e e d |
+[M:9/8]c3e2e d c d |
+[M:6/8]c2>z2) .('B c |
+d2ce2d |
+c B AB2c |
+(A2G)A3) :|]

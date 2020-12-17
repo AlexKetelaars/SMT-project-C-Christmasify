@@ -1,0 +1,33 @@
+X: 15190
+T: Onze torenklok wordt knappies nou
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2800250365
+%%humdrum-veritas-data 3847987273
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A,3 A, [I:setbarnb 1]|
+D2 F2 A2 B2 |
+A2> G2 G2 G G |
+E c E c E c E c |
+d4x4) :|]
+.('F2> F2 F F F E |
+D4C4 |
+B,4z4) |
+.('E2> E2 E E E D |
+C4B,4 |
+A,4).('D3 E |
+F d F d F d F d |
+c4z2) .('A3/ B/ |
+c> B G> E B> A G3/ E/ |
+F4).('D E F G |
+A d A d A d A d |
+!fermata!e4z2) .('d3/ B/ |
+A4B2 c2 |
+d4) |]

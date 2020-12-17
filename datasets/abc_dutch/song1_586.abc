@@ -1,0 +1,15 @@
+X: 586
+T: Verblijt u, wilt verjolisen Ghi die hier rec [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2640084170
+%%humdrum-veritas-data 3267050937
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('F2F4<B4G2A2G2c4B4).('A2>G2A2G4F4E2F4-F4).('F2F4<B4G2A2G2c4B4A2>).('G2A2G4F4E2F4-F4).('z2A2F4F2F4F2G4G4z2).('F2E2D2B4A2G2(A2>G2F2EDE4-!fermata!E4)).('A4F4F2F4F2G4G4).('B2B2A2G4F4E2F4) |]

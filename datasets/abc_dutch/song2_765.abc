@@ -1,0 +1,19 @@
+X: 1764
+T: En daar zou eens een magetje [maagdje] vroeg [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2639403705
+%%humdrum-veritas-data 2935224630
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+d c B B G A |
+(B2d)B2).('A/ A/ |
+E E A (B A) G |
+E2>-E2 z) |]

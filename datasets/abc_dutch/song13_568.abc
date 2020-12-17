@@ -1,0 +1,32 @@
+X: 12567
+T: De Boter Markt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 3971233
+%%humdrum-veritas-data 4249884731
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d> e f e> d c |
+d3A3) |
+.('B> c BA2G |
+F> G AD2).('A |
+d> e fe2d |
+c2ee2).('d |
+c B A B A ^G |
+A2AA2) |
+.('g [I:setbarnb 9]|
+f> g a a> g f |
+g2gg3) |
+.('B2Be2d |
+c B cA2).('g |
+f g a a g f |
+e f g g f e) |
+.('a g f e d c |
+d3-d3) :|]

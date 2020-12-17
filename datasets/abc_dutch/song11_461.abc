@@ -1,0 +1,47 @@
+X: 10460
+T: Sinte Merten van de ruggenuchte, Hij met zij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 2083518090
+%%humdrum-veritas-data 1945314811
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F F F A A A/ A/ |
+c3c2F |
+G G BA2G |
+F3z2).('C/ C/ |
+F2F A A A |
+c3c2F/ F/ |
+G2G B A G |
+F3z2).('C |
+F F FA2A |
+c3c2F/ F/ |
+G G B/ B/A2G |
+F3z2).('C |
+F F FG2G |
+F2F C C C |
+F2FG2G |
+F2F C C) .('C |
+F F FA2A |
+c2cc2c |
+c2BA2A |
+G2GF2).('F |
+G G GA2A |
+F3C2F |
+G2GA2A |
+F3z2).('C/ C/ |
+F2FA2A |
+c3z2A/ A/ |
+B2BG2G |
+F3-F2z) |
+.('c3A3 |
+c3A2A/ A/ |
+B2B c c c |
+F3z2) |]

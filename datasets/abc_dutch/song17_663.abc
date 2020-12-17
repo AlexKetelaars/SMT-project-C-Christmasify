@@ -1,0 +1,43 @@
+X: 16662
+T: Bevallige Zephir, uw soeten adem in den Hoff [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2414058290
+%%humdrum-veritas-data 2346560203
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A/ [I:setbarnb 1]|
+d>ef3/g/ |
+e3a |
+d>^cd3/e/ |
+^c>BA3/).('A/ |
+d>cc3/B/ |
+B>).('Bc3/d/ |
+e3).('e |
+f>BB3/c/ |
+^G>GA3/B/ |
+B3A |
+A3x) |
+.('e>ea3/g/ |
+^f2).('f3/(e// f//) |
+g>gg3/f/ |
+e>dc3/).('c/ |
+f>d_e3/c/ |
+d2).('_b3/a/ |
+g>ag3/f/ |
+f2).('A3/A/ |
+B3B |
+^c3).('c |
+d>ef3/g/ |
+e>).('ef3/g/ |
+a3a |
+_b>ee3/f/) |
+.('^c>cd3/e/ |
+e3d |
+d3) :|]

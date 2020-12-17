@@ -1,0 +1,31 @@
+X: 6337
+T: Volkslied. De Koning leev!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 1074303639
+%%humdrum-veritas-data 2091331821
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G G G [I:setbarnb 1]|
+c2>G2e3c |
+G4z2).('d2 |
+e2>d2 c d e f |
+g2G2z2).('G2 |
+(d2>c2) (c B A G) |
+c4z2).('c2 |
+B2>G2 d c A F |
+(A2G2)z) .('G f e |
+d2>c2 (c B A G) |
+e4z) .('(c B A) |
+G2>E2G3D |
+E4z) .('(G f e) |
+d2>c2 (B d a g) |
+g4z) .('f e d |
+c2>G2e3d |
+c4z) |]

@@ -1,0 +1,39 @@
+X: 16893
+T: Het daget uijt den oosten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 1290935144
+%%humdrum-veritas-data 2550236656
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+d4e2 |
+f4e2 |
+d6 |
+d4fg |
+a4e2 |
+f2e2d2 |
+e6- |
+e4) |
+.('ef [I:setbarnb 9]|
+g4g2 |
+g2>a2b2 |
+a6 |
+e6 |
+e4f2 |
+e4d2 |
+c4d2 |
+e6- |
+e4ef |
+g4g2 |
+g2>a2b2 |
+a2>g2f2 |
+gf2<e2d |
+d6- |
+d4) :|]

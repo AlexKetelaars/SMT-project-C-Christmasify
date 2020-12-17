@@ -1,0 +1,30 @@
+X: 18052
+T: No 19
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1306775843
+%%humdrum-veritas-data 696284079
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('f2-(3f a g (3f e d |
+c2B2A2) |
+(3.('G B d (3c A F (3B G E |
+E4F2) |
+.('g2-(3g e f (3g a =b |
+c'2f2e2) |
+(3.('f g a (3g e c (3f d =B |
+=B4B2) |
+.('g2-(3g c d (3e f g |
+a2-(3a f e (3f g a |
+b2-(3b e f (3g a =b |
+c'4z2) |
+.('f2-(3f a g (3f e d |
+c2B2A2) |
+(3.('G B d (3c A F (3B G E |
+E4!fermata!F2) |]

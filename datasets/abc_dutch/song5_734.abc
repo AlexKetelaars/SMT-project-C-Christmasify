@@ -1,0 +1,84 @@
+X: 4733
+T: Onder de groene bomen Daar lag een Engels schip
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 3107593115
+%%humdrum-veritas-data 1719842687
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d dd2e |
+d3B2).('B |
+d2dd2e |
+d3-d2).('B |
+d2d d d e |
+d3B2).('B |
+d d d d d e |
+d3-d2).('B |
+d d dd2e |
+d3B2).('B |
+d d de2e |
+d/ d/ d dB2).('B |
+d2de2e |
+d2dB2).('B |
+d2de2e |
+d3B3) |
+.('g2dd2d |
+e2BB2).('B |
+d2AA2B |
+A2GG2).('B |
+d2dd2d |
+ed2-d2).('d |
+d2dd2d |
+dB2-B3) |
+.('d2dd2d |
+e2ee2).('e |
+d2dd2d |
+c/ c/-c2c3) |
+[M:2/4].('d d (3d d d |
+d dd2) |
+.('B d d d |
+B dd2) |
+.('B d d d |
+B d d3/) .('d/ |
+B d d) .('d/ d/ |
+B d d3/) .('d/ |
+[M:6/8]B2dd2).('d |
+B2d d d) .('B |
+d2de2e |
+d3B3) |
+.('d d dd2e |
+d3B2).('B |
+d2dd2e |
+[M:2/4]d dB2) |
+.('d d B e |
+d2B) .('B |
+d d B e |
+d d B B) |
+[M:6/8].('d2dB2e |
+d2d B B) .('B |
+A A A A A A |
+A A AA3) |
+.('A2AA2A |
+A2AA2).('B |
+d d dB2e |
+d2dB2).('B |
+d2de2e |
+d3B3) |
+.('d3d2d/ e/ |
+d3B3) |
+[M:2/4].('d e d c |
+(B A)G2) |
+(3.('d d d (3d d d |
+e/ e/ e/ e/e2) |
+(3:2:5.('d2 d d d d |
+c/ c/ c/ c/ c) .('A |
+[M:6/8]A A AA2A |
+A2AA3) |
+.('A2A A A A |
+A2AA3) |]

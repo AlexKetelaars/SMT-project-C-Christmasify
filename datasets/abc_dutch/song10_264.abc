@@ -1,0 +1,38 @@
+X: 9263
+T: Zomer is‘t in bosch en velden, koekoek roept [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 1929551127
+%%humdrum-veritas-data 4050126460
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('c2BA2B |
+c2c(BA)G) |
+.('E2EF2D |
+E3z2z) |
+.('C2ED2F |
+E2ED2C) |
+.('E2GA2A |
+G3z2z) |
+.('c3A3 |
+c3z2z) |
+.('G2EF2D |
+E2GF2E) |
+.('C2ED2B, |
+C3z2z) |
+.('E2ED2F |
+G2GA2).('B |
+c2BA2B |
+c3z2z) |
+.('G3A3 |
+G3(F2E)) |
+.('(C2E)F2D |
+E3F2).('G |
+E2GD2B, |
+C3z2z) |]

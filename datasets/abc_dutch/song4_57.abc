@@ -1,0 +1,42 @@
+X: 3056
+T: Die Trommel schlägt Parade Die seid 'nen Fah [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 149172683
+%%humdrum-veritas-data 2709819846
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('D/ [I:setbarnb 1]|
+G>GB3/A/ |
+G2Fz/) .('F/ |
+BBcc |
+d3z/) .('d/ |
+dd/ d/dd/ d/ |
+e2dz/) .('d/ |
+ccBA |
+G3z/) .('D/ |
+G>GB3/A/ |
+G2Fz/) .('F/ |
+BBcc |
+d3z/) .('d/ |
+dddd |
+e2dz/) .('d/ |
+ccBA |
+G3z/) .('D/ |
+G/ G/-Gzz/ A/ |
+B/ B/-Bz).('B |
+cccc |
+d4) |
+.('g2f/ e/ d/ c/ |
+Bd/ c/ B/ B/ A/ A/ |
+G3z/) .('D/ |
+G2A2 |
+B2A3/A/ |
+Gz(^FA) |
+G3z/) |]

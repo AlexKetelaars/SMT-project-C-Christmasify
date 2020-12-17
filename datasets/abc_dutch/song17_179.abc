@@ -1,0 +1,27 @@
+X: 16178
+T: Zeldzaam is de zoete min, Die betovering van zin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2674672073
+%%humdrum-veritas-data 1463098777
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('g2^f2g2f2 |
+g> f e> dd4) |
+.('d2d2e> d c3/ B/ |
+A2).('B> A G> A B c |
+d d) .('=e> f f> a (b3/ a/ |
+g/ f/ e/ d/)^c2).('a2d2 |
+g> g a> b=e2d2) |
+.('f> ff2e> ee2) |
+.('d> d d> c B> A B G |
+z2).('G> A (B/ A/ G B3/) c/ |
+d2).('d> d (g/ ^f/ =e a3/) b/ |
+^f2).('d> B c> dA2 |
+G8) :|]

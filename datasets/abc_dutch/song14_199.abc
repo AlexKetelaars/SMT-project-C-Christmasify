@@ -1,0 +1,30 @@
+X: 13198
+T: Arm und klein ist meine Hütte Aber Ruh und E [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 687869518
+%%humdrum-veritas-data 1274054381
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A2> B2 (d c) (B A) |
+G2> A2 (c B) (A G) |
+(F B) (A G) (F d) (c B) |
+(B A) (c A) (A2 G2)) |
+.('A2> B2 (d c) (B A) |
+G3 (A/ B/) (c B) (A G) |
+(F B) (A G) (F d) (c B) |
+(A G) (c E) (G2 F2)) |
+.('!wedge!c2 !wedge!c2 !wedge!d2 !wedge!d2 |
+(f e) (d c) f2 f2 |
+(f a) (f c) c2 B c |
+(d c) B A A2 {c B} G2) |
+.('A2> B2 (d c) (B A) |
+G2 (A B) (c B) (A G) |
+(F B) (A G) (F d) (c B) |
+(A G) (B E) (G2 F2)) :|]

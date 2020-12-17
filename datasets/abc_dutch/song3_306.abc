@@ -1,0 +1,25 @@
+X: 2305
+T: Het is van een rijk en edel man zeer Die bij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 3145244158
+%%humdrum-veritas-data 1306212092
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('ddd2c [I:setbarnb 1]|
+B3(G2d) |
+dddf3 |
+d2).('dd>ef |
+g3(g2b) |
+a2g(f>de) |
+d3-d3) |
+.('g2gb2a |
+g2ge3) |
+.('dcAdde |
+(gf)(ed3)) |]

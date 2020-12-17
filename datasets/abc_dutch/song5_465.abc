@@ -1,0 +1,23 @@
+X: 4464
+T: En die zijn geld spaart dat is een beeste En [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 4089408783
+%%humdrum-veritas-data 1873336774
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d d B [I:setbarnb 1]|
+G2G G A B |
+c2c) .('c c B |
+A2A A B c |
+d2>).('d2 d B |
+G2G G A B |
+(c e)e2).('e e |
+d2>c2 B A |
+G4) |]

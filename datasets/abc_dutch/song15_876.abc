@@ -1,0 +1,30 @@
+X: 14875
+T: Schöne Kinder lieben Ist uns von Natur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 2816252714
+%%humdrum-veritas-data 1436191472
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('G> A B A> B G |
+d3D3) |
+.('G> A B A> B G |
+^F3-F2).('D |
+G> A B A> B G |
+d3D3) |
+.('G> A B A> B G |
+^F3F2).('=F |
+B> c d c> d B |
+f3F3) |
+.('G> A B A> B G |
+d3D3) ]|:
+.('G> A B A> B G |
+e3-e2).('d |
+B> A G D> G ^F |
+G3G3) |]

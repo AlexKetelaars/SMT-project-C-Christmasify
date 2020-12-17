@@ -1,0 +1,30 @@
+X: 9442
+T: Op eenen nacht viel eenen rijm; op eenen nac [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2575307401
+%%humdrum-veritas-data 2051203184
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('E F E [I:setbarnb 1]|
+D2>E2 F G |
+A2>).('G2 F E |
+D2>E2 F G |
+[M:2/4]!fermata!A2z) .('D |
+(3A G A (3B A G |
+[M:3/4]F2D2E F |
+(3G F ED2z) .('E |
+[M:6/8]F E D D D E |
+F F GA2).('G |
+F E D D D E |
+F F GA2).('D |
+A G A B A G |
+F2E D z) .('E |
+F G A G F E |
+D2>-D2 z z) |]

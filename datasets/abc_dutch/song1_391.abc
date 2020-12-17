@@ -1,0 +1,30 @@
+X: 391
+T: Tweede Carileen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2186135448
+%%humdrum-veritas-data 3130359549
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('g4e4 |
+d> c B> AG2A B |
+c2>c2 d e f d |
+e6).('e3/ e/ |
+e2f> ga2c3/ c/ |
+c2d> ef2).('A3/ A/ |
+B G e> ed3c |
+c8) |
+.('A2A> Bc2B3/ c/ |
+d2G> GG2e3/ e/ |
+e2).('d e f g e3/ d/ |
+d6g3/ g/ |
+a2e> ef2^f3/ f/ |
+g2).('d> cB2g3/ g/ |
+a2e> ed3c |
+c8) :|]

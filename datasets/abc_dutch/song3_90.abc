@@ -1,0 +1,15 @@
+X: 2089
+T: Hendrik Jelles wier in boerke Mei in luzich  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 3271794095
+%%humdrum-veritas-data 3526117843
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G B B B B B d> d d d d G F GA2z2z2).('d d d d d d d A/ A/ A d/ d/ d cB2z2z2).('d d d d d d G G B B B B A GE2z2z2).('G G G G G A B B d d d d F AG2) |]

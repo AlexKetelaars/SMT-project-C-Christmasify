@@ -1,0 +1,35 @@
+X: 5028
+T: Wat is het nat wat is het nat al onder mijne [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2035635899
+%%humdrum-veritas-data 596158593
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G G G G G G G G |
+A G F EG2D2) |
+.('G G G G G G G G |
+A G F EG2D2) |
+.('G G G G G EC2 |
+G G G G G EC2) |
+.('G2F A G GF2 |
+F F F A G GF2) |
+.('G2F A G GF2 |
+F F F A G GF2) |
+.('F F F A G G F C |
+F F F AG2F2) |
+.('F F F A G G F C |
+F F F AG2F2) |
+.('c D D D D DD2 |
+c D D D D DD2) |
+.('G G/ G/ G GG2c2 |
+E E D DC4) |
+.('G G/ G/ G GG2c2 |
+E E D DC4) |]

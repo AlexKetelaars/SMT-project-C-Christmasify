@@ -1,0 +1,15 @@
+X: 562
+T: O Heer, ons alder liefste Heer Hoe wonderlij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3707487887
+%%humdrum-veritas-data 810663649
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2D2D2D2A4A2c2A4F4z2).('A2A2A2_B2A2(F4-F4G4-G4)F4z2).('F2F2A2(GFGAG2)F2E2D2C4z2).('C2D2E2F2D2(A2>G2F2EDE4)D4) |]

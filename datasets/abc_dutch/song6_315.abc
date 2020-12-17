@@ -1,0 +1,23 @@
+X: 5314
+T: En er vrijde een ruiter al naar zijn meid En [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 1029505441
+%%humdrum-veritas-data 1929965895
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F G [I:setbarnb 1]|
+A2A GF2F A |
+G2>F2E2).('E F |
+G2F ED2C2 |
+(D2>E2)F2).('E D |
+C C C CC2E D |
+C2C2C2).('C C |
+F2G GB2A2 |
+G4F2) |]

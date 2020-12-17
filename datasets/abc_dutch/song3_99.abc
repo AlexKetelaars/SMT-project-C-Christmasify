@@ -1,0 +1,45 @@
+X: 2098
+T: Terwijl dat ik liefhebber was Al van het pen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 650443008
+%%humdrum-veritas-data 1413967592
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GDGA |
+BBz).('B/ B/ |
+BA/ B/cB |
+G2z).('D/ D/ |
+GGAA |
+BBz).('B |
+BA/ B/cB |
+G2z).('D |
+GGAA |
+BBz).('B/ B/ |
+B// B// B/ A/ B/cB |
+G2z).('D/ D/ |
+GGAA |
+BBz).('B |
+BAcB |
+G2z).('B/ B/ |
+BAAG/ G/ |
+F3).('A |
+AABA |
+Adz).('B |
+c/ c/deA |
+Bed2 |
+z).('BBA |
+cBAG- |
+Gz2).('B |
+c/ c/deA |
+Bed2 |
+z).('BBA |
+cBAG- |
+Gz2) |]

@@ -1,0 +1,23 @@
+X: 807
+T: Daer staet een linde in ghenen dal van boven [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2518096153
+%%humdrum-veritas-data 665917696
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D(3:2:2F2G [I:setbarnb 1]|
+(3:2:4AB2A2G |
+[M:3/2]A2z).('AAA |
+[M:2/2](3:2:4c2BA2G |
+[M:3/2]F2z).('A(3(G A) B |
+[M:2/2](3:2:5A2D (F E) D |
+[M:3/2]C2z).('GGG |
+(F/ E/ F/ G/(3:2:5A>)A GF2E |
+D4) |]

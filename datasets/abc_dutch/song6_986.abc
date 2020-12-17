@@ -1,0 +1,32 @@
+X: 5985
+T: Priemus van geel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1409800958
+%%humdrum-veritas-data 2503407949
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G [I:setbarnb 1]|
+B2c2 |
+d2e/ d/g |
+dedc |
+B/ c/ A/ B/G).('A |
+B2d2 |
+e2f/ e/d |
+c2B2 |
+A3) :|]
+.('G [I:setbarnb 9]|
+ABAG |
+F/ G/ E/ F/D).('d |
+d2e/ d/c |
+B/ c/ A/ B/G).('d |
+e2f2 |
+gf/ e/dc |
+B2A2 |
+G2) |]

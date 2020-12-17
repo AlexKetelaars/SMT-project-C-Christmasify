@@ -1,0 +1,62 @@
+X: 24
+T: Wanneer de groote Dagh, die eens moet zijn,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3893968660
+%%humdrum-veritas-data 2396313396
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=69
+K: Bb clef=treble
+.('G2d2g2 |
+f2>e2d2 |
+d2c2B2 |
+A4z2) |
+.('f2de2c |
+d2>c2B2 |
+A6 |
+G4z2) |
+.('G2d2g2 |
+f2>e2d2 |
+d2c2B2 |
+A4z2) |
+.('f2de2c |
+d2>c2B2 |
+A6 |
+G4z2) |
+.('d2dcBA |
+G2^F).('G2d |
+f2de2c |
+d4z2) |
+.('f2de2c |
+d2>f2e2 |
+d2).('g2gg |
+^f4z2) |
+.('d2dcBA |
+G2^F).('G2d |
+f2de2c |
+d4z2) |
+.('f2de2c |
+d2>f2e2 |
+d2).('g2gg |
+^f4z2) |
+.('d2dd2d |
+d2dd2d) |
+.('e2ee2e |
+e2ee2e) |
+.('^f2ff2f |
+d2dd2c) |
+.('B2BA2G |
+G6) |
+.('d2dd2d |
+d2dd2d) |
+.('e2ee2e |
+e2ee2e) |
+.('^f2ff2f |
+d2dd2c) |
+.('B2BA2G |
+G6) |]

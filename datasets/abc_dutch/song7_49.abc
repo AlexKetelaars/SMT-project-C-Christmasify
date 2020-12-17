@@ -1,0 +1,32 @@
+X: 6048
+T: Cupido
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 500697761
+%%humdrum-veritas-data 1379164963
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d>Ad3/f/ |
+e2a3/g/ |
+f2e2 |
+d>fe3/d/ |
+c2B2 |
+A2x2) :|]
+.('f>ga3/b/ |
+f3g |
+a2a2 |
+e>ee3/g/ |
+d2gf |
+e3).('e |
+e>ee3/e/ |
+a2g2 |
+f2e2 |
+d>fe3/d/ |
+A2c2 |
+d2) |]

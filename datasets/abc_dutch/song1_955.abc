@@ -1,0 +1,39 @@
+X: 955
+T: Als milicijn ben ik in dienst getreden al vo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 2054688694
+%%humdrum-veritas-data 181347755
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D D D [I:setbarnb 1]|
+G> G G GF2A2 |
+E2D2z) .('D F G |
+A A G GF2E2 |
+D4z2).('D D |
+G G G G F F A A |
+E2D2z) .('D D D |
+E2E2D2D2 |
+B,4z2).('D D |
+G2G2F2A2 |
+E2D2z) .('B B B |
+A2G2F2E2 |
+D4z) .('D D D |
+G2G2F2A2 |
+E2D2z) .('D E D |
+E2E2D2D2 |
+B,4z) .('D D D |
+G G G A B A G F |
+E C C C C) .('D E F |
+G2G2F2A2 |
+G4z) .('D D D |
+B B B B B A G F |
+E C C C C) .('D E F |
+G2G2F2A2 |
+G4z) |]

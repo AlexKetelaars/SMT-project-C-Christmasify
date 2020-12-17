@@ -1,0 +1,23 @@
+X: 2645
+T: Luistert oud en jong van jaren luistert oud  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 3585780165
+%%humdrum-veritas-data 1950171530
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3// D// [I:setbarnb 1]|
+EcBA |
+(GA)B).('c3// B// |
+AcBA |
+(DG)G).('F/ E/ |
+DGGA |
+Bdd).('c/ B/ |
+dcBA |
+G3) |]

@@ -1,0 +1,34 @@
+X: 3177
+T: Duivels list en oorsprong dat is een kwade t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 1394215974
+%%humdrum-veritas-data 3801670543
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2G2G G |
+A2<D2(E F) |
+(3(G F) E D DB,2- |
+[M:2/4]B,) .('A, B, C |
+[M:3/4]D2>D2 E F |
+[M:2/4]G2A2 |
+[M:3/4](GF2)).('A G F |
+[M:4/4]E2>^C2 D E F E |
+[M:3/4]D4).('G2 |
+A2>A2 G A |
+B2>).('A2 G F |
+E F G A G F |
+E2>).('F2 F E |
+[M:2/4]D3D |
+E2F2 |
+ED2).('D |
+[M:3/4]G2>B2 A A |
+E2>F2 G A |
+[M:2/4]G2F2 |
+G4) |]

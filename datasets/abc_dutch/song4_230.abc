@@ -1,0 +1,29 @@
+X: 3229
+T: Jehui jui jakke Jan Kom do er is bij mij,
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 2909338773
+%%humdrum-veritas-data 2334884761
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+d2e |
+dBz |
+[M:4/4](dB)z).('G |
+[M:3/4]d/> d/de |
+dz).('G |
+d/> d/de |
+dz).('D |
+d2e |
+dBz |
+[M:4/4](dB)z).('G |
+[M:3/4]d/> d/de |
+d2).('G |
+d/> d/de |
+d2) |]

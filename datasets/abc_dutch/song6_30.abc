@@ -1,0 +1,33 @@
+X: 5029
+T: Cicelia Cisalia Wie kruipt er door me tralia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2127470609
+%%humdrum-veritas-data 947632697
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F/ [I:setbarnb 1]|
+EE/DF/ |
+EE/D).('A,/ |
+DD/DF/ |
+EE/D).('F/ |
+EE/DF/ |
+EE/D).('A,/ |
+DD/DF/ |
+EE/D).('F/ |
+EE/DF/ |
+EE/D).('A,/ |
+DD/DF/ |
+EE/D).('F/ |
+EE/DF/ |
+EE/D).('A,/ |
+DD/DF/ |
+EE/D3/) |
+.('d>A A/ A/ |
+FE/D3/) |]

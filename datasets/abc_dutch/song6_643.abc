@@ -1,0 +1,28 @@
+X: 5642
+T: Is er iemand uit Oostindiën gekomen, die er  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2930416018
+%%humdrum-veritas-data 29399752
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('D E [I:setbarnb 1]|
+F2F2F2(G A) |
+B2D EF4 |
+C2).('A B (c d) (e c) |
+d4z2).('D E |
+F2F2F2(G A) |
+B2D EF4 |
+C2).('(A B) (c d) (e c) |
+d6).('(B c) |
+d2d2d2(c B) |
+G2G2G2).('(A B) |
+c2>B2 A A G G |
+F2(B c)d2c2 |
+B6z2) |]

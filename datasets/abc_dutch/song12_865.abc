@@ -1,0 +1,27 @@
+X: 11864
+T: [NLB152286_01]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 3670615274
+%%humdrum-veritas-data 1935199611
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d2!mordent!!mordent!eA/ B/ |
+c<BA/d3/ |
+e<fg/f3/ |
+e>dd2) :|]
+.('f>efd |
+e<fg3/a/ |
+fe3 |
+d>ef3/g/) |
+.('a>dc3/A/ |
+a>dc3/A/ |
+a>dc3/A/ |
+d>efg/ f/ |
+e>dd2) |]

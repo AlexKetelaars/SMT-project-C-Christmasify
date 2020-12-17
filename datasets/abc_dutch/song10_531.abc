@@ -1,0 +1,33 @@
+X: 9530
+T: Wat vreugde, wat blij geraas, Hebben wij nu  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 2917941228
+%%humdrum-veritas-data 1017588695
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('z2zD |
+G2DG |
+BGF).('A |
+cAGF |
+A2G).('G |
+(B2G)B |
+dBA).('B |
+AGFE |
+D2-Dz) |
+.('AAcc |
+B3).('d |
+cBAG |
+B2A).('G |
+(DG/) A/BG |
+F).('(A/ B/)cA |
+GD(G/ A/) (B/ c/) |
+d3).('e/ c/ |
+B>B {A B}A3/G/ |
+G3z) |]

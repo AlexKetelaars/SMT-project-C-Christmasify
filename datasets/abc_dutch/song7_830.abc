@@ -1,0 +1,50 @@
+X: 6829
+T: Lest in het krieken van de dagen En in het z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:31
+%%humdrum-veritas 2455207477
+%%humdrum-veritas-data 579272627
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('DGA |
+B2B |
+(AG)^F |
+G2D) |
+.('DGA |
+B2B |
+A2A |
+G2z) |
+.('DGA |
+(Bc)B |
+ABA |
+G2D) |
+.('GGA |
+(Bc)B |
+AG^F |
+G2z) |
+.('BBc |
+d2d |
+dcB |
+A2D) |
+.('GBc |
+d2d |
+(dc)B |
+A2z) |
+.('BcB |
+A2G/ G/ |
+(AB)A |
+G2D) |
+.('DGA |
+B2B |
+ABA |
+G2z) |
+.('edc |
+B2B |
+ABA |
+G2z) |]

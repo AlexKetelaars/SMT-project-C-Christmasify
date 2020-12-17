@@ -1,0 +1,29 @@
+X: 9387
+T: O dwaze mensch, wil hier aanmerken En luiste [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3987388218
+%%humdrum-veritas-data 1483464279
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('EC2D [I:setbarnb 1]|
+E2GG2G |
+(E/ D/) !fermata!C) .('CE2F |
+(G A) G (F G) A |
+!fermata!G2).('GG2G |
+A2AG2G |
+(E/ D/) !fermata!C) .('CE2F |
+(G A) G (F G) A |
+!fermata!G2).('GG2G |
+A2AG2G |
+E D) .('CD2E |
+!fermata!D2).('EC2D |
+E G G E D) .('C |
+D2EC3- |
+C) |]

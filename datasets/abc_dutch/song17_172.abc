@@ -1,0 +1,24 @@
+X: 16171
+T: Joris, moetje steeds Rinkinken, En u eeuwig  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 4244206660
+%%humdrum-veritas-data 2515854235
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d2A2d2e2 |
+f2g2a2a2) |
+.('b2a2(g a) (f g) |
+(e f) (d e)^c2A2) |
+.('d2>c2B3A |
+(G A) (^F G)A4) |
+.('A2A2(=B c A B |
+^c d =B c)d4) |
+.('e2f2g2e2 |
+f2(e d)d4) :|]

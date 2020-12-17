@@ -1,0 +1,29 @@
+X: 2769
+T: Toen God de wereld heeft geschapen Toen schi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 480466909
+%%humdrum-veritas-data 111383431
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G F G [I:setbarnb 1]|
+(A4G) F E D |
+B2G2>).('G2 F G |
+A2>A2 G F E D |
+B2G6) |
+.('B2B> B(B3G |
+A) G F Ec4) |
+[M:2/4].('z A B c |
+[M:4/4](d B) (G E) D> D B3/ A/ |
+G8) |
+.('B2B> B(B3G |
+A) G F Ec4) |
+[M:2/4].('z A B c |
+[M:4/4](d B) (G E) D> D B3/ A/ |
+G4z) |]

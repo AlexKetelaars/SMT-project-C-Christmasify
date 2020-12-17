@@ -1,0 +1,32 @@
+X: 6003
+T: Ik hoorde laast Bij de Nagt, een herderinnet [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 256604389
+%%humdrum-veritas-data 2037205938
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A B [I:setbarnb 1]|
+c2d eA2B ^G |
+A4a4) |
+.('e2f ed2e B |
+c4A2).('A B |
+c2d eA2B ^G |
+A4a4) |
+.('e2f ed2c d |
+e4z) :|]
+.('e f g [I:setbarnb 9]|
+a2b ag2f g |
+a4A2).('B2 |
+c2e2d cB2 |
+c2A2>).('e2 f g |
+a2b ag2f g |
+a4A2).('B2 |
+c2d ec2B2 |
+A4) |]

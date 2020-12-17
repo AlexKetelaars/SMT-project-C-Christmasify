@@ -1,0 +1,27 @@
+X: 4344
+T: Piet Verschuur een stoffelijk jager In het o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 4011853616
+%%humdrum-veritas-data 1801112190
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+G>A B/> B/G |
+(Ac)c).('c/ c/ |
+Bdd(c/ B/) |
+A3).('G/ A/ |
+Beee |
+(d>B)G).('d3// d// |
+ddcd |
+(B/ A/ B/ c/d)).('G/ G/ |
+eeee |
+(d>B)G).('d3// d// |
+ddcd |
+B3) |]

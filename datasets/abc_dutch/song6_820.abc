@@ -1,0 +1,33 @@
+X: 5819
+T: Niets schenkt ons hier beneden Een reiner zi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 3247922946
+%%humdrum-veritas-data 1105213760
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+F2Ad2e |
+(f2e)d2).('d |
+g2fe2d |
+c2>-c2 z) .('e |
+f2ed2c |
+(B2^d)e2).('f |
+(g f) ed2c |
+d2>-d2 z) .('A |
+c2Ad2A |
+e3f2).('f |
+g2g (f e) f |
+e2>-e2 z) .('e |
+f2ed2c |
+(B2^d)e2).('f |
+(g f) ed2c |
+f3-(f/ a/ g/ f/)) .('(e/ d/) |
+e2eB2B |
+d2>-d2 z) |]

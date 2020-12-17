@@ -1,0 +1,44 @@
+X: 14869
+T: Le jour que mon Iris Me rangea sous ses loix
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 4255722189
+%%humdrum-veritas-data 3633448909
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=96
+K: C clef=treble
+.('A [I:setbarnb 1]]|:
+f2>e2 d e |
+^c4A _B |
+!trill!!trill!G4F E |
+{E//}F2>).('F2 F D |
+A2d4- |
+d2B B ^c d |
+^c2{B//} A) .('e !trill!!trill!d B |
+c c d e A B |
+^G2{F}E3).('E |
+c2>c2 d e |
+(e2!trill!!trill!d2){c}B2 |
+c> dB3A |
+A4z A) |
+.('(A2>c2)c2 |
+f4f c |
+d4f2 |
+_B2>B2 c d |
+!trill!!trill!G2).('c3A |
+d2d d e f |
+e2{d} c) .('e f g |
+c2f !trill!!trill!e d e |
+f4).('f3/ a/ |
+d2d c d A |
+_B2{A//} G) .('d e f |
+g2f2e d |
+^c2>).('d2 e f |
+g2(f3f/ e/) |
+!trill!!trill!e4d d |
+B4) |]

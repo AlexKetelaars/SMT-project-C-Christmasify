@@ -1,0 +1,32 @@
+X: 16287
+T: Wie heeft ooit grooter gek gezien, Dan Mahomet?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1549247762
+%%humdrum-veritas-data 797432952
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+(d c) B (c B) A |
+G2GG2).('d |
+(e d) cc2e |
+(d c) BB2).('d |
+(c B) A (B A) G |
+d3-d2) |
+.('d [I:setbarnb 7]|
+d2=f (f e) d |
+(c B) cA2).('c |
+c2e (e d) c |
+(B A) BG2).('A |
+_B2A (B A) G |
+(F G) AD2).('d |
+(B A) G (d c) B |
+g3).('e3 |
+(d c) B (c B) A |
+G3-G2) :|]

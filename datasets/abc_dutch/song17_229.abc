@@ -1,0 +1,50 @@
+X: 16228
+T: My zelf te werpen in een poel van vuur, Zoo  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3120055501
+%%humdrum-veritas-data 312337978
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c2E2F2 |
+(G2A G)G2 |
+A2>A2 B c |
+B4z2) |
+.('c2(f e) (d c) |
+B2>A2G2 |
+c4z2 |
+d4z2 |
+c2f2e2 |
+d4z2) |
+.('e2(d c) (B A) |
+^G4E2 |
+A4z2 |
+B4z2 |
+c2>B2A2 |
+B2^G4 |
+A4z) .('B |
+c2>d2 B c |
+d2>e2 d c |
+B2>).('c2 A B |
+(c B) c d B c |
+(d c) (d e) c d |
+e2>d2 c d |
+B4).('G2 |
+_B4B2 |
+A2A2B2 |
+c2c2d2 |
+B4d2 |
+(e f e f e f |
+d2)G2z2 |
+z6 |
+z2z2).('d2 |
+(e f e f e f |
+d2)G2c2- |
+c d2<(d2c) |
+c6) |]

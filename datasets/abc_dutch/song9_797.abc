@@ -1,0 +1,28 @@
+X: 8796
+T: Buurman, ik heb je meer gezien, meer gezien, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 2795085265
+%%humdrum-veritas-data 1161181204
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+(3.('A A A A3/ A/ |
+B> BA2 |
+B> BA2) |
+.('F> F (3F F F |
+A4 |
+E3).('F |
+(3E E E E3/ F/ |
+(3E E E E3/) .('d/ |
+(3c> c c (3B> B B |
+A3).('F |
+(3E E E E3/ F/ |
+(3E E E E3/) .('d/ |
+(3c> c c (3B> B B |
+A4) |]

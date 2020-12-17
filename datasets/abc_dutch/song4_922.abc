@@ -1,0 +1,23 @@
+X: 3921
+T: Het was op een oudejaarsavond En 't was op e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 3171690380
+%%humdrum-veritas-data 982095378
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>A2B2d3/ B/ |
+(A2B A)G2).('G A |
+B2c ed2c B |
+A8) |
+[M:6/4].('d2>c2 B> A G FE2D3/ D/ |
+[M:4/4](G2B2)A2).('d c |
+B B G AB2A2 |
+G6) |]

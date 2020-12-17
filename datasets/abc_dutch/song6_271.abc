@@ -1,0 +1,32 @@
+X: 5270
+T: In de maan en daar is Hier heb je een vogel  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 2943944769
+%%humdrum-veritas-data 4072761240
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D3/ F/ [I:setbarnb 1]|
+A6D3/ F/ |
+A6z2) |
+.('A2A AD2D D |
+G2F FE4) |
+.('D> E F> G A> A B3/ G/ |
+F2E2D4) |
+.('A2A> AA3A |
+A2F> ED3).('A |
+A2(3G G GF2E2 |
+D4z2).('B B |
+A A/ A/ B B!fermata!A2).('D3/ F/ |
+A6D3/ F/ |
+A6z2) |
+.('A2A AD2D D |
+G2F FE4) |
+.('D> E F> G A> A B3/ G/ |
+F2E2D4) |]

@@ -1,0 +1,35 @@
+X: 4810
+T: Van de Ee tot Hontenisse Van Hulst tot aan Cadzand
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 914484566
+%%humdrum-veritas-data 3674883395
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D>DGE |
+D2B,).('B, |
+A,B,CE |
+D3).('D |
+D>DEE |
+F>GA).('G |
+F(E/ D/)FE |
+D3-D/) .('A/ |
+A>FF3/D/ |
+E/> F/ G/> B/A3/).('G/ |
+F>AA3/D/ |
+F/> F/ E/ E/D).('D |
+G>DDG |
+G>EE).('E |
+AEA3/G/ |
+(FA2)).('D |
+B>B (d/ c/) (B/ A/) |
+GDE).('(G/ A/) |
+B>GAF |
+G3) |]

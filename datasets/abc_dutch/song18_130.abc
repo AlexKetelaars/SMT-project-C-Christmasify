@@ -1,0 +1,26 @@
+X: 17129
+T: Trompet Marijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 305816284
+%%humdrum-veritas-data 2025866206
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('g2g fe2e2 |
+d2d2e2e f |
+g a g fe2e2 |
+!trill!!trill!d4e4) |
+.('e2e2e2c d |
+e d e dc4 |
+e2e2e2c d |
+e d e dc4) |
+.('g2g fe2e2 |
+d2d2e2e f |
+g a g fe2e2 |
+d4e4) :|]

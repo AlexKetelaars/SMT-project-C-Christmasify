@@ -1,0 +1,27 @@
+X: 1253
+T: Juffrouw je moet naar huis gaan Want je man  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 3926405542
+%%humdrum-veritas-data 2764476328
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+G2-G> A B3/ c/ |
+e2d2).('B3/ B/ |
+d2c2A2 |
+G4).('G3/ G/ |
+e2-e2e3/ e/ |
+d4).('B3/ d/ |
+d2c2A3/ c/ |
+c2B2).('G3/ G/ |
+e2-e2e3/ e/ |
+d4).('B3/ d/ |
+d2d d e f |
+g4) |]

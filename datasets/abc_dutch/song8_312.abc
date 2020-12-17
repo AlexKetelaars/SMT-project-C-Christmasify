@@ -1,0 +1,31 @@
+X: 7311
+T: Jan de mulder, Met zynen leeren kulder (Hier [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3990197248
+%%humdrum-veritas-data 3080974588
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G2d2d2c B |
+A B c AB2A2) |
+.('G2B2A2G2 |
+^F2G2D4) |
+.('(G A) B GB2A2 |
+(G A) B GB2A2) |
+.('(G A) B cd2d c |
+B2A2G4) ||
+.('(G A) B cd2d2 [I:setbarnb 10]|
+d2c BA4) |
+.('G2B2A2G2 |
+G2F ED4) |
+.('G2F ED4 |
+G2F ED4) |
+.('d2d2!fermata!g2d2 |
+e d c AB2A3/ G/ |
+G4z4) |]

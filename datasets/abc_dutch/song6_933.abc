@@ -1,0 +1,39 @@
+X: 5932
+T: Zwarte Babe had een kind, ‘t Was geboren in  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1275931773
+%%humdrum-veritas-data 1908290971
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('BB/ [I:setbarnb 1]|
+(B/ c/) B/AA/ |
+G3/).('FG/ |
+AA/GA/ |
+BB/).('BB/ |
+BB/dc/ |
+B3/).('dd/ |
+(d/ e/) c/AF/ |
+G3/).('AA/ |
+AF/GB/ |
+BA/).('AA/ |
+AF/GB/ |
+BA/).('dd/ |
+dd/cc/ |
+A3/).('AF/ |
+GG/AA/ |
+d3/).('Bc/ |
+de/dc/ |
+B3/).('BB/ |
+BA/Ac/ |
+ed/).('Bc/ |
+de/dc/ |
+B3/).('ge/ |
+dB/cA/ |
+G3/zz/) |]

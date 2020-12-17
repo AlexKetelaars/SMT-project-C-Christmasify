@@ -1,0 +1,25 @@
+X: 3824
+T: Op enen morgenstond trok ik de velden rond.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 1924283436
+%%humdrum-veritas-data 3972600315
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+G A B> BB3).('d |
+G A B> BB3).('d/ d/ |
+f e c d (G B) B3/) .('G/ |
+A e d> cB3).('B |
+A G A> Bc3).('c |
+B G d> dd3).('d |
+f e c d (G B/) B< B) .('G/ |
+A e d> cB3).('d |
+f e c d (G B/) B< B) .('G/ |
+A e d> cB3) |]

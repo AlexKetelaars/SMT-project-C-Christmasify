@@ -1,0 +1,32 @@
+X: 16298
+T: Hoe gelukkig is het Vee, Dat men steeds ziet [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 14125448
+%%humdrum-veritas-data 2939759222
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('e d [I:setbarnb 1]|
+{d/} c2 (B A) {c/} B2 (A G) |
+{G2}A6).('E A |
+(A2 G) B (E d) c2 |
+!trill!!trill!c2B4).('B e |
+(e ^d) (d c) (c B) (B A) |
+(G A)B4).('c ^d |
+(e B c) A G2 !trill!!trill!F2 |
+E6) |
+.('B A [I:setbarnb 9]|
+{A/} G2 (F E) d2 (c B) |
+(c B)A4).('c f |
+(f ^e) (e f) g2 B2 |
+{B}A4z2) .('A f |
+(f2 e) d (d2 c) B |
+(c d)e4).('B d |
+(c A d) B2< {A B} !trill!!trill!B2 A |
+A6) :|]

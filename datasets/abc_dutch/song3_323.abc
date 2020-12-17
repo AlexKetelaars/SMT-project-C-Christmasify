@@ -1,0 +1,24 @@
+X: 2322
+T: Er waren eens drie boerenzoons Die in het ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 2443475829
+%%humdrum-veritas-data 1195910935
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('DGE [I:setbarnb 1]|
+(D2G)FE3/D/ |
+E2>).('G2FG |
+A2A>G(FE) |
+[M:2/2]D).('CB,C |
+D2D2 |
+D(D2G) |
+[M:3/2]G2>).('F2GA |
+B2B>BA2 |
+G3) |]

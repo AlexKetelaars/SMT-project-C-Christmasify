@@ -1,0 +1,27 @@
+X: 3079
+T: Toen ik eris op Nederlands bergen stond
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 1863399068
+%%humdrum-veritas-data 823152408
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ d/ [I:setbarnb 1]|
+G2A (B c) d |
+e2ed2).('d |
+e2ef2f |
+g3z2).('d |
+d g g g f e |
+(d2g)B2).('B |
+d e d (d c) B |
+A2>).('c2 d e |
+d d gf2f |
+(g2=f)) .('c A c |
+B d dd2d |
+G2zz2) |]

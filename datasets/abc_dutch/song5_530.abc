@@ -1,0 +1,26 @@
+X: 4529
+T: En ik zou er te lest es naar de perdemart to [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 2565790873
+%%humdrum-veritas-data 905512979
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+G2G G A A A A |
+B> B B AG2).('G A |
+B2B B c> B c e |
+d4-d) .('B B c |
+d dd2e2d d |
+d> c c ce2).('d c |
+B B B B B d c B |
+A A A AA2).('d c |
+B2B B A G A B |
+G4F4 |
+G6) |]

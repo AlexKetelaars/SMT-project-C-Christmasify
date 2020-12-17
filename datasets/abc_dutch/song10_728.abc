@@ -1,0 +1,28 @@
+X: 9727
+T: Cornelia lief, Cornelia lief, Wanneer zijn w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 3295203111
+%%humdrum-veritas-data 3628898970
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C ||
+F> FF3c [I:setbarnb 2]|
+c> cc3).('A |
+B2>G2 E C |
+(G E)C2z) ||
+.('G [I:setbarnb 5]|
+(G E)C2z c |
+(c A)F2F3/ G/ |
+A> A A> A A c |
+(c> A)A2).('F3/ G/ |
+A> A A> c d3/ B/ |
+(A6 |
+G6) |
+F4z C) |]

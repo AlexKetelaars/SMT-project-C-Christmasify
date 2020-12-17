@@ -1,0 +1,59 @@
+X: 11106
+T: Wet hoor ik Buurvrouw Pleuntje, Brogt jij jo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 126119668
+%%humdrum-veritas-data 2917220223
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('D [I:setbarnb 1]|
+G2A |
+B2G |
+d3 |
+d2).('d |
+_e2d |
+(c d) B |
+A2A |
+B2G |
+d2).('d |
+_e2d |
+c2d |
+B2A |
+A2d |
+^c3 |
+d2).('B |
+B2c |
+d2_e |
+c3- |
+c2d |
+c2B |
+(A B) G |
+^F3- |
+F2).('G |
+(A B) c |
+B2A |
+B3 |
+B3) |
+.('_e2d |
+(c d) B |
+A3) |
+.('B2A |
+G2A |
+^F3 |
+D3- |
+D2).('d |
+_e2d |
+c2B |
+A2B |
+^F2).('d |
+B2A |
+G2d |
+G2d |
+G2d |
+G2) |]

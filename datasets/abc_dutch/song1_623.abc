@@ -1,0 +1,15 @@
+X: 623
+T: Ghenadighe Heere mijn toeverlaet Mijn hulper [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2890884208
+%%humdrum-veritas-data 2829197733
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=bass
+.('z2E,2G,2>G,2G,2G,2>G,2G,4<A,4G,2A,4z2).('A,4<C4C2B,2A,4(G,2>F,2F,E,/ D,/)E,4z2).('E,2A,2A,2A,2A,4A,2G,4E,4C,4z2).('C,C,G,4>E,4F,2G,2(A,4G,4C2B,2>A,2G,F,)E,4) |]

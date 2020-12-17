@@ -1,0 +1,15 @@
+X: 3838
+T: Komt vrienden luistert naar mijn lied 't Gee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1252149860
+%%humdrum-veritas-data 4215144788
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 1/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B e d c> BA2>).('G2 A B c d e d/) .('c/ B c d> cB2>).('B2 d> d e> Bd2>).('d2 e> d e> d e) .('d e d (B c/) B/A2).('e2e d (B c/) B/A3) |]

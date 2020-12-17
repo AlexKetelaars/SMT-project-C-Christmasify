@@ -1,0 +1,31 @@
+X: 13897
+T: Andante
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 953774209
+%%humdrum-veritas-data 2204534008
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=76
+K: G clef=treble
+.('z2 [I:setbarnb 1]|
+z4z4z2 z e- |
+e4^d2> c2 B3 a |
+(a4g2>) f2 (e ^d) (e d) |
+{f} !trill!!trill!e2> ^d2 {d}e8 |
+z12 |
+(3c e c A A (3c e c A A (3c e c A A |
+A4z4z4 |
+(3B d B G G (3(B d B) G G (3B d B G G) |
+.('(B4A2>) G2 F3 A |
+(A4G4)z4 |
+z b !trill!!trill!a> g !trill!!trill!f> e !trill!!trill!d> c B2 !trill!!trill!A2 |
+{c} !trill!!trill!B2> A2 {A}B6z d |
+d4c2> B2 A3 c |
+(!trill!!trill!c4B4)z2 z b |
+!trill!!trill!a> g !trill!!trill!f> e !trill!!trill!d> c !trill!!trill!B> A G2 !trill!!trill!F2 |
+{A} G2> F2 {F}G6) :|]

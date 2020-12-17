@@ -1,0 +1,37 @@
+X: 10225
+T: Karnaval, Overal
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 1098965035
+%%humdrum-veritas-data 3464977043
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('z2C D |
+E4 |
+z2E F |
+G3G |
+G F F F |
+F2G2 |
+F4 |
+E2).('C D |
+E4 |
+z2E F |
+G3G |
+G F F F |
+F2G2 |
+C3) ||
+.('C [I:setbarnb 15]|
+C D E F |
+G G (3G G G |
+A A A A |
+G G G) .('G |
+G F F F |
+F E (3E E E |
+(3E E D D D |
+C2z2) |]

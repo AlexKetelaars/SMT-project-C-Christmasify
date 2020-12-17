@@ -1,0 +1,22 @@
+X: 10217
+T: De Vastenavond die komt an, Ho, man, ho!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 119838588
+%%humdrum-veritas-data 2823759242
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C/ F/ G/AA/ |
+GG/F3/ |
+F3/C3/ |
+F3/z3/) |
+.('C/ F/ G/ A/ A/ A/ |
+GG/F3/ |
+F3/C3/ |
+F3/z3/) |]

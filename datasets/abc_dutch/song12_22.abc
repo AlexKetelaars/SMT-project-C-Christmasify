@@ -1,0 +1,58 @@
+X: 11021
+T: De Hémelgoôn kwamen, te zaamen, Beneeden get [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 545760740
+%%humdrum-veritas-data 292978245
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A>Bc |
+B>cd |
+c>BA |
+^GEc |
+BB).('e |
+ccf |
+eed |
+ecf |
+ee).('e |
+d>ef |
+BBc |
+d>ef |
+ee).('g |
+e>de |
+c>dc |
+B>cA |
+^G2c |
+d>ef |
+e>fe |
+d>cd |
+e2).('e |
+fed |
+ece |
+c>BA |
+A2).('B |
+c>BA |
+^GEc |
+d>cd |
+ec).('B |
+c>BA |
+^GGG |
+A>Bc |
+BBB |
+c>d (c/ d/) |
+B2).('c |
+d>cd |
+e2e |
+c>dc |
+B>cA |
+A>B^G |
+A2A |
+A>B^G |
+A2) |]

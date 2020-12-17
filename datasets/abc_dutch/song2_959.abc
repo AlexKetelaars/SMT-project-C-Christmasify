@@ -1,0 +1,31 @@
+X: 1958
+T: Elsje was haar naam En het was een aardig kind
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1007371333
+%%humdrum-veritas-data 2325193267
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 12/8
+Q: 3/8=80
+K: G clef=treble
+.('DD/BA/ [I:setbarnb 1]|
+G3/-G).('G/GB/dc/ |
+B3/-B3/).('BB/cA/ |
+FE/DD/GG/GB/ |
+D3/-D3/).('DD/BA/ |
+G3/G3/).('GB/dc/ |
+B3/-B3/).('BB/cA/ |
+FD/EF<GB3/ |
+G3/-G3/).('e3/c3/ |
+e3/cc/dB/GB/ |
+d3/-d3/).('cB/AG/ |
+FE/DD/GG/GB/ |
+d3/-d3/).('e3/c3/ |
+e3/cc/dB/GB/ |
+d3/-d3/).('cB/AG/ |
+FD/EF<GB3/ |
+G3/-G3/) |]

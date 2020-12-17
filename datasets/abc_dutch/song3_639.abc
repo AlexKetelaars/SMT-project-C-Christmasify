@@ -1,0 +1,32 @@
+X: 2638
+T: Ik ben de koningszoon der Grieken En daar ko [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 4101924810
+%%humdrum-veritas-data 1421554051
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+B2>A2 B A B c |
+d4B2).('B3/ B/ |
+A2A> AG2A2 |
+B6).('A A |
+d4-d c B A |
+(G2B2)d3).('G |
+G2A Ac2B A |
+G6).('D D |
+B2>A2B2c2 |
+d4B B B B |
+!fermata!z4z3).('A |
+B2A B B/ B/ B/ A< B c/ |
+d6).('c B |
+A2A> AA2A G |
+B2B4-B) .('G |
+A2B cB2A2 |
+G4z3) |]

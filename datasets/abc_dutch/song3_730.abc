@@ -1,0 +1,23 @@
+X: 2729
+T: Daar ging een heer dikwijls van huis In geen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 1398053248
+%%humdrum-veritas-data 2936990425
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('cBA [I:setbarnb 1]|
+G2>D2GA |
+B2>).('G2Ad |
+[M:5/4]B2GAc |
+[M:6/4]B2>).('B2cB |
+ABed>d d/ c/ |
+(B/ A/)G2).('GcB |
+A2FA2B3// A// |
+GE2) |]

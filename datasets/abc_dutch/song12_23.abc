@@ -1,0 +1,51 @@
+X: 11022
+T: Amaltheä, vol vreugde en moed, met beid’ haa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 4092161280
+%%humdrum-veritas-data 2157797412
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('AA2B(cB)AA2^GA2(e/ f/)(gf)e [I:setbarnb 1]|
+(fe)d |
+e2).('e |
+(dc)B |
+(cB)A |
+^G2e |
+f2e |
+d2c |
+B2A |
+^G2).('c |
+(de)d |
+(ef)g |
+e2).('e |
+(ec)c |
+(dB)B |
+(cA)A |
+^G2(A/ B/) |
+(cd)c |
+c2B |
+c2).('(c/ d/) |
+(ef)e |
+e2d |
+e2(e/ f/) |
+g2g |
+(ge)e |
+f2e |
+d2).('e |
+(ed)e |
+(cd)e |
+(de)(c/ d/) |
+B2c |
+B2A |
+^G2A |
+A2).('c |
+B2A |
+^G2A |
+A2) |]

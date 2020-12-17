@@ -1,0 +1,23 @@
+X: 5339
+T: Mijn man is uit om hooi Mijn man is uit om strooi
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3167325467
+%%humdrum-veritas-data 3838339108
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C [I:setbarnb 1]|
+E2ED2D |
+C3-C2).('E |
+G2GF2F |
+E3-E2).('E |
+G2GG2G |
+A A A (A G)) .('F |
+E2E D D D |
+C3-C2) |]

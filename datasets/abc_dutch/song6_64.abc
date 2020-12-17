@@ -1,0 +1,31 @@
+X: 5063
+T: Spin, spin mijn lieve dochter dan krijg jij  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 4049267009
+%%humdrum-veritas-data 2040769054
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('F [I:setbarnb 1]|
+A>B A3// G// |
+FDF |
+EGE |
+D2).('F |
+A>B A3// G// |
+FDF |
+EGE |
+D2).('F |
+EAC |
+EAC/ C/ |
+EAC |
+EA).('A/ A/ |
+dcB |
+AFA |
+AGE |
+D2) |]

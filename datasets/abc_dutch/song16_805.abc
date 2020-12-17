@@ -1,0 +1,38 @@
+X: 15804
+T: Menewet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 2307364380
+%%humdrum-veritas-data 1411131533
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('Add |
+Aee |
+Aff |
+e/ d/ e/ f/e |
+da3/g/ |
+f2e |
+dg/ f/ e/ d/ |
+^c3) |
+.('cff |
+cgg |
+caa |
+g/ f/ g/ a/g |
+efg/ a/ |
+ed/ c/f |
+gag/ f/ |
+f3) |
+.('Add |
+Aee |
+Aff |
+e/ d/ e/ f/e |
+ag/ f/ e/ d/ |
+^cde |
+f/ g<ed/ |
+d3) :|]

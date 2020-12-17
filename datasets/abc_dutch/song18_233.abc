@@ -1,0 +1,56 @@
+X: 17232
+T: Myn bange ziel! Waar heen gevlooden? Gy zyt  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 1831205543
+%%humdrum-veritas-data 735487703
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d2- [I:setbarnb 1]|
+d2ef |
+e>e^fg |
+^f2d3/).('c/ |
+cccA |
+BB).('BA |
+G2GA |
+^F2).('d2- |
+d2ef |
+e>e^fg |
+[M:3/2]^f2d>).('dd_e |
+[M:2/2]AAAB |
+G2).('Bc |
+d2de |
+[M:3/2]f2ff/ A<Bc/ |
+[M:2/2]A2z).('f |
+fee3/e/ |
+^c3f |
+ddd^c |
+[M:3/2]d2d2).('Ad |
+[M:2/2]=B2BB |
+c3c |
+d_ed3/c/ |
+c3).('_e |
+ddd_e |
+f2dd |
+B2BB |
+[M:3/2]G2G>).('_eeg |
+[M:2/2]c>ccd |
+B2).('d2- |
+d2ef |
+e>e^fg |
+^f2d3/).('c/ |
+cccA |
+BB).('BA |
+G2GA |
+^F2).('d2- |
+d2ef |
+e>e^fg |
+[M:3/2]^f2d>).('dd_e |
+[M:2/2]AAAB |
+[M:3/2]G4z2) |]

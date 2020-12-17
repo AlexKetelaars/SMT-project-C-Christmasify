@@ -1,0 +1,25 @@
+X: 11135
+T: Mejuffers en Sinjeurtjes, heeft dit Zangbank [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 1123561860
+%%humdrum-veritas-data 550834365
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D [I:setbarnb 1]|
+G> F G> A B> A d3/ _e/ |
+A2>G2G3).('d |
+d> d d> d _e> f e3/ d/ |
+c2>B2B3).('d |
+d> f _e> dc3d |
+_e> d c> BA2).('(A/ B/ c) |
+d> c B> AG3(A/ B/) |
+c> A B> cd3).('f |
+_e> d c> B A> d c3/ B/ |
+A2>G2G3) |]

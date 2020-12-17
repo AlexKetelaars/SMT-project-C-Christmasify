@@ -1,0 +1,30 @@
+X: 3948
+T: Doar wol es ne man naor de markt toe gaon [E [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3226041335
+%%humdrum-veritas-data 46451930
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G D D D |
+E2ED3) |
+.('F2FG2F |
+E3D3) |
+.('G2GG2G |
+F2ED3) |
+.('G2D G> G D |
+G2A B> B B |
+A3G3) |
+.('d2dd2d |
+c2BA3) |
+.('c c c c c c |
+B B AG3) |
+.('B2B A A F |
+A3G3) |]

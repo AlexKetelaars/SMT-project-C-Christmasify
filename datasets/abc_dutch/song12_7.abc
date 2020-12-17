@@ -1,0 +1,37 @@
+X: 11006
+T: Cupido, die kwam mij vragen: “Jongman, waaro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1008449627
+%%humdrum-veritas-data 2288386368
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d3/ d/ [I:setbarnb 1]|
+c2>B2 A B |
+d2!fermata!c2).('c3/ B/ |
+A2A d d c |
+!fermata!B2z) .('A d3/ d/ |
+B2>B2 A B |
+d2!fermata!c>) .('B c3/ B/ |
+A2>A2 B ^c |
+!fermata!d2z2).('G3/ B/ |
+[M:2/4]d> d d3/ d/ |
+d> d) .('d3/ d/ |
+e> d c3/ B/ |
+c2).('A3/ B/ |
+c> c A3/ B/ |
+c> c) .('A3/ B/ |
+c> c B3/ c/ |
+d4) ||
+.('e3e [I:setbarnb 18]|
+(3(d B) d (3(d c) A |
+d2z2) |
+.('e3e |
+(3(d B) d (3(d c) A |
+G2z2) |]

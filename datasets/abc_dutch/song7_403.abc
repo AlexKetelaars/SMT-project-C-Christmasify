@@ -1,0 +1,22 @@
+X: 6402
+T: No 41
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 2025516174
+%%humdrum-veritas-data 2942534795
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c2=B c d c A F |
+F4E2z2) |
+.('B2A B e d c B |
+A6z2) |
+.('c2=B c d c A F |
+(B2d2)f2z2) |
+.('c2e d c B G A |
+F4z4) ]|:

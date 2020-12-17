@@ -1,0 +1,32 @@
+X: 17079
+T: Air
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 22345551
+%%humdrum-veritas-data 583234557
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('c B c d e f [I:setbarnb 1]|
+g2e2c2g2g3g |
+g6-g2>).('e2 f g |
+a g a _b a g f e f g f e |
+d2G2d2e2e3d |
+d6) |
+.('G A B c d e [I:setbarnb 6]|
+f2d2a2a2a3a |
+a4>-a4).('g f e d |
+^c2A2e2e2>f2 g a |
+^f2>e2d2_b2b3b |
+_b4-b2>).('a2a3g |
+g2f e d c2<B2cd2 |
+G2c2>B2A2f3f |
+f6).('e fd2g2 |
+e2>d2c2g2>f2e2 |
+c'2>b2 a g f e2<d2c |
+c4) |]

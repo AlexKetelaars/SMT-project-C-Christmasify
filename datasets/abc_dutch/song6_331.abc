@@ -1,0 +1,28 @@
+X: 5330
+T: Hij bad den Heer met spoed: Met een zoo diep [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 2287560807
+%%humdrum-veritas-data 1555966872
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+EF/GE/ |
+D3/-D).('D/ |
+GG/BA/ |
+F3/).('B3/ |
+EF/ (G/ F/) E/ |
+D3/B,3/ |
+zz/z).('B/ |
+BA/GF/ |
+E).('^D/EF/ |
+G/ G/ A/(BA/) |
+F3/).('A3/ |
+GF/E^D/ |
+E3/-E) |]

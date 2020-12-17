@@ -1,0 +1,65 @@
+X: 16582
+T: Mijn hart ontfonkt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:04
+%%humdrum-veritas 3355128621
+%%humdrum-veritas-data 901557351
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('z2 z2 D2 |
+G4(B A) |
+G4B2 |
+d4(d c) |
+B4d2 |
+g4d2 |
+e2 f e d c |
+d2 e d c B |
+c2 d c B A |
+B2 c B A G |
+F4d2 |
+(e2 A2) B2 |
+B4(A G) |
+G6 |
+z2 z2) .('B2 |
+(B2 A2) G2 |
+d4d2 |
+B4d2 |
+g4d2 |
+e2 d2 c2 |
+d2 c2 B2 |
+c2 B2 A2 |
+B2 A2 G2 |
+F4d2 |
+e d e f e f |
+d c d e d e |
+c B c d c d |
+(B2 A2) G2 |
+A6 |
+G6) |
+.('z2 z2 B2 |
+A4(A B) |
+c B c d c d |
+B4B2 |
+A4B2 |
+c4B2 |
+B6 |
+z2 z2) .('d2 |
+(d2> c2) B2 |
+B4(A G) |
+G4d2 |
+g4d2 |
+e4(d c) |
+B4d2 |
+A4B2 |
+c4d2 |
+e d c B A G |
+F4d2 |
+(e2 A2) B2 |
+B4(A G) |
+G6) |]

@@ -1,0 +1,25 @@
+X: 10478
+T: Wij zoeken naar Jesus van Nazareth, Die naar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 60656330
+%%humdrum-veritas-data 601080921
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+E E F G G A |
+B2BB2B |
+c2c e d c |
+B3z2).('B |
+A A AA2A |
+A3G2B |
+A2AA2A |
+A2).('GG2G |
+F F EF2G |
+E3z2) |]

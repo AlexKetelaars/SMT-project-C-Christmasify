@@ -1,0 +1,50 @@
+X: 10605
+T: Paula is nen boerendeern, Vri’jt zo good en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 2031697594
+%%humdrum-veritas-data 1118891706
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('cGEc |
+BAA2 |
+BGDB |
+AGG2) |
+.('GAFE |
+D4 |
+GAFE |
+D4) |
+.('cGEc |
+B(A/ ^G/)A2 |
+BGDB |
+A(G/ ^F/)G2) |
+.('GABc |
+d4 |
+dcBA |
+G4) |
+.('GBG2 |
+GBG2 |
+GG/ G/GG |
+!fermata!G2).('E2 |
+DCB,C |
+GDD2 |
+G2A2 |
+AEE).('E/ E/ |
+DCB,C |
+F3F |
+ED^CD |
+G3).('E |
+DCB,C |
+GDD2 |
+G>GAA |
+AEE).('E/ E/ |
+DCB,C |
+A3A/ A/ |
+GGAB |
+cGc2) |]

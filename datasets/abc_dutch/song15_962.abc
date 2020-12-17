@@ -1,0 +1,36 @@
+X: 14961
+T: No168
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 2700343147
+%%humdrum-veritas-data 3955980556
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=69
+K: G clef=treble
+.('GG [I:setbarnb 1]|
+d>edc |
+BBcc/ d/ |
+e>dcB |
+A2).('AB |
+GFE/ F/ G/ A/ |
+F2).('AA |
+d2ef/ g/ |
+f/ e/ d/ e/!trill!!trill!e2 |
+d2).('g3/f/ |
+ed/ e<!trill!!trill!cB/ |
+B2).('AB |
+G>F E/ F/ G/ A/ |
+F2).('AA |
+ddGG |
+c>Bcd |
+e>dcB |
+A2).('d3/d/ |
+e/ d/ c/ B<!trill!!trill!AG/ |
+G2g3/d/ |
+e/ d/ c/ B<!trill!!trill!AG/ |
+G2) |]

@@ -1,0 +1,50 @@
+X: 6431
+T: No 70
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 270749938
+%%humdrum-veritas-data 298240284
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G2>(G2 ^F) G |
+c3-c2G |
+E2E (F G) A |
+D3{F E}D2).('D |
+D2>(D2 E) ^F |
+G3-G2G |
+A2A (A B) A |
+G2zz2z) |
+.('G2>(G2 ^F) G |
+c3-c2G |
+E2E (F G) A |
+D3{F E}D2).('^D |
+E2>(E2 ^F) ^G |
+A3-A2B |
+c2B (A E) ^F |
+G2zz2z) |
+.('A3E2^F |
+G3-G2G |
+B2A (A E) ^F |
+A3G2z) |
+.('G3G2^F |
+_E2ED2C |
+c3c3 |
+B2zz2z) |
+.('G2>(G2 ^F) G |
+c3-c2G |
+E2E (F G) A |
+D3{F E}D2z) |
+.('E3F2E |
+c3-c2A |
+G2GG2F |
+E2zz2z) |
+.('(e2d) (c B) A |
+G3-G2G |
+(A2G) G F D |
+C3-C) |]

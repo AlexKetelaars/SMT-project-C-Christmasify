@@ -1,0 +1,38 @@
+X: 16249
+T: Hoe Zoetje, zou ‘k uw hart met eenen darden  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2853246608
+%%humdrum-veritas-data 899406843
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D/ [I:setbarnb 1]|
+DE/FG/ |
+AA/FF/ |
+(GF/)(ED/) |
+A3/A).('G/ |
+FE/DC/ |
+B,3/-B,E/ |
+FF/^GA/ |
+^G3/E).('E/ |
+AG/FE/ |
+DE/FD/ |
+E3/-EE/ |
+A,3/-A,) |
+.('A/ [I:setbarnb 13]|
+AG/FE/ |
+D3/-D).('C/ |
+B,C/DE/ |
+(D/ C/ B,/)GF/ |
+ED/CB,/ |
+A,3/-A,).('A,/ |
+B,C/DE/ |
+A,C/DG/ |
+A3/A,3/ |
+D3/-D) :|]

@@ -1,0 +1,33 @@
+X: 5990
+T: Het Rasphuijs
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3714047435
+%%humdrum-veritas-data 490151012
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('Gd [I:setbarnb 1]|
+dgfc |
+cf).('fe/ d/ |
+c/ d/ABF |
+ff).('fe/ d/ |
+e/ d/cdc/ B/ |
+AB/ G/AG/ ^F/ |
+G4) :|]
+.('ABc/ A/F |
+ABc/ A/F) |
+.('ABc/ d/g |
+fgdd) |
+.('de/ f/gg |
+ga/ g/fe/ d/ |
+cd/ A/BF) |
+.('fg/ f/fe/ d/ |
+e/ d/cd).('c/ B/ |
+AB/ G/AG/ ^F/ |
+G2) |]

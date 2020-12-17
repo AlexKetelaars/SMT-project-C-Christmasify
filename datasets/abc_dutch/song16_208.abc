@@ -1,0 +1,31 @@
+X: 15207
+T: De postknecht is een arme bloed
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 3646440674
+%%humdrum-veritas-data 1185543206
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A2Ac2c |
+e2ec2A |
+B2Bd2G |
+B2c/ B/A2) |
+.('B [I:setbarnb 5]|
+B2BB2A |
+G2BE2B |
+B2BB2A |
+G2BE2e |
+e3c2e |
+e3c) ||
+.('c e [I:setbarnb 11]|
+A2>-A2 c e |
+A2>-A2 c e |
+E2E E F G |
+A3-A2) :|]

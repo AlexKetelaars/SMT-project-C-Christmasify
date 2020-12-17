@@ -1,0 +1,25 @@
+X: 14870
+T: Vieille, qui prend jeune mari Doit s’attendr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 4230944371
+%%humdrum-veritas-data 1988524441
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('de/ d/ [I:setbarnb 1]|
+cBcA |
+B2).('GF/ G/ |
+ABcB |
+A/) .('B/ ^c/ d/c2 |
+A2).('AA/ B/ |
+AGFE |
+F2).('dd/ e/ |
+dBcd |
+e/) .('d/ c/ B/A2 |
+G/) |]

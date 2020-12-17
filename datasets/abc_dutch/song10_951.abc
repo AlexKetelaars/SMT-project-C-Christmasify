@@ -1,0 +1,27 @@
+X: 9950
+T: Daar ging e paterke langs den kant, Van ei,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 869480276
+%%humdrum-veritas-data 3640598894
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Eb clef=treble
+.('G [I:setbarnb 1]|
+B2B |
+B B c |
+B2A |
+G2).('G |
+B2B |
+B2c |
+B B A |
+G3) |
+.('B B B |
+F2F |
+F2F |
+!fermata!B2z) |]

@@ -1,0 +1,50 @@
+X: 1659
+T: Komt allen bij komt allen bij Hier hebben wi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 2912957047
+%%humdrum-veritas-data 3270413039
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GB/AG/ |
+FE/D).('D/ |
+GB/AG/ |
+F/ F/ E/D).('D/ |
+GB/ A/ A/ G/ |
+FE/D).('D/ |
+G/ B/ B/AG/ |
+FE/D).('G/ |
+AG/AB/ |
+c3/Bz/) |
+.('cB/AG/ |
+(F3/G3/) |
+E3/z).('E/ |
+EF/ G/ G/ G/ |
+FE/D3/) |
+.('D/ E/ F/ G/ G/ G/ |
+G3/F).('G/ |
+GG/GG/ |
+GG/G3/) |
+.('GG/GG/ |
+GG/ G/) .('G/ G/ |
+GG/GG/ |
+G/ E/ E/z3/) |
+.('EF/GA/ |
+B3/A3/ |
+G3/F3/ |
+E3/z).('E/ |
+EF/GA/ |
+B3/A3/ |
+G3/F3/ |
+E3/z).('E/ |
+EF/GA/ |
+B3/A3/ |
+G3/F3/ |
+E3/z) |]

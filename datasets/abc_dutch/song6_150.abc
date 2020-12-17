@@ -1,0 +1,26 @@
+X: 5149
+T: Vrouwtje, je moet naar huis gaan, Want je ma [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 1028310984
+%%humdrum-veritas-data 4234483513
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: E clef=treble
+.('EE/> E/ E3// G// |
+BG).('G3// G// |
+AFD |
+Ez).('D3// D// |
+czA3// c// |
+Bz).('G3// B// |
+BAF3// A// |
+AG).('E3// E// |
+czA3// c// |
+Bz).('G3// B// |
+BB/> B/ c3// d// |
+ezz) |]

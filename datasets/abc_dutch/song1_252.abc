@@ -1,0 +1,15 @@
+X: 252
+T: Wel hem die hier gheenen boosen raet Den men [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 2445127513
+%%humdrum-veritas-data 231035868
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('z2C2F2F FG2G2A2A2F2).('c2c c B AB4A4).('A2A AB2B (AG2)F2E2).('F2G G F FE2).('F2G G G A2<B2).('AG2F2(EF2E)F8) |]

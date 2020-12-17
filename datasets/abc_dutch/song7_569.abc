@@ -1,0 +1,23 @@
+X: 6568
+T: Met dezen nieuwejare Was ik zoo geren de bruid!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 342873355
+%%humdrum-veritas-data 1619267559
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2GA2B |
+c2>c2 z) .('c |
+d2B B B B |
+c2>-c2 z) .('c |
+B2BB2B |
+A3A2).('A |
+G2G G G G |
+F2>-F2 z) |]

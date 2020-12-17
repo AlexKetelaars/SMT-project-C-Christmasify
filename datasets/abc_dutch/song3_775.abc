@@ -1,0 +1,26 @@
+X: 2774
+T: Herink herink ting ting ting Man trek jij je [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 382087087
+%%humdrum-veritas-data 1074043145
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('ddgB |
+dcc2) |
+.('fffd |
+ggg2) |
+.('d2gB |
+dcc2) |
+.('f2fd |
+ggg2) |
+.('ddgB |
+d/ d/ c/ c/c2) |
+.('fffd |
+ggg2) |]

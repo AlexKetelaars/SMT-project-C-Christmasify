@@ -1,0 +1,16 @@
+X: 631
+T: Aenhoort mijn vollick na mijn wet. Mijn woer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3924909228
+%%humdrum-veritas-data 1205860954
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2c2c2c2(GABcd2)c4B2A4G4z2).('G2c2cBA2G2(GFEFGEF2)D4C4).('z2c2c2c2(GA)(Bcd2)c4B2A4G4z2).('G2c2cBA2G2(GFEFGEF2)D4C4) ]|:
+.('z2E2E2E2A4G2G2E2D2C4z2).('C2G2A2B2c2(d2>c2BcdBc2)A2G4z2).('G2c2cBA2GGA2GFE2E2z2).('D2(EDEFGE2<A2)AG2F4E4z2).('C2G2A2B2G2(AGABcA2<d2)dc4B2c4) |]

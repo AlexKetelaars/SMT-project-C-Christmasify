@@ -1,0 +1,27 @@
+X: 2977
+T: Er was een boer van nette Zeg vrienden wil v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 2208202093
+%%humdrum-veritas-data 380793028
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G/ G/ G G GB2).('B |
+A G F E2<D2).('D |
+A A A A/ A/ Ad2).('c |
+[M:5/4]B A G E D) .('D D D G G |
+[M:4/4]B2G2G) .('G F G |
+A/ A/ G F E2<D2).('D |
+G/ G/ G A A B) .('B c e |
+d2c2B) .('G F/> F/ G |
+E2E> E E) .('G F/> F/ G |
+A2F> FD3).('D |
+G/ G/ G A A B) .('B c e |
+d2c2B3) |]

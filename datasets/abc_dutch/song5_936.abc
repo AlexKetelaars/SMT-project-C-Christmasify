@@ -1,0 +1,30 @@
+X: 4935
+T: Jantje trek je wantjes aan Want ‘t is zoo bi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 956049323
+%%humdrum-veritas-data 1053258803
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C2DE2F |
+G2GG2).('F |
+E2E D D D |
+C3-C2).('G, |
+C2DE2F |
+G3G2).('F/ F/ |
+E2ED2D |
+C3-C2).('E |
+G2GA2A |
+G3-G2).('E |
+G2GA2A |
+G3-G2).('E/ E/ |
+E2EE2E |
+F2FA2).('A |
+G2G (F E) D |
+C3-C2z) |]

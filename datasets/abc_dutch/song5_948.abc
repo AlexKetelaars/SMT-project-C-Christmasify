@@ -1,0 +1,30 @@
+X: 4947
+T: Ei ei dat ei Allerhande eiertjes [...] gewaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 4290845509
+%%humdrum-veritas-data 2868292945
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('D2F2 |
+E2D2 |
+D E F F |
+E ED2) |
+.('D E F F |
+E ED2 |
+D E F F |
+E ED2) |
+.('A A F G |
+A A A A |
+B A A G |
+F E D D) |
+.('A2F2 |
+A AA2 |
+B A A G |
+F ED2) |]

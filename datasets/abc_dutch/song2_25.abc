@@ -1,0 +1,22 @@
+X: 1024
+T: Helder in de kelder Boter bij de vis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 3793677740
+%%humdrum-veritas-data 3034221577
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G G G GG2D2 |
+B B B B2<B2).('B |
+d d d d e d c B |
+A A A A2<A2).('D |
+G G G GG2D2 |
+B B B B2<B2).('B |
+d d d d e d c B |
+A A A AG3) |]

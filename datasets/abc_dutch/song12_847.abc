@@ -1,0 +1,28 @@
+X: 11846
+T: Bonjour madame Elisabeth
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 873703911
+%%humdrum-veritas-data 988430188
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('f e [I:setbarnb 1]|
+d2d2d e f g |
+a2f2f2).('(b a) |
+^g2a2a b a g |
+a6) ||
+.('e2 [I:setbarnb 5]|
+e2^c2A2a2 |
+a2f2d2).('a2 |
+f ga2f ga2 |
+e6).('z e |
+e d ^c BA2a2 |
+a g f ed2).('a2 |
+f ga2e3d |
+d6) |]

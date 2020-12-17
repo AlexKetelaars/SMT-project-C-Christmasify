@@ -1,0 +1,26 @@
+X: 8850
+T: “Lieve schipper, vaar mij over, Naar dat gin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 538295204
+%%humdrum-veritas-data 4096786131
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2B2F2F2 |
+G2(F E) (D F)B2) |
+.('D2>G2F3d |
+(c B) (d c)F4) |
+[M:6/8].('B2B (B c) d |
+c2c (c B) c) |
+.('d2d (d c) d |
+e2e (e d) c) |
+.('d3c3 |
+(d3e2)c |
+B3A3 |
+B3-B2z) |]

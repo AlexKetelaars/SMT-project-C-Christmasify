@@ -1,0 +1,46 @@
+X: 17523
+T: Gigue
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 1235345210
+%%humdrum-veritas-data 3226122176
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c [I:setbarnb 1]|
+(f c) c (c A) A |
+(A F) F (F A) c |
+(f g) f (g a) b |
+a2>).('(g2 a) g |
+(f g) f (f g) f |
+(f g) a (g a) f |
+(e d) c (d c) =B |
+c3c2) |
+.('g [I:setbarnb 9]|
+(e f) e e d c |
+(f g) a (c d) _e |
+(_e f) g f g e |
+(d _e) cB2).('d |
+(c d) c (c d) c |
+(c d) _e (e d) c |
+(B c) B (B c) B |
+(B c) d (d c)) .('B |
+(A B) c (c B) A |
+A3G2).('c |
+(f c) c (c A) A |
+(A F) F (F A) c |
+(_e f) e (e f) e |
+(d _e) c (B d)) .('f |
+(g d) d (d =B) B |
+(=B G) G G B d |
+(f g) a (g a) f |
+(e f) dc2).('g |
+(a c) c (g c) c |
+(a c) c (g c) c |
+(a g) f (b a) g |
+f2-f2) :|]

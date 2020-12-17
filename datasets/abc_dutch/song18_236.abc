@@ -1,0 +1,35 @@
+X: 17235
+T: Hoe lang, ach Heer! moet ik noch kwynen, In  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 80929020
+%%humdrum-veritas-data 2372421755
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('z2d |
+d2A |
+B2A |
+G2F |
+E2E) |
+.('FGA |
+B2A |
+(AG3/)A/ |
+A3) |
+.('f>ed |
+cB3/A/ |
+G2G) |
+.('B>BB |
+AG3/F/ |
+F3) |
+.('f>ed |
+cc3/d/ |
+=B2B) |
+.('e>cd |
+ee3/d/ |
+d3) |]

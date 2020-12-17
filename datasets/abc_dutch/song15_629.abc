@@ -1,0 +1,36 @@
+X: 14628
+T: 264.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 306338194
+%%humdrum-veritas-data 4222066381
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=104
+K: Bb clef=treble
+.('B2B2B2 |
+F F/ E/ D D/ C/B,2 |
+f b {f}e2d2 |
+c c/ B/ A A/ G/F2) |
+.('G G c/ d/ e/ f/ g G |
+F F B/ c/ d/ e/ f e |
+{e} d c/ B/ A c F A |
+B d/ A/B2B,2) |
+.('(d/ B/) !wedge!f (d/ B/) !wedge!b (f/ d/) !wedge!B |
+(c/ A/) !wedge!f (c/ A/) !wedge!a (f/ c/) !wedge!A |
+B/ G/ B g (B A G) |
+A/ c/ A/ =E/ {E}F4) |
+.('B F/ G/ _A A {A}G2 |
+G F/ E/ D/ E/ F/ D/E2 |
+c G/ A/ B BA2 |
+{B2} A G/ F/ =E/ F/ G/ E/F2) |
+.('f2b/ =e/ f (c/ d/) !wedge!_e |
+{e} d c/ B/ A cF2 |
+f2b/ =e/ f (3c d _e |
+{e} (3d c B A cE2) |
+(3.('(D F) !wedge!B (3(E G) !wedge!B (3(C B) !wedge!A |
+B2B,2z2) :|]

@@ -1,0 +1,22 @@
+X: 10442
+T: Moeke, doar staait’n vrijer aan de deur, Fik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 1626754881
+%%humdrum-veritas-data 482972200
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2A AA2d2 |
+F F F FF2).('F F |
+G2G GG2B B |
+B A A AA4) |
+.('A2A AA2d2 |
+F F F FF2).('B2 |
+A4E4 |
+D8) |]

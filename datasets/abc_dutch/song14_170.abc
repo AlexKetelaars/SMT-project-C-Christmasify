@@ -1,0 +1,27 @@
+X: 13169
+T: Jan koop m’een kermis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:31
+%%humdrum-veritas 2340090354
+%%humdrum-veritas-data 2658193800
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2>B2 A G |
+A2AA2).('c |
+B c B A G A |
+G3z2) |
+.('d [I:setbarnb 5]|
+g2de2d |
+g2de2).('d |
+g2dd2c |
+c2BB2).('A |
+B2>B2 A G |
+A2AA2).('c |
+B c B A G A |
+G3z2z) :|]

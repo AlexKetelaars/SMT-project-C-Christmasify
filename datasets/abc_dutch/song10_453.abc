@@ -1,0 +1,51 @@
+X: 9452
+T: Wij zijn hier alle ware vrienden; Wij maken  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2921014380
+%%humdrum-veritas-data 3784459288
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('DBA |
+G2G |
+(GF)G |
+(AF)D) |
+.('ABc |
+(BG)B |
+(dc)B |
+A3) |
+.('DBA |
+G2G |
+(GF)G |
+(AF)D) |
+.('(Ad)A |
+(AF)A |
+GFE |
+D3- |
+Dz).('D |
+cAA |
+AGA |
+B3 |
+Gz).('B |
+(BA)c |
+(cB)e |
+(dc)B |
+A2).('D |
+cAA |
+(AG)A |
+B3 |
+G2z) |
+.('GBd |
+d2d |
+(cB)A |
+B3) |
+.('GBd |
+d2d |
+(cB)A |
+G2z) |]

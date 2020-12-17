@@ -1,0 +1,35 @@
+X: 5871
+T: Er zat een vrouw maged op haar kasteel, Van  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 4024107001
+%%humdrum-veritas-data 526857286
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A A A |
+c B A |
+(^G A) B |
+E3) |
+.('B B B |
+c3 |
+B A c |
+B3) |
+.('B2B |
+d2d |
+c B ^G |
+B z) .('E |
+A A A |
+c2c |
+e d c |
+B3) |
+.('A2B |
+c B c |
+A E ^G |
+A2) |]

@@ -1,0 +1,50 @@
+X: 784
+T: Siet Christen menschen! Hoe dat naer wenschen,
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3169092873
+%%humdrum-veritas-data 635846712
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d [I:setbarnb 1]|
+(d>e)d |
+^cA).('d |
+(d>e)f |
+ec).('f |
+(f>g)a |
+_b2a |
+g3) |
+.('c3 |
+d2a |
+ag2 |
+f2).('d |
+(d>e)d |
+^cA).('d |
+(d>e)f |
+ec).('f |
+(f>g)a |
+_b2a |
+g3) |
+.('c3 |
+d2a |
+ag2 |
+f2).('f |
+(f>g)a |
+(ge)).('a |
+(f>e)d |
+(^cA)d |
+e3- |
+e2).('e |
+f2d |
+d2g |
+g2e |
+e2).('g |
+(a>g)f |
+(e>d)e |
+d2) |]

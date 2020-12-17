@@ -1,0 +1,31 @@
+X: 2219
+T: In het noorden van ons eiland Daar woont een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 2004817298
+%%humdrum-veritas-data 130089638
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+DD/DD/ |
+G3/G).('G/ |
+GG/DE/ |
+F3/-F).('F/ |
+AG/FE/ |
+DG/).('GB,/ |
+DD/ C/ C/ C/ |
+B,3/).('A,B,/ |
+C3/B,C/ |
+A3/).('BA/ |
+GG/FE/ |
+D3/).('DD/ |
+BB/AA/ |
+B3/).('cc/ |
+BB/ A/ A/ A/ |
+G3/-G) |]

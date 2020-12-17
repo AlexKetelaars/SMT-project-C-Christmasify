@@ -1,0 +1,28 @@
+X: 2030
+T: Daar reed er eens een ruitertje over het wou [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1770354925
+%%humdrum-veritas-data 2039132456
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+B2>c2 B3/ A/ |
+G2c2B2 |
+(A2B>) Bc2 |
+(B2A2)).('c2 |
+B2>c2 B3/ A/ |
+G2c2B2 |
+(A2B>) BA2 |
+D4).('d d |
+(G B) d> d e d |
+e2e>) .('e d3/ d/ |
+(B c)d2B2 |
+A2e2d2 |
+G4) |]

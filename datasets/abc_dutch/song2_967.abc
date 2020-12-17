@@ -1,0 +1,21 @@
+X: 1966
+T: Toen ik een vlugge jonkman was Trouwde ik ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1817823060
+%%humdrum-veritas-data 1406311948
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+E G A A B BG2) |
+(3.('G G G A A d d B) .('d |
+d d d d (d c)B2) |
+.('g2e2d2B) .('B |
+c B A G (F/ G/ A/ B/ c)) .('g |
+f e c AG2) |]

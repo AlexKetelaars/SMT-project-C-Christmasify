@@ -1,0 +1,47 @@
+X: 7207
+T: Makkers, laet ons naer Messias gaen, My dunk [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 4168219999
+%%humdrum-veritas-data 3264915577
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c3G2G |
+c2d e e e |
+d2ze3 |
+c2ed2c |
+{c}B2>-B2 z) .('G |
+c2cc2G |
+A2AA2G |
+F2FF2F |
+D2>-D2 z) .('E |
+G G G G G G |
+G3-G2G |
+c c c B A B |
+c3).('d3 |
+e d c B A G |
+c2>-c2 z) .('c |
+c c c c d e |
+A3-A2).('A |
+d2cB2A |
+A3G3) |
+.('c2c c d e |
+f2de3) |
+.('A2A A B c |
+d2cc2B |
+d2c B A G |
+A3-A2).('A |
+d2d d c d |
+B3-B2B |
+c2c B A B |
+A3).('B3 |
+B2c B A G |
+c3d3 |
+e d c B A B |
+c3-c2z) |]

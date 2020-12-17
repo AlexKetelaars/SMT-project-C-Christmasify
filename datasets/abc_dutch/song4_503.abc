@@ -1,0 +1,28 @@
+X: 3502
+T: Er waren eens zes joden Er waren eens zes Joden.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 72287759
+%%humdrum-veritas-data 314376334
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G A B c |
+(B2A2) |
+G3).('B |
+B> A B c |
+(d2c2) |
+B4) |
+.('d dd2 |
+c Ac2) |
+.('B GB2 |
+A A A) .('D |
+G> A B c |
+(B2A2) |
+G3) |]

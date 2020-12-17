@@ -1,0 +1,41 @@
+X: 13688
+T: [NLB177019_01]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 1050787721
+%%humdrum-veritas-data 2705304503
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B> F d3/ B/ |
+A> A A3/ F/ |
+c> F e3/ c/ |
+B> B B) .('(d/ e/) |
+f> b g3/ b/ |
+f> b g3/ b/ |
+(3f g f (3e d c |
+c2B) ||
+.('(d/ e/) [I:setbarnb 9]|
+f2b2 |
+B> B B3/ B/ |
+c> c (3c d e |
+e2d) .('(B/ d/) |
+f2b2 |
+B> B B3/ B/ |
+c> d (3e d c |
+c2B x) ||
+[M:3/4].('x4B d [I:setbarnb 18]|
+f2d2B2 |
+f2d2B2 |
+e2c2A2 |
+B A B cB2) |
+.('f2d2B2 |
+f2d2B2 |
+e2c2A2 |
+B4) |]

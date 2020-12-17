@@ -1,0 +1,33 @@
+X: 16651
+T: Verstokte Joden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2293753057
+%%humdrum-veritas-data 1305853259
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c>dc3/d/ |
+e(f/ e<)dc/ |
+B2z).('g |
+g>fe(a// g// f// e//) |
+d>cBG |
+z).('BcA |
+e>B c/ d/ e/ f/ |
+g>ag3/f/ |
+eez).('e |
+f>eec |
+d>ee2 |
+z).('Bc3/d/ |
+ecg3/f/ |
+e/> f/ d/> e/ c/> d/ e3// f// |
+ggz).('e |
+f/ e/ f/ d<gf/ |
+ecc3/B/ |
+ccz) |]

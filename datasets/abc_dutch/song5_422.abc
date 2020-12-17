@@ -1,0 +1,23 @@
+X: 4421
+T: En o vrienden wilt aanhoren Luistert dan een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 2843777257
+%%humdrum-veritas-data 644797091
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3// D// [I:setbarnb 1]|
+G(A/ c/)BA |
+(GA)B).('c/ B/ |
+AcBA |
+D4) |
+.('Bd/> e/d3/B/ |
+A/ A/ d/ d<AD/) |
+.('DD/> D/Dc |
+BAG) |]

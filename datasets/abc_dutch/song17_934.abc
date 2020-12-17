@@ -1,0 +1,25 @@
+X: 16933
+T: Le premier jour d’l’année, que me donn’rez v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 3476423209
+%%humdrum-veritas-data 347368140
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2cA2B |
+c2>-c2) .('B c |
+d2dA2B |
+(c2B)A3) |
+.('d3A2B |
+(c2B)A2).('G |
+A2Bc2d |
+(c2B)A2).('G |
+A2AB2A |
+G2>-G2 z z) |]

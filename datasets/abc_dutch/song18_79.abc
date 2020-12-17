@@ -1,0 +1,54 @@
+X: 17078
+T: Minuet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3317499050
+%%humdrum-veritas-data 742605756
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('gdg |
+e>fg |
+a>bg |
+f>ed) |
+.('gdg |
+e>fg |
+ag3/f/ |
+e2d) |
+.('cc3/d/ |
+B>cd |
+ec3/B/ |
+A2A) |
+.('cc3/d/ |
+B>cd |
+ec3/B/ |
+A2G) |
+.('BBG |
+c3 |
+Bc/ B/ A/ G/ |
+d3) |
+.('BBG |
+c3 |
+Bc/ B/ A/ G/ |
+d3) |
+.('f>ga |
+e>ef |
+dBe |
+^c>BA) |
+.('a>gf |
+bge |
+fe3/d/ |
+d3) |
+.('=ff3/g/ |
+e>ef |
+gf3/g/ |
+a2d) |
+.('=ff3/g/ |
+e>ef |
+g/ a<ag/ |
+g2) |]

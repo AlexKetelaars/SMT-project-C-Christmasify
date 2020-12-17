@@ -1,0 +1,27 @@
+X: 4384
+T: Vrienden hoort er naar mijn vermaan De kluch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 2484332513
+%%humdrum-veritas-data 3198204395
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 12/8
+Q: 3/8=80
+K: G clef=treble
+.('G2B [I:setbarnb 1]|
+d2dd2ed2).('dc2B |
+[M:9/8]A3B3d2B |
+G3-G2).('G/ G/G2B |
+[M:12/8]d2dd2ed2).('dc2B |
+[M:9/8]A3B3d2B |
+G6).('B3 |
+[M:4/4]A> G G AB2).('d2 |
+[M:3/4]B> A G AB2) |
+[M:4/4].('A c d d B A) .('B d |
+G2F ED2).('G2 |
+A> A d d B A) .('B3/ c/ |
+d> d A> AG2) |]

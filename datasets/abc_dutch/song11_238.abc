@@ -1,0 +1,23 @@
+X: 10237
+T: ‘t Was op nen Witten Donderdag, Als Jesus aa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 2306644879
+%%humdrum-veritas-data 4173126335
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+E2FG2A |
+B2BB2).('B |
+c c c e d c |
+B3z2).('B |
+A2AA2A |
+A2GG2).('G |
+F2EF2G |
+E3z2) |]

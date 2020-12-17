@@ -1,0 +1,23 @@
+X: 13010
+T: 'k Heb een stuiver in mijn hand, die gaat re [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 45631924
+%%humdrum-veritas-data 3570021775
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('FG [I:setbarnb 1]|
+AAGG |
+F2).('AB |
+ccBB |
+A2).('GA |
+B2AB |
+c2).('dc |
+BAGc |
+F2) |]

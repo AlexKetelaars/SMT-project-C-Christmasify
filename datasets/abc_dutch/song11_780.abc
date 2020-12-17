@@ -1,0 +1,32 @@
+X: 10779
+T: Daar reed er eenen kapitein twers door den b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3263444410
+%%humdrum-veritas-data 2312663151
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) [I:setbarnb 1]|
+B/> B/ d/ c<Bc/ |
+ded^c |
+!fermata!dz/) .('d/de3// d// |
+(d>c)Bd |
+(^c/ d/) e/ d/A).('!fermata!d |
+gdBd |
+^c/ d/ (e/ d/)(=cB/ d/) |
+czz).('e |
+^d/> e/ f/ e/=dA |
+dd/ c<(Bc/) |
+d2z).('!fermata!d |
+gdBd |
+^c/ d/ (e/ d/)(=cB/ d/) |
+czz).('e |
+^d/> e/ f/ e/=dA |
+dd/> c/(B3/A/) |
+G3z) |]

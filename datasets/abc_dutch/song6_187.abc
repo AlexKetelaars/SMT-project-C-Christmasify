@@ -1,0 +1,31 @@
+X: 5186
+T: In de heilige schrifture(n) Vindt men een ex [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 533435182
+%%humdrum-veritas-data 2919685171
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F2E [I:setbarnb 1]|
+D2E (F G) A |
+[M:9/8]B3A3).('F2E |
+[M:6/8]D2FB2A |
+E3).('F2E |
+D2E (F G) A |
+[M:9/8]B3A3).('F2E |
+[M:6/8]D2FB2A |
+E3).('F2G |
+A2^GA2B |
+A2A).('d2c |
+B2A (G F) E |
+F3).('F2G |
+A2^GA2B |
+A2A).('d2c |
+B2A (G F) E |
+D3) |]

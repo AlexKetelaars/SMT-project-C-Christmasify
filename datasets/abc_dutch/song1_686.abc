@@ -1,0 +1,16 @@
+X: 686
+T: Di Heer van hemel riep ick aen Uut allen min [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 166912522
+%%humdrum-veritas-data 1116012934
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('G4c4A4B4c2(d4c2)B4A4).('G4A4B4G4G2(c2>B2c2)A4G4).('G4c4A4B4c2(d4c2)B4A4).('G4A4B4G4G2(c2>B2c2)A4G4) ]|:
+.('z4G4A4B4c4z4c4B4c4d4).('e4e2(dcB2A2B2-B2)A4).('G4A4B4G4G2(c2>B2c2)A4G4).('G4A4B4G4G2(c2>B2c2)A4G4) |]

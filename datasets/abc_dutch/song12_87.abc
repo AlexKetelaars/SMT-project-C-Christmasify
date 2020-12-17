@@ -1,0 +1,34 @@
+X: 11086
+T: Zyt gy dan, Herderin, Uw Kloris een Beulin?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 883578688
+%%humdrum-veritas-data 2818491086
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c2 [I:setbarnb 1]|
+A2F2F3E |
+F2>A2A2(A/ B/ c) |
+d3(e/ d/)^c4) |
+.('z2c2d3e |
+A> AB2>c2 A3/ G/ |
+c2c2z2F3/ F/ |
+F2(C/ D/ E2<)D2C |
+[M:5/4]C6).('C3C |
+[M:2/2]F2>F2G2(G/ A/ B) |
+A2D2).('d c B A |
+G2>F2G2A2 |
+F2C2(c G)A2 |
+F2).('d> ef3e |
+d c B A G F) .('B A |
+G2>F2F2).('d3/ e/ |
+f2e> dd2d3/ ^c/ |
+d2>c2 B A G E |
+F G) .('A B2<G2F |
+F6) |]

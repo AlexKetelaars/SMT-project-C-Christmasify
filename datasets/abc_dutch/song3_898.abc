@@ -1,0 +1,22 @@
+X: 2897
+T: En onder die Frankrijkse poorte Daar woonde  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 1742353014
+%%humdrum-veritas-data 2203281425
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=138
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d f d B B3/ d/ |
+[M:6/8]BA2-A2).('A |
+[M:9/8]B/ B/ B B d d e d>) .('B A |
+[M:5/8]G G A G A |
+[M:6/8]BG2-G2).('B |
+d/ d/ d d c B A |
+G3-G2) |]

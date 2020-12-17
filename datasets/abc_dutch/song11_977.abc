@@ -1,0 +1,31 @@
+X: 10976
+T: Al treuren, al treuren, Ben ik vroeg opgestaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 3050077893
+%%humdrum-veritas-data 3097241950
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(G> F) G A |
+(B d) !fermata!B) .('G |
+A d c (B/ A/) |
+!fermata!G3).('(G/ A/) |
+B2d3/ d/ |
+d2e3/) .('d/ |
+c B c d |
+B2z) .('G |
+(G e) e e |
+d2B) .('d |
+c B A G |
+d2z) .('D/ D/ |
+G A B c |
+e2d) .('c/ c/ |
+B2A A |
+G2z2) |]

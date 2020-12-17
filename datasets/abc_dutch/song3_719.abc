@@ -1,0 +1,31 @@
+X: 2718
+T: Er was eens een heerke heel verre van huis d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 1298515901
+%%humdrum-veritas-data 3579631151
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+BAB |
+dG3/G/ |
+GFG |
+A2).('D |
+cBc |
+eA3/A/ |
+AG3/A/ |
+B2).('B3// A// |
+GDG |
+Be3/d/ |
+cA2- |
+A2).('A |
+B>de |
+Bcd |
+AG2- |
+G2) |]

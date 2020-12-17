@@ -1,0 +1,41 @@
+X: 5405
+T: Ruischende beekjes hoven, [Bosschen, en beem [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2956388838
+%%humdrum-veritas-data 3568969981
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('A>GA |
+F2G |
+A2D) |
+.('ABc |
+(B^c)d |
+^c2c) |
+.('fef |
+d3 |
+(e/ f/) (g/ f/) (e/ d/) |
+^c3) |
+.('Ad3/c/ |
+B>cd |
+d/ e/f(f/ e/) |
+e3) |
+.('cf3/c/ |
+d/ c/ (_B/ d/) (c/ d/) |
+G2).('G |
+c>G _B/ A/ |
+G2F) |
+.('AA3/_B/ |
+G2G |
+_B2z/ c/ |
+A3) |
+.('fe3/d/ |
+^c>c d/ e/ |
+(fe2) |
+d2) :|]

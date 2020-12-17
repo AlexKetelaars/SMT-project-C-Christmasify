@@ -1,0 +1,25 @@
+X: 3241
+T: De steeman rijk aan geld en goed Baadt zich  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 3119914603
+%%humdrum-veritas-data 4236964125
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+g2>d2 B G B G |
+d4z2).('(f g) |
+a2>g2 f e d3/ c/ |
+B2z2z) .('d e f |
+g2>d2a3d |
+b4z) .('a g f |
+e2a2g2a2 |
+b4z) .('a g f |
+e2a2g2f2 |
+g4z2) |]

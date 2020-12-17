@@ -1,0 +1,28 @@
+X: 16727
+T: Vaer wel mijn alderliefste ziel, die ‘k voor [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 2687452780
+%%humdrum-veritas-data 3726146045
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('g [I:setbarnb 1]|
+edec |
+(d/ c/) (d/ e/)d).('g |
+edec |
+d3) |
+.('d [I:setbarnb 5]|
+BGcd |
+(e/ d/) (e/ f/)e).('a |
+^fgaf |
+g3).('g |
+fedc |
+(d/ c/) (B/ A/)G).('g |
+cdd3/c/ |
+c3) :|]

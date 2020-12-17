@@ -1,0 +1,31 @@
+X: 2624
+T: Op ene vroege morgenstond dat ik een wandeli [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 895719626
+%%humdrum-veritas-data 1248003087
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+B2d2B2d2 |
+(c2e) dA2z) .('d |
+d2>e2 f> g f e |
+d6).('d2 |
+B2d2B2d2 |
+(c2e) dA2z) .('d |
+^c2>e2(g2c) c |
+d4z) .('A A A |
+e2e2d2B2 |
+A2d2A2z) .('A |
+e2>e2 (d c)B2 |
+A2d2A2z) .('A |
+B3B/ B/^c3c |
+d2>B2A2)(3.('G G G |
+F2B BA2G E |
+D6) |]

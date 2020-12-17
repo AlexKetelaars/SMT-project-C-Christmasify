@@ -1,0 +1,27 @@
+X: 9140
+T: Herders, hij is geboren In ‘t midden van den nacht
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 1535684909
+%%humdrum-veritas-data 2700144746
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: F clef=treble
+.('FFFG2G |
+A3A2).('c |
+B2AG2F |
+F3-F2z) |
+.('c2FGFG |
+A3A2).('G |
+A2c=B2c |
+c3-c2z) |
+.('dcBc>BA) |
+.('BAGA>GF) |
+.('GFEF>GA) |
+.('cBAG2F |
+F3) |]

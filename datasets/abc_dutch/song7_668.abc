@@ -1,0 +1,37 @@
+X: 6667
+T: Daar waren zeven kikkertjes al in een boeres [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 220121556
+%%humdrum-veritas-data 350597841
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G A |
+B B B) .('B |
+A A A A |
+G2z) .('D |
+G G G A |
+B2B) .('B |
+A G A B |
+G2z2) |
+.('d2c2 |
+B2z2 |
+d2c2 |
+B2z2) |
+.('G> G G D |
+E2D2) |
+.('G G/ G/ G A |
+B B B) .('B |
+A D E F |
+G2G z) |
+.('G> GG2 |
+B> B B) .('B |
+A G A A/ B/ |
+G2G) |]

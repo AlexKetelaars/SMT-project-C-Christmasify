@@ -1,0 +1,29 @@
+X: 6116
+T: Adiu dan weereldt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 700412307
+%%humdrum-veritas-data 2417680848
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('a2a3/b/ |
+a2gf |
+e>fg3/a/ |
+f2d2) |
+.('a2a3/b/ |
+a2gf/ g/ |
+a2g2 |
+f4) :|]
+.('a2gf |
+e2fe |
+d2gf |
+e2fg) |
+.('a/ b/ a/ g/fa |
+g/ f/e2d |
+d2) |]

@@ -1,0 +1,40 @@
+X: 12558
+T: De Roode Zee
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 2757230498
+%%humdrum-veritas-data 3349977064
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A [I:setbarnb 1]|
+defe/ d/ |
+e2c2) |
+.('def/ e/ f/ g/ |
+aaa2) |
+.('efg/ f/ e/ d/ |
+cde).('f |
+gf/ e<!trill!!trill!ed/ |
+d3) |
+.('a/ g/ [I:setbarnb 9]|
+!trill!!trill!f>edf |
+e2c2) |
+.('BAB^G |
+A3).('a/ g/ |
+!trill!!trill!f>edf |
+e2c2) |
+.('BAB^G |
+A3).('A |
+defe/ d/ |
+ggg2) |
+.('fe/ f/ g/ f/ e/ d/ |
+aaa2) |
+.('e(e/ f/) g/ f/ e/ d/ |
+cde).('f |
+gf/ e<!trill!!trill!ed/ |
+d3) :|]

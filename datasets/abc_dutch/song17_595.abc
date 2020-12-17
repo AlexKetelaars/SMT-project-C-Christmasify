@@ -1,0 +1,36 @@
+X: 16594
+T: Die uit den hemel is gedaalt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2638374240
+%%humdrum-veritas-data 82780388
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+A2>B2c2(B/ c/ d) |
+c3(B/ A/)A3B |
+c2(d e2<)^G2A |
+d2(c B2<)B2A |
+A4z2).('^G2 |
+A2>B2c2(d e) |
+c2>B2B2z B |
+c2>c2d2e2 |
+A2B2c3d |
+(d2>c2)c2) |
+.('e2 [I:setbarnb 11]|
+e3(d/ c/)B2(c d) |
+c3(B/ A/)^G4 |
+^G2z A2<d2e |
+d2c2c3B |
+B2E2A2(A/ B/ c) |
+B2(A G2<)^F2E |
+E2z) .('^G2<A2B |
+c2>c2 (d e) (d c) |
+B z (B/ c/ d2<)(c2B/ A/) |
+A6) |]

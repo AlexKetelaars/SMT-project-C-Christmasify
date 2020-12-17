@@ -1,0 +1,36 @@
+X: 16360
+T: O Hoe aerdig gaet het toe, By de Nimfies en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1118859484
+%%humdrum-veritas-data 837166230
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2c [I:setbarnb 1]|
+(d c) B (A G) F |
+G3).('d2G |
+A2cB2A |
+(B A) G).('d2G |
+A2cB2A |
+(B A) G).('B2e |
+^c2d (e d) c |
+d3) |
+.('d2=f [I:setbarnb 9]|
+e2dc2B |
+(c B) A).('c2d |
+(B A) G (d c) B |
+A3).('A2c |
+B2dA2c |
+(B c) d) .('(e f) g |
+G2A (B c) A |
+G2>!fermata!d2 z) .('B |
+(e d) e (f e) f |
+g2z).('d2G |
+A2c (B c) A |
+G3) :|]

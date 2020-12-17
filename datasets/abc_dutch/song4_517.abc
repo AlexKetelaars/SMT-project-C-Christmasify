@@ -1,0 +1,27 @@
+X: 3516
+T: O Rosalina de tijd is daar Dat wij moeten sc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 3125509705
+%%humdrum-veritas-data 3806284373
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D B, D [I:setbarnb 1]|
+G2G> G A G |
+C2>).('C2 B, E/ G/ |
+F2F2E D |
+B,2>).('D2 E F |
+G2G2A G |
+E2>).('A2 A G |
+(D2G) F E F |
+G2>).('D2 E F |
+G2G2A G |
+E2>).('A2 A G |
+(D2G) F E F |
+G3) |]

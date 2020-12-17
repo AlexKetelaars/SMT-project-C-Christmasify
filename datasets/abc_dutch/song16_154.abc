@@ -1,0 +1,30 @@
+X: 15153
+T: Du bist verrückt mein Kind
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2593124265
+%%humdrum-veritas-data 664432553
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G4c3 E |
+G2 G2 G2 z2 |
+G E C E G2 c2 |
+B4z4) |
+.('G4d3 F |
+A2 A2A4 |
+A F D F B2 A2 |
+G4z4) |
+.('G4c3 E |
+G2 G2 G2 z2 |
+G E C E G2 c2 |
+A4z2) .('A d |
+f4z2 G c |
+e4z2 G ^F |
+G A B c d2 e2 |
+c4z4) |]

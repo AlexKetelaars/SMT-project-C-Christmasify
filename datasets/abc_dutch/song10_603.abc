@@ -1,0 +1,55 @@
+X: 9602
+T: De reep in d’hand, de stok in d’hand, Reepen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 1553236437
+%%humdrum-veritas-data 2136814443
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C2 [I:setbarnb 1]|
+F2F2 |
+G2).('G2 |
+A2A2 |
+A2).('c c |
+d B A G |
+F2).('c c |
+d B A G |
+F2).('A A |
+F F A A |
+F F) .('A A |
+B A G F |
+G2).('G G |
+E E G G |
+E E) .('G G |
+A G F E |
+F F) ||
+.('A F [I:setbarnb 17]|
+A F (3(A G) F |
+G2).('G E |
+G E (3(G F) E |
+F2)(3.('C C C |
+(3F F F (3A A A |
+c2).('F F |
+G G (3(B A) G |
+F2)(3.('B A B ||
+[K:Eb] c2B2 [I:setbarnb 26]|
+A2F2 |
+E G/ G/ G G |
+G4) |
+.('F A/ A/ A A |
+A4 |
+G B/ B/ B B |
+B2)(3.('B =A B |
+c2B2 |
+A2F2 |
+E G/ G/ G G |
+G) .('B B B |
+c2c2 |
+d2d2 |
+e4) |]

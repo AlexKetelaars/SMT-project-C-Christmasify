@@ -1,0 +1,26 @@
+X: 814
+T: Een boerman hadde eenen dommen sin daer op s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 292600493
+%%humdrum-veritas-data 1294453256
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('CDD [I:setbarnb 1]|
+(AG/ F/)GGFE |
+F2Fz)(3.('F E G |
+[M:2/2]AGFE |
+F2F).('A/ F/ |
+(3F>F FED |
+[M:3/2](3:2:5(G/ F/ E D/ C/)D2).('FE |
+[M:2/2]GA(3G F E |
+F2F).('A |
+FFED |
+[M:3/2]G2Gz)(3:2:4.('F (E/ D C/) |
+D2D2) |]

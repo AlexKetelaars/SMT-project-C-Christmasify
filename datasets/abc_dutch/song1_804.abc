@@ -1,0 +1,28 @@
+X: 804
+T: Daer ginck een meyt om water uyt om water we [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 4064827203
+%%humdrum-veritas-data 2041034635
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2GA2B |
+c2AA2).('c |
+c d cB2B |
+A2>-A2 z) .('d |
+d2B (B c) d |
+c2AA2).('c |
+c d cB2B |
+A2>-A2z2) |
+.('c2G G A B |
+A2GF3) |
+.('c2G G A B |
+A3G3 |
+F3z2) |]

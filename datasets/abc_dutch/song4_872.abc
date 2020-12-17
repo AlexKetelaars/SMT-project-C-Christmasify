@@ -1,0 +1,31 @@
+X: 3871
+T: Komt vrienden wilt een lied aanhoren [Al wat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 839050826
+%%humdrum-veritas-data 527484761
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G/ G/ D/ D/GA |
+G2F/) .('F/ F/ G/ |
+AGFE |
+D2z).('D |
+GDGG/ A/ |
+G2F/) .('F/ F/ G/ |
+AGFE |
+D2).('BB/ B/ |
+A>GFE |
+ED).('B3/B/ |
+A>GFE |
+D2).('BB/ B/ |
+(B/A)G/EG/ G/ |
+G>G).('D3/D/ |
+(DE/) F/(GB/) A/ |
+G2) |]

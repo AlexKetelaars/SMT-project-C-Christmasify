@@ -1,0 +1,23 @@
+X: 4263
+T: En ik wil het mijn vader gaan vragen Of hij  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 3214256893
+%%humdrum-veritas-data 1706553495
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GG/ G/AA/ A/ |
+(Bd)c).('(B/ A/) |
+GDBA |
+GGD).('D |
+GG/ G/AA/ A/ |
+(Bd)c).('(B/ A/) |
+GDBA |
+G3) |]

@@ -1,0 +1,34 @@
+X: 10904
+T: “Bonjour, Marie-Katrien! Zoude gij niet willen -
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 3210904187
+%%humdrum-veritas-data 2971667397
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c4 |
+A3c |
+(d c) (B A) |
+G2-G z) |
+.('F> F F3/ A/ |
+A2G2) |
+.('B> B B3/ d/ |
+d2c2) |
+.('c4 |
+A3c |
+(d c) (B A) |
+G2-G z) |
+.('d> d d3/ d/ |
+c2A c |
+(c B) A G |
+c2-c z) |
+.('d> d d3/ d/ |
+c2A c |
+(c B) A G |
+F2-F z) |]

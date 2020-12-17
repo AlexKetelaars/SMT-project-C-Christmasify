@@ -1,0 +1,26 @@
+X: 4703
+T: Sjoelijt de kerrek uit Zeven klappen voor ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3270385973
+%%humdrum-veritas-data 288655154
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('(d g) B3/ B/ |
+d gB2) |
+.('e e c e |
+d d B3/) .('B/ |
+d/ d/ d g d |
+d2B2) |
+.('d d g d |
+d2B2) |
+.('e e e f |
+a aa2) |
+.('e e e e |
+d dd2) |]

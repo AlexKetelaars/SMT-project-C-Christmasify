@@ -1,0 +1,30 @@
+X: 14772
+T: Marsch Maastoze
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1814929716
+%%humdrum-veritas-data 1904610020
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D2D> DD2(D/ E/ F/ G/) |
+A2A> AA2z2 |
+f2(f a) (a g) (g f) |
+e2e> ee2z2) |
+.('D2D> DD2D/ E/ F/ G/ |
+A2A> AA2e2 |
+a2(3f e dc2!trill!!trill!B2 |
+A2A> AA2z2) |
+.('a2a gf2a2 |
+g2g fe2g2 |
+f2(f a) a g g f |
+e2e> ee2z2) |
+.('D2D> DD2(D/ E/ F/ G/) |
+A2A> AA2g2 |
+f g a gf2e2 |
+d2d> dd2z2) :|]

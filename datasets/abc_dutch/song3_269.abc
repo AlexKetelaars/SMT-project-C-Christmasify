@@ -1,0 +1,27 @@
+X: 2268
+T: Zolang de roosjes bloeien En de lelies er he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 2926787692
+%%humdrum-veritas-data 183024200
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G2ed2B |
+AG2z2).('A/ A/ |
+B c de2d |
+A2zz2).('d |
+d2dg2f |
+fe2z3) |
+.('g f e d A (e/ d/) |
+B2zz2).('d |
+d2dg2f |
+fe2z2).('g |
+(f e) d A e d |
+G2zz2) |]

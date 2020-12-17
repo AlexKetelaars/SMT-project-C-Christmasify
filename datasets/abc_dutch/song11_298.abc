@@ -1,0 +1,85 @@
+X: 10297
+T: Sonata 57
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:04
+%%humdrum-veritas 2172853031
+%%humdrum-veritas-data 1776164675
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+B G B d g2 g2 |
+g2 f2 z2 d2 |
+c2 a2- (3a g f (3e d c |
+(3B A G (3c B A (3B A G (3c B A |
+(3B G B (3d B d g2 {g} g2 |
+g2 f2 z2) .('d2 |
+^c2 a2 z2 c2 |
+d2 a2 z2 d2 |
+e2 a2 z2 e2 |
+(3f d f (3a f a b2 ^d2 |
+(3e ^c e (3^g e g a2 c2 |
+(3d B d (3f d f) .('g2 B2 |
+(3^c A B (3c d e (3=f a g (3f e d |
+(3^c A B (3c d e (3=f a g (3f e d |
+(3^c A B (3c d e (3=f a g (3f e d |
+^g2 a2 z2) .('=g2 |
+(3f e d (3g f e B2 !trill!!trill!^c2 |
+(3d e f (3g f e!trill!!trill!e4 |
+d4z2 d2 |
+B G B d g2 g2 |
+g2 f2 z2 d2 |
+c2 a2- (3a g f (3e d c |
+(3B A G (3c B A (3B A G (3c B A |
+(3B G B (3d B d g2 {g} g2) |
+.('g2 f2z4 |
+d4d4 |
+d6(3E ^G A |
+B c (3d c B b2 d2 |
+c B A2z4 |
+c4c4 |
+c6(3D F G |
+A B c/ B/ A a2 c2 |
+B A G2 z2) .('d2 |
+(3e d c (3e f g (3a g f (3e d c |
+(3d c B (3d e f (3g f e (3d c B |
+(3c B A (3c d e (3f e d (3c B A |
+(3B A G b2 a2 g2 |
+g2 f2 z2) .('d2 |
+(3^c d e (3e f g g2 c2 |
+d2 D2 z2) .('d2 |
+(3^c d e (3e f g g2 c2 |
+d2 a2 c2 B A |
+B G B d g2 B2 |
+(3B A G (3c B A E2 F2 |
+(3G A B (3c B AA4 |
+!fermata!G4z4) |
+.('e2 e2 (3e b a (3g f e |
+f2 B2 (3z B ^c (3^d e f |
+(3f g a (3a b c' (3c' b a (3a g f |
+(3g f eE4).('b2 |
+^g2 g2 (3g e f (3g a b |
+c'2 c'2 (3c' a b (3c' b a |
+{g} f2 f2 (3f d e (3f g a |
+b a g f g2) .('d2 |
+(3e c e (3d B d (3c A c (3B G B |
+A2 D2 z2) .('d2 |
+(3e c d (3e d c (3c' b a (3g f e |
+(3d B c (3d c B (3b a g (3f e d |
+(3c A B (3c B A (3a g f (3e d c |
+(3B A G) .('c2 (3B A G (3e d c |
+(3B A G c2 (3B A G (3e d c |
+(3B c d (3e f g (3c d e (3f g a |
+(3d e f (3g a b (3e f g (3a b c' |
+!trill!!trill!d6).('c'2 |
+(3b a b (3c' b a g2 !trill!!trill!a2 |
+g4z2) .('b2 |
+(3^g b a (3g =f e (3d f e (3d c B |
+(3c B AA4).('a2 |
+(3f a g (3f e d (3c e d (3c B A |
+(3B A GG4z2) |]

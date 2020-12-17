@@ -1,0 +1,22 @@
+X: 346
+T: Psalm 118
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2071304687
+%%humdrum-veritas-data 3811249485
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 12/2
+Q: 1/2=60
+K: C clef=treble
+.('c4A2G2c2c2d2f2e4d4) |
+.('g4e2e2c2f2e4d4c4) |
+.('c4A2G2c2c2d2f2e4d4) |
+.('g4f2e2d2c2c2B2c4).('g4 |
+g2f2e4d4c2B2A4G4) |
+.('G4c2c2B2A2c4d4e4) |
+.('c4c2d2e2c2f2f2e4d4) |
+.('g4f2e2d2c2c2B2c4) |]

@@ -1,0 +1,32 @@
+X: 6332
+T: Dubbelde Duitsche Polka (Horlepijp)
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 1012653254
+%%humdrum-veritas-data 2192849317
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+g> d B> d c> e d3/ c/ |
+B> G B> d c> e d3/ c/) |
+.('B> d g> f e> d c3/ B/ |
+A> d ^c> ed2).('d2 |
+g> d B> d c> e d3/ c/ |
+B> G B> d c> e d3/ c/) |
+.('B> d g> b a> f d3/ f/ |
+g2b2g2) |
+.('g2 [I:setbarnb 9]|
+a> f d> fa2a2 |
+b> f g> ed2).('g2 |
+a> f d> fa2a2 |
+b> f g> ed2).('d2 |
+e> c G> c e> g f3/ e/ |
+d> B G> B d> g f3/ e/) |
+.('d> e f> g a> g f3/ a/ |
+g2b2g2) :|]

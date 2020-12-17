@@ -1,0 +1,16 @@
+X: 619
+T: Vrolijc en bly Loeft God ghi aertsche scaren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3758303792
+%%humdrum-veritas-data 747042705
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('F4G2G2A4z2).('A2B2B2(A3G/ F/E)D2<(G2FF4E2)F4).('F4G2G2A4z2).('A2B2B2(A3G/ F/E)D2<(G2FF4E2)F4) ]|:
+.('F2c2c2B2A2F2G2A4z2).('A2A2A2B2A2G2F2E4z2).('C2D2E2F2C2D2E2F4z2).('B2B2BB2<A2(G/ F/)(ED2<G2FF4E2)F4) |]

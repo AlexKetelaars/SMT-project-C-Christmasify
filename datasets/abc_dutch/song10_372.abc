@@ -1,0 +1,46 @@
+X: 9371
+T: Landsmannen al, in wier bekwame aadren Vloei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 666419244
+%%humdrum-veritas-data 890663361
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('Ac/ d/ |
+e3/c/ |
+d/ B/ A/ G/ |
+AE) |
+.('cc/ c/ |
+B3/A/ |
+G/ F/ E/ ^D/ |
+Ez) |
+.('Ac/ d/ |
+e3/c/ |
+d/ B/ A/ G/ |
+AE) |
+.('cc/ c/ |
+B3/A/ |
+G/ F/ E/ ^D/ |
+Ez/) .('c/ |
+ee |
+dd |
+cc |
+Bz/) .('c/ |
+ee |
+dd |
+cc |
+Bz/) .('B/ |
+dd |
+cc |
+ff |
+ez/) .('e/ |
+dd |
+c(d/ B/) |
+AG |
+A2) |]

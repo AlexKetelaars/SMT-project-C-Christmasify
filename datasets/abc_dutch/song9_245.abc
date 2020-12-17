@@ -1,0 +1,38 @@
+X: 8244
+T: Gij, gij woont in mijn herte, gij, gij woont [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 1165094717
+%%humdrum-veritas-data 3384345266
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Eb clef=treble
+.('G3 |
+G3 |
+G F G |
+B2A) |
+.('F3 |
+F3 |
+F E F |
+G2z) |
+.('G3 |
+G3 |
+G F G |
+B2A) |
+.('F G A |
+c A F |
+E3- |
+E2z) |
+.('E3 |
+G3 |
+B3 |
+!fermata!e3) |
+.('F G A |
+c A F |
+E3- |
+E z z) |]

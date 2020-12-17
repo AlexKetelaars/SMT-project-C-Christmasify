@@ -1,0 +1,15 @@
+X: 564
+T: In God is al mijn toeverlaet En mijn betrouw [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 910024396
+%%humdrum-veritas-data 704247459
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2C2C2C2D4C2F4E2F4-F4z2).('D2E2F2G4G2D2E4D4).('E2F2E2F2D2C4B,4).('C2D2D2D2E2E2C2(F2E2)D2C4z2).('G2G2G2G2G2F4D4(E2>D2C2F4E2D4)C4) |]

@@ -1,0 +1,24 @@
+X: 816
+T: Een ridder ende een meysken jonck op een riv [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3707836459
+%%humdrum-veritas-data 4243754838
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('DDD [I:setbarnb 1]|
+FFGG |
+[M:3/2]A2z).('GAA |
+[M:2/2]d>cBA |
+B2c2 |
+z).('ccc |
+cAGG |
+[M:3/2]F2z).('cd(3c/ c/ c/ |
+[M:2/2](3:2:5(A2G)(A2G/ F/) |
+E2D2) |]

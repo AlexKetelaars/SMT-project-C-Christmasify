@@ -1,0 +1,23 @@
+X: 3049
+T: Ik ben van de Ruhr naar het Lobith gevaren E [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 2528586709
+%%humdrum-veritas-data 1164644252
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2B> BB2A G |
+GF2ED2D) .('D |
+E2E EF2F2 |
+G2A2d2d2) |
+.('c> B c de2g2 |
+d> e d BG2z) .('B |
+A2>B2c3F |
+G6) |]

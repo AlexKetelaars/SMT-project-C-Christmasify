@@ -1,0 +1,30 @@
+X: 13166
+T: Bergodine
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:31
+%%humdrum-veritas 4030122978
+%%humdrum-veritas-data 1627730528
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d2e f g f |
+e f ed2A) |
+.('d2e f g f |
+e f ed3) |
+.('d c dB3 |
+e2dc2A) |
+.('d c dB3 |
+e d cd3) :|]
+.('a2fa2f |
+e f gf2d) |
+.('a2fa2f |
+e d cd3) :|]
+.('d c dB3 |
+e2dc2A) |
+.('d c dB3 |
+e d cd3) :|]

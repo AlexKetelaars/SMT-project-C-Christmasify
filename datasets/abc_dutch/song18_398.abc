@@ -1,0 +1,30 @@
+X: 17397
+T: Le Basson
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 1099162298
+%%humdrum-veritas-data 1825189538
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2G AB2A G |
+c2c2c3d |
+B2A B c B A G |
+A G F ED4) |
+.('G2G AB2G2 |
+c2c de2d c |
+d2g2f g a f |
+g4g4) |
+.('g2g ag2f e |
+d2d2d4 |
+e2e fe2d c |
+B2B2B4) |
+.('G2G AB2G2 |
+c2c de2d c |
+d2g2f g a f |
+g4!fermata!g4) :|]

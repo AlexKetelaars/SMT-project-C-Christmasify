@@ -1,0 +1,34 @@
+X: 16976
+T: Air
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 1844551272
+%%humdrum-veritas-data 2261645876
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B2(c B/ c/) [I:setbarnb 1]|
+d2c Bc2B A |
+B2G2).('B2(c B/ c/) |
+d2c Bc2B A |
+B A B c2<!mordent!!mordent!A2G |
+G4) |
+.('d2g2 [I:setbarnb 6]|
+!mordent!!mordent!f2g ag2f e |
+f2e de2d c |
+d2e fe2f g |
+!mordent!!mordent!f2d2).('B2(c B/ c/) |
+d2c Bc2B A |
+B2G2).('B2(c B/ c/) |
+d2c Bc2B A |
+B A B c2<!mordent!!mordent!A2G |
+G4).('d2d c/ d/ |
+e2=f e d e c d |
+!mordent!!mordent!B2>).('B2e2e d |
+c2c B A G A B |
+B2A2) |]

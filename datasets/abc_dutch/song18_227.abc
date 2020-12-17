@@ -1,0 +1,32 @@
+X: 17226
+T: Al 't geen daar ons het aardsch meê vleid, W [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3098587803
+%%humdrum-veritas-data 1576806592
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('zCCE, |
+F,F,F,D, |
+A,4) |
+.('DD/ D/DC |
+B,2B,C |
+A,2A,G, |
+DD).('B,B, |
+C2A,D |
+G,2G,z |
+z).('G,G,E, |
+F,F,F,D, |
+E,2).('C,C,/ C,/ |
+F,D,E,3/E,/ |
+A,).('A,A,E, |
+F,G,A,B, |
+C2).('_B,B,/ B,/ |
+A,F,G,3/G,/ |
+C,4) |]

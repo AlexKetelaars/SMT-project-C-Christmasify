@@ -1,0 +1,15 @@
+X: 208
+T: Ick danck' u HEER uut s'herten grondt, Lippe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1198688451
+%%humdrum-veritas-data 1474358764
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F4A2B2c4f4e4d4c4z4).('c4d2c2A4A4B2A2G4F4z4).('F4A2B2c4f4e4d4c4z4).('c4d2c2A4A4B2A2G4F4z4).('f4e2d2c2f2e4d4c4z4).('c4G4B4A2G2A2B2(c2d2)c4z4).('F4F2G2A2F2A4B4c4z4).('c4G4B4A2c2B2A2G4F4) |]

@@ -1,0 +1,22 @@
+X: 3605
+T: In Engeland woonde een koopman rijk en macht [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 661717256
+%%humdrum-veritas-data 879733172
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2A/ A/ B (c B) A3/ A/ |
+G B d d (A e)d2) |
+.('d2e d (c e) d3/ c/ |
+B A B cd4) |
+.('G> G B d/ d/g2f2 |
+(f a) (g f) (e d)d2) |
+.('d2e c (B d) G3/ G/ |
+F A c/ c/ BG4) |]

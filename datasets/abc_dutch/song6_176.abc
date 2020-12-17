@@ -1,0 +1,46 @@
+X: 5175
+T: Hoort toe al die vol liefde zijt Het lust mi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 2028366413
+%%humdrum-veritas-data 3910019318
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('G E G |
+(A> c) A |
+G2(F/ G/) |
+E3) |
+.('c c d |
+e2e |
+dc2- |
+c3) |
+.('G E G |
+(A> c) A |
+(G> A) (F/ G/) |
+E3) |
+.('c c d |
+e2e |
+dc2- |
+c3) |
+.('G E G |
+A2A |
+G2F |
+E2).('D |
+E E G |
+A2A |
+G2F |
+E3) |
+.('c c d |
+e2e |
+(d2c) |
+A2).('d |
+[M:2/8]e d |
+[M:3/8]c2B |
+AG2- |
+G3) |]

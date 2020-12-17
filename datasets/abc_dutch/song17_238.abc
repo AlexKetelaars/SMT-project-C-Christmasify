@@ -1,0 +1,47 @@
+X: 16237
+T: ‘t Is vreede in onze dagen, ‘t Is vreede in  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 4145382202
+%%humdrum-veritas-data 4247153635
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 12/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+(c d c d e d e f e f g f |
+g3-g2>)g2 (f e)d2c |
+B3G2).('G (c G c d G d |
+e G e f e f2<g2-g3) |
+g (f e)d2c2<B2G2).('d |
+d2BG2e (d B d e c e |
+d B d e c e2<d2)d2).('g |
+g2ec2g (g e g a f a |
+g e g a f a2<g2)g2).('d |
+(e c e d B d e c e d) c B |
+(B A) GG2).('G (c G) c (c G) c |
+A3A2).('A (d A) d (d c) d |
+(B c d e d e c d e f e f |
+d e f2<g2-g3)-g2).('f |
+(e c d e f e d B d- d) e d |
+c (B A2<)A2A2).('dd3- |
+d2d (d c) B (B A) GG2).('d |
+d3-d2d (d c) B (B A) G |
+G3-G3z2z z z) .('G |
+(c d/ c/ B/ c/ d e/ d/ c/ d/ e f/ e/ d/ e/ f g/ f/ e/ f/ |
+g3-g2>)g2 (f e)d2c |
+B3G2).('G (c e c d f d |
+e g e f a f2<g2-g3) |
+g (f e)d2c2<B2G2).('d |
+d2BG2e (d B d e c e |
+d B d e c e2<d2)d2).('g |
+g2ec2g (g e g a f a |
+g e g a f a2<g2)g2).('d |
+(e c e d B d e c e) d (c B) |
+(B A) GG2).('G (c d/ c/ B/ c/ d e/ d/ c/ d/ |
+e f/ e/ d/ e/ f g/ f/ e/ f/ g) G c (B G) B |
+(e3c2)) :|]

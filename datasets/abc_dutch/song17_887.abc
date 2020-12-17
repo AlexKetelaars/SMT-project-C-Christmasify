@@ -1,0 +1,30 @@
+X: 16886
+T: La Prinsesse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 2636940096
+%%humdrum-veritas-data 4131852456
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('B A [I:setbarnb 1]|
+G2g2g3^f |
+g6g a |
+b2f2f3_e |
+d2B4c d |
+_e d c B2<B2A |
+A6) |
+.('a2 [I:setbarnb 7]|
+a2d2d f e g |
+f4_e3f |
+d2c2c3B |
+B6A B |
+G2c d2<^B2d |
+c6_e f |
+d2b a2<a2g |
+g6) :|]

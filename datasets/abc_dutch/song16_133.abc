@@ -1,0 +1,39 @@
+X: 15132
+T: De verliefde Landjonker
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1170629351
+%%humdrum-veritas-data 2200723401
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G E c [I:setbarnb 1]|
+G2EF2D |
+C2>{D} C2 B, C |
+D2GG2A |
+G2E) .('G E c |
+G2EF2D |
+C2>D2 G B |
+d2cE2^F |
+A2G) .('G ^F G |
+A2DD2D |
+B2>).('B2 ^A B |
+c2A A ^G A |
+B2G) .('G ^F G |
+A2DD2D |
+B2z) .('B ^A B |
+d2cE2^F |
+!fermata!A !fermata!G z) .('G ^F G |
+e2cG2E |
+F2z) .('F E F |
+d2BG2D |
+G2z) .('G A G |
+c2c c B c |
+A2>).('f2 e d |
+e> d c d c B |
+c3) |]

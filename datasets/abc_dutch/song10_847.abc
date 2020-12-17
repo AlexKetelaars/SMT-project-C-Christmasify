@@ -1,0 +1,26 @@
+X: 9846
+T: Jan, mijne man, zou ruiter worden, Kon hij g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 130828095
+%%humdrum-veritas-data 4086717105
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+(3.('C D E F3/ F/ |
+F> F F3/ F/) |
+(3.('F E F G3/ G/ |
+(3(C D) EF2) |
+(3.('C D E F3/ F/ |
+F> FF2) |
+.('F F (3G G G |
+(3(C D) EF2) |
+.('F2F2 |
+F FF2) |
+(3.('(F E) F G3/ G/ |
+(3(C D) EF2) |]

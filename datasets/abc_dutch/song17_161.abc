@@ -1,0 +1,30 @@
+X: 16160
+T: Fillis meend, dat ik om haar de Wyn zal haat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 1665027318
+%%humdrum-veritas-data 1687073456
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=bass
+.('F,2(E, D,2<)^C,2C, |
+D, C, B, A,2<G,2G, |
+A,4D,2z) .('E, |
+F,2E,2D, G, G, G, |
+E,2E,) .('E,A,2A, A, |
+F,2F, F,B,2B, B, |
+G,2>).('A,2A,2A, A, |
+B,2A, B,C2C C, |
+F,2>).('F,2F,2F, F, |
+D,2D, D,G,2G, G, |
+E,2>).('E,2A,2A, A, |
+F,2>F,2 F, B, C B, |
+G,2>).('G,2C2C C |
+(A, B, A, G, F, G, F, E, |
+D, E, F, G,A,2A, D, |
+A,2A, G,D,4)) :|]

@@ -1,0 +1,31 @@
+X: 15797
+T: kom mijn engel vol van waarden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 2703749615
+%%humdrum-veritas-data 846931309
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('GA [I:setbarnb 1]|
+B2e2 |
+d3c |
+BA3 |
+D4 |
+GAB2 |
+e2c2 |
+Adx) |
+.('A [I:setbarnb 8]|
+Bcc2 |
+e2d2 |
+c/ B/A3 |
+D4) |
+.('d2g2 |
+fed/ c/B |
+cdA2 |
+GG3) |]

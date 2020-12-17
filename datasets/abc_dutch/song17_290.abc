@@ -1,0 +1,40 @@
+X: 16289
+T: Waer heen myn Ziel, waer heen? Daer is op Ae [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2381035092
+%%humdrum-veritas-data 172733679
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B2 [I:setbarnb 1]|
+e2 (B A) G2 B2 |
+e4z2) .('B2 |
+(c A) e2 (e2 d) c |
+(c4B2)) .('(A G) |
+(A F) c2 (c2 B) A |
+(3(G F E)E4).('B2 |
+(=A B) (c d) (c d e) e |
+(e2 d2) z2) .('f2 |
+G2> e2 d2 c2 |
+(3(d c B) B2).('g4 |
+(f d) (e d/ c/) {B} !trill!!trill!c3 B |
+B6) |
+.('B2 [I:setbarnb 13]|
+B2 _d2 (d2 c) B |
+(B4A2)) .('(A G) |
+(A F) c2 (c2 B) A |
+(A4G2)) .('(B A) |
+G2 B2 e2 g2 |
+g2f4).('(e d) |
+(e g) (f e) (d c) (B A) |
+{A}G6).('(B A) |
+G2 B2 e2 g2 |
+g2f4).('(e B) |
+(c A) (G F2<) {E F} !trill!!trill!F2 E |
+E6) :|]

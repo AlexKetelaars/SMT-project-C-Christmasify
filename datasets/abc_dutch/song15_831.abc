@@ -1,0 +1,38 @@
+X: 14830
+T: Ariette
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 572221268
+%%humdrum-veritas-data 1637997232
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2Bc |
+d2Bd |
+egfe |
+e2dd |
+d2eA |
+Bcde |
+de/ d/cB |
+(B2A)).('g |
+fed^c |
+d3g |
+fed^c |
+f3d |
+g2bg |
+e2ge |
+(dc)(Bc) |
+(c2B)).('d |
+g2bg |
+e2ge |
+dcBA |
+Ggfe |
+dcBA |
+Gzgz |
+g2z) |]

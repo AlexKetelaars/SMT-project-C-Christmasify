@@ -1,0 +1,34 @@
+X: 4064
+T: Onze Jan die kwam eens laat naar huis Hiel l [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 929668799
+%%humdrum-veritas-data 3355162687
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d3c [I:setbarnb 1]|
+B B B B B B B3/) .('B/ |
+B B c B2<A2).('A |
+A> B c d f f f3/) .('e/ |
+d ^c =c A/ A/G4) |
+[M:2/4].('d3c/ c/ |
+[M:4/4]B B B B/ B/ B B B) .('B/ B/ |
+B> B c B2<A2).('A |
+A> B c/ d/ d f f f) .('e |
+d ^c =c AG4) |
+[M:2/4].('d3c/ c/ |
+[M:4/4]B B B B BB2).('B |
+B B/ B/ c B2<A2).('A/ A/ |
+A/ A/B2c/ d/ ff2).('e/ e/ |
+d d c AB4) |
+[M:2/4].('d3c/ c/ |
+[M:4/4]B B B B BB2).('B |
+B B/ B/ c d2<e2).('e/ e/ |
+e/ e/e2e/ e/ dd2).('d/ d/ |
+d d e fg4) |]

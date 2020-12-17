@@ -1,0 +1,45 @@
+X: 17031
+T: Aymez Profitez
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 925908821
+%%humdrum-veritas-data 687496297
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d [I:setbarnb 1]|
+a>ga |
+!mordent!!mordent!f>ga |
+g!mordent!!mordent!f2 |
+~e2).('e |
+f>ef |
+d>ef |
+g>fe |
+f!mordent!!mordent!d2 |
+c2).('g |
+a>bc' |
+f>ga |
+g>a_b |
+a3) |
+.('x2a |
+!mordent!!mordent!g>a_b |
+!mordent!!mordent!f>ga |
+g>af |
+!mordent!!mordent!e2).('e |
+f>gf |
+!mordent!!mordent!e>fg |
+!mordent!!mordent!f>ef |
+e2).('a |
+ag3/g/ |
+g>af |
+!mordent!!mordent!f>ge |
+d2).('f |
+f!mordent!!mordent!e3/d/ |
+!mordent!!mordent!^c>cd |
+!mordent!!mordent!d>e^c |
+d2) :|]

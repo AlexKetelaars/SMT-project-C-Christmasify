@@ -1,0 +1,27 @@
+X: 16244
+T: Jongkmans die uit vreijen gaat, Tracht uw Me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1847523273
+%%humdrum-veritas-data 1998819994
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2E2A2B2 |
+(c d)d2e3).('e |
+f2>e2d3c |
+(B A) (^G A)G2z) .('G |
+A2B2(c B) (A B) |
+^F4E4) |
+.('x4x2x d |
+^c2A2d2(d e) |
+e4d3).('d |
+(B c d e f e d) c |
+(B c) (d e2<)^G2G |
+A2B2(c d) (e f) |
+B4A2) :|]

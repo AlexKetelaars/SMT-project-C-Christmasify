@@ -1,0 +1,38 @@
+X: 17049
+T: [Air Acis et Galatée 5]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3597324367
+%%humdrum-veritas-data 1250944807
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c!mordent!!mordent!d3/c// d// |
+e>ef |
+gaf |
+g/ f/ g/ a/g |
+efd |
+ec).('G |
+c!mordent!!mordent!d3/c// d// |
+e>ef |
+gaf |
+g/ f/ g/ a/g |
+efd |
+e2) |
+.('d [I:setbarnb 13]|
+de2 |
+d>ef |
+ga/ g/ f/ e/ |
+dG).('d |
+de2 |
+d>ef |
+ga/ g/ f/ e/ |
+dGc |
+d!mordent!!mordent!d3/c/ |
+c3) :|]

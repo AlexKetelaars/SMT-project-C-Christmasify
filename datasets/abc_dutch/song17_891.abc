@@ -1,0 +1,34 @@
+X: 16890
+T: Hemel oppervooght
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 2782467894
+%%humdrum-veritas-data 3116722348
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('defg |
+efg/ a/e |
+fdc'b |
+agfe |
+fgaA |
+d2x2) |
+.('agfe |
+fdfe |
+dcA2 |
+dedc |
+BcB3/A/ |
+A>aag |
+fedg |
+fefd |
+cfef |
+gaf_b |
+agfc/ d/ |
+c/ B/Adc |
+defg |
+fecd) :|]

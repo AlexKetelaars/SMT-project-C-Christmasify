@@ -1,0 +1,15 @@
+X: 332
+T: Salomon besat sijns vaders stede Hy was seer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 2843751767
+%%humdrum-veritas-data 1012379811
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A>AAF2<B2AGF(E>D)C2).('zCF>FFF(G/ A/) (B/ G/)A2).('zAAF2<B2AGF(E>D)C2).('zA(A>G)FG>F(F3/E// D//)EF4) |]

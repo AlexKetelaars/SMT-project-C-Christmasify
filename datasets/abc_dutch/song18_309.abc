@@ -1,0 +1,28 @@
+X: 17308
+T: Wat zullenwe tavond eeten myn vrou lieveke,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3604438897
+%%humdrum-veritas-data 2977193102
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('_B [I:setbarnb 1]|
+d/ c/_Bc3/(f/ |
+d)cdc |
+dc_Bd) |
+.('_edc_B |
+A_BcB |
+A2_Bc |
+d3) |
+.('d [I:setbarnb 8]|
+c>c_B3/B/ |
+A3f |
+gf_ed |
+c_BA3/B/ |
+_B3) :|]

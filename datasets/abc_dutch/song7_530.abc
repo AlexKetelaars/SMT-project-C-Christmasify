@@ -1,0 +1,23 @@
+X: 6529
+T: ‘k Zal Galopijn mijn dochter geven, Hij is e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 1419797841
+%%humdrum-veritas-data 72354301
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F (B d) c [I:setbarnb 1]|
+B2B (B A) B |
+(A G) F) .('B A B |
+(G c) B (A G) A |
+B2).('F (B d) c |
+B2B (B A) B |
+(A G) F) .('B A B |
+G2G (A d) c |
+B2) |]

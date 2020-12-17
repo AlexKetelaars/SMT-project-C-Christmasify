@@ -1,0 +1,31 @@
+X: 15233
+T: Papegaaitje, zwijg toch niet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 1714889722
+%%humdrum-veritas-data 2537540792
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('E2GB2B |
+B2BB3) |
+.('B A GF3 |
+c3B2D |
+E3z2z) |
+.('B3G2E |
+E2EF3) |
+.('B3G2B |
+c2BF3) |
+.('E E EF2B |
+B2AG2E) |
+.('G A BE3 |
+e d cB3) |
+.('E2EF2B |
+B2AG2E |
+G A Bc2c |
+B A FE3) |]

@@ -1,0 +1,32 @@
+X: 16325
+T: Visjes, in dees heldre vliet, Schoon gy moog [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 736152487
+%%humdrum-veritas-data 3071558125
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('FB [I:setbarnb 1]|
+ABcd |
+(dc)).('c{d}!trill!!trill!d |
+{c d}e(d/ c/) {e}d(c/ B/) |
+{B}A(G/ F/)).('Bd |
+G(A/ B/)cB |
+A(G/ F/)).('c(B/ A/) |
+(d/ =E/) (F/ G<)!trill!!trill!GF/ |
+F2) |
+.('cB [I:setbarnb 9]|
+A(G/ F/)Bc |
+d{c}B).('dd |
+dcc(B/ A/) |
+B{A}G).('B(A/ G/) |
+F(c/ d/) (e/ d/) (e/ c/) |
+{c2}d2).('d(c/ B/) |
+A(B/ c<)!trill!!trill!cB/ |
+B2) :|]

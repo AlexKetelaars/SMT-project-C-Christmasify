@@ -1,0 +1,35 @@
+X: 408
+T: Engels liedt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 219989941
+%%humdrum-veritas-data 4118243186
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('F2E DC2C D |
+E2E FG2).('A A |
+A2F DG2C2 |
+D ED2G4) |
+.('A G F ED2C2 |
+D2C G C C C) .('D |
+E EE2A A A G |
+F E D CG4) |
+.('c2F G A G F E |
+D2C2G4 |
+C8) |
+.('G2>A2G2G2 |
+G2E2G4) |
+.('C2>D2E2C2 |
+G2E2F4) |
+.('C2>D2E2C2 |
+G2A2G2F2 |
+E2C2G4 |
+D4C D E F |
+G8 |
+C8) :|]

@@ -1,0 +1,52 @@
+X: 13256
+T: Ein Graf ritt aus auf Mädchenschau Zu kiesen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3925760923
+%%humdrum-veritas-data 1158231789
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c [I:setbarnb 1]|
+c> d c c d e |
+f2ca2).('f |
+b2ge2c |
+f f c a a) .('f |
+b b g e e c |
+f/ c/ d/ e/ f/ g/) .('a {b/} a/ g/ a |
+b {c'/} b/ a/ b g g/ a/ b/ g/ |
+c'2z) .('a {b/} a/ g/ a |
+b {c'/} b/ a/ b g g/ a/ b/ g/ |
+f c' f e e/ f/ g/ e/ |
+!trill!!trill!f2>!fermata!f2 z) .('c |
+c> d c c d e |
+f2cc2a |
+b {c'/} b/ a/ b a {b/} a/ g/ a |
+g c' c' c' z) .('c |
+c> d c c d e |
+f2cc2a |
+b {c'/} b/ a/ b g {a/} g/ ^f/ g |
+f2{g/} a f z) .('A |
+{c/}B2AG2B |
+A2f c z A |
+{c/}B2AG2B |
+A2f c z) .('c |
+c a gf2e |
+(^c d) d d z d |
+c2^c (d B) G |
+F2>{A/} G2 F G |
+A2Bc2^c |
+d2>-d2 b g |
+(f2>e2 d) e) |
+.('f/ .c/ .d/ .e/ .f/ .g/ a {b/} a/ g/ a |
+b {c'/} b/ a/ b g g/ a/ b/ g/ |
+c'2z) .('a {b/} a/ g/ a |
+b {c'/} b/ a/ b g g/ a/ b/ g/ |
+f c' z e e/ f/ g/ e/ |
+f c' f e e/ f/ g/ e/ |
+!trill!!trill!f3!fermata!f) |]

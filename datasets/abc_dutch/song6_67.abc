@@ -1,0 +1,28 @@
+X: 5066
+T: Adriaan van Berregen een klompemakerszoon ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 1788252369
+%%humdrum-veritas-data 2514848015
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C2DE2F |
+G2GG2G |
+[M:2/4]A> A c A |
+G3).('G |
+A> A c A |
+G4) |
+[M:6/8].('F2FF2F |
+E2EE2E |
+[M:2/4]D> C D E |
+C4) |
+[M:6/8].('C2D E E F |
+G G G G G) .('G |
+A2GG2F |
+E3C2) |]

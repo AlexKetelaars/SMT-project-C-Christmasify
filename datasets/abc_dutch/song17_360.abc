@@ -1,0 +1,32 @@
+X: 16359
+T: Het voorwerp van uw teedre zorgen, Uw Duif i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1306296890
+%%humdrum-veritas-data 1565201747
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E2 [I:setbarnb 1]|
+B2 B2 (3(B c) d {f/} (3(e d) c |
+c2 {B c}B4).('(B e) |
+(e2 d) e f A B A |
+{A}G4z2) .('G2 |
+e2 e2 e d c B |
+=A2 {G/} F2) .('(c3 d/ e/) |
+(3(d c) B (e/ d/) (c/ B/) {B} !trill!!trill!c3 B |
+B4z2) |
+.('B2 [I:setbarnb 9]|
+B2 B2 (3(_d c) B (3(A G) F |
+{F}=E4z2) .('G2 |
+A2 A2 (B c/) _d/ c B |
+c2 A) .('Ae4- |
+e2 (f e) d c B A |
+G2 {F/} E2) .('(A3 B/ c/) |
+(B/ G/) (F/ E/) (A/ G/) (F/ E/) {E} !trill!!trill!F3 E |
+E4z2) :|]

@@ -1,0 +1,26 @@
+X: 9275
+T: Groote klokken zeggen tiktak, tiktak! Kleine [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 1765736189
+%%humdrum-veritas-data 3753675840
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('C2C2 |
+CCCC |
+E2C2 |
+E2C2) |
+.('E2E2 |
+EEEE |
+GGEE |
+GGEE) |
+.('GGGG |
+GGGG |
+c/ c/ c/ c/ c/ c/ c/ c/ |
+c/ c/ c/ c/cz) |]

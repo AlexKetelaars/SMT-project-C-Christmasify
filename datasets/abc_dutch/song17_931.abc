@@ -1,0 +1,22 @@
+X: 16930
+T: [Branle bourgeois]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2199393751
+%%humdrum-veritas-data 282141564
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('f2>e2d2c2 |
+d e f ge2e2 |
+f2>e2d2c2 |
+d e f ge4) |
+.('f ga2f ga2 |
+d4d2e f |
+g f e de2e2 |
+f ga2f ga2) :|]

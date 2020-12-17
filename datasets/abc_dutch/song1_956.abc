@@ -1,0 +1,39 @@
+X: 956
+T: Bij Rhenen zijn velen gevallen Bij Rhenen st [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 3895865612
+%%humdrum-veritas-data 4090146935
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+DD3/D/ |
+EE3/D/ |
+DC2- |
+C2).('D |
+EE3/E/ |
+FF3/E/ |
+D3- |
+D2).('D |
+GG3/A/ |
+BA3/G/ |
+FE2- |
+Ez).('E |
+FF3/E/ |
+DD3/C/ |
+B,3- |
+B,2).('D |
+GG3/A/ |
+BA3/G/ |
+FE2- |
+Ez).('E |
+FF3/E/ |
+DB3/A/ |
+G3- |
+Gz) |]

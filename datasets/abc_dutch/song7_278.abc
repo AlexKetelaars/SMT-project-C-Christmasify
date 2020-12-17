@@ -1,0 +1,51 @@
+X: 6277
+T: De mensch en een uurwerk gelijken toch klaar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 2595015755
+%%humdrum-veritas-data 2019547642
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Eb clef=treble
+.('G [I:setbarnb 1]|
+A>GA |
+cBA |
+AGB |
+ez).('G |
+A>GA |
+cBA |
+AGB |
+ez).('e |
+d>c=B |
+cGc |
+c>B=A |
+B2).('d |
+eGc |
+Bcd |
+f>cd |
+Bz).('B |
+Bed |
+FGA |
+c>B=A |
+B2).('B |
+Bed |
+FGA |
+c>B=A |
+B2).('E |
+_d>cB |
+cAE |
+_d>c=B |
+c2).('c |
+cde |
+e>EG |
+cBA |
+Gz).('c |
+cde |
+eEz/ G/ |
+c>BB |
+Ez) |]

@@ -1,0 +1,36 @@
+X: 11008
+T: Ziet de herders op hunne velden! Daar hoorde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1935499709
+%%humdrum-veritas-data 1486723811
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F A [I:setbarnb 1]|
+c c c B/ A/ |
+B A) .('c c/ c/ |
+A c/ A/ (G B/) G/ |
+F2).('F A |
+c c c (B/ A/) |
+B A) .('c/ c/ c/ c/ |
+A c/ A/ (G B/) G/ |
+F2).('D F |
+G F/ G/ B (A/ G/) |
+(B A)G2 |
+z) .('A B3/ A/ |
+B> A B d |
+c2z) .('c |
+c> A F (G/ A/) |
+B> A G) .('d/ d/ |
+c/ d/ c/ B/ A G |
+A2z) .('c |
+c> A F (G/ A/) |
+B> A G) .('d/ d/ |
+c/ d/ c/ B/ A G |
+F2z2) |]

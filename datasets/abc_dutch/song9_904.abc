@@ -1,0 +1,27 @@
+X: 8903
+T: Er weten zoo veel’ van komen, Er weten zoo w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 2156687328
+%%humdrum-veritas-data 2215557773
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+B B Bc2B |
+B3A2).('G |
+F F G A c B |
+B3z2).('B |
+=B B Bc2d |
+d3c2).('c |
+e d c G c d |
+B3z2).('B |
+A G G c c B |
+B3A2).('G |
+G F E D G F |
+E3z2) |]

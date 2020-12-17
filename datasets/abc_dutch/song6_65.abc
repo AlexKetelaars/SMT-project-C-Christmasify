@@ -1,0 +1,32 @@
+X: 5064
+T: Dansen we niet om Joppie Dan dansen wij om ‘ [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 1930692115
+%%humdrum-veritas-data 1212548067
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C C DE2F |
+G3G2).('G |
+A2GG2F |
+E3C3) |
+.('E2EE2E |
+F2FF3) |
+.('D2DD2D |
+G2GG2).('G, |
+C2D E E F |
+G3G2).('F |
+E E ED2D |
+C6) |
+.('c2GG2G |
+c2GG2G) |
+.('C2DE2F |
+G2AG2).('F |
+E2ED2G |
+C6) |]

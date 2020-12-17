@@ -1,0 +1,15 @@
+X: 594
+T: Salich is hy gheheten Die hem op den armen v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3207038026
+%%humdrum-veritas-data 3443327460
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2B2A2G2F2D2G4B4).('A2>c2B2A4G2G2^F2G4).('z2B2A2G2=F2D2G4B4).('A2>c2B2A4G2G2^F2G2z2).('G2A2A2A2G2(c2>B2ABcBA2G=FG4)F4z2).('F2G2G2F2B4A2B4).('B2A2G2c2B2A2>B2).('cAB2A2>G2G4^F2G4) |]

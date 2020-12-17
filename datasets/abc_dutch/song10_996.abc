@@ -1,0 +1,27 @@
+X: 9995
+T: In d’r waren twee koningskind’ren En zij had [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1418326060
+%%humdrum-veritas-data 4135847257
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B,3/ B,/ [I:setbarnb 1]|
+E2F> FG2B2 |
+F2E4).('G3/ A/ |
+B3B/ B/B3c |
+B6).('B3/ B/ |
+c> c c> ce2d3/ c/ |
+(B2>A2)G2).('B3/ c/ |
+B2A> GA2B2 |
+(A G/ F< G A/B2)).('B3/ B/ |
+c> c c> de2d3/ c/ |
+(B2>A2)G2).('B3/ c/ |
+B2A> GF2B2 |
+E6) |]

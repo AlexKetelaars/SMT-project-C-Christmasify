@@ -1,0 +1,31 @@
+X: 7317
+T: Plaisante vinkenieren, Den koelen mey komt aen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3145657934
+%%humdrum-veritas-data 2961251918
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('F2A c f d |
+d2c2c2 |
+(3(G A) Bc3B |
+A4z2) |
+.('F2A c f e |
+e2d e f d |
+c4=B2 |
+c2z2).('(c _e) |
+d2>c2 B A |
+B2B2B d |
+c2>B2 A G |
+A2z2z2) |
+.('F2A c f e |
+e2d e f d |
+{d} c =B c) .('e f d |
+c4e2 |
+f4z2) |]

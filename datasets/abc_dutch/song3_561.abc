@@ -1,0 +1,29 @@
+X: 2560
+T: ’t Was des nachts om twalef uren toen schree [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 1790508690
+%%humdrum-veritas-data 1967258988
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B3-B2A |
+G2Bc2d |
+e3d2).('B |
+B3-B> A A |
+G B B e e d |
+A3-A3) |
+.('G2Bd2d |
+d e fg2d) |
+.('g g f (e d) e |
+f2ed3) |
+.('G2Bd2d |
+d e fg2d) |
+.('g g f (e d) e |
+f2ed3) |]

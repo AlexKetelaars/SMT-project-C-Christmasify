@@ -1,0 +1,29 @@
+X: 1813
+T: Wat hoor ik hier in het midden van de nacht  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 1535433596
+%%humdrum-veritas-data 3089950907
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('GG2B [I:setbarnb 1]|
+d3e3 |
+d B dd2c |
+[M:9/8]B3-B2).('GG2B |
+[M:6/8]d3e3 |
+d B dd2c |
+B3-B2).('d |
+e e ef2f |
+d3).('e3 |
+d B dd2c |
+B2).('G G A B |
+[M:9/8]d3e2d (c B) A |
+[M:6/8]G2).('G G A B |
+[M:9/8]d3e2d (c B) A |
+[M:6/8]G2) |]

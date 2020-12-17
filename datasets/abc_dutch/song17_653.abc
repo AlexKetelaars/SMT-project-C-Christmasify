@@ -1,0 +1,34 @@
+X: 16652
+T: Helaas wie moet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 277304551
+%%humdrum-veritas-data 3637531720
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('e2 [I:setbarnb 1]|
+f2>e2^d2(e/ ^f/ g) |
+^f2>e2^d2e2 |
+z2).('e2f3e |
+d2(e/ d/ c/ B/)B3A |
+^G2>G2A3B |
+c2(c d2<)d2e |
+e6) |
+.('e2 [I:setbarnb 8]|
+c2A2f3e |
+d2>c2B2B2 |
+z2).('e2a/ g/ f/ e/ f/ e/ d/ e/ |
+f> e d (e/ f/)d3c |
+c4z2).('A2 |
+c B c A2<e2d |
+c2(B/ c/ d/ e/)B3A |
+A6).('B2 |
+c B c A2<e2d |
+c2(B/ c/ d/ e/)B3A |
+A6) |]

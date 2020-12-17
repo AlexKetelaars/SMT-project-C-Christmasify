@@ -1,0 +1,45 @@
+X: 11979
+T: Balet des Mores 2
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 1555252517
+%%humdrum-veritas-data 24280173
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('f>ge |
+d>ec |
+f3 |
+g3 |
+a>bc' |
+f>ba |
+g3- |
+g>).('gf |
+e>fg |
+c>dB |
+A>GF |
+B2c |
+d>_ec |
+(=B2c) |
+c3 |
+c2x) |
+.('g>c'b |
+a>gf |
+b3 |
+a>bg |
+^f2g |
+d>_ec |
+=B3- |
+B>).('gf |
+e>dc |
+d2e |
+f>cB |
+A>fe |
+d>ba |
+g2f |
+f2) :|]

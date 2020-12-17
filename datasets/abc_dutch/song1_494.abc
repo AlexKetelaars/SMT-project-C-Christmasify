@@ -1,0 +1,31 @@
+X: 494
+T: Myn siel! mijn vlugge siel! die alles onders [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 4010384246
+%%humdrum-veritas-data 3183818248
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D [I:setbarnb 1]|
+GEFG |
+A3F |
+EDD^C |
+D3).('D |
+GEFG |
+A3F |
+EDD^C |
+D3).('B |
+cBAG |
+^F3F |
+G^FGA |
+B3).('B |
+cBAG |
+^F3D |
+EGG3/^F/ |
+G3) |]

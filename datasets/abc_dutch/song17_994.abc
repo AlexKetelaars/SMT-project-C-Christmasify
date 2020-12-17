@@ -1,0 +1,32 @@
+X: 16993
+T: Les Amazzonnes Combattans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 1407763844
+%%humdrum-veritas-data 2080724357
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c g/ f/ !mordent!!mordent!e c [I:setbarnb 1]|
+g> g g f/ e/ d c/ B< c d/ |
+B G) .('d d e e/ f< g a/ |
+!mordent!!mordent!^f d g g g a f g |
+g) .('G/ A/ B G c c/ d/ e c |
+f f f g e f !mordent!!mordent!f e |
+d4) |
+.('d d d e [I:setbarnb 7]|
+f f f g a a g f |
+e e e) .('f g f e f/ g/ |
+c c d e f e d c |
+B> c !mordent!!mordent!B> AA2).('c c |
+c d B c A B !mordent!!mordent!A3/ G/ |
+G) .('d g g g f/ e/ f f |
+f g e e a d d c |
+!mordent!!mordent!B) .('d g g g f/ e/ f f |
+f g e e a d !mordent!!mordent!d3/ c/ |
+c4) |]

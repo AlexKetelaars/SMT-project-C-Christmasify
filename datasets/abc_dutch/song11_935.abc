@@ -1,0 +1,26 @@
+X: 10934
+T: Daar zat een mooi maagd al voor haar deur: ‘ [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 4101937339
+%%humdrum-veritas-data 335638837
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('c e d/ d/ [I:setbarnb 1]|
+c2A2B c |
+A2z) .('c e d/ d/ |
+c2A2B c |
+A2>z2 z) .('A |
+A d d c c B |
+B2).('A A A G/ A/ |
+B GE2z) .('E |
+E d d c c B |
+B) .('c/ d/e2d2 |
+(3c d eA2B2 |
+A2z2z2) |]

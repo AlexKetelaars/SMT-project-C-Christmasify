@@ -1,0 +1,40 @@
+X: 12559
+T: De Uterse Vreede
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 3692921725
+%%humdrum-veritas-data 3510078573
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+d4d4 |
+e2c2B2).('A B |
+c2B2A2d c |
+B2G2G2).('B c |
+d4!trill!!trill!d3c/ d/ |
+e2c2B2).('A B |
+c2B2A2d2 |
+G6) |
+.('F G [I:setbarnb 9]|
+A G F G A G F G |
+A G F ED2).('G2 |
+A2B2c B c d |
+B2G2G2).('c d |
+e d c d e d c d |
+e d c BA2).('e f |
+g2f2e2d ^c |
+d4-d2).('d2 |
+A2G2A2B2 |
+c4c2).('B c |
+d2B2c2d2 |
+e6).('e f |
+g2f2g f e f |
+g f e fg2).('A B |
+c2B2A2G F |
+G6) :|]

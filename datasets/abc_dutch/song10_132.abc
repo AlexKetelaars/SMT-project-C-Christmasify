@@ -1,0 +1,26 @@
+X: 9131
+T: Kinder swijcht, so mooch di horen, Ecce mund [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 534263724
+%%humdrum-veritas-data 4277957967
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('DD [I:setbarnb 1]|
+ABdc |
+BA).('GA |
+BcAG |
+A2).('DA |
+GEFG |
+AA).('dB |
+cAFE |
+(3:2:5D2).('A F G F |
+ED)(3:2:2.('A2A |
+FG(3:2:2FE2 |
+D4) |]

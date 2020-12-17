@@ -1,0 +1,23 @@
+X: 55
+T: Is 't hoop van aerdtsch gemack of heyl Dat u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3907431878
+%%humdrum-veritas-data 1114727926
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('z2DG2B |
+A2G^F2D |
+^F2).('DG2B |
+A2G^F2F |
+D2).('GF2F |
+F2E/ D/C2D |
+E2).('CD2D |
+D2E/ ^F/G2D |
+G6) |]

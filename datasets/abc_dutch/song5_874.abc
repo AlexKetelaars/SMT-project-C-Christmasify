@@ -1,0 +1,27 @@
+X: 4873
+T: Een kleine blonde koreknaap Ontsteld en aangedaan,
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 876371836
+%%humdrum-veritas-data 2050901642
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d>Bde |
+(d/ c/)B2).('B |
+BGB(A/ G/) |
+F3).('f |
+f>dgd |
+(d/ B/)d2).('e |
+Ad(f/ e/) (B/ ^c/) |
+d3).('d |
+d>Bdg |
+(g/ e/)g2).('(f/ e/) |
+dcBA |
+G3) |]

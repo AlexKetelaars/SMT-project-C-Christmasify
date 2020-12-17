@@ -1,0 +1,27 @@
+X: 4516
+T: Ons varken is gestorven Ons varken is gestorven.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3626397409
+%%humdrum-veritas-data 1805809700
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B>AB3/c/ |
+B2A).('B |
+c>Bc3/d/ |
+c2B).('B3// B// |
+AGAB |
+cc/> c/c).('e |
+dcBc |
+dd/> d/d).('d3// d// |
+edef |
+g).('Bdd |
+c2A2 |
+G3) |]

@@ -1,0 +1,30 @@
+X: 9617
+T: Naar Rozeland zullen wij varen, Naar Rozelan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 1553551475
+%%humdrum-veritas-data 857793451
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('z/ F/ G/ A/ |
+BB |
+dc |
+cB |
+z/) .('G/ A/ B/ |
+cc |
+Bc |
+d2 |
+z/) .('F/ G/ A/ |
+BB |
+dc |
+cB |
+z/) .('G/ A/ B/ |
+(cB) |
+(cd) |
+B2) |]

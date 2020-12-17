@@ -1,0 +1,32 @@
+X: 16373
+T: Toen ‘k lag te zwemmen in myn bloedt, Kwam C [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 364937322
+%%humdrum-veritas-data 69735035
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('z F B F [I:setbarnb 1]|
+G2 (e< c) (d< B) (c/ A3/) |
+{A}B4z) .('F B d |
+(d2 c) d (e f/ g/ f) e |
+(d c) B2 z) .('d g f |
+(=e f/ g/) c2 (B c/ d/ c) B |
+(A B) c2 z) .('A B c |
+d3 (c/ B/) (A2 B) G |
+{G2}F4) |
+.('z F f {e/} d [I:setbarnb 9]|
+(=B c/ d/) G2 (f2 e) d |
+e2 {d c} c2 z) .('c c B |
+(A B/ c/) F2 (e2 d) c |
+d2 {c B} B2 z) .('d d =e |
+f2 c2 (c d/ e/) (d e/ f/) |
+{f}e4z) .('e f e |
+d2 (c B2<) !trill!!trill!A2 B |
+B4) :|]

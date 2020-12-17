@@ -1,0 +1,39 @@
+X: 3694
+T: Zeg vrienden wilt aanhoren [al hoe ik ben ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 2379602591
+%%humdrum-veritas-data 3887255112
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/FE/ |
+D3/D).('D/ |
+GG/AA/ |
+B3/-B).('c// c// |
+cc/cc/ |
+BB/).('GA/ |
+BB/AA/ |
+G3/-G).('D/ |
+GG/FE/ |
+D3/D).('D/ |
+GG/AA/ |
+B3/-B).('B/ |
+cc/ c/ c/ c/ |
+B3/).('dc/ |
+BB/AA/ |
+G).('G/FG/ |
+EE/EE/ |
+E).('G/FG/ |
+DD/DD/ |
+D3/-D).('D/ |
+cc/ c/ c/ c/ |
+B3/).('dc/ |
+BB/AA/ |
+G3/-G) |]

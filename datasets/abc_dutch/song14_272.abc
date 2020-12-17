@@ -1,0 +1,34 @@
+X: 13271
+T: [Quadrilles]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 2705857579
+%%humdrum-veritas-data 1266716694
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G F E D G2 A2 |
+B c d c B2 A2 |
+G F E D G2 A2 |
+B c d BG4) ]|:
+.('B c d B d c B c |
+A B c A c B A B |
+G A B G E A c e |
+d B c A G F E D) |
+.('B c d B d c B c |
+A B c A c B A B |
+G A B G E A c e |
+d B c AG4) ||
+[K:Bb] .('b2 g2 ^f2 g2 [I:setbarnb 14]|
+d e d c B2 A2 |
+B2 c2 d2 e d |
+{d} c2 B2 {B}A4) |
+.('b2 g2 f2 g2 |
+d e d c {c} B2 A2 |
+B2 c2 d g e c |
+B2 A2G4) ||

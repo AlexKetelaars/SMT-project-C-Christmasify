@@ -1,0 +1,31 @@
+X: 7625
+T: Daer is ä kindje geboren Op ‘t toppeltje van [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 2656330748
+%%humdrum-veritas-data 3349324231
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G2(B A) G F |
+E4D2).('D2 |
+E2G2F2A2 |
+G6).('D2 |
+G2G> G (B A) G F |
+E4D2).('D2 |
+E2G2F2F A |
+G4z2).('G B |
+d2d2(e d) c B |
+c4c2).('A B |
+c2c2(d c) (B A) |
+B4z2).('D3/ D/ |
+G2G2(B A) G F |
+E4D2).('D3/ D/ |
+E2G2F2A2 |
+G6z2) |]

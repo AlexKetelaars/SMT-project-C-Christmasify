@@ -1,0 +1,31 @@
+X: 9155
+T: Nu laat ons allen vroolijk zijn: De hemel za [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 56378609
+%%humdrum-veritas-data 2699712992
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2FF2A |
+(B c) dA2).('A |
+A2FF2F |
+(E F) GF2).('A |
+A2A (F D) F |
+F3E2).('A |
+A2A (F D) F |
+E3D2).('F |
+A B A A A d |
+(e d) cd2).('A |
+A B A A G F |
+E2GF2).('A |
+A2>A2 B c |
+d3B2).('B |
+(B c) dB2G |
+A3D2) |]

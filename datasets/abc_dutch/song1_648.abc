@@ -1,0 +1,15 @@
+X: 648
+T: Coemt doch met my, En laet ons singhen bly
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3383769308
+%%humdrum-veritas-data 952774791
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('d4d2d2(f2>e2dcded2)).('f2e2d2c2B2c4z2).('AA2<c2_BA2G2F4z2).('F2c2>c2c2cc2<(A2GAFGABG2<A2GF2E4)D4z2).('D2F2F2(GA=B)GA4z2).('A2d2>d2d2d2(cdedc2)).('A2_B2BAG2G2F4z2).('F2c2c2c2c2(A4GABGABcBAGBAGFFE/ D/E4)D4) |]

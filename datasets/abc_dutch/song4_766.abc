@@ -1,0 +1,35 @@
+X: 3765
+T: Wij willen nog veel liever werken Al is die  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 1731634634
+%%humdrum-veritas-data 3485527847
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>>F2 G> F G3/ A/ |
+G4F7/).('B,/ |
+C2C2C2E2 |
+E> D D> DD2).('D3/ D/ |
+G2>>F2 G> F G3/ A/ |
+G4F>) .('D D3/ E/ |
+F> F F> FE2A2 |
+D6).('D2 |
+D2A2A2B3/ A/ |
+G2B,2D2).('D3/ D/ |
+D2>>A2A2B3/ A/ |
+G2B,2D2).('D2 |
+B2>>G2 F> G A3/ G/ |
+F2E4).('E2 |
+D2G> AB2A2 |
+G6).('D2 |
+B2>>G2 F> G A3/ G/ |
+F2E4).('E2 |
+D2G> AB2A2 |
+G6) |]

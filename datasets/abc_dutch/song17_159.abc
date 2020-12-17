@@ -1,0 +1,34 @@
+X: 16158
+T: ‘t Feest van Bachus is gekomen, Drink nu, gy [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 2930034135
+%%humdrum-veritas-data 1882586937
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=bass
+.('D,G, [I:setbarnb 1]|
+^F,G,G,3/F,/ |
+A,G,).('G,3/F,/ |
+E,>D,E,D, |
+C,C,).('(B,/ C,/) (D,/ E,/) |
+F,D,(G,/ A,/) (B,/ A,/) |
+A,2).('F,3/D,/ |
+^C,D,A,3/A,/ |
+D,2) |
+.('D3/D/ [I:setbarnb 9]|
+G,G,D3/C/ |
+F,F,).('G,3/A,/ |
+B,G,A,3/A,/ |
+D,2).('=B,3/B,/ |
+=B,>=B, (B,/ C,/) (D,/ B,/) |
+C,C,).('E,E, |
+=E,E,(E,/ F,/) (G,/ E,/) |
+F,F,).('^F,F, |
+G,C,D,D, |
+G,2) :|]

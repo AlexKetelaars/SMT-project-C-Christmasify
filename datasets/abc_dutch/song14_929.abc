@@ -1,0 +1,30 @@
+X: 13928
+T: Matlot
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 2467433611
+%%humdrum-veritas-data 1273982703
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('g> e c f> d B |
+{d} c> B cG3) |
+.('E> G E A> c B |
+c G EC3) |
+.('g> e c f> d B |
+{d} c> B cG3) |
+.('E G E A c A |
+c3c3) |
+.('f> e fd2d |
+e2ec3) |
+.('d2d2c/ B/ A/ G/ |
+c2GE2C) |
+.('f> e fd2d |
+e2ec3) |
+.('d2d2c/ B/ A/ G/ |
+c3c3) :|]

@@ -1,0 +1,38 @@
+X: 4067
+T: Vrienden ’t is tijd om uw pakskes te maken D [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 32034647
+%%humdrum-veritas-data 3697327839
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G B B G B B |
+d e> Bd2c) |
+.('F A A F/ F/ A A |
+d/ d/ d cB3) |
+.('G B B G B B |
+d e> Bd2c) |
+.('F A A F A/ A/ A |
+d d dG3) |
+.('A A A A A A |
+f e d^c2d) |
+.('A A A A A A |
+g f ed3) |
+.('G B B G B B |
+d e> Bd2c) |
+.('F A A F A A |
+d d cB3) |
+.('e e ee3 |
+d d dd3) |
+.('(d e) d c B A |
+B6) |
+.('e e ee3 |
+d d dd3) |
+.('(d e) d c B A |
+G6) |]

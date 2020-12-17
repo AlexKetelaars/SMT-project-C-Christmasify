@@ -1,0 +1,25 @@
+X: 7522
+T: No 142
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 517834046
+%%humdrum-veritas-data 819931412
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c/ [I:setbarnb 1]|
+cGAB |
+c3).('c |
+defg |
+ed/ g/gd |
+ef/> g/!mordent!!mordent!e) |
+.('c3// d// [I:setbarnb 6]|
+eeed3// e// |
+dB/> c/A3/).('d/ |
+d/ c/ d/ e/ c/ B/ c/ d/ |
+!mordent!!mordent!d>cc) :|]

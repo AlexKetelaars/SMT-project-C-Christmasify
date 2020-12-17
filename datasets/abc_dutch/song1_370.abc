@@ -1,0 +1,26 @@
+X: 370
+T: Philis quam Philander
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2333431021
+%%humdrum-veritas-data 3542758843
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('cccc |
+deff |
+cccc |
+def2) |
+.('gggg |
+gagg |
+a>gfe |
+dcd2) |
+.('gcdc |
+BAG2 |
+cc/ d/ e/ f/g |
+agf2) :|]

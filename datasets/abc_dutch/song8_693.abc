@@ -1,0 +1,40 @@
+X: 7692
+T: Laatst trok eenen bakker uit vrijen, Maar ze [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:40
+%%humdrum-veritas 2598556655
+%%humdrum-veritas-data 1933199485
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('A3 [I:setbarnb 1]|
+A A A |
+A B A |
+F3 |
+D3) |
+.('B3 |
+B B B |
+B A B |
+A3 |
+z) .('D F |
+A2A |
+A ^G A |
+B3 |
+B3) |
+.('A3 |
+A G F |
+F E F |
+E3 |
+z) .('D F |
+A2A |
+A ^G A |
+(B2c) |
+d) .('c B |
+A A A |
+A G G |
+F3) |]

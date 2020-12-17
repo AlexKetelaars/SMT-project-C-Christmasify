@@ -1,0 +1,27 @@
+X: 9252
+T: Wel, hoe is Otjes hart zoo groen? Wel, hoe i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 1685964159
+%%humdrum-veritas-data 2039028931
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+(G> A) GF2E |
+E2DE2).('G |
+(G> A) GF2E |
+E2DE2).('G |
+G2AB2B |
+B2AG2).('d |
+d3G2B |
+A3G2).('G |
+(G> A) BA2G |
+F2ED2).('B |
+E2FG2A |
+F3E2) |]

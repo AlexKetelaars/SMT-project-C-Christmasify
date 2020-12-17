@@ -1,0 +1,33 @@
+X: 16157
+T: Had ik krachten naar myn lust, Was ik nimmer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 2403435033
+%%humdrum-veritas-data 2903492757
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('dA [I:setbarnb 1]|
+d>e (f/ e/) (f/ g/) |
+e2).('a3/g/ |
+f>e (d/ c/) (d/ e/) |
+c2).('e3/f/ |
+e(d/ c/) (B/ c/) (d/ e/) |
+cA).('BB |
+B>cdB |
+(e/ A/ B/ c/B2) |
+A2) |
+.('dd [I:setbarnb 10]|
+BBec |
+^A2).('f3/e/ |
+d>cd3/e/ |
+dB).('d3/A/ |
+A>BA3/G/ |
+FD).('df |
+B(g/ f<)ed/ |
+d2) :|]

@@ -1,0 +1,37 @@
+X: 16179
+T: Wat zyn ‘er al Narren, wat zyn ‘er al Gekken [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2164143059
+%%humdrum-veritas-data 760878537
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=bass
+.('A, [I:setbarnb 1]|
+DDF, |
+G,G,E, |
+A,A,A, |
+D,D,).('D,/ E,/ |
+F,E,D, |
+A,2C,/ D,/ |
+E,E,E, |
+A,A,) |
+.('D [I:setbarnb 9]|
+^A,A,B, |
+F,F,D, |
+G,E,D, |
+A,2).('A, |
+F,2F, |
+(G,/ F,/ G,/ A,/ B,/ C/ |
+D)DC |
+D/ C<B,A,/ |
+A,2z/) .('A,/ |
+(D/ C/ D/ C/ B,/ A,/ |
+G,/ F,/-F,)F,/ F,/ |
+G,/ B,<A,A,/ |
+D,2) :|]

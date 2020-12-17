@@ -1,0 +1,40 @@
+X: 5510
+T: Vlaenderen, dag en nacht Denk ik aen u
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3593496468
+%%humdrum-veritas-data 3194595864
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G> E EG2E |
+c6 |
+B2>-B2 c d |
+G6) |
+.('G> E EG2E |
+c6 |
+B2>(A2 B) A |
+G3-G2).('G |
+G2FE2F |
+A3-A2A |
+A2G^F2G |
+c3-c2).('E |
+G2FE2F |
+A3-A2A |
+A2G (G F) E |
+D3z2z) |
+.('G> E EG2E |
+c6 |
+B2>-B2 c d |
+e6) |
+.('e> e d (c B) A |
+G2EG2c |
+e2>d2 e d |
+c2>).('d2 e d |
+c2>F2 G F |
+E3z2z) |]

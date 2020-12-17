@@ -1,0 +1,29 @@
+X: 14738
+T: Trompet Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 66088139
+%%humdrum-veritas-data 934136636
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('C2C> C C3/ C/ |
+E2E> E E3/ E/ |
+G2G> G G3/ G/ |
+c4e2) |
+.('c e d fe2 |
+c e d fe2 |
+g f e dc2) ||
+.('g2g g g g [I:setbarnb 9]|
+g2(3e f g (3e f g |
+f2f f f f |
+f2(3d e f (3d e f) |
+.('e2e e e e |
+e2(3c d e (3c d e |
+d2d d d d |
+d6) |]

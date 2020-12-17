@@ -1,0 +1,62 @@
+X: 16963
+T: que la douceur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2127735132
+%%humdrum-veritas-data 1721051788
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('ece |
+ddg |
+cde |
+!mordent!!mordent!=B2B) |
+.('ece |
+ddg |
+cde |
+!mordent!!mordent!d2c) |
+.('cG_A |
+BBe |
+cde |
+d3) |
+.('efg |
+cfd |
+gef |
+!mordent!!mordent!f2e) |
+.('GGc |
+AAd |
+=BBc |
+d3) |
+.('gec |
+Afd |
+=BGc |
+!mordent!!mordent!=B2c) |
+.('ece |
+ddg |
+cde |
+!mordent!!mordent!=B2B) |
+.('ece |
+ddg |
+cde |
+!mordent!!mordent!d2c) |
+.('cAF |
+Bcd |
+eed |
+c3) |
+.('fdB |
+Gec |
+dBc |
+!mordent!!mordent!c2B) |
+.('ddB |
+eed |
+cAB |
+!mordent!!mordent!^F3) |
+.('dgd |
+ecA |
+dGA |
+!mordent!!mordent!A2G) |]

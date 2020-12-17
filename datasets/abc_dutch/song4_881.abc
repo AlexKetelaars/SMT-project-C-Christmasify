@@ -1,0 +1,35 @@
+X: 3880
+T: Bij Namen is gebeurd [Wat heel diep wordt be [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 3615916128
+%%humdrum-veritas-data 1038447602
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2dc2B |
+A3-A2).('A |
+A2GF2E |
+D3-D2).('D |
+B2BA2B |
+c3-c2).('E/ E/ |
+D2GA2B |
+G3-G2).('D |
+GGGGF3/E/ |
+FFFF2).('E/ F/ |
+EEEGF3/E/ |
+ED^CD).('EF |
+G2dc2B |
+A3-A2).('A |
+A2GF2E |
+D3-D2).('D |
+B2BA2B |
+c3-c2).('E/ E/ |
+D2GA2B |
+G3-G2) |]

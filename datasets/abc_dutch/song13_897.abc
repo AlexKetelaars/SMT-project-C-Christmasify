@@ -1,0 +1,48 @@
+X: 12896
+T: Capriets
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 3402677928
+%%humdrum-veritas-data 2794998044
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('DA,/ C/ |
+B,z |
+EB,/ D/ |
+^Cz |
+^F^C/ E/ |
+^Dz |
+^G^D/ ^F/ |
+^Ez) |
+.('_BF/ _A/ |
+Gz |
+cG/ _B/ |
+Az |
+dA/ c/ |
+Bz |
+eB/ d/ |
+^cz) |
+.('^f^c/ e/ |
+dz |
+eB/ d/ |
+^cz |
+dA/ c/ |
+Bz |
+cG/ _B/ |
+Az) |
+.('_BF/ _A/ |
+Gz |
+_A_E/ _G/ |
+Fz |
+^F^C/ E/ |
+^Dz |
+EB,/ D/ |
+^Cz |
+DA,/ C/ |
+B,z) ||

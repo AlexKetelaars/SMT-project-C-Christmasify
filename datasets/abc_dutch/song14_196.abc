@@ -1,0 +1,35 @@
+X: 13195
+T: Contre les chagrins de vie On crie ab hoc et [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 1910583073
+%%humdrum-veritas-data 2870445043
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=80
+K: F clef=treble
+.('(F G) (A B) [I:setbarnb 1]|
+c2 f2 d3 B |
+(d c) c2 (c B) (G B) |
+A2 c2 G2 A G |
+F4).('(F G) (A B) |
+c2 f2 d2 B d |
+(d c) c2 (c B) .G .B |
+A2 c2 G2 c2 |
+A4(c B) .G .B |
+A2 f2 G3 A |
+F2 z2) .('(E F) (G A) |
+B2 G2 F2 A F |
+G E C z E F G A |
+B2 G2 F2 =B2 |
+c4).('(F G) (A B) |
+c2 f2 d2 .c .B |
+(=B c) .c2 c _B G B |
+A2 c2 G2 c2 |
+A2 z2 (c B) G B |
+A2 f2 (G F) (G A) |
+F2 z2) :|]

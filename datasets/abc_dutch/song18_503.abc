@@ -1,0 +1,40 @@
+X: 17502
+T: Marsch van Marlbourg
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 314429208
+%%humdrum-veritas-data 2396333890
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=132
+K: C clef=treble
+.('c [I:setbarnb 1]|
+cggc' |
+b>agc'/ b/ |
+ad'/ c'/ba/ g/ |
+c'/ b/ c'/ d'/c').('c |
+cggc' |
+b>c'd'c'/ b/ |
+ab/ c'/ag |
+g2x) |
+.('c [I:setbarnb 9]|
+cgg/ a/ g/ f/ |
+e>dce |
+abc'b/ a/ |
+bee).('a/ b/ |
+c'bc'b |
+c'b/ a/ga/ b/ |
+c'/ b/ c'/ d'<ba/ |
+a3).('a/ b/ |
+c'gga |
+g>feg |
+a/ g/ f/ e/ f/ e/ d/ c/ |
+B>AG).('e/ f/ |
+gcca |
+aggc' |
+bc'd'/ c'/ b/ d'/ |
+c'3) :|]

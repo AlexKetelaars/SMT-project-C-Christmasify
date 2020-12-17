@@ -1,0 +1,28 @@
+X: 15102
+T: De Koning leev’!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 197860791
+%%humdrum-veritas-data 1545398437
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('z4z D D D |
+G2>D2B3G |
+D4z2).('A2 |
+B2>A2 G A B ^c |
+d2D2z2).('D2 |
+A2A2G F E D |
+G4z2).('G2 |
+F2>D2A2C2 |
+E2!fermata!D2) ]|:
+.('z D c3/ B/ [I:setbarnb 10]|
+A2>G2 F A e d |
+!fermata!d4z) .('c B A |
+G2>D2B2A2 |
+G4) :|]

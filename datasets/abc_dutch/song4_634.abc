@@ -1,0 +1,25 @@
+X: 3633
+T: O dag van pracht en zonneschijn Al woedt de  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 4130953800
+%%humdrum-veritas-data 706433339
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('(G B) [I:setbarnb 1]|
+d2>d2 B e d c |
+[M:3/4]B2>).('B2 e d |
+[M:4/4]A2d2(d2e) d |
+[M:3/4](B A) G) .('c B B |
+[M:4/4]A2d2e2(f e) |
+d8) |
+.('d2c B e d c A |
+(G2A2)B4) |
+.('d2e f g d d c |
+(B2A2)G2) |]

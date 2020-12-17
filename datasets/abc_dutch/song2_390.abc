@@ -1,0 +1,26 @@
+X: 1389
+T: Wat zullen we brengen Wat zullen we brengen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 1058697202
+%%humdrum-veritas-data 1541061344
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2>A2 A A |
+G3D3) |
+.('B2>A2 A A |
+G3G3) |
+.('d2d d c B |
+c2cc2c) |
+.('B2B d c B |
+A2AA2d) |
+.('B3A2A |
+G3).('e3 |
+d2>(c2 B) A |
+G3-G3) |]

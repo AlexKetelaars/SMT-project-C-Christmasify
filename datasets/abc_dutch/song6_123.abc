@@ -1,0 +1,26 @@
+X: 5122
+T: Op de hei, daar zal ik je dond’ren, op de he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 1229408826
+%%humdrum-veritas-data 3961301276
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A2FC2C |
+F C AF2F) |
+.('A2FC2C |
+F C AF3) |
+.('A A FC2C |
+F C AF2F) |
+.('A A FC2C |
+(F C) AF3) |
+.('C C C (F A) F |
+C C CF2A) |
+.('C C C (F A) F |
+(C C) CF2z) :|]

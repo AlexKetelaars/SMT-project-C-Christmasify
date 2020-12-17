@@ -1,0 +1,41 @@
+X: 9028
+T: Waarom zoud’ ik het dansen laten, Omdat mijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 3653011332
+%%humdrum-veritas-data 2481892675
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F2Ac2c |
+c2c c c) .('c |
+d2dd2c |
+c2BA3) |
+.('d2d d c c |
+c2BA2).('A |
+d2dd2c |
+c2BA2).('A |
+d2dd2d |
+c3A2).('A |
+d2dd2c |
+c3A2).('G |
+A2cB2A |
+G2GF2).('A |
+A2cB2A |
+G2GF2).('A |
+A2cB2A |
+G2GF2).('A |
+A2cB2A |
+G3F2).('A |
+A2cB2A |
+G3F3) |
+.('F2Ac2c |
+c> c cc2).('c |
+d2cB2A |
+(A2G)F2) |]

@@ -1,0 +1,34 @@
+X: 5143
+T: Bij het klinken der bokalen Bij het tint’len [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 3362512476
+%%humdrum-veritas-data 3720091391
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D B B A |
+D A A G) |
+.('D G B G |
+d BA2) |
+.('D B B A |
+D A A G) |
+.('D G B G |
+d BA2) |
+.('^c Ad2 |
+^c Ad2- |
+d4- |
+(d2^c2)) |
+.('c c c (e/ d/) |
+B ^A B G) |
+.('c c c (e/ d/) |
+B ^A B G) |
+.('D B B A |
+D A (A G)) |
+.('D (G/ B/) d B |
+A BG2) |]

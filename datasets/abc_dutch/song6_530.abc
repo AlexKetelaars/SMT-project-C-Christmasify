@@ -1,0 +1,53 @@
+X: 5529
+T: Vrij denken mag je in ieder land. Gelukkig d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3867214465
+%%humdrum-veritas-data 1889807773
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c2B A B c |
+B2>^G2A2 |
+z) .('A2<d2c |
+B B2<c2B |
+A2A cB2- |
+B) .('A ^G A B A |
+^G4A2 |
+A2E2z2 |
+z) .('E A B ^c d |
+e4^c2 |
+A2>A2 A A |
+d ^c2<B2c |
+B2A2z2 |
+z) .('A A A A A |
+A A2<F2F |
+_B B B B G G |
+z) .('d d d d d |
+A2a2z2 |
+Z2 |
+z2z) .('A A A |
+c A2<F2G |
+A2>F2 F F |
+d c2<_B2A |
+G2F2z2 |
+z) .('G2<c2G |
+^G G2<A2B |
+c de4 |
+A2z2z2 |
+z2c2z2) |
+.('^c c c c c A |
+d4-d c |
+B A ^G c B A |
+^G2E2z2 |
+z) .('E E E E E |
+E E2<C2C |
+F F F F D D |
+z) .('A A A A A |
+E2E2z2 |
+z6) |]

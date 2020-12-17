@@ -1,0 +1,33 @@
+X: 11092
+T: Myn pen verrukt door de aangenaame straalen, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 3836187359
+%%humdrum-veritas-data 2496082949
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c>GA(G/ F/) |
+EGFE |
+D2C2) |
+.('zDE(G/ F/) |
+E>(^FG)(A/ G/) |
+^F>GG2) |
+[M:3/4].('dd3/c/ |
+[M:2/2]B>AB(c/ B/) |
+A2G2) |
+.('zGA3/(G// F//) |
+E>FG3/F/ |
+F>ED2) |
+.('z(C/ D<)E^F/ |
+G>ABG |
+c>de2) |
+.('zed3/c/ |
+B>cB(c/ d/) |
+d>cc) |]

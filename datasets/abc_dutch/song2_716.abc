@@ -1,0 +1,23 @@
+X: 1715
+T: Daar rijdt er een heertje al over de Rijn en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 2156157470
+%%humdrum-veritas-data 954435909
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+(G2B) (G F) E |
+(D2c)c2B |
+A G A c) .('B A |
+A G A c B A |
+E F G A) .('B A |
+G3F2E |
+(D2c)c2B |
+A G AG2) |]

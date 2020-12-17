@@ -1,0 +1,31 @@
+X: 485
+T: Wat woelt de wereld om den Hemel te bestorme [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 688776086
+%%humdrum-veritas-data 3670950062
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2C2 |
+GEFG |
+A3G |
+EGFE |
+D2E2- |
+E).('CGG |
+ABc3/B/ |
+AGG3/^F/ |
+G3).('G |
+cBAG |
+E>DEG |
+FED2 |
+E3).('E |
+G2D2 |
+F>GE(D/ C/) |
+DED3/C/ |
+C4) |]

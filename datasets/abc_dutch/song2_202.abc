@@ -1,0 +1,40 @@
+X: 1201
+T: Driekoningen Driekoningen geef mij een nieuw [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 4133025315
+%%humdrum-veritas-data 3215767092
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G GG2B |
+d B GA3 |
+A3).('A3 |
+A B c c B A |
+A G FE3 |
+D3z2).('D |
+G G GG2B |
+d B GA3- |
+A3).('A3 |
+A B c c B A |
+[M:9/8]G F E2<D2).('A3 |
+[M:6/8]A B c c B A |
+G F ED2).('D |
+G G G G B d |
+[M:9/8]d B G2<A2).('A3 |
+[M:6/8]A B c c B A |
+[M:9/8]G F E2<D2).('A3 |
+[M:6/8]A B c c B A |
+G F ED2).('D |
+G G G G B d |
+[M:9/8]d B G2<A2).('A3 |
+[M:6/8](A B) c c B A |
+[M:9/8](G F) E2<D2).('A3 |
+[M:6/8](A B) c c B A |
+(G F) ED3) |]

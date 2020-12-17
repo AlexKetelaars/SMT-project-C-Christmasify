@@ -1,0 +1,48 @@
+X: 16136
+T: Vervloekte ondankbaarheit die Theseus hart r [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 1572071479
+%%humdrum-veritas-data 26833228
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('F [I:setbarnb 1]|
+Bcd |
+(dc)d |
+c2c |
+(dc)c |
+(c^A)B |
+^A2).('A |
+B2d |
+(dB/ A/ G/ F/) |
+^E2(c/ F/) |
+(Bc)d |
+G2F |
+A2) |
+.('A [I:setbarnb 13]|
+(A=G)F |
+(=GF)G |
+E2A |
+(EF)=G |
+F2(E/ D/) |
+D2).('d |
+cc/ c/^d |
+e2e |
+e/ e<^de/ |
+e2).('f |
+ecd |
+^A3 |
+=c3 |
+B2d |
+(d/ c/)c^d |
+(e=g/ f/ e/ d/ |
+c/ B/^A)A |
+dee |
+(f/ c<)cB/ |
+B2) :|]

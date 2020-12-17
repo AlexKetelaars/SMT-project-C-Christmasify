@@ -1,0 +1,30 @@
+X: 16883
+T: [Ballet Engloijs] 4 langsaam
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 882455236
+%%humdrum-veritas-data 2430816587
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d4a4 |
+g> af2e3A |
+d ef2e2d2 |
+c> d B cA2c c |
+c6A3/ A/ |
+c2A> A d D ^c3/ d/ |
+e8) |
+.('e eg2g2^f2 |
+g2d e ^f ga2 |
+a2^g2a2A2 |
+B4A3a |
+b4a4 |
+c'6f f |
+f g e> ff2e3/ f/ |
+e A2<d2e ^c d |
+d8) :|]

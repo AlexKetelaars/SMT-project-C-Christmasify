@@ -1,0 +1,40 @@
+X: 6091
+T: De Wellekomst
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3311121501
+%%humdrum-veritas-data 2376176326
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d2>e2f2g a |
+c2d2e2).('f2 |
+g2a gf2e d |
+c2d e2<A2).('A |
+d2>e2f2g a |
+c2d2e2).('f2 |
+g2a ge2d c |
+d4) :|]
+.('g2a g [I:setbarnb 9]|
+f2g fe2f g |
+a4).('d2e d |
+c2d cB2c d |
+e2).('d ee2f e |
+d2e dc2d c |
+B2).('c AB2A ^G |
+A4a4) |
+.('d2e dd2c d |
+B2e fg2f g |
+a2g f2<e2).('e |
+a2b ag2a g |
+f2g fe2).('f g |
+a2b ag2a g |
+f2g fe2).('f g |
+a2g fe2d c |
+d4) |]

@@ -1,0 +1,36 @@
+X: 17298
+T: Doen laatst Klimeene dwalen Ging, door ‘t ru [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 199619316
+%%humdrum-veritas-data 1411521100
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G [I:setbarnb 1]|
+G2>A2B3c |
+d2>c2d3=e |
+f2>=e2f3g |
+^f6x) .('a |
+b2>a2g3f |
+g2>d2g3f |
+e2>d2c3d |
+d6) |
+.('x d [I:setbarnb 9]|
+d2>e2d3c |
+B6x B |
+c2>d2c3B |
+A6x) .('f |
+f2>c2d3e |
+d6x d |
+g2>b2a3g |
+^f6x) .('a |
+b2>a2g3f |
+g2>d2e3d |
+c2>B2A3G |
+G6) :|]

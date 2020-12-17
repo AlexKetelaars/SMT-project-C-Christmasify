@@ -1,0 +1,35 @@
+X: 14688
+T: ‘t Jagertje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 1318195335
+%%humdrum-veritas-data 1919211828
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2 (G A) B2 D2 |
+G2> A2 B2 d2 |
+A2> B2 A G F E |
+(D2 F> E) D2) .('D2 |
+G2> A2 B2 d2 |
+G2> A2 B2 d2 |
+A2> B2 (A G) F E |
+D2 F> E D2) .('D2 |
+G4B4 |
+d4(c B A G) |
+A2 (A G) A2 B2 |
+G4z4) |
+.('A2 D2 A2 F2 |
+G2> B2d4 |
+A2> B2 (A G) F E |
+D2 F> E D2) .('D2 |
+G4B4 |
+d4(c B A G) |
+A2 (A G) A2 B2 |
+G4z4) |]

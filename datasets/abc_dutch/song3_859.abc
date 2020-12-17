@@ -1,0 +1,22 @@
+X: 2858
+T: Het was op een zondagavond en 't meis je sto [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 3560044619
+%%humdrum-veritas-data 3912326749
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(D B,) DG2F |
+FE2-E2).('E |
+[M:9/8]E F GF2GD2).('D |
+[M:6/8]D2D G A B |
+A3E2).('F |
+F2F (D E) F |
+G3-G2) |]

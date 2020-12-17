@@ -1,0 +1,31 @@
+X: 10444
+T: Sinte Pieter, Sinte Pieter, dien wij minnen, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 3299146027
+%%humdrum-veritas-data 4081541737
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('z4z2D G |
+B B B B B B B B |
+(G B)d4).('c B |
+A2F2A2c2 |
+B4G2).('D G |
+B B B B B B B B |
+(G B)d4).('c B |
+A2D2A2c2 |
+B4G) .('G G G |
+e c2<e2g f g |
+d Bd4).('c B |
+A2D2A2(B A) |
+G4-G) .('G G G |
+e c2<e2g f g |
+d Bd4).('c B |
+A2D2A2(c B) |
+G6z2) |]

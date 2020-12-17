@@ -1,0 +1,34 @@
+X: 6739
+T: Vrienden allen, groot en klein, Liefhebbers  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:31
+%%humdrum-veritas 1170589746
+%%humdrum-veritas-data 1154915494
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G> B d3/ d/ |
+d> dd2) |
+.('c B B A |
+c> B B A) |
+.('G GG2 |
+G/ A/ B/ A/ G z) |
+.('G> B d3/ d/ |
+d> dd2) |
+.('c B B3/ A/ |
+c> B B A) |
+.('G GG2 |
+G/ A/ B/ A/ G z) |
+.('c> c c c |
+c> ce2) |
+.('d> c B3/ A/ |
+B cd2) |
+.('B B B/ A/ G/ B/ |
+d2).('d3/ d/ |
+d> d d3/ d/ |
+G2) |]

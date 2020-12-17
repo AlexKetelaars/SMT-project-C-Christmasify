@@ -1,0 +1,15 @@
+X: 10021
+T: De prins van Oostenrijk Was zeer vermoeid va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 215108049
+%%humdrum-veritas-data 1531897621
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('AAAAA(G/ F// E// F// G// F/- F/ E/)).('EDEGF(F/ G/ F/ E/)D3).('A/ A/AAAA(AB/ c/ B/A2)).('A/ A/AAG/ G/(FG/ F/)E3).('A/ A/AAAAAFE).('FGFEDA2).('AAAdddc).('(B// c// B// A//)AG(FGF/ E/) D/D3) |]

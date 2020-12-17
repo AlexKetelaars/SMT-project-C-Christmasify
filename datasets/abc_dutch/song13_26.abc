@@ -1,0 +1,30 @@
+X: 12025
+T: Proportion
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 2403525207
+%%humdrum-veritas-data 2920200865
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('GA/ B/ADdc |
+B>AGd_ef |
+gc2<c2B |
+BAB4) |
+.('fb/ a/g2fe |
+fga>^cde/ f/ |
+gaa/ g/fe3/d/ |
+d^cd4) |
+.('aefe/ d/^c2 |
+dABA/ G/^F2 |
+GA/ B/cA3 |
+B>AA4) |
+.('dABA/ G/^FG |
+AB/ c/de/ ^f/ga/ b/ |
+c'b2<a2g |
+g^fg4) :|]

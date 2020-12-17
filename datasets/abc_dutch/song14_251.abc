@@ -1,0 +1,35 @@
+X: 13250
+T: Wie bring ich doch so froh und frei So mit z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 27807371
+%%humdrum-veritas-data 4135522573
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+c2c2e2e2 |
+g2g2e2c2 |
+d2d2d2c2 |
+B A B c d e f) .('.G |
+c2c2e2e2 |
+g2g2e2c2 |
+d2d2d2c2 |
+.B .G .B .d .g .d .B) .('G |
+B2G2c2G2 |
+d2d2c2A2 |
+f2d2e2c2 |
+B c B cd2z) .('G |
+(e G) (d G) (f G) (e G) |
+(d G) (c G) (B G) (c G) |
+(d F) (d F)G2(A B) |
+c2z2).('f/ g/ a/ g/ f/ g/ a/ b/ |
+c' c'!trill!!trill!c'2d' d'd'2 |
+e'2c'2f/ g/ a/ g/ f/ g/ a/ b/ |
+c' c'!trill!!trill!c'2d' d'!trill!!trill!d'2 |
+c'2z2) |]

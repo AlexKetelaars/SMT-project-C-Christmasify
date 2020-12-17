@@ -1,0 +1,157 @@
+X: 14785
+T: Potpourri de l’Opéra “Stradella”
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 999741094
+%%humdrum-veritas-data 58036313
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G B c d e f |
+g z (a b) z (f |
+g) z (d e) z B |
+(d2>c2) z z) |
+.('A c d e f g |
+a z (g f) z (e |
+d) e d c B A |
+G z z g z z) |
+.('G B c d e f |
+g z a b z z |
+g f e a f d |
+A z ^c d z z) |
+.('D E F G A B |
+c z d e z z |
+c B A d B G |
+D z F G z z) |
+.('g z z d z z |
+B z z G z z |
+A B cd3 |
+d c BA3) |
+.('g z z d z z |
+B z z G z z |
+A B c d e f |
+g B c d e f) |
+.('g z z d z z |
+B z z G z z |
+A B cd3 |
+d c BA3) |
+.('g z z d z z |
+B z z G z z |
+A B c d e f |
+g g g a a a |
+b b b a a a) |
+.('g g g a a a |
+b b b b b b |
+a a a a a a |
+g z zG3 |
+G3G3) ||
+[K:C] [M:2/4].('G c c B [I:setbarnb 40]|
+c/ d/ e e d |
+{d} c B {B} A G |
+A d A3/ B/) |
+.('G c c B |
+c/ d/ e e d |
+{d} c B {B} A G |
+A dc2) |
+.('(d e/ f/) (g f/ e/) |
+(d c/ B/) (A B/ c/) |
+(d e/ f/) (g f/ e/) |
+(d c/ B/)A2) |
+.('(d e/ f/) (g f/ e/) |
+(d c/ B/) (A B/ c/) |
+(d e/ f/) (g f/ e/) |
+(d c/ B/) (f e/ d/)) |
+.('(a g/ f/) (g f/ e/) |
+(f e/ d/) (e d/ c/) |
+(A B/ c/) (B c/ d/) |
+G zG2 |
+G2G2) |
+.('G c c B |
+c/ d/ e e d |
+{d} c B {B} A G |
+A d A3/ B/) |
+.('G c c B |
+c/ d/ e e d |
+{d} c B {B} A G |
+A d c e) |
+.('f> g f e |
+f> g f e |
+{e} d ^c d e |
+(c2G) e) |
+.('f> g f e |
+f> g f e |
+d ^c d e |
+c2c2) ||
+[K:G] [M:3/4].('G2G3A [I:setbarnb 77]|
+G2F2G2 |
+A2-(3A B c (3c B A |
+(A2>^A2)B2) |
+.('B2B3B |
+B2E2(A3/ G/) |
+F2-(3F B A (3G c B |
+A2d4) |
+.('G2G3A |
+G2F2G2 |
+A2-(3A B c (3c B A |
+(A2>^A2)B2) |
+.('G2(F G {B} A G) |
+(G e d c B A) |
+(G2A/ G/ F/ G<) B A/ |
+G2z2z2) ||
+[K:C] [M:4/4].('G2f2(f e)d2 [I:setbarnb 93]|
+e2G2c4 |
+B2(A B)A2G2 |
+{c d} c> B (c e)g4) |
+.('G2f2(f e)d2 |
+e2G2c4 |
+B2{d} c> BB3c |
+d2{^f} e> d(d3^d) |
+(e ^f g a b)(B2c) |
+(d ^d) !fermata!e ^FG2z2) |
+.('A2(3(c B A)(d2e2) |
+d2(3(d c B)g4 |
+^f2(3(a g e)d2(3(f e c) |
+B2(3d c AG4) |
+.('A2(3(c B A)(d2e2) |
+d2(3(d c B) !fermata!b/ (a/ g/ ^f/ e/ d/ c/ B/)) |
+.('(_e2A2)(3(=e d c) (3(B {c/ B/ A/ B/} c A) |
+G z).('(f2-f e d c) |
+B(a2g) (^f =f d B)) |
+.('G2f2(.f .e)d2 |
+e2G2c4 |
+B2(.A .B)A2G2 |
+{d} c> B c eg4 |
+G2f2f ed2 |
+e2c2c4) |
+(3.('(e d c (3B A G) (3(a g f (3e d c)) |
+.('c'3(e/ f/)g3(d/ e/) |
+c2z2c4 |
+(^c2e g2<)(^f2e)) ||
+[K:G] [M:4/4](3.('d e d (3d e d (3d e d (3c d c) [I:setbarnb 122]|
+.('B6B2 |
+d6d2 |
+g6f2 |
+f4e4) |
+.('e6e2 |
+e4(a3b) |
+(d'2>c'2) (3c'2 b2 a2 |
+b4z4) |
+.('B6B2 |
+d6d2 |
+g6f2 |
+(f4e4)) |
+.('e2f2g2a2 |
+b6b2 |
+b6b2 |
+a6a2 |
+d6d2) |
+.('g G G B B d d g |
+g B B d d g g b |
+b2g2g2g2 |
+g2z2b2z2 |
+!fermata!G8) |]

@@ -1,0 +1,44 @@
+X: 16792
+T: Carlion de Duenkerke
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 4252629522
+%%humdrum-veritas-data 4089030163
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G [I:setbarnb 1]|
+BGBG |
+A3A/ B/ |
+cAcA |
+B3).('d |
+edef |
+gf/ e/dc |
+B/ c/ B/ G/ A/ B/ A/ F/ |
+!fermata!G3) |
+.('d [I:setbarnb 9]|
+g>agf |
+e3e |
+a>bag |
+f3).('a |
+gfed |
+^cAde |
+f/ g/ f/ d/ e/ f/ e/ ^c/ |
+d3).('d |
+g>agf |
+e3d |
+cBAG |
+A3).('G |
+BGBG |
+A3G/ B/ |
+cAcA |
+B3).('d |
+edef |
+gf/ e/dc |
+B2A2 |
+G3) |]

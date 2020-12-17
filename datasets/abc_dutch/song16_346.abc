@@ -1,0 +1,35 @@
+X: 15345
+T: Es giebt nur eine Kaiserstadt, es giebt nur  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 921328041
+%%humdrum-veritas-data 4083086991
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F/ [I:setbarnb 1]|
+DE/FG/ |
+F=E/_EF/ |
+dc/GA/ |
+B3/z).('F/ |
+DE/FG/ |
+A^G/AB/ |
+A=E/GF/ |
+D3/z).('D/ |
+EF/Ge/ |
+ed/dd/ |
+dA/^GA/ |
+B3/z).('B/ |
+cB/AG/ |
+GF/BD/ |
+FE/AG/ |
+F3/z).('d/ |
+dc/de/ |
+ed/BF/ |
+dF/cF/ |
+B3/z) |]

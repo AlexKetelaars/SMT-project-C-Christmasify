@@ -1,0 +1,24 @@
+X: 886
+T: Hoe vrolijk is het op zee te varen Als God m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 1087359241
+%%humdrum-veritas-data 3945617428
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2A Bc2c2 |
+B2B2(A e)d2) |
+.('B2A Bc2c2 |
+(B A e) ed4) |
+.('(G A) B c (d g) (g f) |
+e2e2(e d)d2) |
+.('(d c) e dB2B B |
+(A e) d> cB4) |
+.('c2c cB2B B |
+(A c) B AG4) |]

@@ -1,0 +1,22 @@
+X: 1369
+T: Anna zat op Azita op Azita op Azita
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 626922029
+%%humdrum-veritas-data 717664074
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('e d B A |
+G B B3/) .('B/ |
+A c c3/ c/ |
+B d d) .('d |
+e d B A |
+G B B3/) .('B/ |
+d2d2 |
+B4) |]

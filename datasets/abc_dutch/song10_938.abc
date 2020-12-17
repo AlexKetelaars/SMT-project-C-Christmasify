@@ -1,0 +1,33 @@
+X: 9937
+T: Blauwe, blauwe blomme, Als ik zaai, als ik maai
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 1593027938
+%%humdrum-veritas-data 1505509548
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A A G G |
+F2F2 |
+F GA2 |
+F GA2) |
+.('c B A G |
+F2F2 |
+F G A/ A/ A/ B/ |
+c c/ c< c) .('A/ |
+G2F2 |
+F G A B |
+c cc2) |
+.('c B A G |
+A2F2 |
+B2G2 |
+A2F2) |
+.('A AA2 |
+c cc2 |
+c B A G |
+F2z2) |]

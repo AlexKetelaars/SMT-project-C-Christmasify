@@ -1,0 +1,23 @@
+X: 2351
+T: Er was eens een heer hij was wellegemoed En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 4223368375
+%%humdrum-veritas-data 246080504
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A [I:setbarnb 1]|
+G3F2E |
+D3G2G |
+A A A A) .('A A |
+A A A B B A |
+(G F) ED2).('A |
+G3F2E |
+D D D G G G |
+A B AG2) |]

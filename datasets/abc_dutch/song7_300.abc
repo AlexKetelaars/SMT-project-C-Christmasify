@@ -1,0 +1,31 @@
+X: 6299
+T: Vlaggelied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 3663461099
+%%humdrum-veritas-data 3016328906
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('c [I:setbarnb 1]|
+c cc2e2d c |
+B2d d2<g2).('f |
+e2f ed2g3/ g/ |
+c4z2).('G2 |
+c2c ce2d c |
+B2d d2<g2).('g |
+g2b gd2e f |
+g4z2).('g2 |
+f2g f (e d) c B |
+c d e f2<g2).('e |
+f2d fe2c e |
+g2f ed2z) .('G |
+c2c eg2e e |
+f2a a2<c'2).('a |
+g2(e g) (g f) (e d) |
+c4z2z) |]

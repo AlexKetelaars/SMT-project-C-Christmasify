@@ -1,0 +1,32 @@
+X: 16776
+T: La pure verité
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3743297007
+%%humdrum-veritas-data 149028910
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('C [I:setbarnb 1]|
+E2GGEG |
+A2ccAc |
+E2GGEC |
+D3G,3) |
+.('E2GGEG |
+A2ccAc |
+ecedBG |
+c3!fermata!C2) |
+.('c [I:setbarnb 9]|
+e2ggeg |
+B2ddBd |
+E2GGEC |
+D3G,3) |
+.('E2GGEG |
+A2ccAc |
+ecedBG |
+c3C3) |]

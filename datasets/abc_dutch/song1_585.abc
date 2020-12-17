@@ -1,0 +1,15 @@
+X: 585
+T: Salich sij zijn Wiens boosheyt is vergheven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3768782079
+%%humdrum-veritas-data 507118106
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('A4A2G2(AGABA4)z2).('G2F2F2F2F2(E2>D2EF2<G2CF2EDFE)F4-F4).('A4A2G2(AGABA4)z2).('G2F2F2F2F2(E2>D2EF2<G2CF2EDFE)F4-F4).('z2F2A2A2(GFGAG2)).('G2A2c2(dAc)=Bc4z2).('_B2B2>B2A2B2>(A2A3G/ F/G2)A4).('z2A2A2G2(AGABA2)).('GG(FGAGF2E)D2<(E2DEF2<G2)F(F2EDFE)F4) |]

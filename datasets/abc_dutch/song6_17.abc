@@ -1,0 +1,23 @@
+X: 5016
+T: Ik kom uit verre landen m’n gommel m’n gomme [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 3294435070
+%%humdrum-veritas-data 464956772
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G/ [I:setbarnb 1]|
+GG/GG/ |
+G3/c).('E/ |
+E/ E/ E/ D/ D/ D/ |
+EE/D).('G/ |
+GG/GG/ |
+G3/cc/ |
+d3/B3/ |
+c3/-c) |]

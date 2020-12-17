@@ -1,0 +1,31 @@
+X: 5045
+T: Halt halt ik liep haast in de baren Dat is v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 429197239
+%%humdrum-veritas-data 3534852108
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('C C3/ C/ [I:setbarnb 1]|
+E2>G2 G3/ G/ |
+[M:4/4]e2c2z) .('c B c |
+[M:3/4]d2>G2 A3/ B/ |
+c2>).('C2 C3/ C/ |
+E2>G2 G3/ G/ |
+[M:4/4]e2c2z) .('c B c |
+[M:3/4]d2>G2 A3/ B/ |
+c2z) .('G F E |
+E2c2G3/ F/ |
+[M:4/4](E G)c2z) .('G F E |
+[M:3/4]D2c2G3/ F/ |
+[M:4/4](D2E2)z) .('C C3/ C/ |
+[M:3/4]E2>G2 G3/ G/ |
+[M:4/4]e2c2z) .('c B c |
+[M:3/4]d2>f2 e d |
+c3) |]

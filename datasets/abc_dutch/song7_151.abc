@@ -1,0 +1,41 @@
+X: 6150
+T: Blekkedoosie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 1515622981
+%%humdrum-veritas-data 2614173276
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B c [I:setbarnb 1]|
+d d d fe2c2 |
+d2c B A B c A |
+B c B AG2).('B c |
+d d d fe2c2 |
+d2B2c B A B |
+G6) :|]
+.('d2 [I:setbarnb 7]|
+g ^f g ag2d2 |
+e4c4) |
+.('f =e f gf2_e2 |
+d4B2).('g a |
+g2G2G2f g |
+f2F2F2).('f g |
+f2e dc2F2 |
+B4B2).('d e |
+f2f ff2f f |
+^f2f ff2f f |
+g2g gg2g g |
+a2a aa2a a |
+b2a g b ag2 |
+^f g =e fd2).('g a |
+b2B2B2b2 |
+a2A2A2a2 |
+g2G2G2g2 |
+^f2g2a g f a |
+g6) |]

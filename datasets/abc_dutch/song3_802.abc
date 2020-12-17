@@ -1,0 +1,42 @@
+X: 2801
+T: Fuort âlde hoppe Nei Dokkum ta
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 2404461971
+%%humdrum-veritas-data 455149949
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G GB2B B |
+A2A2G4) |
+.('G2G GB2B2 |
+A4G4) |
+.('G2G G B B B B |
+A2A2G2).('D D |
+G2G GB2B B |
+A2A2G4) |
+.('c2c c B B B B |
+A4A4) |
+.('d2d dd2d d |
+c4B4) |
+.('e2c2c c B c |
+d4d2).('c c |
+B2B BA2A2 |
+G2G2G4) |
+.('c2c c B BB2 |
+A6).('A2 |
+d2d2c2c2 |
+B4B2).('B B |
+A2A AA2A2 |
+d6).('c2 |
+[M:3/4]G GG2G2 |
+[M:4/4]d G G G2<G2).('G |
+c2c2G2G2 |
+d4d2).('c2 |
+B2B2A2A2 |
+G4G4) |]

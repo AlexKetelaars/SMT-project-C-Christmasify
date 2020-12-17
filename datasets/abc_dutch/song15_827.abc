@@ -1,0 +1,40 @@
+X: 14826
+T: Marche
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 4171114013
+%%humdrum-veritas-data 235900966
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A2A> AA2z E |
+A2A> AA2z E |
+A2c2e3d |
+c2B2c2z E |
+A2c2e3d |
+c2B2c2z2) |
+.('d2B> Bc2A2 |
+d2B> Bc2A2 |
+B2c> AB2c3/ A/ |
+B2e> ee2=c3/ A/ |
+B2c> AB2c3/ A/ |
+B2B> BB3) |
+.('B [I:setbarnb 13]|
+e2e> ee2z E |
+G2B2d3B |
+A A B B c c d d |
+e2c> AE2z) .('E |
+A2A> AA2z E |
+c2c> cc2z A |
+e2e2e3d |
+c2B2A2c3/ c/ |
+B2e2c2c3/ c/ |
+B2e2c2z E |
+A> E A> E A> c e3/ c/ |
+A2a> aa2) |]

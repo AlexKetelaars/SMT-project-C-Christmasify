@@ -1,0 +1,23 @@
+X: 3769
+T: Ik kwam laatst door enen stad, enen stad waa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 97081962
+%%humdrum-veritas-data 1218827929
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2Bd2d |
+[M:9/8]e d d e d d).('B2d |
+[M:6/8]d3c3- |
+c3).('c2e |
+[M:9/8]e3d6) |
+[M:6/8].('G2Bd2g |
+f2fe3) |
+.('e2f g f e |
+d2cB3) |]

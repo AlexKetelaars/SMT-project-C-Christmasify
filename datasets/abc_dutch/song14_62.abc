@@ -1,0 +1,22 @@
+X: 13061
+T: Humpty Dumpty sat on a wall Humpty Dumpty ha [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 1502783078
+%%humdrum-veritas-data 2876901202
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E2GF2A |
+G A Bc2z) |
+.('E2GF2A |
+G E CD2z) |
+.('E E G F F A |
+G A Bc2).('c/ c/ |
+e d c G c c |
+d c B c3/) |]

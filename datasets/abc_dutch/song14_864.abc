@@ -1,0 +1,39 @@
+X: 13863
+T: du Calife de Bagdad
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 1404672679
+%%humdrum-veritas-data 3288425417
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c A f [I:setbarnb 1]|
+c2>c2 B G |
+A2F c A f |
+c2>c2 B G |
+A2z F d c |
+c2B A d c |
+c2B A f A |
+c2c {c/} =B A B |
+c2>).('c2 c c |
+c ^c d f e d |
+c2c c c c |
+c ^c d f e d |
+c2).('c c A f |
+f2c c A f |
+f2c c c f |
+e c A c B G |
+(B2A) c c f |
+f c A c B G |
+F3).('z2z |
+z6 |
+!fermata!c2{=B c d c} C) .('c A f |
+f c A c B G |
+(B2A) c A f |
+f c A c B G |
+F3) |]

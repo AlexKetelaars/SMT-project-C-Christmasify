@@ -1,0 +1,23 @@
+X: 2678
+T: Hij vroeg of zij met hem rijden wou gaan Dan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 2734497148
+%%humdrum-veritas-data 1787145042
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=63
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B2A G B d |
+d d dG2).('G |
+A B c B B A |
+G B G D) .('E F |
+G3A2A |
+(B2d)d2B |
+G3d2c |
+B3-B2) |]

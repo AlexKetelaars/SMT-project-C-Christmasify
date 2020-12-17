@@ -1,0 +1,36 @@
+X: 16663
+T: Wilt gij dan niet verheugt uw mijn verdriet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2621313944
+%%humdrum-veritas-data 1699459352
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('f>ed |
+a>).('ag |
+ad3/e/ |
+f>).('cc |
+dB3/A/ |
+A>).('Bc |
+B(c3/d/) |
+^c>).('de |
+ff3/e/ |
+e3) |
+.('fg3/a/ |
+_b>ae |
+ad3/e/ |
+e2d) |
+.('a>b (a/ g/) |
+^f>fg |
+ea3/d/ |
+^c2A) |
+.('f3 |
+e>ef |
+dd3/^c/ |
+d3) :|]

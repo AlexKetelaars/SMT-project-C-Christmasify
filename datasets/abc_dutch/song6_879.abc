@@ -1,0 +1,25 @@
+X: 5878
+T: Prinse Karel had een dochter, ‘t Was de scho [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1862198621
+%%humdrum-veritas-data 1872483777
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2B [I:setbarnb 1]|
+d2de2f |
+e2d).('B2c |
+d2cA2c |
+B2z).('B2c |
+d2cA2c |
+B3).('e2e |
+{e} d c BA2G |
+{G}F2E).('A2A |
+A B cd2B |
+G3) |]

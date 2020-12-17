@@ -1,0 +1,26 @@
+X: 12437
+T: Wij zullen t’zamen met ons drie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 2799201471
+%%humdrum-veritas-data 2525014402
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2A GF2A2 |
+B2B cA4) |
+.('B2d2c2d e |
+f2g f!trill!!trill!e4) |
+.('A2A GF2A2 |
+B2B cA4) |
+.('B2d2c2d e |
+!trill!!trill!e2>d2!fermata!d4) |
+.('f2g fe2f e |
+d f e dc2A2) |
+.('B c d e c d e f |
+d e f g!trill!!trill!e4) ||

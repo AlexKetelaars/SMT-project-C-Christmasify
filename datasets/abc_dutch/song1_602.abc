@@ -1,0 +1,15 @@
+X: 602
+T: Hoort toe ghi menschen groot ende cleyn Ghi  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 1326151766
+%%humdrum-veritas-data 3022704667
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2d2d2d2f4f2e2c2c2A4z4).('e2f2e2d2d2c2A4F4z2).('F2F2G2A2G2(FGA_BA2GFE4)D4)[M:3/2].('z2z2D2F4G2A4c2A4G2F4).('F2c4c2c4c2d4d2d4).('e2f2e2d2c2(A4GFE4)D4) |]

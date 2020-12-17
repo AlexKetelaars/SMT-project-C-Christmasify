@@ -1,0 +1,30 @@
+X: 17139
+T: van d'Gouden ketting
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 2062251272
+%%humdrum-veritas-data 2376192912
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: C clef=treble
+.('c3e2d |
+c3c2G |
+A2AG2F |
+E2DE2F |
+G3G2c |
+BcAB2c |
+!trill!!trill!d3-d2) |
+.('d [I:setbarnb 8]|
+e2cd2e |
+f2ed3 |
+e2dcde |
+decB3 |
+c2de3 |
+ABA!trill!!trill!G2E |
+A2Bcdc |
+BcBA2) :|]

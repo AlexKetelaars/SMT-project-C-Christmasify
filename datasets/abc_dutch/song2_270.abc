@@ -1,0 +1,76 @@
+X: 1269
+T: Vrolijk zullen we rondklav[i]eren [=oplavere [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 2611523999
+%%humdrum-veritas-data 2095480398
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2G G G G |
+G2BB2B) |
+.('B A B c d d |
+c2cB2).('d |
+d ^c d B =c d |
+e e> dA3) |
+.('d d d B c d |
+e2dA3) |
+.('d d d d c d |
+e2d dA2) |
+.('d2d (B c) d |
+e2dA3) |
+.('G G G G G G |
+G G BB2B) |
+.('B A B d d d |
+c c cB3) |
+.('G G G G G G |
+G G BB2B) |
+.('B A B d d d |
+c c cB2).('d |
+d d d B c d |
+e2ed2A) |
+.('d2d B c d |
+e2dA3) |
+.('G G GG2G |
+G2BB2B) |
+.('B A B d d d |
+c2cB3) |
+.('G G GG2G |
+G2BB2B) |
+.('B A B d d d |
+c2cB2).('d |
+d2d B c d |
+e2dA3) |
+.('d d d B c d |
+e e dA2).('d |
+d2d B c d |
+e2d dA2) |
+.('d d d B c d |
+e2dA3) |
+.('G G G G G G |
+G B BB2B) |
+.('B A B d d d |
+c2cB3) |
+.('G G G G G G |
+G B BB2B) |
+.('B A B d d d |
+c2cB2).('d |
+[M:9/8](d ^c) d2<B2-B2d |
+(d ^c) d2<B2-B2).('d |
+[M:6/8]d ^c dg2B |
+d3c3) |
+.('c2>A2 B c |
+A B ce2d |
+(B2d)G3) |
+.('G2AB2c |
+d3g2f |
+e2dc2d |
+e3z2).('g |
+g f e (e d) d |
+(d e) fg2d |
+(c B) AG3) |]

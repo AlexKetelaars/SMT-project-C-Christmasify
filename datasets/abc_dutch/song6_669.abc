@@ -1,0 +1,44 @@
+X: 5668
+T: ‘t Is van dage Sint Anna-dag, Wy kijken al n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2708497907
+%%humdrum-veritas-data 579054081
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2G [I:setbarnb 1]|
+d d de2e |
+d2de2e |
+d2).('c B c d |
+d2d (d c) B |
+A3).('g2d |
+d2d (d c) B |
+c3).('c2A |
+d2GA2A |
+G3).('G2G |
+d2de2e |
+d2>).('B2 c d |
+d d d d c B |
+A2).('dg2d |
+d2d d c B |
+c2>).('c2 B A |
+d d GA2A |
+G2>).('c2 B A |
+B2A c B A |
+B2A) .('d e f |
+g2d c B A |
+G2>).('G2 G G |
+d d d e e e |
+d2>).('B2 c d |
+d2d (d c) B |
+A3).('g2d |
+d2d d c B |
+c2>).('c2 B A |
+d d GA2A |
+G2z) |]

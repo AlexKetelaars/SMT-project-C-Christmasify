@@ -1,0 +1,30 @@
+X: 4829
+T: Mout er ook wat in ’t trommeltje Allerhand o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 3446284772
+%%humdrum-veritas-data 3650865819
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d d/ d/ d d |
+g gd2) |
+.('A d ^c e |
+d4) |
+.('d d d d |
+g2d) .('d |
+A d ^c e |
+d3).('a |
+a a a a |
+b2g) .('g |
+g g g g |
+a2f) .('A/ A/ |
+d d d d |
+f3).('d |
+A d ^c e |
+d4) |]

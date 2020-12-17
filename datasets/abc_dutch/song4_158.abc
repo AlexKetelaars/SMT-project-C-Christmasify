@@ -1,0 +1,27 @@
+X: 3157
+T: Toen Carolina over het vallebrugje kwam En t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 619217696
+%%humdrum-veritas-data 290360372
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B B A [I:setbarnb 1]|
+B2(B A)G2d d |
+d d d dd2).('e f |
+g2g ed2f2 |
+e4d2).('d2 |
+g2d2e e e e |
+d d d BG2).('A B |
+e2e ed2B2 |
+(A2d2)d2).('d d |
+g2d2e e e e |
+d d d BG2).('A B |
+e2e ed2B2 |
+(A2d2)G2z2) |]

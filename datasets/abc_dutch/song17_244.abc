@@ -1,0 +1,38 @@
+X: 16243
+T: Zoetje laat my altoos vryen, Houw my altoos  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2372973093
+%%humdrum-veritas-data 2511114143
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('A2B |
+(cB)A |
+(fe)d |
+e2A) |
+.('f2e |
+d2c |
+(B/ c/) (d/ c/) (B/ A/) |
+^G3) |
+.('c2c |
+(de)f |
+(ed)c |
+g2G) |
+.('(cB)c |
+(dG)e |
+d2c |
+c3) |
+.('cde |
+(f/ e/ f/ g/ f/ g/ |
+e^f^g/ a/ |
+^g2)e) |
+.('(fd)B |
+(^GA)B |
+B2A |
+A3) :|]

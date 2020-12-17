@@ -1,0 +1,23 @@
+X: 5576
+T: Een soudaen had een dochterken, zeer schoon  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2467093731
+%%humdrum-veritas-data 2091556733
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('G/ [I:setbarnb 1]|
+G> G G A |
+B3/ (A// G//) F z/) .('B/ |
+B> c d d |
+(c/> B/) A z) .('A |
+B> c d d |
+G3/ (A// B//) c z) |
+.('B A/ G< {A/} B G/ |
+F2G z) |]

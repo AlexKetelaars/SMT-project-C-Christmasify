@@ -1,0 +1,32 @@
+X: 931
+T: Het was juist al op de laatste dag van het j [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 2374798132
+%%humdrum-veritas-data 76022201
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('E/ [I:setbarnb 1]|
+DB,/BG/ |
+AG/EE/ |
+D3/-D).('D/ |
+[M:9/8]DD<G-GA/ |
+[M:6/8]G3/F).('F/ |
+[M:9/8]ED/FE/CD/ |
+FF<F-F).('F/ |
+ED<F-FE/ |
+ED<D-D).('D/ |
+DD<E-EE/ |
+FF<G-G).('G/ |
+FG<A-AE/ |
+FG<A-A).('D/ |
+BA<G-GG/ |
+AB/dc/B).('B/ |
+AB/cB/AE/ |
+FA<G-G) |]

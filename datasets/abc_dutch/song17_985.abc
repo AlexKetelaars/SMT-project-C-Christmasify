@@ -1,0 +1,37 @@
+X: 16984
+T: suite
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 1707692377
+%%humdrum-veritas-data 472272819
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/2
+Q: 1/2=60
+K: Bb clef=treble
+.('B2B cd2B2f2b2 |
+!mordent!!mordent!a2>g2f2).('d2g f e d |
+e2>d2c2d2!mordent!!mordent!B3c |
+A6).('z c2<f2f |
+d6z d2<g2g |
+!mordent!!mordent!=e e f g2<a2a2<!mordent!!mordent!f2f |
+b6).('z aa4- |
+a2>g2g6z a |
+!mordent!!mordent!f6z g2<!mordent!!mordent!g2f |
+f12) |
+.('c2c de2e fg2f e |
+d2>d2g2a2!mordent!!mordent!a3g |
+!mordent!!mordent!^f3).('d/ d/d2d2A2d2 |
+!mordent!!mordent!=B3g/ g/g2g2d2g2 |
+!mordent!!mordent!=e3).('c/ c/c2c2G2c2 |
+A3f/ f/f2f2c2f2 |
+d3).('b/ b/b2b2f2b2 |
+g2g fe2e dc2c B |
+A4).('f2f ed2d c |
+B2B AG4).('e2e d |
+c4f2f ed4) |
+.('b2b a g f e d2<!mordent!!mordent!c2B |
+B8) :|]

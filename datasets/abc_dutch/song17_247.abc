@@ -1,0 +1,32 @@
+X: 16246
+T: Ei Fillis denk doch niet, Dat toen ik u verliet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 502310490
+%%humdrum-veritas-data 1014781146
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F [I:setbarnb 1]|
+(B ^A) B (c B) c |
+d3-d2c |
+(d c) Bd2e |
+f3-f2).('a |
+(f g) a (e f) g |
+(c d) e (^A B) c |
+(d e) de3 |
+f3-f2) |
+.('f [I:setbarnb 9]|
+(^d e) f (B c) d |
+(e f ^d)e2d |
+(c d) e (E f) c |
+(d c B)).('(^A2F) |
+(B ^A) Bd2e |
+f3-f2c |
+(d B) cF2d |
+c3B2) :|]

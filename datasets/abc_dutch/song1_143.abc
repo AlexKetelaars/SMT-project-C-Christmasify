@@ -1,0 +1,15 @@
+X: 143
+T: Godt is nochtans troostlick end soet, Israel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1606658790
+%%humdrum-veritas-data 2406010544
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c4d2f2e2d4c4B2c4z4).('f4e2d2f4c4d2e2f4z4).('c4d2d2c4A4B2c2d4c4z4).('A4c2c2A4F4B2A2G4F4z4).('c4d2e2f2d2c4B4A4z4).('A4B2c2d4c2B2A4G4z4).('c4d2e2c2f2e4d4c4z4).('A4B2c2G2B2A4G4F4) |]

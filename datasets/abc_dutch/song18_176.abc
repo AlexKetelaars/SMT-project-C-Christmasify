@@ -1,0 +1,30 @@
+X: 17175
+T: Aria
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 393196308
+%%humdrum-veritas-data 2495536339
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('f2f ge2e2 |
+d2d2c2c2 |
+A2A2d e d c |
+_B2>A2G2G2) |
+.('c2c _BA4 |
+d2e f^c4 |
+f2e2d e d c |
+B2>A2A4) |
+.('A2A Bc2c2 |
+d ^c d ef2f2 |
+A2A2d e d c |
+_B2>A2G2G2) |
+.('c2c _BA4 |
+d2e f^c4 |
+f2e fg2a2 |
+e2>d2d4) :|]

@@ -1,0 +1,30 @@
+X: 5900
+T: Karel, Karel tsiep tsiep tsiep, Hij en heeft [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 2561893444
+%%humdrum-veritas-data 1825430701
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2Bd2B |
+G2G G) .('G A |
+B2cc2B |
+B2AA2z) |
+.('c2cc2c |
+B2cd2).('e |
+d e c B c A |
+G3z3) |
+.('d2dd2B |
+d2de2z) |
+.('c2c c B A |
+B2cd2z) |
+.('B2Bd2d |
+e2fg2).('e |
+d e c B c A |
+G3z3) |]

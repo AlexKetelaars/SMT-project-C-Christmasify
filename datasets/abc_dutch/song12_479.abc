@@ -1,0 +1,47 @@
+X: 11478
+T: Ome Gerritsje, ome Gerritsje En ons Mem is n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:15
+%%humdrum-veritas 2964606438
+%%humdrum-veritas-data 1906304117
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G/ G/ [I:setbarnb 1]|
+AG |
+GG/ G/ |
+AG |
+Gc/ c/ |
+BB |
+AA |
+G2 |
+z).('G/ G/ |
+AG |
+GG/ G/ |
+AG |
+Gc/ c/ |
+BB |
+AA |
+G2 |
+z)(3.('G/ A/ B/ |
+c2 |
+cA |
+G2 |
+GE/ E/ |
+GF |
+ED/ E/ |
+C2 |
+z)(3.('G/ A/ B/ |
+c2 |
+cA |
+G2 |
+GE/ E/ |
+GF |
+ED/ E/ |
+C2 |
+C) |]

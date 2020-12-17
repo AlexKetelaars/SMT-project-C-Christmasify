@@ -1,0 +1,26 @@
+X: 17506
+T: Pater Peter
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 1620278574
+%%humdrum-veritas-data 4233055068
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=152
+K: G clef=treble
+.('G2Gc2B |
+A2Bc2c |
+d2Gc2B |
+A>GFG2x) |
+.('g2gg2d |
+e2fe2d |
+d>efg2d |
+e>dcB3) |
+.('e>dcB>cd |
+e>dcB>cd |
+e2Gc2B |
+A>GFG2) :|]

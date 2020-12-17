@@ -1,0 +1,15 @@
+X: 1097
+T: Een jongeling van pas achttien jaren Die bij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 4105260602
+%%humdrum-veritas-data 1821288527
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d2GA(Bd)d2ed(AB)A2z).('Bcde2e>gfed>cc2B2z).('dded2eagfe2z).('gfgdg/> g/fed>cB2z).('deed2eagfe2z).('gfgdg/> g/fed>FG2) |]

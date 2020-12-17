@@ -1,0 +1,81 @@
+X: 15639
+T: chaconne
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:55
+%%humdrum-veritas 2134466684
+%%humdrum-veritas-data 2024472589
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=132
+K: A clef=treble
+.('A2c BA2 |
+e2>f2 g e |
+a2(f g) a b |
+g a g f e d |
+c B A B c d |
+!trill!!trill!e2>).('f2 g e |
+a b2<!trill!!trill!g2a |
+a2).('e2e2 |
+!trill!!trill!e2>a2 g a |
+e f e a g a |
+e f e d c B |
+c B A B c d |
+!trill!!trill!e2>).('a2 g a |
+e f e a g a |
+e f e d c B |
+c d2<!trill!!trill!B2A |
+A3).('A/ B/ c B/ A/ |
+B3B/ c/ d c/ B/ |
+!trill!!trill!c2A2e2 |
+(e f) e d c B |
+c d2<!trill!!trill!B2A |
+A3).('A/ B/ c B/ A/ |
+B3B/ c/ d c/ B/ |
+!trill!!trill!c2A2e2 |
+(a g) f e d B |
+c d2<!trill!!trill!B2A |
+A2).('c2c2 |
+c2B2B2 |
+B2d2d2 |
+d2c2c2 |
+!trill!!trill!c2>).('e2 f g |
+a c2<!trill!!trill!B2A |
+A2).('c2c2 |
+c2B2B2 |
+B2d2d2 |
+d2c2c2 |
+!trill!!trill!c2>).('e2 f g |
+a b2<!trill!!trill!g2a |
+a2>).('a2 e a |
+!trill!!trill!f2>f2 d f |
+e2>e2 B e |
+c> B A>) .('a e3/ a/ |
+!trill!!trill!f2>f2 d f |
+e2>e2 B e |
+c d c B c d |
+e f2<!trill!!trill!B2A |
+A2).('A2A2 |
+A2c> BA2 |
+A2d> cB2 |
+B2e> dc2 |
+!trill!!trill!c2>).('B2 c d |
+e d e f e f |
+e f e f e f |
+!trill!!trill!e6- |
+e2>).('d2 c B |
+A B2<!trill!!trill!B2A |
+A2).('A2A2 |
+A2c> BA2 |
+A2d> cB2 |
+B2e> dc2 |
+!trill!!trill!c2>).('B2 c d |
+e d e f e f |
+e f e f e f |
+!trill!!trill!e6- |
+e2>d2) .('c B |
+A B2<!trill!!trill!B2A |
+A6) :|]

@@ -1,0 +1,25 @@
+X: 946
+T: Kom vrienden wij weten alweer een mooi lied  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 1028416841
+%%humdrum-veritas-data 3948579312
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B [I:setbarnb 1]|
+A2A BA2G A |
+(B c) d dA2z) .('B |
+A2A B A A G A |
+(B c)d2A2z) .('A |
+B2B A (B c)d2 |
+(c2e2)d2).('c B |
+d d e dG2c B |
+c2(B A)D2).('E F |
+G2A Bc2c c |
+(B2A2)G2z) |]

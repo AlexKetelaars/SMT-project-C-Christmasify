@@ -1,0 +1,22 @@
+X: 825
+T: Heer Haelwijn [Halewijn] zong een liedekijn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2620553704
+%%humdrum-veritas-data 3526471516
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c/ B/ c/ [I:setbarnb 1]|
+d3/e3/ |
+dc/B).('B/ |
+cB/AB/ |
+cd/e).('e/ |
+fe/d3/ |
+e3/d^c/ |
+d3/) |]

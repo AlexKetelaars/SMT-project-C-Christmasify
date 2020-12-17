@@ -1,0 +1,39 @@
+X: 484
+T: Salig is dien man in wandel Die der goddelos [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 2562654007
+%%humdrum-veritas-data 2050175205
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('D2A2 |
+GEFD |
+E2E2) |
+.('D2A2 |
+GEFD |
+E4) |
+.('D2A2 |
+GEFE |
+D2C2) |
+.('D2A2 |
+GEFD |
+E4) |
+.('DEFF |
+E>FGF) |
+.('DGFF |
+E>FGG |
+FED2 |
+C4) |
+.('D>EFF |
+E).('FGF |
+D>).('EFG |
+A2).('z2 |
+A2GF |
+G2E2 |
+D4) |]

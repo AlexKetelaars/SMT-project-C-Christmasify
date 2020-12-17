@@ -1,0 +1,25 @@
+X: 2263
+T: Zeg vrienden ik ken er alweer een nieuwe lie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 1037361405
+%%humdrum-veritas-data 3704573965
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2AAB>BB2 |
+AcBA2<G2).('G |
+A2AAA2(GA) |
+B2BAG2).('GA |
+B2B2(Bc)(de) |
+(d2cB2<)A2).('d |
+B2BAG2G2 |
+(AG)FED2).('BB |
+ccdcB2B2 |
+A4G3) |]

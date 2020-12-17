@@ -1,0 +1,16 @@
+X: 696
+T: Onttrect mi o Heere vanden quaden Verlost my [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3340706271
+%%humdrum-veritas-data 2224130492
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2F2FFG2A2A2A2A2A).('AGFF2G2F4E2F4).('z2F2F2FFG2A2A2A2A2A).('AGFF2G2F4E2F4) ]|:
+.('A2A2A2G2G2A2c4B2(cBAGA4)z2).('B2BBBBA2B2>A2A4G2A4z2).('AAB2BAG2F2!fermata!E4z2).('C2F2G2A2B2(A2GFED2<G2)FF4E2F4) |]

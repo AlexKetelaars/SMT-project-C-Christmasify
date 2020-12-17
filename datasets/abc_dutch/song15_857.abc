@@ -1,0 +1,31 @@
+X: 14856
+T: Hornpijp
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 4001142890
+%%humdrum-veritas-data 902089657
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('d> A F> A G> B A3/ G/ |
+F> D F> A G> B A3/ G/ |
+F> D D> F G> E E3/ G/ |
+F> D D> F E> C A,2) |
+.('d> A F> A G> B A3/ G/ |
+F> D F> A G> B A3/ G/ |
+F> A d> f e> g c3/ e/ |
+d2 d2 d2) |
+.('c3/ d/ [I:setbarnb 9]|
+e> c A> c e> g f3/ e/ |
+f> d A> d f> a g3/ f/ |
+e> a A> c e> g f3/ e/ |
+f> d A> d f> a g3/ f/) |
+.('b> g d> g b> d' c'3/ d'/ |
+a> f d> f a> d' c'3/ d'/ |
+b> d' c'> b a> g f3/ e/ |
+d2 d'2 d'2) |]

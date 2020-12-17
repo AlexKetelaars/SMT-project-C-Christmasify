@@ -1,0 +1,40 @@
+X: 13107
+T: 20
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:31
+%%humdrum-veritas 784630316
+%%humdrum-veritas-data 3324115990
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('!trill!!trill!d2D D ~F F ~A A |
+!trill!!trill!d6).('!trill!!trill!e2 |
+~f e ~f g ~f a ~g f |
+~e d c B~A2).('!trill!!trill!e2 |
+~f2a A~e2~a A |
+~f2a A~e2).('~a g |
+~f g a b2<!trill!!trill!^g2a |
+a2A A c c ~e e |
+~a8) |
+.('~e f ~e d !trill!!trill!c> BA2 |
+~e2!trill!!trill!f2~g4) |
+.('~f2!trill!!trill!e d!trill!!trill!c2B2 |
+^A B c AF2).('!trill!!trill!c2 |
+d2~f Fc2~f F |
+d2f Fc2).('~b a |
+~g f e d2<!trill!!trill!c2B |
+~B6).('!trill!!trill!e2 |
+~f a !trill!!trill!g f ~e g !trill!!trill!f e |
+f a !trill!!trill!g f~e2).('~E2 |
+F A !trill!!trill!G F ~E G !trill!!trill!F E |
+~F A !trill!!trill!G F~E2).('!trill!!trill!e2 |
+~f2a A~e2~a A |
+f2~a A~e2).('~a g |
+~f g ~a b~f2!trill!!trill!e3/ c/ |
+d2D D ~F F ~A A |
+!trill!!trill!d8) :|]

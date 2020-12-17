@@ -1,0 +1,39 @@
+X: 3142
+T: Zeg vrienden luister naar het lied toen Peer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 3110595913
+%%humdrum-veritas-data 60294835
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D B B d |
+c B A) .('D |
+D F A c |
+B2G) .('D |
+D B B d |
+c B A) .('D |
+D F A c |
+B2G) .('B |
+B G D B/ B/ |
+B G D) .('D/ D/ |
+G D G B |
+e2d) .('e |
+e d c B/ B/ |
+d c B3/) .('B/ |
+c D F A |
+A2G z) |
+.('D B B B3// d// |
+c BA2 |
+D D F F3// A// |
+e ed2) |
+.('B B (B/ d/) d3// d// |
+c B A3/ d/ |
+d d c c |
+B2z) |]

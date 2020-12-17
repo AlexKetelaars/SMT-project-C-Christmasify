@@ -1,0 +1,17 @@
+X: 647
+T: Ons Heer, onse Godt Die wraec te recht can pleghen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2673671530
+%%humdrum-veritas-data 2708026002
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2A4B2c2c4z2).('c2d2B2G2G2(cBAGFGABG4)F4).('z2F2A4B2c2c4z2).('c2d2B2G2G2(cBAGFGABG4)F4) ]|:
+.('z4F2F2c4F2B2A2G4F2G4F2F2F2G2c4) ]|:
+.('z2cc(B2G)BA4z2).('A2G2F2E2F2(GABAA2GFG4)F4) |]

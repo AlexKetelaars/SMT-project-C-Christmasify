@@ -1,0 +1,35 @@
+X: 8906
+T: ‘k Ging ‘s avonds laat door ‘t straatje heen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3518561877
+%%humdrum-veritas-data 2642524081
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('F [I:setbarnb 1]|
+A> BA3F |
+A> BA3).('A |
+d2>A2 G3/ F/ |
+E2D2z) .('F |
+A> BA3F |
+A> BA3).('B |
+c2>c2 d3/ ^G/ |
+B2A2z) .('A |
+B> Be3B |
+A> Ad3).('F |
+G> GB2(A G) |
+F> GA2).('A2 |
+d> c B A G F |
+E2z2).('E2 |
+A> B A F E G |
+F2z2).('A2 |
+f> e d c B ^A |
+B2z2).('B2 |
+A> F A d !fermata!f3/ e/ |
+d2z2z) |]

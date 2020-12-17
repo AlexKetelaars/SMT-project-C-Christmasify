@@ -1,0 +1,39 @@
+X: 10205
+T: ‘t Was op nen Dertienavond De bakker sloeg z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 2587049357
+%%humdrum-veritas-data 3160284890
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2FF2F |
+F3C2C |
+D2CD2E |
+F3z2).('C |
+F2FF2F |
+F3C2C |
+D2CD2E |
+F3z2).('C |
+F F FF2G |
+G3A2F |
+B2AA2G |
+F3z2).('C |
+F F FG2G |
+A3F2B |
+A2AG2G |
+F3z2).('C |
+F F F G G G |
+A3F3 |
+A2AG2G |
+A3F3) |
+.('A2AG2G |
+C2>C2 F G |
+A A AG2G |
+F3z2) |]

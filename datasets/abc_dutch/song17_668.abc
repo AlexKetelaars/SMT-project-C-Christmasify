@@ -1,0 +1,40 @@
+X: 16667
+T: ‘K wil al treurende singen van mijn droevige staet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 4182270876
+%%humdrum-veritas-data 1648827640
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('de2 |
+^c>Bc |
+(d/ ^c/ d/ e/)d) |
+.('de2 |
+^c>Bc |
+d3) |
+.('de2 |
+^c>Bc |
+(d/ ^c/ d/ e/)d) |
+.('de2 |
+^c>Bc |
+d3) |
+.('de2 |
+f>ef |
+ge).('f |
+ga2 |
+(f>e)f |
+e^c).('d |
+ef2 |
+e3) |
+.('^c>Bc |
+d^cd |
+ef2 |
+e3) |
+.('^c>Bc |
+d3) :|]

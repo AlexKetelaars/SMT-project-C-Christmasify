@@ -1,0 +1,35 @@
+X: 3356
+T: In Baokel op den Ouwerschoot Hali, halo Daar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 3324570868
+%%humdrum-veritas-data 1985850086
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/DD/ |
+EE/D3/ |
+G3/A3/ |
+B3/A).('D/ |
+GG/DD/ |
+EE/D3/ |
+G3/A3/ |
+B3/A).('F/ |
+AA/AA/ |
+AA/AA/ |
+AG/ F/ F/ E/ |
+D3/-D3/) |
+.('D3/A3/ |
+d3/BB/ |
+cc/AA/ |
+BA/G3/) |
+.('D3/A3/ |
+d3/BB/ |
+AA/AA/ |
+G3/-G) |]

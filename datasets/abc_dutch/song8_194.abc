@@ -1,0 +1,39 @@
+X: 7193
+T: ‘k Wil u verhalen in mijn lied Hoe Pier met  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 2993898048
+%%humdrum-veritas-data 4175728377
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+C A A B |
+A G G) .('C |
+C G G A |
+G2F) .('C |
+C A A B |
+A G G) .('C |
+C G G A |
+G2F) .('A |
+B A C A |
+B A C) .('A |
+B A G F |
+G2G) .('G |
+E F G G |
+E F G) .('G |
+A G F E |
+G2F2) |
+.('A A/ A/ A A |
+B AG2) |
+.('B B/ B/ B B |
+d cc2) |
+.('A A/ A/ A A |
+B A G) .('c |
+c> c d c |
+F2) |]

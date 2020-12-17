@@ -1,0 +1,33 @@
+X: 9456
+T: Joozeke, wacht uw patrijskes wel: Ze loopen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2544113664
+%%humdrum-veritas-data 3418112835
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('e2e3/ d/ |
+(c> B) c3/ d/ |
+e2E2 |
+E2z) .('e |
+e2e3/ d/ |
+(c> B) c3/ d/ |
+!fermata!e4) |
+.('A2(A B) |
+c2B A |
+d2d c |
+B3).('A |
+(3:2:4^G2 A B2 G |
+!fermata!E2z) .('A |
+A> B A3/ B/ |
+A> B A3/ B/ |
+E2).('E2 |
+E2!fermata!f2 |
+e d c B |
+A4) |]

@@ -1,0 +1,48 @@
+X: 2509
+T: Leentje was een aardig meisje Zij diende bij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 867315725
+%%humdrum-veritas-data 1268510824
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B> A G> AB2G2 |
+E4D3).('A |
+B> B B> BB2G2 |
+F8) |
+.('c> B A> Bc2A2 |
+F4E4) |
+.('F> D D> EF2A2 |
+G4-G) .('G G G |
+G2>E2 D E F G |
+A2A4).('B d |
+A6B d |
+A4-A) .('G F G |
+F2>E2 D E F G |
+A2A4).('B d |
+A2>A2 A G F E |
+D4-D3).('D |
+B B A A2<G2).('D |
+G G A Bd4) |
+.('G2A Bd2A B |
+G4D4) |
+.('E2F GB2G2 |
+E4-E3).('E |
+c c- c B c> A B c |
+B4G) .('B A B |
+A2E2F2G2 |
+A4-A3).('D |
+G2B Bd2A B |
+G4D4) |
+.('E2F GB2F3/ G/ |
+E8) |
+.('c c- c B c A B c |
+B4d2).('B3/ B/ |
+A4d2A3/ B/ |
+G8) |]

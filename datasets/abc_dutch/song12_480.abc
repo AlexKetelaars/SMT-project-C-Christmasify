@@ -1,0 +1,26 @@
+X: 11479
+T: Een, twee, drie, vier, Meisje laat je zoenen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:15
+%%humdrum-veritas 2990861920
+%%humdrum-veritas-data 3925077646
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c4B4 |
+A4G4 |
+F F F F E E E E |
+D D D DC2z2) |
+.('c4B4 |
+A4G4 |
+F F F F E E E E |
+D D D DC2z2) |
+.('E GC2E GC2 |
+D E F GA2G2) |
+.('E GC2E GC2 |
+D F E DC2z2) |]

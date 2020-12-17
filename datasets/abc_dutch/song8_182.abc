@@ -1,0 +1,38 @@
+X: 7181
+T: No753
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 1222488377
+%%humdrum-veritas-data 2321321430
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E4{G} F (E/ F/) |
+G z B z e z |
+F4{A} G (F/ G/) |
+A z d z f z) |
+.('E4{G} F (E/ F/) |
+G z B z e z |
+(e2d) !wedge!c !wedge!c !wedge!c |
+(c2B) !wedge!B !wedge!B !wedge!B |
+g b z) .('a/ g/ f e |
+(e2d) !wedge!B !wedge!B !wedge!B |
+(B d e) !wedge!B !wedge!A !wedge!G |
+G4F2) |
+.('f2>a2 a a |
+(a/ g/ f/ g/ a) f d B |
+g2>b2 b b |
+(b/ a/ g/ a/ b) g e B) |
+.('f2>a2 a a |
+(a/ g/ f/ g/ a) f d B |
+(e/ d/) (e/ d/) e c B =A |
+(=A2B)) .('!wedge!c !wedge!c !wedge!c |
+(c2B) !wedge!B !wedge!B !wedge!B |
+(B2A) !wedge!F !wedge!G !wedge!A |
+(B c/ A/)G2F2 |
+(F4E2)) :|]

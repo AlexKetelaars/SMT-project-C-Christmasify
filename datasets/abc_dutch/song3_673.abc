@@ -1,0 +1,26 @@
+X: 2672
+T: Laatstemaal trok ik eens op de jacht en wat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 160220906
+%%humdrum-veritas-data 293960183
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G> G G D G B A D |
+G6).('G A |
+B2B2B d c A |
+B8) |
+.('d> e d> cB2c d |
+e> e e ed4) |
+.('(c e) d c B d e c |
+d2c2B4) |
+.('d> e d> cB2c d |
+e> e e ed4) |
+.('(c e) d c B d e c |
+d2c2B4) |]

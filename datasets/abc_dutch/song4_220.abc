@@ -1,0 +1,31 @@
+X: 3219
+T: Heb je ooit van al je leven [van zo’n rare k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 1457134601
+%%humdrum-veritas-data 255544126
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D2D [I:setbarnb 1]|
+G2G (A B) A |
+G2G).('F2G |
+A2AB2A |
+G2>).('(D2 E) F |
+G2GB2A |
+G2G).('F2G |
+A2GE2F |
+D3).('A2A |
+A2Bc2c |
+B2A).('A2A |
+B2AG2A |
+B2>).('(D2 E) F |
+A2GF2E |
+E2D) .('(D E) F |
+G> G AB2A |
+G3) |]

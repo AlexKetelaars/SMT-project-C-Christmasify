@@ -1,0 +1,23 @@
+X: 2401
+T: In Amsterdam die vergullende stad Daar woont [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 517510716
+%%humdrum-veritas-data 2973366666
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+G2GGBd |
+dedG3) |
+.('ded(Ac)B |
+(A/ B/)cBAD).('(B/ c/) |
+dedGAB/ c/ |
+d(ef/) e/d2).('e |
+d(A/ B/) c/ B/AGG/ A/ |
+BddG2) |]

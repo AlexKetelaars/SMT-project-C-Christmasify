@@ -1,0 +1,50 @@
+X: 17280
+T: mars
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 549831017
+%%humdrum-veritas-data 1762798923
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e e/ e/ e e e e |
+e c e c e c |
+e e g e e g |
+e c e g e c |
+e c e e/ e/ e e |
+!mordent!!mordent!e6) |
+.('!mordent!!mordent!e2>f2g2 |
+!mordent!!mordent!f2>e2 d e |
+!mordent!!mordent!e2>d2 c d |
+!mordent!!mordent!d4d2) |
+.('!mordent!!mordent!e2>f2 g a |
+!mordent!!mordent!f2>e2 d e |
+!mordent!!mordent!e2>f2!mordent!!mordent!d2 |
+e6) |
+.('e e/ e/ e e e e |
+e c e c e c |
+e e g e e g |
+e c e g e c |
+e c e e/ e/ e e |
+e6) |
+.('!mordent!!mordent!e2>d2c2 |
+!mordent!!mordent!B2>B2c2 |
+d2>c2B2 |
+c2!mordent!!mordent!A3B/ c/ |
+!mordent!!mordent!A6) |
+.('g g/ g/ g g g g |
+g d g d g g/ g/ |
+g6) |
+.('!mordent!!mordent!e2>f2g2 |
+!mordent!!mordent!f2>e2 d e |
+!mordent!!mordent!e2>d2 c d |
+!mordent!!mordent!d4d2) |
+.('!mordent!!mordent!e2>f2 g a |
+!mordent!!mordent!f2>e2 d e |
+!mordent!!mordent!e2>f2 !mordent!!mordent!d e/ f/ |
+e6) :|]

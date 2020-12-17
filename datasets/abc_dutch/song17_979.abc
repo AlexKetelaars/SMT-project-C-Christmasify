@@ -1,0 +1,50 @@
+X: 16978
+T: La Gloire
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2953508655
+%%humdrum-veritas-data 1538594194
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('z2d3e |
+f2f2_e2 |
+d4z2) |
+.('z2d3e |
+f2f3f |
+f2e4) |
+.('f2f3f |
+d2d3d |
+d2!mordent!!mordent!^c4 |
+d2).('d3d |
+!mordent!!mordent!=B2B3B |
+c6) |
+.('z2c3c |
+f g f _e d c |
+B2>).('A2 B c |
+d2d3_e |
+d2!mordent!!mordent!c4 |
+B2).('d3d |
+c2!mordent!!mordent!c2B2 |
+A4z2) |
+.('z2B3B |
+c B c d _e c |
+d c d _e f d |
+_e f e d c B |
+A2A2B2 |
+B2!mordent!!mordent!A4 |
+G2).('d3d |
+_e2!mordent!!mordent!c3B |
+A4z2) |
+.('z2B3B |
+c B c d _e c |
+d c d _e f d |
+_e f e d c B |
+A2A2B2 |
+B2!mordent!!mordent!A4 |
+G6) |]

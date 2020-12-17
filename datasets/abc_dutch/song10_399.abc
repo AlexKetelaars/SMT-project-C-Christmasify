@@ -1,0 +1,37 @@
+X: 9398
+T: De Vellinksche meisjes, wij moeten ze prijzen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 4028633000
+%%humdrum-veritas-data 2317473505
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('z D D D/ F/ |
+A A/ A/ A A/ A/ |
+A2A z/) .('A/ |
+^G> A B3/ A/ |
+d2z) .('A |
+B> A A G/ F/ |
+A2G2- |
+G) .('E E3/ E/ |
+G2F2- |
+F) .('E E3/ E/ |
+G2F2- |
+F z).('A2 |
+B2B2 |
+d2).('c B |
+B> A A A |
+A2).('B2 |
+A> G G G |
+G2).('A G |
+G> F F F |
+F2).('A A |
+c3B |
+G3E |
+D2z2) |]

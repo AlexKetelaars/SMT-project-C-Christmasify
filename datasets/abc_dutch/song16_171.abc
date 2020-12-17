@@ -1,0 +1,25 @@
+X: 15170
+T: Was kommt dort von der Höhe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 2483066418
+%%humdrum-veritas-data 1919445242
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G |
+G2z A |
+B B B B |
+B2z) .('c |
+d d e3/ d/ |
+d cc2) |
+.('B2d2 |
+B A A d |
+B B A A |
+G2z) |]

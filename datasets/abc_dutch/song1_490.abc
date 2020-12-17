@@ -1,0 +1,27 @@
+X: 490
+T: Soet Geselschap dat met my 's Hemels Heersch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 566255730
+%%humdrum-veritas-data 1564926247
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('(G A) (B c)d2A2 |
+B2G2A4) |
+.('(D E) (F D)G2(A F) |
+E2>D2D4) |
+.('D2D2G2F2 |
+_E2>D2C2C2) |
+.('(F G) (F _E)D2(E D) |
+C2>B,2B,4 |
+z4).('(B, C) (D _E) |
+F2F2G2(A G) |
+^F2>F2) .('(G A) (B c) |
+(d c) (B c2<)A2G |
+G8) :|]

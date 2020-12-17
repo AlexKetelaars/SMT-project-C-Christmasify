@@ -1,0 +1,38 @@
+X: 10892
+T: Liefsten, o bruid! o ‘s werelds ijdelheide!  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 3803420643
+%%humdrum-veritas-data 2050940217
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d2d3/ e/ |
+d3c |
+B A G A |
+B2!fermata!B2) |
+.('d> c B3/ c/ |
+d c B c |
+d3c |
+!fermata!B4) |
+.('d2d3/ e/ |
+d2d c |
+B A G A |
+B2!fermata!B2) |
+.('d> c B c |
+d c B c |
+(dc2)c |
+!fermata!B4) ]|:
+.('d2c B |
+{A}c2B A |
+G> B c3/ B/ |
+!fermata!A2).('B c |
+d> e d c |
+B> B d3/ c/ |
+(BA2)A |
+G2-G z) :|]

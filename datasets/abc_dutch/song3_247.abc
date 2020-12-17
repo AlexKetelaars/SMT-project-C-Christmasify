@@ -1,0 +1,15 @@
+X: 2246
+T: Daar was laatstmaal een heidens kind
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 2736944466
+%%humdrum-veritas-data 4073782026
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 5/4
+Q: 1/4=120
+K: G clef=treble
+.('G/ A/B2GBe2<d2).('defg2fed2-d2).('dg2Beee/ e/cded2).('dBGd2BAG2-G2).('dg2Beee/ e/cded2).('dBGd2BAG2-G2) |]

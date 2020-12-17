@@ -1,0 +1,34 @@
+X: 5980
+T: Ammarantie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1464691037
+%%humdrum-veritas-data 1049886024
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B>cB3/A/ |
+G2G2 |
+d2d2) |
+.('e>fgc |
+B2A2 |
+G2G,2) :|]
+.('d2d3/d/ |
+d3d |
+e>de3/f/ |
+g2d2) |
+.('e2d3/c/ |
+B3z/ B/ |
+c>dc3/B/ |
+A2A2) |
+.('B>dB3/A/ |
+G2G2 |
+d2d2) |
+.('efgc |
+B2A2 |
+G2) |]

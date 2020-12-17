@@ -1,0 +1,28 @@
+X: 1780
+T: Komt hier gij jonkmans wie gij zijt Ik moet  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 1912075305
+%%humdrum-veritas-data 1831370542
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('GAc |
+(Gc)e |
+(de)c |
+[M:2/4]Az) |
+[M:3/4].('fed |
+c2B |
+AGz) |
+.('GAc |
+G2c |
+(de)c |
+[M:2/4]Az) |
+[M:3/4].('f/ f/ed |
+(cd)B |
+AGz) |]

@@ -1,0 +1,27 @@
+X: 6001
+T: Broeder Miggel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3057200133
+%%humdrum-veritas-data 1627176649
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('e/ d/ [I:setbarnb 1]|
+cAAB/ c/ |
+dBB).('e/ d/ |
+cB/ A/BA/ G/ |
+A4) :|]
+.('ee/ e/ee |
+fdd2) |
+.('ff/ f/ff |
+gee).('e/ d/ |
+cAAB/ c/ |
+dBB).('e/ d/ |
+cB/ A/BA/ G/ |
+A2) |]

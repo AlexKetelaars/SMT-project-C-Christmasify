@@ -1,0 +1,22 @@
+X: 15223
+T: Niet zoo gauw
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 4286136104
+%%humdrum-veritas-data 3238885486
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('ccc2 |
+AAA2 |
+FAdc |
+c=B_B2) |
+.('BBB3/A/ |
+GGG2) |
+.('dcBG |
+(FA)F2) |]

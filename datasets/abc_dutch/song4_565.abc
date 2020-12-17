@@ -1,0 +1,29 @@
+X: 3564
+T: ... toen had hij nog zo’n ouwe jas En die mo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 1598900826
+%%humdrum-veritas-data 3465438958
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2Bc2B |
+B2A A) .('B A |
+G2GA2A |
+B3-B2).('D |
+B2Bc2B |
+B2AA2).('A |
+A A AB2A |
+A2GG2).('G/ G/ |
+E2GG2E |
+B3-B2).('d/ d/ |
+d2cA2c |
+e2dG2).('B |
+B2A c B A |
+G3-G2) |]

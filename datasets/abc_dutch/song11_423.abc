@@ -1,0 +1,78 @@
+X: 10422
+T: Concerto 185
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 3904854202
+%%humdrum-veritas-data 3019831664
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f2 e d c2 B2 A2 F2 A2 c2 |
+f4g4a2 g a f2 a2 |
+g c' g c' g c' g c' a2 c'2 z2 a2 |
+g c' g c' g c' g c' a2 c'2 z2) .('f2 |
+e d c e f e d f g f e g a g f a |
+=b a g b c'2 f2e4d4 |
+c4z C D E F G A B c2 _E2 |
+_E2 D2 z D =E F G A =B c d2 F2 |
+F2 E2 z E F G A =B c d e2 G2 |
+G2 F2 z F G A B c d e f2 A2 |
+A2 G2 z G A B c d e f g2 B2) |
+.('A f e f d f e f d f e f d f e f |
+c f e f c f e f d f e f d f e f |
+c f e f c f e f B f e f B f e f |
+A f e f A f e f G f e f G e d e) |
+.('f2 e d c2 B2 A2 F2 A2 c2 |
+f4g4a2 g a f2 a2 |
+g c' g c' g c' g c' a2 c'2 z2 a2 |
+g c' g c' g c' g c' a2 c'2 z2) .('a2 |
+g f g a f e f g e g e g e g e g |
+d g d g d g d g e g e g e g e g |
+d g d g d g d g e g f g e d c =B |
+A a g a f e d c =B d c d B c A B) |
+.('G =B A B G B A B G c B c G c B c |
+A c =B c A c B c A d c d A d c d |
+=B d c d B d c d B e d e B e d e |
+c e d e c e d e c f e f c f e f |
+=B G A B c d e f g c d e f g a =b |
+c'4z) .('c =B c E c B c D B A B |
+c2 =B A G2 F2 E2 C2 E2 G2 |
+c4d4e2 d e c2 e2) |
+.('d g d g d g d g e2 g2 z2 e2 |
+d g d g d g d g e2 g2 z2 e2 |
+f e f d f e f d ^f e f d f e f d |
+g ^f g d g f g d ^g f g e g f g e |
+a2 A2 c2 e2) .('a2 g f e2 d2 |
+c4=B4A a g a e a g a |
+f a g a f a g a d g f g d g f g |
+e g f g e g f g c f e f c f e f |
+d f e f d f e f =B e d e B e d e) |
+.('c A c e a A c e a A c e a A c e |
+a A G A C A G A D A G A D A G A |
+E A G A E A G A F A G A F A G A) |
+.('C A G A C A G A D A G A D A G A |
+E A G A E2 ^G2) .('A2 =G F E2 D2 |
+C2 A,2 C2 E2A4=B4 |
+c2 =B cA4c2 B A G2 F2 |
+E2 C2 E2 G2c4d4 |
+e2 d ec4f2 e d c2 B2 |
+A2 F2 A2 c2f4g4 |
+a2 g a f2 c2) .('d f e f d f e f |
+c f e f c f e f d f e f d f e f |
+c f e f c f e f B f e f B f e f |
+A f e f A f e f G f e f G e d e |
+f4z) .('C D E F G A B c2 _E2 |
+_E2 D2 z D =E F G A =B c d2 F2 |
+F2 E2 z E F G A B c d e2 G2 |
+G2 F2 z F G A B c d e f2 A2 |
+A2 G2 z G A B c d e f g2 B2 |
+A2 f2 G2 e2) .('f2 e d c2 B2 |
+A2 F2 A2 c2f4g4 |
+a2 g af4f2 e d c2 B2 |
+A2 c2 f2 A2 G2 f2 C2 e2 |
+f16) |]

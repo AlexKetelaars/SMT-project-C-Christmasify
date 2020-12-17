@@ -1,0 +1,31 @@
+X: 15128
+T: Een muisje speelde dicht bij poes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1938684735
+%%humdrum-veritas-data 2984366957
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+G B G F A F |
+E G EB,2B, |
+A2A G B G |
+F3z2).('B |
+G2G A G A |
+B2e c A F |
+E2EG2F |
+E3z2).('B |
+C2C =E c B |
+{c} B A GA2A |
+D2FB2A |
+G3z2).('B/ A/ |
+G2G {B} A G A |
+B2e c A F |
+E2EG2F |
+E3z2) |]

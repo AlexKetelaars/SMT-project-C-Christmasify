@@ -1,0 +1,41 @@
+X: 16154
+T: Myn Lief Klorimeen, gy kunt my behaagen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 1984120408
+%%humdrum-veritas-data 923263909
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('E, [I:setbarnb 1]|
+A,2^G,3/G,/ |
+A,3).('E, |
+E,2C,3/B,/ |
+C,2A,).('F, |
+C,2D,D, |
+E,2).('^F,3/G,/ |
+(A,/ B,/ G,/ A,/ B,/ C/ A,/ B,/- |
+B,2)B,A, |
+B,2E,x) ||
+[M:3/4].('xxA, [I:setbarnb 11]|
+A,G,F, |
+E,E,E, |
+F,G,A, |
+(G,2G,) |
+C,>).('C, D,/ E,/ |
+F,E,D, |
+C,B,A, |
+^G,2).('E, |
+(A,-A,/> G,/ A,// G,// A,// F,// |
+E,)D,3/D,/ |
+(G,-G,/> F,/ G,// F,// G,// D,// |
+E,)C,3/).('C/ |
+B,^G,A, |
+E,F,D, |
+E,(E,/ D,/)E, |
+A,2) :|]

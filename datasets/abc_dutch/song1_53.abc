@@ -1,0 +1,30 @@
+X: 53
+T: Ghy die de Liefd' onmog'lijck acht te zijn,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 1821547334
+%%humdrum-veritas-data 4055547339
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2GD |
+G3G |
+DGGA |
+B4) |
+.('B2BA |
+B3B |
+ABcd |
+d4) |
+.('d2dd |
+d3d |
+Bdde |
+d4) |
+.('g2g^f |
+g3g |
+^fgaf |
+g4) |]

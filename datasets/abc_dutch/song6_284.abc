@@ -1,0 +1,21 @@
+X: 5283
+T: Wie met de speelman mee wil gaan Die komt de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3232027775
+%%humdrum-veritas-data 1124080201
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C/ [I:setbarnb 1]|
+FG/AB/ |
+cc/c).('c/ |
+dc/BA/ |
+GG/F).('B/ |
+AA/Gc/ |
+F3/-F) |]

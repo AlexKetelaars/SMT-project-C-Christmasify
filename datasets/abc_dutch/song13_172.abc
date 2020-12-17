@@ -1,0 +1,36 @@
+X: 12171
+T: Hoort Vrienden naar mijn lied; In Pruisen is [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 2450832214
+%%humdrum-veritas-data 111337602
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+E2GB2c |
+B2).('BA2G |
+F2GE2).('E |
+F2G (A G) F |
+G2AB2).('B |
+c2c (e d) c |
+B3G2c |
+B3=A3 |
+B3z2).('B |
+c2Bc2B |
+e3z2).('B |
+(e d) cB2G |
+E2GA2G |
+F3z2z) |
+.('A G FE2E |
+F2>G2 (A G) |
+F3z2).('B |
+G3z2A |
+B2cd3 |
+c3B2B |
+(A G F)E3) |]

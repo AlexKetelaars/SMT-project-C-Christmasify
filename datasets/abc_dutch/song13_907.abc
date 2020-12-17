@@ -1,0 +1,70 @@
+X: 12906
+T: En las Cabezas el proclamo La suspira da con [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 958656928
+%%humdrum-veritas-data 3575743989
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('A B =B |
+c2f |
+e f d |
+(c2A)) |
+.('A B =B |
+c2f |
+e f d |
+c2z) |
+.('A B =B |
+c2f |
+e f d |
+(c2A)) |
+.('A B =B |
+c2f |
+e f d |
+c2z) |
+.('B B B |
+d2B |
+B B B |
+B2G) |
+.('F A c |
+(f> c) A |
+B G c |
+F2z) |
+.('B B B |
+d2B |
+B B B |
+B2G) |
+.('F A c |
+(f> c) A |
+B G c |
+F2z) |
+.('G G G |
+(c> =B) c |
+d c d |
+e2z) |
+.('e e f |
+(e> f) e |
+d e d |
+c2z) |
+.('B B B |
+d2B |
+G G G |
+B2G) |
+.('F A c |
+(f> c) A |
+B G c |
+F2z) |
+.('B B B |
+d2B |
+G G G |
+B2G) |
+.('F A c |
+(f> c) A |
+B G c |
+F2z) |]

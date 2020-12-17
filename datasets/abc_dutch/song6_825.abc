@@ -1,0 +1,43 @@
+X: 5824
+T: Er was een maagdetje zuiver en net, In David [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2844569516
+%%humdrum-veritas-data 3624617963
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+(F2B)B |
+B2cd |
+{f}(ed)cB |
+A2z).('F |
+F2G2 |
+D3E |
+F4 |
+B2z).('F |
+(F2B)B |
+B2(cd) |
+{f}(ed)cB |
+A2z).('F |
+F2G2 |
+D3E |
+F4 |
+B2z).('F |
+(F2B)B |
+c2d2 |
+e2d2) |
+.('f2ed |
+(c2d)B |
+(AG)!fermata!F).('B |
+(BA)(AG) |
+F3E |
+DEF2 |
+z).('(FB)c |
+!fermata!d2cB |
+B2z) |]

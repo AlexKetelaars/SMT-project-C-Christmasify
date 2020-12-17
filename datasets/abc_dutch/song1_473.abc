@@ -1,0 +1,26 @@
+X: 473
+T: Looft den Heer gy Cherubijnen! Looft den Hee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 468040
+%%humdrum-veritas-data 2813080145
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2>c2 d c B c |
+A A) .('e f g e d3/ c/ |
+c4z2).('B c |
+d f e> d d d) .('c B |
+A e d> dc4) |
+.('A2>c2 d e e3/ ^d/ |
+e e) .('e d c B A3/ G/ |
+G2).('B c d e f e |
+d d) .('e f g e d3/ c/ |
+c4).('e3e |
+d e c d B B) .('c d |
+e (d/ c<) B A/A4) |]

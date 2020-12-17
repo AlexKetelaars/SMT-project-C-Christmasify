@@ -1,0 +1,32 @@
+X: 6010
+T: [...] Den slegten tijt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2439212913
+%%humdrum-veritas-data 1605185273
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E2 [I:setbarnb 1]|
+A2>^G2A3B |
+c2d cc2G2 |
+c2d cd2e f |
+e6).('c2 |
+f2g ed2e c |
+B2c A^G2A B |
+c2d2c BA2 |
+A6) :|]
+.('e2 [I:setbarnb 9]|
+e2>d2e3f |
+g2a gg2c2 |
+d2e f e fd2 |
+e6).('c2 |
+f2g ed2e c |
+B2c A^G2A B |
+c2d2c2B A |
+A4) |]

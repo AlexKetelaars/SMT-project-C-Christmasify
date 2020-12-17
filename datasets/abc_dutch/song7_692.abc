@@ -1,0 +1,21 @@
+X: 6691
+T: Har(en) minnaar kwam daar aangetreden, Har(e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 1807768121
+%%humdrum-veritas-data 2340835170
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d d c [I:setbarnb 1]|
+B4B B |
+(c2B2)c2 |
+d2!fermata!e) .('d d c |
+B4B B |
+(A2G2)A2 |
+B6) |]

@@ -1,0 +1,30 @@
+X: 12952
+T: Roe roe kindje, hoe ben je toch zo stout? He [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 3369469025
+%%humdrum-veritas-data 3428069583
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A3/B3/ |
+A3/FF/ |
+AA/BB/ |
+A3/-Az/) |
+.('AA/ B/ B/ B/ |
+A3/FF/ |
+AA/BB/ |
+A>-A z/) .('F/ |
+G/ G/ G/GE/ |
+G3/G3/ |
+GG/GE/ |
+A3/A3/) |
+.('DE/FG/ |
+A3/A3/ |
+BA/GF/ |
+E3/D3/) |]

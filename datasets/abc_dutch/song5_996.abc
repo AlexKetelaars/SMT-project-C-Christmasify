@@ -1,0 +1,21 @@
+X: 4995
+T: Drie schuin-tamboers die kwamen uit het Oost [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1193267923
+%%humdrum-veritas-data 488788103
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B> AG3).('D |
+G A B cd2(c B)) |
+.('A2A> AA3).('^G |
+A B c de2d) .('c |
+B2(3G z G (3G F E D z/) .('D/ |
+G A B cd2c z/ A/ |
+G2z2z4) |]

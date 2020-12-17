@@ -1,0 +1,40 @@
+X: 14776
+T: Impromptu de F. Schubert
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 4018795075
+%%humdrum-veritas-data 108493400
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GG3/A/ |
+GF3/A/ |
+AGA |
+B2).('D |
+BB3/c/ |
+BA3/B/ |
+AG(d/ c/) |
+B2).('d |
+gg3/a/ |
+gf3/a/ |
+aga |
+b2).('d |
+bb3/a/ |
+a^g3/a/ |
+agf |
+g2z/) ||
+.('d'/ [I:setbarnb 17]|
+d'd'3/b/ |
+bb3/g/ |
+gac' |
+b2).('z/ e'/ |
+e'e'3/c'/ |
+c'c'3/g/ |
+gc'_e |
+!fermata!d2) |]

@@ -1,0 +1,40 @@
+X: 16999
+T: Prelude
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 3664468453
+%%humdrum-veritas-data 2039477457
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z F G A B c d e |
+f g f g2<!mordent!!mordent!g2f/ g/ |
+a6).('z a |
+g2>g2!mordent!!mordent!g3f/ e/ |
+f2>f2f3g/ a/ |
+d2>d2!mordent!!mordent!^c3).('d/ A/ |
+B2>c2!mordent!!mordent!A3d |
+!mordent!!mordent!=B2>G2_e4- |
+e2>d2d4- |
+d2z/ d/ c/ B/c4 |
+d2>d2!mordent!!mordent!=B3c |
+c2>).('e2e3e |
+f2>f2!mordent!!mordent!^f3f |
+g2>a2!mordent!!mordent!a3g |
+g2>).('d2 d e f g |
+!mordent!!mordent!e2>e2f3f |
+f2>g2!mordent!!mordent!e3f |
+f2>).('A2A3A |
+B2c dc2d _e |
+d2>f2b3b |
+b2a b2<!mordent!!mordent!g2f |
+f2>).('A2A3A |
+B2c dc2d _e |
+d2>f2b3b |
+b2a b2<!mordent!!mordent!g2f |
+f8) |]

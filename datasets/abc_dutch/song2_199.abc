@@ -1,0 +1,29 @@
+X: 1198
+T: In de duisternis der bossen In een hut met l [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 2160579129
+%%humdrum-veritas-data 1189156157
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+B2>G2D3C |
+(B, D)G4).('B B |
+A2B2c2B2 |
+(A d e dA2)).('F E |
+D2A2(A2B) ^c |
+d6).('d d |
+c2>c2B3B |
+(B A)A2z2).('D D |
+c2>c2B3B |
+(B A)A2z2).('B A |
+G2G2A2(B c) |
+[M:2/4](d c)) .('B A |
+[M:4/4]E2c2B2A2 |
+G6) |]

@@ -1,0 +1,34 @@
+X: 13037
+T: 't Schip moet zeilen ‘t scheepje ligt aan wal
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 2282429617
+%%humdrum-veritas-data 584275051
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('FE |
+DC |
+D/ C/ D/ E/ |
+F3/z/) |
+.('FE |
+DC |
+D/ C/ D/ E/ |
+[M:6/8]F3/z).('A/ |
+BA/GF/ |
+ED/EF/ |
+Gz/Gz/ |
+G3/z).('A/ |
+BA/GF/ |
+ED/EF/ |
+Gz/Gz/ |
+G3/z).('C/ |
+FG/AB/ |
+cd/cB/ |
+Az/Gz/ |
+F3/z3/) |]

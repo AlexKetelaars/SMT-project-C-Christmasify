@@ -1,0 +1,31 @@
+X: 4974
+T: O schittrende kleuren van Nederlands vlag, w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1261832664
+%%humdrum-veritas-data 2513509656
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2F FA2G F |
+E2G> Gc3).('B |
+A2B AG2c3/ c/ |
+F6).('C2 |
+F2F> Ac2c3/ c/ |
+(=B c) d> Gc2z) .('G |
+c2e> cG2A =B |
+c6).('c2 |
+B2c> B (A G) F E |
+(F G) A> Bc3).('A |
+B2G> BA2F A |
+c2B AG2z) .('C |
+F2F> Ac2c3/ A/ |
+B2d> df2z) .('d |
+c2A cc2d e |
+f4z2z) |]

@@ -1,0 +1,32 @@
+X: 7225
+T: Verheugt u met een nieuwen geest Op dese gro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 2201417525
+%%humdrum-veritas-data 1109464012
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('z z cc2d |
+(c B) A (G F) G |
+F2>).('F2 A B |
+c2c (c d) e |
+f2).('ff2f |
+(f e) d (c =B) d |
+c2).('cd2d |
+(d e) f (e d) c |
+c2z) .('c d e |
+f2f (f e) f |
+{e}d2>).('d2 c B |
+(A B) cB2A |
+G2z) .('c d e |
+f2f (f e) f |
+d2>-d2 z) .('f |
+f2c (d c) B |
+A2>G2 F E |
+F3-F2z) |]

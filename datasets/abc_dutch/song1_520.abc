@@ -1,0 +1,102 @@
+X: 520
+T: Israels Heyr! Israels Heyr! Ons Vader! Vader [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 2201712426
+%%humdrum-veritas-data 3727543463
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A3G/ F/ |
+E2c2- |
+c2BA |
+^G4) |
+.('A2E2- |
+EEG2 |
+FED2 |
+E2).('B2 |
+c2A2 |
+B2^G2 |
+AcBA |
+^G2).('c2 |
+BA(A2- |
+A^G/ ^F/G2) |
+A4) |
+.('A3G/ F/ |
+E2c2- |
+c2BA |
+^G4) |
+.('A2E2- |
+EEG2 |
+FED2 |
+E2).('B2 |
+c2A2 |
+B2^G2 |
+AcBA |
+^G2).('c2 |
+BA(A2- |
+A^G/ ^F/G2) |
+A4) |
+.('c2BA |
+G(c2B/ A/ |
+B2)c2) |
+.('G2EA- |
+A^GAF |
+E2z).('D/ E/ |
+F2zF/ G/ |
+A2zA/ B/ |
+c2z).('G/ A/ |
+B>cd2 |
+zD/ E<FG/ |
+A2z).('c- |
+cBAc |
+BA^G2- |
+G4) |
+.('c2BA |
+G(c2B/ A/ |
+B2)c2) |
+.('G2EA- |
+A^GAF |
+E2z).('D/ E/ |
+F2zF/ G/ |
+A2zA/ B/ |
+c2z).('G/ A/ |
+B>cd2 |
+zD/ E<FG/ |
+A2z).('c- |
+cBAc |
+BA^G2- |
+G4) |
+.('^G2AB |
+c2BA |
+A4 |
+^G2A2- |
+A).('cBc |
+A2^G2- |
+G4 |
+z2).('e2 |
+Bd2A |
+c2B2 |
+A2^G2) |
+.('c2BA |
+(A^G/ ^F/G2) |
+A4) |
+.('^G2AB |
+c2BA |
+A4 |
+^G2A2- |
+A).('cBc |
+A2^G2- |
+G4 |
+z2).('e2 |
+Bd2A |
+c2B2 |
+A2^G2) |
+.('c2BA |
+(A^G/ ^F/G2) |
+A2-A2) |]

@@ -1,0 +1,27 @@
+X: 2260
+T: Er waren twee rijke heren Zij aten en ze dro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 1066931247
+%%humdrum-veritas-data 1459814881
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2B BB2A2 |
+G2G2z2).('G2 |
+B> B B> d B> B (3A A G |
+B2A2z2).('B2 |
+B> B B> B B> B d3/ d/ |
+d d c BA2).('G2 |
+F A A AA2B c |
+B> B A> AG2).('B2 |
+B> B B> B B> B d3/ d/ |
+d d c BA2).('G2 |
+F A A AA2B c |
+B> B A> FG2) |]

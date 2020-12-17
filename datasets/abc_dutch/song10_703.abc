@@ -1,0 +1,30 @@
+X: 9702
+T: De liefde doet veel brave jongmans zuchten a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3600602527
+%%humdrum-veritas-data 2228250606
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('c [I:setbarnb 1]|
+c2BBA2DD |
+F2G2A2A).('A |
+F2(EF)GAGF |
+E4).('G2AB |
+A2G2F2(EF) |
+G2A).('GFFEF |
+GCAG!fermata!F2z).('A |
+A2c2BBAG |
+A2(GA)F2F2) |
+.('A2GFEDEF |
+(GF)(ED)!fermata!C2).('c2 |
+c2c2dcBA |
+G2(AB)A2G2) |
+.('F2G2A2G2 |
+BAGAF2z2) |]

@@ -1,0 +1,22 @@
+X: 1000
+T: Torentje torentje bussekruit Wat hangt eruit?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 2947410634
+%%humdrum-veritas-data 3051894461
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d d e e e |
+d2dB2).('e |
+d2dB2e |
+d2dB2).('G |
+d2de2e |
+d3B3) |
+.('g d d B B B |
+A3G3) |]

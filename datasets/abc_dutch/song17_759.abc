@@ -1,0 +1,38 @@
+X: 16758
+T: Carnaval anglois
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 227545076
+%%humdrum-veritas-data 1348184269
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B d |
+c A F D |
+G B d g |
+d2B2) |
+.('c2A c |
+B A B G |
+c A F D |
+G2!fermata!G,2) |
+.('d2B c |
+d f g e |
+d2B c |
+d2G2) |
+.('g2e g |
+f e f d |
+e2^c2 |
+d c B A) |
+.('G2B d |
+c A F D |
+G B d g |
+d2B2) |
+.('c> e A3/ c/ |
+B> d G3/ B/ |
+A> c D3/ F/ |
+G4) |]

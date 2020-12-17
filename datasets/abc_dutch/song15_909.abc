@@ -1,0 +1,32 @@
+X: 14908
+T: Quelle douleur Quand un destin barbare
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 1355864741
+%%humdrum-veritas-data 3634949900
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=132
+K: C clef=treble
+.('cG{G}G |
+{G}G3 |
+Gcd |
+e(f/ e/)d) |
+.('e!trill!!trill!d/ c/ !trill!!trill!B/ A/ |
+G2c |
+dB2 |
+c3) |
+.('dd{d}d |
+{d}d3) |
+.('dBG |
+d2e |
+f2e |
+d2c) |
+.('GG{A}G |
+{F}E2c |
+dB2 |
+c3) :|]

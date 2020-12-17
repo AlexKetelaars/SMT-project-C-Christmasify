@@ -1,0 +1,31 @@
+X: 4535
+T: De koster van Bergeyk Dat is een kelder rijk.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3563343608
+%%humdrum-veritas-data 1069559822
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B> B A B |
+G3).('B |
+d> d c d |
+B3).('d |
+d> d e3/ d/ |
+dc2).('c/ c/ |
+c> A d3/ c/ |
+cB2).('d |
+d> d d d |
+e> ee2) |
+.('c> c c c |
+d> dd2) |
+.('G A B c |
+d e f g |
+a2f2 |
+g3) |]

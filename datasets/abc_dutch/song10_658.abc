@@ -1,0 +1,32 @@
+X: 9657
+T: Hier is de pot, en daar is de pan, En daar i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 2783966461
+%%humdrum-veritas-data 4249855716
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C/ D/ E/FF/ |
+F/ A/ G/F3/) |
+.('BA/GF/ |
+ED/C3/) ||
+[M:2/4].('C/ A/G [I:setbarnb 6]|
+C/ A/G) ||
+[M:6/8].('F3/ED/ [I:setbarnb 8]|
+D3/CC/ |
+c3/cc/ |
+c3/-c3/) |
+.('cc/cc/ |
+cB/AG/ |
+c>cc |
+F).('F/FA/ |
+c3/B3/ |
+AE/FG/ |
+c3/E3/ |
+F3/-F3/) |]

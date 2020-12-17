@@ -1,0 +1,31 @@
+X: 10878
+T: Eéne. Om te winnen of om te verliezen, Of om [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3507150645
+%%humdrum-veritas-data 1233574003
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F3c3 |
+c2c c c d |
+c c BA2G) |
+.('c2c (d c) c |
+B A GA2A) :|]
+.('x3F2A |
+c2cc2d |
+c2Ac2d |
+c2).('A c B A |
+B c dc2B |
+A3).('c2c |
+A2>c2 c c |
+d c c B A G |
+A2).('A c c c |
+d d dA2G |
+A2).('cA2G |
+F3z2z) |]

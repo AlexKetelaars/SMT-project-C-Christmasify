@@ -1,0 +1,32 @@
+X: 16371
+T: Hoe droevig is het leven, Van een die geld bezit
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1752158138
+%%humdrum-veritas-data 1167785129
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2 [I:setbarnb 1]|
+d2(c B) (f e) (d c) |
+(B A)B4).('F2 |
+G2(A B)c2B2 |
+{B2}A6).('c2 |
+(d B) (A G) (c A) (G F) |
+(B A)B4).('(c B) |
+A2(3(d c B)A2G2 |
+F6) |
+.('F2 [I:setbarnb 9]|
+f2F2A2c2 |
+(e d)e4).('(d c) |
+d2(c d)e2d2 |
+{d2}c6).('f2 |
+(G B) (A c) (B d) (c e) |
+(d e)f4).('g2 |
+f2(B c2<)!trill!!trill!c2B |
+B6) :|]

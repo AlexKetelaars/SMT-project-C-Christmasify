@@ -1,0 +1,22 @@
+X: 15184
+T: Jij komt van avond de deur niet meer uit
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 4135088865
+%%humdrum-veritas-data 853703708
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('F2F> FF2^E3/ F/ |
+A2G> FG2z2) |
+.('G2G> GG2F3/ G/ |
+B2A> ^GA2z2) |
+.('A2A> AA2^G3/ A/ |
+c2B> ^AB2z) .('B |
+B2A FA2G E |
+D6z2) |]

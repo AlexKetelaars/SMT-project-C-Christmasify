@@ -1,0 +1,32 @@
+X: 4816
+T: Ik heb een wit-zwart spiegeltje gevonden 'k  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 3947250899
+%%humdrum-veritas-data 1900240493
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G2 |
+A2A2 |
+d d d3/ c/ |
+B2A2) |
+.('G> GG2 |
+A2A2 |
+d2d3/ c/ |
+B2A2) |
+.('G> G G3/ F/ |
+E2D2) |
+.('G> G G3/ F/ |
+E2D2) |
+.('c> c c3/ c/ |
+B> B B3/) .('B/ |
+A> A A3/ A/ |
+(3G G G G3/) .('c/ |
+B2G3/ c/ |
+B2G2) |]

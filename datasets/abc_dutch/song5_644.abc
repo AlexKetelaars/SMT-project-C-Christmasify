@@ -1,0 +1,26 @@
+X: 4643
+T: En ik gink er lest op out Al mee m'n tasse v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3289100413
+%%humdrum-veritas-data 308051084
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d3/ d/ [I:setbarnb 1]|
+B G A D |
+G2).('d2 |
+B d B/ B/ d |
+d cA2) |
+.('G/> G/ A B/> B/ c |
+d d d) .('d/ d/ |
+d D F D |
+[M:3/4]G G G G G G |
+[M:2/4](G E D)) .('D/ D/ |
+E E F F |
+G3) |]

@@ -1,0 +1,31 @@
+X: 4736
+T: Klein Jantje kwam me laatst tegen en hij vro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 3714051091
+%%humdrum-veritas-data 1767288092
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ d/ [I:setbarnb 1]|
+GAB/ B/c |
+d2BB/ B/ |
+c2AA |
+B2G).('G |
+GAB/ B/c |
+d2BB/ B/ |
+c2AA |
+B2G).('d |
+GABc |
+d>dd).('d |
+GABc |
+d>dd).('d |
+GABc |
+d2d).('d |
+GABc |
+d2d) |]

@@ -1,0 +1,34 @@
+X: 5227
+T: Een zonderling geval wat ik hier zingen zal  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 593713455
+%%humdrum-veritas-data 2039707840
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+D2FA2B |
+[M:9/8]A2AB2AG2A |
+[M:6/8]F3-F2).('A |
+(A G) FE2F |
+(G F) GA2).('A |
+(B A) A (d c) B |
+[M:9/8]A3B2>A2 A ^G |
+[M:6/8]A3-A2).('A |
+B2AA2A |
+d3-d2).('A |
+(d c) BA2F |
+G2A B A G |
+[M:9/8]F3-F2).('FF2E |
+[M:6/8]D2DE2A |
+(G F) Ez2).('A |
+D2FA2B |
+A3).('B3 |
+A2F (A G) E |
+D3-D2) |]

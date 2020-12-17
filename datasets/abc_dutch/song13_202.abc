@@ -1,0 +1,23 @@
+X: 12201
+T: Naar ‘t Rozeland, zoo zijnen wij gevaren; En [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 2017682429
+%%humdrum-veritas-data 299547410
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D E [I:setbarnb 1]|
+F> E F> G A> A B3/ B/ |
+(A2>G2)A2).('B3/ B/ |
+A A B A E> B A3/ G/ |
+F6).('A2 |
+B2>A2 B A G F |
+(G2>A2)B2).('B3/ B/ |
+A> G F G (A> B) A3/ G/ |
+F6) |]

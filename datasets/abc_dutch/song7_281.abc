@@ -1,0 +1,31 @@
+X: 6280
+T: Daar was een tijd daar was een tijd, Toen ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 3407190853
+%%humdrum-veritas-data 2907578416
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F/ [I:setbarnb 1]|
+FA/cA/ |
+dB/G).('F/ |
+EG/cB/ |
+A3/-A).('G/ |
+G=B/dG/ |
+ec/G).('G/ |
+AG/FD/ |
+C3/-C).('A/ |
+cB/GB/ |
+dc/A).('c/ |
+dB/fd/ |
+c3/-c).('c/ |
+ed/BG/ |
+dc/A).('F/ |
+cB/GE/ |
+F3/-F) |]

@@ -1,0 +1,59 @@
+X: 9667
+T: Komt mee in het veld, Men koort [!] het gefl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 202333750
+%%humdrum-veritas-data 4029027831
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+F F F |
+B3- |
+B2B |
+B B B |
+c e c |
+B2A |
+G3- |
+G2).('B |
+F2F |
+B3- |
+B3 |
+B2B |
+(c e) A |
+(B2A) |
+G3- |
+G2z) ||
+.('B3 [I:setbarnb 18]|
+A2G |
+(GF2)- |
+F3) |
+.('c2c |
+B2A |
+(AG2)- |
+G) .('(G A) |
+B2B |
+c A F |
+B3 |
+B2A |
+G3- |
+G2z) |
+.('B3 |
+A2G |
+(GF2)- |
+F3) |
+.('c2c |
+B2A |
+(AG2)- |
+G) .('(G A) |
+B2B |
+c A F |
+E3 |
+G2F |
+E3- |
+E2) |]

@@ -1,0 +1,30 @@
+X: 13054
+T: Jongens heb je 't al vernomen Tra la la li t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 2765138472
+%%humdrum-veritas-data 896254382
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D2DF2D |
+A2AF2D) |
+.('E> E EG2C |
+E> D DD2z) |
+.('D2DF2D |
+A2AF2D) |
+.('E> E EG2C |
+E> D DD2z) |
+.('B2B (d c) B |
+B2AA2z) |
+.('G2G (B A) G |
+G2FF2z) |
+.('E> E EG2E |
+D> D FA2).('F |
+E> E EG2C |
+E> D DD2z) |]

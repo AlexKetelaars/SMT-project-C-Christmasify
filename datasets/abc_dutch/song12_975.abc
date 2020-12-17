@@ -1,0 +1,58 @@
+X: 11974
+T: La Duchesse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 1942349960
+%%humdrum-veritas-data 514366890
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('a [I:setbarnb 1]|
+a2>e2f2 |
+c2d f e d |
+^c6) |
+.('!mordent!!mordent!d e c d B c |
+A2>f2e2 |
+c2d3e |
+f6) |
+.('f2g f g a |
+b2g2a g |
+a b2<g2f |
+f4x2) |
+.('e2f3g |
+g a g fe2 |
+d2e3f |
+d2>e2c2) |
+.('A2B A B c |
+d2>f2e2 |
+c2d3e |
+f6) |
+.('e2f g a f |
+g2>f2e2 |
+d2e d e f |
+d2>e2c2) |
+.('A2B3c |
+d2>f2e2 |
+c2d e f g |
+g2>f2f2) |
+[M:2/2].('x6x f |
+d2>e2f3e |
+d2>^c2d3e |
+f4g4 |
+a6).('f2 |
+d2>e2f3e |
+d2>^c2d3e |
+f4g f e f |
+a6).('a2 |
+b2>a2g3g |
+a2>e2f3g |
+c2>B2c3d |
+B4A2B c |
+d2>e2f3g |
+a2>e2 f e f g |
+e2>d2d4) :|]

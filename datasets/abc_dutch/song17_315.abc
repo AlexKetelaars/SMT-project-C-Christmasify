@@ -1,0 +1,44 @@
+X: 16314
+T: Wyl ‘t Nieuwe Jaer ons thans belonkt, Ben ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2156094945
+%%humdrum-veritas-data 2328140992
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('c [I:setbarnb 1]|
+(e d) c |
+(G F) E |
+(3(A/ G/ F/ E) D |
+C2).('c |
+c2d |
+(B c) d |
+(3(e/ d/ c/ B) A |
+G2) |
+.('G [I:setbarnb 9]|
+(B A) G |
+(d c) B |
+(f e) d |
+c {B} A) .('e |
+(e B) ^c |
+(d A) B |
+(c d) c |
+{c}B2).('d |
+(G A) B |
+(c d) e |
+f (f e) |
+{e}d2).('g |
+d2e |
+B2c |
+(G f) e |
+(d c/ B/) (A/ G/)) |
+.('c B A |
+G2f |
+(3(e/ d/ c/ !trill!!trill!d3/) c/ |
+c2) :|]

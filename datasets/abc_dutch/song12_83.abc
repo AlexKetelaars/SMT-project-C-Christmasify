@@ -1,0 +1,30 @@
+X: 11082
+T: Hier komt onze fierde Pinskerblom, En hier k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 897701478
+%%humdrum-veritas-data 672394769
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A2e2e3d |
+c B B de2).('A2 |
+A2e2e2(d c) |
+B4A2z2) |
+.('A2e2e3d |
+c B B de2).('A2 |
+A2e2e2d c |
+B4A2).('(A B) |
+c2B A^G2E2 |
+(A ^G) (A B)c2).('(B c) |
+d2e ee2d c |
+B4A2).('(A B) |
+c2B A^G2E E |
+(A ^G) (A B)c2).('(B c) |
+d e e ee2(d c) |
+B4A2z2) |]

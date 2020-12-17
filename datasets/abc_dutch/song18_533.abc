@@ -1,0 +1,46 @@
+X: 17532
+T: Menuet Mad. du Weldern
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 2291529567
+%%humdrum-veritas-data 3603189841
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=132
+K: G clef=treble
+.('G2G D A D |
+B2B G c A |
+d2d B e c |
+d4g2) |
+.('e2e c d B |
+c2c A B G |
+A2F2G2 |
+A G F E F D) |
+.('G2G D A D |
+B2B G c A |
+d2d B e c |
+d4g2) |
+.('e2e c d B |
+c2c A B G |
+A2E2F2 |
+G6) |
+.('A2F D B G |
+A2d ^cd2 |
+e2^c A f d |
+e2A2G2) |
+.('F2a A g A |
+f A a A g A |
+f ed2^c2 |
+d2>).('d2 e f |
+g2B G A F |
+G2B G c A |
+d2B G F G |
+A2F2E2) |
+.('D2d D c D |
+B D d D c D |
+B AG2F2 |
+G6) :|]

@@ -1,0 +1,39 @@
+X: 17154
+T: Menuet de Chaude fontaine
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 149265872
+%%humdrum-veritas-data 926017988
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+ddd |
+d2f/ e/ |
+ddd |
+d2).('A |
+ddd |
+d2f/ e/ |
+ddd |
+d2).('e |
+fef |
+g2f/ g/ |
+aAd |
+d2e |
+fef |
+aAd |
+d2) |
+.('c/ d/ [I:setbarnb 16]|
+eee |
+eee |
+eee |
+e2).('e |
+ed/ c/ B/ A/ |
+^GAB |
+c/ B<BA/ |
+A2) :|]

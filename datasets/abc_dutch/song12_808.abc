@@ -1,0 +1,28 @@
+X: 11807
+T: Gavotte à la Fronte
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 2124522327
+%%humdrum-veritas-data 1559039982
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d e f g [I:setbarnb 1]|
+a2e2f2d2 |
+e4).('A B c A |
+d2c2B3A |
+A4) |
+.('A2A2 [I:setbarnb 5]|
+d2c2_B3A |
+G2G2).('c3_B |
+A2_B2G3F |
+F4).('F G A B |
+^c2A2B c d e |
+^c2A2).('d e f g |
+a g a f2<e2d |
+d4) :|]

@@ -1,0 +1,53 @@
+X: 5519
+T: De Leeuwenvaen geheven, De vaen van ‘t vader [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 1715488568
+%%humdrum-veritas-data 1587636858
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B/ [I:setbarnb 1]|
+e2>>f2 g z B z |
+(c2>>e2)B3z/ B/ |
+A> B G> AF2z) .('B |
+e2>>f2 g z B z |
+(c2>>e2)B7/B/ |
+e> d c> ff7/).('B/ |
+e2>>f2 f z B z |
+(c2>>e2)B2z3/ B/ |
+A> B G> BF2z) .('B |
+e2>>f2 g z B z |
+(B2>>e2)_d2z z/ d/ |
+d> =A B> f e>) .('BB2- |
+B> =A B> f e> g(g2- |
+g2c>) de2f2 |
+e2z2z2) ||
+.('F2 [I:setbarnb 16]|
+f2>>g2 f z e z |
+(d2c> d)e4- |
+e2(d> c)d4- |
+d> d (3(d c) B c z).('F2 |
+f2>>g2 f z e z |
+(d> c d> e)f4- |
+f2(=e> d)f4- |
+f> f (3(f =e) dd7/).('B/ |
+c> B c> d (e> f)g2 |
+(a2g2)f2e2 |
+(d> B) (e> g)f2z3/) .('B/ |
+c> B c> d (e> f)g2 |
+(a2g2)f2e2 |
+(d> f) (c> f)B2z3/) .('B/ |
+B> =AB4e2 |
+(d ^c)d4B2 |
+B> =AB4_g2 |
+f6).('f2 |
+f4-f> B c3/ d/ |
+(e> f)g4(e3/ d/) |
+c> =Bc4f2 |
+B4-B B) |]

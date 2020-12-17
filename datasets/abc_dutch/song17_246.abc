@@ -1,0 +1,39 @@
+X: 16245
+T: Hoe kom ik zoo dwaas, Te minne die my haat?  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3558800674
+%%humdrum-veritas-data 265930865
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('C, [I:setbarnb 1]|
+(C,/ D,/ C,/) D,/ (E,/ F,/) (E,/ F,/) |
+G,3E, |
+D,>C,B,C, |
+G,3).('G,/ F,/ |
+(E,/ D,/ C,/ B,/)A,E, |
+A,3A, |
+^F,2G,3/A,/ |
+D,3).('D, |
+G,>^F,G,A, |
+^F,2G,A, |
+(B,>A,) (G,/ A,/) (B,/ C/) |
+DD,z).('D, |
+E,2E,^F, |
+G,A,/ B,/G,G, |
+^F,D,z).('D, |
+G,2G,F, |
+(E,F,/ G,/ A,/ G,/ A,/ B,/) |
+CC,zE, |
+(D,C,)B,C, |
+G,2z).('E, |
+(F,/ A,/ G,/ B,/ A,/ C/ B,/ D/ |
+C)C,zE, |
+D,C,/ F,/G,G,/ G,/ |
+C,3) :|]

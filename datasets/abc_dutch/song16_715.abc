@@ -1,0 +1,62 @@
+X: 15714
+T: 185
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:56
+%%humdrum-veritas 43978110
+%%humdrum-veritas-data 559312100
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=132
+K: Eb clef=treble
+.('g2(f// g// a/) |
+g2(f// g// a/) |
+gfe |
+(d/ c/) d/ e/ d/ e/) |
+.('fff |
+(f/ a/) g/ f/ e/ d/ |
+e/ d/c!trill!!trill!=B |
+c3) |
+.('e2f |
+dc/ d/B |
+A/ G/ F/ G/ A/ B/ |
+AG/ F/G) |
+.('e/ d/ c/ d/ e/ f/ |
+d(b/ =a/) b/ c/ |
+d(e/ d/) c/ d/ |
+!trill!!trill!B2B) |
+.('eBE |
+_dc/ B/c |
+fcF |
+ed/ c/d) |
+.('gdG |
+ed/ e/c |
+dG!trill!!trill!=B |
+c3) |
+.('C/ D/EF |
+E/ D/CF |
+EDC |
+(G/ F/) G/ =A/ =B/ c/) |
+.('d=BG |
+d=BG |
+cFG |
+C3) |
+.('E/ F/GA |
+BAG |
+FDB, |
+!trill!!trill!E2E) |
+.('c{B}=A{G}F |
+!trill!!trill!B2B |
+DEF |
+B,BA) |
+.('GGG |
+AAA |
+=AA/ B/ c/ A/ |
+BBB) |
+.('=BB/ c/ d/ B/ |
+cGA |
+FGG, |
+C3) :|]

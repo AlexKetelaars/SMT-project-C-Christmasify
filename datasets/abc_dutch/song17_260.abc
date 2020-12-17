@@ -1,0 +1,72 @@
+X: 16259
+T: Min wat doet g’ons vrolijk leeven, Wyn wat k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3152651776
+%%humdrum-veritas-data 2183828120
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A2A2 [I:setbarnb 1]|
+d2d2(e g) (f e) |
+f2d2).('z4 |
+z8 |
+z4z2).('c2 |
+A4G3F |
+c6c2 |
+^c4d2e2 |
+^c6).('z2 |
+Z3 |
+z4z2).('F2 |
+A2>A2G2F2 |
+c6).('z2 |
+z8 |
+z4z2).('f2 |
+d2>c2B3A |
+^G6).('z2 |
+z8 |
+z4z2).('A2 |
+^F4G3A |
+_B4A2^c2 |
+d4e3f |
+^c6).('z2 |
+Z14 |
+z4).('A3A |
+d2(d e)(e2d) e |
+f2d2z2).('d e |
+f2>e2d2(e f) |
+^c4z2).('A A |
+d2>c2B2c2 |
+B6).('G G |
+c2>c2d3d |
+e2c2z2).('f e |
+d2>c2B3A |
+^G2G2z2).('A B |
+c2(d e2<)B2A |
+A6).('z2 |
+Z15 |
+z4z2).('(f g) |
+e2e2z4 |
+z4z2).('f e |
+d2d2z4 |
+z4z2).('A A |
+e2e2z4 |
+z4z2).('f e |
+d2z4z2 |
+z4z2).('A A |
+B2B2z4 |
+z4).('A2A2 |
+B2B2(B ^c d B |
+^c B c d c d e c |
+d c d e d e f d |
+e d e f e f g e |
+f6)).('f e |
+d2(e f2<)^c2d |
+d6).('f e |
+d2(e f2<)^c2d |
+d8) :|]

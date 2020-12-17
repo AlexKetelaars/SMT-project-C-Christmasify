@@ -1,0 +1,31 @@
+X: 9097
+T: In ‘t Meiseizoen, en het komt ons weer verbl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 2749668328
+%%humdrum-veritas-data 2423340144
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C A G [I:setbarnb 1]|
+F3F/ F/ G F E D |
+C2A,2z) .('C/ C/ F E |
+D2G F E G D E |
+F2z) .('C/ C/ A G F E |
+F3F/ F/ G F E D |
+C2A,2z) .('C F E |
+D2G F E G D E |
+F2z2).('F> F F F |
+F> D B, DF2G2 |
+A2G) .('F/ F/ F G A G |
+C3C/ C/ C D E F |
+G2F2).('F> F F G |
+F> D B, DF2G2 |
+A2G) .('C C D _E G |
+F D F Bc2A2 |
+B4z4) |]

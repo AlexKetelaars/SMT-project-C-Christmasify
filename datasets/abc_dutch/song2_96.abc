@@ -1,0 +1,25 @@
+X: 1095
+T: Zeg pelgrim ziet naar deze steen Met donker  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 17594794
+%%humdrum-veritas-data 1997396589
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2ed2c |
+B2AG2).('B |
+A2fe2e |
+d3-d2).('g/ g/ |
+a a a g g f |
+e2ed2).('f |
+e2d A A d |
+B3-B2).('f |
+e2d A A d |
+G3-G2) |]

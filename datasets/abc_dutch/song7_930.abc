@@ -1,0 +1,38 @@
+X: 6929
+T: Sinte-Merten van de re genuchten, Hij met zi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 1545586045
+%%humdrum-veritas-data 1277065448
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F3A |
+c3d |
+c B A G |
+F2F z) |
+.('A3A |
+G3A |
+(G F) (E D) |
+C2z2) |
+.('c2c2 |
+B2B B |
+A2A A |
+G2G2) |
+.('c3c |
+B3B |
+A3A |
+G2z2) |
+.('F3A |
+c3c |
+c2c2 |
+c2B z) ]|:
+.('c2c c |
+d d c B |
+A2G2 |
+F2z2) :|]

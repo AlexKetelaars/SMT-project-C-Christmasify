@@ -1,0 +1,23 @@
+X: 2978
+T: Schoonlief ik trek naar het armeur Maak hier [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 1104608204
+%%humdrum-veritas-data 1367066867
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d d d e e d |
+B2>-B2) .('B B |
+B A Bc2B |
+G6) |
+.('G2>B2 d g |
+f2eA3) |
+.('f f ed2d |
+e e dB2) |]

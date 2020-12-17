@@ -1,0 +1,58 @@
+X: 16604
+T: Een krijgsman
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2932419326
+%%humdrum-veritas-data 2884574947
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A2^G |
+A2B |
+c2(e/ d/) |
+(c2B) |
+A3/z).('e/ |
+A2B |
+c2d |
+(ed)c |
+c3) |
+.('!mordent!!mordent!A2B |
+c2d |
+e2(e// f// g/) |
+f2e) |
+.('e2(a/ g/) |
+f2e |
+e2d |
+e2x) |
+.('e2e |
+e3 |
+!mordent!!mordent!d2(d// e// f/) |
+e3 |
+(d<c)c |
+c3 |
+B2e |
+A3 |
+^G2A |
+B3) |
+.('!mordent!!mordent!c2(c// d// e/) |
+(ed)c |
+B>cA |
+^GGz/) .('G/ |
+Adc |
+c3 |
+B2e |
+(d/ e/f)e |
+(d>e)f |
+(Bc)d |
+^G2G |
+E2A |
+(de)c |
+B2(A/ ^G/) |
+A3- |
+A2) :|]

@@ -1,0 +1,31 @@
+X: 5476
+T: «Maestricht, gy schoone stede, Gy perel van  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2114636714
+%%humdrum-veritas-data 2383925614
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F/ [I:setbarnb 1]|
+AB/cd/ |
+c3/A).('c/ |
+BA/GG/ |
+A3/z).('F/ |
+AB/cd/ |
+c3/A).('c/ |
+BA/GG/ |
+A3/z).('A/ |
+AG/AB/ |
+AG/z).('G/ |
+AB/cc/ |
+G3/z).('c/ |
+dc/cB/ |
+AG/z).('A/ |
+BA/GF/ |
+F3/z) |]

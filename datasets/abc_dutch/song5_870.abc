@@ -1,0 +1,24 @@
+X: 4869
+T: Daar was er een schone zuivere maagd Die gin [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 4238002705
+%%humdrum-veritas-data 192402200
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D G> G A [I:setbarnb 1]|
+B3G2>(d2 e) d |
+d2>).('d2 e f (g f) e |
+e3d3-d2).('d |
+g f e2<(d2B2)e/ e/ |
+(d c) BA2).('B/ c/d2d |
+c2B A G) .('d g f e |
+(d3B2)e/ e/ (d c) B |
+A2).('B/ c/d2dc2B |
+A G) |]

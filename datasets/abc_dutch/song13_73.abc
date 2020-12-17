@@ -1,0 +1,42 @@
+X: 12072
+T: Gygue
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 1198482184
+%%humdrum-veritas-data 3329254043
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=138
+K: F clef=treble
+.('d2cBdG/ A/ |
+B2dFAD |
+_EGcDcB3// A// |
+B2cdGA |
+^F2CB,GA |
+BGF/ D/_EGc |
+d3-d2).('F |
+BdfAcf |
+G_eABed |
+DGcDB^F |
+c2_E/ D/EGF3// E// |
+DFB_EAB |
+B2B,DFA |
+B3-B3) |
+.('B>cdAcd |
+GAG^F2d/ c/ |
+B2DA2C |
+=B,dgfFG |
+A_ed/> c/dF_E |
+DFBGc3/(B// c//) |
+d2-d//) .('c// B// A//Bgf |
+G_eFEd^c |
+DdFBdf |
+cGBd2e |
+^f2gaFd |
+cBdgg2 |
+^fg2dG2 |
+dg3) :|]

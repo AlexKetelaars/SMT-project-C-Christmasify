@@ -1,0 +1,26 @@
+X: 8190
+T: Daar was een kind, een koningskind, Een kind [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:44
+%%humdrum-veritas 3779020828
+%%humdrum-veritas-data 493726126
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('FFE |
+D2C ||
+[M:4/4]FGA2) ||
+[M:3/4].('ccB [I:setbarnb 5]|
+A2G ||
+[M:4/4](FG)A2) [I:setbarnb 7]]|:
+[M:3/4].('AAG |
+F2A |
+c2B |
+A2).('G ||
+[M:4/4]FFGA [I:setbarnb 12]|
+G2F2) :|]

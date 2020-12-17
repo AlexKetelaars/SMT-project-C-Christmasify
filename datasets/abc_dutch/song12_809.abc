@@ -1,0 +1,30 @@
+X: 11808
+T: Laboere De Battista
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 1161669407
+%%humdrum-veritas-data 907159100
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F2 [I:setbarnb 1]|
+B2F2B3c |
+d2B2f3f |
+g2g2f3_e |
+d4z c d e |
+f2B2A3B |
+c6) ||
+.('d2 [I:setbarnb 7]|
+_e2f2g3a |
+^f2d4c B |
+A2B2A3G |
+G4z) .('B c d |
+_e4z c d =e |
+f4z f g a |
+b2d2c3B |
+B6) |]

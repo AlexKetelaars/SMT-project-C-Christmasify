@@ -1,0 +1,28 @@
+X: 7336
+T: Den boom groeyt in den zavel, En bloeyt er mooy
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 977164032
+%%humdrum-veritas-data 3969598204
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G A B c |
+(d> e) d c |
+B2A2 |
+G4) |
+.('G A B c |
+B2A2 |
+G2z2) |
+.('c> A B3/ G/ |
+c> A B z) |
+.('B> G A3/ D/ |
+B> A G) .('G |
+c c/ A/ B G |
+c c/ A/ !fermata!B D) |]

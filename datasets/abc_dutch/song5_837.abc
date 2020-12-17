@@ -1,0 +1,25 @@
+X: 4836
+T: Mijn zuster heeft zeven jongens gehad En nog [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 1309283091
+%%humdrum-veritas-data 161070750
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d3 [I:setbarnb 1]|
+B> B BB2B |
+B c d (d c)) .('B |
+A2GF2E |
+D2>).('D2 E F |
+G3B3 |
+d3-d2).('d |
+e> e ee2e |
+d d d (e d)) .('c |
+B2dA2d |
+G3-G2) |]

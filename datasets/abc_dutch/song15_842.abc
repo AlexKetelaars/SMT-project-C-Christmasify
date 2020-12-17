@@ -1,0 +1,28 @@
+X: 14841
+T: Iö vivat
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3767418023
+%%humdrum-veritas-data 3138820447
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2>e2d2e2 |
+f2>g2f2f g |
+a2a2g f g a |
+f4z2 |
+f g [I:setbarnb 5]|
+a2>a2a3f |
+g2>a2g2e2 |
+f2f g b a g f |
+e2>f2f2A2 |
+d2>e2d2e2 |
+f2>g2f2f g |
+a2a2e d e f |
+d4z2) :|]

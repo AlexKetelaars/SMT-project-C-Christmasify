@@ -1,0 +1,31 @@
+X: 15323
+T: Von dem Dachstein hoch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 3736556108
+%%humdrum-veritas-data 2111357040
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A,3/ D/ [I:setbarnb 1]|
+F A,F2E D |
+E B,E2G B |
+A> E A B E G |
+F2z2).('D3/ E/ |
+F A,F2E D |
+C Ec2B3/ A/ |
+^G> A B> c d3/ G/ |
+A2z2).('A ^A |
+B Gd2c3/ B/ |
+B> AF2A3/ ^A/ |
+c> B A> B G E |
+F2z2).('A ^A |
+B Gd2c B |
+B A!fermata!f2e3/ d/ |
+c> A B> A G3/ C/ |
+D2z2) |]

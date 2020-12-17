@@ -1,0 +1,22 @@
+X: 2875
+T: Es war ein Mädchen das früh aufsteht schneew [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 2188339335
+%%humdrum-veritas-data 1539774321
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G B(B2A) G/ G/ |
+F A2<A2).('G |
+G (B/ d/)d2B2 |
+B2A) .('A/ B/ c e |
+(e2d) c B/ d/ d/ e/ |
+d) .('B A> B c3/ d/ |
+c2B3) |]

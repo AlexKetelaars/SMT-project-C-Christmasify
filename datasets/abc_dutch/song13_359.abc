@@ -1,0 +1,40 @@
+X: 12358
+T: Dy Nieuwe Wynpars
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 2289196722
+%%humdrum-veritas-data 3261028849
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G4d4 |
+g f g ag2).('B2 |
+c2d2c2B2 |
+A G A BA2).('d2 |
+e2f2g2a2 |
+d4).('B4 |
+c B A GA2d2 |
+G6) |
+.('b2 [I:setbarnb 9]|
+a2g2f2e2 |
+d4).('B4 |
+B c B A G A B c |
+d2d ed4) |
+.('e2e fe2^d2 |
+e4).('!trill!!trill!f4 |
+g a g fe2d ^c |
+d4).('d2A B |
+c2B cd2c B |
+A G A BA2).('d2 |
+e2d2c2B2 |
+A G A BA2).('d2 |
+e2f2g2a2 |
+d4).('B4 |
+c B c Ad2D2 |
+G6) :|]

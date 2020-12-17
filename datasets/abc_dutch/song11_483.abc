@@ -1,0 +1,23 @@
+X: 10482
+T: Doekje, doekje achter ‘t gat, ‘k Heb al twee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 1414136681
+%%humdrum-veritas-data 2952772696
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c3/ d/ [I:setbarnb 1]|
+c B A G |
+F2).('c3/ d/ |
+c B A/ A/ G |
+F2).('d d |
+c2d d |
+c2).('B B |
+A A G G |
+F2) |]

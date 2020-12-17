@@ -1,0 +1,27 @@
+X: 11070
+T: Vrinden ziet hier komt Jan Joosten, Uit het  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3973937887
+%%humdrum-veritas-data 4131525257
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d^c [I:setbarnb 1]|
+dAG3/A/ |
+FD).('_BA |
+d^cd(e/ d/) |
+^cA).('d3/e/ |
+(f/ e/) (d/ c<)BA/ |
+A2).('A(A/ B/) |
+ccd3/e/ |
+^c2).('d3/e/ |
+(f/ e/) (d/ c<)BA/ |
+^GG).('A3/B/ |
+^cdd3/c/ |
+dd) |]

@@ -1,0 +1,45 @@
+X: 5546
+T: Ik breng mijn naasten gebuur een dronk, ik h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 4058860964
+%%humdrum-veritas-data 1219088733
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('zzd |
+d2d |
+c2d |
+B<Bc |
+d2).('d |
+c2B |
+A2G |
+[M:4/4]A4 |
+[M:3/4]G2).('d |
+d2d |
+c2d |
+B<-Bc |
+d2).('d |
+c2B |
+A2G |
+[M:4/4]A4 |
+[M:3/4]G2).('g |
+(g2c) |
+c2f |
+f2B |
+B3) |
+.('d2d |
+[M:4/4]=ee/ ^f/gf |
+[M:3/4]g2).('g- |
+g2c |
+c2f |
+f2B |
+B2).('c |
+d2d |
+[M:4/4]=e>^f(gf) |
+[M:3/4]g2z) |]

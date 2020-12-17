@@ -1,0 +1,15 @@
+X: 601
+T: Groot is die Heer, ghepresen seer Al binnen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 404918661
+%%humdrum-veritas-data 955877099
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2c2c2B2A4G2c2d2(e2>d2ecd4)).('a4g2g2e2c4B2A2d4(c4BAG4)z2).('G2c2d2e2e2d2e2a4g4).('f2e2d2c2B2(e4d4cBA2)A2G4).('g4(efgfe2dcd2)d2c4) |]

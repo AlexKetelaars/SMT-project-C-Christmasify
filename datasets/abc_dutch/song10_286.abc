@@ -1,0 +1,39 @@
+X: 9285
+T: De groote Sultan heeft gefuifd, Hij heeft ge [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3493880222
+%%humdrum-veritas-data 860028790
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E E E [I:setbarnb 1]|
+A2E2A2E2 |
+A4z) .('A, B, C |
+D2D2z B, C =D |
+E4z) .('C =D =E |
+F2F2E2E2 |
+A2>).('A2F3F |
+D2>D2E3E |
+A2).('c2e3d |
+c2B2A2(c B) |
+A) .('E F GA2A2 |
+z F G =AB4 |
+z) .('G =A =B c G c _B |
+A) .('B c d e B e d |
+c) .('c2<c2cc2- |
+c c d B A A G G |
+A) .('A G F E D C B, |
+A,) .('A, E E C C E E |
+C4z) .('C D E |
+F2F2z =D E F |
+G4z) .('=E F G |
+A2A2G2G2 |
+A) .('A2<A2AA2- |
+A =A B d c c B B |
+A4z) |]

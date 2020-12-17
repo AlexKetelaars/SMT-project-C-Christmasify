@@ -1,0 +1,41 @@
+X: 9351
+T: Komt vrienden, wilt aanhooren Hoe ‘t in mijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 625277067
+%%humdrum-veritas-data 1694398053
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('e/ [I:setbarnb 1]|
+dc/Bc/ |
+B3/B).('B/ |
+=AB/BA/ |
+B3/z).('e/ |
+dc/Bc/ |
+B3/B).('B/ |
+=AA/Ac/ |
+B3/z).('B/ |
+EE/EG/ |
+B3/B).('B/ |
+EE/EG/ |
+B3/z).('d/ |
+dc/de/ |
+fG/).('AB/ |
+BB/ (A/ G/) F/ |
+E3/z).('c/ |
+cB/cc/ |
+B3/z).('B/ |
+cc/cc/ |
+B3/z).('A/ |
+GF/GA/ |
+B3/z).('B/ |
+Bc/ d/ d/ e/ |
+f>).('G A/ B/ |
+BB/ (A/ G/) F/ |
+E3/z) |]

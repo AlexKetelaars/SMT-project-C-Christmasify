@@ -1,0 +1,47 @@
+X: 17222
+T: Als men vaak, 't helsch gedrogt, met geweld  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3400091317
+%%humdrum-veritas-data 2275882597
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=bass
+.('zG,G, |
+F,F,G, |
+E,E,C, |
+D,>C,D, |
+G,2G,) |
+.('G,G,G, |
+A,2A, |
+B,F,G, |
+E,F,3/F,/ |
+B,3) |
+.('B,B,G, |
+_A,2F, |
+G,G,F, |
+E,D,C, |
+(G,G,2) |
+C,3) |
+.('F,>G, A,/ F,/ |
+B,B,G, |
+D).('DC |
+B,B,3/B,/ |
+A,A,G, |
+F,=E,D, |
+A,A,3/D,/ |
+D,3) |
+.('G,>A, =B,/ G,/ |
+CCC, |
+F,3 |
+z).('B,G, |
+CCA, |
+DDC |
+B,^F,G, |
+E,C,D, |
+G,3) |]

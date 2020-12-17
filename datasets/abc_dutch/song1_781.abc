@@ -1,0 +1,31 @@
+X: 781
+T: Als Christi Bruyd was in den nood, End’ als  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 1823906085
+%%humdrum-veritas-data 296753221
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D [I:setbarnb 1]|
+(G/ A/)BAG |
+^F>ED).('E |
+FGA^F |
+G>AB).('A |
+GEFG |
+AFF).('c |
+cBAG |
+AFF).('c |
+cABc |
+B>AG).('d |
+cBAG |
+(^F/ G/ F/) E/D).('E |
+^FGAF |
+G3).('A |
+Bcdd |
+G3) |]

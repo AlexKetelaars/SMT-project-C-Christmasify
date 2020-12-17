@@ -1,0 +1,55 @@
+X: 10869
+T: Zestiene. Den noodsman, den noodsman, Vijfti [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 236245241
+%%humdrum-veritas-data 1115621924
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A [I:setbarnb 1]|
+c2A B |
+c2A B |
+c d c c |
+(B A) G) .('A |
+c2A B |
+c2A A |
+c d c c |
+(B A)G2) |
+.('A2c2 |
+G2F3/ G/ |
+(3A A A (3c c c |
+G2F3/) .('G/ |
+A> A (3c c c |
+G> G F3/ F/) |
+.('A> A c3/ c/ |
+(3G A G F3/ F/) |
+.('A2c3/ A/ |
+G> AF2) |
+.('A> A (3c c c |
+G> AF2) |
+.('A2c3/ A/ |
+(3G A GF2) |
+.('A2c3/ A/ |
+G> AF2) |
+.('A B c d |
+(A G)A2) |
+.('A B c d |
+(A G)A2) |
+.('A B c d |
+(A G)A2) |
+.('F A B A |
+(B A) G G |
+(B A)G2) |
+.('F/ G/ A/ B/c2 |
+A B c d |
+c B A) .('d |
+c BA2 |
+c2c d |
+c2(B G) |
+F2z2) |]

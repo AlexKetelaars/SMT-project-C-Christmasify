@@ -1,0 +1,15 @@
+X: 699
+T: Och Heere verhoort doch mijn geclach Mijn bi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 4063533132
+%%humdrum-veritas-data 1310153111
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('G4A2AAc2c2(BA-A)GA4z2).('A2BBBAG2A2B2G2F4z2).('F2G2A2B2c4(c2AGBA)B4).('B2B2Bcd2dd(cBA)GA4z2).('A2B2A2G2A2(BAB)G2<F2).('FDEFGAB(c2GABc2<d2cB2AGA4)G4) |]

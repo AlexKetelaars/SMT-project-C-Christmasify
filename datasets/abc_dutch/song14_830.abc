@@ -1,0 +1,178 @@
+X: 13829
+T: [Divert. 24.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 995212105
+%%humdrum-veritas-data 1927389148
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=192
+K: C clef=treble
+.('C4 |
+D4 |
+E4 |
+F4 |
+G4 |
+A2B2 |
+cdef |
+gagf |
+edcB |
+ABc2- |
+c2BG |
+^FGAF |
+GABG |
+ABcA |
+BcdB |
+cAdc |
+Bcde |
+fgfe |
+dcBA |
+GFED) |
+.('E2A2 |
+^F2B2 |
+G2c2 |
+A2d2 |
+B2e2- |
+eAd2- |
+dGc2- |
+c^FB2 |
+A4 |
+G4 |
+F4 |
+E4 |
+DE/ ^F/G2- |
+G2^F2 |
+G).('gec |
+A^fdB |
+GecA |
+^FdBG |
+A2B2 |
+c2d2 |
+e2d/ c/ B/ A/ |
+B2!trill!!trill!A2) |
+.('G4 |
+A4 |
+B4 |
+c4 |
+d4 |
+e2^f2 |
+gBde |
+fe/ f/gf |
+egec |
+BcdB |
+cdec |
+defd |
+efge |
+fe/ f/gf |
+e4 |
+fgfe |
+d4 |
+efed) |
+.('c2f2 |
+G2e2 |
+F2d2 |
+E2c2 |
+_BA/ B/cB |
+A2A2 |
+GF/ G/AG |
+FAd2- |
+d^ce2- |
+edf2- |
+fe/ f/ed) |
+.('cea2 |
+a^gbd- |
+dcag |
+fa^ca |
+daea |
+fa^ca |
+daea |
+fada) |
+.('_B2_b2 |
+A2a2 |
+G2g2 |
+F2f2- |
+f_e/ d/ee |
+_edd2- |
+dc/ _B/cc) |
+.('c_B_b2 |
+G2a2 |
+F2g2 |
+E2f2 |
+DF_Bd |
+fe2d |
+^c_BAG |
+F2a2 |
+G2_b2 |
+A,2^c2 |
+_B,2d2 |
+F2a2 |
+G2_b2 |
+A,2^c2 |
+d).('DFD |
+z_BGE |
+zGE^C |
+zDFD |
+zDFD |
+z_BGE |
+AAA,A, |
+D2).('f2 |
+B2d2 |
+^G2B2 |
+F2ED |
+CecA |
+A^GB2 |
+BAc2 |
+cB/ c/BA |
+GBe2 |
+ed^fA |
+AGed |
+cA^fe |
+^dB).('bb |
+ba/ ^g/aa |
+age2 |
+f2^g2 |
+aAaa |
+ag/ ^f/gg |
+g^fd2 |
+e2^f2 |
+gG).('gg |
+gf/ e/f2- |
+fe/ d/e2- |
+ef/ e/dc |
+B2z2 |
+z4) |
+.('D4- |
+D2C2 |
+F4- |
+F2E2 |
+A4- |
+A2G2 |
+c4- |
+c2B2 |
+e4- |
+e2d2 |
+g4 |
+fgag |
+fedc |
+B2g2 |
+^f4 |
+f4 |
+e4 |
+_ed2c |
+B2c2 |
+c2B2 |
+c).('gaf |
+dbge |
+cafd |
+Bgec |
+d2e2 |
+f2g2 |
+a2g/ f/ e/ d/ |
+e2d2 |
+c2d2 |
+e2B2 |
+c2z2) ||

@@ -1,0 +1,45 @@
+X: 4332
+T: Vrienden zie hier vergaard Wij zingen wat sc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 615061367
+%%humdrum-veritas-data 2775303794
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2BG2A |
+B3-B2).('d |
+d d BG2A |
+B3-B2).('B |
+A2AA2A |
+A2A).('d2e |
+f2fe2e |
+d3-d2).('d |
+d2BG2A |
+B3-B2).('d |
+d2BG2A |
+B3-B2).('B |
+A2AA2A |
+A2).('Ad2e |
+f3e2e |
+[M:2/4]d) .('d e f |
+g2B2- |
+B) .('d e d |
+c2A2- |
+A) .('d e d/ d/ |
+f/ f e/ d c |
+B4- |
+B) .('d e f |
+g2B2- |
+B) .('d e d |
+c2A2- |
+A2).('d e |
+f/ f/ e c A |
+G4- |
+G3) |]

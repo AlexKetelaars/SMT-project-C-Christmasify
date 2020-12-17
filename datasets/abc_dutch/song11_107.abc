@@ -1,0 +1,26 @@
+X: 10106
+T: Op eenen kerstmisavond, Op eenen kerstmisdag
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 2793131301
+%%humdrum-veritas-data 2092110542
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2B (A B) A |
+G3D2).('D |
+d2d (c d) c |
+B3z2).('D |
+G G GA2B |
+G F ED2G |
+G F ED3) |
+.('G2A B/ B/ B/ B/ B |
+A A AB3) |
+.('G2A B/ B/ B/ B/ B |
+A A AG2z) |]

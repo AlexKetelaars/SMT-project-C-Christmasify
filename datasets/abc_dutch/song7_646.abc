@@ -1,0 +1,46 @@
+X: 6645
+T: Stille beek, die onder ‘t lommer, Kalm en za [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 3815592408
+%%humdrum-veritas-data 3074780391
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('(FA)G |
+F2E |
+(Dd)c |
+BAz) |
+.('G2F |
+G2F |
+(AB/ A/) (G/ F/) |
+(FE)z) |
+.('(FA)G |
+F2E |
+(Dd)c |
+BAz) |
+.('A2c |
+B2d |
+c2B |
+A2z) |
+.('c2c |
+d2e |
+c2c |
+dAz) |
+.('F2G |
+A2F |
+(B>A) (G/ F/) |
+(FE)z) |
+.('(FA)G |
+F2E |
+(Dd)c |
+BAz) |
+.('f2e |
+d2c |
+(ed)c |
+d2z) |]

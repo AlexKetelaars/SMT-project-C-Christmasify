@@ -1,0 +1,44 @@
+X: 11131
+T: In’t geweer. Ieder toont zich als een dapper [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 3519386896
+%%humdrum-veritas-data 777079866
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('C4E4 |
+A6c d |
+e2c2A2c2 |
+B A B cB2).('E2 |
+C4E4 |
+A6(A B) |
+(c d)e2^d3(c/ d/) |
+e8) |
+.('C4E4 |
+A6c d |
+e2c2A2c2 |
+B A B cB2).('E2 |
+C4E4 |
+A6(A B) |
+(c d)e2^d3(c/ d/) |
+e8) |
+.('B2B BB2B2 |
+B4z4 |
+c2c cc2c2 |
+c4z4) |
+.('e2e dc2c B |
+A2A2E2E2) |
+.('e2e dc2c B |
+A2A2E2E2) |
+.('A,2A, A,A,2C2 |
+A,2A, A,A,2).('c d |
+e2A Bc2c d |
+e2A Bc2c d |
+e2d c2<B2A |
+A8) |]

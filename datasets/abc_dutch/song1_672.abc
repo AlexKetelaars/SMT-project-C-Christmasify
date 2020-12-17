@@ -1,0 +1,16 @@
+X: 672
+T: Wonderlijc Heer u woerden zijn Die ghi ons h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1781383209
+%%humdrum-veritas-data 4229878984
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('C2CCD2E2F2D2E2>).('D2C2C2A,2B,2A,4G,4).('C2CCD2E2F2D2E2>).('D2C2C2A,2B,2C4C4z2).('C2G2G2A2G2E2F2G4z2).('G2G2A2G2E2F2D2C2>).('C2C2B,2A,2B,2A,4G,4z2) ]|:
+.('G,2C2C2D2E2F2D2C2>).('C2D2E2D2C2D2A,2G,4z2).('G,2A,2>G,2A,2B,2C4C4) |]

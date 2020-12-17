@@ -1,0 +1,35 @@
+X: 10996
+T: En daar zou der eenen liereman al uit het li [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 377810037
+%%humdrum-veritas-data 508189312
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F A [I:setbarnb 1]|
+c> c B G |
+F> F F A |
+c> c B3/ G/ |
+!fermata!F3).('c |
+B c d e |
+f e d c |
+(G2A) B |
+!fermata!c) .('A B c |
+d3c |
+B G A B |
+c3B |
+A2z) .('c |
+f e d c |
+d G B d |
+c> c B3/ G/ |
+A2z) .('c |
+f e d c |
+d G B d |
+c> c B3/ G/ |
+F2z2) |]

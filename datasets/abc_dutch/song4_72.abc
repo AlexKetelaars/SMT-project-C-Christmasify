@@ -1,0 +1,23 @@
+X: 3071
+T: Ik ben een jong soldaatje van tweeëntwintig jaren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 1271707202
+%%humdrum-veritas-data 957140333
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B B B cB2A) .('B |
+c B c dc2B) .('d |
+B B B cB2A) .('B |
+c B c dc2B) .('B |
+A G A B c c/> c/ c) .('c |
+B A B c d d/> d/ d) .('d |
+e d e f g f e c |
+B2A2G2z) |]

@@ -1,0 +1,20 @@
+X: 3353
+T: Kom schender van gebod Gij die nie vreest vo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 1371955851
+%%humdrum-veritas-data 359334233
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+G A B> AB2).('G A/ B/ |
+d d/ d/ d cB2z) .('G |
+G B A cB2z) .('B |
+c d e> ed2z) .('G |
+G B d cB2A2) |]

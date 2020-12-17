@@ -1,0 +1,15 @@
+X: 654
+T: Bermherticheyt en ordeel sal ick seere Van u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 4262053872
+%%humdrum-veritas-data 1408989974
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=bass
+.('z2G,2G,2G,2D2D2G2G2(F2EDC2)D2(EFGEF4)D4z2).('D2D4G2G4G2F4F2<(D2CDCB,4)(B,2>C2D2)F4D2G4F2(D2>E2FED2CB,A,4)G,4z2).('G,2A,2B,2C2D2B,2A,2G,4z2D2D4G4F4D2F2E4D4).('D2D2C2C2G,4F,4(B,2>A,2G,2>A,2B,C2<D2EFED4CB,A,G,A,4)G,4) |]

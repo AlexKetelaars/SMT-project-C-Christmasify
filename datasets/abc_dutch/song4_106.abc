@@ -1,0 +1,37 @@
+X: 3105
+T: En een jagertje wou laatst uit jagen gaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 3933728999
+%%humdrum-veritas-data 3895981400
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GAB |
+AD).('D |
+(AB)c |
+Bz).('B |
+Bee |
+cAd |
+Bz).('B/ B/ |
+d>cB |
+BAG |
+BGE |
+Dz).('B |
+d>cB |
+BAG |
+BGE |
+Dz).('B/ c/ |
+d>cB |
+cde |
+e2g |
+dz).('B/ c/ |
+d>ed |
+cBA |
+Gz) |]

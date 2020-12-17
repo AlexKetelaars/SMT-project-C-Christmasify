@@ -1,0 +1,38 @@
+X: 9822
+T: Als de zon haar heeft verborgen in den still [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 2814557899
+%%humdrum-veritas-data 3872599238
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('AAGG |
+AADD) |
+.('FFG(F/ G/) |
+AAA2) |
+.('AAdd |
+AAGG) |
+.('FFGG |
+AAD2) |
+.('AAcc |
+AAGG) |
+.('BBAA |
+FEDD) |
+.('AA/ A/cc |
+ddc2) |
+.('BBAG |
+F(E/ F/)DD) |
+.('A2cc |
+d2B2) |
+.('A2GG |
+(FE)D2) |
+.('E2AA |
+F2E2 |
+D2CC |
+!fermata!D2z2) |]

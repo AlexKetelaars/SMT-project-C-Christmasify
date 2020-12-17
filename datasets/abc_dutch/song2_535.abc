@@ -1,0 +1,31 @@
+X: 1534
+T: Als de zon is uit de kim gerezen ga ik met m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 1155885642
+%%humdrum-veritas-data 2680840607
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('GG/ [I:setbarnb 1]|
+GG/GG/GG/ |
+(GB<)d).('FG/ |
+A3/e3/dc/ |
+B3/z3/).('DD/ |
+GG/GG/(GB/) |
+d3/z3/).('FG/ |
+A3/c3/BA/ |
+G3/z3/).('DD/ |
+c3/(dc/)BA/ |
+(GB<)d).('FG/ |
+A3/e3/dc/ |
+B3/z3/).('DD/ |
+GG/GG/(GB/) |
+d3/z3/).('FG/ |
+A3/c3/BA/ |
+G3/z3/) |]

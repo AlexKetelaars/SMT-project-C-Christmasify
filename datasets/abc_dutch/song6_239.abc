@@ -1,0 +1,38 @@
+X: 5238
+T: Maartje ging met Kees uit rijden, In een hog [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 57783256
+%%humdrum-veritas-data 363147730
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B3/ A/ [I:setbarnb 1]|
+G3D |
+E2F2 |
+G2D2 |
+z2).('B3/ A/ |
+D G F G |
+A2z2 |
+z2).('F3/ A/ |
+d3B |
+d3B |
+A2z2 |
+z2).('F3/ G/ |
+A A A A |
+B AA2 |
+D2z2 |
+z2).('D3/ D/ |
+A3D |
+D DB2 |
+z2).('B3/ G/ |
+A D D D |
+(G2d2) |
+z2).('d3/ d/ |
+B G A D |
+G2) |]

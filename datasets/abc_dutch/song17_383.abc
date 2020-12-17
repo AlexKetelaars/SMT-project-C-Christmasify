@@ -1,0 +1,38 @@
+X: 16382
+T: Byën die ‘k alom zie zwieren! Rozen, Lelies, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 2451742199
+%%humdrum-veritas-data 3895618868
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+d2 (e f) g2 e2 |
+!trill!!trill!e2 {d e}d4).('c B |
+c2 (A B) c2 (B A) |
+(B A)G4).('B G |
+A2 d2 (G F) (G A) |
+{G}F4z2) .('A d |
+B2 (g f) e2 d2 |
+{d}^c4z2) .('(e f/) g/ |
+(f2 e) d2< !trill!!trill!^c2 d |
+d6) |
+.('(d e) [I:setbarnb 11]|
+{g} (=f2 e d) c2 B2 |
+(c B)A4).('(c d) |
+(e2 d c) B2 A2 |
+(B A)G4).('B2 |
+B A G (F/ E/) G2 !trill!!trill!F2 |
+E6).('G2 |
+A2A4(B c) |
+(B A)G4).('G2 |
+A2A4(B c) |
+(B A)G4).('d2 |
+E2 c A (B G) A F |
+G6) :|]

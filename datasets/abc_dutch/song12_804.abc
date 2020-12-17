@@ -1,0 +1,42 @@
+X: 11803
+T: La Liniene
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 539070101
+%%humdrum-veritas-data 2894665768
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('defg |
+e2de |
+f2g2 |
+a3).('a |
+de/ f/ g/ f/ e/ d/ |
+^c2A2) |
+.('defg |
+e2de |
+f2g2 |
+a2).('ga |
+f(g/ f<)ed/ |
+d2x2) :|]
+.('d/ e/ f/ g/aa |
+g2f2) |
+.('d/ e/ f/ g/aa |
+g2f2) |
+.('d/ e/ f/ g/aa |
+g3).('a |
+gfed |
+g3).('a |
+g/ a/ f/ g/ e/ f/ d/ e/ |
+^c2A2) |
+.('defg |
+e2de |
+f2g2 |
+a2).('ga |
+f(g/ f<)ed/ |
+d2) |]

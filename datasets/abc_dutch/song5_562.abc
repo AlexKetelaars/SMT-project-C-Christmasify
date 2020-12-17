@@ -1,0 +1,26 @@
+X: 4561
+T: Zondags drinkt mijn vrouw en ik Altijd koffi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 1979370796
+%%humdrum-veritas-data 779203914
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d d d d B/ B/B3 |
+B B B B) .('G/ G/G3 |
+G B A G A AA2) |
+.('A c B A d dG2) |
+.('e e d d c/ c/B3 |
+B B B B G/ G/G2).('B |
+A G A G d dG2) |
+.('d2d2d2g g |
+B2>).('B2 A B d d |
+G2>).('B2 A G A A |
+A2>).('c2 B A d d |
+G4z4) |]

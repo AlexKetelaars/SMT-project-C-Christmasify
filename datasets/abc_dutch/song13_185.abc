@@ -1,0 +1,23 @@
+X: 12184
+T: Adju, Sophie, hier is mijn hand en voel mijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 538527820
+%%humdrum-veritas-data 3312260966
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A [I:setbarnb 1]|
+A2FF2A |
+A2FF2).('c |
+(c> d) cB2A |
+G3-G2).('c |
+(c B) c (d e) f |
+c2AF2).('C |
+F2GA2G |
+F3-F2) |]

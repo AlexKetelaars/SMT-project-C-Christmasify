@@ -1,0 +1,17 @@
+X: 621
+T: Laet onsen Heer der Heeren Verrisen ter glorien
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 1938547391
+%%humdrum-veritas-data 2457357693
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2A,2A,2C2B,2A,2E4E4z2).('E2C2>D2E2F2D4C4).('z2A,2A,2C2B,2A,2E4E4z2).('E2C2>D2E2F2D4C4) ]|:
+.('z2C2C2E2D2C2B,4A,4z2).('E2D4B,2C2A,4G,4z2) ]|:
+.('F2F4E2E4D2E4C4z2).('D2(E2>D2)C2D2B,4A,4) |]

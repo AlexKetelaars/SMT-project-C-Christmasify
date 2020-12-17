@@ -1,0 +1,33 @@
+X: 6179
+T: Wien Neerlandsch bloed in d’adren vloeit, Va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3898141072
+%%humdrum-veritas-data 3229075103
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GGBA |
+G3/(F// E//)D).('G |
+FGcB |
+(BA)z).('D |
+GGBA |
+G>FE).('(F/ G/) |
+(A/ B/) (^c/ d/)FE |
+D2z).('D |
+c>BAA |
+B>AG).('(G/ B/) |
+ddBG |
+(BA)z).('D |
+GG(B/ A/) (G/ F/) |
+EEc3/).('A/ |
+GG(F/ G/) (A/ B/) |
+G2).('A2 |
+B(G/ B/)dF |
+G2z) |]

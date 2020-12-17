@@ -1,0 +1,15 @@
+X: 12900
+T: Allerley Soorten van Psalm loopen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 3288577162
+%%humdrum-veritas-data 524664440
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 5/4
+Q: 1/4=120
+K: C clef=treble
+.('z f g e d ^c d =c B A B A G FG8).('E F G F G A B A B c d FG16).('d< B c< A B< G A< FG16).('D E F G A G FG16).('d2 G D G B G B d B d g3/ d e ^c d B =c A B G d FG16).('g f e d c B e d c B c AG16).('e d c B c B A G A G FG16).('B A G FG16).('A G FG16).('d FG16).('c B c d FG16).('A GG16).('B c AG16).('A G F E FG16).('c B AG16).('G A AG16).('A2 G2!trill!!trill!G16).('G F AG16).('g AG16).('B c d e f!trill!!trill!G16).('d A^G16).('E16z2 =G B ^d e3/ B c3/ ^A B3/ =A G ^F E F E ^DE16).('D E F G A B DE16).('=d c B A B A G F E =D FE16).('A G F G F E F E D d FE16).('c B A G F E ^DE16).('E16C E G A3/ c e g a3/ ^f e d c B A G F E =D C DE16).('^c d B A G F E ^D EE16).('G A B c d {F}!trill!!trill!E16).('G =c e d c B A G F E =D FE16).('B, D F B G F E DE16).('E D FE16).('A EE16).('E D E!trill!!trill!E16).('=F E DE16).('E D E ^F EE16).('F E D FE16).('c G FE16).('E F EE16).('D =FE16).('G ^F E DE16).('F E D E F EE16).('^D4E16).('c d F FE16).('d FE16).('=D E =FE16).('^c d EE16).('B A G A B =c de16).('^G A G A B c B c de16).('G A B A B c B c de16).('d e fe16).('d c B c de16).('d c de16).('B c de16).('g f ee16) |]

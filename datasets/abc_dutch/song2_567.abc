@@ -1,0 +1,27 @@
+X: 1566
+T: Toen ik laatst op de kermis kwam en ik zag d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3454255704
+%%humdrum-veritas-data 1770328697
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d [I:setbarnb 1]|
+eddc |
+cBB).('A/ B/ |
+cBcd |
+e2d3/).('B/ |
+cd/ d/eg |
+d/> d/ d/> d/d).('c/ B/ |
+AB/ c/ d/ d/d |
+(Ac)Bz/) .('B/ |
+cd/ d/eg |
+d/> d/ d/> d/d).('c/ B/ |
+AB/ c/ d/ d/d |
+(Ac)B) |]

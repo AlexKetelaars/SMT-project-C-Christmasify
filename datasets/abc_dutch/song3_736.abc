@@ -1,0 +1,22 @@
+X: 2735
+T: ’k Hebbe zo lange met de foekepot ’elopen 'k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 3585620343
+%%humdrum-veritas-data 3581647643
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2G G G G G G |
+F F G AG2G2) |
+.('D2B BB2B2 |
+A2B cB2B2) |
+.('d d d dc4 |
+c c c c2<B2).('A |
+A2A AG2G G |
+E2A2D4) |]

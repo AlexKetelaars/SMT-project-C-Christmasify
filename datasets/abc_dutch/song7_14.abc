@@ -1,0 +1,27 @@
+X: 6013
+T: De Prins van Oranje of Rozalijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 1562375547
+%%humdrum-veritas-data 3378926937
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2a2a2^g2 |
+a2g fe2e2 |
+a2>b2a2g2 |
+f4e2) :|]
+.('g2 [I:setbarnb 5]|
+f4e df2 |
+e2d ec2).('e2 |
+d2c2B2c2 |
+d c B cA4) |
+.('A B c de2e2 |
+a ^g a ba4) |
+.('A B c de2d c |
+B2>A2A4) |]

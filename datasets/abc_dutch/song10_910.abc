@@ -1,0 +1,23 @@
+X: 9909
+T: ‘t Zal regenen, ‘t zal regenen, ‘t Zal regen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 1145355519
+%%humdrum-veritas-data 3951705074
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A> G F A |
+A> G F) .('A |
+(3B B B d B |
+A3).('A |
+G G B G |
+F F A) .('F |
+E G F E |
+D2z2) |]

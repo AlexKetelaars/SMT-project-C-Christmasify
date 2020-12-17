@@ -1,0 +1,15 @@
+X: 256
+T: De godtloose en sal deur t' onrecht neyt ontgaen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 3967329511
+%%humdrum-veritas-data 3311738882
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('zDDEFG2<A2).('dcABGA2).('zDDEFG2<A2).('dcABGA2).('zAB2d2c2).('B2AGFE2<F2).('DF2B2A2>).('D2F2B2A2>).('G2FDECD4) |]

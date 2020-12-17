@@ -1,0 +1,26 @@
+X: 5286
+T: Heeren wil je mijn beessie eens zien ‘t Is z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 602465849
+%%humdrum-veritas-data 3100641010
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('DGGG/ G/ |
+AA/ A<(AG/) |
+FDEF |
+G2G2) |
+.('DGGG |
+AA(A3/G/) |
+FDEF/ F/ |
+G2G2) |
+.('BB/ B/B2 |
+cc/ c/c2 |
+AA/ A/AA |
+(GB)G2) |]

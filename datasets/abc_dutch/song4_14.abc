@@ -1,0 +1,23 @@
+X: 3013
+T: Het is hier niet om het is daar niet om En h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 4267634513
+%%humdrum-veritas-data 3603787337
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d d d d |
+e d c) .('c/ c/ |
+c d e e |
+d c B) .('A |
+B2d2 |
+e d A) .('A |
+e/ e/ e/ e/ d d |
+G z z) |]

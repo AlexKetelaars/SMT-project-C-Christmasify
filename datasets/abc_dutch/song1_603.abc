@@ -1,0 +1,15 @@
+X: 603
+T: Die moghende Heere Die sprack met luyder stem
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 357679229
+%%humdrum-veritas-data 1602474564
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2G2G2>G2G2A2A).('AB2A2G2F2(G2>A2BcB2AGA4)z2).('G2G2>G2G2>F2G2G2A4z2).('G2A2d2d2c2(d2>c2B2AGA4)).('A4d2d2(c2>B2A2)).('c2B2A2G2F2(GABcB2AGA4)z2).('D2F2F2G2A2(BABc)d2z).('cB2A2G2^F2G4) |]

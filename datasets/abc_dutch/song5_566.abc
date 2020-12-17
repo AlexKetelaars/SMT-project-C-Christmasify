@@ -1,0 +1,29 @@
+X: 4565
+T: Doar heb-ie Dine doar heb-ie heur musse En d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3202225628
+%%humdrum-veritas-data 2905873667
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B B B B2<B2D |
+B2B BA2A2) |
+.('d2>e2d2B2 |
+G2G GG2G2) |
+.('d d d d d c B A |
+G2G> FE2D2) |
+.('c c c c B B B B |
+A2A2G4) |
+.('c c c c B B B B |
+[M:6/4]A2A2G2D>) .('DD2D2 |
+d4d4-d) .('d/ d/ d d/ d/ |
+[M:4/4]e2e2>c2 c c |
+d2d3).('d/ d/ d d |
+d e d c B AG2) |]

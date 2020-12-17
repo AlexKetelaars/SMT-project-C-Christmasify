@@ -1,0 +1,33 @@
+X: 16944
+T: Ick wou dat den krygh an ginck
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 310268273
+%%humdrum-veritas-data 3034577685
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2e2e fg2 |
+e2e2e2c2) |
+.('e2e2e fg2 |
+e6) |
+.('c d [I:setbarnb 5]|
+e2e2e fg2) |
+.('c2c2d2e f |
+g2f e d c d e |
+c6x2) |
+.('G c G c G> G G G |
+c> G G G c G E3/ c/ |
+G G c G) .('E c G G |
+c G G c G E G3/ F/ |
+E G G c c/ d/ e/ d/ e/ f/ g/ g/ |
+g6).('e/ f/ g/ f/ |
+e/ f/ g/ f/ e/ f/ g/ f/ e/ f/ g/ f/ e/ f/ g/ f/ |
+e/ f/ g/ f/ e/ f/ g/ f/ e/ f/ g/ f< e d/) |
+[M:5/4].('c> d e e e/ f/ g/ f/ e e e e |
+!fermata!e8) |]

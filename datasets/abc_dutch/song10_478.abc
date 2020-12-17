@@ -1,0 +1,29 @@
+X: 9477
+T: Komt, vrienden, met genuchten, Komt hier maa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 1794968052
+%%humdrum-veritas-data 2486110915
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E [I:setbarnb 1]|
+E A A A A E E E |
+F F F FF2z) .('F |
+F d d d c A A A |
+G A B c A) .('A G A |
+B2E2E B =A B |
+c2A2A) .('A A A |
+A2G2F A G A |
+B2E2E2z) .('E ||
+E F G A B c d {B} f [I:setbarnb 10]|
+e G F G A) .('A G A |
+F2D2D A G A |
+B2E2E2z) .('E |
+E F G A B c d {B} f |
+e G F GA2z2) |]

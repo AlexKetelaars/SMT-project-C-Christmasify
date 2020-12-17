@@ -1,0 +1,23 @@
+X: 3397
+T: En de boom stond in het schoon aardrijk En h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 3538155168
+%%humdrum-veritas-data 3143260459
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3// D// [I:setbarnb 1]|
+G A B c d> e d) .('c/ c/ |
+B G A FG3) ||
+.('D [I:setbarnb 3]|
+G G D D E E D) .('E/ G/ |
+G G D D E E/ E/ D) .('E/ F/ |
+[M:2/4]G F/ E/ D) .('D/ D/ |
+[M:4/4]G A B c d> e d) .('c/ c/ |
+B G A FG3) |]

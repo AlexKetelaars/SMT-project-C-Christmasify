@@ -1,0 +1,38 @@
+X: 17291
+T: Cherchons la paix
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 783336757
+%%humdrum-veritas-data 2312366829
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('efg |
+!mordent!!mordent!f3 |
+efg |
+!mordent!!mordent!d2d) |
+.('efg |
+!mordent!!mordent!f3 |
+eef |
+!mordent!!mordent!d3) |
+.('Bcd |
+!mordent!!mordent!c3 |
+BBc |
+!mordent!!mordent!A2A) |
+.('ddB |
+ecA |
+B!mordent!!mordent!A3/d/ |
+!mordent!!mordent!B3) |
+.('gge |
+!mordent!!mordent!c3 |
+ffe |
+!mordent!!mordent!d>cB) |
+.('gge |
+cfd |
+e!mordent!!mordent!d3/e// f// |
+e3) :|]

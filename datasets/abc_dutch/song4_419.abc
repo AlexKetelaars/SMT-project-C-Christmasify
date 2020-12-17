@@ -1,0 +1,27 @@
+X: 3418
+T: Ik ging laatst al op een avond En een wandel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 4041612858
+%%humdrum-veritas-data 764050406
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+G G GG2).('A/ A/ |
+B B BB2).('d/ d/ |
+d d d g d) .('B/ B/ |
+(3B> B A AA2).('d3// d// |
+d c d B/> B/ B) .('e |
+d c dB2).('d |
+g d> B A e) .('e/ e/ |
+d c dG2).('D/ D/ |
+G/ G/ G B/ B/ d/ d/ d d/ d/ |
+e e ed2).('d/ d/ |
+c/ c/ c c/ c/ B/ B/ B B/ B/ |
+d ^c dG2) |]

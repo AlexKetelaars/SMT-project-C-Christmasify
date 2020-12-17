@@ -1,0 +1,15 @@
+X: 338
+T: Simon de soon Onie goet De hoghe priester wi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 3268091515
+%%humdrum-veritas-data 2122428927
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F2FGAFABc2).('z2c2BAGFABc2).('z2d2cBAFG2F2).('F2FGAFABc2).('z2c2BAGFABc2).('z2d2cBAFG2F2).('f2ffecddA2).('z2f2ffecddc2).('z2A2cdcAB2A2).('G2ABc>BAAG2).('z2c2defeddc2).('F2GABAG2F4) |]

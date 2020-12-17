@@ -1,0 +1,38 @@
+X: 5841
+T: Laatst waren er drie koningen wijs, Zij reis [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 3785903643
+%%humdrum-veritas-data 2632108201
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('E A B |
+c2d |
+e d f |
+e2).('e |
+d e c |
+B c A |
+(A ^G) A |
+E3) :|]
+.('c c d |
+e3 |
+e f e |
+{e}d2).('e |
+d e B |
+c B A |
+^G A c |
+!fermata!B2).('E |
+A c d |
+e d c |
+B A ^G |
+A2).('e |
+f e d |
+e d c |
+B A ^G |
+A3) |]

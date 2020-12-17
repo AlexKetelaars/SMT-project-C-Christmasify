@@ -1,0 +1,30 @@
+X: 7509
+T: Snyd de boer zyn hair af, Snyd het niet te naer af
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 2790825550
+%%humdrum-veritas-data 2992387908
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('GG/GG/ |
+G3/F3/ |
+AA/AA/ |
+A3/G3/) |
+.('BG/GB/ |
+cA/AB/ |
+cA/ (A/ G/) F/ |
+G>-G z/) .('D/ |
+AA/AG/ |
+FF/FE/ |
+DD/EE/ |
+F3/D).('D/ |
+AA/AG/ |
+FF/FE/ |
+DD/EE/ |
+F3/Dz/) |]

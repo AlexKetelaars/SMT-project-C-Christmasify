@@ -1,0 +1,23 @@
+X: 9156
+T: ‘t Was op eenen Driekoningen avond, ‘t Was o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3493176841
+%%humdrum-veritas-data 3261704316
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('D D [I:setbarnb 1]|
+G2G AB2A G |
+G4F2).('F F |
+G2A FG2A F |
+B6).('A B |
+c2c2(B A) (G A) |
+B4A2).('B A |
+G2A BG2F2 |
+G6) |]

@@ -1,0 +1,29 @@
+X: 12393
+T: De Waardinne
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 3373716576
+%%humdrum-veritas-data 2826632713
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d [I:setbarnb 1]|
+gGBc |
+d3).('z// d// e// f// |
+gGBc |
+d3).('(c/ B/) |
+cADc |
+(!trill!!trill!c2B)).('d |
+eeed/ c/ |
+ddd).('c/ B/ |
+cccB/ A/ |
+B/ A/ B/ c/B).('g |
+dgdg |
+!trill!!trill!f>ed).('c |
+B2A2 |
+G3) :|]

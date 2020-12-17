@@ -1,0 +1,31 @@
+X: 3858
+T: Aanhoort en ziet Gods wonderwerken Wat ene v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1772400000
+%%humdrum-veritas-data 479262384
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GAB3/B/ |
+cB(GB) |
+A3).('A |
+[M:6/4]Add/> A/ A/ B/cd |
+[M:4/4]B3).('D |
+GAB3/B/ |
+cB(GB) |
+A3).('A |
+[M:6/4]AddA/ B/cd |
+[M:4/4]B3).('D3// D// |
+G/> G/ABG |
+edcA |
+G3).('D/ D/ |
+GABd |
+fed3/c/ |
+B3) |]

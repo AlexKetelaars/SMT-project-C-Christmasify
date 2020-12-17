@@ -1,0 +1,26 @@
+X: 5463
+T: Waar is dan die tyd gebleven, Die ik eertyds [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2529921463
+%%humdrum-veritas-data 2142651264
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('B2F2B3B |
+c2(d _e)d2B2 |
+_e2c2d g f g |
+e2>f2f4) |
+.('d _ef2(B c)d2 |
+G2c BA2F2 |
+f2>f2f2(_e f) |
+d2>c2c4) |
+.('G2c2A G A B |
+A2d2B A B _e |
+B2_e2c2(d e) |
+c2>B2B4) :|]

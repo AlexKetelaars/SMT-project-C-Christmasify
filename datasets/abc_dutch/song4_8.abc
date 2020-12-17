@@ -1,0 +1,32 @@
+X: 3007
+T: Het allergrootste schip van deze aard Zou d' [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 469754005
+%%humdrum-veritas-data 3392302582
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D// D// [I:setbarnb 1]|
+DD/BG/ |
+AG/ (E/ F/) G/ |
+[M:3/8]D).('D/ |
+[M:5/8]D/ E/ F/ G/ A/ |
+[M:9/8]G3/F).('F/ED/ |
+FE/ C/ C/ D/FF/ |
+[M:6/8]F3/-F).('F// F// |
+[M:12/8]ED<F-FD/E3/ |
+[M:9/8]D3/-D).('D/DD/ |
+E3/-EE/FA/ |
+G3/-G).('G/FG/ |
+A3/-AE/FG/ |
+A3/).('D3/BA/ |
+[M:12/8]G3/-GG/AB/cc/ |
+[M:9/8]B).('G// G//AB/cB/ |
+[M:6/8]AE/FA/ |
+G3/-G) |]

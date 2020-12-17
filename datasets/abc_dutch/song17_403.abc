@@ -1,0 +1,57 @@
+X: 16402
+T: Viver lieto voglio
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 2525911714
+%%humdrum-veritas-data 3870782780
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('z2BB |
+B^cd2 |
+B2cB |
+cde2 |
+c).('e/ d/c2 |
+zf/ e/d2 |
+zd/ c/B2 |
+zG/ A/Bc |
+A2B2) |
+.('zde3/d/ |
+cBc2 |
+z).('de3/d/ |
+cBee/ e/ |
+dfe2 |
+d2).('dd/ d/ |
+ced2 |
+c2).('ee/ e/ |
+dBc2 |
+B2).('cc/ c/ |
+BBA2 |
+G).('B/ c/d2 |
+zA/ B/c2 |
+z).('c/ d<ed/ |
+cBAG |
+^FGGF |
+G2z).('d |
+e>dcB |
+c2z).('d |
+e>dcB |
+c2).('ee/ e/ |
+dfe2 |
+d2).('dd/ d/ |
+ced2 |
+c2).('ee/ e/ |
+dBc2 |
+B2).('cc/ c/ |
+BBA2 |
+G).('B/ c/d2 |
+zA/ B/c2 |
+z).('c/ d<ed/ |
+cBAG |
+^FGGF |
+G4) |]

@@ -1,0 +1,45 @@
+X: 8981
+T: Jufvrouw, bewaart uw purperen lint; Jufvrouw [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 1045740162
+%%humdrum-veritas-data 848200741
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+DG/GG/ |
+A3/BB/ |
+A3/-A).('D/ |
+DG/GG/ |
+A3/BB/ |
+A>-A z/) .('A/ |
+cB/AG/ |
+G3/FD/ |
+E3/D).('D/ |
+DG/GG/ |
+A3/B3/ |
+A3/-A).('A/ |
+cB/AG/ |
+G3/FE/ |
+E3/D).('D/ |
+DG/GG/ |
+A3/B3/ |
+A>-A z/) .('D/ |
+DG/GG/ |
+AB/GG/ |
+A>A z/) .('D/ |
+DG/GG/ |
+AB/GG/ |
+A>-A z/) .('A/ |
+cB/AG/ |
+G3/FE/ |
+E3/D).('D/ |
+DG/GG/ |
+A3/B3/ |
+A3/-A) |]

@@ -1,0 +1,31 @@
+X: 13754
+T: Menuetto
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 1853261086
+%%humdrum-veritas-data 4278616060
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('F2F G A B |
+c2c d e f |
+g2b/ a/ g/ f/ e/ f/ g/ e/ |
+f4).('c2 |
+d2d cB2 |
+c4(3(A B c) |
+c2d c B A |
+G4) |
+.('G A [I:setbarnb 9]|
+B2B2A2 |
+c2>(A2 B c) |
+c2d c B A |
+G4).('g2 |
+a2g2f2 |
+e2c2g a |
+b a g f e/ f/ g/ e/ |
+f4) :|]

@@ -1,0 +1,39 @@
+X: 5651
+T: Het jaer is gaen vlugten, vriendin en gezel!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 3055714612
+%%humdrum-veritas-data 2046423153
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('BG/EF/ |
+G3/E3/ |
+FB/GB/ |
+F3/-Fz/) |
+.('Fc/G=A/ |
+B3/dd/ |
+d/ c/ B/ B/ A/ G/ |
+Fz/=AA/ |
+B3/-Bz/) |
+.('BF/=EF/ |
+G3/EB/ |
+B3/FB/ |
+B3/GB/ |
+dc/F).('F/ |
+cB/EB/ |
+c3/d3/ |
+e3/-ez/) ||
+.('BF/=EF/ [I:setbarnb 19]|
+G3/EB/ |
+B3/FB/ |
+B3/GB/ |
+dc/F).('F/ |
+cB/EB/ |
+c3/d3/ |
+e3/-ez/) |]

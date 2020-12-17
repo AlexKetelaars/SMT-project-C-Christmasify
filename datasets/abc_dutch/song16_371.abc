@@ -1,0 +1,70 @@
+X: 15370
+T: Geloofd zij God met diepst ontzag
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 3247643785
+%%humdrum-veritas-data 2866817072
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E2 [I:setbarnb 1]|
+E2F2 |
+G2E2 |
+G2=A2 |
+!fermata!B4) ||
+.('x2B2 [I:setbarnb 6]|
+A2G2 |
+F2E2 |
+G2=A2 |
+!fermata!B4) ||
+.('x2c2 [I:setbarnb 11]|
+B2A2 |
+G2E2 |
+F2!fermata!E2) ||
+.('x2E2 [I:setbarnb 15]|
+E2F2 |
+G2E2 |
+G2=A2 |
+!fermata!B4) ||
+.('x2B2 [I:setbarnb 20]|
+A2G2 |
+F2E2 |
+G2=A2 |
+!fermata!B4) ||
+.('x2c2 [I:setbarnb 25]|
+B2A2 |
+G2E2 |
+F2!fermata!E2) ||
+.('x2e2 [I:setbarnb 29]|
+e2e2 |
+d2B2 |
+c2c2 |
+!fermata!B4) ||
+.('x2e2 [I:setbarnb 34]|
+e2e2 |
+d2B2 |
+c2c2 |
+!fermata!B4) ||
+.('x2G2 [I:setbarnb 39]|
+A2c2 |
+B2G2 |
+A2!fermata!G2) ||
+.('x2F2 [I:setbarnb 43]|
+G2A2 |
+B2A2 |
+G2G2 |
+!fermata!F4) ||
+.('x2B2 [I:setbarnb 48]|
+c2d2 |
+e2d2 |
+c2c2 |
+!fermata!B4) ||
+.('x2E2 [I:setbarnb 53]|
+F2G2 |
+A2G2 |
+F2!fermata!E2) |]

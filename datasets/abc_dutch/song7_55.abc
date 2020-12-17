@@ -1,0 +1,32 @@
+X: 6054
+T: Boeren dans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2165122004
+%%humdrum-veritas-data 796068289
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2A2 [I:setbarnb 1]|
+d2~e fe2~f g |
+f2~e d).('f2~e d |
+g2f2e2d2 |
+c2~B c).('A2A2 |
+d2~e fe2~f g |
+f2~e d).('f2~e d |
+g2f2e3d |
+d4) |
+.('e2e2 [I:setbarnb 9]|
+A2~B cB2~c d |
+c2A2).('d2~e f |
+e2~f g2<f2e |
+e4).('a2a2 |
+e2~f gf2~g a) |
+.('e2~f gf2~g a) |
+.('d2>e2e3d |
+d4) :|]

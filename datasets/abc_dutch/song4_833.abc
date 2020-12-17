@@ -1,0 +1,21 @@
+X: 3832
+T: En al op die bergen [3x] daar woont mijn zoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 1349311426
+%%humdrum-veritas-data 1529332144
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/> d/ e7// d// [I:setbarnb 1]|
+d2c3).('e/> e/ d7// c// |
+c2B3).('d/ d/ e f |
+g2g>> g g f e d |
+e4-e) .('g/ g/ f e |
+(d b) g d f e d A |
+G4-G) |]

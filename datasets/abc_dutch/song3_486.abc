@@ -1,0 +1,23 @@
+X: 2485
+T: Een man een vrouw zij leefden daar tezamen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 132634278
+%%humdrum-veritas-data 1392242637
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d e3/ d/ [I:setbarnb 1]|
+d2>c2 B d g3/ B/ |
+B A-A2z) .('g g3/ g/ |
+(f2d2)f> e d3/ c/ |
+B4-B) .('e e3/ d/ |
+d2>c2 B d g3/ g/ |
+f e2<-e2).('e f g |
+d2>B2 d d c F |
+G4-G) |]

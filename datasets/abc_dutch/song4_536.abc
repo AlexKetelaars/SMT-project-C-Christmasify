@@ -1,0 +1,28 @@
+X: 3535
+T: Hei je wel gehoord van ’t Oranjelied Wat er  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 298968991
+%%humdrum-veritas-data 1462346326
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('A> A A> BA2F3/ G/ |
+A2B2A4) |
+.('A2A> BA2F3/ G/ |
+A2B2A2).('A3/ A/ |
+B2G2B2e2 |
+(d2e2)d4) |
+.('B> B B AG2B3/ B/ |
+A G (F E)D2).('G F |
+E F G E D> D c c |
+(B2A2)d4) |
+.('B> B B AG2B3/ B/ |
+A G (F E)D2).('G F |
+E F G E D> D c c |
+(B2A2)G4) |]

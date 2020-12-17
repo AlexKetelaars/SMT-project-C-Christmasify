@@ -1,0 +1,15 @@
+X: 591
+T: Heer in u toornicheyden En wilt mi straffen niet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 4055671652
+%%humdrum-veritas-data 3057910454
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2G2A2G2G2^F2G4G4z2).('G2A2c2(BA)(cB)c4).('z2G2A2G2G2F2G4G4z2).('G2A2c2(BA)(cB)c4z2).('c2B2A2d4z2).('e2d2c2B2B2A4A4z2).('B2(c2B)(AG)G4z2).('d2c2c2B2B2(ABcBB2AGA4)G4) |]

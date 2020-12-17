@@ -1,0 +1,63 @@
+X: 11024
+T: Vulkanus, al hinkende, trad in de Kamer En s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3233415432
+%%humdrum-veritas-data 1441520290
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e [I:setbarnb 1]|
+e>de |
+c>de |
+dcd |
+B>B).('B |
+c>Bc |
+A>Bc |
+BcA |
+^GE).('e |
+e>dc |
+f>ff |
+f>gf |
+eee |
+c>d (c/ d/) |
+BB).('(c/ d/) |
+e>fg |
+g>fe |
+fed |
+e2).('e |
+e>de |
+c>d (e/ B/) |
+c>BA |
+A2).('(c/ d/) |
+e>fe |
+d>ec |
+B>cA |
+^GG).('e |
+e>de |
+c>cc |
+f>ff |
+ee).('^G |
+A>Bc |
+B>cd |
+d>cd |
+ee).('e |
+ede |
+cde |
+dcd |
+BB).('(c/ d/) |
+e>fe |
+d>ed |
+def |
+ez).('e |
+(e>d c/ B/ |
+A>B c/ d/ |
+e>)de |
+e>fg |
+^ggg |
+a2) |]

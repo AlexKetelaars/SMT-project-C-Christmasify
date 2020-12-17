@@ -1,0 +1,25 @@
+X: 9080
+T: En ik heb een klak op al van Jaho
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3717024361
+%%humdrum-veritas-data 3354515864
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C C C [I:setbarnb 1]|
+F F F F E3/ F/ |
+G2>C2 C C |
+G G G G F3/ G/ |
+A3).('A/ A/ c B |
+A> AA2B G |
+[M:4/4]G> G G> GG2A3/ G/ |
+[M:3/4]F4d3/ d/ |
+c2>z2) .('C C |
+[M:4/4]G> G G> G G> G G3/ A/ |
+[M:3/4]F2z2z2) |]

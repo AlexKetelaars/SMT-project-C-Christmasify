@@ -1,0 +1,26 @@
+X: 17290
+T: flonflon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 4086983625
+%%humdrum-veritas-data 1137123652
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2de |
+fe!mordent!!mordent!dc) |
+.('e2dd/ e/ |
+fe!mordent!!mordent!d2) |
+.('d2d!mordent!!mordent!B |
+cd!mordent!!mordent!ec) |
+.('d2!mordent!!mordent!d3/c// d// |
+edcd) |
+.('e2de |
+fe!mordent!!mordent!dc) |
+.('dd!mordent!!mordent!d3/c// d// |
+ege2) :|]

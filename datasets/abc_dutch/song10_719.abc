@@ -1,0 +1,31 @@
+X: 9718
+T: Daar gebeuren vieze toeren, bij de jongheid  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 3480173439
+%%humdrum-veritas-data 1887509415
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G3/ G/ [I:setbarnb 1]|
+c2>B2 A G |
+B2A2).('E3/ F/ |
+G2>A2 G F |
+E2z2).('G3/ G/ |
+c2>B2 A G |
+B2A2).('E3/ E/ |
+A2c2B3/ A/ |
+G2z2).('c2 |
+[M:2/4]B B A A |
+G2).('A2 |
+G G F F |
+E) .('D E F |
+(3G G G G G |
+G2z) .('G |
+A A B G |
+c2z2) |]

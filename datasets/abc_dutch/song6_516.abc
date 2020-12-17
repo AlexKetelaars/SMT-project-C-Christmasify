@@ -1,0 +1,43 @@
+X: 5515
+T: Ziet ge onzen zwarten leeuw niet ryzen Zoo f [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3187333894
+%%humdrum-veritas-data 267230866
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('a/ [I:setbarnb 1]|
+a2>g2 f g a3/ b/ |
+d'4c'2d'3/ d'/ |
+=b2c'> _ba2g2 |
+f2z2e2!fermata!z2) ||
+[K:Ab] .('F> F C> C F A B3/ c/ [I:setbarnb 6]|
+d4c3).('c |
+G2>G2 B A G F |
+G4z2z) .('F |
+F2>C2 F A B3/ c/ |
+d4c) .('c d =d |
+e2(c A) (G E) (D B,) |
+A,2z4z) .('A |
+G2>A2 B B =B3/ B/ |
+(c3B/ A/)G3).('c |
+=B2>B2 B B B B |
+c4z2z) .('G |
+G2>A2 B B =B3/ B/ |
+(c3B/ A/)G3).('c |
+=B2>B2 B B B B |
+[K:F] c7).('B |
+A2>G2 F> G A3/ B/ |
+d4c3).('A |
+c> BG2>G2 B3/ A/ |
+G4z2z) .('B |
+A2>G2 F> A B3/ c/ |
+^c4d2z) .('d |
+c2>^c2 d =c B3/ G/ |
+F2z2z4) |]

@@ -1,0 +1,27 @@
+X: 1985
+T: Er kwam er eens een meisje van Scheveningen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1588136618
+%%humdrum-veritas-data 4012230109
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('e [I:setbarnb 1]|
+d e d B B d |
+d e dG2).('B |
+B A A A A d |
+^c d ed2).('d |
+g f Ac2e |
+e d G B>) .('B B |
+B A A c B A |
+A G Bd2).('d |
+g f Ac2e |
+e d G B>) .('B B |
+B A A c B A |
+A G FG2) |]

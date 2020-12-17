@@ -1,0 +1,28 @@
+X: 8883
+T: Zwarte handen, zwarte lokken, Oogen, zwarter [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3889383858
+%%humdrum-veritas-data 3087673028
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('E2FG2E |
+G2AB2G) |
+.('B2Bc2B |
+A2^AB2z) |
+.('^A2AB2z |
+e2^AB2!fermata!z) |
+.('B2Bc2B |
+A2BA2G) |
+.('G2GA2A |
+(B A) Bc2z) |
+.('B2Bc2c |
+(d c) de2!fermata!z) |
+.('e2A (d G) A |
+(B c) AG2!fermata!z) |]

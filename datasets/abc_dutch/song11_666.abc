@@ -1,0 +1,25 @@
+X: 10665
+T: Geen hout meer in de schaam’le hut, Geen vuu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3517169889
+%%humdrum-veritas-data 3242302893
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('B, [I:setbarnb 1]|
+F2F (F =E) F |
+(G A) BF2).('F |
+B2F (F E) D |
+C3-C2).('C |
+C2DE2F |
+A2AG2).('G |
+F2GF2E |
+D3-D2).('G |
+F2D (E D) C |
+B,3-B,2) |]

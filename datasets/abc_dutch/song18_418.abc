@@ -1,0 +1,46 @@
+X: 17417
+T: [Mars van Boufflers]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 649069932
+%%humdrum-veritas-data 2473673468
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d2e2 |
+f>gfe |
+defd |
+e/ d/ e/ f/eA) |
+.('d2e2 |
+f>gfe |
+d/ c/ d/ e<ed/ |
+d2z2) |
+.('f2g2 |
+a>bag |
+fgag/ f/ |
+e/ d/ e/ f/ee) |
+.('(f>g)(g3/g// a//) |
+a>bag |
+fgag/ f/ |
+e3A) |
+.('d2e2 |
+f>gfe |
+defd |
+e/ d/ e/ f/eA) |
+.('d2e2 |
+f>gfe |
+d/ c/ d/ e<ed/ |
+d2z2) |
+.('AF/ G/Ad |
+AF/ G/Ad |
+AF/ G/Ad |
+c3).('d |
+ec/ d/ea |
+ec/ d/ea |
+ed/ c<BA/ |
+A4) |]

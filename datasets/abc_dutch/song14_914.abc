@@ -1,0 +1,39 @@
+X: 13913
+T: Waltz
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 1271585975
+%%humdrum-veritas-data 3676632121
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('f a [I:setbarnb 1]|
+c2 c B c d |
+c4A c |
+B2 B A B c |
+d2 c2) .('f a |
+c2 c B c d |
+c4g b |
+b a g f e g |
+f4x2) |
+.('e2 e e e2 |
+e2 e e e2 |
+e2 e e e2 |
+e4).('g b |
+b a g f e f |
+g f e d c B |
+A c f a g e |
+g2 e g f2) |
+.('f4g2 |
+a b a g f2 |
+e4f2 |
+g a g f e2) |
+.('f4g2 |
+a b a g f2 |
+b a g f e g |
+f4) :|]

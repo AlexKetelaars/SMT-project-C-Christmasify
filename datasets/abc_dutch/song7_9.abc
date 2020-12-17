@@ -1,0 +1,39 @@
+X: 6008
+T: Juffrouw fox
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3855643108
+%%humdrum-veritas-data 3514299558
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('A2c2e2 |
+a2g2f2 |
+e2a2g f |
+e d c d e f |
+B4A2) |
+.('A2c2e2 |
+a2g2f2 |
+e2f a B ^d |
+e6) :|]
+.('a b a g f e |
+a b a g f e |
+a b a g f g |
+a4e2) |
+.('a b a g f e |
+a b a g f e |
+a b a g f g |
+a4e2) |
+.('c cc2B A |
+e ee2c c |
+c2B2A2 |
+B4E2) |
+.('c cc2B A |
+e ee2c2 |
+B Ae2a g |
+a4) |]

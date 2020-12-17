@@ -1,0 +1,38 @@
+X: 11966
+T: Brande D Ameneer 3
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 371020226
+%%humdrum-veritas-data 545169560
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('g>b a/ g/ |
+f>ed |
+ed3/c/ |
+B>cd |
+BG3/d/ |
+d3) |
+.('g>b a/ g/ |
+f>ed |
+ed3/c/ |
+B>Bc |
+dd3/^c/ |
+d2x) |
+.('AAB |
+c>dB |
+gf3/e/ |
+^d>ef |
+gg3/f/ |
+g3) |
+.('ee3/g/ |
+f>ed |
+gB3/c/ |
+d>GF |
+BA3/G/ |
+G3) :|]

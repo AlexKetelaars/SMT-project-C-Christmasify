@@ -1,0 +1,30 @@
+X: 3670
+T: Komt vrienden wilt aanhoren [En luistert naa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 1087694672
+%%humdrum-veritas-data 2080338326
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D2>B2 A A |
+G3D2).('D |
+E2F G F E |
+D2).('CB,2C |
+[M:9/8]D3G3-G2).('G/ G/ |
+[M:6/8]G G AB2A |
+G3-G2).('G/ G/ |
+A2Bc2B |
+A3-A2).('A |
+B B dc2B |
+A3).('d3 |
+B2G G G D |
+(G2B)d2).('B |
+A2GF2E |
+D) .('D DG2B |
+A3G3) |]

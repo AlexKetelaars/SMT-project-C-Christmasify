@@ -1,0 +1,27 @@
+X: 16211
+T: Ik lach met Venus kwikken, Zy zoekt my te ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2953337542
+%%humdrum-veritas-data 287582954
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G [I:setbarnb 1]|
+GABc |
+d2d3/).('d/ |
+edcB |
+A2G).('(B/ c/) |
+dcBA |
+G2D2) |
+.('G/ A/ (B/ c/) G/ A/ (B/ A/) |
+G/ A/ B/ c/d2) |
+.('dcBA |
+G2D2) |
+.('GA/ B/c(A3// G//) |
+G3) |]

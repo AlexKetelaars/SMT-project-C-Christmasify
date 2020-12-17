@@ -1,0 +1,31 @@
+X: 5646
+T: Mijne pijp en goed bier, meer behoef ik niet [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2356277481
+%%humdrum-veritas-data 792951521
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('e3/c3/ |
+e/ d/ c/Bz/) |
+.('FG/AB/ |
+dc/BG/) |
+.('e3/d3/ |
+c/ B/ A/Gz/) |
+.('FG/Ac/ |
+Bf/ez/) :|]
+.('x3/xG/ |
+ed/c=B/ |
+c3/A).('A/ |
+Gc/c=B/ |
+d3/-d).('B/ |
+gg/(fd/) |
+e3/c).('c/ |
+BB/ec/ |
+(df// e//)d3/) |]

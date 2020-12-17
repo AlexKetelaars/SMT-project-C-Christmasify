@@ -1,0 +1,33 @@
+X: 7289
+T: In ‘t jaer zeventien hondert, Gy moet niet z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3947537152
+%%humdrum-veritas-data 1802221680
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A c B A |
+A G z e |
+e d e f |
+e d z) .('e |
+d c B A |
+d3c |
+B A ^G A |
+E2z) .('B/ c/ |
+d d d e |
+d2B c |
+d d e (d/ c/) |
+B z) .('A e |
+e d d c |
+B z E A |
+{A}^G2).('A B |
+{c}B2c d |
+e d c B |
+A2z2) |]

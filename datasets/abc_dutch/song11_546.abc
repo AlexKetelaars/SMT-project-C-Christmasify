@@ -1,0 +1,51 @@
+X: 10545
+T: Sinter Maarten had er een koe, Hij nòòdde al [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 775759347
+%%humdrum-veritas-data 3835204003
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('AA/BB/ |
+A/ A/ A/F).('D/ |
+AA/BB/ |
+AA/F3/) |
+.('AA/BB/ |
+A3/F).('D/ |
+AA/BB/ |
+A3/F3/) |
+.('AA/BB/ |
+A3/F3/) |
+.('AA/BB/ |
+A3/F3/) |
+.('AA/BB/ |
+A3/F3/) |
+.('AA/BB/ |
+A3/F3/) |
+.('BB/BD/ |
+BBz/) .('B// B// |
+A/ A/ A/ A/ A/ A/ |
+AA/A3/ |
+dzz) |
+.('A3/BB/ |
+A3/F3/) |
+.('A3/B3/ |
+AA/F3/) |
+.('A3/BB/ |
+A3/F3/) |
+.('A3/BB/ |
+A3/F3/) |
+.('A3/BB/ |
+A3/F).('D/ |
+AA/BB/ |
+A3/F).('D/ |
+GG/GD/ |
+GG/G3/) |
+.('B/ A/ G/ F/ E/ D/ |
+Dzz) |]

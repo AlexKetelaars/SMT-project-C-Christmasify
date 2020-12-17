@@ -1,0 +1,58 @@
+X: 16142
+T: Leef Roozemond voor my, gelyk ik leef voor u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 4075263697
+%%humdrum-veritas-data 945885910
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('A3 |
+(d e) d |
+(^c B) c |
+e3 |
+z z A |
+(A _B) A |
+(G F) G |
+A3 |
+z z) .('F |
+c2c |
+c2A |
+d2d |
+d2).('e |
+(f e) d |
+(c B) A |
+^G3 |
+z z e |
+(B c) d |
+(c B) A |
+A3 |
+z z) .('e |
+(f e) e |
+(f e) e |
+f3 |
+z z e |
+(f e) e |
+(f e) d |
+^c3 |
+z z) .('A |
+B2B |
+B2B |
+^c2c |
+^c2).('e |
+(e E) e |
+(f F) e |
+f3 |
+z z) .('e |
+(f e) d |
+(^c B) c |
+d3 |
+z z) .('e |
+(f e) d |
+(^c B) c |
+d3) :|]

@@ -1,0 +1,28 @@
+X: 3324
+T: Komt vrienden wij gaan nu op de reis Met klo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 1494423651
+%%humdrum-veritas-data 3615052749
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+D2D> D D> F A3/ A/ |
+D>) .('D D> F A> A G3/ D/ |
+A2D2z4) |
+.('D2D> D D> F A3/ A/ |
+D>) .('D D> F A> A G3/ E/ |
+A2D2z) .('D/ D/ D F |
+A2>A2 G F E D |
+G2G> GG2).('D2 |
+D2B,> B, B,>) .('B, B,3/ C/ |
+D2>G2 A> A G3/ G/ |
+F4E>) .('E E3/ E/ |
+D2>D2 ^C> D E3/ F/ |
+G2G> GG2) |]

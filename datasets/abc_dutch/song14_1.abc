@@ -1,0 +1,23 @@
+X: 13000
+T: Handjes draaien koekebakkevlaaien
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 2884494984
+%%humdrum-veritas-data 2458093807
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('D2F2A2F2 |
+E E E EF2D2) |
+.('D2F2A2F2 |
+E E E E2<D2).('D |
+B B B BA2A) .('A |
+A G F E2<F2).('D |
+B B B BA2A) .('A |
+A G F ED2A2 |
+D2z2z4) |]

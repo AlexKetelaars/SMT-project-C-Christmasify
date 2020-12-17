@@ -1,0 +1,35 @@
+X: 3989
+T: Alfons was achttien jaar Moest hij de wapens [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 2495022199
+%%humdrum-veritas-data 357567246
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GD/GA/ |
+G3/-G).('D/ |
+GF/GA/ |
+(BA/)G).('B/ |
+AB/AB/ |
+A3/).('EF/ |
+AG/FE/ |
+D3/-D3/) |
+.('c3/A/> B/ c/ |
+BG/D).('D/ |
+GG/ G/ G/ A/ |
+(BA/)G).('B/ |
+AB/AB/ |
+A3/).('EF/ |
+AG/FE/ |
+D3/-D3/) |
+.('c>(A B/) c/ |
+[M:9/8]BG<D).('G/ A/ c/ |
+[M:6/8]B3/A3/ |
+G3/-G) |]

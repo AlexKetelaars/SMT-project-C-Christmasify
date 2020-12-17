@@ -1,0 +1,31 @@
+X: 6581
+T: De Heiland is geboren, In ‘t midden van den nacht
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 2728282297
+%%humdrum-veritas-data 3548882989
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ [I:setbarnb 1]|
+GGA3/B/ |
+cAz).('B |
+ced3/^c/ |
+d2z).('d |
+GGA3/B/ |
+cAz).('B |
+ced3/^c/ |
+d2zz) ||
+[M:3/4].('dde [I:setbarnb 10]|
+d>cB) |
+.('dcB |
+B>AG) |
+.('cB/ A/ B/ c/ |
+d/) .('d/ec |
+(BA3/)A/ |
+G2) |]

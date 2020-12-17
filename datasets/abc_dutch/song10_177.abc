@@ -1,0 +1,37 @@
+X: 9176
+T: Rijck God, wien sal ick claghen Dat hymelijc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 817955922
+%%humdrum-veritas-data 3821734594
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E2 [I:setbarnb 1]|
+EEGA |
+[M:3/2]G2G).('GA/ A/G |
+[M:3/4](EFG |
+A2)(G/ F/) |
+[M:2/2]E2).('E2 |
+EEGA |
+[M:3/2]G2G).('G/ G/ A/ A/G |
+[M:3/4](EFG |
+A2)(G/ F/) |
+[M:2/2]E2z).('A |
+AcBA |
+[M:3/2](A^G)A).('c/ c/ B/ B/=G |
+[M:3/4](AB3/A/ |
+G2)^F |
+[M:2/2]G2z).('G |
+[M:3/4]AAB |
+c/ c/A2 |
+[M:2/2]G2A).('c |
+[M:3/4]BAG/ G/ |
+(c>BA- |
+A2)^G |
+[M:3/2]A4) |]

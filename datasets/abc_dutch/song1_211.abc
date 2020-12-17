@@ -1,0 +1,15 @@
+X: 211
+T: Ick roep' u Heer aen in noot niet kleyn, Hae [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3579729084
+%%humdrum-veritas-data 3683610031
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E4D2C4E2G4F2E2A4G4z4).('G4A2A2G4E2F4D2E4z4).('G4F2D2E4F2E4D2C4z4).('C4E2F2G4G4E2G2F4E4) |]

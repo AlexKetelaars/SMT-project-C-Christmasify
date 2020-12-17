@@ -1,0 +1,24 @@
+X: 12196
+T: Es wollt’ ein Mädchen in der Frühe aufstehn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 322813335
+%%humdrum-veritas-data 4088204028
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('D2F2E2 |
+D2D2z2) |
+.('F B2<A2G |
+(F A)E4) |
+.('A2A2A2 |
+F2>G2 (A d)) |
+.('(B A) (A G) (G F) |
+E2>F2 (G B)) |
+.('(A G)F2E2 |
+D4) |]

@@ -1,0 +1,58 @@
+X: 9672
+T: Willen wij, willen wij, ‘t Haasken jagen doo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3414398980
+%%humdrum-veritas-data 3534793591
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D2F [I:setbarnb 1]|
+A3A2A |
+A3A2A |
+B2AA2G |
+F3).('F2A |
+G2FE2G |
+F2DF2A |
+G2FE2G |
+[M:9/8]F2D).('A2A B A G |
+[M:6/8]F3E3 |
+[M:9/8]A2z).('A2A B A G |
+[M:6/8]F3E3 |
+D2z).('d3 |
+D2D D E F |
+E2Ed3 |
+D2D (E F) E |
+D2z).('d3 |
+D2D D E F |
+E2Ed3 |
+D2D (E F) E |
+D2z).('D2F |
+A2zD2F |
+A2zA2A |
+B3d3 |
+d3c3 |
+d2z) ||
+.('F2F [I:setbarnb 26]|
+A3B2B |
+c3B2F |
+A2BA2^G |
+F2z).('F2F |
+B2Bc2B |
+A2FF2F |
+B2Bc2B |
+[M:9/8]A2F).('F2F (^G A) B |
+[M:6/8]A3^G3 |
+F2zz2z) |
+.('A2A (B c) d |
+c3B3 |
+A3z2z) |
+.('z2zA2A |
+A3z2z |
+z2zA2A |
+A3) |]

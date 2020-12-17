@@ -1,0 +1,30 @@
+X: 15120
+T: Wat wordt het laat, de klok slaat acht
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1945628866
+%%humdrum-veritas-data 255421028
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B A GF2D |
+G2GF2F |
+G e dc2A |
+B3z2) :|]
+.('B/ c/ [I:setbarnb 5]|
+d2Be2d |
+c3z2c |
+B A Gc2B |
+A3z2).('F |
+B A GF2D |
+G2GF2).('F |
+G e d c B A |
+B2cd2F |
+G e cB2A |
+B3) |]

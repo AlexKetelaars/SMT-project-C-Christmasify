@@ -1,0 +1,29 @@
+X: 2228
+T: O Heer waar mag mijn minnaar wezen Die mij o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 2210445163
+%%humdrum-veritas-data 2395364009
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: G clef=treble
+.('zDB,E [I:setbarnb 1]|
+D2D2(BAc)B |
+A2G2>).('B2BB |
+A2>B2A>GFE |
+D4).('zDB,E |
+D2D2(BAc)B |
+A2G2>).('B2BB |
+A2>B2A>GFE |
+D4).('z2D2 |
+c2>B2AGFB |
+(AF/ E/)D2>).('G2FA |
+D2G2F>FED |
+B,2).('(A>B)B2A2 |
+B2>G2(FAc)F |
+G4) |]

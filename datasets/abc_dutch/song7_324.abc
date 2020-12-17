@@ -1,0 +1,29 @@
+X: 6323
+T: Volksliederen. Wij leven vrij enz.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 2929956510
+%%humdrum-veritas-data 808798442
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d>AFD |
+AAA).('A/ c/ |
+e>d c/ B/ A/ G/ |
+F2z).('F |
+EAAc |
+c>BA).('A/ c/ |
+edcB |
+A>GF).('A/ G/ |
+FDFA |
+d>ef).('A |
+Bedc |
+d2).('e2 |
+fdAB/ c/ |
+d2z) |]

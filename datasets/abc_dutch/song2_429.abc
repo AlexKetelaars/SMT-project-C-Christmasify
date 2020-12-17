@@ -1,0 +1,30 @@
+X: 1428
+T: Alles in de wind alles in de wind Het is maa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 193037244
+%%humdrum-veritas-data 3638852368
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=160
+K: G clef=treble
+.('B/> d/ d/> d/d |
+B/> d/ d/> d/d) |
+.('de3/d/ |
+dcc) |
+.('A/> c/ c/> c/c |
+A/> c/ c/> c/c) |
+.('cd3/c/ |
+[M:4/4]cBB).('G |
+[M:3/4]g2e |
+d>).('d d3// d// |
+ed/> d/ d3// d// |
+ed).('d |
+g2e |
+d>).('d d3// d// |
+eef |
+g2z) |]

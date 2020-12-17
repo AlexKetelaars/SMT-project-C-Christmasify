@@ -1,0 +1,31 @@
+X: 9457
+T: Ziet den hemel wilt ons jonnen dat wij mogen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2449386785
+%%humdrum-veritas-data 2815431067
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: E clef=treble
+.('B G [I:setbarnb 1]|
+E2E2(3(G B) G |
+G2F2).('A c |
+(3(B c) AG2F2 |
+E4).('B G |
+E2E2(3(G B) G |
+G2F2).('A c |
+(3(B c) AG2F2 |
+E4).('G A |
+B2B2(3(e d) c |
+c2B2).('G A |
+B2(e B) (B/ A/) (A/ G/) |
+{G}F4).('G F |
+E2E2(3(G B) G |
+G2F2).('A c |
+(3(B c) AG2F2 |
+E4z2) |]

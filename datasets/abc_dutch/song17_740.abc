@@ -1,0 +1,111 @@
+X: 16739
+T: Ghij mist uw grootste schadt die ghij ter we [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3605278607
+%%humdrum-veritas-data 1808122516
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('zga |
+gg3/f/ |
+e).('g(a/ g/) |
+(f/ e<)dc/ |
+cx2) |
+.('g3 |
+zf2 |
+zeg |
+ad3/c/ |
+c) |
+.('e3/^f/ [I:setbarnb 11]|
+gd3/e/ |
+cA).('f |
+d>ef |
+e>).('e^f |
+g(cB/) A/ |
+B>).('Be |
+^c>cf |
+d>de |
+fe3/d/ |
+dz).('f/ f/ |
+fe3/e/ |
+AAz/) .('d/ |
+B>Be |
+(f/ e// d//)d3/c/ |
+c) ||
+.('ga [I:setbarnb 26]|
+gg3/f/ |
+e).('g(a/ g/) |
+(f/ e<)dc/ |
+c) ||
+.('g2 [I:setbarnb 30]|
+zf2 |
+zeg |
+ad3/c/ |
+c) ||
+.('e3/e/ [I:setbarnb 34]|
+fd3/c/ |
+BB).('e |
+(d/ c<)BA/ |
+A2).('e/ e/ |
+f^f3/f/ |
+gd).('(e/ d/) |
+(c/ B<)AG/ |
+G2).('g3// d// |
+f(fe/) f/ |
+ee).('f- |
+f/ e<dc/ |
+c) ||
+.('ga [I:setbarnb 46]|
+gg3/f/ |
+e).('g(a/ g/) |
+(f/ e<)dc/ |
+c) |
+.('g2 [I:setbarnb 50]|
+zf2 |
+zeg |
+ad3/c/ |
+c) ||
+.('e3/e/ [I:setbarnb 54]|
+dd3/e/ |
+ff3/g/ |
+e>).('ed |
+cB3/A/ |
+A2).('e3// e// |
+ff3/e/ |
+d3 |
+z).('g3/g/ |
+gf3/f/ |
+f>).('ee |
+(f// e// d<)dc/ |
+c) ||
+.('ga [I:setbarnb 66]|
+gg3/f/ |
+ex2 |
+z).('ef |
+g2g |
+def |
+e2c |
+z).('a3/a/ |
+_b2g |
+(g>a) (g/ f/) |
+g3) |
+.('dde |
+f2g |
+g2f |
+z).('(a/ g/) (f/ e/) |
+f(g/ f/) (e/ d/) |
+e(f/ e/ d/ c/ |
+B3)) |
+.('gde |
+f>e (d/ e/) |
+e2d |
+z).('(a/ g/) (f/ e/) |
+f(g/ f/) (e/ d/) |
+(e/ f<)).('dc/ |
+c3) :|]

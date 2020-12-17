@@ -1,0 +1,46 @@
+X: 2649
+T: Ik heb een vrouw van hart en zin daar zitten [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 3635996032
+%%humdrum-veritas-data 886765432
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D G AB3 |
+D G AB3) |
+.('A G/ G/ E (D G) B |
+[M:9/8](d B) A2<G2).('D G A |
+[M:4/8]B3D |
+G> F G A |
+[M:6/8]B3).('A/ A/ G E |
+[M:9/8](D G) B dG2-G3) |
+[M:6/8].('D G AB3 |
+D G AB3) |
+.('A/ A/ G E (D G) B |
+dG2-G3) |
+.('D G AB3 |
+D G AB3) |
+.('A G E (D G) B |
+(d B) AG2).('D |
+[M:3/4]B> B A> A G3/ G/ |
+F2E3).('A |
+B A E> F G3/ G/ |
+F2E3).('A |
+B ^c2<d2F |
+E BB4) |
+[M:6/8].('d ^c B A !fermata!A A |
+(G F) ED2).('D |
+[M:3/4]B> B A> A G3/ G/ |
+F2E3).('A |
+[M:2/4]B A E3/ E/ |
+[M:3/4]F2E3).('A |
+B ^c2<d2F |
+E> B B> BB2) |
+[M:6/8].('d ^c B A !fermata!A A/ A/ |
+G F ED3) |]

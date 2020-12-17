@@ -1,0 +1,31 @@
+X: 5279
+T: Er ging een koe al door de stad Door de stad [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 320708081
+%%humdrum-veritas-data 3650209477
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F A |
+A GG2 |
+B EE2 |
+G F F) .('C |
+F F F/ F/ A |
+A GG2 |
+B E E E |
+F2z2) |
+.('B dd2 |
+A cc2 |
+B B B B |
+d cc2) |
+.('B dd2 |
+A cc2 |
+c c c c |
+F2z) |]

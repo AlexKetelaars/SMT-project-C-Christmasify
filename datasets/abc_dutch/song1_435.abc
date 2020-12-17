@@ -1,0 +1,32 @@
+X: 435
+T: Lossy
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 130300721
+%%humdrum-veritas-data 518406242
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('ggg |
+f>_ed |
+f_e3/f/ |
+d2d) |
+.('c2d |
+B3/A// B//G |
+cB3/A// B// |
+A3) |
+.('def |
+efg |
+^f>gg |
+a2).('d |
+ab3/a/ |
+gef |
+ga3/g/ |
+f).('db |
+a/ g<^fg/ |
+g3) :|]

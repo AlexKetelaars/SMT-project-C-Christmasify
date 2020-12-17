@@ -1,0 +1,24 @@
+X: 10084
+T: Ons is geboren een kindekijn Noch claerder d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 2315418393
+%%humdrum-veritas-data 3050086828
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('z2GG2A |
+B3B2B |
+(c B) AG2).('G |
+d2cB2B |
+(A G A)G3 |
+z2).('Gc2A |
+c2B (A B) c |
+d2).('d (B d) c |
+B B B (A G A) |
+G2) |]

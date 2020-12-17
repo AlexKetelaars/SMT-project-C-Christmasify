@@ -1,0 +1,34 @@
+X: 16961
+T: Air pour la suitte de la haine
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 3242761350
+%%humdrum-veritas-data 1161246114
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/4
+Q: 1/4=120
+K: F clef=treble
+.('c2 [I:setbarnb 1]|
+F2G2A2B2G2c2 |
+A2F2!mordent!!mordent!f4).('d4 |
+g2>f2 e dc2c2d2 |
+!mordent!!mordent!=B2G2_e4).('d2e2 |
+c2=B2c2d2!mordent!!mordent!d3c |
+c6-c4) |
+.('G2 [I:setbarnb 7]|
+G2>A2B2A2d4 |
+!mordent!!mordent!^c2A2a4).('e3f |
+f2>g2a2g f2<!mordent!!mordent!e2d |
+d2>e2f2).('A G F G A B) |
+.('c B c d e c f g f e f d |
+g2e2a4).('f4 |
+b2>a2!mordent!!mordent!a2>g2g3f |
+f2_e d c B2<A2).('B A B |
+c d c d _e f2<).('d2).('c B A |
+G2c4A2d4 |
+G2c4B A2<!mordent!!mordent!G2F |
+F6-F4) |]

@@ -1,0 +1,32 @@
+X: 548
+T: La Boure de Basque
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2629754680
+%%humdrum-veritas-data 1601700633
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('f g [I:setbarnb 1]|
+a2e2f2d2 |
+c2A4).('d2 |
+e2f2f2e d |
+e d c BA2).('f g |
+a2g fg2f e |
+f2).('e d e d c B |
+c2(d e2<)e2d |
+d6) |
+.('A2 [I:setbarnb 9]|
+d2e2f2d2 |
+a2g af2).('f2 |
+g2a2c2d2 |
+e d e fe2).('A2 |
+A2d2d e d c |
+B2).('g a b a g f |
+g f e d2<c2d |
+d6) |]

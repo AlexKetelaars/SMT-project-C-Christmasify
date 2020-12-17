@@ -1,0 +1,21 @@
+X: 15154
+T: En is er dan geen onderscheid
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1220964129
+%%humdrum-veritas-data 3193479115
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G/ [I:setbarnb 1]|
+c> c c> G B BB2 |
+A A/> A/ A A/ B/ A G G3/ G/ |
+G2>E2 C) .('G G c |
+c2d2c2B3/ B/ |
+d2>B2 G G G A |
+B2A2G2z z/) |]

@@ -1,0 +1,29 @@
+X: 10082
+T: s Avonds, als ik slapen ga, Volgen mij zesti [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 1063822283
+%%humdrum-veritas-data 4288726152
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('ccBA |
+GGA2) |
+.('cc/ c/dd |
+cB/ A/G2) |
+.('BB/ B/AF |
+BB/ B/ A/ F/F) |
+.('BB/ B/ A/ F/F |
+dd/ d/ c/ A/A) |
+.('AG/ G/BA |
+AG/ G/BA) |
+.('AG/ G/BA |
+AG/ G/BA) |
+.('cc/ c/BA/ A/ |
+d>cB(A/ G/) |
+c2{F}F2) |]

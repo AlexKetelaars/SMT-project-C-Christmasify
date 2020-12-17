@@ -1,0 +1,36 @@
+X: 480
+T: O Here Jesu! wat vertreckt Gy uwe weerkomst? [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 4012786498
+%%humdrum-veritas-data 632009040
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+c4c2 |
+B4G2 |
+A4B2 |
+c4).('B2 |
+c4d2 |
+e4c2 |
+c4c2 |
+d4).('G2 |
+A2B2c2 |
+B2A4 |
+G6) |
+.('G2E2C2 |
+G4G2 |
+A4A2 |
+B6) |
+.('G2G2G2 |
+c4e2 |
+e2>d2c2) |
+.('c2c2d2 |
+[M:2/2]ecd2 |
+c4) |]

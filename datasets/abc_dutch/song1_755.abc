@@ -1,0 +1,31 @@
+X: 755
+T: Begeertens lust baert altyt quaet In Goddelo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 705660751
+%%humdrum-veritas-data 2562634007
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G [I:setbarnb 1]|
+cede |
+c(B/ A/)B).('G |
+AAG^F |
+G2c).('G |
+cede |
+c(B/ A/)B).('G |
+AAG^F |
+G2c).('G |
+(c/ B/ c/) d/e(d/ e/) |
+(f>e)d).('d |
+e>dcc |
+(d/ c/ B/ A/B)G/) .('G/ |
+c>BA3/G/ |
+(F/ E/ F/) G/A).('A |
+GccB |
+c3) |]

@@ -1,0 +1,23 @@
+X: 3302
+T: Ein Bauer wollte Holz einfahren Aus einem fi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 295018481
+%%humdrum-veritas-data 464434423
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+e d d d |
+e d d) .('d |
+e d c B |
+B2A2) |
+.('d2d2 |
+e e e) .('e |
+f f e f |
+a2g2) |]

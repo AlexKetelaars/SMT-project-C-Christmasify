@@ -1,0 +1,34 @@
+X: 3378
+T: Hiep hiep hiep hiep hoera Leve de rotzooi ja
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 3494288307
+%%humdrum-veritas-data 2315780294
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2DD |
+DBG2) |
+.('A2GA |
+BGD2) |
+.('D2ED |
+DBB2) |
+.('A2EF |
+G2z/) .('D/ E/ D/ |
+FF>).('D E/ D/ |
+GG>).('D E/ D/ |
+FF>).('D E/ D/ |
+GG3) |
+.('D2DD |
+DBG2) |
+.('A2GA |
+BGD2) |
+.('D2ED |
+DBB2) |
+.('A2EF |
+G2z/) |]

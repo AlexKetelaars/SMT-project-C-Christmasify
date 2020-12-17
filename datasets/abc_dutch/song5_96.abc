@@ -1,0 +1,27 @@
+X: 4095
+T: In Keulen woont een man Zeer oud en grijs va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 3046549798
+%%humdrum-veritas-data 1917067077
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) [I:setbarnb 1]|
+BB(3(A/ B/) c/ |
+B2).('(B/ A/) |
+[M:4/4]GBdB |
+[M:3/4]AG).('(G/ A/) |
+BB(3(A/ B/) c/ |
+B2).('(B/ A/) |
+[M:4/4]GBdB |
+AG2).('(G/ A/) |
+[M:3/4](3:2:7B B/ B B/ (A/ B/) c// |
+B2).('(B/ A/) |
+[M:4/4]GBdB |
+(AG2)) |]

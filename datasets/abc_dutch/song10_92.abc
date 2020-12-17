@@ -1,0 +1,52 @@
+X: 9091
+T: Ik ging lestmaal eens wandelen om mijn zinne [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 1290875690
+%%humdrum-veritas-data 1602373407
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2B |
+A2A |
+G3 |
+D2).('D |
+E>FG |
+(FE)D |
+BG2- |
+G2).('D |
+AAB |
+cBA |
+A2B |
+c2B |
+A3- |
+A2).('A |
+A2B |
+A2B |
+ABA |
+(GF)E |
+(DFA) |
+d3- |
+d2).('D |
+cBA |
+GFE |
+DFA |
+d2).('D |
+(DF)A |
+e2d |
+(B3 |
+G2)).('D |
+cBA |
+GFE |
+DFA |
+d2).('D |
+(DF)A |
+e2d |
+G3- |
+G2) |]

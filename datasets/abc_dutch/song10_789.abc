@@ -1,0 +1,32 @@
+X: 9788
+T: ‘t Mannetje was zoo rijke, ‘t Had een mooi m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 2178345798
+%%humdrum-veritas-data 1580538348
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C D/ E/ F F |
+F2F F |
+G G B G |
+F F F F |
+G G B G |
+F4) |
+.('A> A A A |
+B2A A |
+G G (G F/) G/ |
+A2F2) |
+.('F2(3A G F |
+F> E E E |
+F (G/ A/) (3B A G |
+F> E E) .('E |
+F> F A3/ c/ |
+c> c c3/ B/ |
+A> A G3/ G/ |
+F4) |]

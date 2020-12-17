@@ -1,0 +1,43 @@
+X: 6146
+T: De Hagse Kermis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 349808811
+%%humdrum-veritas-data 1733894575
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G A [I:setbarnb 1]|
+B2G2d2g a |
+^f4f2).('b a |
+g2f2g f e d |
+e2c2c2).('f g |
+f2e d e d c B |
+c2A2A2).('B A |
+G2G A B A B c |
+d2D4) |
+.('d =e [I:setbarnb 9]|
+f2d2g2g a |
+b4b2).('f2 |
+g f e d c B A c |
+B4).('f2e2 |
+d2>g2^f3g |
+a g a ba2).('d2 |
+=e ^f g =e f g a f |
+g6) |
+.('d/ =e/ f/ g/ [I:setbarnb 17]|
+f4g2a2 |
+b ga4).('g2 |
+f2>e2d3f |
+f2e d c B A c |
+B4) |
+.('G2A B [I:setbarnb 22]|
+c2d c f fe2 |
+d2e d b ag2) |
+.('f2e dg2^f/ g/ a/ f/ |
+g4) |]

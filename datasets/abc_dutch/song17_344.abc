@@ -1,0 +1,66 @@
+X: 16343
+T: Wat kwelt uw hart! Laet ons beminnen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 234945147
+%%humdrum-veritas-data 3316934048
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+Z6 |
+zzD |
+(A3/B// A// G/) A/ |
+{A2}B2).('d |
+(dc)c |
+!trill!!trill!cB).('d |
+(d/ e// d//c)B |
+{B2}A2z |
+zz).('A |
+(B/ A/B)^c |
+(d/ ^c/)d).('A |
+(Be)^c |
+d/ e/A!trill!!trill!^c |
+{^c2}d2z |
+Z5 |
+zz).('D |
+(A3/B// A// G/) A/ |
+B3 |
+z/) .('B/ed |
+(^c3/d// c// B/ c/ |
+d/ ^c/ d/)) .('d/ e/ d/ |
+{d2}^c2).('c |
+d2e |
+Add |
+(dc/ B/)c |
+cB).('B |
+(B{A B}c)B |
+{B2}A2).('D |
+(G3/A// G// F/) G/ |
+(A3/B// A//) G/ A/ |
+(B3/c// B// A/) B/ |
+(c3/d// c//) B/) .('A/ |
+(Bc){B}!trill!!trill!A |
+B2B |
+B2B |
+(B/ A/)B).('(B/ c// d//) |
+(e/ d// c//B)!trill!!trill!A |
+G2z |
+Z4 |
+zzG |
+(G>A)F |
+G2B |
+(BA)A |
+AG).('G |
+(G>F)G |
+F2z |
+zz).('c |
+(F>G)A |
+(G/ A/)B).('B |
+(cB)A |
+G/ A/G!trill!!trill!F |
+E2) |]

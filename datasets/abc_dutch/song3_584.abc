@@ -1,0 +1,31 @@
+X: 2583
+T: Komt vrienden neemt een droevig lot ter hart [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 3472053355
+%%humdrum-veritas-data 3961296503
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D G B [I:setbarnb 1]|
+d2>d2 d d e3/ d/ |
+[M:3/4](d g) B) .('B A B |
+[M:4/4]c2>c2 B d e d |
+A2-A2>).('G2 G3/ B/ |
+d2>d2 d d e d |
+[M:3/4](d g) B) .('B A B |
+[M:4/4]c2>c2 B d e d |
+[M:3/4]A4-A) .('d |
+a> a g f e d |
+(d g2<)g2).('d |
+a a g f e3/ d/ |
+[M:4/4](d g2<)g2).('B B d |
+d2d> d e d B d |
+g4-g) .('g a3/ g/ |
+f e d c (3B2 e2 d2 |
+G4-G) |]

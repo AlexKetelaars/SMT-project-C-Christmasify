@@ -1,0 +1,78 @@
+X: 6493
+T: No 29
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 1311104779
+%%humdrum-veritas-data 3663609451
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(e>cA) |
+e>cA |
+fAf |
+{d}e3) |
+.('(B/ e/)dd |
+d2B |
+A/ d/cc |
+c2A) |
+.('e>cA |
+e>cA |
+fAf |
+{f}e3) |
+.('B/ c/ d/ e/ f/ f/ |
+(g>fe) |
+B/ e/dd |
+ezz) |
+.('a3 |
+(e2c) |
+g/ z<gg/ |
+g3) |
+.('bd3/d/ |
+dcd |
+(fe3/)c/ |
+Ace) |
+.('a3 |
+(e2c) |
+gg3/g/ |
+g3) |
+.('bf3/g/ |
+ag3/f/ |
+g/ f/ e/ d/ c/ B/ |
+Ae/ e/e) :|]
+[K:A] .('d3 |
+f2c' |
+c'zc' |
+c'3 |
+z).('c'3/f/ |
+fga |
+b3 |
+g2z) |
+.('b3 |
+g2e |
+(d2f) |
+(b2d')) |
+.('(d'f2) |
+(c'f2) |
+bd'2 |
+bd'2) |
+.('d3 |
+f2a |
+c'c'c' |
+c'3 |
+z).('c'3/f/ |
+fga |
+b3) |
+.('g2b |
+b>bb |
+bc'b |
+az).('e' |
+e'c'a |
+dee |
+fb3/a/ |
+g3 |
+azz) :|]

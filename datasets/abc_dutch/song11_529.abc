@@ -1,0 +1,30 @@
+X: 10528
+T: Heb ie al wa heurd dat ni’je leed, ni’je lee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 129116729
+%%humdrum-veritas-data 2241453797
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G/ G/ G/ G/GG |
+GBG2 |
+AAA2 |
+ddB2) |
+.('GGGG |
+GBG2 |
+AGFE/ E/ |
+D4) |
+.('ccc2 |
+BBB2 |
+AA/ A/AA/ A/ |
+GBd2) |
+.('ccc2 |
+BBB2 |
+AA/ A/AA/ A/ |
+G4) |]

@@ -1,0 +1,35 @@
+X: 16407
+T: Pointige Jeucht
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 4294222860
+%%humdrum-veritas-data 4073569415
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G4G2G2 |
+d4d2e2 |
+f4e2d2 |
+c4).('A4 |
+B2c2d2B2 |
+c4d4) |
+.('G4G2G2 |
+d4d c d e |
+f4e2d2) |
+.('c d c BA4 |
+B A B cd2B2 |
+c d _e cd4) |
+.('d4d c d e |
+f4).('d4 |
+c2>B2B2A G |
+A4z2).('F2 |
+G F G A B A B c |
+d2c2).('_e2d2 |
+c2B2A2G2 |
+A4A4 |
+G8) |]

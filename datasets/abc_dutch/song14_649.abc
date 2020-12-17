@@ -1,0 +1,30 @@
+X: 13648
+T: Schlijffer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 2805929415
+%%humdrum-veritas-data 921508914
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('c c c |
+d2(B/ G/) |
+e e e |
+f2).('(d/ B/) |
+g2(e/ c/) |
+g2(e/ c/) |
+B B B |
+c2z) |
+.('f d d |
+e g g |
+(f/ e/) (f/ e/) (f/ e/) |
+d d d) |
+.('g g g |
+a b c' |
+e2f/ d/ |
+c2z) :|]

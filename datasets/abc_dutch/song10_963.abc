@@ -1,0 +1,25 @@
+X: 9962
+T: Scheepje varen al over de zee, Marieke gade  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2172210077
+%%humdrum-veritas-data 835312121
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c> G (3G F F |
+(3E E DC2) |
+(3.('G G G (3A A A |
+G2z) .('E |
+G> G (3A A A |
+G4) |
+.('c> G (3G F F |
+(3E E D C3/) .('G/ |
+G G (3G A B |
+c2G3/ G/ |
+c4) |]

@@ -1,0 +1,46 @@
+X: 5416
+T: ‘t Za lustig laat ons drinken, Vat nu vry de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 4121737545
+%%humdrum-veritas-data 4230561849
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c>dcG |
+c2cd/ e/ |
+d(e/ f/)e(d/ c/) |
+(d/ c/) d/ e/d).('G |
+c>dcG |
+c2cd/ e/ |
+d(e/ f<)dc/ |
+c3) |
+.('c [I:setbarnb 9]|
+GA(_B/ A/) (G/ F/) |
+G2Ec |
+GA(_B/ A/) (G/ F/) |
+E3) |
+.('G [I:setbarnb 13]|
+c>dcB |
+A2Ad |
+(e/ d/) (c/ B/) (c/ A/)d |
+B2Bz/) .('G/ |
+c>dcB |
+A2Ad |
+(e/ d/) (c/ B<)AG/ |
+G2x2) |
+[M:6/4].('x4xc |
+GEGECG |
+ccGc>).('cd |
+ecGc>d e/ c/ |
+d3).('d>c B/ A/ |
+BGDGG/ A/ B/ c/ |
+d3).('d>c B/ A/ |
+G>AGGDG |
+[M:2/2]G3) |]

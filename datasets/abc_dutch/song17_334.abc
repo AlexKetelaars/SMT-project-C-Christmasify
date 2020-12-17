@@ -1,0 +1,48 @@
+X: 16333
+T: Wat zien we een rei van Jonge Heeren Elk zwe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 989374387
+%%humdrum-veritas-data 3303423560
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d4A2 G2 |
+(F G A B A2) A2 |
+(d3 e/ f/ e2) d2 |
+(c B)A4).('A2 |
+(B cd4)B2 |
+(A4d2) F2 |
+(G3 A/ B/ A2) G2 |
+(G4F2)) .('F2 |
+B6F2 |
+d6(c B) |
+(f e d c B2) A2 |
+(^G F)E4).('(B c) |
+(d2c4)B2 |
+(c de4)A2 |
+B4!trill!!trill!^G4 |
+A6) |
+.('A2 [I:setbarnb 17]|
+A4A4 |
+(A B=c4)(B A) |
+G4F4 |
+(G F)E4).('(E F) |
+G4G4 |
+(G AB4)(A G) |
+(F2 E F G2) (F E) |
+(F E)D4).('A2 |
+d6B2 |
+^G4A4 |
+(e d c B A2) G2 |
+(G4F2)) .('A2 |
+B6c2 |
+(d2 c B A2) G2 |
+(F/ E/ D3 !trill!!trill!E3) D |
+D6) :|]

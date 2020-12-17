@@ -1,0 +1,41 @@
+X: 3318
+T: Rijzen rijzen met verlangen Rijzen rijzen in [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 3925122542
+%%humdrum-veritas-data 4135628377
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+B2>A2 (3(G F) E |
+(D> B,)!fermata!D2).('D3/ D/ |
+G2>F2 (3(E F) G |
+F2z2).('A3/ G/ |
+E2>F2 G3/ E/ |
+(F> G)!fermata!A2).('D3/ D/ |
+B2>A2 (3(G F) E |
+D2>).('D2 D3/ D/ |
+A2>A2 G3/ F/ |
+(G> B)!fermata!D2).('D3/ D/ |
+c2>c2 B3/ G/ |
+A2z2).('D3/ D/ |
+B2>A2 (3(G F) E |
+(D> B,)!fermata!D2).('E3/ A/ |
+G2>G2 A3/ A/ |
+B4)(3.('(c E) A |
+G> DB3A |
+G4z) .('D |
+[M:6/8](G2A) (B G) F |
+(E2G)c2).('e |
+d> d d d d c |
+B3z2).('D |
+(G2A) (B G) F |
+(E2G)c2).('e |
+d> d d d d F |
+G3z2) |]

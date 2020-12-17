@@ -1,0 +1,23 @@
+X: 4390
+T: Hier door Gods wonderwerken Hier in het aardse dal
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 3146484540
+%%humdrum-veritas-data 961567406
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 8/8
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+[M:7/8]G A A B B B) .('B |
+[M:8/8]G A B> BA3).('A |
+[M:7/8]A d d d d d) .('d |
+[M:8/8]B A B> AG3).('D |
+[M:7/8]G> A A B B B) .('B |
+[M:8/8]G A B B2<A2).('A |
+[M:6/8]A d dd2).('d |
+[M:8/8]B> A B> AG3) |]

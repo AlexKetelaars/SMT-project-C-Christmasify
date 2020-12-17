@@ -1,0 +1,27 @@
+X: 6652
+T: Scheiden moet ik, scheiden zal ik. Vrienden- [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 504009808
+%%humdrum-veritas-data 3288095572
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A3/G/ [I:setbarnb 1]|
+GFc3/B/ |
+BA).('FG |
+A(F/ E/)DG |
+Cz).('G3/F/ |
+FEB3/A/ |
+AG).('B3/A/ |
+AGd3/c/ |
+c2B).('B/ B/ |
+(A/ B/) (c/ d<)_ee/ |
+d2).('BG |
+cFA3/G/ |
+F2) |]

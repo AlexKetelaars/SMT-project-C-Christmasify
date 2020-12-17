@@ -1,0 +1,33 @@
+X: 17221
+T: Ryke gekken, trots op uw schyven, Die om uw  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 2384880696
+%%humdrum-veritas-data 4258227920
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=bass
+.('D,// D,// [I:setbarnb 1]|
+A,A,F,F,/ F,/ |
+B,B,).('G,G,/ F,/ |
+E,F,C,3/F,/ |
+F,2z).('F, |
+C2G,G,/ G,/ |
+DDCC |
+(B,/ A,/)B,A,2 |
+A,2).('DD/ C/ |
+B,>A,G,F, |
+E,D,C,B, |
+A,2z).('A, |
+D2=B,B,/ G,/ |
+C>B,A,B, |
+G,CF,2 |
+F,2).('B,B,/ A,/ |
+G,>F,E,D, |
+^C,D,(A,/ G,/)A, |
+D,4) |]

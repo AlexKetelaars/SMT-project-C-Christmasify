@@ -1,0 +1,28 @@
+X: 3159
+T: O grote God ja wat lijd ik veel smarten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 875730459
+%%humdrum-veritas-data 1393144600
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+BcB |
+B>A G/ F/ |
+E/ E/BA |
+E2D |
+z2).('D |
+DEF |
+(GB)d |
+e2d |
+A3) |
+.('eee |
+d>ed |
+(cB)A |
+G2) |]

@@ -1,0 +1,26 @@
+X: 15352
+T: ‘t Is weer avond Julia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 3665436100
+%%humdrum-veritas-data 3446057327
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B2>A2G2G2 |
+B c B AG4 |
+B c B AG2G2 |
+F E F GE4) ]|:
+.('G A B GF2F2 |
+G2G2G AF2) :|]
+.('F B d B G e d c |
+B2=A2B4 |
+F2>G2A2A2 |
+G F G AB4) |
+.('B c d e d c B A |
+G2F2E4) |]

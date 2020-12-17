@@ -1,0 +1,29 @@
+X: 8280
+T: Lompe Jan, mijne man, zou zoo geren ruiter w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 293280086
+%%humdrum-veritas-data 3859621463
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A> AA2 |
+A> AA2) |
+.('F> A A3/ A/ ||
+[M:3/4]d> cc2B2) [I:setbarnb 5]|
+.('G> GG2G3/ G/ ||
+[M:2/4]c2B3/ A/ [I:setbarnb 7]|
+A2!fermata!F2) ||
+.('c c A A/ A/ [I:setbarnb 9]|
+B B/ B/G2) |
+.('B B G G |
+c cA2) |
+.('A< A A/ A3/ |
+c BG2) |
+.('c c d c |
+B GF2) |]

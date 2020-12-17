@@ -1,0 +1,15 @@
+X: 10053
+T: Als de zon komt uit de kim gerezen, Ga ik me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 1710238793
+%%humdrum-veritas-data 3561756141
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('EE/AA/AA/AA/(Ac<)e).('GA<Bf3/ed<c-c).('(E/ F/) G/AA/AA/(Ac<)e).('GA<Bd3/cB<A-A).('EG<(de)d/cB<(Ac/)e).('EG<Bf3/ed<c-cz/) .('(E/ F/) G/AA/AA/(Ac<)e).('GA<Bd3/cB<A-Az/) |]

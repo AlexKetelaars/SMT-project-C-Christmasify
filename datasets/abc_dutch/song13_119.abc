@@ -1,0 +1,56 @@
+X: 12118
+T: 414
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 2688396510
+%%humdrum-veritas-data 474079911
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('da [I:setbarnb 1]|
+{g/}fe{g/}f{e/}d |
+{f/}e{d/}c(d/ f/) (e/ g/) |
+(fe)(gf) |
+e2).('da |
+{g/}fe{g/}f{e/}d |
+{f/}e{d/}cd/ f/ e/ g/ |
+f{e/}d{f/}e{d/}c |
+d2).('AB |
+A{G/}F{A/}G{F/}E |
+{G/}F{E/}D(A/ c/) (B/ c/) |
+d{c/}B{d/}c{B/}A |
+^G{F/}E).('cB |
+{d/}c{B/}A{c/}B{A/}^G |
+AE(A/ c/) (B/ d/) |
+c{B/}A{c/}B{A/}^G |
+A2).('da |
+{g/}fe{g/}f{e/}d |
+{f/}e{d/}c(d/ f/) (e/ g/) |
+(fe)(gf) |
+e2).('da |
+{g/}fe{g/}f{e/}d |
+{f/}e{d/}c(d/ f/) (e/ g/) |
+f{e/}d{f/}e{d/}c |
+d2).('dc |
+B{d/}c{e/}d{c/}B |
+^A{^G/}Ffe |
+{g/}f{e/}d{f/}e{d/}c |
+{e/}d{c/}B{d/}c{B/}^A |
+B2).('da |
+{g/}fe{g/}f{e/}d |
+{f/}e{d/}c(d/ f/) (e/ g/) |
+(fe)(gf) |
+e2).('da |
+{g/}fe{g/}f{e/}d |
+{f/}e{d/}c(d/ f/) (e/ g/) |
+(fe)(gf) |
+e2).('da |
+{g/}fe{g/}f{e/}d |
+{f/}e{d/}c(d/ f/) (e/ g/) |
+f{e/}d{f/}e{d/}c |
+d2) :|]

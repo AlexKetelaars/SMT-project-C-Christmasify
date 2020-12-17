@@ -1,0 +1,35 @@
+X: 3220
+T: Komt vrienden hoort mijn lied eens aan wat i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 3808675557
+%%humdrum-veritas-data 1859359904
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/FF/ |
+EE/D).('D/ |
+EC/B,C/ |
+D3/D).('D/ |
+GG/FG/ |
+AB/A).('G// G// |
+FF/EF/ |
+E3/D).('A/ |
+AG/FG/ |
+A3/-A).('A/ |
+AG/FG/ |
+A3/-A).('D/ |
+GG/ G/ F/ G/ |
+E3/E).('E/ |
+AA/AG/ |
+FE/D).('D/ |
+BB/BA/ |
+G3/G).('B/ |
+AA/EF/ |
+G3/-G) |]

@@ -1,0 +1,55 @@
+X: 11083
+T: Hoe speelt my de min, Van myn Herderin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 2825234537
+%%humdrum-veritas-data 1659942853
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c [I:setbarnb 1]|
+A>GF |
+F>FG |
+AF2 |
+c2).('c |
+fcd |
+cAc |
+BA2 |
+GAB |
+AGF |
+E2).('c |
+A(d3/c/) |
+=BGc |
+def |
+e>dc |
+d=B3/c/ |
+c2).('G |
+B>cB |
+A2A |
+dde |
+^cAe |
+fd3/f/ |
+eA).('d |
+ee3/d/ |
+d2f |
+cd2 |
+A2).('A |
+AGF |
+c2c |
+dB3/d/ |
+cA).('c |
+dB3/d/ |
+cAc |
+cBA |
+G2).('c |
+A2F |
+G2c |
+d>ef |
+A>GF |
+G/ A<GF/- |
+F2) |]

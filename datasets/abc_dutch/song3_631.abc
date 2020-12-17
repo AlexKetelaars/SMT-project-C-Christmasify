@@ -1,0 +1,28 @@
+X: 2630
+T: Daar was een herderinnetje al in het jeugdig groen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 1143025422
+%%humdrum-veritas-data 2220535977
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B, [I:setbarnb 1]|
+D> D D> D E> E D3/) .('G/ |
+F> F E> ED3).('B, |
+D> D D> D E> E D3/) .('G/ |
+F> F E> ED4) |
+.('A> A A> BA2D3/) .('E/ |
+F> F G> AB2).('B3/ B/ |
+[M:3/4]A> B A> B A3/ B/) |
+[M:4/4].('A> G F> E D>) .('C B,3/ C/ |
+D> D D> ED2).('G3/ A/ |
+[M:2/4]B> A G3/ G/ |
+[M:4/4]F2E4).('G3/ E/ |
+D2G2c2A2 |
+G6-G) |]

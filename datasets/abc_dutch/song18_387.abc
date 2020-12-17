@@ -1,0 +1,71 @@
+X: 17386
+T: La Melanie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 890918814
+%%humdrum-veritas-data 1890599463
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('d [I:setbarnb 1]|
+g>^fg |
+dBc |
+d_e/ d/ c/ B/ |
+AA).('d |
+g>^fg |
+dB_e/ d/ |
+c/ B<AG/ |
+G2x) |
+.('dd_e |
+ffd |
+B_e2 |
+c2f |
+gab |
+afd |
+g_ec |
+fdB |
+_ec3/B/ |
+B2) |
+.('b [I:setbarnb 19]|
+aba |
+g>fe |
+fg/ f/ e/ d/ |
+^c2A) |
+.('B/ ^c<cB// c// |
+d/ e<ed// e// |
+fga |
+bge |
+afd |
+ge^c |
+d/ e<ed/ |
+d2) |
+.('d [I:setbarnb 31]|
+[M:2/2]g>agd |
+gdgd |
+dc/ B/Ad |
+BA/ B/G).('d |
+g>agd |
+gdgd |
+B>ABc |
+d2) |
+.('Bx [I:setbarnb 39]|
+f>gfB |
+fBfb |
+f_e/ d/cB |
+cFFc/ B/ |
+cFFf |
+d2c2) |
+.('B>ABc |
+dGGd/ c/ |
+dGGB/ A/ |
+BcdG |
+^FDG/ A/ B/ c/ |
+d2g2 |
+de/ ^f/gd |
+BgA^f |
+g2) :|]

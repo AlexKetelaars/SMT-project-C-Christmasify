@@ -1,0 +1,29 @@
+X: 7618
+T: No 42
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 816971485
+%%humdrum-veritas-data 1174173415
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G2d c2<B2A |
+G2A G2<F2E |
+D2>).('A2A3G |
+A B c d2<B2).('B |
+e2>d2^c2A2 |
+d ^c d e2<!trill!!trill!e2d |
+d6z) |
+.('A [I:setbarnb 8]|
+A2>G2A2B2 |
+c2>B2 A B G A |
+F2>E2D3).('d |
+d2c B2<e2d |
+c d B c2<A2G |
+G4) :|]

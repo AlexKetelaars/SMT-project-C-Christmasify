@@ -1,0 +1,31 @@
+X: 8798
+T: Zeg, buurvrouw, hier ontvangt ge een kap van [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 1391101874
+%%humdrum-veritas-data 570511774
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B B B/ B/F2F |
+G2GF2).('D |
+D> D D D C B, |
+F3-F2).('F |
+B2BF2F |
+G G GF2).('D |
+D> D D D C B, |
+F3-F2).('F |
+B2AG2A |
+B2FF2).('F |
+G2FE2G |
+F2DD2).('C |
+B,2CD2E |
+F3).('G3 |
+F2B (A G) A |
+B3-B2) |]

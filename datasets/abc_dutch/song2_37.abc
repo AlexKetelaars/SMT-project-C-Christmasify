@@ -1,0 +1,26 @@
+X: 1036
+T: Tussen Keulen en Parijs Ligt de weg naar Rome
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 3477264933
+%%humdrum-veritas-data 2280598869
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B c d dd2) |
+.('e d c BA2G2) |
+.('G A B c d dd2) |
+.('e d c/ c/ B A A/ A/G2) |
+[M:6/8].('B2B B B B |
+c3c3) |
+.('A2A A A A |
+d3d3) |
+.('G2A B B c |
+d d dd2d) |
+.('e2d c c B |
+A3G3) |]

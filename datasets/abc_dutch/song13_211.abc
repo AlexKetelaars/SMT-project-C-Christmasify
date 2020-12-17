@@ -1,0 +1,35 @@
+X: 12210
+T: Signor Abate! io sono, io sono, io sono, amm [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 767902170
+%%humdrum-veritas-data 3093825161
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('ccc [I:setbarnb 1]|
+ddzd |
+cczc |
+BBzB |
+AAAA |
+G4 |
+F4) |
+.('(F/ =E/) (F/ G/) (A/ G/) (A/ F/) |
+BBG2 |
+A>AFF |
+G>G=EE |
+FF/ F/ D/ D/ D/ D/ |
+(B,2C2) |
+F4 |
+z).('(A/ B/)cc |
+cBz/ B/ B/ B/ |
+BAz/ A/ A/ A/ |
+AGz/ G/ G/ G/ |
+GFff/ f/ |
+(f2=e2) |
+f4) |]

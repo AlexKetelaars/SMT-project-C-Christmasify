@@ -1,0 +1,28 @@
+X: 2303
+T: Het was al op een zondagmorgen Toen mevrouw  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 1495211175
+%%humdrum-veritas-data 4130338985
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2AG2F |
+(E G) FE3 |
+D3-D3) |
+.('B2B B d d |
+c2BA3) |
+.('A B c (d ^c) d |
+(A B) ^cd3) |
+.('B2ed2B |
+c A FG3) |
+.('A B c (d ^c) d |
+(A B) ^cd3) |
+.('B2ed2B |
+c A FG2) |]

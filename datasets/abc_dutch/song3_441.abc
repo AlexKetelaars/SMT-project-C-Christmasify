@@ -1,0 +1,33 @@
+X: 2440
+T: De liefde is wonder in haar werken
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 1657093470
+%%humdrum-veritas-data 2791612916
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>G2 G D E3/ F/ |
+G4G) .('G F G |
+F2D DF2E2 |
+D4z) .('D E F |
+G2>G2 G D E F |
+G4G2).('B B |
+A2>B2 A> G F E |
+D6).('D2 |
+B2>G2 G G G D |
+(G2B2)B2).('B2 |
+A2>A2 A A A G |
+(A2d2)d) .('c B A |
+[M:3/4]G4d2 |
+[M:4/4]d> c B cB2d2 |
+[M:2/4]G4) |
+[M:4/4].('d2B> AG2d2 |
+d> c B cB2d2 |
+G4z) |]

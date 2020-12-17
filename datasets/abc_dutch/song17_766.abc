@@ -1,0 +1,48 @@
+X: 16765
+T: Le Déserteur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1476959573
+%%humdrum-veritas-data 2649369246
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2>e2f2e2 |
+d2A2B2A2 |
+d2>e2f2e2 |
+d4e2f2) |
+.('(a g) .f .e (g f) .e .d |
+(d c) .B .Ae2f2 |
+(a g) .f .e (g f) .e .d |
+e2A B A G F E) |
+.('d2>e2f2e2 |
+d2A2B2A2 |
+d2>e2f2e2 |
+d4e2f2) |
+.('(a g) .f .e (g f) .e .d |
+(d c) B Ad2f d |
+{c}B2g ed2c2 |
+!fermata!d4) |
+.('B2c2 [I:setbarnb 17]|
+d2d2e d c B |
+A2A2B2c2 |
+d2d2e d c B |
+A4).('B2c2 |
+d2d2e d c B |
+A2A2B2c2 |
+d2d2e d c B |
+A4).('e3d |
+c2>B2A2G2 |
+G2F2f3e |
+d2>c2B3A |
+A2^G2).('B2=c2 |
+B2e2e2d2 |
+c2B2e2a2 |
+(^g f) .e .dc2B2 |
+A2A B A G F E) |]

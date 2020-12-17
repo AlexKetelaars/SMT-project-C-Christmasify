@@ -1,0 +1,25 @@
+X: 9070
+T: Daar kwam ne pater in den donkeren nacht, Da [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 2073694600
+%%humdrum-veritas-data 2891852024
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B,E2F [I:setbarnb 1]|
+G/ G/ G G F F F |
+E2).('B,E2F |
+G/ G/ G G F F F |
+E2).('BB2B |
+B B BA2G |
+F2zz2z) |
+.('G3G3 |
+E2B,E2F |
+G2zF2z |
+E2zz2z) |]

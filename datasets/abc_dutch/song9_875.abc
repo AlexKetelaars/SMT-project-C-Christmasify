@@ -1,0 +1,31 @@
+X: 8874
+T: Een karretjen op een Zandweg reed; De maan s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 1708464957
+%%humdrum-veritas-data 2771896456
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F FF2F |
+A2FF2).('A |
+A2A A A A |
+c2AA2).('c |
+c2cc2c |
+!fermata!f6 |
+!fermata!c3-c2).('A |
+A2A (A G) F |
+G2AG2).('c |
+c2A (A G) F |
+(G3-G2B/ A/) |
+G3-!fermata!G2).('C |
+F F FF2A |
+A2cf2).('c |
+c B AA2G |
+F3-F2) |]

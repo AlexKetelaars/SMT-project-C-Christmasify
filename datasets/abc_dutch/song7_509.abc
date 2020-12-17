@@ -1,0 +1,35 @@
+X: 6508
+T: ‘k Wil’t wel weten dat Klorinde In mijn hart [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 161659110
+%%humdrum-veritas-data 1729402703
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('G F [I:setbarnb 1]|
+E2 E2 c A |
+G2 G2) .('c E |
+D2> A2 B, G |
+E2 z2) .('G F |
+E2 E2 c A |
+G2 G2) .('G A |
+B2> D2 B A |
+G2 z2) .('G G |
+G2> G2 A G |
+(G B) c2) .('c B |
+A2> c2 B A |
+G2 z2) .('G c |
+e2> d2 c B |
+B2 A2) .('c A |
+G2> A2 G F |
+E2 z2) .('G c |
+e2> d2 c B |
+B2 A2) .('c A |
+G2> c2 e d |
+c4) |]

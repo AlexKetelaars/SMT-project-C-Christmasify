@@ -1,0 +1,41 @@
+X: 16152
+T: Een ander plukt de vrucht Waarom myn’ ziele zugt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 3910804388
+%%humdrum-veritas-data 2149225893
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E [I:setbarnb 1]|
+ABcd |
+e3f |
+d>c (B/ c/) (A/ B/) |
+^G3).('e |
+cAde |
+(f/ e/) (f/ d/)ee/ B/ |
+c>BA3/G/ |
+^F3).('B |
+c>B (A/ G/) (^F/ E/) |
+^D3B |
+EB(c/ B/) (A/ G/) |
+(G2^F2) |
+E3) |
+.('E [I:setbarnb 14]|
+F>E^D3/E/ |
+E3A |
+^GAA3/G/ |
+A3).('B |
+c>c^c3/d/ |
+d3d |
+ef^c3/c/ |
+d3).('e |
+B2Bd |
+^G2Ge |
+(d/ e/) (d/ c<)BA/ |
+A3) |]

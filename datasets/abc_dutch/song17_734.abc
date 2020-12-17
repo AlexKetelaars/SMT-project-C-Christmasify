@@ -1,0 +1,48 @@
+X: 16733
+T: Levens vreugt, komt weest vroijlijck wijl gh [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 656381668
+%%humdrum-veritas-data 86253229
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('f2f2 |
+f2f3/(e// f//) |
+g>gf3/_e/ |
+d3).('_e |
+f>ff3/(_e// d//) |
+c>cc3/d/ |
+_e>e).('e3/f/ |
+d>_ef3/g/ |
+c2B2) |
+.('f>fg3/a/ |
+b>ba3/g/ |
+^f>e).('d3/d/ |
+g>^fg3/a/ |
+a2g2) |
+.('d>de3/f/ |
+e>dc3/c/) |
+.('f>ef3/g/ |
+g2f2) |
+.('c2c2 |
+c3f |
+d>d_e3/f/ |
+g>).('ga3/b/ |
+a>gf3/_e/ |
+d>).('_ef3/g/ |
+c>cd3/_e/ |
+c2B2) |
+.('c2c2 |
+c3f |
+d>d_e3/).('f/ |
+g>ga3/b/ |
+a>gf3/_e/ |
+d>).('_ef3/g/ |
+c>d_e3/f/ |
+c2B2) :|]

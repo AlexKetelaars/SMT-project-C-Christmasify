@@ -1,0 +1,38 @@
+X: 36
+T: Myn hert ontvonckt. de geest begint in my t' [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 2215757189
+%%humdrum-veritas-data 3840647929
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d4B4 |
+G2A2B4 |
+z2B cd2A B |
+c2d cB2^F G |
+A B c d e ^fg2 |
+^f4g4) |
+.('d4B4 |
+G2A2B4 |
+z2B cd2A B |
+c2G AB2^F G |
+A B c d e ^fg2 |
+^f4g2z2) |
+[M:3/2].('z4G2G4G2 |
+B4B2d4d2 |
+e4g2a4g2 |
+g6x6) |
+[M:2/2].('z4z2g2 |
+^f2e2d2f2 |
+e2d2c2e2 |
+d2c2B2d2 |
+c2B2A2B2 |
+A B c d e d c B |
+A G ^F E F G A G |
+G8) |]

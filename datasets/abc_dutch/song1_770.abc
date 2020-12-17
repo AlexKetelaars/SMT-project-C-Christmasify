@@ -1,0 +1,32 @@
+X: 770
+T: Verstandige, Handige, Dappere voochden vol t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2616602667
+%%humdrum-veritas-data 3316107966
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D2 [I:setbarnb 1]|
+G2>A2B2z2 |
+B2>c2d2z2 |
+d2>e2f2z2 |
+b2a g^f2).('d e |
+f g f _ed2c d |
+_e f e dc2).('d c |
+B2A (G F G-G2) |
+^F2G4).('A G |
+^F2d cB2_e d |
+c2f ed2).('g d |
+c f _e dc2f c |
+B _e d cB2).('d B |
+c B c dc2A F |
+B A B cd2).('d B |
+c d (B c A G)^F2 |
+G6-G2- |
+G6) |]

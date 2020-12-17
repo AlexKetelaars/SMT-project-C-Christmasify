@@ -1,0 +1,30 @@
+X: 4528
+T: Die geit hee toch zo’n schoon horens Zo'n li [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 1931425582
+%%humdrum-veritas-data 2478606269
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G2G G G G |
+GG2-G2).('B |
+B2A/ A/ A !fermata!A) .('A |
+A/ A/ A/ A/ A/ A/- A z) .('B |
+G/ G/ G/ G/ G/ G/- G z G |
+G2G G !fermata!G) ||
+.('G [I:setbarnb 7]|
+G G G G G G |
+B B Bd2).('d/ d/ |
+c e c B d B/ B/ |
+A c F A G) .('G/ G/ |
+G G BG2z |
+z3z2).('d/ d/ |
+c e c B d B/ B/ |
+A c F A G) |]

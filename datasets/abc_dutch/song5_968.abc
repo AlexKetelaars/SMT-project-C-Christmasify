@@ -1,0 +1,35 @@
+X: 4967
+T: Vrije zonen dezer stranden, mild besproeid m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 3646806418
+%%humdrum-veritas-data 897454693
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G3/F/ [I:setbarnb 1]|
+GDG3/A/ |
+BG).('d3/d/ |
+edBG |
+A2).('A3/^G/ |
+AEA3/B/ |
+cA).('A3/A/ |
+dcB3/A/ |
+B2).('(G/ F/) (E/ G/) |
+BB^c3/^A/ |
+BF).('(G/ F/) (E/ G/) |
+BB^c3/^A/ |
+B3).('B/ B/ |
+BGd3/e/ |
+dB).('D3/D/ |
+GBd3/A/ |
+B2z).('B/ B/ |
+BGd3/e/ |
+dB).('D3/D/ |
+GBdD |
+!fermata!G2) |]

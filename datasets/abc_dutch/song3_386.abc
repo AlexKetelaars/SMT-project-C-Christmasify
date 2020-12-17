@@ -1,0 +1,21 @@
+X: 2385
+T: Op Holland staat een huis Op Holland staat e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 2853728703
+%%humdrum-veritas-data 3822491977
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2 [I:setbarnb 1]|
+d> d e> ed3).('B |
+d> d e> ed3).('B |
+B> B B> B c> B c3/) .('B/ |
+(3A A A (3A A A d> d d3/) .('c/ |
+B> B A> AG2).('d2 |
+B> B A> AG2) |]

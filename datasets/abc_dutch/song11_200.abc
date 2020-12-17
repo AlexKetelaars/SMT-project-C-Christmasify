@@ -1,0 +1,23 @@
+X: 10199
+T: Mien vader zee ys tegen mie...
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 3912830785
+%%humdrum-veritas-data 168066271
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c [I:setbarnb 1]|
+G> GG2c2 |
+A> AA2z) .('c |
+B2c2d c |
+_B A G) .('F G F |
+G2G2G2 |
+c2z) .('c c d |
+e2e2d2 |
+c2z2z) |]

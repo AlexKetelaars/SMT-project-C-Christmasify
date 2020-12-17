@@ -1,0 +1,35 @@
+X: 5539
+T: Lestmael op eenen zomerschen dag, Hoort wat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2543764850
+%%humdrum-veritas-data 868647638
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(G A) (B c) |
+d2d2 |
+e2d ^c |
+d3).('d |
+d2d2 |
+e2(d c) |
+B2A2 |
+G2z) .('d |
+d c B c |
+d d d) .('d |
+d g f e |
+d d d) .('d |
+g2(f e) |
+d2c B |
+c2e2 |
+d3).('d |
+d2d2 |
+e2d c |
+A3G |
+G3) |]

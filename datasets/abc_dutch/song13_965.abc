@@ -1,0 +1,23 @@
+X: 12964
+T: Moriaantje zo zwart als roet ging eens wande [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 978559987
+%%humdrum-veritas-data 4248886876
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c A [I:setbarnb 1]|
+F2F F E F |
+G2z2).('B G |
+E2E2D E |
+F2z2).('c A |
+F2F2E F |
+G G G z) .('B G |
+E2E E D E |
+F F F z) |]

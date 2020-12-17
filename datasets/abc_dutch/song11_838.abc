@@ -1,0 +1,23 @@
+X: 10837
+T: Christus is opgestanden Al van de Martelaers [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1938140266
+%%humdrum-veritas-data 2272517810
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('A2GG(A=B)(cd) |
+(c=B2<)A2zz).('G |
+A2(GB)(AG)FE |
+(FE)D2zz).('(EF) |
+(GA)AAD2C2 |
+F2G2A3z) |
+.('A2GB(AG)(FE) |
+(DE)(FG2<)!fermata!A2z) |
+.('E2FF!fermata!D2) |]

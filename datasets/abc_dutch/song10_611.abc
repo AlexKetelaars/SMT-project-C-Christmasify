@@ -1,0 +1,25 @@
+X: 9610
+T: Hoe zaait de boer zijn graan, Hoe zaait de b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3287027624
+%%humdrum-veritas-data 3352240585
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c G E G |
+c2e2 |
+d c B A |
+A G G) .('G/ G/ |
+A A A A/ c/ |
+G G G G |
+c c d d |
+e2).('f2 |
+e e d d |
+c3) |]

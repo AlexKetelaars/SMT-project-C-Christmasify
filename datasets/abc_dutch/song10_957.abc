@@ -1,0 +1,29 @@
+X: 9956
+T: Mijn lieve Jantje, mijn lieve broertje! Wat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2013938181
+%%humdrum-veritas-data 3132375606
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C F3/ G/ [I:setbarnb 1]|
+A2B A G F |
+(G c) !fermata!c) .('C F3/ G/ |
+A2B A G F |
+G2!fermata!c) .('C F3/ G/ |
+A2B A G G |
+G A!fermata!F2z2) |
+.('A/ A/ A/ A/ A A A A |
+B BB2z2) |
+.('A/ A/ A/ A/ A A G F |
+G c!fermata!c2z2) |
+.('A/ A/ A/ A/ A A A A |
+c c A) .('C F3/ G/ |
+A2B A G G |
+c cF2z2) |]

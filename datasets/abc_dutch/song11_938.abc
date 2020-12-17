@@ -1,0 +1,44 @@
+X: 10937
+T: Ikken, Michiel, kwam in de Lombaardstrate. K [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 321057041
+%%humdrum-veritas-data 1126429671
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G G |
+G D G B |
+(d c) (B A) |
+G2G2) |
+.('B2(A3/ G/) |
+A2A B |
+(A G) (F E) |
+D2z) .('G |
+G G G G |
+G G G) .('B |
+A G F E |
+E DD2) |
+.('F G A G |
+F G A G |
+F G A F |
+D2z2) |
+.('d ^c d c |
+d2z2) |
+.('d ^c d c |
+d2).('c B |
+d2c B |
+c2d2 |
+B2G3/ G/ |
+A> A A3/ A/ |
+G2).('G3/ G/ |
+A> A A3/ A/ |
+(d2c3/) A/ |
+G2).('B B |
+A G/ G/ A B |
+G2z2) |]

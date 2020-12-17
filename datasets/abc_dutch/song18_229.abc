@@ -1,0 +1,32 @@
+X: 17228
+T: Zy, die blind, en ongerust, Het graf voor hu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 1701927338
+%%humdrum-veritas-data 3205664477
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Eb clef=bass
+.('C,C,G,3/G,/ |
+G,E,B,).('G, |
+CC/ A,/B,B, |
+E,2E,).('E/ D/ |
+C>B,=A,G, |
+^F,2).('F,G, |
+E,C,D,D, |
+G,2G,2) |
+.('E,E,B,3/B,/ |
+B,G,C).('C, |
+F,F,/ E,/D,C, |
+G,2G,).('G,/ F,/ |
+E,>D,C,B, |
+A,3).('A,/ G,/ |
+F,>E,D,C, |
+=B,2).('G,C |
+A,F,G,G, |
+C,2C,2) |]

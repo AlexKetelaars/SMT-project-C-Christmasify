@@ -1,0 +1,15 @@
+X: 10010
+T: Vier ruitertjes opper de baan, Die sprongen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2658615291
+%%humdrum-veritas-data 3069335834
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('E3^D2E(B2A)(GFG2<)=D2).('^DEF(G/ A/)B2G2E2).('B2BG2EF2G(D^CD)B,2).('BBBcB2AG2E2<D2).('E2FGFEA2B(cBA2<)F2).('B2BG2E2<B2(GFG)E3) |]

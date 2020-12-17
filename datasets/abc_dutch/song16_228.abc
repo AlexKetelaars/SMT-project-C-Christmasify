@@ -1,0 +1,30 @@
+X: 15227
+T: Trek de boer ‘n paar klompen aan, dan is de  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2641454121
+%%humdrum-veritas-data 3241332924
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F A G F |
+E D C3/ C/ |
+D C D E |
+F2z) .('A |
+B B B/ B/ B |
+A Bc2 |
+B A G F |
+E DC2) |
+.('F2A2 |
+c4 |
+c B B B |
+B AA2) |
+.('F2A2 |
+c2z c |
+d c B G |
+F2) |]

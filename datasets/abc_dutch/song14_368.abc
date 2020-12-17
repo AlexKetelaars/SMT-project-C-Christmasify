@@ -1,0 +1,41 @@
+X: 13367
+T: je suis encor dans mon printemps
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 1831162715
+%%humdrum-veritas-data 627406454
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A A B [I:setbarnb 1]|
+(c f c) (c g c) |
+(c a f) (d B G) |
+F2AG2c |
+A2F) .('A A B |
+c2cc2d |
+_e2e d e d |
+c d c=B3) |
+.('c e g c') .('d/ c/ B/ A/ |
+c2>c2 B c |
+_d2BB2F |
+G2>c2 e g |
+c'2).('c (c G) !wedge!c |
+(c A) !wedge!c (c G) !wedge!c |
+c A F).('f2d |
+c2c (c B) .B |
+A2F).('f2d |
+c2c c B G |
+z/) .('A/ F/ c/ A/ f/ c/ a/ f/ c'/ a/ f/ |
+c3c2c |
+z/ A/ F/ c/ A/ f/ c/ a/ f/ c'/ a/ f/ |
+c2>{d c} c2 B G |
+F2>).('A2 A B |
+c a f (f/ e/ d/ c/ d/ e/) |
+f2z A A B |
+c a f f/ e/ d/ c/ d/ e/ |
+f2z) ||

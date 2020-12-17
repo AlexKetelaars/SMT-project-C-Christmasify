@@ -1,0 +1,30 @@
+X: 14707
+T: Marsch Compose Par O D. Gordon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 695763173
+%%humdrum-veritas-data 2536181127
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=132
+K: F clef=treble
+.('c2>B2A2A2 |
+G> F G A F> G A3/ B/ |
+c2d c f c> B A |
+G2G> G G) .('G A B |
+c2>B2A2A2 |
+a2>g2f2e d |
+g2f dc2=B2 |
+c2c> cc2z2) |
+.('B2>A2G2G2 |
+G2z4z2 |
+c2>B2A2A2 |
+A2z4z2) |
+.('a2>f2c2^c2 |
+d2B2G2d3/ c/ |
+c (d/ c/ B/ A/ G/ F/)A2G2 |
+F2F> FF2z2) :|]

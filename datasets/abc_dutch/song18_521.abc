@@ -1,0 +1,26 @@
+X: 17520
+T: Bourée del: signor Mauregnault
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 4074983597
+%%humdrum-veritas-data 3926819584
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=132
+K: G clef=treble
+.('dc/ B/AG |
+FGA2) |
+.('BA/ G/cB |
+AGAD) |
+.('dc/ B/AG |
+FGA2) |
+.('BA/ G/cB |
+Afg2) |
+.('gfed |
+^c/ d/ e/ c/A2) |
+.('ag/ f/ed/ e/ |
+e>dd2) |]

@@ -1,0 +1,33 @@
+X: 2000
+T: Amsterdam met die gouden namen Daar woonde e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 3822938699
+%%humdrum-veritas-data 1168742885
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B |
+BBB |
+A2A |
+GD).('G |
+G2G |
+GGG/ G/ |
+GG/ G/) .('B/ c/ |
+ded |
+G).('A(B/ c/) |
+[M:4/4]d(ef)e |
+[M:3/4]d2).('c |
+BA/ c/ B/ A/ |
+GD).('G/ A/ |
+(B/ d/)dA |
+G2).('c |
+BAB/ A/ |
+GD).('G/ A/ |
+BdA |
+G2) |]

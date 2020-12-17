@@ -1,0 +1,26 @@
+X: 10218
+T: Vastenavond die komt aan, Klinken op de bussen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 867071710
+%%humdrum-veritas-data 44934288
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G G G G |
+A AG2 |
+F F E D |
+E2C2) |
+.('G G G G |
+A AG2 |
+F F/ F/ E D |
+E2C2) |
+.('C D E F |
+G (G/ A/) G G/ G/ |
+A G/ F/ E D/ D/ |
+D2C2) |]

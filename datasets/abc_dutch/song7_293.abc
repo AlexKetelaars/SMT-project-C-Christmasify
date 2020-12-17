@@ -1,0 +1,39 @@
+X: 6292
+T: Meisje, kom, kom, kom, kom aan mijne groene  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 1088543694
+%%humdrum-veritas-data 2637247467
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A A/ B/ [I:setbarnb 1]|
+c c c c |
+=B c d c |
+(c f)A2 |
+z) .('A A F |
+[M:3/4]c> B B B A G |
+[M:2/4](d> c)c2 |
+z2).('A A/ B/ |
+c c c c |
+=B c d c |
+(c f)A2 |
+z) .('A A F |
+[M:3/4]d> c B A B E |
+(G> F) F z) .('A F |
+c B B z A G |
+d c c z) .('A F |
+c B B z A G |
+[M:2/4]d c c z |
+z2).('A A/ B/ |
+c c c c |
+=B c d c |
+(c f)A2 |
+z) .('A A F |
+[M:3/4]d> c B A B E |
+(G> F) F z) |]

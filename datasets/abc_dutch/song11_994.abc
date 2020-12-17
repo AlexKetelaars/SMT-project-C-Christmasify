@@ -1,0 +1,42 @@
+X: 10993
+T: Een boerin, vroeg opgestaan, Kwam met haren  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 827530953
+%%humdrum-veritas-data 1807013857
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G2 |
+G2(F3/ G/) |
+A2D2 |
+F2z) .('D |
+A2A A |
+A A G A |
+B2G2 |
+G2).('G A |
+B> B B3/ B/ |
+B2d2 |
+(c B)A2- |
+A z) .('B A |
+G2G2 |
+G2B2 |
+A G F E |
+D2).('D D |
+E2E2 |
+F2c2 |
+(B2A2) |
+G2z2) |]
+.('G G G G [I:setbarnb 22]|
+G2B2 |
+(A G) (F E) |
+D2z2) |
+.('A2A3/ A/ |
+A A G A |
+B2A2 |
+G2z2) |]

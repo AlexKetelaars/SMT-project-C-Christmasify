@@ -1,0 +1,27 @@
+X: 7242
+T: ô Soete bloemtjes van de hoven, U ziende moe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 173084549
+%%humdrum-veritas-data 2611455003
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c e c {c} (B A) B |
+{d}c2E(G2A) |
+G2>).('G2 c E |
+(G F) E (D G) G |
+C2z) .('G D E |
+F2GA2d |
+!fermata!c {B A} G z) .('E E E |
+(G F) ED2C |
+G2>).('G2 D E |
+F2GA2d |
+!fermata!c2G) .('c B A |
+(G F) ED2D |
+C3-C2z) |]

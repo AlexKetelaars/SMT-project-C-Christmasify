@@ -1,0 +1,15 @@
+X: 177
+T: Wilt Godt lof end eer gheven, Groot is sijn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 2216600603
+%%humdrum-veritas-data 3320943865
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G4G4d4g2g2f4d4z4).('d4_e2d2B4c4B4z4).('G4G4d4g2g2f4d4z4).('B4c2d2B4A4G4z4).('g4d2=e2f4e4d4z4).('g4a2g2d2f2e4d4z4).('d4f2e2d4c4B4z4).('B4c2d2c2B2A4G4) |]

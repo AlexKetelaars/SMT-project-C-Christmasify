@@ -1,0 +1,39 @@
+X: 16173
+T: Neem jey ‘t Meisje, ik neem het Vlesje, Dat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 756384491
+%%humdrum-veritas-data 1128260250
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=bass
+.('G,A, [I:setbarnb 1]|
+B,CDD, |
+G,G,).('G,A, |
+(B,/ A,/ B,/ A,/G,)F, |
+F,>_E,E,2 |
+D,2).('D,D, |
+(_E,D,/ E,/C,D,/ E,/ |
+D,)B,).('A,A, |
+B,A,(G,/ F,/) (^F,/ G,/) |
+^F,2).('F,3/F,/ |
+G,G,A,A, |
+D,2) |
+.('F,F, [I:setbarnb 12]|
+F,G,(F,/ G,/) (F,/ _E,/) |
+D,B,).('A,A, |
+A,A,(A,/ B,/) (G,/ A,/) |
+^F,D,).('D,D, |
+_E,>D,C,3/C,/ |
+D,2).('D,G, |
+E,A,E,A, |
+^F,2).('A,A, |
+B,A,B,G, |
+^F,D,G,F, |
+_E,).('C,D,D, |
+G,2) :|]

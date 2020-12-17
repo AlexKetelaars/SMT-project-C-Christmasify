@@ -1,0 +1,27 @@
+X: 1533
+T: Wij maken een kringetje van jongens en van m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 888918098
+%%humdrum-veritas-data 4293034422
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2B B d d B B |
+c c A AB2G) .('D |
+G2B B d d B B |
+c2A2G4) |
+.('A4F2D2 |
+B4G2z2 |
+A4F2D2 |
+B4G2).('B c |
+d2B cd2B c |
+d c B AG2).('B c |
+d2B cd2B c |
+d c B AG2z) |]

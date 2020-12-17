@@ -1,0 +1,23 @@
+X: 17201
+T: een kindelijn soo lovelijk, is ons geboren huiden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 1327585693
+%%humdrum-veritas-data 2738026173
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2G2G2A2B2c2c2B2) |
+.('G2G2G2F2F2E2D2) |
+.('D2G2G2A2c2B2A2G2) |
+.('G2A2G2E2F2G2A2G2) |
+.('G2d2d2(e2dc)B2c2d2) |
+.('d2d2(d2dc)B2c2A2G2) |
+.('G4G2G2F2F2E4D4) |
+.('D4G2G2A2c2(B2A2)G2) |
+.('G2A2B2A2G2A2A2d4) :|]

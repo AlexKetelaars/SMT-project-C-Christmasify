@@ -1,0 +1,27 @@
+X: 9972
+T: Het zou er een jager uit jagen gaan, Uit jag [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1579694462
+%%humdrum-veritas-data 185662456
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F F F G |
+A2GF2).('A |
+c2cB2B |
+A2>-A2 z) .('c |
+c2cc2c |
+(d2c)B2).('A |
+G G G G A B |
+(c2B)A2).('c |
+F F FA2B |
+c2cd2).('d |
+c c c (B A) G |
+F2>-F2 z) |]

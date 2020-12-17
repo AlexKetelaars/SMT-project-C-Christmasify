@@ -1,0 +1,24 @@
+X: 1187
+T: Luistert oud en jong van jaren Die nog leven [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 3294862459
+%%humdrum-veritas-data 361860916
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D2c [I:setbarnb 1]|
+B3-B2A (G A) B |
+(A2F)D2z).('G2d |
+d2cB2AG2z) |
+.('B2Bc2B (A B) c |
+(A2c)B2).('D (D G) A |
+(B d) cB2AG2z) |
+.('B2Bc2B (A B) c |
+(A2c)B2).('D (D G) A |
+(B d) cB2AG2z) |]

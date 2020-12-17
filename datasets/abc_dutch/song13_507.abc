@@ -1,0 +1,23 @@
+X: 12506
+T: Curcant[?]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 2462350443
+%%humdrum-veritas-data 3810382307
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d> A F A d A E A |
+d c d ef2d2 |
+f e f ga2g f |
+e2e ee2z x) |
+.('e> f e d d c B A |
+e d e f2<g2g |
+f e f g a f b g |
+f2e2d2z) :|]

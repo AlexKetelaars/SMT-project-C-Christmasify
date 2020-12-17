@@ -1,0 +1,29 @@
+X: 4256
+T: In het duistere der bossen In een hol met lo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 1959763677
+%%humdrum-veritas-data 4186347754
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+G2(B G)(D2E) D |
+(B, D)G4).('F G |
+A2G2c2B2 |
+A d ^c dA2).('F E |
+D2F2A2A2 |
+D6).('D D |
+c2>A2B3c |
+d2A4).('D D |
+c2>A2B3c |
+d2A4).('B A |
+G2G2A2D2 |
+(3:2:6(d2 e2 d2 c B A)) .('G F |
+E2e2d2F2 |
+G6) |]

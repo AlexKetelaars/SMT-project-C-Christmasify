@@ -1,0 +1,15 @@
+X: 10856
+T: Ik hab dy liaef mey al mijn hirt, By dy is a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3817710916
+%%humdrum-veritas-data 476354674
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c2cc(c/ B/ A/ G/F)FAAA2z/).('EFE(A/ G/ A/ B/ c/ B/ A/ G/A)AGGG).('GA2=Bc2z/ (_B/ c/)(dc2)Bc2c4zz/).('Gc>B A/ G/ A/ B/ c/ G<AG/ F/ E/ A/ A/F2).('GA2B(c>B)AGGFAGcc=B2c).('GAc(d/ c/ _B/ A/G)(c/ B/ A/ G/F2)AG(F3/E// D//E)F2) |]

@@ -1,0 +1,46 @@
+X: 17039
+T: Rondeaux
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 4268361265
+%%humdrum-veritas-data 3433174155
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('z g e |
+f f d |
+e f/ e/ d/ c/ |
+d) .('g e |
+f f d |
+e> f f |
+e !mordent!!mordent!d3/ c/ |
+c) |
+.('e c [I:setbarnb 9]|
+f f/ e/ d/ c/ |
+B> B e |
+d/ c< !mordent!!mordent!B A/ |
+A) .('a3/ a/ |
+g> a f |
+e> e f |
+g c3/ d/ |
+B) .('g e |
+f f d |
+e f/ e/ d/ c/ |
+d) .('g e |
+f f d |
+e> f f |
+e !mordent!!mordent!d3/ c/ |
+c) .('e f |
+d d e |
+!mordent!!mordent!^c A a |
+g f/ e/ d |
+d) .('f3/ f/ |
+!mordent!!mordent!^f2f/ f/ |
+g> g a |
+b !mordent!!mordent!a3/ g/ |
+g) :|]

@@ -1,0 +1,28 @@
+X: 15939
+T: Conterdans Giga
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 1078887250
+%%humdrum-veritas-data 1533976747
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('g [I:setbarnb 1]|
+e2>e2 f g |
+d2d3g |
+e d cd2G |
+c4 |
+g2 [I:setbarnb 5]|
+c'2g e f g |
+c'2g e f g |
+a2g f g e) |
+.('d2GG2).('g |
+e2>e2 f g |
+d3d2g |
+e d cd2G |
+c4) |]

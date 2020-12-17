@@ -1,0 +1,32 @@
+X: 15782
+T: meggelse kermes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 2667731152
+%%humdrum-veritas-data 2341411182
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G A GB3 |
+A2Bc2B |
+B c de2d |
+d c BA2G) |
+.('G A GB3 |
+A B cB3 |
+B A G A G ^F |
+G3G3) |
+.('B2d d e f |
+e f de2c |
+c2e e f g |
+f g ef2d |
+d B d c A c |
+B G BA3) ||
+.('d B d c A c [I:setbarnb 16]|
+B c dg3 |
+B A G A G ^F |
+G3G3) |]

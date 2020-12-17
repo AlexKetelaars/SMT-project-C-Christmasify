@@ -1,0 +1,31 @@
+X: 15806
+T: Van de quesel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 2360167053
+%%humdrum-veritas-data 615182101
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d3/fe/ |
+dd3/A/ |
+BB/AG/ |
+FE/FG/ |
+AA3/A/ |
+Bd/dc/ |
+d3/-d) |
+.('d/ [I:setbarnb 8]|
+dA/B=c/ |
+B3/-BB/ |
+ed/cd/ |
+e3/-e).('e/ |
+fe/df/ |
+ed3/f/ |
+ed/cd/ |
+BB/cd/ |
+dc/d) :|]

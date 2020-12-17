@@ -1,0 +1,22 @@
+X: 3134
+T: Is dit geen snitselbaank Joa dat is een snit [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 841257451
+%%humdrum-veritas-data 1921822605
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('z B B B B BB2) |
+.('d> e d c B A G) .('D/ D/ |
+[M:2/4]G G G) .('D/ D/ |
+[M:2/4]G GG2) |
+[M:4/4].('g2>f2 (f e)d2 |
+e2>d2 (d c)B2) |
+.('A2(B c) (d e) (c A) |
+G2(B A)G2) |]

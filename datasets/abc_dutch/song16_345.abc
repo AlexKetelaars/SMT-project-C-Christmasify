@@ -1,0 +1,35 @@
+X: 15344
+T: Das theure Vaterhaus
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 1247773123
+%%humdrum-veritas-data 2081730561
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Db clef=treble
+.('A2 [I:setbarnb 1]|
+A2B> AF2d2 |
+d c B AG2A2 |
+F2=E> FA2G F |
+E4z2).('A2 |
+A2B> AF2d2 |
+e2>d2c2A3/ B/ |
+c2d> cc3B |
+A4z2).('A2 |
+c2>B2C2c3/ B/ |
+B2>A2F2G3/ F/ |
+F2>E2e3d |
+c4z2).('A2 |
+A2B> AF2d2 |
+c d/ c/ B cd2d2 |
+d2A2G A// G// F// G// B A |
+F4z2).('A2 |
+A2f2e2d2 |
+c d/ c/ =B c e d c B |
+A2d A G A/ G/ F E |
+D4z2) |]

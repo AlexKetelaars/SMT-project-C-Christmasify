@@ -1,0 +1,34 @@
+X: 12525
+T: Cadriellie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 740826775
+%%humdrum-veritas-data 3474981450
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('(B c B A) (G A B G) |
+A2 A2d4 |
+(B c B A) (G A B G) |
+A2 F2D4) |
+.('(B c B A) (G A B G) |
+A2 A2d4 |
+(c B A G) (F G A F) |
+G2 G2G4) |
+.('g2 d2 B2 d2 |
+(d c B A) B2 G2 |
+g2 d2 B2 d2 |
+(d c B A)G4) |
+.('A2 A c B2 B d |
+c2 c ed4 |
+(g f e d) (e f g e) |
+(d c B A)G4) |
+.('a2 a c' b2 b d' |
+a2 a c' b2 g2 |
+a2 a c' b2 b d' |
+d' c' b ag4) :|]

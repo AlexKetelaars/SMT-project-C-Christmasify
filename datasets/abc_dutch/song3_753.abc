@@ -1,0 +1,26 @@
+X: 2752
+T: Er was onlangs een groenteboerinne Zij was b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 389085636
+%%humdrum-veritas-data 1758237823
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G AB2d2 |
+G2A BA2G2) |
+.('d2d ef2A2 |
+A> B c de2d2) |
+.('d2B cd2e e |
+d2c B2<A2).('A |
+A B c B A B c e |
+d2d cB4) |
+.('d2B> cd2e e |
+d2c B2<A2).('A |
+A B c> B A B c e |
+d c B AG4) |]

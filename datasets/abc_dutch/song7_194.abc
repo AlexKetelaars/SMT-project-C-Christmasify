@@ -1,0 +1,33 @@
+X: 6193
+T: Kolijn een brave boerenzoon, Het puikje van  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3513153471
+%%humdrum-veritas-data 4272062533
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F2 [I:setbarnb 1]|
+c2>c2 B A B c |
+A4z) .('A c A |
+G2G2(A G) (F G) |
+A2F2z) .('A A A |
+G2c2=B2d2 |
+c4z) .('G G c |
+c G A F(E2D2) |
+C4z) .('G G G |
+A2>A2B3B |
+G4z) .('c c B |
+A2>A2B3B |
+(c2-c/ d/ c/ B/)A2z) .('F |
+d2>d2 d e f d |
+c4).('c2B A |
+A G B G(F2G2) |
+A2z2).('c2d e |
+f d B G(A2G2) |
+F4z2) |]

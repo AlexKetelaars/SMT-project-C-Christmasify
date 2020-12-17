@@ -1,0 +1,24 @@
+X: 15336
+T: Als die Römer frech geworden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 3678925303
+%%humdrum-veritas-data 741440378
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F C F C |
+F G A F |
+B G G F |
+E DC2) :|]
+.('d B B B |
+B cd2 |
+c A A A |
+A Bc2 |
+G A B E |
+G2F2) |]

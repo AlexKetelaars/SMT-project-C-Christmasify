@@ -1,0 +1,15 @@
+X: 605
+T: Wat wilt ghi glorieren Die machtich zijt int [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3273544765
+%%humdrum-veritas-data 1047937205
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('z2G2G2A2G2c2B4c4z2).('B2A4G2c4B2c4z2).('c2B2c2d4c2c2(B4A2d4c4BA)G4z2).('G2A2G2c4G2F2E4D4).('A2B2c2d2(dcBAG2c4B2)A4G4) |]

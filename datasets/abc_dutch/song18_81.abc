@@ -1,0 +1,32 @@
+X: 17080
+T: Bacus
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1529833689
+%%humdrum-veritas-data 2331316554
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('cc/ d/ec |
+f>ff3/g/ |
+e>).('ef3/g/ |
+ag/ f<ee/ |
+f>ed3/e/ |
+c>cc3/d/ |
+B4) |
+.('B>Be3/e/ |
+^cAf3/g/ |
+e-e//) .('e// f// g//a3/g/ |
+^fdg3/g/ |
+g>a^f3/g/ |
+g).('G/ A/BG |
+c>cde |
+A-A//) .('c// d// e//f3/f/ |
+dd// d// e// f//g3/g/ |
+ead3/c/ |
+c4) |]

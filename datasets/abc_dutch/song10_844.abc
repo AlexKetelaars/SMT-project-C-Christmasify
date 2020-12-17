@@ -1,0 +1,30 @@
+X: 9843
+T: Perretje en wilde geen havertjen eten, ‘t St [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 2955027363
+%%humdrum-veritas-data 2229709210
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c c c c |
+B2B B |
+A2A A |
+A2G2) |
+.('c2c c |
+B2B2 |
+B A A A |
+A2G2) |
+.('C D E F |
+G2G2 |
+A A A A |
+G2z2) |
+.('F2F F |
+E E E E |
+D C D E |
+C2z2) |]

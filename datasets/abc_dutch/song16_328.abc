@@ -1,0 +1,35 @@
+X: 15327
+T: Soldatenmuth siegt überall
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 3531540515
+%%humdrum-veritas-data 2289703420
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2FD2F |
+A2GE2C |
+D2D D E F |
+E2>E2 z) .('A |
+A2FD2d |
+d2B^G2E |
+A> B c E F ^G |
+A3z2).('c |
+c2A A> B c |
+d2AA2F |
+G2AF2A |
+E2>E2 z) .('A, |
+D2FA2F |
+G2Bd2B |
+A2F A G E |
+D2DF2).('D |
+A2AA2A |
+F2Ad2F |
+A2AA2A |
+D2>D2 z) |]

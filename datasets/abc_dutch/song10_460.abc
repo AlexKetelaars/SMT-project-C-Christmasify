@@ -1,0 +1,75 @@
+X: 9459
+T: Hoe is het hier zoo glis-glad onder mijne vo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2996305295
+%%humdrum-veritas-data 1806538903
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+BB/BB/ |
+B3/B3/ |
+BB/BG/ |
+A3/A3/) |
+.('BB/BB/ |
+BB/BB/ |
+BB/BG/ |
+A3/A3/) |
+.('B3/BB/ |
+B3/B3/ |
+BB/BG/ |
+A3/A3/) |
+.('GA/Bc/ |
+dd/d3/ |
+ed/cB/ |
+A3/G3/) |
+.('B3/BB/ |
+BB/B3/ |
+BB/BG/ |
+AA/A3/) |
+.('G3/Bc/ |
+dd/dd/ |
+ed/cB/ |
+AA/G).('B/ |
+BB/BB/ |
+B3/BB/ |
+BB/BG/ |
+A3/A).('A/ |
+GA/Bc/ |
+dd/d3/ |
+ed/cB/ |
+AA/G3/) |
+.('BB/BB/ |
+BB/BB/ |
+BB/BG/ |
+AA/Az/) |
+.('GA/Bc/ |
+dd/dc/ |
+BB/AA/ |
+G3/z).('D/ |
+GA/Bc/ |
+dd/dc/ |
+BB/AA/ |
+G3/zz/) |
+.('BB/BB/ |
+BB/BB/ |
+BB/BG/ |
+AA/AA/) |
+.('GA/Bc/ |
+dd/dc/ |
+BB/AA/ |
+G3/zz/) |
+.('BB/BB/ |
+BB/BB/ |
+BB/BG/ |
+AA/AA/) |
+.('GA/Bc/ |
+dd/dc/ |
+BB/AA/ |
+G3/zz/) |]

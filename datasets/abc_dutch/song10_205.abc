@@ -1,0 +1,27 @@
+X: 9204
+T: Een meisje, dat van Scheveningen kwam, Sangejo!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 2618492395
+%%humdrum-veritas-data 1519150890
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D E F [I:setbarnb 1]|
+G2 d2 B B c d |
+G3 D/ D/G4 |
+z) .('D E F G2 d2 |
+B B c d2< G2 D/ D/ |
+G4z) .('B B c |
+d2 d e d2 c B |
+c4z2) .('A B |
+c c c c c c B A |
+B2 B2) .('A A G A |
+B2 B2) .('A A G A |
+B B B2) .('A2 A B |
+G4-G2 z2) |]

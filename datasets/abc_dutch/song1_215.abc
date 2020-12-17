@@ -1,0 +1,15 @@
+X: 215
+T: Ick sal Godt mynen Koningh prysen seer, End  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 2038096179
+%%humdrum-veritas-data 560648825
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c4d2c2d4g4f2d2e2e2d4z4).('d4e2d2B4d4c2B2A2A2G4z4).('G4d4e4c2d2f2e4d4c2d4z4).('d4e4c4A2c2d2c2B4A4G4z4).('c4B2c2d4g4d2e2f2g2e4d4z4).('f4d4e4d2B2c2e2d2c2B4A4z4).('A4B2c2d4e4d2c2d2e2f4e4z4).('g4f2e2d4e4d2c2B2G2A4G4) |]

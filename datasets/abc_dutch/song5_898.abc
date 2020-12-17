@@ -1,0 +1,28 @@
+X: 4897
+T: Kroene Kranen, witte zwanen Morgen ga ik naa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 1848260374
+%%humdrum-veritas-data 4195099178
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A2AG2G |
+A2AG2G) |
+.('G2A B B B |
+A A AG2D) |
+.('G G AB2B |
+A3G2).('D |
+G2AB2B |
+A3G2z) |
+.('G2AB2c |
+d2dd3) |
+.('e2d d d c |
+B2AG2).('B |
+A2AG2B |
+A2AG3) |]

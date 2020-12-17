@@ -1,0 +1,24 @@
+X: 9842
+T: En zoo rijen wij naar Sint Job, Op nen ezel, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 488118880
+%%humdrum-veritas-data 1197327935
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C2E [I:setbarnb 1]|
+G G GG2F |
+E3).('E2E |
+E2DD2E |
+A3G3 |
+z2z).('C2E |
+G G GG2F |
+E3).('G2G |
+B2AF2D |
+C3) |]

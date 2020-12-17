@@ -1,0 +1,26 @@
+X: 5092
+T: Als de nacht met zoete rust, schenkt den men [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 326585604
+%%humdrum-veritas-data 3207027772
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F2A2c3A |
+(G A B) c(B2A2)) |
+.('c2>A2 (d c B) A |
+A4G2z2) |
+.('F2A2c3A |
+(G A B) c(B2A2)) |
+.('c2>A2 (d c) (B A) |
+A4G2z2) ]|:
+.('G2>B2A3c |
+(G A) (B c)(B2A2)) |
+.('d2>d2(c2(3d c) B |
+A2G2F2z2) :|]

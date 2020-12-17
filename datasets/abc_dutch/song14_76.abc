@@ -1,0 +1,31 @@
+X: 13075
+T: Hop hop dans ik met mijn pop dans ik met mij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 1425657168
+%%humdrum-veritas-data 3489652901
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+B2D D D D |
+B2).('B B B d |
+(c B)A2d3/ c/ |
+(B A)G2).('D2 |
+B2D D D D |
+B2).('B B B d |
+(c B)A2d3/ F/ |
+G4).('D2 |
+B2D D D D |
+B2).('B B B d |
+(c B)A2d3/ c/ |
+(B A)G2).('D2 |
+B2D D D D |
+B2).('B B B d |
+(c B)A2d/ c/ B/ A/ |
+G2z2) |]

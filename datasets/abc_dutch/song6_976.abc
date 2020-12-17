@@ -1,0 +1,48 @@
+X: 5975
+T: Mars van Oxensterre
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 159760312
+%%humdrum-veritas-data 839866587
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('g4d2d2 |
+g2>g2a3a |
+b2>b2b3a |
+g2b2a3g |
+f6z/) .('d/ e/ f/ |
+g2>g2g3d |
+e2>e2e3d |
+c2>c2c2B c |
+A6z/) .('A/ B/ c/ |
+d2>d2 (d e)d2 |
+d6).('d2 |
+e2>e2 e> fe2 |
+e6).('f e/ f/ |
+g2f2e3d |
+d6z) :|]
+.('d [I:setbarnb 16]|
+g2>g2g2a b |
+e6z/) .('e/ f/ g/ |
+a2>g2f3e |
+^d4B4) |
+.('g2>g2g2a b |
+c'6).('c'2 |
+f2>f2f2(g a) |
+b2>).('b2e2(f g) |
+a2b g2<f2e |
+e6).('e2 |
+a2a2a3g/ a/ |
+f6).('f2 |
+g2>g2g3(f/ g/) |
+e6).('e2 |
+f2>f2f3d |
+g4a4) |
+.('b2a g2<f2g |
+g8) |]

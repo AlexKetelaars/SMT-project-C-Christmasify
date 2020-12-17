@@ -1,0 +1,28 @@
+X: 5520
+T: ‘k Kwam lestmael in de groene wei, koekoek!  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2984026040
+%%humdrum-veritas-data 1697362004
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A2A (A B) c |
+c2BB2B |
+c3z2).('E |
+A2A A B c |
+c2BB2B |
+c3z2).('c |
+e2e (e f) e |
+e2dd2).('d |
+c2c (c e) c |
+c2BB2).('e |
+c2c (B A) B |
+A2>).('e2c2 |
+c (B A) BA2) |]

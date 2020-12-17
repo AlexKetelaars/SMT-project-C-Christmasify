@@ -1,0 +1,31 @@
+X: 5194
+T: Ik kwam lest over een berg gegaan, Taritari, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 553179098
+%%humdrum-veritas-data 672902112
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C2 [I:setbarnb 1]|
+F2>G2A2G A |
+B2>B2B2).('B2 |
+A2G A B A G F |
+G2>G2G2).('C2 |
+F2>G2A2G A |
+B2>B2B2).('A2 |
+G2G F E EG2 |
+F4F2z2) |
+.('c4d2c c |
+B2>B2B2).('B2 |
+A2G A B A G F |
+G2>G2G2z2) |
+.('c4d2c c |
+B2>B2B2).('A2 |
+G2G F E EG2 |
+F4F2) |]

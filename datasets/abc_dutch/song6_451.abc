@@ -1,0 +1,26 @@
+X: 5450
+T: Ach waarde Lief, [bis] Omhelst my vry noch eens
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 3867055315
+%%humdrum-veritas-data 239410064
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('z4z2z d |
+B> AG2z2z d |
+B> AG2z) .('G A B |
+c2B2A2z2 |
+z2).('g _e (e> dc2) |
+z2d cB2c d |
+zB2A>) .('G Gz2 |
+z4z) .('d d d |
+e2f3(e/ A/)A2 |
+z2z) .('A B c d e |
+f2e) .('d c d f (e/ d/) |
+d2) :|]

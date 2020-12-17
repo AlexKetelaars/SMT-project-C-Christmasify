@@ -1,0 +1,32 @@
+X: 6157
+T: De groote Maggol
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2988184827
+%%humdrum-veritas-data 1421427408
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G2A2 [I:setbarnb 1]|
+B2A GA2B c |
+d2d2).('g2a b |
+a2b g^f2a f |
+g2g2).('G2A2 |
+B2A GA2B c |
+d4).('g2a b |
+a2b g^f2a f |
+g6) :|]
+.('g a [I:setbarnb 9]|
+b2a gf2e d |
+c2e dd2d2) |
+.('B2c dc2d B |
+A2B cB2G2) |
+.('d2d2e3d |
+c2d ed2d2) |
+.('g2a ba2b g |
+^f2a fg4) |]

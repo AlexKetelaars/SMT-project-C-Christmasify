@@ -1,0 +1,23 @@
+X: 9432
+T: Liefde die heeft wondre krachten; zij gaat b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 1495279200
+%%humdrum-veritas-data 1224863250
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('G/ G/ [I:setbarnb 1]|
+DGA/ c/ |
+BB).('G/ A/ |
+BcB/ A/ |
+Gz).('d/ d/ |
+GBd/ d/ |
+cA).('c/ c/ |
+BBA/ A/ |
+Gz) :|]

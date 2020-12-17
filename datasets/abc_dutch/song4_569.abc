@@ -1,0 +1,35 @@
+X: 3568
+T: Over ettelijke jaren was Jantje nog een kind
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 3590419429
+%%humdrum-veritas-data 2550702592
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2A [I:setbarnb 1]|
+G2D (G F) G |
+A2A).('D2F |
+(A B) cB2A |
+G2>).('B2 B A |
+G2D (G F) G |
+A2A).('D2F |
+(A B) cB2A |
+G3).('F2G |
+A2Bc2d |
+B2A).('F2G |
+A2Bc2d |
+B2A).('G2G |
+B2A (G F) E |
+D3).('c2c |
+d2B d c A |
+G3).('G2G |
+B2A (G F) E |
+D3).('c2c |
+d2B d c A |
+G3) |]

@@ -1,0 +1,30 @@
+X: 16194
+T: Myn Dafne durft gy met uw’ Schaapen, U hier  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2863076492
+%%humdrum-veritas-data 2605738408
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('a2 [I:setbarnb 1]|
+f2d2b2 |
+z a (g f) (e d) |
+^c4c2) |
+.('d2_e d ^c d |
+d ^c2<d2).('e |
+f e d c B A |
+^G2G2).('c2 ||
+d e (f ^G A) B [I:setbarnb 9]|
+(c d2<)(B2A) |
+A2>).('e2 f3/ e/ |
+d2>g2 g3/ ^f/ |
+g2g) .('a b a |
+(g/ f/ e/ d/^c2)(a e) |
+(f e2<)(e2d) |
+d4) :|]

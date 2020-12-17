@@ -1,0 +1,33 @@
+X: 5986
+T: Cinieurtie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 391396954
+%%humdrum-veritas-data 1790657445
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d2 [I:setbarnb 1]|
+g2a b a gf2 |
+g4g2).('a g |
+f2g ff2=e d |
+g4g2).('G2 |
+B2A Bc2B c |
+d2c dG2).('A B |
+c2d B A d^F2 |
+G6) :|]
+.('d c [I:setbarnb 9]|
+=B2A BG2A B |
+c2c2c2).('d2 |
+G2A B A BG2 |
+^F2D2D2).('d2 |
+g2a b a bg2 |
+^f2d2=e f g a) |
+.('g ^fg4b2 |
+a2b g d =e^f2 |
+g4) |]

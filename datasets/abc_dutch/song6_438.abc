@@ -1,0 +1,35 @@
+X: 5437
+T: Laat ons, laat ons de Min vereenen hert en z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 192285089
+%%humdrum-veritas-data 1279599460
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('zga |
+gg3/f/ |
+eg(a/ g/) |
+(f/ e<)dc/ |
+c).('g2 |
+zf2 |
+z(e/ f/)g |
+ad3/c/ |
+c2) |
+.('e/ e/ [I:setbarnb 10]|
+dd3/e/ |
+f).('f3/g/ |
+e>ed |
+cB3/A/- |
+A2).('e/ e/ |
+ff3/e/ |
+d2).('g/ g/ |
+gf3/f/ |
+f).('e/e3/ |
+fd2 |
+c3) :|]

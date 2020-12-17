@@ -1,0 +1,35 @@
+X: 1145
+T: Op het sombere kerkhof zekere nacht Zag men  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 3764125936
+%%humdrum-veritas-data 3582245324
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+d2>G2 G G A G |
+[M:3/4]B4).('B2 |
+c2>c2 B A |
+[M:4/4]e2d2z) .('d e f |
+[M:3/4]g2>B2 c B |
+d4-d) .('G/ G/ |
+G A2<c2B |
+[M:4/4]B2A2z2).('d2 |
+[M:4/4]d2>G2 G G A G |
+[M:3/4]B4).('e2 |
+[M:4/4]e2>e2 d e d d |
+[M:3/4]B4-B) .('d |
+e d2<B2G |
+A2G2).('d2 |
+[M:4/4]d2>G2 G G A G |
+[M:3/4]B2B2).('e2 |
+[M:4/4]e2>e2 d e d d |
+[M:3/4]B4-B) .('d |
+e d2<B2G |
+A2G2z2) |]

@@ -1,0 +1,43 @@
+X: 9841
+T: Tiere liere, liere, De rat zit bij de viere
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 4119126167
+%%humdrum-veritas-data 1874234859
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A A G G |
+F2F) .('F |
+F G A B |
+c2c) .('F |
+F G A B |
+c c c) .('F |
+F G A B |
+c c c) .('A |
+A A G G |
+F2F) .('F |
+F G A B |
+c2c) .('F |
+F G/ G/ A B |
+c2c) .('F |
+A A G/ G/ G |
+F2F) .('F |
+F G A B |
+c c c c) |
+.('A A G G |
+F F F F/) .('F/ |
+F G A B |
+c c c c) |
+.('F G/ G/ A B/ B/ |
+c2c) .('A |
+A A/ A/ G G/ G/ |
+F2F F |
+F2F) .('c |
+c B A G |
+F2z2) |]

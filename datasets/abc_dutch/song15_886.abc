@@ -1,0 +1,30 @@
+X: 14885
+T: Zweifle nur, mein kind nicht mehr daran Daß  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 1473036151
+%%humdrum-veritas-data 3553325021
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('(e/ d/) (c/ d/) e A f A |
+f3/ (e// d//)e4) |
+.('(c// d//) e3/ d c B A |
+(G// A//) B3/ G F G E) |
+.('(e/ d/) (c/ d/) e A f A |
+f (e/ d/)e4) |
+.('f g/ a/ g f e f |
+B (e/ ^d/)e4) |
+.('(e/ d/) (c/ d/) e A e A |
+d/ c/ B/ c/d4) |
+.('(d/ c/) (B/ c/) d E d E |
+c (A/ B/)c4) |
+.('(c/ B/) (c/ d/) c a c a) |
+.('c (B/ A/) B g B g) |
+.('a (3(d/ e/ f/) d c B A |
+E (A/ G/)A2A,2) :|]

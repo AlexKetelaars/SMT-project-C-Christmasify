@@ -1,0 +1,16 @@
+X: 16844
+T: delvenaertie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 1288195610
+%%humdrum-veritas-data 508528559
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('F/ F F2<d2ed2f e d2<c2c c c c c c2<d2ed2d2>c2A2A4) |
+.('e/ e ef2g f a g f2<e2e_e2f2e2d cB2A4dd2c4d8) :|]

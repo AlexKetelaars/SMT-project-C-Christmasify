@@ -1,0 +1,31 @@
+X: 6523
+T: Wie koopt er mijn haantje zoo fraai en zoo a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 1123678230
+%%humdrum-veritas-data 966115487
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G A G c G E |
+G F D E C) .('G |
+G A G c G E |
+G F D E C) .('c |
+B A G D E ^F |
+(G> A B/ c/d2)).('e |
+d c B A B c |
+D E ^FG2).('G |
+G F F (F d) F |
+F E E (E c)) .('G |
+G c B A d c |
+B A Bc2).('G |
+c c c d d d |
+e e dc2).('G |
+c c c d d d |
+e e dc2) |]

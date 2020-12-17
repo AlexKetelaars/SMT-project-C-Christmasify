@@ -1,0 +1,23 @@
+X: 5813
+T: Makkers ‘t is weer zingensuur Dat de kunst o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1053857309
+%%humdrum-veritas-data 95072068
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=96
+K: G clef=treble
+.('d2> c2 (B A) (B c) |
+d2> e2d4) |
+.('g2 (d c) (B A) (B c) |
+d2> e2d4) |
+.('(c B) (c A2<) B2 d |
+(c B) (c A)B4) |
+.('(c d) (e f) (g f) (g e) |
+d4-(d c) (B A) |
+G6z2) |]

@@ -1,0 +1,41 @@
+X: 14709
+T: [Vous qui d’amoureuse aventure]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1070748623
+%%humdrum-veritas-data 33652616
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=88
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G e c B A B |
+c e cG2G |
+A G F f e d |
+c3B2).('G |
+G e c B A B |
+c e cG2G |
+d c B {B/} A G A |
+G2zz2).('G |
+d2>-d2 B G |
+e2>-e2 c G |
+f d B c G E |
+E3D2).('G |
+d2>-d2 B G |
+e2>-e2 c G |
+f d B c G E |
+{E/}!fermata!D2).('Gd2B |
+c2cd2e |
+f e dA2A |
+f2e {e/} d c d |
+c2).('Gd2B |
+c2cd2e |
+{g/} f e dA2A |
+f2e {e/} d c d |
+c2).('cA2A |
+f2e {e/} d c d |
+c2zz2) |]

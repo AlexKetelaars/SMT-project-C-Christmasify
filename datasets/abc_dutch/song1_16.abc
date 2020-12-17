@@ -1,0 +1,27 @@
+X: 16
+T: Eer gy, vriend, van hier vertrekt, Wilt my,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 688016962
+%%humdrum-veritas-data 385699281
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=72
+K: F clef=treble
+.('GABc |
+d2_e2 |
+d2z2) |
+.('Bcde |
+f2f2 |
+_e2d2 |
+z2).('dc |
+BAG2 |
+^F2G2 |
+z2).('GA |
+Bcd2 |
+B2A2 |
+G4) |]

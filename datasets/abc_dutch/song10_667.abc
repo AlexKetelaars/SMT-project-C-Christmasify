@@ -1,0 +1,68 @@
+X: 9666
+T: De koekoek in den Mei, Die hoorde den nachte [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 1035086917
+%%humdrum-veritas-data 2718693185
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d2AF2A |
+D2>-D2 z) .('A |
+B G B d c B |
+(A2F)D2).('A |
+(B A) G F E D |
+(D E F)E2).('A |
+(F G) A (F G) A |
+B2>-B2 z) .('B |
+G G B B c d |
+c2>-c2 z) .('A |
+d c B A G) .('F |
+B A G G F) .('A |
+B A G F) .('E D |
+D E F E z) .('A |
+D2AD2A |
+D2>-D2 z) .('D |
+D E F G A G |
+F A FD2z |
+z) .('A G F E D |
+E) .('A G F E D |
+E2>-E2) .('A A |
+A ^G A B A G |
+A2>-A2 z) .('A |
+d2d (d e) c |
+d2>A2 z) .('A |
+d d d d e c |
+d2>A2 z) .('B |
+A2BA2B |
+A2>-A2 z) .('A |
+f e d c B A |
+B2>-B2 z) .('B |
+A2BA2B |
+A2>-A2 z) .('A |
+f e d c B A |
+B2>-B2 z) .('A |
+d c B A G) .('F |
+B A G G F) .('A |
+B A G (F E)) .('D |
+D E F E z) .('A |
+F2AF2A |
+B2G G z) .('B |
+G G B B c d |
+d e c A z) .('A |
+d c B A G F |
+B2z) .('B G B |
+B G B B c d |
+c2>-c2 z) .('d |
+D2dD2d |
+D2>-D2 z) .('D |
+D E F G A G |
+F A A!fermata!d2).('d |
+d2d e d c |
+!fermata!d4) |]

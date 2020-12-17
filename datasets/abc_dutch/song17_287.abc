@@ -1,0 +1,46 @@
+X: 16286
+T: Vrolyke Uurtjes, Die ‘k zoo duurtjes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3188229789
+%%humdrum-veritas-data 702108935
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: A clef=treble
+.('c2e |
+(A B) c |
+B2d |
+(G A) B) |
+.('(c f) e |
+(^d/ c/ B) A |
+(G F) E |
+B3) |
+.('(B c) d |
+(d2c) |
+c ^d e |
+f2B) |
+.('(e B) c |
+(c B) A |
+(3(G/ F/ E/ !trill!!trill!F3/) E/ |
+E3) |
+.('(e c) B |
+(^A B) c |
+(d/ c/ B) A |
+(G A) B) |
+.('(c d) e |
+(f e) d |
+(c B) A |
+e3) |
+.('c2e |
+(A B) c |
+(B c) d |
+(G A) B) |
+.('(c d) e |
+(f G) A |
+(3(d/ c/ B/ !trill!!trill!B3/) A/ |
+A3) :|]

@@ -1,0 +1,31 @@
+X: 355
+T: Frans Ballet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 345933976
+%%humdrum-veritas-data 2388506652
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('d4>c4B4A4 |
+G8F8 |
+G2 A2 B2 G2 c2 d2 _e2 c2 |
+d12).('B2 c2 |
+d c B A G A B c B A B G A G A F) |
+(3.('G A B (3G A B (3A B c (3B A G F2 E F D2 E F) |
+(3.('G A B (3G A B (3A B c (3A B c) (3.('B c d (3B c d (3c d _e (3c d e) |
+.('d8z4d2 e2 |
+f8z4c2 d2 |
+_e8z4B2 c2 |
+d4).('c2 B2 A2 G2A4 |
+G8B c d c B c d e |
+f8).('A B c B A B c d |
+_e8).('G A B A G A B c |
+d4A G F G A B c B A G A2) |
+.('G A B A G A B c d c B c d e f d |
+g16) |]

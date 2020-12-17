@@ -1,0 +1,28 @@
+X: 3191
+T: Wat hoort men nu in deze tijd Als vloekers w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 915014913
+%%humdrum-veritas-data 3263962318
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2A B d d [I:setbarnb 1]|
+B2A2G4) |
+[M:3/4].('B2c d e e |
+[M:4/4]d2c2B4) |
+[M:5/4].('d2d e d c B B B B |
+[M:4/4]B2A2G4) |
+[M:6/4].('G Bd2(c A)B2A4) |
+[M:4/4].('d2B d e d c B |
+A2B2c4) |
+.('(d e) e e d c B G |
+B2e2d3).('B |
+G G A c2<B2).('B |
+c d e e d) .('d (3e e c |
+B2d2B4) |]

@@ -1,0 +1,27 @@
+X: 11099
+T: ‘t Oud wief, dat zat bij ‘t vuur, ‘t Oud wie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 2061471596
+%%humdrum-veritas-data 2626140411
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+FFFG |
+AA/ G/F).('F/ A/ |
+ccBB |
+A3).('F |
+dd/ d/fd/ d/ |
+c>dcz) |
+.('AAGG |
+CCC).('C/ C/ |
+FFAA |
+c>dc).('B/ B/ |
+AAGG |
+F3) |]

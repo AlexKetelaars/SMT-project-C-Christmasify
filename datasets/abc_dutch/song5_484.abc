@@ -1,0 +1,28 @@
+X: 4483
+T: Sir Marlborough trekt ten oorlog Van je sjim [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 3044927269
+%%humdrum-veritas-data 2002359712
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+gdBd |
+(GA)G).('d3// d// |
+(3e/ e/ e/ (3d/ d/ ^c/d).('d3// d// |
+(3e/ e/ e/ (3d/ d/ ^c/d).('d |
+gdBd |
+(GA)G).('g3// g// |
+agf/ f/e |
+(d2c2 |
+B3)).('d3// d// |
+ggf/ f/g |
+(b2g2 |
+a2f2 |
+g3)) |]

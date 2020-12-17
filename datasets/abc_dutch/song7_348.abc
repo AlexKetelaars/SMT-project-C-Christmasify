@@ -1,0 +1,74 @@
+X: 6347
+T: No 5
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 4283899237
+%%humdrum-veritas-data 1831910885
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+e2f |
+{a}g2f |
+c2).('B/ c/ |
+d2e |
+{g}f2e |
+B2).('d |
+b2b |
+c'2b |
+c'2a |
+e2).('e |
+a2a |
+b2a |
+age |
+d2).('d |
+e2f |
+{a}g2f |
+c2).('B/ c/ |
+d2e |
+{g}f2e |
+B2).('d |
+b2b |
+c'2b |
+bag |
+fge |
+d).('gc' |
+b2a |
+g2g3// g// |
+gzx) |
+[K:D] .('A2d |
+c2A |
+e2A |
+f2).('d |
+dfa |
+b2g3// e// |
+Ace |
+f2).('d3// A// |
+A2d |
+c2A |
+e2A |
+f2).('d |
+dfa |
+b2g3// e// |
+(3a/ a/ a/cd) :|]
+[K:C] .('x2x/ e// g// |
+c'3 |
+be^f |
+a3 |
+gec) |
+.('a3 |
+gec |
+a3 |
+geg) |
+.('c'3 |
+bef |
+a3 |
+g^fg |
+abc' |
+gec |
+(3f/ f/ f/Bc) :|]

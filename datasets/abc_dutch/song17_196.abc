@@ -1,0 +1,33 @@
+X: 16195
+T: Lief ‘k zal u zoo dikmaals kussen Als de Mussen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3744809755
+%%humdrum-veritas-data 2305513803
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('z G A (B c) d |
+(c d) BA2G |
+z) .('e ee3 |
+d2>z2 g f |
+e2dd2^c |
+d3-d3) |
+.('d2d (B c) d |
+c2B A B) .('c |
+(B A) G^F2G |
+A2AD3) |
+.('d d d (d> c B/ A/ |
+G2>)e2 e e |
+(e> d c/ B/A3) |
+z2>).('G2 B c |
+(d c) BA2G |
+G2>).('d2 e d |
+(g> g f/ e/ d/ c/ B/ A/ B/ c/ |
+d c) BA2G |
+G3-G3) |]

@@ -1,0 +1,24 @@
+X: 2083
+T: Een schilder had te veel gedronken Wat hem m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 1688023490
+%%humdrum-veritas-data 4109461020
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/4
+Q: 1/4=120
+K: G clef=treble
+.('DEF [I:setbarnb 1]|
+G3B2>(B2A)G |
+A3A2>).('(D2F)A |
+[M:6/4]c2c(cB)A |
+[M:9/4]B3-B2>).('(G2A)B |
+c3c3G2A |
+B3G2>).('D2GB |
+[M:6/4](d3c2)c |
+B3A3 |
+[M:9/4]G3-G3) |]

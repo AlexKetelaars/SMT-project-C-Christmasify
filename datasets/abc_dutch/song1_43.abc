@@ -1,0 +1,27 @@
+X: 43
+T: Moetm' in alles zich verzaken: (Zeyt’s vleys [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3798726954
+%%humdrum-veritas-data 1758236483
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('GGGA/ B/ |
+cE/ F/GC) |
+.('c2d2 |
+e4) |
+.('GGGA/ B/ |
+cE/ F/GC) |
+.('c2d2 |
+e4) |
+.('eee2) |
+.('AAA).('d |
+dcBA |
+G).('c/ d/ed |
+c4) |]

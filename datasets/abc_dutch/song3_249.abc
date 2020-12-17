@@ -1,0 +1,26 @@
+X: 2248
+T: Het was op een donderdagmorgen Een meisje st [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 7866493
+%%humdrum-veritas-data 4255071257
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B A B (A B) A |
+G3G2).('B |
+d d d (c d) c |
+B3-B2).('d |
+B2B (c B) c |
+d3e2).('c |
+B B B A B A |
+G3-G2).('d |
+B2B (c B) c |
+d3e2).('c |
+B B B A B A |
+G3-G2) |]

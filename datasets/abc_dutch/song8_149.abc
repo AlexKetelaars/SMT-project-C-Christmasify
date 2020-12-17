@@ -1,0 +1,49 @@
+X: 7148
+T: No715
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3489077293
+%%humdrum-veritas-data 3771390452
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=66
+K: F clef=treble
+.('A2!trill!!trill!B2 [I:setbarnb 1]|
+c2d cd2f2 |
+{d2}c4f2c2 |
+d2c BA2!trill!!trill!G2 |
+F4).('A2c2 |
+G2c2(e< d) (c/ =B3/) |
+c2G2(g e) (d c) |
+!trill!!trill!c2=B2(g e) (d c) |
+{d}c2=B2).('d2f2 |
+{f}e2d cd2e f |
+{f}e2d2G2A =B |
+!fermata!c4){.('e d f} (e< d) (c/ =B3/) |
+c4(e< d) (c/ =B3/) |
+c4).('E2!trill!!trill!F2 |
+G2A GA2c2 |
+{A2}G4c2e2 |
+d2e fe2!trill!!trill!d2 |
+c4).('c2c2 |
+_e2d c (c< B) (B/ A3/) |
+{A2}B4(d B) (A G) |
+{A}G2^F2(d B) (A G) |
+{A}G2^F2).('B2B2 |
+d2(c B) (B< A) (A/ G3/) |
+A4(c A) (G F) |
+{G}F2E2(c A) (G F) |
+{G}F2E2).('G3B |
+{B}A2G FG2A B |
+{B2}A2G2c2d e |
+!fermata!f4).('(a< g) (f/ e3/) |
+f4(a< g) (f/ e3/) |
+f4).('A2!trill!!trill!B2 |
+c2d cd2f2 |
+c4f2c2 |
+d2c BA2!trill!!trill!G2 |
+{G2}F4) |]

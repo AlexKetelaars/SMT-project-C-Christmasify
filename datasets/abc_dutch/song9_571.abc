@@ -1,0 +1,23 @@
+X: 8570
+T: Zeg mij, waar is een sleuter, Die op alle sl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:48
+%%humdrum-veritas 1602216146
+%%humdrum-veritas-data 1237515494
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B,/ [I:setbarnb 1]|
+EF/GA/ |
+(BG/)E).('E// E// |
+Ac/ec/ |
+B3/z).('e/ |
+dc/cB/ |
+(GB/)c).('B/ |
+BB/AG/ |
+E>-Ez) |]

@@ -1,0 +1,44 @@
+X: 16135
+T: Wat raad, wat raad, myn gelt is op? Fortuin  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 3836687535
+%%humdrum-veritas-data 2796486690
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=bass
+.('F,2 [I:setbarnb 1]|
+(B,2A, G, F, G, F, E, |
+D, E, D, C, B, A, B, C, |
+D, C, D, E, F, E, F, G, |
+A, G, A, F,B,2)B,2 |
+A,2>A,2A,3B, |
+B,6).('B,2 |
+^F,2>F,2F,2G,2 |
+E,4z).('E,3 |
+E,2>E,2 C, C, C, C, |
+F,4F,2).('F,2 |
+^F,2>F,2 F, F, F, A, |
+G,6).('G,2 |
+C,2>C,2C,3D, |
+(E, D,) (E, C,2<)D,2).('B, |
+A,2G,2E,3D, |
+C,2B,2F,4 |
+B,4x2) |
+.('B,2 [I:setbarnb 18]|
+A,2>A,2 (A, B,)C2 |
+^F,6).('F,2 |
+G,2F,2E,3D, |
+D,6).('B,2 |
+A,2B,2(A,2C B, |
+A, B, A, G,^F,2G, F, |
+E, F, E, D,C,2C B, |
+A,2B, C^F,2G, A, |
+D,2>)C,2B,2).('G,2 |
+E,2C,2D,3D, |
+A,4) :|]

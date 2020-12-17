@@ -1,0 +1,48 @@
+X: 16035
+T: je veus garde ma libertie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:59
+%%humdrum-veritas 177515673
+%%humdrum-veritas-data 4127880266
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('d [I:setbarnb 1]|
+f2g |
+a2b |
+f2g |
+a2g |
+f2g |
+e2a |
+^g3 |
+a2) |
+.('A [I:setbarnb 9]|
+c2d |
+e2f |
+c2d |
+e2a |
+d2e |
+f> g a |
+f3 |
+e2).('A |
+d> c d |
+B> c d |
+e> d e |
+c> d e |
+f> e d |
+g2f |
+e3 |
+d2).('A |
+d> c d |
+B> c d |
+e> d e |
+c> d e |
+f> e d |
+g2f |
+e3 |
+d2) :|]

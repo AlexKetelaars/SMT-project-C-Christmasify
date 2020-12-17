@@ -1,0 +1,22 @@
+X: 4497
+T: Stot de kaar te hujen Janneke Op de veurstal [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3741180520
+%%humdrum-veritas-data 3654409297
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D B B B |
+D B B/ B/ B) |
+.('D B B B |
+c d!fermata!e2) |
+.('d d e/ e/ d/ d/ |
+c B d c) |
+.('B A c/ E/ E |
+E FG2) |]

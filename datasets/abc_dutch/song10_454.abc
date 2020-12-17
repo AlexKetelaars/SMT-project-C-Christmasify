@@ -1,0 +1,37 @@
+X: 9453
+T: Sa muzikanten, spant uw snaren wel: Vereert  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3967569031
+%%humdrum-veritas-data 1451965893
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F3/E/ |
+(F/ E/)F) |
+.('G3/G/ |
+(A/ G/ F/) E/ |
+(FC) |
+z).('A |
+A3/G/ |
+AB/ B/ |
+c3/B/ |
+Az) |
+.('cc/ c/ |
+d(d/ c/) |
+BB |
+c2) |
+.('A3/A/ |
+BB3// A// |
+G3/G/ |
+A2) |
+.('c(B/ A/) |
+Bd/ B/ |
+A3/G/ |
+!fermata!Fz) |]

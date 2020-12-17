@@ -1,0 +1,48 @@
+X: 14858
+T: Gedult und Hofnung Zeit und Glücke
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 670037466
+%%humdrum-veritas-data 345714520
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 1/8=144
+K: D clef=treble
+.('A [I:setbarnb 1]|
+D/ F/ A d |
+c/ B/A2 |
+BB2 |
+BA2) |
+.('G F E |
+^G (G A) |
+G F E |
+^G- G A) |
+.('E d c |
+B A/ ^G/ A |
+F/ B/ {A}^G2 |
+A2) :|]
+.('e [I:setbarnb 13]|
+c B A |
+dd2 |
+=cc2 |
+{=c}B2).('^c |
+{B}^A2B |
+F ^A B |
+{c d} e {e}d2 |
+{d}c2).('f |
+B2e |
+A2d |
+c d B |
+c/ B/A2) |
+.('G F E |
+c c d |
+G F E |
+!wedge!c (c d)) |
+.('B A G |
+F/ G/ A d |
+G {F}E2 |
+D2) |]

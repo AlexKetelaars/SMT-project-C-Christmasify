@@ -1,0 +1,25 @@
+X: 9120
+T: Wie was diegene, die die looverkens brak End [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 1375762754
+%%humdrum-veritas-data 3263279474
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F2F F F F F F |
+(F E) F GA4) |
+.('A A A AG2F2 |
+F F E EF2).('A2 |
+G2G2F2A2 |
+G4F2).('F2 |
+F2F FF2F F |
+F E F GA2).('A2 |
+[M:2/4]B3B |
+[M:3/4]A2G2G2 |
+[M:6/4](F4E2)F6) |]

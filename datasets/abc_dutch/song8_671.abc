@@ -1,0 +1,42 @@
+X: 7670
+T: Mars i Schoon dat ik onder ‘t groen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 2566923352
+%%humdrum-veritas-data 3798700677
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('F G [I:setbarnb 1]|
+A2A BA2B c |
+d6).('A2 |
+B d c d A d c d |
+G2F EF2).('A2 |
+B d c d A d c d) |
+.('G B A GF2).('d2 |
+c2d2e2f2 |
+g6).('a g |
+f e d eA2c2 |
+d6) |
+(3.('c d e [I:setbarnb 11]|
+f2f ff2f2 |
+e2a ga2c2) |
+.('d2d dd2d2 |
+c2f ef2A2) |
+.('B2B BB2B2 |
+A2d cd2F2) |
+.('G2F2G B A G |
+F2>E2F2A2) |
+.('B d c d A d c d |
+G2F EF2A2) |
+.('B d c d A d c d |
+G B A GF2).('d2 |
+c2d2e2f2 |
+g6).('a g |
+f e d eA2c2 |
+d6) :|]

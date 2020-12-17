@@ -1,0 +1,24 @@
+X: 4990
+T: Och Leliana! al mijn goet, Die mijn hartjen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1170795197
+%%humdrum-veritas-data 318108604
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B A/ G/ F G |
+(F/ D/) (E/ F/)G2) |
+.('G> A B A |
+G FE2) |
+.('G> F E D |
+G> F E D) |
+.('G> A B d |
+c (B/ A/)B2) |
+.('B (A/ G/) F G |
+G FG2) |]

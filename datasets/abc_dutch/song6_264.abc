@@ -1,0 +1,23 @@
+X: 5263
+T: Ik ben een meisje naar den trant Goddank ben [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 1395241603
+%%humdrum-veritas-data 140362378
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+A2AF2F |
+C2DC2).('C |
+D2DG2F |
+E3-E2).('C |
+F> G A c> B A |
+G> G A (B A)) .('G |
+F2FA2G |
+F3-F2) |]

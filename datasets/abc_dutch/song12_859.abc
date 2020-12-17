@@ -1,0 +1,30 @@
+X: 11858
+T: Schippertie Fier
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 702901691
+%%humdrum-veritas-data 1173691182
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('d>_edd |
+c3d |
+BAGA |
+B2A2) |
+.('GABc |
+dd2c/ B/ |
+c/ B/ A/ G/ ^F/ G/ A/ F/ |
+G2G2) ||
+.('GABB [I:setbarnb 10]|
+AG^FD |
+GABB |
+AG^FD) |
+.('B2c2 |
+d2dc/ B/ |
+c/ B/ A/ g/ ^f/ g/ a/ f/ |
+g2g2) |]

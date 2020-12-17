@@ -1,0 +1,56 @@
+X: 11026
+T: Spaarnimphjes leid met my de Reijen aan den  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 294776635
+%%humdrum-veritas-data 1529028354
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G>AB3/A/ |
+GdcB |
+A>BB2) |
+.('zde/> d/ e3// f// |
+edd/> ^c/ d3// e// |
+d).('cB/> A/ B3// c// |
+B^c(d/ c/) (d/ e/) |
+^c>dd2) |
+.('zdBd |
+G>ABc |
+BB).('zz/ d/ |
+B>edc |
+B>ABc |
+A>GA2) |
+.('zde3/f/ |
+g>fez |
+d>cBz/ g/ |
+fgf3/e/ |
+e2).('zd |
+(e/ d/) (c/ B/) (c/ B/) (A/ G/) |
+A>BcB |
+A>GG2) |
+.('d2z2 |
+(d/ e/ d/ c/ B/ c/ B/ A/) |
+Gz(e/ f/ e/ d/ |
+c/ d/ c/ B/)Az) |
+.('defg |
+f>gee) |
+.('zdd3/c/ |
+B>Bc3/B/ |
+c/> B/ c/> d/BB) |
+.('z^c(dd// e// =f/) |
+e>dd2) |
+.('zgf3/e/ |
+fgf3/e/ |
+ddd3/^c/ |
+ddz).('d |
+(e/ d/) (c/ B<)AG/ |
+G3d |
+(e/ d/) (c/ B<)AG/ |
+G3) |]

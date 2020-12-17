@@ -1,0 +1,34 @@
+X: 9570
+T: Ik greep moeder Elsje al aan haar hoofd, Ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 636570363
+%%humdrum-veritas-data 3429703438
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A2c B |
+A2E E |
+F2G2 |
+A2z) .('A |
+d d d d |
+c2c c |
+B B B B |
+A2z2) |
+.('A A G F |
+F E E z |
+A A G F |
+F2E z) |
+.('c c A z |
+A2c2 |
+e2z2) |
+.('A2A c |
+e e e d |
+c c/ c/ B B |
+A2z) |]

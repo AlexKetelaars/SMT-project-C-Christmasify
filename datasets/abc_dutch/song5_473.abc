@@ -1,0 +1,27 @@
+X: 4472
+T: ’t Was des nachts om twalef uren 't Kindje s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 3780771848
+%%humdrum-veritas-data 3326270457
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B3-B2A |
+G2FG2B |
+e3d3) |
+.('d2d d d d |
+e e dF3) |
+.('G2Bd2d |
+d d ed2d) |
+.('g2fe2e |
+f2ed3) |
+.('G2Bd2d |
+d d ef2d) |
+.('g2fe2e |
+f2ed3) |]

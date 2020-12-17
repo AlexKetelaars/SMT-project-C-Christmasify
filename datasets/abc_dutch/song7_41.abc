@@ -1,0 +1,36 @@
+X: 6040
+T: Den vrisen Boer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3683763875
+%%humdrum-veritas-data 1846355974
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('F/ G/A [I:setbarnb 1]|
+d2F/ G/A |
+D2).('de |
+fe/ f/ g/ f/ e/ d/ |
+eA).('c/ d/e |
+a2c/ d/e |
+A2).('ae |
+f/ e/ d/ c<BA/ |
+A2) |
+.('f/ g/a [I:setbarnb 9]|
+f/ g/agf |
+eA).('f/ g/a |
+f/ g/ab^g |
+a2).('ba |
+fdg/ a/ g/ f/ |
+e2).('ff |
+dBe/ f/ e/ d/ |
+cA).('dA |
+eAfA |
+gA).('fe/ d/ |
+cdAc |
+d2) :|]

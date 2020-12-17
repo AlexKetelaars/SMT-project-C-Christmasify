@@ -1,0 +1,40 @@
+X: 11435
+T: 118
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:15
+%%humdrum-veritas 1081346176
+%%humdrum-veritas-data 615160988
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('dae |
+f>ga |
+_bge3// g// |
+^c>BA) |
+.('FDA |
+_B2A |
+AFG |
+A3 |
+z).('FA |
+E^CE) |
+.('F>GA |
+_BAG |
+A2A) |
+.('dAF |
+G>A_B- |
+B/ c<c_B/ |
+_B2B) |
+.('d/> e/fd |
+g>fe |
+ae3/f/) |
+.('^c>BA) |
+.('fff |
+_b>^c d/ c/ |
+(d/ e<)eg/ |
+^c>BA |
+d2d) ||

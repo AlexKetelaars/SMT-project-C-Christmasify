@@ -1,0 +1,27 @@
+X: 4141
+T: Dronkaard gij moet naar huis toe gaan Jouw v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 4170253596
+%%humdrum-veritas-data 1947114231
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+B2>B2 A c |
+[M:4/4]A FD4).('D2 |
+[M:3/4]c2>A2 F D |
+[M:4/4]A2G2>).('D2 D D |
+[M:3/4]c c c c/ c/ c c |
+[M:4/4]d c BB2).('B c B |
+B2A2>A2 B A |
+A2G2>).('D2 D D |
+[M:3/4]c c/ c/ c c/ c/ c c |
+[M:4/4]c c BB2).('B c B |
+B2A2E2F2 |
+G6) |]

@@ -1,0 +1,24 @@
+X: 9974
+T: Daar was laatst een ouwe soldaat, Zijn geldj [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2704766768
+%%humdrum-veritas-data 3848440193
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D2DF2D |
+A A AA2).('F |
+G G G B A G |
+G F EF2).('B/ B/ |
+B B dc2B |
+A3A2).('F |
+G2G B A G |
+G F EF2).('F |
+E E AG2C |
+E3D2) |]

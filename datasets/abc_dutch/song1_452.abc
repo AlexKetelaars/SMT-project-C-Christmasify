@@ -1,0 +1,40 @@
+X: 452
+T: Questa dolce sirena
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3215168545
+%%humdrum-veritas-data 420246527
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('z2zf |
+dffe |
+f2z).('f |
+dffe |
+f2z).('f/ f/ |
+eedd |
+^ccz).('f/ f/ |
+edd^c |
+d2) |
+.('zd [I:setbarnb 10]|
+ede^f |
+g2g).('c |
+dcde |
+f2z).('f/ f/ |
+ee/ e/dd/ d/ |
+^ccz).('f/ f/ |
+edd^c |
+d2z).('d |
+ede^f |
+g2g).('c |
+dcde |
+f2z).('f/ f/ |
+ee/ e/dd/ d/ |
+^ccz).('f/ f/ |
+edd^c |
+d4) |]

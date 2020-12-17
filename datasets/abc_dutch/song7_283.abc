@@ -1,0 +1,34 @@
+X: 6282
+T: Heb je van de zilveren vloot wel gehoord, De [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 404363417
+%%humdrum-veritas-data 28786808
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F/ G/ A/ B/ c c/ c/ |
+c c/ d/ c) .('c |
+d d/ e/ f d |
+d c z) .('c |
+B A/ B/ G B |
+d c/ B/ A) .('A |
+G c/ d/ e d |
+c C z) .('c |
+c3c |
+c3c |
+f c A F |
+C2z) .('C |
+F/> G/ A/> B/ c F |
+B/> A/ B/> c/ d/>) .('e/ f3// d// |
+c A/ A/ B G/ G/ |
+F) .('F A c |
+f2c f |
+f2d g |
+f2e2 |
+f2z2) |]

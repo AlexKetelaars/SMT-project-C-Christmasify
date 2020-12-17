@@ -1,0 +1,37 @@
+X: 5830
+T: Zoete kindetje, weet gij wel, Dat uw naam is [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2262604799
+%%humdrum-veritas-data 1117315835
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G2A [I:setbarnb 1]|
+G A GE2F |
+G3).('G2c |
+c2d (d e) d |
+c2>).('d2 d d |
+(d e) dd2e |
+A3).('B2c |
+G2cc2B |
+c3) ]|:
+.('G2A [I:setbarnb 9]|
+G A GE2F |
+G3).('G2c |
+c2d (d e) d |
+c3) :|]
+.('e d d [I:setbarnb 13]|
+d2e d c B |
+A3).('B2B |
+c6 |
+G2>).('f2 e e |
+d2c c B c |
+A3).('A2c |
+G2cc2B |
+c3) |]

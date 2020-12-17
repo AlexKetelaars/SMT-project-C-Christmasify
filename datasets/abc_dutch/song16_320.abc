@@ -1,0 +1,31 @@
+X: 15319
+T: Ein freies Leben führen wir
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2121063235
+%%humdrum-veritas-data 1488710434
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2D3/ D/ |
+D2G2 |
+E> EE2 |
+z G F3/ G/ |
+A2F2 |
+G B!fermata!G2) |
+.('z G F G |
+A2d2 |
+B> GA2) :|]
+.('z G F G |
+E c B A |
+G2F2 |
+G2z2) |
+.('z G F G |
+E c B A |
+G2F2 |
+G2z2) |]

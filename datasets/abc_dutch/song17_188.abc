@@ -1,0 +1,46 @@
+X: 16187
+T: Vryers afgeregt op snoepen, Zelden van hun v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 62005163
+%%humdrum-veritas-data 1776842610
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('(gc)c |
+c2c |
+c2c |
+c2c) |
+.('(ad)d |
+d2d |
+d2d |
+d2d) |
+.('de2 |
+f2e |
+(dc)d |
+e3) |
+.('(ed)c |
+(Bc)d |
+c2(B/ A/) |
+A3) |
+.('c2d |
+(ed)c |
+e2f |
+g2g) |
+.('(gd)d |
+(df/ e/d |
+f/ e/ d/ e/ f/ e/- |
+e2)d) |
+.('(gG)G |
+(cd)e |
+e2(d/ c/) |
+c2c) |
+.('(e/ f/g)G |
+(cd)e |
+e2(d/ c/) |
+c2c) :|]

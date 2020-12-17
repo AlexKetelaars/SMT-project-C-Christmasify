@@ -1,0 +1,31 @@
+X: 10791
+T: Achter Sinte-Lommerenberg Staat er een herbe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1843520946
+%%humdrum-veritas-data 1522575284
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('D2EF2G |
+[M:9/8]A A A2<!fermata!A2).('F G A |
+[M:6/8]B2BA2A |
+[M:9/8]G3A3z2).('F |
+[M:6/8]D2EF2G |
+[M:9/8]A2A2<!fermata!A2).('(F G) A |
+[M:6/8]B2BA2A |
+G3!fermata!A3 |
+z) .('F G (A B) A |
+G2F G A G |
+F2>).('B2 A G |
+F2F A G F |
+!fermata!E3).('D2E |
+F3A2B |
+A2).('GF2G |
+A2G G F E |
+D2zz2z) |]

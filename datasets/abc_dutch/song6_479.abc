@@ -1,0 +1,22 @@
+X: 5478
+T: Heer Halewijn sanc een liedekijn; Al wie dat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3539118484
+%%humdrum-veritas-data 2313318864
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('B/ A/ B/ [I:setbarnb 1]|
+c3/d3/ |
+cB/A).('A/ |
+BA/GA/ |
+Bc/d).('d/ |
+ed/c3/ |
+d3/c=B/ |
+c3/) |]

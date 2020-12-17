@@ -1,0 +1,40 @@
+X: 15954
+T: hansworst
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 353946370
+%%humdrum-veritas-data 47358862
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c'2a2a2f2 |
+f2c2c4 |
+f2f2g a b c' |
+!trill!!trill!a4!trill!!trill!g4) |
+.('c'2a2a2f2 |
+f2c2c4 |
+d e f g e f g e |
+f4-f4) |
+.('a2a ba2g f |
+g2g ag2f e |
+f2f gf2e d |
+e2c2c2g2 |
+!trill!!trill!c'4!trill!!trill!=b4 |
+c'2=b ag2f2 |
+!trill!!trill!e4!trill!!trill!d4 |
+c4-c4) |
+.('A2(A B)A2(G F) |
+c2c dc4 |
+A2A BA2G F |
+c2c2c4) |
+.('f2c2g2c2 |
+a2b ag2).('g2 |
+(f e) (f c)g2c2 |
+a2b ag2c' b |
+a2g f e f g e |
+f2f gf4) :|]

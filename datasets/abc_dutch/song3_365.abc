@@ -1,0 +1,34 @@
+X: 2364
+T: Tussen Den Hoorn en de Siep Daar leit de slu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 968587665
+%%humdrum-veritas-data 1726649768
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D D D(B2A) |
+G2GG2).('G |
+G2Gc2c |
+B3-B2).('B |
+A2AA2A |
+B3A2).('A/ A/ |
+E2EA2A |
+D3-D2).('D |
+D D DB2A |
+G3-G2).('G |
+G2Gc2B |
+A3-A3) |
+[M:2/4].('A A A A |
+B A G D) |
+.('G G G A |
+[M:3/4]B A G D) .('G G |
+[M:6/8]G3d2d |
+d3-d2).('c |
+B B BA2G |
+A2AG3) |]

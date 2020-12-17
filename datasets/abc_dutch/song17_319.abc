@@ -1,0 +1,32 @@
+X: 16318
+T: Hoe gelukkig is myn lot, Door de Goden my gegeven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2249326805
+%%humdrum-veritas-data 2498423779
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('e d [I:setbarnb 1]|
+c2 (B A) {c/} B2 (A ^G) |
+A4z2) .('e e |
+f2> e2 (d2 e) f |
+(e d)c4).('c c |
+d2> c2 (B2 c) d |
+(c B)A4).('A A |
+(A ^F) (G A2<) !trill!!trill!F2 E |
+E4z2) |
+.('E F [I:setbarnb 9]|
+G2 G2 (G2 A) E |
+{E2}F6).('D E |
+F2 F2 F2 F2 |
+F2E4).('E A |
+^G2 A2 B2 c2 |
+B2E4).('e d |
+c2 (B A) {c} B2 (A ^G) |
+{^G2}A6) :|]

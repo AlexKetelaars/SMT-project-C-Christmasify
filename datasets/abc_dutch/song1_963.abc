@@ -1,0 +1,37 @@
+X: 963
+T: Lustig Lijsje jong van jaren Altoos vrolijk  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 2713934412
+%%humdrum-veritas-data 3801562955
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+B2B2F3/ G/ |
+E2D2).('G3/ G/ |
+F2>F2 B3/ A/ |
+G4).('A A |
+^G2>G2 G G |
+A4).('E A |
+c2>A2 ^G3/ A/ |
+B2A2).('E A |
+c2>A2 ^G3/ A/ |
+B2A2).('A G |
+F2>A2 A3/ G/ |
+F4).('A B |
+d2d2F A |
+B2B2).('B3/ B/ |
+d2d2c3/ d/ |
+B2B2).('F3/ E/ |
+A2A2F E |
+A2A2).('B3/ B/ |
+d2d2c3/ d/ |
+B2B2).('E3/ E/ |
+A2A2E3/ F/ |
+D4) |]

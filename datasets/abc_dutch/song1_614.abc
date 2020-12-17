@@ -1,0 +1,15 @@
+X: 614
+T: Heere lieve Heere, verhoort die stemme mijn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2583916953
+%%humdrum-veritas-data 141344479
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('D2>D2(DCD)EF4F2F2E2F2E2D2C4z2).('D2D2DDA,2B,2C2D4<(F4EDC4)z2).('F2(FEF)GA2G2F2(F4ED)C4z2).('DDE2D2(CB,D)CD4) |]

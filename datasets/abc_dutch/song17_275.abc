@@ -1,0 +1,30 @@
+X: 16274
+T: Klimeen ach! ider weet dat ik u min, Myn ond [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 1631530039
+%%humdrum-veritas-data 1801809237
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2z ee2z2 |
+!trill!!trill!d4z d) .('e3/ B/ |
+c2>c2!trill!!trill!B3A |
+!trill!!trill!^G2>).('G2 A> B c3/ e/ |
+!trill!!trill!d2>c2B2B2 |
+z) .('B B c d> d c3/ B/ |
+c2c) .('ff2e2 |
+z e d> e (c/ d/ e) d (c/ d/) |
+B8) |
+.('z c c> GA3A |
+d> e d> cB2B2 |
+z) .('c c> ^G A> c B3/ A/ |
+^G4z) .('B e3/ B/ |
+c2z) .('eG2(A B) |
+d2^G2A2(d c) |
+!trill!!trill!B4A4) :|]

@@ -1,0 +1,31 @@
+X: 9291
+T: Vriend ... is een brave man, Die leert ons a [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 2899148535
+%%humdrum-veritas-data 257938163
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B2 [I:setbarnb 1]|
+B2B2B2(A B) |
+(c B) (A G)F2).('(F G) |
+(A G) (F E)D2(D E) |
+(F E) (D C)B,2z2) |
+.('G4G4 |
+A4A4 |
+F2>G2F3E |
+D2>E2F3D |
+(E2G2)B2z2) |
+.('(F G F G A B A B |
+D E D E F G F G |
+A4A G) (F A) |
+(G F)E2z2).('e2 |
+e2d dd2e e |
+(f2B4)(A G) |
+F2B2z2) |]

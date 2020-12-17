@@ -1,0 +1,31 @@
+X: 9787
+T: Ik ging er eens naar Brussel, En ik bracht m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 145479881
+%%humdrum-veritas-data 1547197162
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C [I:setbarnb 1]|
+F E F G |
+A2A A/ A/ |
+G F G A |
+F2z) .('C |
+F E F G |
+A2A A/ A/ |
+G F G A |
+F3z) |
+.('A3G |
+F F F F |
+G G G G |
+A A F F) |
+.('A3G |
+F F F F/ F/ |
+G G G G |
+F3) |]

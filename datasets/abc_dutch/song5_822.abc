@@ -1,0 +1,47 @@
+X: 4821
+T: Mie Prop zat in de glazen kast Ze keek op de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 1847486475
+%%humdrum-veritas-data 2741625807
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+GGGG |
+DBG3/).('G/ |
+GG/ G/GG |
+DB/ B/Gz) |
+.('GGGG |
+(DB)G3/).('G/ |
+GGGG |
+(DA)G3/).('G/ |
+GGD/ D/B |
+[M:2/4]G3/).('G/ |
+[M:4/4]GGDB |
+[M:2/4]G3/).('G/ |
+[M:4/4]GGGG |
+(DB)G3/).('G/ |
+GGGG |
+(DB)G3/).('G/ |
+GG=FA |
+[M:2/4]G3/).('G/ |
+[M:4/4]GG=FA |
+[M:2/4]G3/).('G/ |
+[M:4/4]GGGG |
+(DB)G3/).('G/ |
+GGGG |
+(DB)G3/).('G/ |
+GGD/ D/B |
+G2z3/).('G/ |
+GGDB |
+G2z3/).('G/ |
+[M:6/8]GG/GG/ |
+G3/z).('G/ |
+GG/GG/ |
+D) |]

@@ -1,0 +1,59 @@
+X: 17174
+T: Riguadon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 2180102405
+%%humdrum-veritas-data 1235121773
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('z/ d/ [I:setbarnb 1]|
+B2d2 |
+G3d |
+edcB |
+ABc).('d |
+edcB |
+ABcd |
+B2A2 |
+G3) |
+.('z/ g/ [I:setbarnb 9]|
+^f2g2 |
+a3b |
+agab |
+agf=e |
+f2=e2 |
+d3).('g |
+^f2g2 |
+a3A |
+Bcd=e |
+^fgab |
+g2^f3/=e// f// |
+g3) |
+.('z// d// =e// ^f// [I:setbarnb 21]|
+g2^f3/=e// f// |
+g3d |
+gabg |
+f>gfd |
+edcB |
+cd/ e/dc/ B/ |
+AGA^F |
+G3) |
+.('B [I:setbarnb 29]|
+cded |
+c>BcA |
+B>cc).('A |
+B>c d/ =e/ f/ g/ |
+=ef/ g<fg// a// |
+ga/ b/ad |
+d2^c2 |
+d2d).('B/ c/ |
+de/ d/cA/ B/ |
+cd/ c/Bc/ B/ |
+Addg |
+B2A2 |
+G2) :|]

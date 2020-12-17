@@ -1,0 +1,49 @@
+X: 16599
+T: O Judas
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 1698929333
+%%humdrum-veritas-data 1021692571
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D [I:setbarnb 1]|
+G2^F2 |
+(B>A)G2 |
+(c// d// _e/)Gc(B/ A/) |
+(BA)G2 |
+z).('D_EE |
+DDG(A/ B/) |
+A2zB |
+cd^F3/F/ |
+GA(B3/A/) |
+Az/) .('d<_ed/ |
+cBA(B/ c/) |
+c3B |
+B2z).('B |
+^F2Fz |
+(G>A) G/ z/ (A/ B/) |
+(c// d/<) (d/ c//) B<(AG/) |
+G2z).('d |
+d>^FG(A// B// c/) |
+B(A/ G<)(^FE/) |
+Dz/) .('B<cd/ |
+GAB3/c/ |
+c>BBB |
+z).('BD3/D/ |
+GF_E3/D/ |
+Dz/ B<^FG/ |
+ABB3/A/ |
+AzB2 |
+d2z(G3// A//) |
+^F2Fz/) .('B/ |
+c(c// d// _e/) d/> c/ B// ^F// G/ |
+G(A/ B<)(BA/) |
+G2z/ B/> ^F/ G/ |
+(G/ A// B//)(B2A) |
+G3) |]

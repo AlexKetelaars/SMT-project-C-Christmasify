@@ -1,0 +1,53 @@
+X: 15547
+T: 32
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:54
+%%humdrum-veritas 2811295315
+%%humdrum-veritas-data 2871465595
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G A2<)!trill!!trill!A2(G/ A/) |
+B A B c d B |
+G2e2d2 |
+!trill!!trill!c4B2) |
+.('d2c B A G |
+!trill!!trill!F4G2 |
+A Bc2B2 |
+!trill!!trill!B2A2z2) |
+.('d6 |
+D6 |
+(3G A B (3A B c (3B c d |
+!trill!!trill!c4B2) |
+.('d2!trill!!trill!d4 |
+e2F2G2 |
+(3c B A!trill!!trill!A4 |
+G2E2z2 |
+(3c B A!trill!!trill!A4 |
+G6) |
+.('A B c B c d |
+e e A B c d |
+e2(d c) B A |
+!trill!!trill!B4A2) |
+.('G AG2F2 |
+(E2F2)G2 |
+A BA2G2 |
+(F2G2)A2) |
+.('(B2c2)B2 |
+A B c B A G |
+!trill!!trill!A4A2) |
+.('d6 |
+D4z2 |
+(3G A B (3A B c (3B c d |
+!trill!!trill!c4B2) |
+.('d2!trill!!trill!d4 |
+e2F2G2 |
+(3c B A!trill!!trill!A4 |
+G2E2z2 |
+(3c B A!trill!!trill!A4 |
+G6) :|]

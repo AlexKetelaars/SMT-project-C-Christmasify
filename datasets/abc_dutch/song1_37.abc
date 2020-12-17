@@ -1,0 +1,42 @@
+X: 37
+T: Dees groote woorden sprack Israëls macht en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 892047782
+%%humdrum-veritas-data 408315048
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2G^F/ E/ |
+^F>GFD |
+B2cB |
+AG/ ^F/G2) |
+.('G2B2 |
+d2c2 |
+B2A3/G/ |
+^FDd2 |
+cBAG/ ^F/ |
+G4) |
+.('G2AA |
+BBBB |
+cAA^G |
+A2).('dd- |
+d/ c/ B/ A/GA- |
+A/ G/ ^F/ E/Dd- |
+dcBA |
+G/ A/BA2 |
+G4) |
+.('G2AA |
+BBBB |
+cAA^G |
+A2).('dd- |
+d/ c/ B/ A/GA- |
+A/ G/ ^F/ E/Dd- |
+dcBA |
+G/ A/BA2 |
+G4) |]

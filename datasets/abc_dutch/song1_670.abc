@@ -1,0 +1,15 @@
+X: 670
+T: Loeft God den Heer Ghi Heydens seer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 168559571
+%%humdrum-veritas-data 3934116196
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=bass
+.('z2D,2F,4G,2A,4).('G,2A,4B,2C4).('D2C4B,2A,4).('D,2F,4A,4G,4).('F,2E,2D,2E,2C,4).('C,2F,4A,2G,4).('F,2(E,D,E,)C,D,4) |]

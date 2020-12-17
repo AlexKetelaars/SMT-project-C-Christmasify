@@ -1,0 +1,29 @@
+X: 8207
+T: Hôliolô! Hôliolô! Hôliolô! Hôlioliolioliolio lô!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:44
+%%humdrum-veritas 1006908218
+%%humdrum-veritas-data 1436979896
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G4G2> G2c6).('c2 ||
+[M:3/4]d2> G2c6c2 [I:setbarnb 3]|
+d2> G2c8) |
+.('!fermata!c2 c c c c c c c c c c |
+!fermata!_B12) ||
+[M:4/4].('F4F2> F2_B6).('B2 ||
+[M:3/4](3c2 c2 F2_B6B2 [I:setbarnb 8]|
+(3c2 c2 F2_B8) |
+.('!fermata!_B2 B B B B B B B B B B |
+!fermata!_A12) ||
+[M:4/4].('G4G2> G2c6).('c2 ||
+[M:3/4]d2 G Gc6c2 [I:setbarnb 13]|
+d2 G Gc8) |
+.('!fermata!c2 c c c c c c c c c c |
+!fermata!_B12) |]

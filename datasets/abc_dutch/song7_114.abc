@@ -1,0 +1,28 @@
+X: 6113
+T: Kautjens koelen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2789887102
+%%humdrum-veritas-data 2594728488
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('Ad [I:setbarnb 1]|
+cde/ d/ e/ f/ |
+ee).('Ad |
+cd/ e/fe |
+d2) :|]
+.('fe/ d/ [I:setbarnb 5]|
+eefe/ d/ |
+e2).('fe/ f/ |
+g/ f/ e/ f/ g/ f/ e/ d/ |
+ee).('Ad |
+cde/ d/ e/ f/ |
+ee).('Ad |
+cd/ e/fe |
+d2) |]

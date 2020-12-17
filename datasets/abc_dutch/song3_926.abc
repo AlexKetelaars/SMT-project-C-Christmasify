@@ -1,0 +1,27 @@
+X: 2925
+T: In het eerst van mijn jonk leven heb ik mij  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 3921734781
+%%humdrum-veritas-data 1618740505
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B/ B/ [I:setbarnb 1]|
+B2AB2d |
+(d2c)B2).('B/ B/ |
+B A B (c d) e |
+(d2c)B2).('B/ B/ |
+B B B/ B/ (B A) G |
+[M:9/8]A3-A2).('B c d e/ e/ |
+[M:6/8]e A d/ d/ c B (A/ B/) |
+G3-G2).('B/ B/ |
+B B B/ B/ (B A) G |
+[M:9/8]A3-A2).('B c d e/ e/ |
+[M:6/8]d A d/ d/ c B (A/ B/) |
+G3-G2) |]

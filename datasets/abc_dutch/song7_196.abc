@@ -1,0 +1,27 @@
+X: 6195
+T: Lieve schipper! vaar mij over, Vaar mij naar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2587595365
+%%humdrum-veritas-data 3271485194
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('D E [I:setbarnb 1]|
+F2d2c B |
+A2F2).('D E |
+F2A2E F |
+D4z2) |
+.('E F G B A G |
+(F d)A2).('A A |
+c2>B2 A G |
+F4z2) |
+.('E F G B A G |
+(F d)A2).('A A |
+c2>B2 G E |
+D4) |]

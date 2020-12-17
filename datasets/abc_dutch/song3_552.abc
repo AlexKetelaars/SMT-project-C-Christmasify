@@ -1,0 +1,39 @@
+X: 2551
+T: Bij Luna zijn velen gevallen Bij Luna vloeid [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 970673206
+%%humdrum-veritas-data 1705517552
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+dd3/d/ |
+ee3/d/ |
+dc2- |
+c2).('c |
+cde3// e// |
+ffe |
+d3- |
+d2).('d |
+gbb |
+bag |
+fe2- |
+e2).('e |
+ff3/e/ |
+dd3/c/ |
+B3- |
+B2).('d |
+gbb |
+bag |
+fe2- |
+e2).('e |
+ff3/e/ |
+def |
+g3- |
+g2) |]

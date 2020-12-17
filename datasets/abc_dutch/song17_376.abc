@@ -1,0 +1,34 @@
+X: 16375
+T: Myn Lief myn Ziel is overwonnen Door uw twee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2122421375
+%%humdrum-veritas-data 4223617990
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('z A e c [I:setbarnb 1]|
+A2 E2 (F2 d) F |
+!trill!!trill!F2 {E F} E2 z) .('E A c |
+(c2 B) A (G/ A/ B/ c/ {e/} d) (c/ B/) |
+(c/ B/ A) A2 z) .('c c ^d |
+(e2 B) c (A G) (A B) |
+{A}G4z) .('B (A/ G/) (F/ E/) |
+(c A) (G F2<) {E F} !trill!!trill!F2 E |
+E4) |
+.('z E e c [I:setbarnb 9]|
+^A2 {B c} B2 (d< B) (c/ =A3/) |
+G2 {A B} A2 z) .('c A F |
+(d2 c) B A2 G2 |
+F4z) .('F G ^A |
+B2 B2 B2 A2 |
+(G/ F/ E) E2 z) .('E F G |
+A2 (B c) d2 (c B) |
+(c/ B/ A) A2 z) .('e c A |
+F2 (d/ c/ B2<) {A B} !trill!!trill!B2 A |
+A4) :|]

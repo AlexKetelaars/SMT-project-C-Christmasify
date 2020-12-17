@@ -1,0 +1,35 @@
+X: 11032
+T: Kom Saetsljaef! [!] kom, nou keamer-op, Kom  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 190728481
+%%humdrum-veritas-data 3736990209
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Ab clef=treble
+.('z2E [I:setbarnb 1]|
+A2AG2G |
+F2FE2).('E |
+F2DC2D |
+E3E2).('E |
+A2A A G A |
+B2BB2).('A |
+G2G (F G) F |
+E3E2).('E |
+B2E (A G) A |
+B3z2).('E |
+B2G (A B) c |
+B2z).('e3 |
+A2A (A G) A |
+F3F2).('F |
+B2BB2A |
+G2FE2).('E |
+c2c (c B) c |
+A3A2).('A |
+B2B (G F) G |
+A2z) |]

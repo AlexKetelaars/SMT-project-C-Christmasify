@@ -1,0 +1,27 @@
+X: 3785
+T: Nao Domburg nao ’t wafel’uus Da kommen wen h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 1158178809
+%%humdrum-veritas-data 438444201
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+G3D2B |
+G2GD2).('D |
+G G GA2A |
+G2GD2).('D |
+G2GA2A |
+G2GD2).('D |
+G G G A A A |
+G2GD2).('D |
+c c cc2d |
+B B BB3) |
+.('A2AA2A |
+G2GG2) |]

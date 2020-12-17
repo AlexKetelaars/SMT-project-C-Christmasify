@@ -1,0 +1,31 @@
+X: 17369
+T: Reverence engloise
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 3896854316
+%%humdrum-veritas-data 4066693924
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B>Bc3/c/ |
+d>ef3/d/ |
+edcB |
+c/ B/ A/ G<F).('F/ |
+B>Bc3/c/ |
+d>=efd |
+gf=e3/f/ |
+f2x2) |
+.('f>fg3/a/ |
+b3a |
+g>ba3/g/ |
+^f2d).('e/ =f/ |
+g>fed |
+c2f2 |
+B/ A/ B/ c<cB/ |
+B2) :|]

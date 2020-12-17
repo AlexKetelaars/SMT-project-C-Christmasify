@@ -1,0 +1,23 @@
+X: 1189
+T: Een dennenboom stond in het dal Van onderen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 4178363764
+%%humdrum-veritas-data 2835407713
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D D3/ B,/ [I:setbarnb 1]|
+E2>D2 D3/ C/ |
+C2>).('C2 C D |
+F2>C2 E D |
+B,2>).('D2 D D |
+G2>B2 A G |
+A,2>).('B,2 C D |
+F2>D2 E F |
+G3) |]

@@ -1,0 +1,32 @@
+X: 11823
+T: La Belle Iris
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 1949511037
+%%humdrum-veritas-data 3784539114
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G/ A/ [I:setbarnb 1]|
+BAd3/g/ |
+^f3).('b/ a/ |
+gf/ _e<dd/ |
+_ec2).('f/ c/ |
+d_ec3/B/ |
+cA2).('d/ A/ |
+Bcc3/d/ |
+d2x) ||
+.('d/ e/ [I:setbarnb 9]|
+fdg3/a/ |
+bb2).('f3// f// |
+f(g/ c<)cB/ |
+B3).('f/ _e/ |
+dg^f3/g/ |
+aa2).('b/ e/ |
+^fgg3/f/ |
+g2) |]

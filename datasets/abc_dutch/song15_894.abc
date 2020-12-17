@@ -1,0 +1,39 @@
+X: 14893
+T: Alles, alles eilt zum Untergange Und Muß wie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 1548425401
+%%humdrum-veritas-data 3162544595
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('ded |
+d(c/ B/ A/ G/) |
+(de)d |
+(cA)d |
+BA/ B/G) |
+.('zBB |
+c2d |
+e(d/ c/)d |
+c(B/ A/)B |
+cA2 |
+B3) |
+.('zd=B |
+(c/ =B/ c/) d/e |
+zcA |
+(B/ A/ B/) c/d |
+ABG |
+^F3) |
+.('(AB)B |
+c/ B/ c/ d/e |
+zdd |
+d=e/ ^f/g) |
+.('zed |
+c(B/ A/) (B/ c/) |
+(dG)^F |
+G3) |]

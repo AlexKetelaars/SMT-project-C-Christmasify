@@ -1,0 +1,32 @@
+X: 13267
+T: Madelot Suis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 4223845289
+%%humdrum-veritas-data 2994417305
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('G [I:setbarnb 1]|
+G2d d c d |
+B3c3 |
+d e d c B A |
+B A BG2).('G |
+G2d d c d |
+B3c3 |
+d e d c B A |
+G3-G2) |
+.('d [I:setbarnb 9]|
+d2d d e f |
+B2B B c d |
+e2d d c B |
+{B}A2AA2).('d |
+g2ba2^f |
+g2de2c |
+B2>A2 G A |
+G6) :|]

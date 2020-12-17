@@ -1,0 +1,35 @@
+X: 5418
+T: Fillis, by ‘t ruischen der blad’ren, Daar ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 3552261278
+%%humdrum-veritas-data 3197478186
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('e>de |
+f2e |
+c/ (d/ c/ d/ e/) d/) |
+.('e>de |
+f2d |
+B2) |
+.('B [I:setbarnb 7]|
+c2d |
+(e>e f/ g/ |
+f2)e |
+d2d) |
+.('g>fe |
+ad3/c/- |
+c3) |
+.('e3 |
+d3 |
+e>dc |
+B/B2B/) |
+.('e>dc |
+dB3/A/- |
+A3) :|]

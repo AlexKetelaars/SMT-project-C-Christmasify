@@ -1,0 +1,40 @@
+X: 17515
+T: Swermer Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 2073157107
+%%humdrum-veritas-data 3912544776
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('f2F F A A c c |
+f6g2 |
+a g a bc'2b a |
+g f e dc2).('g2 |
+a2c' ag2c' g |
+a2c' ag2c' g |
+a =b c' d'2<=b2c' |
+c'2c c e e g g |
+c'4x4) |
+.('g2g fe2d c |
+g2g ab4 |
+a2g f e f g a |
+f2e fd2).('e2 |
+f2a fe2a e |
+f2a fe2a e |
+f e d e2<e2d |
+d6).('g2 |
+a c' b a g b a g |
+a c' b ag2G2 |
+A c B A G B A G |
+A c B AG2).('g2 |
+a2c' ag2c' g |
+a2c' ag2c' g |
+a g f g2<g2f |
+f2F F A A c c |
+f4) :|]

@@ -1,0 +1,38 @@
+X: 469
+T: Nu laat gy Heer Uw knegt in vrede gaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3962770448
+%%humdrum-veritas-data 47620188
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2cc |
+c4 |
+B2ze |
+dcB3/A/ |
+A2).('zc |
+cde3/e/ |
+ecd3/c/ |
+c2).('zc |
+ccB3/B/ |
+BcA3/B/ |
+^G4) |
+[M:3/4].('zBB |
+ccc |
+ddd |
+ee2) |
+.('eee |
+A>Bc |
+cd3/c/ |
+c3) |
+[M:2/2].('e2d3/e/ |
+cczc |
+B>cAA |
+dcB3/A/ |
+A2) |]

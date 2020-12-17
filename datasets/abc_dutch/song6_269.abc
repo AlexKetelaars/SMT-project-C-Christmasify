@@ -1,0 +1,24 @@
+X: 5268
+T: Jan kom kietel me Jan kom kietel me Jan kom  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3947251391
+%%humdrum-veritas-data 1096576262
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F2D D D D |
+F2D D D D) |
+.('E2E A A A |
+F3D3) |
+.('F2DD2D |
+F2DD2).('D |
+E E E A A A |
+F2FD3) |
+.('E2EA2A |
+F2FD3) |]

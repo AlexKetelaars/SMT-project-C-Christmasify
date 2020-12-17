@@ -1,0 +1,38 @@
+X: 450
+T: Puer nobis nascitur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1206834231
+%%humdrum-veritas-data 1767793130
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('F4G2 |
+A4B2 |
+A4G2 |
+F4).('c2 |
+c4d2 |
+c4f2 |
+gfede2) |
+.('f4f2 |
+f4g2 |
+f4e2 |
+d4).('d2 |
+c4AB |
+c4B2 |
+A4B2 |
+A4G2 |
+F4).('f2 |
+f4g2 |
+f4e2 |
+d2e2f2 |
+g4).('ef |
+g4f2 |
+edefg2 |
+f4e2 |
+f6) |]

@@ -1,0 +1,23 @@
+X: 3898
+T: En ach moeder geef me eens gauw mijn kleed W [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 2449431149
+%%humdrum-veritas-data 1199539366
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('z/ D// D// [I:setbarnb 1]|
+BBB/> A/c |
+cccz) |
+.('AA/> A/AB/ c/ |
+ddd3/z/) |
+.('B/> B/ B/> B/BG |
+eeg).('f/ e/ |
+d/ d/ e/ d/cA |
+G3) |]

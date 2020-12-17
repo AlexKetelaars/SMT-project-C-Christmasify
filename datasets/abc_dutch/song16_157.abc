@@ -1,0 +1,51 @@
+X: 15156
+T: Wat spijt, wat spijt, ik ben mijn sleutel kwijt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 3818990762
+%%humdrum-veritas-data 1408568899
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: E clef=treble
+.('G [I:setbarnb 1]|
+G3G |
+G3G |
+{B} A A A A |
+G3).('G |
+F A G F |
+E E D E |
+F F F F |
+F2z) .('F |
+G G G G |
+A3A |
+^A A A A |
+c3).('A |
+G2G2 |
+G2G2 |
+A GF2 |
+A GF2) |
+.('^E F G A |
+B2B2 |
+E3x) ||
+[M:6/8].('x2>G2 G F [I:setbarnb 21]|
+E E E E G F |
+E2D) .('A A G |
+F F F F A G |
+F2E) .('G G G |
+G G G G F ^E |
+G2F) .('F G A |
+G F E F E D |
+E2>).('E2 E E |
+=G2GG2G |
+E2>).('E2 E E |
+A2AA2A |
+F2>).('F2 F F |
+B2BB2B |
+=G2>).('G2 G G |
+=G G G G/ A// G// F E |
+!fermata!B3) |]

@@ -1,0 +1,31 @@
+X: 3820
+T: Malbroek die ging ten oorlog En hij kwam noo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 454827710
+%%humdrum-veritas-data 4055662067
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ [I:setbarnb 1]|
+BB/BB/ |
+c3/B).('B/ |
+AA/AA/ |
+BA/G).('A/ |
+BB/BB/ |
+c3/d).('d/ |
+cc/AA/ |
+G3/-G).('B/ |
+dd/ee/ |
+d3/-d).('d/ |
+dd/ee/ |
+d3/-d).('d/ |
+BB/BB/ |
+c3/B).('B/ |
+AA/BA/ |
+G3/-G) |]

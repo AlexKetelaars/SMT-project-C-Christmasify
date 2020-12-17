@@ -1,0 +1,38 @@
+X: 16029
+T: Ach Schone Maagt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:59
+%%humdrum-veritas 699627020
+%%humdrum-veritas-data 4064471955
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('BBA |
+G2d |
+g2d |
+eBc |
+dGA |
+B>cd |
+eB3/G/ |
+G3) |
+.('ggf |
+e2f |
+ge2 |
+d3 |
+BAB |
+G2A |
+B2c |
+d2d/ c/) |
+.('BBA |
+G2d |
+g2d |
+eBc |
+dGA |
+B>cd |
+eA3/G/ |
+G3) |]

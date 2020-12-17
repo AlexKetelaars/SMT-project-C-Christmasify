@@ -1,0 +1,27 @@
+X: 2239
+T: Komt vrienden in het ronde Komt luis tert ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 992041324
+%%humdrum-veritas-data 2072750692
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2B (A c) A |
+(G B G)D2).('D |
+c> c c (B d) B |
+A3-A2).('d |
+B2B c c3/ c/ |
+ee2-e2).('A/ A/ |
+G2DB2A |
+G3-G2).('d |
+B2B c c3/ c/ |
+ee2-e2).('A/ A/ |
+G2DB2A |
+G3-G2) |]

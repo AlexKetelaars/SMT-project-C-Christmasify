@@ -1,0 +1,50 @@
+X: 6830
+T: Lestmaal in ‘t krieken van de dagen In het z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:31
+%%humdrum-veritas 205159463
+%%humdrum-veritas-data 981477338
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('CCC |
+F2F |
+(FA)c |
+(cB)!fermata!A) |
+.('FcA |
+G2G |
+(GB)E |
+F2z) |
+.('CCC |
+F2F |
+FAc |
+(cB)!fermata!A) |
+.('FcA |
+G2G |
+GBE |
+F2z) |
+.('AcA |
+G2G |
+FEF |
+(GE)!fermata!C) |
+.('AcA |
+G2G |
+FED |
+C2z) |
+.('CCC |
+F2F |
+FAc |
+(cB)!fermata!A) |
+.('Bcd |
+c2F |
+FEF |
+(AG2)) |
+.('Bcd |
+cfA |
+cBE |
+F2z) |]

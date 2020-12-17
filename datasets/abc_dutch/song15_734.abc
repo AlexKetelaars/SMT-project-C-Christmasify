@@ -1,0 +1,98 @@
+X: 14733
+T: Walzer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1794498326
+%%humdrum-veritas-data 1446258478
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('DD/ E/ F/ G/ |
+Azz |
+dd/ e/ f/ g/ |
+azz) |
+.('FF/ G/ A/ B/ |
+czz |
+ff/ g/ a/ b/ |
+!fermata!c'3) ]|:
+.('b3 |
+{c'}(b^a).b |
+(d'3 |
+g2)z) |
+.('g3 |
+{a}(gf)g |
+(b3 |
+e2)e |
+(g3 |
+^c3)) |
+.('dG/ A/ B/ c/ |
+dd/ e/ f/ g/ |
+afd |
+c'b^a) |
+.('bG,/ A,/ B,/ C/ |
+Dzz) |
+.('b3 |
+{c'}(b^a).b |
+(d'3 |
+g2)z) |
+.('g3 |
+{a}(gf)g |
+(b3 |
+e2)).('e |
+_b3 |
+(a2g)) |
+.('fD/ E/ F/ G/ |
+Ad/ e/ f/ g/ |
+aaa |
+ab^c') |
+.('d'(D/ E/ F/ E/) |
+Dzz) |
+.('AA/ B/ c/ d/ |
+ea/ b/ c'/ d'/ |
+(e'2^g) |
+(e'2^g) |
+(a2e) |
+(A2E)) |
+.('DD/ E/ F/ G/ |
+Ad/ e/ f/ g/ |
+(a2d) |
+(c'2d) |
+(b2d) |
+(D2G,)) |
+.('b3 |
+{c'}(b^ab) |
+(d'3 |
+g3) |
+g3 |
+{a}(gfg)) |
+.('(b3 |
+e3) |
+(g3 |
+^c3) |
+dG/ A/ B/ c/ |
+dd/ e/ f/ g/ |
+afd |
+c'b^a |
+bG,/ A,/ B,/ C/ |
+Dzz) |
+.('b3 |
+{c'}(b^ab) |
+(d'3 |
+g3) |
+c'3 |
+{d'}(c'bc') |
+(e'3 |
+a3)) |
+.('(_b2=b) |
+(c'2^c') |
+d'3 |
+D3 |
+B,3 |
+(B,2A,) |
+G,(G,/ A,/ B,/ A,/) |
+G,zz) :|]

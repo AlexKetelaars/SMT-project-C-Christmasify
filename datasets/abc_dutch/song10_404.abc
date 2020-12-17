@@ -1,0 +1,27 @@
+X: 9403
+T: Met den Mei zoo gaan wij zoeken Naar een vro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 4220318890
+%%humdrum-veritas-data 3067122959
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('(C D) E [I:setbarnb 1]|
+(F A- A/) A/ (G B) E |
+F2C) .('C F A |
+c/ c/ d cB2c |
+A2z).('A2B |
+c2cd2c |
+(c/ =B/) _B !fermata!z/) .('B/c2B |
+A/> A/ F A (c A) F |
+!fermata!A2!fermata!G) .('C F G |
+A3B3 |
+c2).('c d c B |
+A3G3 |
+F2z) |]

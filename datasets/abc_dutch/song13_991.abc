@@ -1,0 +1,31 @@
+X: 12990
+T: Solderen, solderen Mijn ketel is kapot
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 2285203452
+%%humdrum-veritas-data 3053112048
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('c [I:setbarnb 1]|
+B3G2c |
+B3G2G |
+F2F (F G) F |
+E3-E2).('c |
+B3G2c |
+B3G2G |
+F2F (F G) F |
+E3-E2).('E |
+F2F F> E F |
+G2EE2).('E |
+F> F F F> E F |
+G2EE2).('c |
+B3G2c |
+B3G2G |
+F2F (F G) F |
+E3-E2) |]

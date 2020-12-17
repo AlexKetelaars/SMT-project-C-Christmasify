@@ -1,0 +1,41 @@
+X: 16809
+T: la garde-passe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 1626386197
+%%humdrum-veritas-data 2487526901
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d> f e3/ g/ |
+f> g a A |
+B (g/ e/) {f} c a |
+{g} f> e d) .('A |
+(d> e) .f .f |
+(B> c) .d .d |
+c d/ B/ A ^G |
+c B A B |
+c B c) .('d |
+(e> f) e d |
+c/> d/ e/> d/ c B |
+A A/ A/-!fermata!A2) |
+.('A (A// B// c// d//) e f |
+g/> a/ b/> g/e2 |
+G (G// A// B// c//) d e |
+f/> g/ a/> f/ d a) |
+{.('a} g e/ g/ {g} f d/ f/ |
+(f2e) (e3// f//) |
+(g> a) b b |
+(e> f) g g) |
+.('f g/ e/ d c |
+f e d e |
+f e f g |
+a> b a g |
+f/> g/ a/> g/ f e |
+d d/> d/!fermata!d2) :|]

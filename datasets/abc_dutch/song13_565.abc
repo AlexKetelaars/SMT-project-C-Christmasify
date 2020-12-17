@@ -1,0 +1,38 @@
+X: 12564
+T: De Smouse Groen Markt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 3028256195
+%%humdrum-veritas-data 3527385670
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('G> A B A> B G |
+d3d3) |
+.('G> A B A> B G |
+g3g3) |
+.('f2f (f e) d |
+e d c d c B) |
+.('A B G A G ^F |
+G2GG3) |
+.('B2B B A B |
+c2c c B c) |
+.('d2e e d c |
+d2cB2).('d |
+c2BA2c |
+B A BG2).('c |
+B A G A G ^F |
+G3).('b3 |
+a b a a g ^f |
+g3).('b3 |
+a b a a g ^f |
+g3).('g3 |
+f2f f e d |
+e d c d c B) |
+.('A B G A G ^F |
+G D B,G,3) :|]

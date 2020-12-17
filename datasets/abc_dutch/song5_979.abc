@@ -1,0 +1,45 @@
+X: 4978
+T: Van alle landen, die er zijn, behaagt mij ‘t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 896162955
+%%humdrum-veritas-data 342474985
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2E |
+A2A |
+(A B) c |
+G2).('G |
+(G F) E |
+D2D |
+(D E) F |
+E2) ]|:
+.('G [I:setbarnb 9]|
+G2E |
+C2E |
+E3 |
+!fermata!D2) :|]
+.('G [I:setbarnb 13]|
+G2B |
+d2d |
+(d c) B |
+c2).('G |
+(G F) E |
+D2D |
+(D E) F |
+E2).('G |
+G2E |
+C2c |
+c3 |
+A2).('A |
+(G A) G |
+(F E) D |
+G3 |
+!fermata!C2) |]

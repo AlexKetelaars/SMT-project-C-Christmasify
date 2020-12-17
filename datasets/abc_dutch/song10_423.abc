@@ -1,0 +1,33 @@
+X: 9422
+T: O zoete jacht, waar dwalen uwe zinnen; o hel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3126986132
+%%humdrum-veritas-data 737189471
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('C E G [I:setbarnb 1]|
+c2>G2 B A G ^F |
+(F B,)C2z) .('E F G |
+A2>A2 A B (3(c B) c |
+G2z2z) .('G D E |
+F2>F2 A A G ^F |
+(F B,)C2z) .('A B c |
+B2>G2 d c B A |
+G2z2z) .('c G F |
+E2>G2 c> B A (G/ c/) |
+(G ^F)=F2z) .('D E F |
+G2(A G) c G F (E/ G/) |
+D2z2z) .('G B c |
+d2>c2 B A G F |
+(E2C A) G) .('c G F |
+E2>E2 F G (3(A B) c |
+G2>).('c2 (d c) (B A) |
+(G c) (G A) G F D !fermata!G |
+C2z2z4) |]

@@ -1,0 +1,45 @@
+X: 9781
+T: Wie gaat er op den boomgaard spelen, Appelke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 2095304960
+%%humdrum-veritas-data 521149050
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A [I:setbarnb 1]|
+A A c c |
+A A F F) |
+(3.('G G G G E |
+c c A F/) .('F/ |
+A A c c |
+A A F) .('F |
+(3G G G G G |
+c2A2) |
+.('c2d d |
+(3c d cA2) |
+.('c c d d |
+(3c d cA2) |
+.('c A (3A A A |
+(3c d c A) .('A |
+A A c c |
+A2F2 |
+A A c c |
+A2F) .('F |
+A A c c |
+A2F2 |
+A A c c |
+A2F) .('F |
+A A c c |
+A2F2 |
+(3A A A c c |
+A2F2) |
+.('F G (3A A B |
+(3c c c c c) |
+(3.('c c B A/ A/ G/ G/ |
+A2F) |]

@@ -1,0 +1,29 @@
+X: 2473
+T: Wat hoor ik daar in het midden al van de nac [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 1206443000
+%%humdrum-veritas-data 3309669865
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('DG2B [I:setbarnb 1]|
+d3e2d |
+dcd(ed)c |
+B2).('AB2c |
+(d2g)e2d |
+dcd(ed)c |
+B3).('e3 |
+e^degfg |
+d3).('e3 |
+edc(ed)c |
+B2).('AB2c |
+[M:9/4](d2g)e2dcBA |
+[M:6/4]G2).('AB2c |
+[M:9/4](d2g)e2dcBA |
+[M:6/4]G2) |]

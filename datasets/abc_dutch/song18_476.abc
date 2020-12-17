@@ -1,0 +1,58 @@
+X: 17475
+T: 37
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 1145044039
+%%humdrum-veritas-data 603408128
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('BbB |
+!trill!!trill!B3 |
+BbB |
+!trill!!trill!B3) |
+.('d/ c/ d/ e/ d/ e/ |
+ff/ g/ f/ e/ |
+d/ f/ e/ d/ c/ B/ |
+A/ G/ F/ =E/F) |
+.('BbB |
+!trill!!trill!B3 |
+BbB |
+!trill!!trill!B3) |
+.('dd/ e/ d/ e/ |
+fg/ a/b |
+B/ c/dc3// B// |
+B3) |
+.('dga |
+bag |
+ag^f |
+g/ ^f/ g/ a/g) |
+.('dga |
+bag |
+ag^f |
+g3) |
+.('ff/ f/ f/ f/ |
+fbf |
+fg/ f/ e/ d/ |
+c3) |
+.('cc'c |
+!trill!!trill!c3 |
+cc'c |
+!trill!!trill!c3) |
+.('ff/ g/a |
+gg/ a/b |
+a/ g<!trill!!trill!gf/ |
+f3) |
+.('FfF |
+!trill!!trill!F3 |
+FfF |
+!trill!!trill!F3) |
+.('BB/ c/d |
+cc/ d/e |
+d/ c<!trill!!trill!cB/ |
+!fermata!B3) :|]

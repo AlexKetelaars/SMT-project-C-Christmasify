@@ -1,0 +1,59 @@
+X: 1264
+T: Sjingele sjingele sjome Het regent door de bomen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 4189043361
+%%humdrum-veritas-data 2312087430
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B B B B B B |
+c3c3) |
+.('A2AA2A |
+d3d3) |
+.('g2gf2f |
+e2ea3) |
+.('g2gf2f |
+e2ed3) |
+.('d2dd2d |
+d2dd2e |
+d3d2e |
+d3d3) |
+.('c2cB2c |
+e3d3 |
+e3d3) |
+.('B3/ B3/ B3/ B3/ |
+e3/ d3/d3) |
+.('B3/ B3/ B3/ B3/ |
+e3/ d3/d3) |
+.('B3B3 |
+e3d3) |
+.('B3/ B3/ B3/ B3/ |
+e3d3) |
+.('B3/ B3/ B3/ B3/ |
+e3/ d3/d3) |
+.('B3/ B3/ B3/ B3/ |
+e3/ d3/d3) |
+.('B3/ B3/ B3/ B3/ |
+e3d3 |
+e3d3) |
+.('B3/ B3/ B3/ B3/ |
+e3d3 |
+e3d3) |
+.('B3/ B3/ B3/ A3/ |
+d3/ d3/ d3/ d3/ |
+g g d c c B |
+A A G) .('G G B |
+[M:2/2]d2d2d2d2 |
+(d2b2)g2).('B2 |
+d2c2B2A2 |
+G6).('B2 |
+d2d2d2d2 |
+(d2B2)G2).('B2 |
+d2c cB2A2 |
+G2z2z4) |]

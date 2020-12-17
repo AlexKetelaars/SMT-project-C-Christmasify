@@ -1,0 +1,35 @@
+X: 9345
+T: Gij ziet, ik ben een vlugge snaak, Die goed  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 2287622366
+%%humdrum-veritas-data 3334570468
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Db clef=treble
+.('A/ [I:setbarnb 1]|
+FAFA |
+GEDz/) .('A/ |
+=GBcB |
+A2zz/) .('A/ |
+FAFA |
+GEDz/) .('A/ |
+=GBcB |
+A2zz/) .('F/ |
+GeeF |
+GdAz/) .('F/ |
+GeeF |
+GdAz/) .('A/ |
+BBdc/ B/ |
+A>GFz/) .('F/ |
+EB/ B/AG/ G/ |
+F2zz/) .('A/ |
+BBdc/ B/ |
+A>GFz/) .('F/ |
+EB/ B/AA/ A/ |
+d2zz/) |]

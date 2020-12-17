@@ -1,0 +1,31 @@
+X: 3162
+T: Ik ging er laatst op jacht Al met dien goed gedrag
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 781444929
+%%humdrum-veritas-data 667625489
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D B B AG2z D |
+D B B AG2z) .('B |
+d F F GA2z A |
+B A G DG2z) .('G |
+D B B AG2z G |
+D B B A G z).('d2 |
+d> d d d d> d d c |
+A2d2B) .('G G B |
+B2A AE2G2 |
+(F E)D2z) .('c B A |
+d2c2z c B c |
+e2d z z) .('B B B |
+B2A AE2G2 |
+F ED2z) .('D G B |
+d d d cA2d2 |
+B2z2z3) |]

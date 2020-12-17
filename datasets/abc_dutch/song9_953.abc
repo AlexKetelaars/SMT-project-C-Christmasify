@@ -1,0 +1,29 @@
+X: 8952
+T: Daar was ‘en wuf die spon, Daar was ‘en wuf  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 772069814
+%%humdrum-veritas-data 8265128
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2 [I:setbarnb 1]|
+cGEG |
+c2e2 |
+dcBA |
+G2z).('d |
+ddde |
+f>ed3/d/ |
+ec{c}BA/ G/ |
+Gz).('GA/ B/ |
+c/ c/ c/ c/GA/ B/ |
+c2GA/ B/ |
+c2).('c/ B/ c/ d/ |
+edcd |
+edc/ c/ c/ c/ |
+c2) |]

@@ -1,0 +1,19 @@
+X: 3526
+T: O achter in die velden Daar stond een herenhuis.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 2310849980
+%%humdrum-veritas-data 2133394618
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('a [I:setbarnb 1]|
+a> g f e d< g- g) .('B |
+d> d c FG2-G/) .('a/ a/ a/ |
+a> g f> e dg2).('B |
+d> d d/ c/ AG3) |]

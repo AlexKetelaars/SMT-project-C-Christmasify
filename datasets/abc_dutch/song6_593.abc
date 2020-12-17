@@ -1,0 +1,41 @@
+X: 5592
+T: Jeughdige Nimphen die ‘t boerten bemind, Vro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 1966390349
+%%humdrum-veritas-data 1264892131
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('A>GA |
+G>FG |
+A>GA |
+B3) |
+.('c>Bc |
+G>FG |
+A>BA |
+GEz) |
+.('A>GA |
+G>FG |
+A>GA |
+B3) |
+.('c>Bc |
+G>FG |
+A>BA |
+GEz) |
+.('c>BA |
+d>cB |
+c2A |
+E3) |
+.('EED |
+E>DE |
+E>FG |
+A2).('c |
+d2c |
+B>AG |
+A3) |]

@@ -1,0 +1,23 @@
+X: 7209
+T: Herders brengt melk en soetigheyd; Den lieve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 558525901
+%%humdrum-veritas-data 3181565104
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G A G [I:setbarnb 1]|
+(A G) c (d c) B |
+c2z) .('c G c |
+c2d (e d) c |
+d2z) .('d c B |
+A2c (B c) A |
+G2z) .('G A B |
+(c d) e (c B) c |
+c2zz2z) |]

@@ -1,0 +1,52 @@
+X: 12057
+T: La Boúcann
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 653459198
+%%humdrum-veritas-data 1260630351
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('z G [I:setbarnb 1]|
+G2>d2 c d |
+B2A3G/ A/ |
+B2G2B c |
+d2B2d e |
+f2d2g a |
+b2a3g |
+g2>).('a2 f e |
+f2e3d |
+d2>e2f2 |
+d2g3f |
+f2>g2f2 |
+_e2d3c |
+c6) |
+.('^f2>g2 =f _e |
+d2>c2 B A |
+B2c3B |
+B6- |
+B4) |
+.('B/ c/ d/ e/ [I:setbarnb 19]|
+f2d2g2 |
+^f2>g2 a b |
+g6- |
+g4).('f2 |
+f6 |
+f2>a2 f g |
+e2d2).('a g |
+f2e3d |
+d2>e2f2 |
+d2g3f |
+f2>g2f2 |
+_e2d3c |
+d6) |
+.('e2>^f2 g a |
+^f2d2g a |
+b2a3g |
+g6- |
+g4) :|]

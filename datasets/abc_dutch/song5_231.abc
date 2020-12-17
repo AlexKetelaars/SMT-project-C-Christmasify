@@ -1,0 +1,23 @@
+X: 4230
+T: Ene prins van Oostenrijk Hij was zeer vermoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 2169081061
+%%humdrum-veritas-data 954947050
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B/ B/ [I:setbarnb 1]|
+A G A B2<B2).('B/ B/ |
+d c B A/ A/ AG2).('B/ B/ |
+A/> A/ G A B2<B2).('B |
+d c B B AG2).('G |
+A A B B AB2).('G/ G/ |
+A A B B2<A2).('A |
+A d (3d/ d/ d/ d/ c/ (3(B A B) A/>) .('G/ G3// G// |
+A c B AG3) |]

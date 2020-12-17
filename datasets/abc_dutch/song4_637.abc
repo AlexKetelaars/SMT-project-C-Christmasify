@@ -1,0 +1,27 @@
+X: 3636
+T: Wie hoor ik daar kloppen in het midden al va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 4035192158
+%%humdrum-veritas-data 2830947807
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('B G G B [I:setbarnb 1]|
+d3e2).('e/ e/ g f f |
+d2cB2).('AB2c |
+d3e2).('e e f g |
+[M:6/8]d2cB2).('e |
+e e e g f g |
+d3).('e3 |
+c d ed2c |
+B2).('AB2c |
+[M:9/8]d3e2d (c B) A |
+G3-G2).('AB2c |
+d3e2d (c B) A |
+G3-G2) |]

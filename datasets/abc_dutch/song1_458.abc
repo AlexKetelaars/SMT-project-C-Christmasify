@@ -1,0 +1,48 @@
+X: 458
+T: Orainge
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 4155350781
+%%humdrum-veritas-data 3239394139
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d [I:setbarnb 1]|
+d>c B/ A/ |
+BA2 |
+G3) |
+.('DGA |
+BG/ A/ B/ ^c/ |
+d^cB/ c/ |
+d2).('g |
+g2a |
+a2b |
+ba2 |
+g2).('B |
+cde |
+d>c B/ A/ |
+BA2 |
+G2) |
+.('B [I:setbarnb 16]|
+B>cB |
+BAG |
+^F2G |
+A2).('B |
+^cAd |
+d^c2 |
+d3 |
+z).('AG |
+^F3 |
+zcd |
+e3 |
+z).('e^f |
+g>af |
+g^fe |
+d>c B/ A/ |
+BA2 |
+G2) :|]

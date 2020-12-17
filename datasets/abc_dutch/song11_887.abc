@@ -1,0 +1,22 @@
+X: 10886
+T: Eéne. Naar Verlet! Tweeë. Naar Verlet!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 869328896
+%%humdrum-veritas-data 1533380153
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F F G [I:setbarnb 1]|
+c2cc2d |
+c2).('Ac2d |
+c2>c2 B A |
+B2dc3 |
+A2zz2).('A |
+B2BG2G |
+c3A3) |]

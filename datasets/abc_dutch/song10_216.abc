@@ -1,0 +1,40 @@
+X: 9215
+T: Wij zijn al bijeen, Al goe kadulletjes, Al g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3394575225
+%%humdrum-veritas-data 442936134
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('E2G [I:setbarnb 1]|
+B3-B2c |
+B2>).('B2 A G |
+F F F) .('A G F |
+G2E).('E2G |
+B3-B2c |
+B2>).('B2 A G |
+F F AG2F |
+E2zz2z) |
+.('G G G A A A |
+d2dB2B) |
+.('G G GG2G |
+A A AD2z) |
+.('G G G A A A |
+d2dB2B) |
+.('G G GG2G |
+[M:3/8]A A A |
+[M:6/8]G2z).('E2G |
+B3-B2c |
+B2>).('B2 A G |
+F F F) .('A G F |
+G2E).('E2G |
+B3-B2c |
+B2>).('B2 A G |
+F F AG2F |
+E2zz2z) |]

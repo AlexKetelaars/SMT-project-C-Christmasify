@@ -1,0 +1,25 @@
+X: 9485
+T: Jan Buk, Jan Bil, Jan Hazegril, Jan Worm, Ja [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 1737951903
+%%humdrum-veritas-data 961388883
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B2FG2F |
+G2GF2).('F |
+A2Fc2F |
+G2GF2).('F |
+F G A B B B |
+(G A) B c c) .('F |
+F/ F/ G A B B) .('B |
+G A B c c) .('F |
+G2AB2F |
+G2AB2) |]

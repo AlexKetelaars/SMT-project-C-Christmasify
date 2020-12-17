@@ -1,0 +1,27 @@
+X: 8855
+T: Daar ging een patertje aan den dans. Hei, ‘t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3500224100
+%%humdrum-veritas-data 2945547978
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G A B [I:setbarnb 1]|
+c c cB2A |
+[M:3/8]G3) |
+[M:6/8].('A2GA2B |
+c3-c2).('c |
+d d d d d e |
+f2ed3) |
+.('e2cB2c |
+d2BG3) |
+.('A2GA2B |
+c2de3) |
+.('f2fe2d |
+c3-c2) |]

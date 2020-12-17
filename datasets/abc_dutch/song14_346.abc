@@ -1,0 +1,45 @@
+X: 13345
+T: Marsch van het Zeeuws Legioen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 2618362908
+%%humdrum-veritas-data 4123252099
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G4B4 |
+(d3e/ f/) (g/ f/ e/ d/ c/ B/ A/ G/)) |
+.('F4A4 |
+c3(f/ g/) (a/ g/ f/ e/ d/ c/ B/ A/)) |
+.('B2G> G F> A d3/ c/ |
+B2G> G F> A d3/ c/ |
+(B3c/ d/) e d c B |
+A2A> AA2z2) |
+.('A4B4 |
+c c c c d c B A) |
+.('B4c4 |
+d d d d e d c B) |
+.('e2g> ec2e3/ c/ |
+d2g> dB2d3/ B/ |
+A2c> e d> B c3/ A/ |
+G2G> GG2z2) :|]
+.('z d z B z c z e |
+z d z g z e z c |
+B4(A B c ^c)) |
+.('z d z B z c z e |
+z d z B z c z e |
+d2>B2 A> G A3/ B/ |
+G2G> GG2z2) |
+.('z c z A z B z G |
+z F z A z G z B |
+z c z A z B z G |
+B4(A B c ^c)) |
+.('z d z B z c z e |
+z d z B z c z e |
+d2>B2 A> G A3/ B/ |
+G2G> GG2z2) :|]

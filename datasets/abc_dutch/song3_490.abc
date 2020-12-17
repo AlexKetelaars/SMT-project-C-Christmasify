@@ -1,0 +1,24 @@
+X: 2489
+T: Eens ging er een heer eens ver van huis In z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 2600239876
+%%humdrum-veritas-data 2574512672
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 5/4
+Q: 1/4=120
+K: G clef=treble
+.('BBB3// A// [I:setbarnb 1]|
+G2DG(A/ B/) |
+B2).('BB(B/ A/) |
+G2DGA |
+B2).('BB(B3// A//) |
+[M:6/4]G2B/ d/d2c3// B// |
+[M:4/4]dA>).('A A3// B// |
+[M:7/4]cBAAG2G3// A// |
+[M:3/4]B2F3// F// |
+[M:5/4]AG) |]

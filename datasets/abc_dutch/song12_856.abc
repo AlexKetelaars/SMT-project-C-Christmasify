@@ -1,0 +1,30 @@
+X: 11855
+T: Ach Belinde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 1449816476
+%%humdrum-veritas-data 1222409941
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2>f2d3g |
+c2>d2B3B |
+c2G2A Bc2 |
+c2>B2c4) |
+.('e2>f2d3g |
+c2>d2B3B |
+c2>d2 e d c B |
+A2>G2G4) ]|:
+.('B2>c2d3d |
+d2>e2^c3A |
+e2>e2f3(e/ d/) |
+^c2>d2d4) |
+.('B2>B2e3c |
+f g f e2<d2d |
+g2>f2 e d e f |
+d2>c2c4) :|]

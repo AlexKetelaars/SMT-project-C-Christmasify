@@ -1,0 +1,15 @@
+X: 907
+T: Berend Kielstra heet die jongeman Hij ging m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 1643361589
+%%humdrum-veritas-data 3241366990
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('DB,/BG/AG/EG<D-D).('E/DB,<G-GA<GF).('F/ED/FE/CD/FF<F-F).('F// F//ED<F-FE<ED3/-D).('D/B,D<E-EE/FA<G-G).('B/BB<A-AE/FG<A-A).('D// D//BA<G-GG/AB/dc/B).('B/AB/cB/AE/FA<G-G).('D// D//BA<G-GG/AB/dc/B).('B/AB/cB/AE/FA<G-G3/) |]

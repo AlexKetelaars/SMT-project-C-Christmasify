@@ -1,0 +1,27 @@
+X: 2272
+T: Wat zag ik hier van verre 't Was een schone  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 3241586280
+%%humdrum-veritas-data 2155755694
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2 [I:setbarnb 1]|
+G2B2d2B2 |
+(A2F E)D4) |
+[M:3/2].('G2>A2B2d2d2(c B) |
+[M:2/2]A4).('z G A B |
+c2d2e2e2 |
+[M:3/2]d> d d dG2).('(A B)c2(d c) |
+[M:2/2]B4A4 |
+G4).('z G A B |
+c2d2e2e2 |
+[M:3/2]d> d d dG2).('(A B)c2(d c) |
+[M:2/2]B4A4 |
+G6) |]

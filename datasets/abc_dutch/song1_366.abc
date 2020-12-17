@@ -1,0 +1,43 @@
+X: 366
+T: Tweede Daphne
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 828164877
+%%humdrum-veritas-data 1222553488
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('D E [I:setbarnb 1]|
+F> D E F G E |
+A> B c A) .('d e |
+^c A d f e3/ d// e// |
+d4).('A B |
+c> B A G A F |
+G> F E D E C |
+D) .('c F G E3/ D// E// |
+D6) |
+.('f> c A F A f |
+e> B G E G e) |
+.('d> A F D F d |
+^c A e cA2) |
+.('A F c A F A |
+G> A G C/ D/ E F |
+G A _B A G F/ G/ |
+F6) |
+.('c2c Ad2 |
+c> B A G A F |
+c2f ed2 |
+g> f e d e c) |
+.('A> _B A GF2 |
+E F/ G/ A FD2) |
+.('A> c B> d ^c3/ e/ |
+d2D2A B |
+c> B A G A F) |
+.('G> F E D E C |
+A D F G E D/ E/ |
+D6) :|]

@@ -1,0 +1,27 @@
+X: 5895
+T: “Mamatje, gij vraagt niet wat dat er mij sch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 279104109
+%%humdrum-veritas-data 3679654930
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c c d c [I:setbarnb 1]|
+B c B A B A |
+G2).('D E E F |
+E2G G A G |
+c3).('c2c |
+d2c c B c |
+d2c) .('G A B |
+c2c A G A |
+G2G).('c3 |
+A3G3 |
+E2>).('A2 A A |
+G c e d c B |
+c3z) |]

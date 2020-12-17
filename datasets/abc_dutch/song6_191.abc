@@ -1,0 +1,34 @@
+X: 5190
+T: Meisje met je bontje voor Mag ‘k eens met je [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 984024902
+%%humdrum-veritas-data 3756784740
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('DE/FG/ |
+AA/A3/ |
+BA/GF/ |
+E3/D3/) |
+.('F3/FF/ |
+GG/G3/ |
+EE// E//EE/ |
+AA/A3/) |
+.('D3/DF/ |
+AA/A3/ |
+BA/GF/ |
+EE/D3/) |
+.('FF/FF/ |
+G3/G3/ |
+EE/EE/ |
+A3/A3/) |
+.('DE/FG/ |
+AA/A3/ |
+BA/GF/ |
+EE/D3/) |]

@@ -1,0 +1,15 @@
+X: 635
+T: God heeft wel eer ghestaen Al inder Synagoghen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3225676122
+%%humdrum-veritas-data 3540121133
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('D4(FEFGAG2<B2)AA4G2A4z4).('G4A2A2(c2d4)B2B4A4z4).('d2>c2(B2>c2d2)B2(cAG)FE4).('A4B2A2(GFGAB2)A2(GFEDE4)D4z2).('A2(DEFGF2EDE2)D4) |]

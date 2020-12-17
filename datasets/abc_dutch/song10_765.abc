@@ -1,0 +1,30 @@
+X: 9764
+T: Lestmaal met een raar gezel ging ik wandelen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 2249047985
+%%humdrum-veritas-data 886546194
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C2CG2G |
+A2cG2z) |
+.('F2F E D C |
+E2DC2z) |
+.('G2EG2E |
+A A AG2z) |
+.('F2FE2E |
+D2DC2z) |
+.('G A Bc2E |
+E2GC2z) |
+.('E E DE2D |
+E C CG,2z) |
+.('G2G c c c |
+A2AG2z) |
+.('F2F E D C |
+E2DC2z) |]

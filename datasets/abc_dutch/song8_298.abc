@@ -1,0 +1,31 @@
+X: 7297
+T: ‘k Passeerde voor de visschemerkt, ‘k Zag da [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 370804468
+%%humdrum-veritas-data 4138531231
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('z2EE2A |
+A2AA2A |
+(A2G)).('A2B |
+c2BA2B |
+B z) .('EE2A |
+A2AA2A |
+(A2G)).('A2B |
+c2BA2B |
+B z) .('BB2d |
+c3A3 |
+G2>).('B2 B B |
+A3B2c |
+B2).('BB2d |
+c3A3 |
+G3).('E2A |
+A G AB2c |
+A2zz2z) |]

@@ -1,0 +1,82 @@
+X: 13899
+T: Allegretto
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 1668163181
+%%humdrum-veritas-data 949822347
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2 [I:setbarnb 1]|
+C2E2F2A3/ F/ |
+D2E> DE2c2 |
+C2E2D2C3/ c/ |
+c2!trill!!trill!B2z) .('e g3/ e/ |
+f2f4f2 |
+!trill!!trill!f2e2z e g3/ e/ |
+d2B> cd2d2 |
+!trill!!trill!d2c2z2).('G3/ B/ |
+d> G {A} !trill!!trill!G3/ (^F// G//) e> G {A} !trill!!trill!G3/ (F// G//) |
+!trill!!trill!^F2G2z2G3/ B/ |
+d> G {A} !trill!!trill!G3/ ^F// G// {A B}c2B2 |
+!trill!!trill!B2A2z z/) .('d< B G/ |
+e> G {A} G3/ (!trill!!trill!^F// G//) e> (^f g3/ f// e//) |
+!trill!!trill!e2d2z z/ d< B G/ |
+c> D {E} !trill!!trill!D3/ (^C// D//) c> (d e3/) (d// c//) |
+!trill!!trill!c2B2z z/) .('E< G E/ |
+C2F2F2F2 |
+F2E2E2E2 |
+D2D2D2D2 |
+C2C DE2).('e3/ c/ |
+A2B> BA2G2 |
+!trill!!trill!G2(^F E) F>) .('c c3/ c/ |
+c4B> e e3/ e/ |
+e4d> a a3/ a/ |
+b> A G> ^FG2!trill!!trill!F2 |
+G> G, B,> D G>) .('e e3/ e/ |
+(e4d>) c' c'3/ c'/ |
+(c'4b) ^f f3/ f/ |
+g> c B> AB2!trill!!trill!A2 |
+z z/) .('d< d d/!trill!!trill!d4 |
+(3B, D G (3B d g (3D ^F A (3c ^f a |
+z z/ A< G ^F< G E< D C/ |
+d4z2) |
+.('G2 [I:setbarnb 34]|
+G,2B,2C2D3/ C/ |
+A,2B,> A,B,2G2 |
+G,2B,2A,2G,3/ G/ |
+!trill!!trill!G2^F2z2).('c3/ e/ |
+g> c c3/ B// c// a> c c3/ B// c// |
+!trill!!trill!B2c2z2c3/ e/ |
+g> c c3/ B// c//f2e2 |
+!trill!!trill!e2d2z z/) .('c< e c/ |
+A2d4d2 |
+!trill!!trill!d2c2z z/ c< e c/ |
+B2^G> AB2B2 |
+!trill!!trill!B2A>) .('^G A> A A3/ A/ |
+(A4^G>) G G3/ G/ |
+(^G4^F>)) .('^f f3/ f/ |
+g> ^F E> ^DE2D2 |
+E2E> ^FE2D2 |
+E2E2E2E2 |
+D2D ED2C2 |
+D2D2D2D2 |
+C2C> DE2G3/ E/ |
+D2E> ed2c2 |
+!trill!!trill!c2B> A B>) .('^f f3/ f/ |
+(^f4e>) A A3/ A/ |
+(A4G>) d d3/ d/ |
+e> d c> B!trill!!trill!c2B2 |
+c>) .('C E> G c> a a3/ a/ |
+(a4g>) f f3/ f/ |
+f4e> B, B,3/ B,/ |
+C> f e> de2!trill!!trill!d2 |
+z z/) .('g< g g/!trill!!trill!g4 |
+(3C E G (3c e g (3B, D G (3B d f |
+z z/ A< G ^F/!trill!!trill!G2F2 |
+E4z2) :|]

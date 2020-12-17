@@ -1,0 +1,43 @@
+X: 15673
+T: La bella vigure] Menuet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:56
+%%humdrum-veritas 1629512501
+%%humdrum-veritas-data 1184582058
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=132
+K: Bb clef=treble
+.('d2b2b2 |
+b2a bg2 |
+a2!trill!!trill!^f4 |
+g2^f gd2) |
+.('e2!trill!!trill!c4 |
+d2c dB2 |
+B2c B A B |
+G6) |
+.('G2g2g2 |
+g ^f g ag2 |
+c2f2f2 |
+f e f gf2) |
+.('f2b2B2 |
+c4d2 |
+e2!trill!!trill!c4 |
+B6) :|]
+[M:2/2].('x4x2d e |
+f4f4 |
+!trill!!trill!f4f2g a |
+b2(a g)f2e2 |
+!trill!!trill!d4c2).('A B |
+c2f cc2d c |
+c2f cc2d e |
+d2c BA2B2 |
+c B A GF2).('d e |
+f2b ff2g f |
+f2b ff2g f |
+f2e d c d e c |
+d2B2B2) :|]

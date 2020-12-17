@@ -1,0 +1,29 @@
+X: 11801
+T: La Marine
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 3488841799
+%%humdrum-veritas-data 3248341480
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d>edd |
+d2e2) |
+.('f(f/ g/) a/ g/ f/ e/ |
+f4) |
+.('a>baa |
+g2f2) |
+.('ef/ g/ a/ g/ f/ e/ |
+f4) :|]
+.('f>eff |
+f2a2) |
+.('e>def |
+e2).('ag |
+f>gaf |
+ede3/d/ |
+d2) |]

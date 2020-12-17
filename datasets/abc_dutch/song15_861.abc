@@ -1,0 +1,24 @@
+X: 14860
+T: Freiheit o du edles Gut Golden Freiheit mein [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 2040722795
+%%humdrum-veritas-data 2881950137
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=108
+K: Eb clef=treble
+.('E G G B B e [I:setbarnb 1]|
+!wedge!e2e d/ c/ B A/ G/ A B |
+G/ F/ E) :|]
+.('G F/ E/ B c/ d/ e d/ c/ [I:setbarnb 3]|
+d2e d c B =A/ c/ B/ d/ |
+c F F F F f f e/ d/ |
+e/ d/ e F e d c/ B/ c B/ =A/ |
+B2).('f A G e d/ f/ e/ g/ |
+f B A f G d F d |
+e/ d/ e) |]

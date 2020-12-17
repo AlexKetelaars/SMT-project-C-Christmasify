@@ -1,0 +1,15 @@
+X: 592
+T: Ick heb gheseyt hoe dat ick fel Mijn tong en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 1050742647
+%%humdrum-veritas-data 80933122
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('D4F2G2A2_B4A4G2A4z2).('A2A2A2c4=B2A2G2G2F4z2).('A4(G2A2)_B2A2A2D2(F2E2)D2C4z2).('G2G2G2(FEFGA2)G4F2E4D4) |]

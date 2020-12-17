@@ -1,0 +1,38 @@
+X: 393
+T: Amarilli mia bella
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 4052344792
+%%humdrum-veritas-data 1944732433
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('dAB2 |
+AGA2 |
+A2z).('d |
+cAcB |
+A2d2- |
+dc/ c/c2) |
+.('B2d2- |
+dAAA/ A/ |
+A3G |
+G4) |
+.('BA/ G/AA- |
+A/ F/ F/ G/A^F |
+G4- |
+G2).('^F2 |
+B>GA^F/ F/ |
+G2A2) |
+.('d3c/ B/ |
+AA>F F/ G/ |
+AFE2 |
+D).('^F/ F/G2 |
+^FA/ A/=B2 |
+c).('^c/ c/d2- |
+dc/ B/A2 |
+G4) :|]

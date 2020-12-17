@@ -1,0 +1,36 @@
+X: 11962
+T: Coerant
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 3128276775
+%%humdrum-veritas-data 256255032
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d [I:setbarnb 1]|
+d2>c2d2 |
+!mordent!!mordent!a g2<g2f |
+f2>).('e2 f g |
+a2!mordent!!mordent!d3e |
+c2>d2e2 |
+f2f3e |
+e2>).('e2 f g |
+a b2<g2f |
+f4x) |
+.('a [I:setbarnb 10]|
+a2>g2f2 |
+!mordent!!mordent!g a2<f2g |
+g2>f2e2 |
+f2d3e |
+c2>d2e2 |
+f2f3e |
+e2>).('e2a2 |
+g2f3g |
+g6 |
+!mordent!!mordent!g f2<e2d |
+d4) :|]

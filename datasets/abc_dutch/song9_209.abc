@@ -1,0 +1,69 @@
+X: 8208
+T: Komt men in het veld, men hoort het gefluit  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:44
+%%humdrum-veritas 3479293899
+%%humdrum-veritas-data 1379809001
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+F F F |
+B3- |
+B2).('B |
+B B B |
+c e c |
+B2A |
+G3- |
+G2) ||
+.('z [I:setbarnb 9]|
+F F F |
+B3- |
+B2).('B |
+B2B |
+c e c |
+(B2A) |
+G3- |
+G2) ||
+.('B [I:setbarnb 17]|
+F2F |
+B3- |
+B3) |
+.('B2B |
+(c e) A |
+(B2A) |
+G3- |
+G2z) ||
+.('B3 [I:setbarnb 26]|
+A2G |
+(GF2- |
+F3)) |
+.('c2c |
+B2A |
+(AG2- |
+G)) .('(G A) |
+B2B |
+c A F |
+B3 |
+B2A |
+G3- |
+G2z) |
+.('B3 |
+A2G |
+(GF2- |
+F3)) |
+.('c2c |
+B2A |
+(AG2- |
+G)) .('(G A) |
+B2B |
+c A F |
+E3 |
+G2F |
+E3- |
+E2) |]

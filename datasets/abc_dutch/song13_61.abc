@@ -1,0 +1,32 @@
+X: 12060
+T: Poolsch Dantz
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 2477321781
+%%humdrum-veritas-data 4268207339
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2d/ e/c |
+egG2 |
+A2B/ c/ B/ A/ |
+B2B2) |
+.('c2d/ e/c |
+egG2 |
+AcF2 |
+BdG2) |
+.('A/ B/cc3/B/ |
+c2c2) ||
+.('e2d2 [I:setbarnb 12]|
+c2B2 |
+cd/cB/A |
+^G2E2) |
+.('ecg2 |
+BGd2 |
+G/ A/ B/ c<cB/ |
+c2c2) :|]

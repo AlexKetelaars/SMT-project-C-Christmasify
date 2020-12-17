@@ -1,0 +1,85 @@
+X: 4593
+T: Stur’le stur’le wijven laat de katjes drijven.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 1743742464
+%%humdrum-veritas-data 3725532835
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A2AG2G |
+A3G3) |
+.('A2AG2G |
+A3G3) |
+.('A A AG3 |
+A2A G G G |
+A2AG3) |
+.('A3G2G |
+A3G3) |
+.('A2AG2G |
+A3G3) |
+.('A3G2G |
+A2AG2G) |
+.('A2A G G G |
+A A AG2).('G |
+A2AG2G |
+A A AG3) |
+.('A A A A A A |
+B2BB2).('B |
+A2A A A A |
+B2BB2).('B |
+A2AA2A |
+B3B2).('B |
+A A AA2A |
+B3B3) |
+.('A2AA2A |
+B2BB3) |
+.('A2A A A A |
+B2BB2).('B |
+A2AA2A |
+B3B2).('B |
+A2AA2A |
+B3B2).('B |
+A2AA2A |
+B2BB2).('B |
+A> A A A A A |
+G2GG2).('G |
+A A A A A A |
+G3G3) |
+.('A2AA2A |
+B2BB2).('B |
+A2AA2A |
+G3G2z/) .('G/ |
+[M:2/4]A A G G |
+A2G) .('G |
+A/ A/ A G G |
+A2G) .('G |
+A A G/ G/ G |
+A2G2) |
+.('A A A A |
+B BB2) |
+.('A A A A |
+B2B2) |
+.('A A A A |
+B2B3/) .('B/ |
+A A A A |
+B2B2) |
+.('A A A A/ A/ |
+B BB2) |
+.('A A A A |
+G GG2) |
+.('A2A2 |
+G2G) .('G |
+A A A/ A/ A |
+G2G2) |
+.('A A A A |
+B/ B/ BB2) |
+.('A A A A |
+B BB2) |
+.('A2A2 |
+G2G2) |]

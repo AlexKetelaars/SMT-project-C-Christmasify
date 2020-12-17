@@ -1,0 +1,34 @@
+X: 1106
+T: Tree en tree (bis) wie gaat er met ons mee N [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 3885465772
+%%humdrum-veritas-data 3958745266
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D EE2 |
+D E D D |
+G D B, G, |
+[M:3/4]D2).('D D G D |
+[M:2/4]B,2G,2 |
+D D G D |
+B,2G,2) |
+.('D D D D |
+D DD2 |
+D D D E |
+D D B,) .('G, |
+D D D E |
+D2B, G, |
+D D E E |
+D2B,2) |
+.('E2E E |
+E EE2 |
+D2(3E E D |
+D C D C |
+D C) |]

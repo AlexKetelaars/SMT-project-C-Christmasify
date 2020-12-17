@@ -1,0 +1,33 @@
+X: 10041
+T: Louise, mijn waarde vriendinne! Leander, mij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1311668913
+%%humdrum-veritas-data 3668368187
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+CDECEc |
+(c-c// d// c// B// d/ c/)B2).('G |
+BcBAG(F// G// F// E//) |
+E3-E2).('E/ E/ |
+CDE(CE)c |
+(c-c// d// c// B//d)B2).('G3// G// |
+BcB/> B/ A/ A/GF |
+E3-E2).('E/ E/ |
+ccBAGF |
+E3C2).('E |
+A>AABcd |
+B3-B2).('E |
+ccBAGF |
+E3C2).('E |
+AAAcBA |
+GFFF2).('F/ F/ |
+EGB(dc)B |
+A3-A2) |]

@@ -1,0 +1,31 @@
+X: 7326
+T: Jonge dochter, en wilt niet treuren, ‘t Is S [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2139825680
+%%humdrum-veritas-data 3501494434
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G3/ G/ [I:setbarnb 1]|
+c2c> c B3/ c/ |
+d2d2).('c3/ d/ |
+e2e2d3/ d/ |
+c2z2).('G3/ G/ |
+c2c2B3/ c/ |
+d2d2).('c3/ d/ |
+e2e2d3/ d/ |
+c2z2).('c3/ e/ |
+g2g2f3/ e/ |
+f2f2).('e3/ d/ |
+e2e2g3/ e/ |
+d2z2).('G3/ G/ |
+c2d2e3/ e/ |
+d4).('g3/ f/ |
+e2e2d3/ d/ |
+c4z2) |]

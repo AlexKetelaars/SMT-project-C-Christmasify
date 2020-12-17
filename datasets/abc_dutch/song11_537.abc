@@ -1,0 +1,26 @@
+X: 10536
+T: Daar waar vele schepelingen Zwalken op den w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 219723163
+%%humdrum-veritas-data 235143480
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2B2F2F2 |
+G2(F E) (D F)B2 |
+D2>G2F3d |
+(c B) (d c)F4) |
+[M:6/8].('B2B (B c) d |
+c2c (c B) c |
+d2d (d c) d |
+e2e (e d c)) |
+.('d3c3 |
+(d3e3/) c3/ |
+B3A3 |
+B3-B2z) |]

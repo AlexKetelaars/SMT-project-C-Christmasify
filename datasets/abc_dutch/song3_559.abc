@@ -1,0 +1,23 @@
+X: 2558
+T: Een rijke heer ging zeer ver van huis In zev [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 945079863
+%%humdrum-veritas-data 1257474685
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 5/8
+Q: 1/4=120
+K: G clef=treble
+.('d2 G2 B2 [I:setbarnb 1]|
+d4G2 A2 A3/ A/ |
+B4).('B4B3/ B/ |
+G4D2 G2 A2 |
+[M:2/4]B4).('B> B B3/ B/ |
+[M:6/8]G2 B2 d> dd4B2 |
+[M:5/8]B2A4).('A> B A3/ B/ |
+[M:6/8]A4G> AB4G3/ G/ |
+A2G4) |]

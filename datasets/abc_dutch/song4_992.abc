@@ -1,0 +1,35 @@
+X: 3991
+T: Ons Roosendaal is een schone stad En dat is  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 849357359
+%%humdrum-veritas-data 2948000248
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G/ G/ G G G |
+F D G) .('F/ G/ |
+A G E D |
+G3).('G |
+F G A3/ G/ |
+G F D3/) .('D/ |
+^C C G3/ E/ |
+D3).('G |
+G G G G/ G/ |
+F D G) .('G |
+A G E D |
+G3).('G/ G/ |
+F F A A |
+G F D) .('E/ E/ |
+D/ D/ E/ E/ G E |
+D3).('G/ G/ |
+F F A A |
+G F D) .('E/ E/ |
+D/ D/ E/ E/ G E |
+D3) |]

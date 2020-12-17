@@ -1,0 +1,28 @@
+X: 67
+T: Goe'wensch goe'wenst. goedt wenschen is een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 1347520436
+%%humdrum-veritas-data 2371626159
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('z2B/ c/d2e |
+BGdd2e |
+c2dB2).('B |
+c2de2d |
+c2BA2B |
+B2AG2).('_B |
+_B2Bc2A |
+_B2BA2).('d |
+d2dd>c_B |
+A2AG2).('d |
+d2dd2d |
+d2g^f2).('d |
+e2ed>c_B |
+A>G^FG3) |]

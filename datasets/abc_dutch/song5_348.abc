@@ -1,0 +1,31 @@
+X: 4347
+T: En Antoon op de bok Die wol es ruter leren.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 3660639481
+%%humdrum-veritas-data 1582730413
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+G> G G G |
+G3).('G |
+G G G A |
+B2G3/) .('G/ |
+A A A A |
+A3).('A |
+c c B3/ A/ |
+A2G3/) .('D/ |
+G> G G G |
+G G G G) |
+.('G G G G |
+G G G G) |
+.('G G G G |
+G G G G) |
+.('G GG2 |
+G GG2) |]

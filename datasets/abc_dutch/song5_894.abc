@@ -1,0 +1,23 @@
+X: 4893
+T: Aan d’oever van een snellen vliet Zat eens e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 3318156653
+%%humdrum-veritas-data 2099242488
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/8
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+c2 c2 (d c) (B A) |
+G2> A2 G2) .('F2 |
+(E G) (G c2<) c2 F |
+D4z3) .('c |
+B2> d2 c3 e |
+(d c) (d f) e2) .('G2 |
+(A f) e d e2 d2 |
+c4z2) |]

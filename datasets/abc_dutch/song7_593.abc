@@ -1,0 +1,46 @@
+X: 6592
+T: Ziet Jezus voor onze zonden: Hij staat hier  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 805915235
+%%humdrum-veritas-data 2851718054
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('BB |
+AB |
+(G/ F/) (E/ D/) |
+EE) |
+.('GA |
+B{d}c |
+B3/A/ |
+Gz) |
+.('BB |
+AB |
+(G/ F/) (E/ D/) |
+EE) |
+.('GA |
+B{d}c |
+B3/A/ |
+Gz) |
+.('AA/ B/ |
+AB |
+c(c/ B/) |
+BA) |
+.('B(A/ G/) |
+(F/ G/) (A/ F/) |
+ED |
+Ez) |
+.('B(d/ c/) |
+B3/A/ |
+G(B/ G/) |
+GF) |
+.('A(B/ c/) |
+B(A/ F/) |
+(GF/) F/ |
+Ez) |]

@@ -1,0 +1,31 @@
+X: 3624
+T: Als schoorsteenvegertje ben ik bekend Van je [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 3716704413
+%%humdrum-veritas-data 1235966881
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G2G2G G |
+G2F ED2).('D D |
+E> E E> E F> F F3/ F/ |
+G6).('D D |
+G G G G G G G G |
+G2(F E)D2).('D D |
+E> E E> E F> F F3/ F/ |
+G6).('B B |
+c2c2A2A2 |
+B2B2G2).('G G |
+A2A AF2D D |
+G2B2d2).('d d |
+c c c c A A A A |
+B B B BG4) |
+.('A A A A F F E F |
+G6) |]

@@ -1,0 +1,23 @@
+X: 10615
+T: Christus is opgestanden Al van der Joden ‘er [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 2186290120
+%%humdrum-veritas-data 3445607255
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('A2GG(A=B)c2 |
+(dB)A2zz).('(GB) |
+A2(GB)(AG)FE |
+F2D2z2).('F2 |
+G2AAD2CC |
+F2G2!fermata!A3z) |
+.('A2GB(AG)FE |
+D2(FA)(AG2)z) |
+.('F2EFD4) |]

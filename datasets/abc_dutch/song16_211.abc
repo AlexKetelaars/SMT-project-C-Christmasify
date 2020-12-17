@@ -1,0 +1,25 @@
+X: 15210
+T: Ja, Philiss is het, die ik min
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1438276192
+%%humdrum-veritas-data 923465570
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: E clef=treble
+.('B [I:setbarnb 1]|
+B B G G G G E E |
+D E F GA2F A |
+A A F F D D B, B, |
+C D E FG2E2) |
+.('c2A2B2G2 |
+B2B2c AG2 |
+e B G cc2B2 |
+B B c AA2G2 |
+F2c2E2B2 |
+B B A FE2) |]

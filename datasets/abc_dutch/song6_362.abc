@@ -1,0 +1,46 @@
+X: 5361
+T: O! Holland schoon, gij leeft in vreê, Met ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 2856934241
+%%humdrum-veritas-data 4072640472
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('Add |
+g2f |
+e2^d |
+e3) |
+.('dgf |
+(e>f) (d/ e/) |
+c3 |
+d3) |
+.('Add |
+g2f |
+e2^d |
+e3) |
+.('dgf |
+(e>f) (d/ e/) |
+c3 |
+d3) |
+.('dB(c/ d/) |
+e2e |
+d2c |
+B3) |
+.('Add |
+e2e |
+d2c |
+B3) |
+.('Add |
+e2f |
+e3 |
+e3) |
+.('dgf |
+e2d |
+c3 |
+d3) |]

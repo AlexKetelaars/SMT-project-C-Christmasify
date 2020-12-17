@@ -1,0 +1,112 @@
+X: 396
+T: Gabrielle Maditelle
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 34349088
+%%humdrum-veritas-data 1214393316
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('g4f2 |
+e2>f2g2 |
+c4B2 |
+A4G2) |
+.('g2>a2f2 |
+e2>e2d2 |
+c2d4 |
+e6) |
+.('c4d2 |
+e2>f2g2 |
+g2e4 |
+a6) |
+.('g4c2- |
+c2d B c d |
+G6) |
+.('c4c2 |
+d e f ge2- |
+e2d e f g |
+e2d4 |
+c4).('c2- |
+c2d B c d |
+G6) |
+.('c4c2 |
+d e f ge2- |
+e2d e f g |
+e2d4 |
+c6) |
+.('g4f2 |
+e2>f2g2 |
+c4B2 |
+A4G2) |
+.('g2>a2f2 |
+e2>e2d2 |
+c2d4 |
+e6) |
+.('g c e g f g |
+e c e f g G |
+c e A c B d |
+A G d DG2) |
+.('g c e g f A |
+e G c e d G |
+c A d e/ f/ g f |
+e6) |
+.('c F E c D d |
+e c e f g a |
+g f e d c B |
+A) .('a a g ^f d |
+g G A Bc2- |
+c2d B c d |
+G6) |
+.('c4c2 |
+d e f ge2- |
+e2d e f g |
+e2d4 |
+c4).('c A |
+B c d D E ^F |
+G> F G A B G |
+c F E D C c |
+d) .('a g f e C |
+G c d e f g |
+e f d e/ f/ g G |
+c6) |
+.('g c e g f g |
+e c e f g G |
+c e A c B d |
+A G d DG2) |
+.('g c e g f A |
+e G c e d G |
+c A d e/ f/ g f |
+e6) |
+.('g d/ c/ B g f A |
+e B/ A/ G e/ f/ g G |
+c G/ F/ E c B G |
+A) .('D/ E/ ^F DG2 |
+g d/ c/ B G f A |
+e) .('B/ A/ G E d F |
+E c d e/ f/ g/ a/ f/ g/ |
+e6) |
+.('c G/ F/ E c d G |
+e B/ A/ G E g C |
+g G/ F/ E C e c |
+a) .('A/ G/ ^F D ^f d |
+g B/ c/ d G c A |
+B c d D E ^F |
+G>) .('F G A B G |
+c F E D C c |
+d a g f e C |
+G) .('c d e f g |
+e f d e/ f/ g G |
+c4c/ B/ A/ G/ |
+F c d c/ B/ c/ A/ d/ D/ |
+G) .('E/ F/ G G/ A/ B G |
+c F/ E/ F/ G/ A/ B/ c A) |
+.('d/ c/ B/ c/ d/ e/ f/ g/ e C) |
+.('c e d/ c/ B/ c/ d/ e/ f/ g/ |
+e/ c/ f/ e/ d/ g/ e/ f/ d/ c/ B/ d/ |
+c/ d/ e/ f/ g/ e/ a/ f/ g/ e/ f/ d/ |
+e6) |]

@@ -1,0 +1,22 @@
+X: 11456
+T: Sa snij ik it boppelear, Sa slach ik de soal [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:15
+%%humdrum-veritas 4195394228
+%%humdrum-veritas-data 3018270431
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2B (B A) B |
+A2GF3) |
+.('B2B (B A) B |
+A2>G2F2) |
+.('B2FB2F |
+B B cd3) |
+.('e e e d c B |
+c B AB3) |]

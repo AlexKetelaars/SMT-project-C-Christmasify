@@ -1,0 +1,34 @@
+X: 9482
+T: Daar was een kwezeltje die ‘t al wil verstaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 2479713638
+%%humdrum-veritas-data 920369783
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2B3/ B/ |
+B d c B |
+c2c3/ c/ |
+c4) |
+.('c2c3/ c/ |
+c e d c |
+d2B3/ B/ |
+B4) |
+.('B2B3/ A/ |
+G2F2 |
+B B B A |
+G2F2) |
+.('B2B3/ B/ |
+d2B3/ B/ |
+e2e3/ d/ |
+c3).('c |
+d B B B |
+A G e3/ e/ |
+d2c2 |
+B2z2) |]

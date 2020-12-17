@@ -1,0 +1,31 @@
+X: 9812
+T: In ‘t groene loof verborgen, stond mijne die [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1717192539
+%%humdrum-veritas-data 2942700657
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A [I:setbarnb 1]|
+ddcc |
+d2B).('B |
+AGFE |
+D2z).('A |
+ddcc |
+d2B).('B |
+A2A2 |
+D2z2) |
+.('AAcc |
+(A2G)z) |
+.('AAcc |
+G2z).('G |
+FFGG |
+B2A).('G |
+F2E2 |
+D2z2) |]

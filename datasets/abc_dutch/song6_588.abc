@@ -1,0 +1,25 @@
+X: 5587
+T: Ik stond op hooge bergen, ik zag te zeewaert in
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 1490966390
+%%humdrum-veritas-data 1790041190
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('D [I:setbarnb 1]|
+AAB^c |
+d2A).('B |
+c>cB3/A/ |
+A3).('D |
+BAB^c |
+d2A).('A |
+c>FFA |
+G2z).('^C |
+D/ E/ F/ G<ED/ |
+D3z) |]

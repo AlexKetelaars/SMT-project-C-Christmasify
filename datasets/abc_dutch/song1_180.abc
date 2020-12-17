@@ -1,0 +1,15 @@
+X: 180
+T: De Heer' heeft ghesproken tot mynen Heere, S [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 2647497418
+%%humdrum-veritas-data 1575564991
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A4G2A2B4c4d2e2d2c2B4A4z4).('c4B2A2G4A4B2A2A2G2A4z4).('E4A2A2G4A4c2B2A2G2F4E2).('G2A2B2c4c4d2A2c4B4A4) |]

@@ -1,0 +1,31 @@
+X: 15363
+T: Laat mij slapend op U wachten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 1229306726
+%%humdrum-veritas-data 2219018030
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: E clef=treble
+.('G3/G/ [I:setbarnb 1]|
+G>FC3/D/ |
+FEB,/ E/ G/ E/ |
+B,GEB/ A/ |
+G!fermata!F).('GF |
+GGGG |
+C!fermata!cBA |
+GF^EF |
+F/ A// G//!fermata!E).('FF |
+FF^Ac |
+B2FF |
+eFG^A |
+(B^A/ !fermata!=A/)).('GG |
+A>G F/ A/ c/ B/ |
+AG!wedge!B/ !wedge!e/ !wedge!G/ !wedge!B/ |
+B/ C/ A/ G/(FA/ G/) |
+Ez) |]

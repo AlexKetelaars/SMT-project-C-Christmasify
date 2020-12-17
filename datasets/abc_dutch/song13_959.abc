@@ -1,0 +1,26 @@
+X: 12958
+T: Slaap kindje slaap Daar buiten loopt een schaap
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 1174366676
+%%humdrum-veritas-data 569131883
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('G3/FF/ |
+E3/-E).('G/ |
+BB/AA/ |
+G3/-G).('G/ |
+BB/ (B/ A/) G/ |
+A3/A).('A/ |
+GG/ (G/ F/) E/ |
+F3/F3/) |
+.('EF/GA/ |
+BB/B3/) |
+.('cB/AG/ |
+FF/E3/) |]

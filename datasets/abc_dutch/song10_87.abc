@@ -1,0 +1,27 @@
+X: 9086
+T: Ik ben een jong soldaatje van twee-en-twinti [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3606304136
+%%humdrum-veritas-data 1057591709
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+F F F F |
+F2E) .('F |
+G F G A |
+G2F) .('F |
+E D E F |
+G G/ G/ G) .('A |
+F E F G |
+A A/ A/ A) .('A |
+B A B c |
+d F B A |
+F2E2 |
+D3) |]

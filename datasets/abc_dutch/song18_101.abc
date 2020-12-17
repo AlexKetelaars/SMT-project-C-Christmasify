@@ -1,0 +1,36 @@
+X: 17100
+T: gavotte
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1644243093
+%%humdrum-veritas-data 294545498
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('da [I:setbarnb 1]|
+!mordent!!mordent!f2g3/f// g// |
+ade^c |
+dA).('da |
+f2g3/f// g// |
+ade^c |
+d2) |
+.('ff [I:setbarnb 7]|
+f>ga_b |
+ggea |
+d^cde |
+^c2).('ea |
+f>fg3/a/ |
+_bgd3/d/ |
+ef/ g<gf// g// |
+af).('cc |
+c>_BB3/c/ |
+AdBe |
+^cd).('e3/f/ |
+gea^c |
+d>ee3/d/ |
+d2) |]

@@ -1,0 +1,31 @@
+X: 9203
+T: Des winters als het regent, Dan zijn de paad [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 1007537734
+%%humdrum-veritas-data 1440526160
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A, [I:setbarnb 1]|
+D2EF2G |
+A3A2).('A |
+B2B (d c) B |
+(B A) dd2).('A |
+A2GG2G |
+G2FF2z) |
+.('A B A (A G) F |
+E2z) .('A, B, C |
+D2D) .('E D E |
+F2F) .('F E F |
+G2G) .('G F G |
+B2A) .('A B c |
+d c B B A G |
+B2A) .('G G G |
+F2FE2E |
+D3z2) |]

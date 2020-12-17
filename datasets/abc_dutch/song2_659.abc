@@ -1,0 +1,41 @@
+X: 1658
+T: Hier hebben wij een zondige man Die heeft zi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 3011285361
+%%humdrum-veritas-data 3883936046
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2BA2G |
+F F ED2).('D |
+G2BA2G |
+F2ED2).('D |
+G2G/ G/ G A B |
+A2DD2).('D |
+G2GG2G |
+G3D2).('G |
+G G GG2G |
+A3D2).('G |
+F D DD2G |
+F D DD2).('G |
+F D DD2G |
+F D DD2).('A, |
+D2EF2G |
+F3E3 |
+D3D3 |
+D3z2).('A, |
+D2EF2G |
+F3E3 |
+D3D3 |
+D3z2).('A, |
+D E FG2F |
+D3A,2).('A, |
+D E GF2E |
+D2zz2) |]

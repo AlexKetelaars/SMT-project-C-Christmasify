@@ -1,0 +1,30 @@
+X: 14899
+T: Mein Vergnügen Soll und muß sich endlich doc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 2695449695
+%%humdrum-veritas-data 3250051550
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B2 (A G)d4g4 |
+e2 (g e) d2 (g d) c2 (g c) |
+B2 (A G) d2 (c B) e2 E2 |
+F G (A F)D8) |
+.('B2 (A G) F2 (G A)D4 |
+_B2 (A G) F2 (G A)D4 |
+f2 (e d) f2 a2 f2 (e d) |
+g2 g fg8) |
+.('b2 (a g) g2 (f e) e2 (f g) |
+a2 (g f) f2 (e d) d2 (e f) |
+g2 (g f) e2 (f g) B2 (^c d) |
+^c2 (d e)A8) |
+.('f2 (e d) ^c2 (d e)A4 |
+=f2 (e d) ^c2 (d e)A4 |
+a2 (g f) g2 (f e) f2 (e d) |
+^c d (e c)d8) :|]

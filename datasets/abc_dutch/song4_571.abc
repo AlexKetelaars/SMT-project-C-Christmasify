@@ -1,0 +1,25 @@
+X: 3570
+T: Ik arme arme haasje In 't groene groene woud,
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 1587078001
+%%humdrum-veritas-data 659178561
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G B A G (F E) D) .('D/ D/ |
+G B A F2<D2).('D |
+A2A Ad2F F |
+(A G) (E G2<)D2).('D/ D/ |
+c B/ B/ A G (F A) D) .('D |
+c B A G (F A) D) .('D |
+B2B c2<A2).('B |
+c B c ed4) |
+[M:5/4].('e2d c B AG2G2 |
+[M:4/4](G B) B> AG2) |]

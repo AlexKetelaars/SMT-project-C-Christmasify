@@ -1,0 +1,24 @@
+X: 13027
+T: Waar is Jan met de bokkewagen? Hij is niet h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 710166582
+%%humdrum-veritas-data 1924581251
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F2C2F2C C |
+F2G2A2F2) |
+.('c2c cc4 |
+c2c cc4) |
+.('B B B B A A A A |
+G2c2F2).('C A |
+F2C AF2C A |
+F2).('C AF2C A |
+F2C AF2C B |
+(A2G2)F4) |]

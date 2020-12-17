@@ -1,0 +1,52 @@
+X: 4486
+T: Ik was laatst op een schermenschool Schermen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 677848769
+%%humdrum-veritas-data 3248812009
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d e d c |
+B AG2) |
+.('d d d d |
+B2G2) |
+.('d> d d d |
+e e e3/) .('e/ |
+d d d d |
+c2c3/) .('c/ |
+d d d3/ G/ |
+d d d3/) .('G/ |
+d d d d |
+c2c3/) .('G/ |
+d d d d |
+c2c3/) .('c/ |
+d d d d |
+e e e) .('e/ e/ |
+d d d d |
+c2c3/) .('c/ |
+d d d B |
+d d d) .('B/ B/ |
+d d d A |
+d> d d) .('G |
+d> d d G |
+d2d) .('G |
+d d d G |
+d dd2) |
+.('g d c B |
+A A G) .('B/ c/ |
+d2d2 |
+G3).('B |
+d d d d |
+G4) |
+.('d d d d |
+e e e) .('c |
+d> d d d |
+d2d2 |
+G3) |]

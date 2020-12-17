@@ -1,0 +1,30 @@
+X: 8307
+T: Lang zal hij leven, lang zal hij leven, Lang [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 2728575617
+%%humdrum-veritas-data 3197977208
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F2F3/ F/ |
+F2C2) |
+.('A2A3/ A/ |
+A2F2) |
+.('c2c c |
+(d c) B A |
+A2G2 |
+F4) |
+.('(G4 |
+A4 |
+B2A B |
+c2-c) z) |
+.('c2c3/ c/ |
+(d c) B A |
+A2G2 |
+F2z2) |]

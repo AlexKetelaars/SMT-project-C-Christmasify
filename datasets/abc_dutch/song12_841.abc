@@ -1,0 +1,47 @@
+X: 11840
+T: La Fronde
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 4282001087
+%%humdrum-veritas-data 1851018858
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('g2g |
+a>ba |
+g3 |
+e2e) |
+.('f>ge |
+d>cB |
+c3 |
+c2) :|]
+.('c [I:setbarnb 9]|
+d2e |
+f>gf |
+e3 |
+d2d) |
+.('e>fg |
+g>a^f |
+g3- |
+g2).('g |
+c'2b |
+a2b |
+c'3 |
+e2-e) |
+.('f2e |
+f2g |
+a3 |
+g2-g) |
+.('a>gf |
+(e2f) |
+g>fe |
+(d2e)) |
+.('f>ge |
+d>cB |
+c3 |
+c3) |]

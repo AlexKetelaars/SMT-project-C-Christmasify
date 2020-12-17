@@ -1,0 +1,32 @@
+X: 6142
+T: Lammer Joosie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2853601715
+%%humdrum-veritas-data 1239046496
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c d e [I:setbarnb 1]|
+f2c2A2c2 |
+d4c4 |
+d e f g e f g e |
+f e f g f) .('c d e |
+f2c2A2c2 |
+d4c4 |
+d e f g e f g e |
+f6) :|]
+.('f g [I:setbarnb 9]|
+a2f2g2a2 |
+b4a4 |
+g2a2g2a2 |
+g f e dc2).('d c |
+a2f2g2a2 |
+b2a ga2g f |
+e2f g a f g e |
+f4) |]

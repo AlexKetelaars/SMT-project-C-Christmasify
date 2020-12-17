@@ -1,0 +1,30 @@
+X: 15355
+T: Gevoel, o Mensch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 2669549117
+%%humdrum-veritas-data 1896995840
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D [I:setbarnb 1]|
+FAd2 |
+A2Bd |
+cBA2 |
+d2AB |
+A2d2 |
+cBAd |
+d2!fermata!c2 |
+A2).('EG |
+F2A2 |
+BAGF |
+F2E2 |
+D2FA |
+dBAG |
+F2E2 |
+D3) |]

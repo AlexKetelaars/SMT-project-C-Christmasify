@@ -1,0 +1,42 @@
+X: 8879
+T: Wakkre harten, trouwe zielen, Eerlijk dragen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3743538447
+%%humdrum-veritas-data 2247799055
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F3/ B/ [I:setbarnb 1]|
+B2A2F3/ e/ |
+e2d4) |
+.('f2>d2 B G |
+F> ED4) |
+.('G> FF2=E2 |
+B> AA2G2) |
+.('c2>A2 f =B |
+c4c2 |
+F4).('c3/ B/ |
+B2A2e3/ d/ |
+d2c4) |
+.('f2>d2 B G |
+F B2<(c2d) |
+B4z2) |
+.('d2>c2 B B |
+c> BB2A2) |
+.('G AB2c2 |
+d> BG4) |
+.('c2>B2 A c |
+f> ee2d2) |
+.('d2>d2 =e d |
+^c> c!fermata!d2).('=c3/ B/ |
+B2A2e3/ d/ |
+d2c4) |
+.('f2>d2 B G |
+F B2<(c2d) |
+B4z2) |]

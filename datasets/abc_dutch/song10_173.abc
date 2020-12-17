@@ -1,0 +1,31 @@
+X: 9172
+T: Die eerste vreucht, die ic ghewan, Doet mi t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 2748214724
+%%humdrum-veritas-data 969727955
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('FFG [I:setbarnb 1]|
+[M:3/2]A2>A2GF |
+[M:2/2]B3).('A |
+[M:3/2](A2G)FEF |
+[M:2/2]G2F2 |
+z).('FFG |
+[M:3/2]A2>A2GF |
+[M:2/2]B3).('A |
+[M:3/2](A2G)FEF |
+G2F2z).('A |
+G2>F2EF |
+(GF)DC3 |
+[M:2/2]z).('FFG |
+[M:3/2]A2>A2GF |
+[M:2/2]B2z).('A |
+[M:3/2]A2GFEF |
+G2F2) |]

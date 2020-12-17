@@ -1,0 +1,44 @@
+X: 15199
+T: Lanciers Quadrille
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 3332070047
+%%humdrum-veritas-data 2412335261
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G ^F G [I:setbarnb 1]|
+e2ed2d |
+c2G G ^F G |
+f2fe2e |
+d2G G ^F G |
+e2ed2d |
+c2c c B A |
+G2EF2D |
+C3) ||
+.('E ^D E [I:setbarnb 9]|
+A2Ac2c |
+B2E E ^D E |
+A2Ac2c |
+B2>E2 ^D E |
+c2cB2B |
+A2A_B2B |
+A2A^G2G |
+A2>).('G2 ^F G |
+e2ed2d |
+c2G G ^F G |
+f2fe2e |
+d2G G ^F G |
+e2ed2d |
+c2G G ^F G |
+A2d G A B |
+c2>).('G2 ^F G |
+B2Bc2c |
+(^c2d) G A G |
+F G F E F E |
+D2G G ^F G) |]

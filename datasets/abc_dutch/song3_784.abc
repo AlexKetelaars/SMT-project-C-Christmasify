@@ -1,0 +1,31 @@
+X: 2783
+T: Komt jongens hoort dit lied Wat ik u ga verhalen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 1518550565
+%%humdrum-veritas-data 2837411633
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+EcBA |
+G3).('G |
+B>AA3/G/ |
+G2F/) .('G/ G/ G/ |
+AGFE |
+D3).('G3// F// |
+EDCB, |
+(DG)G/) .('D/ D/ D/ |
+EcBA |
+G3).('G |
+AB/ B/dc |
+(B2A)).('B/ B/ |
+cBAG |
+E).('ccB/ c/ |
+B2A2 |
+G3) |]

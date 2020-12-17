@@ -1,0 +1,24 @@
+X: 4853
+T: Schoon is de zon en schoon zijn de bloemen S [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 2138072979
+%%humdrum-veritas-data 1658590720
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G GG2G2 |
+G2G G GG3) |
+.('A2A AA2A A |
+A2G> G G G) .('D D |
+d2d d dd2d |
+dd2dE2-E/) .('D/ D/ D/ |
+[M:7/8]G/> G/ G/ G/ G/ G/ d/> d/ d> d d/ d/ |
+[M:3/4]e> e e A G/>) .('D/ D/ D/ |
+[M:6/8]G/> G/ G DG2D |
+[M:4/4]G4z4) |]

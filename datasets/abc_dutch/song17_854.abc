@@ -1,0 +1,26 @@
+X: 16853
+T: La moutarde Remomée
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 3936073314
+%%humdrum-veritas-data 4181265628
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('g2g2f3g |
+a g f ed4 |
+c2c2B3c |
+d c B AB2G2) |
+.('B2B2B2G2 |
+c2>d2e4 |
+B A B cA2G2 |
+B A B cA2G2 |
+B2B2B2G2 |
+c2>d2e3g |
+a g f ed2g2 |
+g2>f2g4) :|]

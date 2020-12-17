@@ -1,0 +1,84 @@
+X: 420
+T: Phantasia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2646562007
+%%humdrum-veritas-data 3711782707
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('D E F D E F G E F G A F G A B G |
+A B c A B c d B c d e c d2 e2 |
+f6).('e d c B A G F G A B |
+c d e fg6f e d c _B A |
+G _B A G F G A FG6).('d2 |
+c B A G F2 f2 e d c B A2 g2 |
+f e d c d c B AG6).('E F |
+G F G F G F E FG6F G |
+A G A G A G F GA6).('G A |
+B A B A B A G AB6A B |
+c B c B c B A Bc6B c |
+d c B A G A B G F G A FG4)- |
+.('G2 F G A B c A B c A F G A B c |
+d B c d B2 G2 c d e f g e f g |
+e2 c2G4).('g f e d c B A G |
+f e d c B A G F e d c B A G F E |
+d c B A G F E D c B A G F E D C) |
+.('D E F G A B c d2< e2 d2< c2 G |
+A B c d e f g2 g2 e2 c2 A2 |
+f2 d2 B2 G2 e2 c2 A2 F2 |
+d2 B2 G2 E2 c2 A2 F2 D2 |
+B2 G2 E2 C2) .('g f e d c B A2 |
+f e d c B A G2 e d c B A G F2 |
+d c B A G F E2 c B A G F E D2 |
+B A G F E D C2).('c4B c d B |
+A B c A B c d B c> c d ef4- |
+f4d e f d e f e c d e f d |
+e f e c) .('d e f d e f g f e d e c |
+d e f d e f g e f2 g2 a2 d2 |
+e2 f2 g2 c2 d2 e2 f2 B2 |
+c2 d2 e2 A2 B2 c2 d2 G2 |
+A2 B2 c2 F2 G2 A2 B2 E2 |
+F2 G2 A2 D2 E2 F2 G2 C2) |
+.('D E F G A B c d2< e2 dc4 |
+c16) |
+.('g2 c2 g2 B2 g2 c2 g2 G2 |
+g2 c2 g2 B2 g2 c2 g2 G2 |
+f2 _B2 f2 A2 f2 B2 f2 F2 |
+f2 _B2 f2 A2 f2 B2 f2 F2 |
+e2) .('A2 e2 ^G2 e2 A2 e2 E2 |
+e2 A2 e2 ^G2 e2 A2 e2 E2 |
+d2 G2 d2 ^F2 d2 G2 d2 D2 |
+d2 G2 d2 ^F2 d2 G2 d2 D2 |
+c2 F2 c2 E2 c2 F2 c2 C2) |
+.('c2 F2 c2 E2 c2 F2 c2 C2 |
+c2 F2 c2 E2 c2 A2 c2 G2 |
+c2 F2 c2 E2c4A3 B |
+c16) |
+.('G A B c G A B c d2 e2 B2 A B |
+c d e f g2 B2 f2 A2 e2 G2 |
+d2 F2 c2 E2 c2 G2 A B c A |
+B A G F E D C D E F G A B c d e |
+f d g f e d e cd8) |
+.('A2 A G F E D2 B2 B A G F E2 |
+c2 c B A G F2 d2 d c B A G2 |
+e2 e d c B A2 f2 f e d c B2) |
+.('g2 g f e d c2 f2 f e d c B2 |
+e2 e d c B A2 d2 d c B A G2) |
+.('c2 c B A G F2 B2 B A G F E2 |
+A2 A G F E D2 d d ^c d G G ^F G) |
+.('e e d e A A ^G A f f e f _B B A B |
+g2 g a g f g2 c2 c d c B c2) |
+.('f2 f g f e f2 _B2 B c B A B2) |
+.('e2 e f e d e2 A2 A B A G A2) |
+.('d2 d e d ^c d2 G2 G A G ^F G2 |
+c2 c d c B c2 F2 F G F E F2) |
+.('B2 B c B A B2 E2 E F E D E2 |
+A2 A B A G A2 D2 D E D C D2) |
+.('E F G A B c d> d c e d fe4 |
+!fermata!d16) |]

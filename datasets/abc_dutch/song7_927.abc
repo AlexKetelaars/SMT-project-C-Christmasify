@@ -1,0 +1,29 @@
+X: 6926
+T: En als ik wil gaan huishoûn, Dan moet ik heb [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 542712971
+%%humdrum-veritas-data 1045925794
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GG2G |
+A2>D2 z) .('D |
+G2G G G G |
+A2zz2).('D |
+G2G G F G |
+A A A A z) .('A |
+A2A d d c |
+B2A!fermata!G2z) |
+.('A3E2E |
+A2A!fermata!E2).('D |
+G2GF2G |
+A2zz2).('A |
+d2dd2d |
+B2A!fermata!G2) |]

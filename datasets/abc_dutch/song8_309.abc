@@ -1,0 +1,54 @@
+X: 7308
+T: Jubilate gloria, Vive la memoria
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3926043791
+%%humdrum-veritas-data 620617891
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F3G [I:setbarnb 1]|
+F2C2F3G |
+A4c3B |
+A2B2A3G |
+F2).('c2G3A |
+G2c2G3A |
+G4c3B |
+A2B2A3G |
+[M:6/8]F2).('z F F F |
+F2>A2 A A |
+A3).('c2c |
+c2B A A G |
+A2G) .('F F F |
+F2>A2 A A |
+A2>).('c2 c c |
+c2BA2G |
+F2>).('F2 F F |
+F2CF2G |
+A2G) .('F F F |
+F2CF2G |
+A2Gx3) |
+[M:2/4].('x2A B |
+A2D2 |
+G G A B |
+A2D2 |
+G) .('G A B |
+A2D2 |
+G2x2) |
+[M:6/8].('x2>x2 A B |
+c2cB2A |
+B2G).('A2B |
+c2cB2A |
+B2Gx3) |
+[M:2/4].('x2A B |
+A2D2 |
+G G A B |
+A2D2 |
+G) .('G A B |
+A2D2 |
+G2z2) |]

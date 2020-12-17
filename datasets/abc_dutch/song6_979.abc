@@ -1,0 +1,39 @@
+X: 5978
+T: De Wijn Pers
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 767684844
+%%humdrum-veritas-data 1507811772
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G4B2d2 |
+g f g ag2).('A B |
+c B c d e d c B |
+A4d4) |
+.('e f g af2e2 |
+d4c4) |
+.('B cd2A3G |
+G6) :|]
+.('b2 [I:setbarnb 9]|
+a2g2f2e2 |
+d4c4) |
+.('B2>A2 G A B c |
+d4d4) |
+.('e2e ee2e2 |
+e4a4) |
+.('f g a b2<e2d |
+d4d2).('A B |
+c2c2c2A2 |
+B2G4).('c d |
+e2d2c2B2 |
+A4d4) |
+.('e f g af2e2 |
+d4c4) |
+.('B cd2A3G |
+G4) |]

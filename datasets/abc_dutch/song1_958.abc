@@ -1,0 +1,29 @@
+X: 958
+T: Wat is de liefde wonder in zijn werken Voorn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 593866916
+%%humdrum-veritas-data 1938024668
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D E [I:setbarnb 1]|
+D2>D2 G A B3/ G/ |
+A2G2>).('G2 A B |
+c2B2A> G B A |
+D4z) .('E D E |
+D2>E2 G A B G |
+A2G2>).('G2 A B |
+c2B2A G B A |
+D6).('D2 |
+c2>B2 A G F F |
+(E F)G2z) .('c B A |
+(D G)F2E> D E F |
+G6).('d2 |
+c2(B2d2)z2 |
+(c2B) AG4) |]

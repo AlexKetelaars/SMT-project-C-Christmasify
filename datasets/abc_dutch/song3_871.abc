@@ -1,0 +1,25 @@
+X: 2870
+T: Oonzen alden Driekus wou es ruter wère Schoo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 2736803638
+%%humdrum-veritas-data 1324164715
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B cd2g2 |
+e e e ee2d2) |
+.('c c c c B BB2 |
+A A A BA2G2) |
+.('G A B c d d g g |
+e e e e e dd2) |
+.('d dd2d/ d/ d d) .('d |
+G A B cd2g2 |
+e2e2d4) |
+.('c c c cB2B2 |
+A2A2G4) |]

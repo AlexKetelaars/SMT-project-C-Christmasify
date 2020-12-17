@@ -1,0 +1,41 @@
+X: 505
+T: Wel aan! mijn siel, 't is in den dutt Al lan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 581168748
+%%humdrum-veritas-data 175073617
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=72
+K: F clef=treble
+.('zDG3/A/ |
+^F>BB3/A/ |
+B).('dd3/c/ |
+B(BAd |
+B2)c2 |
+B2z2) |
+[M:3/2].('B2B2B2 |
+^F4F2 |
+G4G2 |
+d4).('d2 |
+G2>A2^F2 |
+D2(G3^F) |
+G4x2) |
+.('d2d2d2 |
+d4^c2 |
+d4).('D2 |
+D2>E2F2 |
+G2A2B2 |
+A6 |
+G6) |
+.('d2d2d2 |
+d4^c2 |
+d4).('D2 |
+D2>E2F2 |
+G2A2B2 |
+A6 |
+G6) |]

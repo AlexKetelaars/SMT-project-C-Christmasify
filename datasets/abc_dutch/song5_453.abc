@@ -1,0 +1,31 @@
+X: 4452
+T: Er was een mager snijderke Een snijerke heel oud
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 591377312
+%%humdrum-veritas-data 2671553204
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G F E |
+E D D) .('D |
+G G A A |
+B3).('D |
+(3:2:5B B c B2 A |
+A2G) .('G |
+A G G B |
+c2).('G2 |
+E E G G |
+c cB2) |
+.('D> D D D |
+A A G) .('D/ D/ |
+G G A A |
+B B c c) |
+.('B2A2 |
+G3) |]

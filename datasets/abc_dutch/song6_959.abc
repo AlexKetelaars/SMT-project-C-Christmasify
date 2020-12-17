@@ -1,0 +1,59 @@
+X: 5958
+T: Mevrouw den boodschap, waar zijt je dan? En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3598207155
+%%humdrum-veritas-data 741698001
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('cc2c [I:setbarnb 1]|
+c3G2G |
+A2Bc2).('c |
+c2cc3 |
+G2GA2B |
+c2).('c c c c |
+c3G2G |
+A2Bc2).('c |
+c c cc3 |
+G2GA2B |
+c3z3) |
+.('c3B2A |
+G3A2B |
+c3d2d |
+c3G3) |
+.('c3B2A |
+G3A2B |
+c2c d d d |
+c2>z2) .('d d |
+d2d d d e |
+(f2e)d2).('d |
+d2e(f2e) |
+d2cB2A |
+G3z3) |
+.('c2c B B A |
+G3).('A2B |
+c2cd2d |
+c3G3) |
+.('c2c B B A |
+G2).('GA2B |
+c2cd2d |
+c3z2).('d |
+d2dd2e |
+(f2e)d2).('e |
+(f2e)d2d |
+d2dd2e |
+(f2e)!fermata!d2).('c |
+c2cB2A |
+G3).('A2B |
+c2c d d d |
+c3z2).('c |
+c2cB2A |
+G3).('A2B |
+c2c d d d |
+c2) |]

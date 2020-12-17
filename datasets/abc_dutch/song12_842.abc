@@ -1,0 +1,40 @@
+X: 11841
+T: Borure [!]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 436727905
+%%humdrum-veritas-data 4094675395
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('a [I:setbarnb 1]|
+a2(f3/g/) |
+a3(g/ f/) |
+ecde |
+f2).('(d3/c/) |
+B2e3/d/ |
+c2d3/c// d// |
+ecB3/A/ |
+A2x) :|]
+.('e [I:setbarnb 9]|
+ecd3/e/ |
+f2de/ f/ |
+g2(f3/e/) |
+e2).('fd |
+B2ec |
+A3a |
+^gaa3/g/ |
+a3).('e |
+ecd3/e/ |
+f2d3/e// f// |
+g2(f3/e/) |
+e2).('fd |
+B2ec |
+A3d |
+efe3/d/ |
+d3) |]

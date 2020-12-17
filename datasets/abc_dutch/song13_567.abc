@@ -1,0 +1,30 @@
+X: 12566
+T: De Klok
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:26
+%%humdrum-veritas 2254073917
+%%humdrum-veritas-data 4220776257
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d2c BA2G F |
+G B A GF2E D) |
+.('(d c d) f (e d e) g |
+f a g fe4) |
+.('d2(c B)A2(G F) |
+G B A GF2E D) |
+.('d2c Be2d c |
+!trill!!trill!B2>A2A4) |
+.('(a g a) fg4) |
+.('(g f g) ef4) |
+.('d2c BA2d2 |
+e f g ef2d2) |
+.('(a g a) fg4) |
+.('(g f g) ef4) |
+.('d2(c B)A2d2 |
+c d e cd4) :|]

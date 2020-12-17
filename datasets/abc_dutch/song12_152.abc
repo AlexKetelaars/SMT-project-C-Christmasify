@@ -1,0 +1,35 @@
+X: 11151
+T: Vrienden, komt luistert, ‘k zal ‘t u gaan ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 2689285496
+%%humdrum-veritas-data 4014223520
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C E G [I:setbarnb 1]|
+c c c c d c |
+B!fermata!A2).('D E F |
+G G G G F F |
+!fermata!E2>).('C2 E G |
+c c c e d c |
+B!fermata!A2).('D E F |
+G G G (B c) d |
+!fermata!c2>).('G2 G G |
+D E F A G F |
+A2!fermata!G) .('G A B |
+c c e e d c |
+G2).('G/ G/ C E G |
+c2c/ c/ e d c |
+B!fermata!A2).('D E F |
+G G G/ G/ G ^F =F |
+E2).('G/ G/ C E G |
+c2c/ c/ e d c |
+BA2).('D E F |
+G G G/ F/ B c d |
+c2>z2z2) |]

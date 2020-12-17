@@ -1,0 +1,49 @@
+X: 438
+T: De lustelycke Mey
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1934644178
+%%humdrum-veritas-data 691008120
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c4 |
+cccc |
+dcde |
+f2e2- |
+e).('dd2- |
+d^c/ =B/c2 |
+d4- |
+d2).('f2 |
+e2d2 |
+c2B2 |
+AGd2- |
+d).('cc2- |
+c=B/ A/B2 |
+c4) |
+.('A2A2- |
+AAA3/B/ |
+ccB2) |
+.('AGA2- |
+A2A2 |
+A3).('A |
+A>Bcc |
+B2AG |
+A2).('ee |
+f2e2 |
+d2e2- |
+e).('dd2- |
+d^c/ =B/c2 |
+d4- |
+d2).('f2 |
+e2d2 |
+c2B2 |
+AGd2- |
+d).('cc2- |
+c=B/ A/B2 |
+c4) :|]

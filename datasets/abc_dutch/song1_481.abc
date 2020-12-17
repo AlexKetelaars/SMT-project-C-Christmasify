@@ -1,0 +1,33 @@
+X: 481
+T: Myn arme siel soo clagelijck gedompelt Tot o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 2750172657
+%%humdrum-veritas-data 265034065
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F2FG |
+(A/ G/ F/ G/A)c |
+cBAF |
+G2G2) |
+.('B2BB |
+(c/ B/ A/ G/A)A |
+GFFE |
+F2).('A2 |
+AA(G/ F/ G/ A/ |
+G)GAc |
+c=Bc2) |
+.('A2AG |
+F2(FG) |
+BAGF |
+G2G2) |
+.('B2BB |
+(c/ B/ A/ G/A)A |
+GFFE |
+F4) |]

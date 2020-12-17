@@ -1,0 +1,26 @@
+X: 15315
+T: Vaarwel, vaarwel, mijn Vaderland
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 344434931
+%%humdrum-veritas-data 3808157942
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D/ F/ [I:setbarnb 1]|
+AAAB |
+A>FDB |
+A>GGA |
+F2z) :|]
+.('F/ F/ [I:setbarnb 5]|
+E>FGG |
+F>Adc/ d/ |
+edcB |
+B>AAB |
+A>GGA |
+F2z) |]

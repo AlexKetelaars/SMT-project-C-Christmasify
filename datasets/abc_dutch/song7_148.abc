@@ -1,0 +1,43 @@
+X: 6147
+T: Exters ende kraijen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 268190282
+%%humdrum-veritas-data 1837285835
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G2d2d2d c |
+d2d2d2d e |
+f2f2f2e d |
+c2c2c2).('d c |
+B2A B G B A G |
+^F2D2G A B c |
+d2c B c B A ^F |
+G4) :|]
+.('d4 [I:setbarnb 9]|
+g4f ga2 |
+f4=e fg2 |
+a2f g f =ef2 |
+d4).('d4 |
+g4f ga2 |
+f4=e fg2 |
+a2f g f =ef2 |
+d4).('A Bc2 |
+d4c de2 |
+f4f2e f |
+g2>d2d3c |
+B4).('B2B c |
+d2>c2B3d |
+c d c BA2c2 |
+B2B BG2A B |
+c B A G^F2D2) |
+.('B4c2B c |
+d4g2f e |
+d2>g2 ^f g a f |
+g4) |]

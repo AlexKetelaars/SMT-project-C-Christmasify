@@ -1,0 +1,26 @@
+X: 5060
+T: Een rijke doe door slim beleid, Al meer en m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 78654786
+%%humdrum-veritas-data 2523887992
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E2E FG2B2 |
+F2G2E4) |
+.('(E D) C DE2E2 |
+F2(E F)G2E2) |
+.('B2=A G2<F2E |
+D2E2F4) |
+.('F2E D E F G E |
+(D2C2)B,4) |
+.('E2E FG2G2 |
+F2c2B4) |
+.('A2A A (G B) (A F) |
+E2D2E4) |]

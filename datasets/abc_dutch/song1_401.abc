@@ -1,0 +1,39 @@
+X: 401
+T: Kits Almande
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 3724938474
+%%humdrum-veritas-data 2719200519
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+defg |
+a>gfa |
+gfed |
+^cAA).('f |
+ed^cB |
+A>B c/ A/ f/ g/ |
+ad/ e/ f/ g/ e3// d// |
+d3) |
+.('f/ g/ [I:setbarnb 9]|
+aaag/ f/ |
+e>dcf/ e/ |
+d>efe/ d/ |
+^c>BA).('a |
+^gabg |
+a3) |
+.('f/ g/ [I:setbarnb 15]|
+aaag |
+f3g/ a/ |
+_bbba |
+g3).('a/ _b/ |
+c'c'c'f |
+f/ e/ f/ g/ag/ f/ |
+edd^c |
+d3) :|]

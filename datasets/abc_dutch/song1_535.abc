@@ -1,0 +1,22 @@
+X: 535
+T: Henderickjes Soete blickjes Herte-strickjes  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 4275283265
+%%humdrum-veritas-data 3697001418
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('c2ge>(dc) |
+Ad2B>(AG)) |
+.('c2d(e>f)g |
+fe2d3) |
+.('A2Bc2A |
+d>(e d/ c/)B2G) |
+.('A2BG(c/ B/ c/ d/) |
+(e/d)c/c3) |]

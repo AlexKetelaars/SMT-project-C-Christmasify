@@ -1,0 +1,34 @@
+X: 1612
+T: Sinte Maartens avond, toen togen me naar Gen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 4211779760
+%%humdrum-veritas-data 413171566
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('G G F F |
+G2D3/ D/ |
+G G F F |
+G2z2) |
+.('G2F2 |
+G2D2 |
+G G F F |
+G GD2) |
+.('G G F F |
+G2D2 |
+G G F F |
+G2D2) |
+.('G G F F |
+G2D D |
+G G F F |
+G2D3/) .('A/ |
+A> A A3/ A/ |
+A> AA2) |
+.('A A A A |
+A AA2) |]

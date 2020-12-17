@@ -1,0 +1,27 @@
+X: 8917
+T: Een maagdelijn van zestien jaar Met oogjes b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 2303953088
+%%humdrum-veritas-data 2011185527
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('A [I:setbarnb 1]|
+A> A A A d3/ c/ |
+c4).('A2 |
+F> FF3G |
+B> AA3).('A |
+A A A A =B G |
+c4).('G2 |
+A> A A A d =B |
+c4).('c2 |
+f2>f2 e d |
+d> cc3).('A |
+c2>B2 A G |
+G> FF3) |]

@@ -1,0 +1,24 @@
+X: 6622
+T: Het wegsken naar den hemel Is vlijtig om lan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 3366932351
+%%humdrum-veritas-data 2710791858
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2AG2C |
+(F2A)!fermata!G2).('c |
+c c cd2B |
+!fermata!A2).('c c c c |
+c2c c =B c |
+e3!fermata!d3) |
+.('d3!fermata!c2).('B/ B/ |
+A c A G B G |
+!fermata!F3z2) |]

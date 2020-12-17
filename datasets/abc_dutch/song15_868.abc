@@ -1,0 +1,37 @@
+X: 14867
+T: Dans un Bois je rencontrais Climene Qui tond [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3985809207
+%%humdrum-veritas-data 1005957951
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('GAB3/A/ |
+G!trill!!trill!dA3/d/ |
+{F//}B{c//}d).('Bc |
+d>^edc |
+B2!trill!!trill!c2 |
+d4) |
+.('GAB3/A/ |
+G!trill!!trill!dA3/d/ |
+{F//}B{c//}d).('Bc |
+d>^edc |
+B2!trill!!trill!c2 |
+d2z/) .('d/ d/ _e/ |
+f>_edc |
+d>_e {d//}!fermata!c2 |
+{G//}B2).('g2- |
+g>d_e3/d/ |
+c>).('BAB |
+c>d {c//}!mordent!!mordent!B2 |
+{c//}d2).('g2- |
+gd_e3/d/ |
+c>).('Bcd |
+{c//}!mordent!!mordent!B2!trill!!trill!A2 |
+G2) |]

@@ -1,0 +1,24 @@
+X: 8258
+T: Rosa, willen wij dansen? Zeg, Rosa? Zeg Rosa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 2417915558
+%%humdrum-veritas-data 3362779029
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Ab clef=treble
+.('C2c c c B |
+c3A2).('A |
+B3G2G |
+B3G3) |
+.('F2A A G F |
+=E2CC3) |
+.('F G AG2F |
+=E2CC2).('c |
+(c2A)G3 |
+!fermata!F2zz2z) |]

@@ -1,0 +1,40 @@
+X: 9990
+T: Vaarwel bruidje schoon, Je bent de vreugd va [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 2790842433
+%%humdrum-veritas-data 1701251084
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('(F/ E/) [I:setbarnb 1]|
+DFA |
+d>).('A A/ B/ |
+AGC |
+ED2- |
+D2).('D |
+DFA |
+d2).('(A/ B/) |
+AGE |
+GF2- |
+F2).('A |
+BBA |
+BB).('A |
+Bce |
+d3- |
+d2).('d |
+dcB |
+AF).('B |
+AG3/E/ |
+F3- |
+F2).('d |
+dcB |
+AF).('B |
+AG3/E/ |
+D3- |
+D2) |]

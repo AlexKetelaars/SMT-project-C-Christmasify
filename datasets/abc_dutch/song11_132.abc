@@ -1,0 +1,35 @@
+X: 10131
+T: Wij rijen met rozebloemekes, Glorie aan Jesu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 1750588473
+%%humdrum-veritas-data 1809626211
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G G GA2A |
+G2GF3 |
+E E ED2D |
+C3z2).('G |
+G2GA2A |
+G2GE2E |
+G3A3 |
+G2G E z) .('E |
+G2G A A A |
+G3F2F |
+E2ED2D |
+C3z2).('E |
+G2GA2A |
+G3F2F |
+E2ED2D |
+C3z2).('E |
+G2GA2A |
+G3G2G |
+G2GG2G |
+C3z2) |]

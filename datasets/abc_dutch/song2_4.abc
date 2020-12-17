@@ -1,0 +1,30 @@
+X: 1003
+T: Daar was laatst een meisje loos Die zou gaan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 2997207015
+%%humdrum-veritas-data 1160914798
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B2A |
+G2d |
+(dc)A |
+G3) |
+.('BAB |
+d2B |
+AG3/A/ |
+B2G) |
+.('B2A |
+G2d |
+d2e |
+d3) |
+.('eee |
+d>ed |
+(cB)A |
+G3) |]

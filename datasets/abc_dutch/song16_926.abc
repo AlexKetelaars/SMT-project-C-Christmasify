@@ -1,0 +1,30 @@
+X: 15925
+T: A: Lombre
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 2642197038
+%%humdrum-veritas-data 1039440795
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2(d> e)c2g2 |
+a2(g> f)e2d2 |
+e2(d> e)c2(d3/ e/) |
+B2>c2d4) |
+.('e2(d> e)c2g2 |
+a2(g> f)e2d2 |
+e2(f> g)d2(g3/ a/) |
+^f2>g2g4) |
+.('G2(B> c)d2(e3/ f/) |
+d2>c2d2B2 |
+c2(d> e)c2(d3/ e/) |
+e2>d2d4) |
+.('g2a2g2(d e) |
+(f e) (d c)d2B2 |
+c2(d e)) .('c f e d |
+d2>c2c4) |]

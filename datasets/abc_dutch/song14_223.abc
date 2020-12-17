@@ -1,0 +1,32 @@
+X: 13222
+T: Chantons l’ Hymen chantons l’amour Vous les  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 2658557860
+%%humdrum-veritas-data 4137345530
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('(c/ B/) [I:setbarnb 1]|
+A2cG2c |
+(A G) AF2A |
+(G> ^F) GD2E |
+F2AC2).('(c/ B/) |
+A2cG2c |
+(A G) AF2A |
+{A/} (G ^F) GD2E |
+F2A!fermata!F2) ||
+.('c [I:setbarnb 9]|
+(d B) df2f |
+f3c2(A/ B/) |
+c2AF2A |
+(A3G2)).('c |
+(d B) df2f |
+f3c2(A/ B/) |
+c2AF2A |
+c3-c2) |]

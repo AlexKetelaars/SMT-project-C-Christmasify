@@ -1,0 +1,22 @@
+X: 9065
+T: Anna moest eens waken, waken al in haar bed
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 1661578873
+%%humdrum-veritas-data 4252415118
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C C A G |
+F2F2 |
+C C/ C/ B A |
+G3z) |
+.('G G/ G/ G G |
+A2G2 |
+D D G G |
+C2z2) |]

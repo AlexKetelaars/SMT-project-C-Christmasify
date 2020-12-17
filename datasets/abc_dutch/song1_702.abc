@@ -1,0 +1,16 @@
+X: 702
+T: Loven so wilt mijn siel den Heer, Loven wilt [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 869609962
+%%humdrum-veritas-data 3984151879
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('F2FFF2F2(FEF)GA4).('A2AAG2F2F2E2F4).('F2FFF2F2(FE)FGA4).('A2AAG2F2F2E2F4) ]|:
+.('z2A2G2G2F2A2G2G2F4z2).('F2F2FFF2FF(FEF)GA2A2).('B2>B2A2G4F4E2F4) |]

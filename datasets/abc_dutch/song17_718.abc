@@ -1,0 +1,33 @@
+X: 16717
+T: O! soete somer daegeraet hoe schoon doet gij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 1705394637
+%%humdrum-veritas-data 1805076427
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('(g/ a/) [I:setbarnb 1]|
+b>agba3/g/ |
+^f2>).('g2ad |
+d>eff_e3/d/ |
+cc2).('ff3/_e/ |
+dBc>d(B3/A/) |
+A2>).('d2d3/_e/ |
+cf(g/ f/) (_e/ d<)cB/ |
+B3-B2) |
+.('d [I:setbarnb 9]|
+d>efde3/f/ |
+g2>).('g2ab |
+c'>b (a/ g/)ff3/e/ |
+f2>).('^f2ga |
+baga^f3/g/ |
+gg2).('ff3/_e/ |
+d2>).('b2a3/g/ |
+ad(e/ f/) (g/ a<)^fa/ |
+g3-g2) :|]

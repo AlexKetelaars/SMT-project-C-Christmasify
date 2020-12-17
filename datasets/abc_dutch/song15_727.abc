@@ -1,0 +1,57 @@
+X: 14726
+T: Aria uijt de Opera Arzemia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 3574751176
+%%humdrum-veritas-data 1822173898
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('e [I:setbarnb 1]|
+A2BA2A |
+G F G F F A |
+d2dB2B |
+c B cd2).('d |
+A2BA2A |
+G F G F F A |
+d2dB2B |
+c B cd2).('f |
+e f ee2e |
+d3B2B |
+c2cd2d |
+c2B/ c/B2).('e |
+(e f) ee2e |
+a3z2e |
+c3B2(A/ B/) |
+A3z2).('A |
+G3{A G}F2B |
+B3A3 |
+d2cB2A |
+A2GF2).('F |
+G3F3 |
+{c/}B3A3 |
+A2GG2F |
+E3z2).('A |
+F F FE3 |
+F F FE3 |
+F F FE2).('a |
+f f fe2a |
+f f fe2a |
+A2a!fermata!A2).('A |
+f3d2d |
+c2BA2A |
+B2B c B c |
+d3z2).('A |
+f3d2d |
+c2BA2A |
+B2B c B c |
+d3z2).('a |
+g2ge2e |
+f3z2d |
+e2ec2c |
+d3z2) |]

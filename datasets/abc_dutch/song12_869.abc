@@ -1,0 +1,27 @@
+X: 11868
+T: Twe bruyn oogies
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 3611786070
+%%humdrum-veritas-data 2674749261
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('a2 [I:setbarnb 1]|
+a4g4 |
+a2(g f)e2f2 |
+d2>e2f2e2 |
+f2g2a2(g f) |
+e f g a2<f2e |
+e4x2) :|]
+.('e f [I:setbarnb 7]|
+g2g2g3^f |
+g6).('(f g) |
+a2a2a2(g f) |
+e2a2e f d f |
+e2>d2d4) |]

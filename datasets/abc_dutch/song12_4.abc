@@ -1,0 +1,31 @@
+X: 11003
+T: “Ach, mijne liefste waarde blom, Ziet uwen m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 294750721
+%%humdrum-veritas-data 298611243
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D F A [I:setbarnb 1]|
+(d A) (d F)A2(G3/ E/) |
+D4z2).('d2 |
+e2>d2 c B A G |
+(B c/ B/)A2z) .('D F A |
+(d A d F)A2G3/ G/ |
+F4z2).('d2 |
+e2>d2 c B A G |
+(G A/ G/)F2z) .('D F A |
+d2d> de2e2 |
+f4z) .('e d B |
+B A ^G A c B A G |
+F4z) .('D F A |
+d2d> de2e2 |
+f4z) .('e d B |
+B A ^G A c c B c |
+d2z2z4) |]

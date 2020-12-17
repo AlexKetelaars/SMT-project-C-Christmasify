@@ -1,0 +1,27 @@
+X: 16234
+T: Ach Fillis Lief, myn hoogste goed, Myn vreug [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3630206385
+%%humdrum-veritas-data 70611138
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('z c [I:setbarnb 1]|
+c6z EE6z F |
+F6z GG6).('z c |
+c6z d2< e2 d2< c2 B |
+A8G6z) .('c |
+c6z EE6z F |
+F6z GG6).('z c |
+c6z d2< e2 d2< c2 B |
+A8G6z) .('G |
+G2> G2 A2> B2A6z A |
+A2> A2 =B2> c2B6z) .('f |
+f2> e2 d2> c2 =B2> c2 G3 c |
+e6(d c)c6) :|]

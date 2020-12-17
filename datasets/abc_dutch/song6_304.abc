@@ -1,0 +1,31 @@
+X: 5303
+T: Als Venus in het oosten schijnt Met zijn ver [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 139120640
+%%humdrum-veritas-data 3021379613
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GG2A |
+B2B (B A)) .('G |
+A2B (d c) B |
+(A2B)G2).('D |
+G2GG2A |
+B B B (B A)) .('G |
+A A B (d c) B |
+(A2B)G2).('B |
+c c c (e d) c |
+B2cd2).('d |
+A A B c c e |
+d d FG2).('B |
+(B A) B (B A) B |
+d3).('e3 |
+d2B (d c) A |
+G3-G2) |]

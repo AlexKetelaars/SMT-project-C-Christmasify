@@ -1,0 +1,23 @@
+X: 13221
+T: Will kommen o seliger Abend Dem Herzen das f [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3741193218
+%%humdrum-veritas-data 2134362230
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c6G2 |
+G2E F G> e d c |
+(c B)B2z2).('c A |
+A G E G G F D F |
+F2E2z2).('G2 |
+e2c Gf2d B |
+(g e)c2z2).('G ^G |
+A2f d d c c B |
+(d4c2)) |]

@@ -1,0 +1,25 @@
+X: 9357
+T: Op een groen adeltje ben ik er ja gegaan, Op [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3071680758
+%%humdrum-veritas-data 4283263969
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B,EG [I:setbarnb 1]|
+F>FE).('GF/ E/ D/ C/ |
+[M:4/4]B,).('(C/ D/)EG |
+[M:6/4]F>FE).('GF/ E/ D/ C/ |
+[M:4/4]B,2).('(GB) |
+AG/ F/EB,/ B,/) |
+.('AGF(G/ F/) |
+(EF)).('(GB) |
+AG/ F/EB,/ B,/) |
+.('AGF(G/ F/) |
+E) |]

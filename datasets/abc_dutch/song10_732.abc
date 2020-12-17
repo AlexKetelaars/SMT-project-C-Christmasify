@@ -1,0 +1,84 @@
+X: 9731
+T: Ik kwam er laatstmaal door een groen wei geg [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 365122044
+%%humdrum-veritas-data 1492784065
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F F A F A |
+c c c !fermata!c) .('B A |
+G G G (B A) G |
+!fermata!F3-F2).('c |
+c f cc2c |
+c B A A !fermata!G) .('G |
+G e d c B G |
+!fermata!F3-F2z) |
+.('F> F F F F z) |
+.('F> F F F F) .('C |
+F A A A A A |
+A c c c B G |
+F3-F2z) |
+.('c2BA2F |
+(c d) cA2F) |
+.('f2ed2A |
+B2EF2).('c |
+f e d d c) .('B |
+d c B B A z) |
+.('(E G B)d2c |
+e d c!fermata!F2z |
+z2zz2).('F |
+G A F G F G |
+A F) .('F/ G/ A F G |
+A F G A F) .('c |
+f e d d c) .('c |
+(f e) dc2c |
+c B GF2).('A |
+A A A A G F |
+G F E G F) .('c |
+f e d c B G |
+F3-F2).('A |
+!fermata!A2A!fermata!A2A |
+A2).('A c B G |
+!fermata!G2G!fermata!G2G |
+!fermata!B2cd2c) |
+.('(E G B)d2c |
+e d c!fermata!F2z |
+z2zz2).('A |
+A2AA2A |
+d2cc2B) |
+.('(C E) G (d c) c |
+(e d) cF2z) |
+.('C F GA2A |
+A2GA2F) |
+.('F G AB2E |
+G2EF3) |
+.('d3c3 |
+B2cA3) |
+.('d2cc2B |
+B2cA3) |
+.('A3G3 |
+B2BA2z) |
+.('d3c3 |
+B2cA2z) |
+.('(E G B)d2c |
+e d c!fermata!F2z) ||
+.('x3x2A [I:setbarnb 59]|
+A2GG2B |
+B2AA2).('c |
+c2BB2d |
+d2c!fermata!c2z) |
+.('C3F2G |
+A3F2).('c |
+a2gf2A |
+c3B2).('E |
+(E G) B!fermata!d2c |
+e2d (c B G) |
+F3-F2z) |]

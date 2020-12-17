@@ -1,0 +1,27 @@
+X: 2610
+T: Er was eens een vrouwtje dat spon [2x] Op ha [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 3893416949
+%%humdrum-veritas-data 2665050712
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+d d d D E F |
+G) .('G G G G G |
+[M:4/8]G G G) .('G/ G/ |
+[M:6/8]A A A D> D D |
+G3-G2).('B |
+c2cB2c |
+d2dB2).('d |
+(d e) d c B A |
+G) .('G G G G G |
+[M:4/8]G G G) .('G/ G/ |
+[M:6/8]A2A D> D D |
+G3z2) |]

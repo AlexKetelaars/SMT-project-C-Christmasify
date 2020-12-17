@@ -1,0 +1,24 @@
+X: 10567
+T: Breng dien glèsken an dien mundeken, Drink t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3468106036
+%%humdrum-veritas-data 2743510696
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2>G2 G G F G |
+A FF4z2) |
+.('G2>G2 G G F G |
+A FF4).('A2 |
+E E E EE2A2 |
+E E E E2<E2).('E |
+A2>A2G3G |
+F F F G A A G) .('G |
+A2>A2G3F |
+E E D EF4) |]

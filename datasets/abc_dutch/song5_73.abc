@@ -1,0 +1,27 @@
+X: 4072
+T: Wat zag ik ginds van verre Een heel mooi mei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 3040608181
+%%humdrum-veritas-data 3286301489
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ [I:setbarnb 1]|
+Bd/ed/ |
+[M:9/8]B3/B3/-B).('d/ |
+[M:6/8]dd/cB/ |
+A3/-A).('d/ |
+ee/ee/ |
+[M:9/8]d3/g).('f/ e/ d/ e/ |
+[M:6/8]d3/c3/ |
+B3/-B).('d/ |
+ee/ee/ |
+[M:9/8](df/)g).('f/ e/ d/ e/ |
+[M:6/8]d3/A3/ |
+G3/-G) |]

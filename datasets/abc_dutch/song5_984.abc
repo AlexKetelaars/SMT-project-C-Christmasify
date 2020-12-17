@@ -1,0 +1,51 @@
+X: 4983
+T: Zoo in alle wereldoorden ‘t volk weleer niet [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 3710035898
+%%humdrum-veritas-data 1405340692
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C E [I:setbarnb 1]|
+G2G2 |
+A2B2 |
+c4 |
+G2).('G A |
+G> F F F |
+F2).('A G |
+G> E E E |
+E2).('E G |
+c2c2 |
+d2d2 |
+e4 |
+d2).('A d |
+c3c |
+(c B) (A B) |
+c4 |
+z2).('G c |
+c> B B B |
+B2).('B A |
+A> G G G |
+G2).('G G |
+G d G G |
+G z) .('G G |
+G c G G |
+G2).('G c |
+c> B B B |
+B2).('B A |
+A> G G G |
+G2).('G G |
+A2B2 |
+c2d2 |
+(e4 |
+A2)).('A d |
+c3c |
+(c B) (A B) |
+c4- |
+c z) |]

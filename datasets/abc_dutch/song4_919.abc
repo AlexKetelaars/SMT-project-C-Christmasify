@@ -1,0 +1,31 @@
+X: 3918
+T: Mijn waarde vriend ik ben getrouwd Het zal m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 2115360028
+%%humdrum-veritas-data 3683954293
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('DB3/G/ [I:setbarnb 1]|
+D2>F2E3/^C/ |
+D2>).('G2GF |
+[M:2/2]A3D |
+[M:3/2]ED2).('DBG |
+D2>F2ED |
+D2>).('G2FG |
+[M:2/2]A3D |
+[M:3/2]ED2).('DGA |
+B2>D2GA |
+B2>).('A2G/ F/E |
+(DF)A(dc)F |
+G2>).('D2GA |
+B2>D2GA |
+B2>).('A2G/ F/E |
+(DF)A(dc)F |
+G3) |]

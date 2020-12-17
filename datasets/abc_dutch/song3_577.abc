@@ -1,0 +1,31 @@
+X: 2576
+T: Johanna was dienstmeid in het centrum der st [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 170478193
+%%humdrum-veritas-data 2247631363
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B B B d d d |
+c B c A>) .('A A |
+B2B G> F G |
+BA2-A2).('A |
+B B B G G F/ G/ |
+A> G AE2).('B |
+A A A A B ^c |
+ed2-d2).('d |
+c B c A A c |
+B A BG2).('B |
+A> A A F E F |
+G2E-E2).('D |
+G2F/ G/ A G A |
+B G Bd2).('B |
+c B A d< B G |
+A2G-G2) |]

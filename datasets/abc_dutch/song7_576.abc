@@ -1,0 +1,39 @@
+X: 6575
+T: Drij koningen rijk en groot van macht Reisde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 762501514
+%%humdrum-veritas-data 2726224146
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+GGG |
+F2F |
+E2E |
+D3) |
+.('G2G |
+F2F |
+A2A |
+G2z) |
+.('G2A |
+B2A |
+G2F |
+E3) |
+.('GGG |
+F2E |
+GGG |
+F2E) |
+.('G2A |
+B2A |
+G2F |
+E2z) |
+.('D2G |
+F2A |
+(AG)F |
+G2z) |]

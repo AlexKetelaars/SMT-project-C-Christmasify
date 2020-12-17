@@ -1,0 +1,33 @@
+X: 16180
+T: Lustig, Rustig in battalje, Mars, mars, mars [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2729492806
+%%humdrum-veritas-data 802978691
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2G2c2d2 |
+e2f2(g g e f |
+g f e f g f e d |
+e2)c2).('d2d2 |
+d2(c B) (A B) (c d) |
+B2G2).('A2B2 |
+c2d2(e d) (e f) |
+d2d2).('(g f) (e d) |
+(e d) (c B)c4 |
+G4(G A G A |
+B c B c d e d e |
+D E D E D E D E |
+D4)D2z2) |
+.('g2e2c2G2 |
+c2d2d4) |
+(3.('(d e d) (3(d e d)d2e2 |
+e3(d/ c/) (c d c d |
+e f e fg2)).('e2 |
+e3(d/ c/)c4) :|]

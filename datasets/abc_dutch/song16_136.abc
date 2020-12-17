@@ -1,0 +1,30 @@
+X: 15135
+T: Een bedelares zat aan de oevers van de zee
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1133919190
+%%humdrum-veritas-data 1839901191
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G2E F |
+G> G A B |
+c c B A |
+G2z) .('G |
+(F> d) d3/ F/ |
+E G c E |
+D E F E |
+D2z) .('G |
+G2c3/ c/ |
+B2A3/ A/ |
+B2).('c3/ c/ |
+d c B A |
+G A B A |
+G F E D |
+C E G A/ B/ |
+c4) |]

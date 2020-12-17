@@ -1,0 +1,27 @@
+X: 16221
+T: Fillis Lief, kunt gy gedoogen, Dat ik vergee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 3701371980
+%%humdrum-veritas-data 1676038433
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('AA [I:setbarnb 1]|
+d>def |
+dB).('BB/ B/ |
+=c(B/ c<)^GA/ |
+A2).('AB/ c/ |
+d>AA3/G/ |
+F2).('GF |
+EAA3/A/ |
+BB).('ee/ e/ |
+e>fd3/e/ |
+c>).('Ad3/e/ |
+f>ge3/d/ |
+d2) :|]

@@ -1,0 +1,100 @@
+X: 5803
+T: Vreugde schoonst geschenk in ‘t leven Wijk,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 884767856
+%%humdrum-veritas-data 2884044611
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=92
+K: G clef=treble
+.('d2d [I:setbarnb 1]|
+g2g (f e) f |
+(g d) d) .('(d c) c |
+(c B) A (B A) G |
+d2z).('e2e |
+d2d (c B) c |
+(B d) d) .('(g e) c |
+B2B (A B) c |
+B2>).('(g2 e) c |
+B2B (A B) A |
+G2z) ||
+.('z A A [I:setbarnb 11]|
+f2e (d ^c) d |
+^c2A).('c2d |
+e2e (e d) e |
+f2z).('g2g |
+f2f (e d) ^c |
+d2d).('g2g |
+f2f (e d) e |
+d2z).('d2e |
+f2e (d ^c) B |
+A2A).('d2d |
+e2e (e f) e |
+d2z) ||
+.('(g d) B [I:setbarnb 23]|
+G2G (G F) E |
+D2D).('B2A |
+c2Bd2c |
+B2z).('e2e |
+e2e (f e) f |
+g2g).('^c2c |
+d2d^c2c |
+d3) ||
+[K:C] .('z G G [I:setbarnb 31]|
+e2cd2B |
+(c e) c z) .('c e |
+g2ef2d |
+e2z) .('(g e) c |
+(g f) d (g e) c |
+(d B) G z) .('c B |
+A2Bc2d |
+e3) ||
+.('e2c [I:setbarnb 39]|
+f2cg2_B |
+A2A) .('(G A) _B |
+A2A (G A) _B |
+A2z) .('(B A) B |
+(c G) G (B A) B |
+(c G) G).('c2c |
+e3c3 |
+A3^F3 |
+G3-G3- |
+G3) ||
+.('c2d [I:setbarnb 49]|
+e2e (f d) B |
+c2c).('c2d |
+e2e (f d) B |
+c2z).('e2d |
+c2de2d |
+c2c) .('(e d) c |
+(c B) A (A G) ^F |
+G2>).('(G2 ^F) A |
+(G ^F) A (G F) A |
+G2z) ||
+[K:G] .('(d c) B [I:setbarnb 59]|
+(B A) G (A B) c |
+B2B) .('(c d) e |
+d2Bc2A |
+B2z) .('(A B) A |
+F2F (A B) A |
+F2F).('A2A |
+B2B (^c B) c |
+d2z) .('!wedge!d !wedge!d !wedge!d |
+!wedge!d z z !wedge!d !wedge!d !wedge!d |
+!wedge!d z z) .('!wedge!d !wedge!d !wedge!d |
+!wedge!d z z !wedge!d !wedge!d !wedge!d |
+!wedge!d z z) ||
+.('(G D) G [I:setbarnb 71]|
+(E C) E (A E) A |
+(F D) F) .('(B F) B |
+(G E) G (c G) c |
+A2z).('d2c |
+B2AG2F |
+E2E).('c2B |
+A2GF2A |
+G2z) |]

@@ -1,0 +1,27 @@
+X: 9225
+T: Springt op en toon je schoen, Springt op en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 42843162
+%%humdrum-veritas-data 328259053
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('d3 [I:setbarnb 1]|
+B2Bc2c |
+d3).('d3 |
+B2Bc2c |
+d2>-d2 z) .('d |
+[M:12/8]G2AB2cd2dd2d |
+c B A2<G2-G z) .('dd2d |
+d c B c B cd2).('dd2d |
+[M:6/8]d c B c B c |
+[M:9/8]d2z).('G2AB2c |
+[M:6/8]d d d d c d |
+B3A3 |
+G3-G2z) |]

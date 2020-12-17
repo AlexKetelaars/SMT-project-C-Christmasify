@@ -1,0 +1,34 @@
+X: 16953
+T: Canaries
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 1813827456
+%%humdrum-veritas-data 2559992986
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('g> a g [I:setbarnb 1]|
+e> f e c> d e |
+!mordent!!mordent!d> c B) .('c> d e |
+f> g e d> e f |
+!mordent!!mordent!e2e) .('a> g a |
+!mordent!!mordent!^f> e d g> f e |
+d> c B A> B c |
+!mordent!!mordent!B> A G) |
+.('d> d e [I:setbarnb 8]|
+f> f e d> e c |
+B3).('e> f g |
+f> e d c> d B |
+c> B A- A>) .('e f |
+g3-g> d e |
+f3f> c d |
+e3).('e> e B |
+c> d e f> g a |
+d3).('g> f e |
+f> g a !mordent!!mordent!d> c B |
+c3) |]

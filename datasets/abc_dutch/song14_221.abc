@@ -1,0 +1,27 @@
+X: 13220
+T: Een dwalend meisje jong en schoon Ging op ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3804830921
+%%humdrum-veritas-data 1031839532
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: E clef=treble
+.('B2 [I:setbarnb 1]|
+e2>B2 (B A) (G F) |
+E2E2E3G |
+F2>A2G2^A2 |
+B2>z2z2).('(B A) |
+G2G2G2(F G) |
+(A G) (A B)A2(A G) |
+F2F2B3A |
+G F (G A)G2).('B2 |
+e2>B2 (A G) (F E) |
+B4d4 |
+{f}e2>c2 (B A) (G F) |
+{F}E6) :|]

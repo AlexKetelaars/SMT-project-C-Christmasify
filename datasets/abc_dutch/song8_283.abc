@@ -1,0 +1,23 @@
+X: 7282
+T: Die Soudaen hadde een dochterkijn, Sy was vr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 4100735923
+%%humdrum-veritas-data 465371953
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('G2 [I:setbarnb 1]|
+G2> G2 G2 A2 |
+(B3 A/) G/ F2 z) .('B |
+B2> c2 d2 d2 |
+(c> B)A4z) .('A |
+B2> c2 d2 d2 |
+(G3 A/) B/ c2) .('c2 |
+B2 (A G2<) B2 G/ G/ |
+F4G4) |]

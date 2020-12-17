@@ -1,0 +1,32 @@
+X: 5894
+T: Wie leeft in rust, of wie leeft zonder pijn, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1121620676
+%%humdrum-veritas-data 3655252967
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G E G [I:setbarnb 1]|
+c e c d e d |
+c2).('G G A G |
+G A G G A G |
+G2>).('G2 c d |
+e2g f e d |
+c2).('g g f e |
+d e c(B2A) |
+G3z2).('G |
+(G f) dc2G |
+(G f) dc2).('e |
+G2>c2 d B |
+c2>c2 d B |
+c2>).('d2 d d |
+c3B3 |
+g2>).('f2 e d |
+c3B3 |
+c6) |]

@@ -1,0 +1,21 @@
+X: 7362
+T: Dou ‘k jonk was en pronk was, Wat vînt was ik dou!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:37
+%%humdrum-veritas 556242567
+%%humdrum-veritas-data 2965750822
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A F A A F A |
+A B cd2).('A |
+d c B/ B/ A F A |
+A B AF2).('A |
+d c B/ B/ A F A |
+G F ED2) |]

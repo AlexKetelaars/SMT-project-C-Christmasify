@@ -1,0 +1,32 @@
+X: 15134
+T: Ridder Roland
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1853914197
+%%humdrum-veritas-data 1732827911
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('C E G [I:setbarnb 1]|
+c2>G2 ^F G A G |
+E2C2z) .('c c c |
+B2G B d> c B A |
+G3z2) :|]
+.('G A G [I:setbarnb 5]|
+F2>F2 E G c E |
+E2D2z) .('G A G |
+F2>D2 E C G E |
+D3z2).('C E G |
+c2>d2 e> d c B |
+B2A2z) .('d c A |
+G2>A2 B A G F |
+E3z2).('C E G |
+c2>d2 e> d c B |
+B2A2z) .('d d d |
+c2>c2 c B A B |
+c4z) |]

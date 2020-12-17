@@ -1,0 +1,15 @@
+X: 204
+T: Alle ghy knechten des Heeren, Wilt hem nu t' [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3355282714
+%%humdrum-veritas-data 3565812928
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F4F2E2D2C2F4G4A4z4).('A4A2A2G2F2B4A4G4z4).('F4G2A2G2F2D4E4F4z4).('c4A4F4G2B2A4G4D4) |]

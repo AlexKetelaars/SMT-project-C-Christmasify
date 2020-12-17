@@ -1,0 +1,48 @@
+X: 6020
+T: Dan Oboo
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3953239178
+%%humdrum-veritas-data 2678604568
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c [I:setbarnb 1]|
+g2f |
+e2e |
+f2g |
+a>g f/ e/ |
+d2c |
+c2).('c |
+g2f |
+e2e |
+f2g |
+a>g f/ e/ |
+d3) :|]
+.('d2e |
+f2g |
+a>g f/ e/ |
+f2g |
+fed |
+e2).('f |
+ed3/c/ |
+B2c |
+d2e |
+f>e d/ c/ |
+B>AG) |
+.('d2e |
+f2g |
+a>g f/ e/ |
+f2g |
+fe3/d/ |
+e2).('f |
+ed3/c/ |
+c2d |
+ef3/e/ |
+d2c |
+c2) |]

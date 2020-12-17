@@ -1,0 +1,29 @@
+X: 8890
+T: Komt, knapen en meisjes, verheft nu in koor, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 1239873884
+%%humdrum-veritas-data 265231143
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c c c e> f e |
+d A B c z) .('G |
+c> d e A f d |
+c2>B2 z) .('G |
+c c c e> f e |
+d A B c z) .('e |
+d B G e (d/ c/) (B/ A/) |
+d2>G2 z) .('G |
+f e d c B A |
+G A Bc2).('G |
+e> d e c G G |
+f> e fd2).('G |
+c> d e A f d |
+c d Bc2z) |]

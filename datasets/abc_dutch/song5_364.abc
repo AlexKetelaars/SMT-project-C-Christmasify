@@ -1,0 +1,59 @@
+X: 4363
+T: De vastenavond die komt aan We zullen we met [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 2708709510
+%%humdrum-veritas-data 3798566279
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('B [I:setbarnb 1]|
+d2de2e |
+d2dB2).('B |
+d d de2e |
+d d dB2).('B/ B/ |
+d2de2e |
+d3B2).('B |
+d d de2e |
+d3-d2).('B |
+d d de2e |
+d2dB2).('B |
+d2de2e |
+d3-d2).('B |
+d d de2e |
+d2dB2).('B |
+d2de2e |
+d3-d2).('B |
+d2d e e e |
+d3B2).('B |
+d d de2e |
+d3B2).('B/ B/ |
+d2de2e |
+d3B2).('B |
+d d de2e |
+d3B3) |
+.('d2dd2d |
+e2ee2).('e |
+d d dd2d |
+d3B3) |
+.('d2dd2d |
+e e e e) .('e e |
+d2dd2d |
+d3B3) |
+.('c c cc2A |
+c c cc2).('d |
+e2e d d d |
+d d dG3) |
+.('d2d d d d |
+e2ee3) |
+.('d2d/ d/e2d |
+(c B) AG3) |
+.('d2de3 |
+d2de3) |
+.('d2d d d d |
+d2dG2) |]

@@ -1,0 +1,32 @@
+X: 16288
+T: Myn Liefste Klaertje Krynen Waer drempel zal [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 376534144
+%%humdrum-veritas-data 928941526
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('G [I:setbarnb 1]|
+(c d) e (d c) =B |
+c3G2).('A |
+(G F) E (F E) D |
+C2>-C2) .('(c d) |
+(e d) c (B c) A |
+G3e2).('c |
+(B A) G (A G) F |
+E3-E) |
+.('(G A) [I:setbarnb 9]|
+(B c) Be2g |
+g3f2).('g |
+(e d) c=B2c |
+d3-d2).('G |
+(c =B) c (d c) d |
+e3c2).('g |
+(e d) c (d c) =B |
+c3-c) :|]

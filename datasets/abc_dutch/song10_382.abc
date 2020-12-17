@@ -1,0 +1,27 @@
+X: 9381
+T: Komt, vrienden die hier staan in ‘t ronde; A [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 1915381352
+%%humdrum-veritas-data 1180684563
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Ab clef=treble
+.('C F G [I:setbarnb 1]|
+A2GG2F |
+F2E) .('E E E |
+F2FE2E |
+C2>).('C2 F G |
+A2GG2F |
+F2E) .('E E E |
+F2FE2E |
+C2>).('F2 F F |
+C2(F/ G/)A2(B/ A/) |
+AG2).('c A G |
+F2=E/ F/G2A |
+GF2z2z) |]

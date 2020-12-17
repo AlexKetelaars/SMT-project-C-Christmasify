@@ -1,0 +1,29 @@
+X: 10018
+T: Al een, al twee, al drie en al vier, Al vijf [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1127633720
+%%humdrum-veritas-data 2731259035
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A [I:setbarnb 1]|
+A2AA2c |
+c B AG2).('G |
+G2GG2B |
+B A GF2).('A |
+A A AA2c |
+c B AG3) |
+.('d3c3 |
+E3F2).('A |
+A2AA2c |
+c B AG2).('G |
+G2GG2B |
+B A GF3) |
+.('d3c3 |
+E3F3) |]

@@ -1,0 +1,29 @@
+X: 6927
+T: Over een jaar was ik een braaf, een deftig m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 2417282883
+%%humdrum-veritas-data 2081768506
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+(3.('D G B [I:setbarnb 1]|
+d> d d3/ d/ |
+d> d d3/ d/ |
+d2z) .('d |
+e> e d3/ c/ |
+(3B A AG2- |
+G z/) .('G/ (3F F G |
+A> G (3F F G |
+A>) .('G F3/ G/ |
+(3A A A B3/ ^c/ |
+d2z2) |
+.('d2d2 |
+d> e d z/) .('d/ |
+d> c B3/ A/ |
+G2) |]

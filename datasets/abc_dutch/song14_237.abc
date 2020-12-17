@@ -1,0 +1,50 @@
+X: 13236
+T: Pourrois tu croire que mon père À toi qui fa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 620739666
+%%humdrum-veritas-data 2267660029
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c2c B |
+A3c |
+f3d |
+d2c z |
+G G A B |
+B A f c |
+(c B) (B A) |
+(A2{B A} G) z) |
+.('f2e f |
+d3f |
+(g f) (e f) |
+d2c z |
+(d f) (e f) |
+(g> a) (g3/ f/) |
+e2!trill!!trill!d2 |
+!fermata!c2z) .('=B/ _B/ |
+A2A B |
+c2c2 |
+G2A B |
+B2A z |
+B2c d |
+c3c |
+(d c) (B A) |
+A2G z) |
+.('A2A B |
+c2c2 |
+G2A B |
+B2A z |
+F A c f |
+(d B) (A G) |
+F2G2 |
+(^G2A2) |
+(F A) .c .f |
+(f d) (B G) |
+F2E2 |
+{G}F2z2) |]

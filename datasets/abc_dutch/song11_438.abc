@@ -1,0 +1,38 @@
+X: 10437
+T: ‘k Sou daar ‘n magertjie al vroeg op straat, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 211256330
+%%humdrum-veritas-data 1301957417
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A2FA |
+d(B/> F/) (A/ F//) z//G |
+(F3/A// G//)G2 |
+(F// G// F/-F2)z) |
+.('(A>B)ce |
+[M:5/4]e(dc// d// e// d//)cB |
+[M:4/4]c>EB3/E/ |
+A3z/) .('A/ |
+d2(dF/ A/) |
+d2cB |
+[M:7/8](A3/A// F// A//> G// A/ G/) |
+[M:4/4]F2-F/ z/).('D |
+(GF)GA |
+dBAG |
+F2-(F// A//G3/) |
+F2z3/).('A/ |
+d2(dF/ A/) |
+d2cB |
+[M:7/8](A3/A// F// A//> G// A/ G/) |
+[M:4/4]F2-F/ z/).('D |
+(GF)GA |
+dBAG |
+(F2E// F//E3/) |
+D2z2) |]

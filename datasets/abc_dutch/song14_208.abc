@@ -1,0 +1,43 @@
+X: 13207
+T: Colinett au Bois s’en alla Sautillant par ci [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3555418827
+%%humdrum-veritas-data 465158938
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 (A B) [I:setbarnb 1]|
+c2 c2 (d c) d e |
+c4(G A) (B G) |
+c2 c2 (d c) (d e) |
+c2 c2) .('d c d e |
+c2> e2 d c d e |
+e2 z2 c2 e c |
+A2 A2 (G A) (G F) |
+{F}E4).('c2 e c |
+A2 A2 (G A) (G F) |
+E2 c2 c B c d |
+e2 e2 e d e f |
+!fermata!g4).('g2 f e |
+d2 d2 d2 g2 |
+e4g2 f e |
+d2 d2 d2 {^f} g2 |
+e4z4) |
+.('c2 c c c2 B2 |
+{B}A4G2 z2 |
+G A B G c2 c2 |
+c2 c2 d c B A) |
+.('G A B G c2 c2 |
+c2 c2 d c B A |
+G2 z2 c2 c c |
+e4g4 |
+(f2 e2) d2 c2 |
+B2 G2 g2 f e |
+f4d4 |
+c2 z2) |]

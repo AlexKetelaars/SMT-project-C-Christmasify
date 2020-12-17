@@ -1,0 +1,32 @@
+X: 6083
+T: Oud Harlem
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3591606648
+%%humdrum-veritas-data 2076193921
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('D2 [I:setbarnb 1]|
+D2E2D E F G |
+A2A,2A,2).('A2 |
+d2d e f e d c |
+B2B2B2).('c d |
+e2e2e2f e |
+d2c Bc2).('B A |
+^G2A B c A B G |
+A6) :|]
+.('f g [I:setbarnb 9]|
+a2a2a2g f |
+g2g2g2).('f e |
+^d2e f g e f d |
+e2E2E2).('e f |
+g2g2g2f e |
+f2f2f2).('e d |
+c2d e f d e c |
+d4) |]

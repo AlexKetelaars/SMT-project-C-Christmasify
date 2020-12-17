@@ -1,0 +1,46 @@
+X: 16761
+T: La Bibi
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3029572285
+%%humdrum-veritas-data 3871686153
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c> d c3/ G/ |
+c> de2 |
+g> a g3/ f/ |
+e> d c3/ G/ |
+c d c G |
+c de2 |
+g> a g3/ f/ |
+e d!fermata!c2) |
+.('G> A G3/ g/ |
+g> ff2 |
+G A G f |
+f ee2 |
+c> d c3/ a/ |
+a> gg2 |
+e> c B3/ c/ |
+G> B!fermata!c2) |
+[K:Eb] .('e// d// c3/ c3/ G/ |
+e// d// c3/c2 |
+G> A G3/ F/ |
+E> D E3/ C/) |
+.('e// d// c3/ c3/ G/ |
+e// d// c3/c2 |
+G> A G3/ F/ |
+E> D!fermata!C2) |
+[K:C] .('G> BB2 |
+G> gg2 |
+G> A G3/ g/ |
+f> ed2 |
+c> d c3/ a/ |
+a> gg2 |
+e> c B3/ c/ |
+G> Bc2) |]

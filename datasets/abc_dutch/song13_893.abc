@@ -1,0 +1,27 @@
+X: 12892
+T: ô Hemel ik bespeur dat ik niet meer zal leven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 1412163611
+%%humdrum-veritas-data 188029366
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=bass
+.('F, [I:setbarnb 1]|
+D,2A,2 |
+D2D,2 |
+A,2C,2 |
+D, D, z) :|]
+.('z [I:setbarnb 5]|
+G,2G,2 |
+F,2G,2 |
+^G,2A,2) |
+.('G,> E, F,3/ C,/ |
+D,> E, F,3/ E,/ |
+.D, G, A, A, |
+D,2) |]

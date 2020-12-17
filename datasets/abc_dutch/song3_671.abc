@@ -1,0 +1,35 @@
+X: 2670
+T: Komt vrienden luister naar dit lied hetgeen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 922458580
+%%humdrum-veritas-data 1375933935
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GF2E |
+E2DD2).('D |
+E E CB,2C |
+D3D2).('D |
+G2G (G F) G |
+A2BA2).('G |
+F2FG2E |
+E3D2).('D |
+D2BG2B |
+A3-A2).('A |
+(G2B)G2B |
+A3-A2).('A |
+d2GF2G |
+E3E2).('E |
+A A BA2G |
+F F ED2).('D |
+D2cB2c |
+G3F2).('G |
+A2AE2F |
+G3z2) |]

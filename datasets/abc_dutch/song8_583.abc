@@ -1,0 +1,28 @@
+X: 7582
+T: Ik leg gestadig
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 370119092
+%%humdrum-veritas-data 1339440729
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A A A [I:setbarnb 1]|
+!trill!!trill!d2>c2 d e |
+f2f2f g |
+!trill!!trill!f2>g2 f e |
+d2d2).('c d |
+e2f2g f |
+e3) |
+.('e f g [I:setbarnb 7]|
+a2a2g f |
+g2g2f e |
+f2f a g f |
+e2e2).('d e |
+f2g f e f |
+d4) :|]

@@ -1,0 +1,20 @@
+X: 4054
+T: Jan je moet naar huis gaan want je vrouw die [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 3642264069
+%%humdrum-veritas-data 3074611125
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2> A2 B c d2 B2) .('d d |
+c2 A2 d2G4).('G3/ G/ |
+e4e> e d c B2) .('d d |
+d2 c2 c c e2 d2) .('G G |
+e4e> e d c B2) .('d d |
+d2 e2 f2g6) |]

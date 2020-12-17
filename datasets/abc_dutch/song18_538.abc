@@ -1,0 +1,32 @@
+X: 17537
+T: Blaeuw blommetjes in t'kooren staen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 4104996932
+%%humdrum-veritas-data 1157501837
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('G [I:setbarnb 1]|
+G2AB2c |
+d> c dG2d |
+d2cd2=e |
+f> =e fc2).('f |
+f> =e f d> e f |
+g3a> g f |
+=e> f d e> d ^c |
+d3d2) |
+.('=e [I:setbarnb 9]|
+f> =e f d> e f |
+g2gd2g |
+f> e d e> d c |
+d2dB2).('B |
+c2d e> d c |
+d3c> d B |
+A> B G A> G ^F |
+G3G2) :|]

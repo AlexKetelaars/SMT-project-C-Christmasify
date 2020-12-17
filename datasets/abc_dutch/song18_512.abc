@@ -1,0 +1,46 @@
+X: 17511
+T: [wijsaanduiding ontbreekt]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 550013200
+%%humdrum-veritas-data 965126348
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=66
+K: F clef=treble
+.('f2g2 |
+a>bag |
+fgaf |
+g/ f/ g/ a/g).('c |
+f2g2 |
+a>bag |
+f/ e/ f/ g<gf/ |
+f2x2) |
+.('a2b2 |
+c'>d'c'b |
+abc'b/ a/ |
+g/ f/ g/ a/g).('g |
+(a>b)(b3/b// c'//) |
+c'>d'c'b |
+abc'b/ a/ |
+g3).('c |
+f2g2 |
+a>bag |
+fgaf |
+g/ f/ g/ a/g).('c |
+f2g2 |
+a>bag |
+f/ e/ f/ g<gf/ |
+f2x2) |
+.('cA/ B/cf |
+cA/ B/cf |
+cA/ B/cf |
+e3).('f |
+ge/ f/gc' |
+ge/ f/gc' |
+gf/ e<dc/ |
+c2) |]

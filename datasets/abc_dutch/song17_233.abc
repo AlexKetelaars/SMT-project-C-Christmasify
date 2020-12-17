@@ -1,0 +1,34 @@
+X: 16232
+T: Nu leer ik dat die minnen, Beneveld zyn van zinnen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2953839538
+%%humdrum-veritas-data 2689015027
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('z6 |
+z2z2z d |
+G2>g2 f _e |
+d3d2).('c |
+(B c) B (A B) G |
+^F3D2).('A |
+(B c) B (A B) G |
+d2>z2 z) .('e |
+(f g) f (e f) d |
+(^c d) eA2).('e |
+(f e) d^c2d |
+d2>z2 z) .('d |
+G2cc2=B |
+c2>z2 z) .('d |
+(_e d) c (B A) G |
+^F3).('_e3 |
+(d c) B (A G) ^F |
+G3).('g3 |
+(f e) dA2^c |
+d2>z2 z) :|]

@@ -1,0 +1,28 @@
+X: 10900
+T: Dag, vriendetjes! dag, vriendetjes! ‘t En is [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 3366704286
+%%humdrum-veritas-data 4283054156
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c [I:setbarnb 1]|
+c> B A c |
+c> B A) .('c |
+c c f f |
+c A c B |
+c2A) .('c |
+A> c c3/ A/ |
+c/ c/ c c) .('c |
+d c =B c |
+A2A z/) .('B/ |
+A> G F3/ G/ |
+A/ A/ B c c/) .('d/ |
+c> B A3/ G/ |
+(A> G)F2) |]

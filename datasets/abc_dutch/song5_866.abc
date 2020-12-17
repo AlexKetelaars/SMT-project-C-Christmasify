@@ -1,0 +1,27 @@
+X: 4865
+T: In Sappemeer daar woont een meisje Zij was n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 3251229464
+%%humdrum-veritas-data 3380409669
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('B/BA/ [I:setbarnb 1]|
+G3/G3/AA/ |
+(Bd<)d).('ee/ |
+d3/-dc/Ac/ |
+B2>).('d2g/ |
+f3/e3/gf/ |
+e3/d3/).('Be/ |
+d3/-dc/Ac/ |
+B2>).('d2g/ |
+f3/e3/gf/ |
+e3/d3/).('Be/ |
+d3/-dc/AB/ |
+G3/-G) |]

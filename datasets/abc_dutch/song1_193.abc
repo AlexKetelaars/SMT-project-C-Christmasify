@@ -1,0 +1,15 @@
+X: 193
+T: Tot u Heer myn ooghen heff' ick altydt, Die  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1795410164
+%%humdrum-veritas-data 4211881623
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A4F4G4A2A2G2F2A4B4c2).('A2A2G4F4E2F4z4).('F4F2G2A2A2c2B2A4G4F4E2).('F2G2A2B4A4G4F4z4).('A4A2B2c4B4A2G2F2G2A4G2).('B2A2G2F2E2D4C4z4).('F4A2B2c4c4A2A2F4G4A2).('A2G2B2A4G4F4) |]

@@ -1,0 +1,26 @@
+X: 13059
+T: Stille Nacht heilige nacht ‘t Kindje slaapt  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:30
+%%humdrum-veritas 3491991430
+%%humdrum-veritas-data 745677623
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('(G> A) GE3 |
+G> A GE3) |
+.('d2dB3 |
+c2cG3) |
+.('A2A c> B A |
+(G> A) GE3) |
+.('A A A c> B A |
+G> A GE3) |
+.('d2d f> d B |
+(c3e3)) |
+.('(c> G) E G> F D |
+C3-C2z) |]

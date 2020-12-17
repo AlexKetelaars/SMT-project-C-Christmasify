@@ -1,0 +1,39 @@
+X: 4794
+T: Ik zaaide mien zoad al over de stroat Ik wai [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 2928258409
+%%humdrum-veritas-data 1317555311
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+A A AG2B |
+A B AG2).('D |
+A2A B B B |
+A2AG3) |
+.('A2A B B B |
+A2AG3) |
+.('A2AB2B |
+A B AG3) |
+.('A2AB2B |
+A B AG2D) |
+.('A2AB3 |
+[M:9/8]A2AG2D).('B2B |
+[M:6/8]A3G2B/ B/ |
+A2AG2).('D |
+A2A B B B |
+A2AG2).('D |
+A2A B B B |
+A3G2).('D |
+A2AB2B |
+A3G2).('D |
+c2c c c c |
+B2BB2).('B |
+A2G A A B |
+A3G2) |]

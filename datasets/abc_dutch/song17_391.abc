@@ -1,0 +1,51 @@
+X: 16390
+T: De mag’re Gierigaart syn Gelt en kost bespaart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 2758591841
+%%humdrum-veritas-data 1451500456
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('GB3/c/ |
+d>dd) |
+.('GG3/G/ |
+F>ED) |
+.('GBd |
+e2A |
+(B/ c/A2) |
+G3) |
+.('eBe |
+(ed)d |
+d2^c |
+d3) |
+.('GGB |
+E2A |
+F2d |
+B2G |
+(d>c B/ A/ |
+G>F G/ A/ |
+F2)F) |
+.('dBG |
+E2E |
+F2(F/ G/) |
+G3 |
+zz).('d |
+(d^c)c |
+(dA)A |
+(B/ c/ B/ A/ G/ F/ |
+G>c B/ A/ |
+B2)(A/ G/) |
+G3 |
+zz).('d |
+(d^c)c |
+(dA)A |
+(B/ c/ B/ A/ G/ F/ |
+E>c B/ A/ |
+B2)(A/ G/) |
+G3) :|]

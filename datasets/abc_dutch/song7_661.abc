@@ -1,0 +1,35 @@
+X: 6660
+T: Wij, vrije jagers van van Dam! Hoerah! Hoera [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 4186859018
+%%humdrum-veritas-data 3286307630
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('A [I:setbarnb 1]|
+E> E E A |
+F> F F) .('A |
+G> A B3/ G/ |
+A2z) .('A |
+E> E E A |
+F> F F) .('A |
+G> A B3/ G/ |
+A2z) .('A |
+G> A B G |
+A> B c) .('A |
+G> A B G |
+A> B c) .('E |
+A> G F E |
+F2d3/) .('d/ |
+c> c B3/ B/ |
+A2z) .('E |
+A> G F E |
+F2d3/) .('d/ |
+c> c B3/ B/ |
+A2z) |]

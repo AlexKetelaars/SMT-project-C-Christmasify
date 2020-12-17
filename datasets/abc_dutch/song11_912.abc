@@ -1,0 +1,33 @@
+X: 10911
+T: Maar Plompaard en zen wijvetje, Ze zijn vroe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 316745127
+%%humdrum-veritas-data 2926729388
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F/ [I:setbarnb 1]|
+AA/AG/ |
+FF/F).('G/ |
+AA/BB/ |
+c3/-c).('B/ |
+AA/AG/ |
+FF/F).('G/ |
+AA/BB/ |
+!fermata!c3/).('c3/ |
+BA/Bc/ |
+d3/d3/) |
+.('c/ c/ B/ A/> B/ A/ |
+G>-G z/) .('G/ |
+AB/AB/ |
+c3/c).('B/ |
+AA/GG/ |
+Fz/).('c3/ |
+AA/GG/ |
+F3/zz/) |]

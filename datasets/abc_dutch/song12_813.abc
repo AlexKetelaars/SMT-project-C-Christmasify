@@ -1,0 +1,28 @@
+X: 11812
+T: Boeree
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 126674544
+%%humdrum-veritas-data 1347555301
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d [I:setbarnb 1]|
+g>ba3/g/ |
+^f2d3/)-.('d/ |
+_e>dc3/f/ |
+d2B) :|]
+.('B [I:setbarnb 5]|
+A>Bc3/d/ |
+B>AG).('d |
+e>fg3/f/ |
+e2d).('B |
+A>Bc3/d/ |
+B>(AG)).('d |
+egg3/^f/ |
+g2) |]

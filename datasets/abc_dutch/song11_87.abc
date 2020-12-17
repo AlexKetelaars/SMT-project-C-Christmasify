@@ -1,0 +1,36 @@
+X: 10086
+T: Verheugt u, menschen al! Stelt allen druk te [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 898614429
+%%humdrum-veritas-data 3666816731
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Eb clef=treble
+.('E2B,E |
+GED).('F |
+AF(E/ D/) (C/ D/) |
+E2B,z) |
+.('G2EG |
+B(A/ G/)F).('B |
+(A/ G/) (F/ E/)DC |
+B,2z).('E |
+FEFG |
+F2).('B2 |
+AGFE |
+G2Fz) |
+.('E2B,E |
+GED).('F |
+AF(E/ F/) (G/ A/) |
+B2A2 |
+G).('Bc(B/ A/) |
+G2F2 |
+GGAA |
+B).('Bc(B/ A/) |
+G2F2 |
+E2z2) |]

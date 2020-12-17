@@ -1,0 +1,35 @@
+X: 9659
+T: Wagen dat is, Hier is de vogel en daar is de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 825288185
+%%humdrum-veritas-data 3855520895
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('!fermata!F2>E2 D C |
+C D E F F F |
+F E DC3) |
+.('B/ B/ B/ B/ B A A A |
+A3G3 |
+F2>z2) .('F A |
+c3-c3 |
+F2>z2 F A |
+c3-c3 |
+F3z2z) ||
+.('(C D) EF2F [I:setbarnb 12]|
+(F A) GF3) |
+.('G2AG2F |
+E2DE2C) |
+.('(C D) EF2F |
+(F A) GF3) |
+.('G2AG2F |
+E2DC3) ||
+[M:2/4].('F F F F/ F/ [I:setbarnb 20]|
+F AF2) ||
+[M:6/8].('F2>E2 D C) |]

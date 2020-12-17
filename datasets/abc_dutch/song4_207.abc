@@ -1,0 +1,25 @@
+X: 3206
+T: Hoe zouden wij de lof niet zingen [Van onze  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 3660730244
+%%humdrum-veritas-data 4119901772
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D E F [I:setbarnb 1]|
+G2G2D2A2 |
+[M:3/4]D2D>) .('D E D |
+[M:4/4]D2C2(C E) (D C) |
+[M:3/4]B,2>).('D2 E F |
+[M:2/4]G> B, B, E |
+D>) .('C B, C |
+[M:4/4]D2D2G2A2 |
+[M:3/4]B2>).('A2 G E |
+[M:4/4]D2G2A2F2 |
+G4z) |]

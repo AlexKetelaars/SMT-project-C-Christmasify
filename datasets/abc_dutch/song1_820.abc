@@ -1,0 +1,27 @@
+X: 820
+T: En daar was er een jager uit jagen gegaan en [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 891572104
+%%humdrum-veritas-data 986086320
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C/ C/ [I:setbarnb 1]|
+A G A F F C |
+A G AF2).('F/ F/ |
+G2G c B G |
+F2>-F2 z) .('A/ B/ |
+c2A A d c |
+c3B2).('G/ A/ |
+B2G G c B |
+B3A2).('c/ c/ |
+c B A A G F |
+G F Gd2).('B/ G/ |
+F A c c B G |
+F3z2z) |]

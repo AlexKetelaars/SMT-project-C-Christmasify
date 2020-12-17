@@ -1,0 +1,30 @@
+X: 9796
+T: In Den Haag ligt een dragonder, Een dragonde [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 3524367119
+%%humdrum-veritas-data 166461453
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('E2EF2F |
+G2AF2F) |
+.('G2AF2F |
+E2ED3) |
+.('D2EF2F |
+G2AF2F) |
+.('G2A/ A/F2F/ F/ |
+E2ED3) |
+.('D D DB3 |
+B B BA3) |
+.('B2AG2E |
+A2AF3) |
+.('D D DB3 |
+B B BA3) |
+.('B2AG2E |
+A2AD3) |]

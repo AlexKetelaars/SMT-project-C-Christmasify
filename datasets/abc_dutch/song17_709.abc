@@ -1,0 +1,54 @@
+X: 16708
+T: Vrolijcke vogeltjes die sonder kommer singen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3074290578
+%%humdrum-veritas-data 23934425
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c>de |
+f>fg |
+aa3/b/ |
+g2g) |
+.('c>de |
+f>fg |
+a3/ag/ |
+g3) |
+.('c>de |
+f>fg |
+aa3/b/ |
+g2g) |
+.('c>de |
+f>fg |
+aa3/g/ |
+g3) |
+.('g>ga |
+b3 |
+a>ba |
+gaf |
+e>(dc)) |
+.('g>ga |
+b3 |
+a>ba |
+gaf |
+ge).('a |
+gg3/f/ |
+f3 |
+g>ga |
+b3 |
+a>ba |
+g>af |
+e>(dc)) |
+.('gg3/a/ |
+b3 |
+a>ba |
+gaf |
+ge).('a |
+gg3/f/ |
+f3) :|]

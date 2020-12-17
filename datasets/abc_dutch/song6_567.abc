@@ -1,0 +1,30 @@
+X: 5566
+T: Mijn lief, mijn schoon Bellotje, ‘k heb u zo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2150350703
+%%humdrum-veritas-data 3708984148
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('e2e e |
+e d c c |
+e2e c |
+e dc2) |
+.('e2e f |
+e d c c |
+e2e c |
+e dc2) |
+.('B B B c |
+c de2 |
+e e f e |
+d cB2) |
+.('B c d c |
+d e f e |
+e e f e |
+c BA2) |]

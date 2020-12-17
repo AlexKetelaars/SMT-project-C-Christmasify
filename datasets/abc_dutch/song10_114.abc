@@ -1,0 +1,47 @@
+X: 9113
+T: Wij gaan onzen boer halen, zoete lieve gareltjes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 425663379
+%%humdrum-veritas-data 1370216320
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F G A B |
+c2c2 |
+d> e f d |
+d cc2) |
+.('B B B B |
+A2A2 |
+G> G G G |
+F2z) .('C |
+F> G A B |
+c2c2 |
+d> e f d |
+d c c) .('c |
+B B B B |
+A2A2 |
+G> G G G |
+F2z) .('C |
+F G A B |
+c2A c |
+B2G d |
+d2c) .('C |
+F G A B |
+c2A c |
+d c B G |
+F2z) .('C |
+F G A B |
+c2A c |
+B2G d |
+d2c) .('C |
+F G A B |
+c2A c |
+d c B G |
+F3z) |]

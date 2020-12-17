@@ -1,0 +1,32 @@
+X: 12008
+T: Balett Agricola
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 3235569366
+%%humdrum-veritas-data 531454755
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('B c [I:setbarnb 1]|
+d2>d2c3c |
+B2>B2A2A B |
+c2F2F3=E |
+F4x2).('B c |
+d2>d2c4 |
+B c d e2<f2e |
+g f e d2<c2B |
+B4x2) |
+.('e2 [I:setbarnb 9]|
+c2A2A3A |
+G2E4x) .('f |
+g2>a2g3f |
+f4x2z f |
+g2>a2b3b |
+a b a gf2z e |
+g2c2c3B |
+B6) :|]

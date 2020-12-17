@@ -1,0 +1,59 @@
+X: 17041
+T: La chasse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 420218072
+%%humdrum-veritas-data 1543612850
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('z g g g e e |
+c g g g e e |
+c c e e g g |
+e e c c G G |
+c c e e g g |
+e e c c G G |
+c c c c c c |
+c6 |
+c c c c c c |
+c4).('z2 |
+z g f e d c |
+B2 d2 d2 |
+e2 e2 e2 |
+d2 d2 d2 |
+e2 e2 e2 |
+d4d2) |
+.('z d d d B B |
+G d d d B B |
+G g g g d d |
+G g g g d d |
+B B G G d d |
+d6 |
+B B G G d d |
+d4).('z2 |
+z2 z2 z c |
+B A B c d B |
+e2 c2 c2 |
+c2 c2 c2 |
+c2 c2 c2 |
+c2> c2 c2) |
+.('G G G G c c |
+e e c c G G |
+g g e e c c |
+g g e e c c |
+G G G G G G |
+G6) |
+.('G G G G G G |
+G G G G c c |
+e e c c g g |
+e e c c g g |
+e e c c G G |
+c c c c c c |
+c4G G |
+c c c c c c |
+c4z2) |]

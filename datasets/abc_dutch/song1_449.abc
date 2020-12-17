@@ -1,0 +1,46 @@
+X: 449
+T: Psalm 15
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1577623092
+%%humdrum-veritas-data 3883709290
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c2C2 |
+cFcE |
+dD).('de |
+fDdf |
+e^ceA |
+d4) |
+.('d_BGd |
+ecfd |
+g).('E/ F/Gf/ e/ |
+d).('F/ E/Dd/ e/ |
+f).('D/ E/Fg/ f/ |
+ede/ A/ B/ ^c/ |
+d4) |
+.('dG_BG |
+d_BGd) |
+.('cFAF |
+cAF).('c |
+dGec |
+f4) |
+.('acfa |
+gcfg |
+e).('Gce |
+dGde |
+f).('Adf |
+e4) |
+.('geag |
+fed).('g/ f/ |
+eGce |
+d).('e/ f/gf |
+ecfe |
+dcd/ G/ A/ B/ |
+c4) |]

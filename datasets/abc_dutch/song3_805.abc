@@ -1,0 +1,22 @@
+X: 2804
+T: Piere piere pouwe Meissies en jongens gaan t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 843484298
+%%humdrum-veritas-data 1597026101
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2de2e |
+d3B3) |
+.('d d d e e e |
+d3B3) |
+.('c2c c c G |
+d d dd2).('d |
+g g dc2B |
+A3G3) |]

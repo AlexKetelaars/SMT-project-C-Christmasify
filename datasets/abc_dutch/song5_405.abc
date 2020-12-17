@@ -1,0 +1,40 @@
+X: 4404
+T: De dag dat ik geboren werd En ik ter wereld kwam.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 2274960611
+%%humdrum-veritas-data 864762009
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GG2G |
+G2GD2).('D |
+G2F G3/ A3/ |
+B3).('d3 |
+G2GG2F |
+E3c3) |
+.('B2GA2F |
+G3-G2).('D |
+G2GG2G |
+G3).('D3/ D3/ |
+G2G/ G< G A3/ |
+B3).('d3 |
+G2GG2F |
+[M:2/4]E E/ E/ E) .('c/ c/ |
+B G A F |
+G3).('D/ D/ |
+G G/ G/ G G |
+G3).('D |
+G G/ G/ G A |
+B2).('d2 |
+G G/ G/ G F |
+E E) .('E c |
+B B A A |
+G2).('D2 |
+[M:6/8]G3-G2) |]

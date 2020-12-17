@@ -1,0 +1,39 @@
+X: 11119
+T: Zeg Oogjes die door uw volmaakte straalen, E [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 3298602954
+%%humdrum-veritas-data 1763273320
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('def |
+e>dc |
+dA(_B/ A/) |
+G2F) |
+.('ccA |
+d>ef |
+FG3/A/ |
+A3) |
+.('def |
+e>dc |
+dA(_B/ A/) |
+G2F) |
+.('ccA |
+d>ef |
+FG3/A/ |
+A3) |
+.('AA3/A/ |
+_BG2 |
+cd3/d/ |
+e^c2) |
+.('def |
+f>ee |
+zB^c |
+dd3/^c/ |
+d3) |]

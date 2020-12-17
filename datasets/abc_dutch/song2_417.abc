@@ -1,0 +1,46 @@
+X: 1416
+T: Een jonge speelman gaat met vlugge schreden  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 420464769
+%%humdrum-veritas-data 1973572198
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('BB3/B/ [I:setbarnb 1]|
+B2-BB |
+BBA3/G/ |
+G2F2 |
+z).('DFA |
+d3B |
+G>GA3/A/ |
+B3z |
+z).('BBB |
+e3e |
+eed3/c/ |
+c2B2 |
+z).('d^cB |
+FF^EF |
+d^cB2 |
+z).('Bc3/B/ |
+A3^G |
+ABcd |
+e2d2 |
+z).('BAG |
+F3F |
+G>GAd |
+A3z |
+z).('BAG |
+d3d |
+^cde3/d/ |
+(d_d)c2 |
+z).('DEG |
+d3D |
+EAFd |
+G4- |
+G) |]

@@ -1,0 +1,31 @@
+X: 2982
+T: Zeg vrienden die hier staan in het ronde Ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 2469587663
+%%humdrum-veritas-data 2564477082
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2FG2F |
+G G AB2G) |
+.('B2cd2G |
+F2E E D) .('D |
+G2FG2F |
+G G AB2G) |
+.('B2cd2G |
+F2E ED2) |
+.('c2cc2c |
+c2de3) |
+.('d c B B A G |
+G2Bd2).('d |
+c2BA2G |
+F2GA3) |
+.('G G B/ d/ d d d |
+c2AG2) |]

@@ -1,0 +1,37 @@
+X: 545
+T: Datio 14
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3819371959
+%%humdrum-veritas-data 1339395767
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/2
+Q: 1/2=60
+K: Bb clef=treble
+.('B2B cd2B2f3b |
+a2>g2f2d2g f e d |
+e2>d2c2d2B3A |
+A6z) .('c2<f2e |
+d4z x c/ d/ e/ f/g3f |
+e2>f2g2a4-a f |
+b6z aa4- |
+a2>g2g6z a |
+f6z g2<g2f |
+f8x4) |
+.('c2c de2e fg2f e |
+d2>d2g2>a2a3g |
+^f3).('d/ d/d2d2A2d2 |
+=B3g/ g/g2g2d2g2 |
+=e3c/ c/c2c2G2c2 |
+A3f/ f/f2f2c2f2 |
+d3b/ b/b2b2f2b2 |
+g2).('g fe2e dc2c B |
+A4f2f ed2d c |
+B2B AG4).('e2e d |
+d4f2f ed4 |
+b2b a g f e d2<c2B |
+B8x4) |]

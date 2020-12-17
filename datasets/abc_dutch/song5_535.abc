@@ -1,0 +1,26 @@
+X: 4534
+T: En ik ben d’r mee m’n lieveke naar Dommelen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 2385794012
+%%humdrum-veritas-data 4015058689
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ d/ [I:setbarnb 1]|
+d d B d g g g d |
+f f e ed4) |
+.('d2e d e d c B |
+B4A3).('d/ d/ |
+d d B d g g g d |
+f f e ed4) |
+.('d2e d e d e f |
+a4g4) |
+.('b2a g f e f a |
+(g4f4) |
+g6z) |]

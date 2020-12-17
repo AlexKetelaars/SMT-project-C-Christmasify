@@ -1,0 +1,31 @@
+X: 10935
+T: Den uil die op den peerboom zat: En boven zi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 2379033663
+%%humdrum-veritas-data 2389532006
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C2 [I:setbarnb 1]|
+F FF2 |
+G2A G |
+!fermata!F2z) .('G |
+A> GA2 |
+B2c3/ B/ |
+!fermata!A2z) .('A |
+(3c c c c3/ c/ |
+(3B B B B3/) .('B/ |
+(3A A A c3/ A/ |
+(3G G G !fermata!G3/) .('A/ |
+(3c c c c3/ c/ |
+(3B B B B3/) .('B/ |
+c2B2 |
+A2z A |
+A2G2 |
+F2z2) |]

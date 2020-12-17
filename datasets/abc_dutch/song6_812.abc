@@ -1,0 +1,33 @@
+X: 5811
+T: Bijna verscholen onder ‘t riet Staat eenzaam [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 430849769
+%%humdrum-veritas-data 3223316882
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=76
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2cc2^c |
+d2BG2).('G |
+e2ef2e |
+d2de2).('d |
+c2cd2d |
+e2>-e2 z) .('c |
+d2cd2e |
+c3z2).('B |
+B2BB2B |
+c2cc2).('c |
+d2B (G A) B |
+(c d) e (f g)) .('a |
+g2g (g ^f) =f |
+e2>-e2 z) .('e |
+f2ef2g |
+e2>-e2 z) .('c |
+d2^cd2e |
+c2zz2) |]

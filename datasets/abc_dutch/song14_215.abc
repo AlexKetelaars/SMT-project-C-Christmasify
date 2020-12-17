@@ -1,0 +1,35 @@
+X: 13214
+T: Je suis né natif de Ferrare La par les soin  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 1415184059
+%%humdrum-veritas-data 3063498527
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('FB2B [I:setbarnb 1]|
+B2Bc2f |
+d B FB2B |
+B2Bc2f |
+d B) .('dc2d |
+c2dc2f |
+{d/}c3c2c |
+c d B (A B) G |
+A3).('c2c |
+c d B (A B) G |
+!fermata!F2f=B2B |
+c2cd2d |
+e d cA2).('A |
+B2Bc2c |
+d B f=e2f |
+e2fd2f |
+{d/}c3).('B2B |
+B A G (F G) =E |
+F3d2d |
+d e f (B c) A |
+B2) |]

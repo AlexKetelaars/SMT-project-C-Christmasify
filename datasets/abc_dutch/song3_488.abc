@@ -1,0 +1,39 @@
+X: 2487
+T: Wat leidt de liefde in ’s werelds plein Wat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 3718354282
+%%humdrum-veritas-data 2498903246
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('e/ [I:setbarnb 1]|
+dG/GF/AG/ |
+c3/-c).('d/dc/ |
+BA/GD/EF/ |
+G3/-G).('d/eB/ |
+d3/-dd/eB/ |
+d3/-d).('g/fe/ |
+(e3/d3/)-d).('f/ |
+gB/Bc/de/ |
+d3/-d).('a/gf/ |
+g3/).('B3/dG/ |
+[M:6/8]G3/-GA/ |
+AG/Ad/ |
+B3/G3/) |
+.('d>(B A/) G/ |
+c3/-cA/ |
+FG/cB/ |
+A).('B/cB/ |
+c3/-cA/ |
+BA/Ge/ |
+e3/d3/- |
+d).('G/GB/ |
+d3/-dB/ |
+AD/BA/ |
+G3/-G) |]

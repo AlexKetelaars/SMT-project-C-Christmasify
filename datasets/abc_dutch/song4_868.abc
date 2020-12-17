@@ -1,0 +1,28 @@
+X: 3867
+T: Van Losbroek vaart ten oorlog van je sjoemel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 412739680
+%%humdrum-veritas-data 1243302503
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+gdBd |
+G2G).('A/ B/ |
+(3c/ c/ c/ c/> c/cB3// c// |
+(3e/ e/ e/ d/> ^c/d).('d |
+gdBd |
+G2G).('g |
+agfe |
+(dcB)).('g |
+gggg |
+(bgd2) |
+z).('aac' |
+b2a2 |
+g3) |]

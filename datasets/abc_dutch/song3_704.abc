@@ -1,0 +1,46 @@
+X: 2703
+T: Mijn lief is een mooi matroosje Vol moed en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 1178666266
+%%humdrum-veritas-data 510774242
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GG/ G/BB |
+dd2).('d |
+dded |
+c3).('G |
+AGFG |
+AG2).('G/ G/ |
+AGFG |
+d3).('A |
+BGAG |
+DD2).('B |
+BGAG |
+D3).('d |
+dAA3/B/ |
+cGG3/).('B/ |
+A>EFD |
+G4) |
+.('B2dd |
+G3G |
+G>GA3/G/ |
+F3).('B |
+c2f2 |
+e3c |
+AAAA |
+B4) |
+.('d2d3/e/ |
+f3c |
+A>AAc |
+e3).('g |
+f3e |
+ddcF |
+G3) |]

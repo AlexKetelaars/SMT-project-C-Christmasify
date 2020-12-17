@@ -1,0 +1,16 @@
+X: 613
+T: O Heer doe ghi ons hier verliet Wareen [!] w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 2433047550
+%%humdrum-veritas-data 914299078
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('A4A2F2B4A4G4F2G4z2).('G2A2A2(B4A2)G4F4E2F4z2).('A2A2A2G2(A2>F2ED)F2F2!fermata!E2z2).('F2G2F2B4A2G2>F2F4E2!fermata!F4).('A4A2A2G2(A2>G2FEF2)F2!fermata!E4) ]|:
+.('z2F2G2A2!fermata!F4z2F2G2A2(BAGFED2<G2)FF4E2F4) |]

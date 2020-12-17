@@ -1,0 +1,30 @@
+X: 8912
+T: Stapje voor stapje, dat vordert toch: Denk h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3761235629
+%%humdrum-veritas-data 1445774887
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D E F G A B |
+A2GF2z) |
+.('F G A B c d |
+c2BA2z) |
+.('d c Bc2F |
+B A GA2D) |
+.('d c B (e c) A |
+E F ^GB2A) |
+.('A ^G A c B A |
+^G B AF2z) |
+.('A ^G A e c B |
+A B ^GF2z) |
+.('D E F G A B |
+=c c dc2B) |
+.('B c d A d f |
+e B ce2d) |]

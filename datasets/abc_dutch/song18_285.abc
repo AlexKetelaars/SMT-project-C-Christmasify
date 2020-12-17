@@ -1,0 +1,49 @@
+X: 17284
+T: Air pour les mesmes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3967547588
+%%humdrum-veritas-data 2434001139
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('g [I:setbarnb 1]|
+g>a g/ f/ |
+!mordent!!mordent!e>de |
+e!mordent!!mordent!dc |
+d>dd) |
+.('Bcd |
+e/ d/ e/ f/e |
+cde |
+f/ e/ f/ g/f |
+d!mordent!!mordent!ef |
+g/ f/ g/ a/g) |
+.('cde |
+f>ge |
+d!mordent!!mordent!d3/e// f// |
+e>g f/ g/ |
+e2) |
+.('e [I:setbarnb 16]|
+!mordent!!mordent!e2d |
+!mordent!!mordent!d2c |
+c!mordent!!mordent!c3/c/ |
+B3) |
+.('Bcd |
+e>ef |
+d!mordent!!mordent!d3/e// f// |
+e2).('e |
+a3 |
+zza |
+a!mordent!!mordent!g3/f/ |
+e2e |
+g3 |
+zz).('c |
+f>fe |
+d!mordent!!mordent!d3/e// f// |
+e>g f/ g/ |
+e2) :|]

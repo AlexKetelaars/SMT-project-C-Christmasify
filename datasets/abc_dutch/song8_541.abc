@@ -1,0 +1,30 @@
+X: 7540
+T: “Kwezeltje, weye gy dansen? Ik zal u geven e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 1360984108
+%%humdrum-veritas-data 2443431693
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c c c d e f |
+c3A2A |
+B2B G A B |
+c2zz2).('c |
+c2ce2f |
+c2BA2A |
+B2B (G A) B |
+c2zz2).('c |
+c3f3 |
+c3A2c |
+c3f3 |
+c3A2z) |
+.('B B B (G A) B |
+A2GF2).('A |
+B B B G A B |
+A2GF2z) |]

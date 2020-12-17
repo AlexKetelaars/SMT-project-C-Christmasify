@@ -1,0 +1,30 @@
+X: 14848
+T: Madelot
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 921215337
+%%humdrum-veritas-data 686610474
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('d2cd2c |
+B2B B c d |
+e2de2d |
+c2c c d e |
+d2cd2c |
+d e fg3 |
+f g e d e c |
+B2BB3) |
+{.('B2 d2}f2f f d B |
+{B2 d2}g2gg3 |
+{A2 c2}e2e e c A |
+{B2 d2}f2ff3 |
+B2Fd2B |
+f2db2f |
+g f e d c B |
+c2FF3) |]

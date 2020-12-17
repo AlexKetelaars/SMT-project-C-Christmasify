@@ -1,0 +1,25 @@
+X: 15829
+T: kint in twaater
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 4268259462
+%%humdrum-veritas-data 22141620
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('g [I:setbarnb 1]|
+g a g e f g |
+g a g e f g |
+g2gf2e |
+d3c2) |
+.('d [I:setbarnb 5]|
+d e d B c d |
+[M:3/8]d e d |
+[M:6/8]d e d B c d |
+e2dc2B |
+A3G2) :|]

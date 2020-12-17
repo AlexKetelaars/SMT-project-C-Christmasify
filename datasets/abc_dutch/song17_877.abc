@@ -1,0 +1,28 @@
+X: 16876
+T: Joannis Plackets
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 326096668
+%%humdrum-veritas-data 1463613803
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ c/ [I:setbarnb 1]|
+B2BB>AG |
+A3A2).('d/ c/ |
+B>ABA2G |
+G3G2) |
+.('d [I:setbarnb 5]|
+g2de2d |
+e/ f/gde2).('d |
+e/ f/gdB>AG |
+B3B2).('d/ B/ |
+B2BB>AG |
+A3A2).('d/ c/ |
+B>ABA2G |
+G3G2) :|]

@@ -1,0 +1,28 @@
+X: 8960
+T: Kalvetje die in de ronde zat, ‘t En wiste ni [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 676012949
+%%humdrum-veritas-data 1183179990
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A/ A/ A/ A/GB |
+AGF).('F |
+A/ A/ A/ A/GB |
+AGF).('F |
+AAcB |
+A2F2) |
+.('A2GB |
+A2Fz) |
+.('A/ A/AGB |
+A2Fz) |
+.('AAG/ G/B |
+AGFF) |
+.('AAGB |
+AGFF) |]

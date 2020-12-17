@@ -1,0 +1,39 @@
+X: 350
+T: Pavaen Lachrymae
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2403961399
+%%humdrum-veritas-data 1194266585
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('d3c/ B/A2f2- |
+fed2^c3c |
+d2>).('d2A>Bcc |
+B2G2A3).('e |
+f>edde>d^cc |
+d/ e/fed^c2).('f2 |
+ed2<d2^c/ =B/c2 |
+d4x4) |
+.('f2>e2dcf2- |
+fe/ d/e2f3c |
+cd2^cdBA2) |
+.('GG/ A/B3B/ c/d2- |
+dd/ e/f3c/ d<ef/ |
+g3).('G/ A<Bc<de/ |
+f2>e2df>ed |
+^c4) |
+.('^c3d [I:setbarnb 17]|
+e2f2edd2- |
+d^c/ =B/c2d3).('f |
+efd2^c2e2- |
+[M:4/4]e^c/ d/eE) |
+[M:4/2].('A2a3e/ f/g2- |
+gd/ e/f2efde |
+^c2).('f2edd2- |
+d^c/ =B/c2d4) :|]

@@ -1,0 +1,24 @@
+X: 8897
+T: Honger is de beste saus! Draven, slaven, zwo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 1674231330
+%%humdrum-veritas-data 402220002
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G D D D |
+B> AG2) |
+.('A A A A |
+A A d A) |
+.('A A A A |
+A A d A) |
+.('F G A F |
+A Bc2) |
+.('B G B3/ c/ |
+d FG2) |]

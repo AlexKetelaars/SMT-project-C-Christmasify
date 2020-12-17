@@ -1,0 +1,42 @@
+X: 17081
+T: Minuet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2849276101
+%%humdrum-veritas-data 2564092630
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c!mordent!!mordent!d3/c// d// |
+e>fg |
+a!mordent!!mordent!^f3/e// f// |
+g>^fg) |
+.('a!mordent!!mordent!^f3/e// f// |
+g>fe) |
+.('f!mordent!!mordent!d3/e/ |
+e>fg |
+f!mordent!!mordent!d3/e/ |
+e3) |
+.('dc2 |
+!mordent!!mordent!B>cd |
+e!mordent!!mordent!^c3/B// c// |
+d>cB) |
+.('cA3/B/ |
+!mordent!!mordent!B>cd) |
+.('cA3/B/ |
+B>AG |
+AA2 |
+G3) |
+.('gf2 |
+e>fg |
+af2 |
+d>ef) |
+.('ge2 |
+d>ec |
+d!mordent!!mordent!d2 |
+c3) |]

@@ -1,0 +1,27 @@
+X: 16699
+T: Al wat Tongh, en oor vermaeckt, dan eerst smaeckt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3077386784
+%%humdrum-veritas-data 1011344360
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('(d c) (d e) [I:setbarnb 1]|
+f2f2(f g) (a g) |
+f4).('e2f2 |
+d4).('(c B) (c d) |
+e2f2f2(e d) |
+e4) |
+.('f2(f g) [I:setbarnb 6]|
+a4f4 |
+b2a2g4 |
+f4).('e2f2 |
+d4(c B) (c d) |
+e2).('f2f2(e d) |
+(e2>d2)d4) :|]

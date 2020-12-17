@@ -1,0 +1,54 @@
+X: 17602
+T: La Cotterie Des Dames
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 556410432
+%%humdrum-veritas-data 2857778157
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('A2>E2 A c |
+e2ee2^e |
+f2dc2B |
+A E CA,3) |
+.('A2>E2 A c |
+e2ee2^e |
+f2dc2B |
+A3A,3) |
+.('A e c B A =G |
+=G3F3 |
+B f ^d =c B A |
+A3G3) |
+.('e c de2e |
+e c d e f g |
+{b} a e c d B G |
+A2A,A,3) |
+[M:3/4]{.('G/}A2(3E e d (3c B A |
+!trill!!trill!G4A2 |
+B E d E c E |
+!trill!!trill!g4a2) |
+{G/}.('A2(3E e d (3c B A |
+!trill!!trill!G4A2 |
+B E {e/}d2{d/}c2 |
+B6) |
+(3.('d c B (3A G F E F |
+!trill!!trill!D4C2 |
+(3d c B (3A G F E F |
+!trill!!trill!D4C2) |
+.('E F ^A B F d |
+!trill!!trill!G4(3A B c |
+(3d e fF2G2 |
+A6) |
+[M:6/8].('A e c B A =G |
+=G3F3 |
+B f ^d =c B A |
+A3G3) |
+.('e c de2e |
+e c d e f g |
+{b} a e c d B G |
+A2A,A,3) :|]

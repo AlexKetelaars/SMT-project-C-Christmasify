@@ -1,0 +1,16 @@
+X: 644
+T: Wie onder Gods bescherming is gheseten Die s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2665787429
+%%humdrum-veritas-data 3958087489
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=bass
+.('z2D,2F,2F,2G,2A,2_B,2A,2F,2F,2G,4B,4z2).('A,2A,2A,2A,4G,2F,2E,4D,4z2).('A,2A,2A,2G,2F,2D,4C,4z2).('C,2D,2E,2F,2G,4F,2E,4D,4z2z2) ]|:
+.('D,2F,2F,2G,2A,4A,2A,4G,2(F,2>G,2A,F,2<G,2F,E,D,C,4)z2z2).('G,G,G,2G,2F,2D,2(E,4F,2>E,2D,C,)D,4) |]

@@ -1,0 +1,24 @@
+X: 10771
+T: ‘k Kwam laastmaal op hooge steinen aan: Een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:08
+%%humdrum-veritas 263192171
+%%humdrum-veritas-data 1268747052
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('z2E A> A A |
+c2ce2e |
+!fermata!e2).('d c> B c |
+[M:9/8]e3d2de2d |
+[M:6/8]!fermata!B2) ]|:
+.('AB2c [I:setbarnb 6]|
+d2ed2B |
+[M:9/8]A3G3).('e2e |
+d2c B c dc2B |
+[M:6/8](A2^G)A3) :|]

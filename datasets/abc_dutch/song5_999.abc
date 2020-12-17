@@ -1,0 +1,63 @@
+X: 4998
+T: Aan boord, aan boord! Het zeemansleven viva; [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 732258148
+%%humdrum-veritas-data 2813586754
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('z E [I:setbarnb 1]|
+E3E |
+E3F |
+D3E |
+D2C2) |
+.('(C D) E3/ F/ |
+G4 |
+F2A3/ G/ |
+E2z) .('G |
+c G E C |
+G3G |
+c G E C |
+G3z) |
+.('G4 |
+F3G |
+E4- |
+[M:6/8]E2zz2).('E |
+E2E E> D E |
+F2>E2 z) .('E |
+D> D D (D C) D |
+E2>C2 z) .('E |
+E2E E> D E |
+F2>E2 z) .('E |
+D> D D (D E) D |
+C2>z2 z) .('C |
+G2GA2A |
+G2>z2 z) .('(C/ E/) |
+G2GA2A |
+G2>z2 z) .('F |
+E2E E> D E |
+F2>A2 z) .('A |
+G A G (F E) D |
+C2>z2 x) .('E ||
+[M:2/4]E3E [I:setbarnb 34]|
+E3F |
+D3E |
+D2C2) |
+.('(C D) E3/ F/ |
+G4 |
+F2A3/ G/ |
+E2z) .('G |
+c G E C |
+G3G |
+c G E C |
+G3z) |
+.('G4 |
+F3G |
+E4- |
+E2) |]

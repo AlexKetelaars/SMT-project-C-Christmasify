@@ -1,0 +1,28 @@
+X: 6169
+T: God gedenke Kollemoei’s ziel, Leefde ze nog  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 1373788790
+%%humdrum-veritas-data 384136576
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 G2 [I:setbarnb 1]|
+c2 c2 d c B c |
+d2> d2) .('d2 d e |
+f2> e2 d2 e d |
+c4).('G2 G2 |
+c4(d c) B c |
+d2 d2) .('d2 e2 |
+f2> e2 d3 d |
+c4).('d2 d d |
+d2 e c c2 B2 |
+G4).('G2 G G |
+c2 c c d2 e f |
+e2 g) .('e d2 c d |
+c4z4) |]

@@ -1,0 +1,31 @@
+X: 2568
+T: Sukerjontjen liech tó sliepen Moai de hóle o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 3227805465
+%%humdrum-veritas-data 520499403
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('GA/ [I:setbarnb 1]|
+BB/cd/ |
+BB/).('cd/ |
+BB/AA/ |
+G3/).('GA/ |
+BB/cd/ |
+BB/).('cd/ |
+BB/AA/ |
+G3/).('GG/ |
+e3/ee/ |
+d3/).('ed/ |
+ce/dc/ |
+B3/).('GG/ |
+e3/ee/ |
+d3/).('ed/ |
+cc/BA/ |
+G3/) |]

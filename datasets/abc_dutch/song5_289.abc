@@ -1,0 +1,38 @@
+X: 4288
+T: Vrienden het gaat plezant De wereld is vol g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 1138198020
+%%humdrum-veritas-data 3426811201
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('g2B c |
+d e d3/) .('A/ |
+A B/ B/ c d |
+c2B) .('d |
+g> B B c |
+d e d3/) .('A/ |
+A B c d |
+c2B3/) .('B/ |
+e> e e d |
+c2c3/) .('c/ |
+d> d d c |
+B dg2) |
+.('B> B B A |
+(G B) d3/) .('g/ |
+f g a f |
+g7/).('B/ |
+e> e e d |
+c2c3/) .('c/ |
+d> d d c |
+B dg2) |
+.('B> B B A |
+(G B) d3/) .('g/ |
+f g a f |
+g4) |]

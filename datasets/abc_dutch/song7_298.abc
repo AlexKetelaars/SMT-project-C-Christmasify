@@ -1,0 +1,43 @@
+X: 6297
+T: Schuier Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 266410079
+%%humdrum-veritas-data 4054342551
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c3/ ^c/ [I:setbarnb 1]|
+d2c2B2A2 |
+F A/ A/ A Ad4) |
+.('c C/ D/ E/ F/ G/ A/ B c d e |
+g g/ g/ g z x) .('C F G |
+AA2x A> C F3/ G/ |
+A2A2A>) .('c d3/ c/ |
+G4-G> A B3/ A/ |
+A4).('C2F3/ G/ |
+A2A2A> C F G |
+G2A2-A>) .('c d3/ c/ |
+G4G> c B3/ G/ |
+F4-F2z2) |
+.('d2d> e f> e f3/ d/ |
+c4A4) |
+.('B2B> c G> A B3/ G/ |
+A2d2c2z2) |
+.('d2d> e f> e f3/ d/ |
+c4A2).('A3/ A/ |
+G2d2c2E2 |
+F4z) .('c c c |
+d z c z B z G x |
+F A/ A/ A AA4 |
+G B/ B/ B BB4 |
+A c/ c/ c cz2).('c3/ c/ |
+d z c z B z G z |
+F A/ A/ A AA4 |
+G2d2c2E2 |
+F4-F2z2) |]

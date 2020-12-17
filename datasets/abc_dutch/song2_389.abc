@@ -1,0 +1,31 @@
+X: 1388
+T: Toen het kindje op de wereld kwam Uit o zo'n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 2891221579
+%%humdrum-veritas-data 4146741419
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2AB2c |
+d2dd2).('d |
+g2dc2B |
+A3G2).('D |
+G G F G B c |
+d2dd2).('d |
+g> g dc2B |
+A3G2).('A |
+B2B B B B |
+c2cc3) |
+.('A3A> A A |
+d2dd3) |
+.('G G AB2c |
+d3d2).('d |
+g g d c c B |
+A3G2) |]

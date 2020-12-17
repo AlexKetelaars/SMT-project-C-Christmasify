@@ -1,0 +1,33 @@
+X: 10773
+T: “Als al de boomen bergen waren En alle water [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:08
+%%humdrum-veritas 2543782099
+%%humdrum-veritas-data 339280159
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('FG2B [I:setbarnb 1]|
+G2AB2c |
+BG2-G z) .('G |
+B2B B =A B |
+G3B3 |
+B2c B =A B |
+!fermata!G2).('Bc2B |
+A2c c A c |
+BG2-G z) .('G |
+B> B B (B =A) B |
+G3).('B2A |
+G c B F A G |
+!fermata!E2).('B (c B) A |
+(F G) A c B c |
+BG2-G z) .('G |
+B> B B (B =A) B |
+G3).('B2A |
+G c B F A G |
+E3z2z) |]

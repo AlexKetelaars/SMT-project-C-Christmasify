@@ -1,0 +1,24 @@
+X: 13432
+T: o ma tendre Musette
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:34
+%%humdrum-veritas 3081528647
+%%humdrum-veritas-data 3441136332
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A2Ac2c |
+e3{d}c3) |
+.('d> e dc2B |
+A2zz2) |
+.('A [I:setbarnb 5]|
+B> c d {d}c2B |
+A3^G3) |
+.('A> ^G AB2c |
+B2zz2) |]

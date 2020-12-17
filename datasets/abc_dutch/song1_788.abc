@@ -1,0 +1,30 @@
+X: 788
+T: T'is een groot en heerlijc goet, Dat ons God [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 799106817
+%%humdrum-veritas-data 2071145734
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2>A2 G F G E |
+D6).('d c |
+B2(c B) (A G)A2 |
+G8) |
+.('(B c)d2c2B2 |
+A2>G2^F2).('D D |
+(E ^F)G2G2F2 |
+G8) |
+.('G2>F2 G E F G |
+A4).('A2c2 |
+B2A2A2^G2 |
+A6).('B c |
+d2>c2 B AG2) |
+.('A2>G2 F E(D2 |
+E FG2-G2)^F2 |
+G8) |]

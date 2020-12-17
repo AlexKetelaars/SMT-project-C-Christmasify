@@ -1,0 +1,23 @@
+X: 4165
+T: Deze maad haj enne vrijer ho ho Enne kerl wi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 365128404
+%%humdrum-veritas-data 1340572818
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+G G G/ G/ B A G |
+d3-d2).('D/ D/ |
+G G G/ G/ B A G |
+d3-d2).('D/ D/ |
+A B c/ c/ e d) .('c/ c/ |
+B G B/ B/ d c) .('B |
+A2A/ A/ c B A |
+G2BG2) |]

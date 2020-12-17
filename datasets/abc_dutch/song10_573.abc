@@ -1,0 +1,31 @@
+X: 9572
+T: Hoort vrienden, hoort een lied, Dat duid’lij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 2745893095
+%%humdrum-veritas-data 125957841
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2AA2B |
+A3z2).('G |
+F2Ad2F |
+F2>E2 z) .('F |
+G2GF2G |
+e3z2).('d |
+c2BA2G |
+(F2d) A z) .('d |
+c2de2d |
+B2>B2 z) .('d |
+c2de2c |
+A3z2).('A |
+c2BA2G |
+(F2d)c2).('B |
+A2FG2E |
+D3z2) |]

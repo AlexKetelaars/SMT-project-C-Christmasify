@@ -1,0 +1,24 @@
+X: 2554
+T: Daar was laatst een turrefboer en die met zi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 195600720
+%%humdrum-veritas-data 701334298
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2Bd2d |
+d2e d) .('c B |
+A2A e d c |
+B2BB2).('e/ e/ |
+e d e (g f) g |
+d3f2).('f |
+e e e e d c |
+B2cd3) |
+.('A A ed2d |
+(A2c)B3) |]

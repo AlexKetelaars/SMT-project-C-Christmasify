@@ -1,0 +1,29 @@
+X: 8933
+T: ‘k Kwam lestmaal door een groene wei, Koekoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3768410906
+%%humdrum-veritas-data 3158599322
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G (G A) B |
+B2AA2d |
+B2>-!fermata!B2 z) .('D |
+G2G G A B |
+B2AA2d |
+B2>-!fermata!B2 z) .('B |
+d2d (d e) d |
+d2cc2c |
+B2B (B d) B |
+B2AA2).('d |
+B2BA2A |
+G3d3 |
+B2B (A G) A |
+G2>-G2 z) |]

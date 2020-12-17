@@ -1,0 +1,36 @@
+X: 16785
+T: Cruys Cappelleken
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 709958677
+%%humdrum-veritas-data 1214244123
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d2a [I:setbarnb 1]|
+f e dc2d |
+e c A d c B |
+A G F).('G2A |
+F E D A B A |
+d c d B c d |
+e3e2d |
+c B A B A ^G |
+A2-!fermata!A) |
+.('d2c [I:setbarnb 9]|
+B c dc2B |
+^A2Ff2f |
+f e dc2B |
+B2>).('d2 c B |
+A G F E F G |
+F E D A B A |
+d c d B e d |
+c B A d c d |
+B2>).('g2 a f |
+e2>f2 g a |
+f e d A d c |
+d2-d) |]

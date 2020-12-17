@@ -1,0 +1,16 @@
+X: 656
+T: Mijn siel ghebenedijt den Heer Al mijn inwen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 4208739574
+%%humdrum-veritas-data 500712633
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('D4F2G2A4A4(G2F)ED4).('F4(E2>F2)G2A4G2A4).('D4F2G2A4A4(G2F)ED4).('F4(E2>F2)G2A4G2A4) ]|:
+.('z2E2F2E2(D2CB,)A,4E4D4z2).('D2D2>E2F2G2E4C4z2).('D2E2E2G2>F2(EFG)EF4D4).('F2>G2A2_B2>B2A4G2A4) |]

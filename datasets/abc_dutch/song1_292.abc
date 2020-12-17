@@ -1,0 +1,15 @@
+X: 292
+T: Die hier den Heer almachtich vresen die dors [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 412241714
+%%humdrum-veritas-data 955199702
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F6c c c cd2e2f2f) .('e d c c BA2G2F4).('F6c c c cd2e2f2f) .('e d c c BA2G2F4).('z2F2B B B2<A2B d d c c2<G2).('G G G G Gc2c B A F G EF8) |]

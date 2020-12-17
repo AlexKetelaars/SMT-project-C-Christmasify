@@ -1,0 +1,26 @@
+X: 16911
+T: Wilhelmus
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 1570885486
+%%humdrum-veritas-data 3013173041
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+c2c2d2g f |
+e2d ef2e2 |
+d c d ec2) |
+.('e f [I:setbarnb 4]|
+g2>a2g3f |
+e2d ef2e f |
+g2f ed4 |
+z2e d c de2 |
+d2c2B2A G |
+A Bc2c3B |
+c6) :|]

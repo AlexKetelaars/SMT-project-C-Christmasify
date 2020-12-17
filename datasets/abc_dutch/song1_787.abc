@@ -1,0 +1,54 @@
+X: 787
+T: De Heer in zynen Throon,, seer schoon, Is gr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3128102634
+%%humdrum-veritas-data 991870114
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c [I:setbarnb 1]|
+c2B |
+A2G |
+F2F |
+F2).('c |
+c2c |
+f2e |
+d2c |
+c(B3/A// B//) |
+c3- |
+c2).('c |
+c2B |
+A2G |
+F2F |
+F2).('c |
+c2c |
+f2e |
+d2c |
+c(B3/A// B//) |
+c3- |
+c2).('c |
+f2c |
+(d>c)B |
+A3- |
+A2).('d |
+d2c |
+(c>B)A |
+G3- |
+G2).('c |
+(c>B)c |
+A2F |
+F2E |
+F2).('F |
+(F>G)E |
+F2F |
+A2B |
+c2).('f |
+(f/> e/ d// e// f/ g/) e/ |
+f3- |
+f2) |]

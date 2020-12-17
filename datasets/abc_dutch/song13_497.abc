@@ -1,0 +1,35 @@
+X: 12496
+T: Es braust ein Ruf, wie Donnerhall, Wie Swert [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 3103144688
+%%humdrum-veritas-data 2053419094
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+C>EGG |
+E>Gc).('c |
+defd |
+c>BB).('G |
+e>e d/> d/ ^c3// c// |
+d3).('B |
+A/> A/ B/> c/BA |
+G2z).('G |
+d>cBB |
+c>GG).('G |
+f>edd |
+e>dcz) |
+.('G2G^G |
+A>Bcc |
+c2d2 |
+e2z2) |
+.('c2cc |
+c>egf |
+e2d2 |
+c2z) |]

@@ -1,0 +1,34 @@
+X: 10222
+T: Vastenavond, goede gebuur, Ik heb nog geenen haan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 1100258555
+%%humdrum-veritas-data 2263714457
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('z c BA2A |
+G A GF2F |
+B2Bd2d |
+c3-c2).('c |
+c2cc2A |
+A3G2F |
+B B Bd2d |
+c3-c2).('c |
+c2c c c B |
+A2AG2F |
+B2B d d d |
+c3-c2).('c |
+c2c c c B |
+A2AG2F |
+B2Bd2d |
+c3-c2).('A |
+B2BA2G |
+A3F2F |
+G A G G/ G/ F E |
+G3F2z) |]

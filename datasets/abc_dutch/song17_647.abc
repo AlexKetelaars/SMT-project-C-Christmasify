@@ -1,0 +1,33 @@
+X: 16646
+T: Hoe sleurt men Jesus
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 3867562118
+%%humdrum-veritas-data 1375148812
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+d>ef3/^c/ |
+d>e f/> g/ e3// f// |
+d/> e/ f/> g/a2 |
+z).('^cd3/c/ |
+_BAG3/A/ |
+A2z).('A |
+F>EF3/G/ |
+A>_BAA |
+z).('f^c3/d/ |
+efe3/d/ |
+ddz) |
+.('c [I:setbarnb 12]|
+_B>AG3/A/ |
+A2z).('f |
+e>ef2 |
+ag// f// e// d//^c3/d/ |
+Afe3/d/ |
+d2) |]

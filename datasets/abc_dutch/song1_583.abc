@@ -1,0 +1,15 @@
+X: 583
+T: O Heer u wil ick prisen Dat ghi mijn ontfang [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 655000345
+%%humdrum-veritas-data 3336854265
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('G4D2G2F2G2(A2B2>A2BG)F4).('D2B2AGc2A4G4-G4).('G4D2G2F2G2(A2B2>A2BG)F4).('D2B2AGc2A4G4-G4z2).('G2BABcd2G2).('B2A2G2(FEF)GA4z2).('A2B2c2d2B2A2(BABGF2)).('D2B2B2c2A4G4) |]

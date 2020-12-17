@@ -1,0 +1,24 @@
+X: 10488
+T: ‘s Morgens is den riep zoo koald, riep zoo k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 3773963687
+%%humdrum-veritas-data 1161306410
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A2Bc2A |
+c c A c c A) |
+.('c2A G G G |
+B> B G A/ A/ A/ A/ F) |
+.('A B c d d d |
+(c B) AG3) |
+.('c2A G G G |
+B> B G A/ A/ A/ A/ F) |
+.('A B c d d d |
+(c B) AG3) :|]

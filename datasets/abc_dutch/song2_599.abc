@@ -1,0 +1,35 @@
+X: 1598
+T: Een kleermaker brengt ons aan het verstand h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 1872386693
+%%humdrum-veritas-data 3057487633
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GG/ G/GB |
+GED2) |
+.('DDEF |
+A2G2) |
+.('GGD3/D/ |
+EED).('D |
+DD/ D/EF |
+A2G2) |
+.('EE/ E/EF |
+GFED) |
+.('EEEF/ F/ |
+GF/ F/ED) |
+.('B>BBB |
+ABcz) |
+.('AA/ A/AA/ A/ |
+dcBz) |
+.('G>GGG |
+FEcz) |
+.('GF/ E/DF/ A/ |
+dFG2) |]

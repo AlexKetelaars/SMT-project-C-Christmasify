@@ -1,0 +1,52 @@
+X: 6359
+T: Ting-A-Ling-Ting-Tag
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 2775665160
+%%humdrum-veritas-data 2790883081
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B A G G F E |
+ED2z) .('G B |
+dA2z d c |
+BG2z2).('B |
+B A G G F E |
+ED2z2).('B |
+B ^c d F d c |
+B2>-B2 z) .('B |
+c B A d A B |
+GD2z) .('B c |
+Ad2z A B |
+GD2z2).('B |
+c B A d A B |
+Gd2z2).('c |
+B d G A E F |
+G2>-G2 z) .('d |
+(d ^c) d d c d |
+D2>-D2 z) .('d |
+(d ^c) d d c d |
+D3-!fermata!D2) ||
+.('!fermata!d/ d/ [I:setbarnb 21]|
+[M:2/4]B d B G |
+D/ D/D2).('G |
+D G D G |
+F3).('d |
+c d c A |
+D/ D/D2).('A |
+D A D A |
+B3).('d |
+B d B G |
+D/ D/D2).('G |
+F G A B |
+!fermata!c3).('^c |
+d/ d/ d/ d/ d c |
+B/ B/ B/ B/ B) .('G |
+A/ A/ A/ A/ A D |
+G2-G z) |]

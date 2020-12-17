@@ -1,0 +1,31 @@
+X: 5902
+T: Den elfsten van mei Zag men ze marcheeren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 4105994521
+%%humdrum-veritas-data 163079623
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+ccd |
+{d}c2).('d |
+dec |
+Bc).('d |
+dec |
+Bc).('d |
+BGG |
+G2).('G/ G/ |
+c2d/ c/ |
+BA).('G/ G/ |
+f2f/ e/ |
+d2).('e/ f/ |
+gec |
+(BA)d/) .('e/ |
+fdB |
+c3) |]

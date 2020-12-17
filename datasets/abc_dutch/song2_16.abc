@@ -1,0 +1,23 @@
+X: 1015
+T: Wilt horen goede huisman schoon Wat ik u zal [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 1863089619
+%%humdrum-veritas-data 580032288
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G (G A) B |
+(A G) FE3) |
+.('A B cB2A |
+(G2F)E2).('D |
+B,2D (G A) B |
+(A G) FE3) |
+.('A B c (B A) G |
+(E2F)G3) |]

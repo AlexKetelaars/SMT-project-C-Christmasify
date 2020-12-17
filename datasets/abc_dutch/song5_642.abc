@@ -1,0 +1,38 @@
+X: 4641
+T: Het huwelijk dat is een aardig spel Ik heb h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 1574067378
+%%humdrum-veritas-data 2457635071
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B B B BB2c2 |
+B2A2A3).('A |
+(3G G G G G G G G G |
+G> DD2D4) |
+.('B2B BB2B c |
+B2A2A4) |
+.('G2G2G> GG2 |
+G> D D DD2z) .('D |
+[M:6/4]B> B B> BB2A> AA3).('A |
+[M:4/4]G2G GG2G G |
+G D D D2<D2).('D |
+B B B BB2B B |
+B A A A2<A2).('A |
+G2G> G G G G G |
+G2D D D>) .('D D3/ D/ |
+E> E E> E F> F F3/ F/ |
+G4-G) .('D G3/ A/ |
+B> B B> BB2B2 |
+B2D> D D>) .('D D3/ D/ |
+E> E E> E F> F F3/ F/ |
+G4-G) .('B B3/ B/ |
+d2d> d d> F F3/ F/ |
+G6z) |]

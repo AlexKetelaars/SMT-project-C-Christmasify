@@ -1,0 +1,38 @@
+X: 15119
+T: Daar was een herderinnetje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 781169237
+%%humdrum-veritas-data 870465723
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G/ [I:setbarnb 1]|
+GG/GG/ |
+AA/Gc/ |
+BB/AA/ |
+G3/z) :|]
+.('G/ [I:setbarnb 5]|
+d^c/de/ |
+dB/GF/ |
+EG/cd/ |
+e3/z).('e/ |
+d^c/de/ |
+dB/GA/ |
+B2z/ B/ |
+A2z/) .('A/ |
+G3/EF/ |
+G3/GA/ |
+G3/).('cd/ |
+ed/cB/ |
+B3/A3/ |
+zz/).('BA/ |
+G3/cd/ |
+e3/d3/ |
+cc/ c3// c3// |
+c3/z) |]

@@ -1,0 +1,23 @@
+X: 2061
+T: O God waar mag mijn minnaar wezen O God waar [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 2629034428
+%%humdrum-veritas-data 1394630398
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+cAFAed |
+(Bd)G2).('d2 |
+cAFAed |
+B2>).('B2Bd |
+[M:4/2]e2e2>).('e2fg |
+[M:3/2]d2>).('d2de |
+ffedcB |
+G4) |]

@@ -1,0 +1,54 @@
+X: 13898
+T: Presto
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 2576906381
+%%humdrum-veritas-data 4136809471
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=88
+K: A clef=treble
+.('z [I:setbarnb 1]|
+zA/ B/cd- |
+dc/ B/cd- |
+dc/ B/cd- |
+dc/ B/cz |
+zf/ A/GA |
+BdbG/ A/ |
+BdbF |
+ED/ C/DB, |
+CAA,) |
+.('z [I:setbarnb 10]|
+z(c'/ b/)ag |
+acFz |
+z(b/ a/)gf |
+gBEA- |
+AG/ F/GA- |
+AG/ F/Gz |
+z(B/ c/)^de |
+faB^d/ e/ |
+faBc |
+BA/ G/AF |
+GeE) ||
+[K:C] .('c [I:setbarnb 21]|
+BAzA |
+(AB)z2 |
+z(B// c// d/)c^G |
+AA,zc |
+!trill!!trill!BAzA |
+(AB)zB |
+AD/ C/DB, |
+CEA,) |
+.('e [I:setbarnb 29]|
+!trill!!trill!dczc |
+!trill!!trill!cBz2 |
+za/ f/dB |
+cCz2 |
+za/ f/dB |
+cCzA |
+GF/ E/FD |
+EcC) ||

@@ -1,0 +1,23 @@
+X: 10230
+T: Overal, overal, Waar de meiskes zijn, waar d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 3147402664
+%%humdrum-veritas-data 464438855
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A,3/ B,/ [I:setbarnb 1]|
+C6F3/ G/ |
+A6).('A3/ A/ |
+A2G2G2G3/ A/ |
+G2F2F2).('A,3/ B,/ |
+C6F3/ G/ |
+A6).('A3/ B/ |
+A2G2G2A2 |
+F4-F2) |]

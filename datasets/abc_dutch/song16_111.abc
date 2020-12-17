@@ -1,0 +1,19 @@
+X: 15110
+T: Fanfare
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:50
+%%humdrum-veritas 3248083684
+%%humdrum-veritas-data 2324951421
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('A> A A A A E A E |
+c> c c c c A c A) |
+.('e> e e e e c e c |
+a2a> ae2c2 |
+A4z4) |]

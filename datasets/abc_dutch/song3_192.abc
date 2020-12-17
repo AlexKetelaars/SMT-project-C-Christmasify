@@ -1,0 +1,30 @@
+X: 2191
+T: Een juffrouw fier Ging uit voor haar plezier
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 1164726227
+%%humdrum-veritas-data 1171503565
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('(G2A) (G F) E |
+D3-D2).('D |
+G2A (c B) A |
+G3-G3) |
+.('A2>(A2 G) G |
+G3G2A |
+A2AG2F |
+E3-E2).('E |
+E2GG2A |
+G2>-G2) .('F E |
+D2GG2A |
+G3-G2).('A |
+D2EF2G |
+A2BA2G |
+F2>(E2 D) E |
+D3-D2) |]

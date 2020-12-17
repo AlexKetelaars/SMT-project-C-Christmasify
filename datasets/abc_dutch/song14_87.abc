@@ -1,0 +1,26 @@
+X: 13086
+T: Variatio
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:31
+%%humdrum-veritas 392298915
+%%humdrum-veritas-data 1619267628
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z D E F [I:setbarnb 1]|
+G4z d c d B A B G _e g f e |
+d6(g f) (_e d) (c B) (A d) (c B) |
+A4G d B c d f _e d c d B g |
+f4z f g a b d e f2< f2 e |
+f12) ||
+.('z e f g [I:setbarnb 6]|
+a4z a g f e ^c d f2< e2 d |
+d4z g f _e d c d B e f d e |
+c4B d B cd4e g ^f e |
+^f a g f g b a g a d g2 (g3 f) |
+g12) ||

@@ -1,0 +1,40 @@
+X: 778
+T: Merck,, toch hoe sterck,, Nu int werck,, sic [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 38951108
+%%humdrum-veritas-data 2734000172
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G2F GA2G A |
+B2A GA4) |
+.('B2A Bc2B c |
+d2>d2 (c d B) c |
+A4G4) |
+.('G2F GA2G A |
+B2A GA4) |
+.('B2A Bc2B c |
+d2>d2 (c d B) c |
+A4G4) |
+.('d2>d2c3A |
+B2(A G)A4) |
+.('(d e f) dg2f2 |
+(e d e ^c)d4) |
+.('d2>d2c3A |
+B2(A G)A4) |
+.('(d e f) dg2f2 |
+(e d e ^c)d4) |
+.('B2>c2d4 |
+A2>B2c4) |
+[M:4/2].('G2>A2B2(c B) (A GA2)G4- |
+[M:2/2]G8) |
+.('B2>c2d4 |
+A2>B2c4) |
+[M:4/2].('G2>A2B2(c B) (A GA2)G4- |
+G8-G8) |]

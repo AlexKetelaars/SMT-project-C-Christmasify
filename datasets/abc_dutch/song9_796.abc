@@ -1,0 +1,27 @@
+X: 8795
+T: Daar kwam enen boer van Zwitserland, Kadee,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 3422768647
+%%humdrum-veritas-data 3457038890
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+cc/ c/BB |
+AAGz) |
+.('c2BB |
+A/ A/ A/ A/G).('G/ G/ |
+cc/ c/AA |
+GGE).('E/ E/ |
+FF/ F/DD/ D/ |
+AGG).('G/ G/ |
+CD/ D/EF |
+GcA).('F |
+G2G2 |
+C3) |]

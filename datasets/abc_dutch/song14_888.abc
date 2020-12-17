@@ -1,0 +1,30 @@
+X: 13887
+T: Trio
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 1572404392
+%%humdrum-veritas-data 4282035562
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2B, B B, B |
+B2c B/ c/d2 |
+d2B, d B, d |
+d2e d/ e/f2) |
+.('f4b g |
+f2>e2 d c |
+(3B d g (3b a g (3f e d |
+d4c2) |
+.('f/ =e/ f/ g/ f f f f |
+g/ f/ =e/ f/ e e e e |
+e/ d/ e/ f/ e e e e |
+f/ e/ d/ e/ d d d d) |
+.('B4c B |
+B b a g f _a |
+g f/ e/ d c B A |
+A4B2) :|]

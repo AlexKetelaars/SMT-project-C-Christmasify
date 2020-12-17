@@ -1,0 +1,42 @@
+X: 15783
+T: [Schoon dat ik onder het groen]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 3474151633
+%%humdrum-veritas-data 2456726324
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('(^F/ G/) [I:setbarnb 1]|
+AAA(B/ ^c/) |
+d3A |
+BdAd |
+G2^F2) |
+.('ABdA |
+dG^F2 |
+d^cde |
+^fg2a |
+^fdA(B/ ^c/) |
+d3) |
+.('d/ e/ [I:setbarnb 11]|
+^fff2 |
+(e/ d/)ea2 |
+Addd |
+^c/ B/ce2) |
+.('ABBB |
+dA2d |
+G^FEA |
+^F3A |
+BdAd |
+G2^F2) ||
+.('ABdA [I:setbarnb 22]|
+dG^F2 |
+dcde |
+^fg2a |
+^fdA(B/ ^c/) |
+d2) |]

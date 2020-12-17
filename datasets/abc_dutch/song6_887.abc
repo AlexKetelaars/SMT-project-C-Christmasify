@@ -1,0 +1,33 @@
+X: 5886
+T: Ik bemin eene zoete maagd Uit zuiver liefde  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 3953304303
+%%humdrum-veritas-data 1179692395
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c2c B [I:setbarnb 1]|
+A2>c2 (c B) (G E) |
+F4).('c2f A |
+G2B d (c {d c} B) A {B A} G |
+F4).('(c e) e e |
+d2>f2 (e f d) =B |
+c4).('f2e f |
+d d e f(c2=B2) |
+c4z2).('c2 |
+c2>c2 c e g e |
+f4z2).('c2 |
+c2>f2 e d c B |
+(c B/ A/)!fermata!G2).('(c e) e e |
+d2>f2 (e f) (d B) |
+c4).('e2g e |
+c d e f A> G d c |
+(c> B)A2).('f f e d |
+c (d/ e/) (e/ d/) (c/ B/)c4 |
+F4z4) |]

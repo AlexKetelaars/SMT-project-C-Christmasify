@@ -1,0 +1,23 @@
+X: 3377
+T: Dan was er nog een olde koe Die altijd op ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 88036779
+%%humdrum-veritas-data 2414913195
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2 [I:setbarnb 1]|
+d2B2c2A2 |
+G2G2G3).('D |
+G> G G G G G G3/) .('D/ |
+G> D G> Bd3).('B |
+c2>d2e3c |
+B2>c2d3).('B |
+A> A A B c c c) .('c |
+B B A AG2) |]

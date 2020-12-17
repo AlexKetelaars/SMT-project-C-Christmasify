@@ -1,0 +1,26 @@
+X: 13608
+T: [Sonata 2.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 2630019790
+%%humdrum-veritas-data 4141400835
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('(d c) BA2A |
+(d c) BA3 |
+g f e d d d |
+e d cd3) ||
+.('e f e e ^g a [I:setbarnb 6]|
+e d cc2B |
+d c B f e d |
+c d BA3) |
+.('A2ce2c |
+A2df2d |
+g f e g f e |
+d c de3) :|]

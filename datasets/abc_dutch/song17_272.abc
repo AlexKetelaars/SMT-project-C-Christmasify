@@ -1,0 +1,43 @@
+X: 16271
+T: Geef u bedriegelijk hert aan een ander Maar  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 904610875
+%%humdrum-veritas-data 3902919106
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('d>cB |
+c>BA |
+B>AG |
+d2d |
+z3) |
+.('d>cB |
+c>BA |
+B>AG |
+d2d) |
+.('d>cd |
+_e>de |
+c2B |
+A2A) |
+.('d>dd |
+d2(c/ B/) |
+B2(A/ G/) |
+G3) |
+.('ABc |
+B2A |
+B>AG |
+^F2F) |
+.('d>ed |
+G>GG |
+(c>B)c |
+^F2F) |
+.('d>dd |
+(dG)_e |
+B2(A/ G/) |
+G2) :|]

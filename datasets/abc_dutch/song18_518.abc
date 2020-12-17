@@ -1,0 +1,42 @@
+X: 17517
+T: Gottinger Studente Mars
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 2880603578
+%%humdrum-veritas-data 1587145328
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=132
+K: F clef=treble
+.('A B [I:setbarnb 1]|
+c2c2c2d e |
+f6).('c2 |
+d f e f c f e f |
+B4A2c2 |
+d f e f c f e f |
+B4A2).('f2 |
+e2f2g2a2 |
+b6c'2 |
+a2g fc2e2 |
+f6) |
+.('f g [I:setbarnb 11]|
+a2a2a2g f |
+g =bc'2z2e2 |
+f2f2f2e d |
+e ^ga2z2).('c2 |
+d2e f g f e d |
+^c6d2 |
+c2A Bc2B2 |
+A6).('c2 |
+d f e f c f e f |
+B4A2c2 |
+d f e f c f e f |
+B4A2).('f2 |
+e2f2g2a2 |
+b6c'2 |
+a2g fc2e2 |
+f6) :|]

@@ -1,0 +1,15 @@
+X: 676
+T: Wanneer ick was in druc in pine Riep ick tot [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1665625996
+%%humdrum-veritas-data 961931177
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('A2(ABc)A(B2A2G2F2)G2G2F2E2D4z2).('d2d2d2(d3c/ B/A2)d2c2B2A4z2).('A2(ABc)A2<(B2A/ G/F2)G2G2F2E2D2z2).('A2A2A2(B2AGF2)G2G2F2G4) |]

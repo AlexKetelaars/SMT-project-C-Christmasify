@@ -1,0 +1,37 @@
+X: 1570
+T: Vandaag is het kermis in de stad Zo riep een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 2243562944
+%%humdrum-veritas-data 3181456511
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2BA2D |
+G2BA2).('D |
+G2G (G F) D |
+E3-E2).('D |
+G G AB2B |
+B2BD2).('D |
+G2EF2D |
+E3-E2).('A |
+B2GD2A |
+B2GD2).('E |
+D2G A A A |
+[M:4/8]B3).('B |
+[M:6/8]A2GA2B |
+A2AD3) |
+.('G E FG2F |
+E2ED2).('D/ D/ |
+D2D (D E) F |
+G3-G2).('G/ G/ |
+G2GG2G |
+A2GE2).('G/ A/ |
+B2GA2F |
+G3-G2) |]

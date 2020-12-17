@@ -1,0 +1,31 @@
+X: 753
+T: Ghy die tot een Opper-Held In den lande syt  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 4189471322
+%%humdrum-veritas-data 2685922244
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G [I:setbarnb 1]|
+G2G(A/ B/) |
+cFF2) |
+.('G>A(BA/) G/ |
+ADD).('G |
+G2G(A/ B/) |
+cFF2) |
+.('G>AB(A/ G/) |
+ADD).('d/ c/ |
+B3d/ c/ |
+B3).('d |
+B/ c/dB/ c/d) |
+.('cAF).('c |
+A/ B/cA/ B/c) |
+.('BGG).('B/ c/ |
+d(c/ B/) (A/ G/)A |
+G3) |]

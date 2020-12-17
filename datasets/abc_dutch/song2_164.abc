@@ -1,0 +1,38 @@
+X: 1163
+T: Sinte Maarten De koeien dragen staarten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 145701303
+%%humdrum-veritas-data 742895550
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2E2D2B, B, |
+D D E ED2B,) .('B, |
+D D E ED2B,3/ B,/ |
+D D E ED2B,3/) .('B,/ |
+D D E ED2B,3/) .('B,/ |
+D D E ED2B,3/ B,/ |
+D D E ED2B,3/) .('D/ |
+(3G G G A, A,B,2A,2) |
+.('D D E E D DB,2 |
+D D E E D DB,2) |
+.('D D D> D D D D3/ D/ |
+G G A, A, B, B,A,2) |
+(3.('D D D E ED2B,2 |
+(3D D D E ED2B,2) |
+.('D2D2D2D2 |
+G G A, A,/ A,/ B, B,A,2) |
+(3.('D D D (3E E E D D B,3/ B,/ |
+(3A, A, A, B,> CD2-D3/) .('B,/ |
+(3D D D (3D D D D D B,3/ B,/ |
+A,> A, B,> CD2-D3/) .('B,/ |
+D> D E E/ E/D2B,3/ B,/ |
+(3D D D (3E E ED2B,3/ z/) |
+.('D> A, G,> G, E> EE2 |
+G> C B,> B, A,> A,G,2) |]

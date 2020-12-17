@@ -1,0 +1,27 @@
+X: 11817
+T: Gavotte Bredero
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 3575004053
+%%humdrum-veritas-data 3408542275
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('FFc2 |
+c(d/ e<)f).('f/ |
+g/ f/ e/ d/cd |
+d(c/ B/)AF |
+F2x2) |
+.('c>c d/ e/ f/ g/ |
+e>fg2) |
+.('a>g f/ e/d |
+c>dBA |
+A>GF).('c |
+d>ef3/g/ |
+adef |
+f>ef2) :|]

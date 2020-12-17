@@ -1,0 +1,27 @@
+X: 17524
+T: [wijsaanduiding ontbreekt]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 3435996721
+%%humdrum-veritas-data 2936275723
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('d ^c d ef2f e |
+d f e d^c2{B}A2 |
+f g f e d c B A |
+^G A G AA4) |
+[M:3/4].('x4A2 |
+f2>g2 f e |
+d2>d2 e f |
+g2>f2 e d |
+^c2{B}A3).('d |
+d2B2^c d |
+e4f e |
+d B2<^c2d |
+d4) :|]

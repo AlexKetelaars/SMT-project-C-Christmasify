@@ -1,0 +1,39 @@
+X: 15932
+T: Goe morgen Kniertje Heb ik Jou daer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 2768576037
+%%humdrum-veritas-data 1234349703
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('d [I:setbarnb 1]|
+g2d d> c d |
+B> A GG2).('d |
+g2d d> c d |
+B> A GG2).('d |
+g> a b) .('a> g ^f |
+g2gg2).('d |
+g> a b a> g ^f |
+g2gg2).('(d/ e/) |
+f2c c> d e) |
+.('d2BB2).('(d/ e/) |
+f2c c> d e |
+d2BB2).('f |
+b> c' d' c'> b a) |
+.('b2bb2).('f |
+b> c' d' c'> b a |
+b2bb2).('d' |
+g> a b a> b g) |
+.('a2dd2).('d' |
+g> a b a> b g |
+a2dd2).('d |
+=e> g e ^f> a f |
+g2gg2).('d |
+=e> g e ^f> a f |
+g2gg3) |]

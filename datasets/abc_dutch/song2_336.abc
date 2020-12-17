@@ -1,0 +1,32 @@
+X: 1335
+T: O vrienden komt eens even bij mij staan En w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 1750105787
+%%humdrum-veritas-data 538202813
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+DB,/BG/ |
+AG/EG/ |
+D3/-D).('D/ |
+DD/GA/ |
+G3/F).('F/ |
+[M:9/8]ED/FE/CD/ |
+FF<F-F).('F/ |
+[M:6/8]ED/FF/ |
+[M:9/8]E3/D3/-D).('D/ |
+DD<E-EE/ |
+FF<G-G).('G/ |
+FG/AE/FG/ |
+A3/-A).('D/BA/ |
+G3/-GG/AB/ |
+dc/B).('B/AB/ |
+cB/AE/FA/ |
+[M:6/8]G3/-G) |]

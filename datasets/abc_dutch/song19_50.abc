@@ -1,0 +1,54 @@
+X: 18049
+T: No 16
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3944498912
+%%humdrum-veritas-data 2651673771
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('!wedge!B!wedge!B [I:setbarnb 1]|
+{c}BA/ B/cc |
+!turn!cB).('dg/ f/ |
+edcB |
+{c}(BA)).('!wedge!B!wedge!B |
+{c}BA/ B/cc |
+!turn!cB).('dg/ f/ |
+{e}ed/ c/BA |
+!fermata!G2) ||
+.('B^c [I:setbarnb 9]|
+de/ f/gf |
+!turn!fe).('a/ A/ B/ c/ |
+Bg/ e/ {f/} e/ d/ {e/} d/ ^c/ |
+d2).('a/ A/ B/ c/ |
+{d}cBa/ ^c/ d/ e/ |
+{f}ed).('a/ e/ f/ g/ |
+{g}fg/ e/d^c |
+{c2}d2).('a/ A/ B/ c/ |
+{c}BA/ G/FE |
+!fermata!!trill!!trill!D2){.('E4 F4 G4 ^G4 A4 ^A4}!wedge!B!wedge!B |
+{c}BA/ B/cc |
+!turn!cB).('dg/ f/ |
+edcB |
+{c}BA).('!wedge!B!wedge!B |
+{c}BA/ B/cc |
+!turn!cB).('dg/ f/ |
+{f}ed/ c/BA |
+G2).('Be |
+{f}e^dz/ c'/ b/ a/ |
+{b}ag).('BB |
+cc/ B/AA |
+B2).('GG |
+AA/ G/FF |
+G2).('Be |
+{f}e^dz/ c'/ b/ a/ |
+{b}agz/) .('B/ c/ d/ |
+{d}cB/ A/GF |
+E2).('c'a |
+f^d!fermata!!trill!!trill!e3/f/ |
+e2) |]

@@ -1,0 +1,29 @@
+X: 10848
+T: Voor Schellinge lag een schip, Een wonder te [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 3296389545
+%%humdrum-veritas-data 3599144509
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('(E/ F/) [I:setbarnb 1]|
+GG/ G/F(G/ F/) |
+E2z).('E |
+FA(G/ F/)E |
+D2C).('(C/ D/) |
+EA(G/ F/)E |
+D2C).('G |
+AABB |
+c).('(c/ B/)AA |
+[M:3/4]G2(G3// F//) |
+[M:2/2]E2z).('G |
+AABB |
+c).('(c/ B/)AF |
+E2D2 |
+C2z) |]

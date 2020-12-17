@@ -1,0 +1,15 @@
+X: 3816
+T: En daar zat een vogeltje op het hein Lochtom [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 1281949022
+%%humdrum-veritas-data 3794778845
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/GAB2cBAB(GB)).('AGFGA/ G/ F/ E/D2).('FAAB/ B/(cB)A).('A/ A/Bcd2ed^cd(GB)).('AFG2) |]

@@ -1,0 +1,56 @@
+X: 5977
+T: Menuet van ‘t Campement
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3182240992
+%%humdrum-veritas-data 3207619821
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+d4c2 |
+B4A2 |
+G2G G G G |
+G2>).('B2 c d |
+e4d2 |
+c4B2 |
+A2A A A A |
+A2c2).('B A |
+G2B2A G |
+A2c2B A |
+G2B2A G |
+A2c2).('B A |
+G A B cd2 |
+g2f e d c |
+B2c B A B |
+G4) :|]
+.('F G [I:setbarnb 17]|
+A4G2 |
+F4E2 |
+D2D D D D |
+D2>).('B2 c d |
+e4d2 |
+c4B2 |
+A2A A A A |
+A4).('g2 |
+e2c e c e |
+d2B d B d |
+e2c e c e |
+d2B d B d) |
+.('e4d2 |
+c4B2 |
+A2A A A A |
+A2c2).('B A |
+G2B2A G |
+A2c2B A |
+G2B2A G |
+A2c2).('B A |
+G A B cd2 |
+g2f e d c |
+B2c B A B |
+G6) |]

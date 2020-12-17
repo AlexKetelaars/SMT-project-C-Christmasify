@@ -1,0 +1,35 @@
+X: 6324
+T: De wacht aan Rejn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 303983864
+%%humdrum-veritas-data 833615706
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+C>EGG |
+E>Gcc |
+defd |
+c>BB).('G |
+e>e d/> d/ ^c3// c// |
+d3x/ B/ |
+A/> A/ B/> c/BA |
+G3).('G |
+d>cBB |
+c>GGG |
+f>edd |
+e>dc2) |
+.('G2G^G |
+A>Bcc |
+c2d2 |
+e3z) |
+.('c2cc |
+cegf |
+e2d2 |
+c2z) |]

@@ -1,0 +1,30 @@
+X: 4502
+T: Vrienden hoor eens naar dit lied Van een kle [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 1758407913
+%%humdrum-veritas-data 3536248954
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D2GG2G |
+B2AG3) |
+.('A A B A G/ G/ G |
+F2ED3) |
+.('D2GG2G |
+B2AG3) |
+.('A A BA2G |
+F2ED2).('D |
+A2AA2A |
+c2cB2A) |
+.('A A A A A A |
+c2cB2A) |
+.('G2GG2G |
+G F ED3) |
+.('B2Bd2d |
+A2AG3) |]

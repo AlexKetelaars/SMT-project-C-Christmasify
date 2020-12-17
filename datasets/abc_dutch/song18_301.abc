@@ -1,0 +1,34 @@
+X: 17300
+T: AU doux son de ma flute Et de ma voix touchante
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3596214080
+%%humdrum-veritas-data 396225200
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('zcc |
+ccc |
+A>Bc |
+B(c/ B/) (A/ G/) |
+A2A |
+zz).('A |
+B3 |
+B>cd |
+G>AB |
+A(B/ A/) (G/ F/) |
+E2C) |
+.('zcf |
+dcA |
+B2B/ c/ |
+dcB |
+A).('AB |
+c>Bc |
+ABc |
+dG3/F/ |
+F3) :|]

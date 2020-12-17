@@ -1,0 +1,31 @@
+X: 5893
+T: Over ettelijke jaren, Als grand-père was een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1824176444
+%%humdrum-veritas-data 860916908
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('E E [I:setbarnb 1]|
+A2>G2 A B |
+c2A2).('B c |
+{B}A2A c A G |
+A2z2).('E E |
+A2>G2 A B |
+c2A2).('B c |
+{B}A2(B c) A G |
+A2z) .('c c d |
+e2c2d e |
+{e}d2B) .('d c B |
+A2(B c) B A |
+{A}G2E4) |
+.('c c c e d c |
+B4).('B c |
+A2B c A G |
+A6) |]

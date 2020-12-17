@@ -1,0 +1,59 @@
+X: 524
+T: Reysig geselschap! dat den grijsen top Van d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3978338633
+%%humdrum-veritas-data 2517452357
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A3G/ F/ |
+E3^F |
+G2A2 |
+B3B |
+A2).('c2 |
+B>ABc |
+d2c2- |
+c).('d/ c/BA |
+^G2).('(Bc/ d/) |
+e3d |
+c>cB2- |
+BAA2 |
+^G2A2- |
+(A^G/ ^F/G2) |
+A4) |
+.('G4 |
+G2G2 |
+A4 |
+(G3F) |
+E4 |
+z2z).('c |
+defd |
+e3e) |
+.('dcc2- |
+(cB/ A/B2) |
+c3).('B |
+A2G2 |
+FEE2 |
+z2A2- |
+AA^G^F |
+^G4) |
+.('BA^GA |
+BcBA |
+^G2A2- |
+(A^G/ ^F/G2) |
+A).('FE2 |
+D>).('DD^F- |
+F/ G<AB/c- |
+ccc2 |
+z).('G>GG |
+EA2G |
+d2c2 |
+B2A2 |
+(^GAG/AG/) |
+A4) |]

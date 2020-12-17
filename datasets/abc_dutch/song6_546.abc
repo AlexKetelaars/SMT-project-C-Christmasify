@@ -1,0 +1,50 @@
+X: 5545
+T: Drinken wy tot morgen! weg de smart! weg de  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2435888016
+%%humdrum-veritas-data 1370919382
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Ab clef=treble
+.('A2>A2 A f |
+e2c2z2) |
+.('f> ed4 |
+e> dc4) |
+.('A2>A2 A f |
+e2c2z2) |
+.('B> eg2f =d |
+e2e2z2) |
+.('e2>f2 g f |
+e4c2) |
+.('f> ed4 |
+e> dc4) |
+.('f2>g2 a f |
+e4c2) |
+.('f> ed4 |
+g> ga4) ||
+[K:Eb] .('g> f e d c B [I:setbarnb 18]|
+(B> e)B4) |
+.('B2>f2 B f |
+e> fg2g2) |
+.('g2z f e d |
+f ec2z2) |
+.('g2>f2 e d |
+(f e)c2z3/) .('c/ |
+f> f (f e) d c |
+(e d)B2z2) |
+.('f2>e2 d c |
+e dB2z2) |
+.('g> f e d c B |
+B2e zz2) |
+.('B2>f2 (B f) |
+e> f g zz2) |
+.('g> f e d c =B |
+(c> e)a2z2) |
+.('a> fc2z2 |
+d> de2z2) |]

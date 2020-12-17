@@ -1,0 +1,31 @@
+X: 4287
+T: Gij vergt mij dat ik zingen zal 'k Heb het n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 1447205179
+%%humdrum-veritas-data 3446231892
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/GA/ |
+BA/G3/) |
+.('AA/BA/ |
+G3/-G).('D/ |
+GG/GA/ |
+BA/G).('G/ |
+AA/BA/ |
+G3/-G).('B/ |
+dd/dB/ |
+cc/c).('c/ |
+BB/BG/ |
+AA/A).('D/ |
+GG/GG/ |
+A3/d).('c/ |
+BB/AA/ |
+G3/-G) |]

@@ -1,0 +1,30 @@
+X: 9562
+T: Vrienden, het gaat plaisant, De wereld is vo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 3127448275
+%%humdrum-veritas-data 255898159
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2B3/B/ |
+F>GF3/).('F/ |
+CD/ D/EF |
+E2D2) |
+.('B2B3/B/ |
+F>GF3/).('F/ |
+CDEF |
+E2D2) |
+(3.('G G GGF |
+E2E2) |
+(3.('F F FFE |
+D>EF3/).('F/ |
+B>BB3/A/ |
+G2c3/).('c/ |
+B>BA3/A/ |
+B2z2) |]

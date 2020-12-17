@@ -1,0 +1,37 @@
+X: 13238
+T: Arbre charmant qui me rappelle Ceux où ma ma [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 1366476924
+%%humdrum-veritas-data 759664521
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('e2c d [I:setbarnb 1]|
+e2e2d c d e |
+(d c)c2z f f f |
+z e d c e d c B |
+!fermata!A4).('e2c d |
+e2e2(d c) (d e) |
+(d c)c2c2c d |
+e2(^d e) (f e) (=d c) |
+(c2B2)B2).('B c |
+d2d2B3c |
+d4{d e}f2e d |
+c2(c e) (e d) (d c) |
+!fermata!c2!fermata!B2).('e2e e |
+^d2d2=d2{e}d2 |
+(d c) .B .c (e d) .c .d |
+(e ^e) f dc2B2) |
+.('(d c) B c (e d) c d |
+(e ^e) f dc2B2 |
+A4z) .('f f f |
+e> dc2z f f f |
+e> dc2z f f f |
+z e d c e d c B |
+A4) |]

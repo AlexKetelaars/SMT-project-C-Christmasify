@@ -1,0 +1,30 @@
+X: 6085
+T: Pistole
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 1930923734
+%%humdrum-veritas-data 4042868546
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('D2>E2F3G |
+A4G3F |
+B2>A2G3F |
+E4D4) |
+.('A2>B2c3d |
+e4d3c |
+f2>e2d3c |
+B4A4) :|]
+.('e4d ef2 |
+g6z f |
+e2>f2d3e |
+c6z) .('A |
+d2c dB2c d |
+e2f d2<c2A |
+d2>e2f2g f |
+e4d2) |]

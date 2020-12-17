@@ -1,0 +1,32 @@
+X: 16315
+T: Wilt, o schelle Nachtegalen, Myn gehoor op z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3026201348
+%%humdrum-veritas-data 3467078066
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A G [I:setbarnb 1]|
+F2 (E D) (A2 B) c |
+(d c)d4).('A d |
+(B2 A) D (G A/ B/ A) G |
+(3(F E D)D4).('F ^G |
+A2 E2 d2 (c B) |
+(c d c d e2)) .('A c |
+F2 (3(d c B) {A B} !trill!!trill!B3 A |
+A6) |
+.('c d [I:setbarnb 9]|
+e2 (c B) A2 G2 |
+G2F4).('F B |
+^A2 {B c} B2 (c2 d) e |
+(3(d c B)B4).('d d |
+(e c) A2 (e/ d/ c/ B/ A) G |
+{G}F6).('A d |
+(B2 g) {f/} e2< {d e} !trill!!trill!e2 d |
+d6) :|]

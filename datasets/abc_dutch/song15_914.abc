@@ -1,0 +1,32 @@
+X: 14913
+T: Quel puro colore Che splende nel giglio
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:49
+%%humdrum-veritas 3312058312
+%%humdrum-veritas-data 2191607222
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=132
+K: F clef=treble
+.('e [I:setbarnb 1]|
+e/ f/gG |
+G/ A/B).('g |
+g/ f/eB |
+B/ A/G).('c |
+dde |
+f(e/ d/)) .('(c/ B/) |
+ABG |
+F2) |
+.('F [I:setbarnb 9]|
+AA=B |
+cG).('c |
+fed |
+e/ d/c).('G |
+fed |
+gf/ e/ d/) .('c/ |
+dG=B |
+c2) :|]

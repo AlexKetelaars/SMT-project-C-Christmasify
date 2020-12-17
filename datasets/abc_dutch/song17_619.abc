@@ -1,0 +1,61 @@
+X: 16618
+T: Eeven hooggestelde snaren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 46352712
+%%humdrum-veritas-data 167196339
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('z2e> e d> ^G G3/ G/ |
+A A A> A d (d/ e<) c (B// A//) |
+A2!mordent!!mordent!c> c ^c> c d e |
+f f A> A B c c3/ B/ |
+c2!mordent!!mordent!e c (g/ G/) (A/ B/) (c/ B/) (c/ d/) |
+B B B B ^c d d3/ c/ |
+d d B> B e d c3/ B/ |
+c d (d3/ e// f//) ^G A A3/ G/ |
+A2A> A B c c3/ B/ |
+c c e> e ^f g g3/ f/ |
+g2!mordent!!mordent!B e ^c c d e |
+f2f> f f> e e3/ e/ |
+A A (B/ c/) (d/ B/) (^G/ E/) (A/ B/) c (B/ A/) |
+A2z2z2).('!mordent!!mordent!A3/ c/ |
+F F _B> AA2A3/ A/ |
+B> B B B c c c3/ c/ |
+f> _e e> d d dz2 |
+z) .('d _B> AG2z2 |
+z c c> cd3G |
+c (_B/ A<) G F/F4) |
+.('z4E2E2 |
+A2A2c2c2 |
+B4e2e2 |
+d4g2g2 |
+g2>f2f3e |
+e4).('!mordent!!mordent!e2e2 |
+d2d2f3f |
+e2e2e3e |
+f2e2e3d |
+e4).('!mordent!!mordent!e3e |
+(e A) (A B2<)^c2c |
+d2d2^G3G |
+^G2=A2A3G |
+A4).('A2d2 |
+B2c2c3B |
+c2(e f) g a g a |
+d2(d e) f e d c |
+d4).('e3e |
+A4d3d |
+d2(c B2<)B2A |
+A2A B c d c d |
+e2B A B c B c |
+d2A ^G A c B A |
+^G4).('e3e |
+A4d3d |
+d2(c B2<)B2A |
+A8) |]

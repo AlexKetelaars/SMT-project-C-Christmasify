@@ -1,0 +1,30 @@
+X: 15338
+T: Russisch Volkslied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 4046897542
+%%humdrum-veritas-data 20743583
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B2cc |
+B>GE2 |
+e2dc |
+B2c2) |
+.('A2B2 |
+G2G=A |
+B2=A^F |
+G4) :|]
+.('A2GF |
+G>>GGG |
+e>>dc=B |
+c2B2) |
+.('e2dc |
+B2CA |
+G2F2 |
+E4) |]

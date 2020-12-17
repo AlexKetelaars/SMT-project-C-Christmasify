@@ -1,0 +1,23 @@
+X: 2679
+T: Wij reizen naar Frankrijk En de zeilen staan goed.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 1538774012
+%%humdrum-veritas-data 1579185936
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+D2B,2C2 |
+(D G)!fermata!B2).('A A |
+G2A2B2 |
+A4).('A B |
+c2>A2 d c |
+B2-B A/) .('A/ G B |
+A2E2F3/ F/ |
+G4) |]

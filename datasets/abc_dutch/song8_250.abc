@@ -1,0 +1,18 @@
+X: 7249
+T: Een is eene, Eenen God alleene
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 3322585394
+%%humdrum-veritas-data 3580822940
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2(F A)G2D2 |
+B B A B (c B)A2) |
+.('B A B c B A G c |
+B2A2G2z2) |]

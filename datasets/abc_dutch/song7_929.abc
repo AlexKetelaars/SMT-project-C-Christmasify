@@ -1,0 +1,59 @@
+X: 6928
+T: Kinderkens altemaal, Laat ons geren naar den [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 548251456
+%%humdrum-veritas-data 2208040400
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G G GG2G |
+G3).('F2F |
+E2E D D G |
+G2^F!fermata!G2).('D |
+D2D D D D |
+E2G G G G |
+G2^F!fermata!G2).('E/ =F/ |
+G G G G G G |
+F2ED2).('E/ F/ |
+G2G A A) .('A |
+F F F/ F/ G G G |
+B3B3 |
+c3).('F3 |
+E3D3 |
+C2zz2).('G, |
+E2EE2E |
+D2C!fermata!D2).('C |
+G G G G G G |
+G2FE2D |
+E3!fermata!z2).('C/ C/ |
+F A AA2A |
+G3!fermata!z2).('F |
+E/ E/ E EG2E |
+D3z2).('C/ E/ |
+G G GG2G |
+F F FF2).('F/ F/ |
+E E E G E) .('E |
+D D D D D) .('F |
+E2EG2B |
+c3).('A3 |
+G2GG2G |
+C3z2) ]|:
+.('G [I:setbarnb 33]|
+F2FF2E |
+D3z2).('E/ F/ |
+G G GG2F |
+E3z2).('G/ G/ |
+G G GF2E |
+E E EE2).('E/ F/ |
+G G G G G) .('G |
+A A A A F F |
+G3B2B |
+c3).('F3 |
+E3D2D |
+C2zz2) :|]

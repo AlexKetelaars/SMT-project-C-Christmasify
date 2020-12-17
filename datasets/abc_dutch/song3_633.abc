@@ -1,0 +1,31 @@
+X: 2632
+T: Ik voerde belast met mijn schuitje door zee  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:53
+%%humdrum-veritas 4108663737
+%%humdrum-veritas-data 2265396121
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2c cB2A G |
+F2F ED2).('G2 |
+F2G c2<c2c |
+B4A3).('A |
+G2(A c)B2A2 |
+G2F ED2).('D2 |
+E2c2B2B3/ c/ |
+B4A2).('(B c) |
+d2d2G2(A B) |
+c2B2A3).('A |
+G2>A2 (B A) B c |
+(d c) B AG2).('(B c) |
+d2d2G2(A B) |
+c2B2A3).('A |
+G2>A2B2e e |
+(d c) B AG2) |]

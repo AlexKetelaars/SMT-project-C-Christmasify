@@ -1,0 +1,30 @@
+X: 11798
+T: Gavott d’Angou
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 2912033385
+%%humdrum-veritas-data 821326192
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('a2g2 [I:setbarnb 1]|
+a gf2e3d |
+d2>d2 e fg2 |
+(c2f2)f3e |
+f2>).('f2 g a g f |
+e2a2a3^g |
+a4) ||
+.('e2e2 [I:setbarnb 7]|
+e2d c2<g2f |
+e4c2c2 |
+d e d c2<B2A |
+A4).('a ga2 |
+a ga2a2g f |
+g4g2a2 |
+e2f2e3d |
+d4) |]

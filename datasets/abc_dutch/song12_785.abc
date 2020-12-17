@@ -1,0 +1,57 @@
+X: 11784
+T: 293
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:18
+%%humdrum-veritas 2030772871
+%%humdrum-veritas-data 2952967806
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=100
+K: G clef=treble
+.('g [I:setbarnb 1]|
+d2AB>AG |
+A2AA2).('g |
+d2AB>AG |
+A2AA2).('f |
+g>B c/ B<AG/F |
+G2GG2).('b |
+e>fgA>GF |
+G2G!fermata!G2) |
+.('g [I:setbarnb 9]|
+e2ef>ge |
+^d2eB2).('g |
+e2ef>ge |
+^d2fB>).('^cd |
+e2BB>^c^d |
+e2BB>^c^d |
+e2BB2).('g |
+e2^de2f |
+g3-g2a |
+g3-g2).('f |
+e>d^cd>cB |
+B2BF2).('f |
+e>d^cd>cB |
+B2BB2).('d |
+e>def>ef |
+g2gg2).('d |
+c>dBA>GF |
+G2GG2).('d |
+c>dBA>GF |
+G2GG2).('d |
+^c>BAB>AG |
+A2DD2).('d |
+^c>BAB>AG |
+A>G F/ E<D).('f/e |
+d2AA>fe |
+d2AA>fe |
+d2AA>).('ag |
+f2ef2g |
+a2ea2).('d |
+^c3-c2d |
+^c3-c2e |
+a>gfe2f |
+d2dd2) :|]

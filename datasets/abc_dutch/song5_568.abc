@@ -1,0 +1,35 @@
+X: 4567
+T: Ik ging er laatstmalen uit wandelen Om mijn  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 2425013644
+%%humdrum-veritas-data 3511273990
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G B B G |
+D2ED2).('D/ D/ |
+E E E (G F) E |
+D2BG2).('G |
+A2>(A2 B) c |
+d3B2).('d |
+c2BA2B |
+A3-A2).('B |
+A2BA2B |
+A3-A2).('A/ A/ |
+B A G (G F) E |
+(D G B)d2).('d |
+c B A G F E |
+D G Bd2).('D/ D/ |
+(D G) Be2d |
+B3-B2).('d |
+c B A G F E |
+D G Bd2).('D/ D/ |
+(D G) Be2d |
+B3-B2) |]

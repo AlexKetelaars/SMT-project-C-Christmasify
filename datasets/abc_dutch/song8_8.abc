@@ -1,0 +1,64 @@
+X: 7007
+T: No536
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:33
+%%humdrum-veritas 1819734090
+%%humdrum-veritas-data 888146777
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=76
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2{f} (3e d cd2{f} (3e d c |
+d2D2D2{g/} (3f e d |
+e2{g/} (3f e de2{g/} (3f e d |
+e2A B A G) .('F E |
+D2g2g2!trill!!trill!f2 |
+e2d2d2D2 |
+D2G2G2F2 |
+E2D2D2).('f2 |
+g2b a g f e d |
+c2B cA2).('A2 |
+d2(3e d cd2(3e d c |
+d2D2D2{g/} (3f e d |
+e2(3f e de2(3f e d |
+e2A B A G F E |
+D2g2g2f2 |
+e2d2d2D2 |
+D2G2G2F2 |
+E2D2D2a g |
+f g a bf2!trill!!trill!e2 |
+d6) |
+.('d e [I:setbarnb 21]|
+f d A F D d f a |
+e a e c A c d f |
+d B ^G B E G B d |
+c2B cA2).('E2 |
+A2(3B A ^GA2(3B A G |
+A2(3B A ^GA2{d} (3c B A |
+B2{d} (3c B AB2(3c B A |
+B2(3c B AB2(3d c B |
+c e a Bc2!trill!!trill!B2 |
+A6).('e2 |
+f2a4g f |
+e2g4f e |
+f2a4g f |
+e d c BA2).('E2 |
+F2A4G F |
+E2G4F E |
+F2A4G F |
+E D C B,A,2).('A2 |
+d2(3e d cd2(3e d c |
+d2D2D2{g} (3f e d |
+e2{g} (3f e de2{g} (3f e d |
+e2A B A G) .('F E |
+D2g2g2f2 |
+!trill!!trill!e2d2d2D2 |
+D2G2G2F2 |
+!trill!!trill!E2D2D2a g |
+f g a bf2e2 |
+d6) :|]

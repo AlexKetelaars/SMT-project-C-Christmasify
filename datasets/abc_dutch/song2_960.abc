@@ -1,0 +1,42 @@
+X: 1959
+T: Men ziet wat goud verblindt En doet veel har [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 373571439
+%%humdrum-veritas-data 34776580
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B2cd2e |
+d3-d2).('d |
+g2ga2a |
+b3g2).('d |
+g2gf2g |
+a2>-a2) .('e f |
+g2gf2e |
+d3-d2).('d |
+B2cd2e |
+d3-d2).('d |
+g2ga2a |
+b3g2).('d |
+g2gf2g |
+a2>-a2) .('e f |
+g2gf2e |
+d2>).('d2 B d |
+b b ba2g |
+d3-d2).('d |
+e2f g g a |
+[M:9/8]g3d3-d2).('a |
+[M:6/8]a2ba2f |
+d3-d2).('d |
+b2bb2g |
+e2>-e2) .('^d e |
+c'2>b2 a g |
+[M:9/8]d2>).('e2 f gb2a |
+[M:6/8]g3-g2) |]

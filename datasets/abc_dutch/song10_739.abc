@@ -1,0 +1,23 @@
+X: 9738
+T: Sliep uit, sliep uit, Jan Domkop! Sliep uit, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 2586748971
+%%humdrum-veritas-data 246869669
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+F2AF2A |
+B3A2).('A |
+F2AF2A |
+B3A2).('A |
+d d dd2A |
+B B BB2).('B |
+A2FG2E |
+E3D2z) |]

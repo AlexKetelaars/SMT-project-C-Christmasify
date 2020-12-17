@@ -1,0 +1,25 @@
+X: 9234
+T: En daar zat eenen uil en spon, willewon, En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 2986750524
+%%humdrum-veritas-data 3441349200
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+G2G> GA2A2 |
+B2B> AG2).('G3/ B/ |
+d2d> dc2A2 |
+G2z4).('B3/ c/ |
+d2>d2B2A B |
+c2>B2A2z2) |
+.('B> c B> A G> G F3/ G/ |
+A2>F2D2).('d2 |
+B2c> cd2D2 |
+G4z2) |]

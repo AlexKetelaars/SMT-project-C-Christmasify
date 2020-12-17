@@ -1,0 +1,31 @@
+X: 508
+T: Verblijd, verblijd u alle tijd Dat is ons' e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 761636616
+%%humdrum-veritas-data 3637774516
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A2G2 |
+(A// G// A// B// c/) (d// c//)B3/A/ |
+A2x).('(A/ B/) |
+B>AA3/G// F// |
+E2D2 |
+z/ A/> G/ F/E2 |
+D2).('FG |
+AAG(A// G// A// B// |
+c)dA).('F |
+GAcF |
+G2F).('(C |
+D)CDE |
+F2G3/G/ |
+A>A) .('(B/ c/)d |
+d>^cd2 |
+d>^cd2) |]

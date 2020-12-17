@@ -1,0 +1,26 @@
+X: 4254
+T: Och zeg mij goede vader mijn Wat zou dat zijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 3902875177
+%%humdrum-veritas-data 1780555257
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B G F G B> e d3/) .('B/ |
+d2c2A3).('d |
+B G e d d c A3/) .('A/ |
+B c d g g f e3/) .('e/ |
+d> ^c d> GB2A2 |
+[M:2/4]G7/).('B/ |
+[M:4/4]A f e> d d> ^c e3/) .('B/ |
+A> E F G B> A A3/) .('A/ |
+(3c c d B> A c> d B) .('d |
+g> B e> cB2A2 |
+G6) |]

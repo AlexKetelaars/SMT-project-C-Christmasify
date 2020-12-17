@@ -1,0 +1,36 @@
+X: 15785
+T: klokkegespeel van duinkerken
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:57
+%%humdrum-veritas 3124842511
+%%humdrum-veritas-data 786366264
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('(G/ A/) [I:setbarnb 1]|
+BGBG |
+ADD(A/ B/) |
+cAcA |
+BGG).('d |
+edef |
+gf/ e/dc |
+B2A2 |
+G3) |
+.('d [I:setbarnb 9]|
+g>agf |
+e3e |
+a>bag |
+f3).('a |
+gfed |
+^cAdg |
+f2e2 |
+d3).('d |
+gagf |
+e3d |
+c3d/ c/ |
+BA3) |]

@@ -1,0 +1,39 @@
+X: 2884
+T: Het exempel hebben wij gehad Al binnen Meurs [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 2227135293
+%%humdrum-veritas-data 1137026658
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D E G [I:setbarnb 1]|
+D2BA2G |
+E2>).('A2 B A |
+G2GD2D |
+B,3).('D/ D/ G A |
+B2A (G/ F/)E2- |
+E2>).('A2 B A |
+G2F GD2- |
+D2>).('D2 E G |
+D2BA2G |
+E2>).('A2 B A |
+G2F GD2- |
+D2>).('D2 E G |
+(D G) BA2G |
+E2>).('A2 B A |
+G2F GD2- |
+D2>).('D2 E G |
+D2BA2G |
+E2>).('A2 B A |
+G2GD2D |
+B,2>).('D2 G A |
+B2A/> G/ (G/ F/)E2- |
+E2).('A A B A |
+G2F GD2- |
+D3) |]

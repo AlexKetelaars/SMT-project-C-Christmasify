@@ -1,0 +1,27 @@
+X: 15138
+T: In ‘t fortuintje moet je wezen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 515434567
+%%humdrum-veritas-data 2703078965
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A// B// c// [I:setbarnb 1]|
+d2FF2F |
+F2GB2).('A |
+d2FB2A |
+G F ED3) |
+.('A A AA2G |
+G G GG2F |
+F F F F F E |
+F2GA3) |
+.('A A AA2G |
+G G GG2F |
+F F F F E E |
+G2CD3) :|]

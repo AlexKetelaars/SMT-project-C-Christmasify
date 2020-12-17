@@ -1,0 +1,27 @@
+X: 5572
+T: De zoete tijd komt aen, Laet ons gaen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 2213890909
+%%humdrum-veritas-data 510372870
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2de2f |
+g f e d) .('g f |
+e d c (B A) B |
+c2>z2) .('A B |
+c2dc2B |
+A3G2).('G |
+c2BA2B |
+c B AG2).('G |
+c2de2f |
+g f e d) .('g f |
+e d c (B A) B |
+c3) |]

@@ -1,0 +1,28 @@
+X: 16863
+T: La Secilia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 4233055589
+%%humdrum-veritas-data 2807587633
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G A B cd2d2 |
+_e2d cd2d2) |
+.('c2c d B A B c |
+d2B A/ G/G2G2) |
+.('g2g a f e f g |
+g2f e/ d/d3c |
+d e f d_e2d2 |
+c d c B2<B2).('A |
+B c d Bc2c _e |
+G A B cA2A2) |
+.('G A B cd2d2 |
+_e2d cd2d e |
+c2c d B A B c |
+d B A/ G/G2G2) :|]

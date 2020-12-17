@@ -1,0 +1,32 @@
+X: 447
+T: Wel op, wel op, ick gae ter jaght
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 18620552
+%%humdrum-veritas-data 863509142
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('e2d cB2c2 |
+d2G2c4) |
+.('c2d2e2d2 |
+c2B2A4) |
+.('c2G2A2G2 |
+c2G2A2G2) |
+.('c2>d2e2g2 |
+f2e de4) |
+.('e2d c B A B c |
+d c B Gc4) ||
+.('c B c d e f d e [I:setbarnb 12]|
+c d B cA4) |
+.('c G E GA2G2 |
+c B A GA2G2) |
+.('c B c d e f g a |
+f2e de4) |
+.('e2d c B A B c |
+d G A Bc4) |]

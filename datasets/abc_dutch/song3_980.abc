@@ -1,0 +1,31 @@
+X: 2979
+T: Nu moet ik gaan dienen de soldaten Ver van h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 3153369233
+%%humdrum-veritas-data 3649281480
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B/ [I:setbarnb 1]|
+B3c/ c/ d g f g |
+(A2c2)e4) |
+.('d2>d2 e d A3/ A/ |
+B8) |
+.('B2>c2 d/ d/ g f g |
+(A2c2)e4) |
+.('d2>d2 e d f3/ a/ |
+g4-g) .('g g3/ g/ |
+[M:3/4]g2>g2 f3/ e/ |
+f2f2-f3/) .('f/ |
+[M:4/4]e2>f2 g g f e |
+d6-d3/) .('c/ |
+B2>c2 d g f g |
+a4e4) |
+.('d2>d2 e d f3/ a/ |
+g6z3/) |]

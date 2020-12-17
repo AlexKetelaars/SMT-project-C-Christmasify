@@ -1,0 +1,38 @@
+X: 11117
+T: Heb ik uw mond en bloozende wangen, (Ach zoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 2031427048
+%%humdrum-veritas-data 576762493
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d^cd |
+e2f |
+ge(a/ g/) |
+f2e) |
+.('AA/ A/ A/ A/ |
+AFD |
+de^c |
+d3) |
+.('ee/ e/ e/ e/ |
+ecA |
+ef/ e/ d/ c/ |
+B2A) |
+.('d^cd |
+e2f |
+ge(a/ g/) |
+f2e) |
+.('ee/ e/ e/ e/ |
+ecA |
+ef/ e/ d/ c/ |
+B2A) |
+.('d^cd |
+e2f |
+gg/ f/ e/ f/ |
+d3) |]

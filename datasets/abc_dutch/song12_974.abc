@@ -1,0 +1,33 @@
+X: 11973
+T: La Baume
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 4200875477
+%%humdrum-veritas-data 88637610
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('gd3/g/ |
+ee2 |
+d/ e<cB/ |
+B2B) |
+.('b/ f<ga/ |
+^gg2 |
+a/ e<=fg/ |
+eA2 |
+B/ B<^cd/ |
+d2x) |
+.('af3/f/ |
+gB2 |
+e/ f<fg/ |
+e(d3/c/) |
+B(c3/d/) |
+e(f3/g/) |
+afg |
+(a/ b<)ag/ |
+g2) :|]

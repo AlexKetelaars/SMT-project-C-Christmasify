@@ -1,0 +1,38 @@
+X: 827
+T: Het saut ien jaeger to't jaegen gaen met sei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 2784750437
+%%humdrum-veritas-data 4048195921
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('(D/ F/ A/) [I:setbarnb 1]|
+(A F) F |
+G E C |
+D2E |
+F2).('G |
+(A d) A |
+(G E) G |
+F3) |
+.('D E F |
+D E F |
+G3 |
+F2).('A,/ A,/ |
+D F A |
+(d A) F |
+F3 |
+E2z) |
+.('A3 |
+(B A) F |
+(G E) G |
+G3) |
+.('A3 |
+(B A) F |
+(A G) E |
+D2) |]

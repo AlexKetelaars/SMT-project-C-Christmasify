@@ -1,0 +1,32 @@
+X: 16254
+T: De Chamiljoen myn vrind, Gy zegt, men nergens vind
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 356470021
+%%humdrum-veritas-data 2614055667
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G [I:setbarnb 1]|
+cd=B3/c/ |
+c3d |
+e>ff3/g/ |
+g3).('_a |
+f>ed3/c/ |
+=B3B |
+c>d (e/ c/) (d/ e/) |
+A2G) |
+.('g [I:setbarnb 9]|
+e>ef3/g/ |
+_a3f |
+d>def |
+=B3).('G |
+cAd3/e/ |
+f3f |
+g>=Bc3/d/ |
+d2c) :|]

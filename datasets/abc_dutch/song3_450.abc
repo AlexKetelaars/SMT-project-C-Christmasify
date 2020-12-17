@@ -1,0 +1,23 @@
+X: 2449
+T: Ik was een dochter jong van jaren vroeg gene [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 1809147717
+%%humdrum-veritas-data 2639145353
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B/ [I:setbarnb 1]|
+d>ed3/c/ |
+BABG) |
+.('d>ed3/c/ |
+BABG) |
+.('GG_ee |
+dcdd) |
+.('dd/ d/d(A/ _B/) |
+cd/ c/_B3/) |]

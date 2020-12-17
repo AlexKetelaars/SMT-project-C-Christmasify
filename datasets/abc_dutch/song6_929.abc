@@ -1,0 +1,38 @@
+X: 5928
+T: Anne-Marietje, waar gaat gij naartoe? Gaat g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 3630958899
+%%humdrum-veritas-data 1114626433
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('G A B |
+d {d} B d |
+e c e |
+d2z) |
+.('G A B |
+d {d} B d |
+e c e |
+d2z) |
+.('G A B |
+c d c |
+A B A |
+d e d) |
+.('B B B |
+c d c |
+A B A |
+G2z) |
+.('G A B |
+c d c |
+A B A |
+d e d) |
+.('B B B |
+c d c |
+A B A |
+G3) |]

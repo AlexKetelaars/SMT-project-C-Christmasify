@@ -1,0 +1,35 @@
+X: 15928
+T: Gedagten
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 3461243849
+%%humdrum-veritas-data 2989549177
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c4g4 |
+e6a g |
+f2e2d2c2 |
+d c d ed2G2 |
+A4B4 |
+c4g4 |
+f2(e d2<)d2).('c |
+c6) |
+.('g2 [I:setbarnb 9]|
+a g a ba2g2 |
+a g a ba2g2 |
+a2g2a2b2 |
+c'4g4) |
+.('c'2g fe2).('f g |
+a2f ed2e f |
+g f e dc2e2 |
+d c B AG2G2) |
+.('A4B4 |
+c4g4 |
+f2e d2<d2c |
+c4) |]

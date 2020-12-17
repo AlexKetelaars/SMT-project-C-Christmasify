@@ -1,0 +1,35 @@
+X: 5542
+T: Herinnert ge u die zegeryke dagen, toen Vlae [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3378375434
+%%humdrum-veritas-data 217908826
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A A A [I:setbarnb 1]|
+A2>F2 F F G F |
+F2D2z) .('A, D F |
+E2>D2 C E B A |
+F4z) .('A A A |
+A2z F F F G F |
+F2D2z) .('A, D F |
+E2>D2 C E B A |
+D4z) .('D E F |
+G2>G2 G F G B |
+(A F/ G/)A2z) .('D E F |
+G2>G2 G G A B |
+A4z) .('A A A |
+A2>F2 F F G F |
+F2D2z) .('A, D F |
+E2>D2 C E B A |
+F4z) .('A A A |
+B2>B2 B G d c |
+(B A)A2z) .('f d B |
+A2>A2 B A G E |
+D zz2z4) |]

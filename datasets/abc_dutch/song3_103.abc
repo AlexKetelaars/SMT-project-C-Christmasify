@@ -1,0 +1,45 @@
+X: 2102
+T: Klein zieltjen klein zieltjen zat achter de  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 13143697
+%%humdrum-veritas-data 3949311418
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+B A G B A G |
+d c BA2).('A |
+c B A c B A |
+c F AG2).('G |
+A A A G G G |
+A A AG2).('G |
+A A A B B B |
+A2AG2).('G |
+A A A B B B |
+A2AG2).('B |
+A B AG2B |
+A B AG2).('A |
+A2AB2B |
+A B AG3) |
+[M:2/2].('G G G GG2G2 |
+G G G GG2G2) |
+.('c c c c B B B) .('B |
+A A/ A/ A BA2G2) |
+.('G2G2A2A A |
+d e d cB2A2) |
+.('G2G2A2A A |
+d2d cB2A2) |
+.('G G G GE4 |
+G G G GD4) |
+.('c2c cB2B B |
+A A A AG4) |
+.('G2G2G2G2 |
+G4G4) |
+.('G2G GG2G2 |
+G4G4) |]

@@ -1,0 +1,30 @@
+X: 9708
+T: Komt jonge dochters wilt mijn druk doorgrond [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 4188736398
+%%humdrum-veritas-data 1614656072
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A [I:setbarnb 1]|
+Addd |
+ddec |
+d4 |
+d2z).('A |
+ABAG |
+FGAA |
+!fermata!D2z).('A |
+AcBA |
+G2AB |
+(c2dc) |
+G2).('B2 |
+A2G2 |
+F2G2 |
+FECE |
+D2z2) |]

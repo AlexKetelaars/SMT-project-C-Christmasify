@@ -1,0 +1,27 @@
+X: 10898
+T: ‘t Passeerd’ e patertje langst den kant, En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 2727335524
+%%humdrum-veritas-data 1910437404
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('cc2c [I:setbarnb 1]|
+[M:9/8]c3G2GA2B |
+[M:6/8]c2).('cc2c |
+[M:9/8]c3G2GA2B |
+[M:6/8]c2>-c2 z) .('c |
+d2d d> d e |
+f2ed3) |
+.('e2c (c B) c |
+d2BG3) |
+.('G2GA2B |
+(c3e3)) |
+.('G2GA2B |
+c2zz2z) |]

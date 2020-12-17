@@ -1,0 +1,35 @@
+X: 6191
+T: Gij, die behagen schept in bloemen, Treedt b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3855286080
+%%humdrum-veritas-data 3693610364
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F A F [I:setbarnb 1]|
+c2c (B A) G |
+A2F) .('A G A |
+(B d) c (B A) G |
+F2z) .('A F A |
+G2c=B2d |
+c2z) .('d =B G |
+e2c (A f) d |
+(c3e2d) |
+c2z) .('c B A |
+G2G (A G) A |
+B2z) .('B A G |
+F2GA2=B |
+(c3=B2c) |
+C2z) .('c A F |
+G2C (c A) F |
+G2>G2 A B |
+c2>).('G2 A B |
+c2f (d B) G |
+(F2>-F2 A G) |
+F2z) |]

@@ -1,0 +1,32 @@
+X: 17999
+T: Où allez vous ma Jouvencelle Monsieur je ne  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2842588246
+%%humdrum-veritas-data 3325505269
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('dd/ e/dF |
+GA{G}F!fermata!D) |
+.('dd/ e/fe/ d/ |
+gf!fermata!e2) |
+.('AB/ c/dc |
+BA!fermata!^G2) |
+.('eeed/ c/ |
+Bc/ d/c{B}!fermata!A) |
+.('AAAG/ F/ |
+GA{G}!fermata!F2) |
+.('ff/ g/fe/ d/ |
+!trill!!trill!c>B!fermata!B3/G/ |
+!trill!!trill!G>A {G}!fermata!F2) |
+.('ee/ d/cB/ A/ |
+!fermata!d>D!fermata!De |
+!fermata!e>A!fermata!A2) |
+.('dd/ e/ f/ d/ g/ e/ |
+fe{d}!fermata!d2) |]

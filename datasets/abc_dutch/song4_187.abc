@@ -1,0 +1,31 @@
+X: 3186
+T: Zeg vrienden wilt dit lied aanhoren Hetgeen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 397746328
+%%humdrum-veritas-data 839159241
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2de2d |
+G2B e e) .('d |
+A2B (c B) A |
+(G F) GA3) |
+.('d2de2d |
+G2Be2d) |
+.('A A B (c B) A |
+(G F) GA2).('A |
+A2cB2B |
+(A B) cB3) |
+.('A2cB2B |
+(A B) cB3) |
+.('e2ed2g |
+g2ag3) |
+.('c c c d d G |
+B2AG2) |]

@@ -1,0 +1,26 @@
+X: 66
+T: Wat cierdt ghy, Christen-vrouwen, 't geen do [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3701480163
+%%humdrum-veritas-data 597861003
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=66
+K: F clef=treble
+.('z2GG2B |
+A2Gd3 |
+c2).('cd2f |
+B2AB2).('f |
+f2gf2d |
+d2cB3) |
+.('g3b2a |
+g3d2g |
+f2d_e2d |
+c3).('f2_e |
+d>cBA>G^F |
+G6) |]

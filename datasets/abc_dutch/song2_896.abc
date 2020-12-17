@@ -1,0 +1,23 @@
+X: 1895
+T: Ik zal jou een klucht verhalen Al van een jo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 320852702
+%%humdrum-veritas-data 1529729562
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B2 |
+G A B B |
+G B/ B/) .('B d |
+d> c c B |
+A2).('A A/ A/ |
+d d ^c c |
+d d) .('F3/ G/ |
+A A F A |
+D2) |]

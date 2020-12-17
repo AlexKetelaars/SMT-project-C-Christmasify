@@ -1,0 +1,49 @@
+X: 766
+T: Den mensche, Godes handen werck, Geschapen o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 1523335804
+%%humdrum-veritas-data 3051013999
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d [I:setbarnb 1]|
+d>c B/ A/ |
+BA2 |
+G2).('G |
+G2A |
+(BG)d |
+d^c2 |
+d2).('g |
+g2a |
+a2b |
+ba2 |
+g2).('c |
+(c>d)e |
+(d>c)B |
+BA2 |
+G3- |
+G2).('B |
+B>cB |
+A>B).('G |
+^F2G |
+A2).('B |
+(cA)d |
+d^c2 |
+d3) |
+.('d2A/ G/ |
+F3 |
+F2c/ d/ |
+e3) |
+.('c3 |
+(g>a)g |
+^f>g(e |
+d>c B/ A/ |
+B)A2 |
+G3- |
+G2) |]

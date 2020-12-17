@@ -1,0 +1,31 @@
+X: 10603
+T: Moder kiek, moder kiek mi’j es efkes an, How [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 2042219747
+%%humdrum-veritas-data 1390704460
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('A B [I:setbarnb 1]|
+c2A Bc2A A |
+d2G2G2).('G A |
+B2G2B BG2 |
+c2F2!fermata!F2z2) |
+.('F E F GA4 |
+A G A Bc4) |
+.('c2(e d) (c B) A G |
+F6z2) |
+.('F E F GA2F2 |
+G ^F G AB2G2) |
+.('E2>D2C2D E |
+F2A,2C4) |
+.('F E F GA2F2 |
+G ^F G AB2G2) |
+.('E2>D2C2D E |
+F2F2!fermata!F2) |]

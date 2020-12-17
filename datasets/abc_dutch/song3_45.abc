@@ -1,0 +1,33 @@
+X: 2044
+T: Vrolijk zullen we rondklavieren Tot aan de k [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 4170311286
+%%humdrum-veritas-data 4192971706
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G G G G G G |
+G> B BB2B) |
+.('B A B d> d d |
+c2cB3) :|]
+.('z z d^c2d |
+[M:9/8]B3-B2d^c2d |
+[M:6/8]B3-B2).('d |
+d d dg2B |
+d3c3) |
+.('B2>A2 B c |
+A B cd2d |
+(B2d)G3) ]|:
+.('G2AB2c |
+(d3g2)).('f |
+e2dc2d |
+e3-e2).('g |
+g f e (e d) d |
+(d e) fg2d |
+(c B) AG3) :|]

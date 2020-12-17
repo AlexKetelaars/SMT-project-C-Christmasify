@@ -1,0 +1,15 @@
+X: 620
+T: Ons Heer ons God ontfermen moet En ons ghebenedyen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3314581137
+%%humdrum-veritas-data 1225723747
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2F2G2A2B4A2G4F4z2).('c2d4c2c4A2B4A4).('c2d4c2c2c2A2(B2A2)G2F4z2).('B2A2G2A2B2(c2>B2AG4)F4) |]

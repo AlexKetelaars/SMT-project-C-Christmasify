@@ -1,0 +1,21 @@
+X: 9363
+T: Een drietal gezellen trok over den Rijn, Hen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 82261964
+%%humdrum-veritas-data 2776985497
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G c> c c B A |
+A G> EG2).('E |
+E D> E G F E |
+E D> DD2).('G |
+c B> c e d c |
+d A> Bc2) |]

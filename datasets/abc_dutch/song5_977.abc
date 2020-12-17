@@ -1,0 +1,27 @@
+X: 4976
+T: Wij leven vrij, wij leven blij op Neêrlands  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2508668630
+%%humdrum-veritas-data 1759577569
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('D [I:setbarnb 1]|
+D(F/ A/)dA |
+B(c/ d/)A).('A |
+G>EFD |
+A3).('A |
+^G>EEB |
+A>EE).('A |
+^GEcB |
+B>AA).('A |
+d>dAF |
+EGB).('d |
+[M:3/2]dFA2C2 |
+D2>z2z) |]

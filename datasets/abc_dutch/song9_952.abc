@@ -1,0 +1,27 @@
+X: 8951
+T: Een vrouw had een kabaas, Een vrouw had een kabaas
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 2549686404
+%%humdrum-veritas-data 2642092766
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c3/ [I:setbarnb 1]|
+cG/AB/ |
+c3/c3/ |
+cG/AB/ |
+c3/z).('d/ |
+dd/de/ |
+f3/ed/ |
+cc/BA/ |
+G3/).('c3/ |
+e3/c// c// c/ A/ |
+G3/zG/ |
+Gc/Bd/ |
+c3/) |]

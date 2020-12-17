@@ -1,0 +1,46 @@
+X: 16362
+T: Neptuin, die ‘t bruisschend zout, Door uwen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2068005203
+%%humdrum-veritas-data 4090453777
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+.('G3 |
+(B A) G |
+(d c/ B/) (A/ G/) |
+{G2}^F3) |
+.('d G A |
+B2B |
+(c d) e |
+(d/ c/)B2) |
+.('d (g/ f/) (=e/ d/) |
+^c2d |
+=e2f |
+(=e/ ^c/)A2) |
+.('A =B ^c |
+(d =e) f- |
+(f/ =e<) !trill!!trill!e d/ |
+d3) |
+.('d =e ^f |
+g2f |
+(e/ d/ c/ e/) (d/ f/) |
+(e d) c) |
+.('c d =e |
+f2e |
+(d/ c/ B) A |
+B3) |
+.('d d d |
+(d c) c |
+(c B) A |
+(B A) G) |
+.('d (c/ B/) (A/ G/) |
+(e d) c |
+(B/ A// G// !trill!!trill!A3/) G/ |
+G3) :|]

@@ -1,0 +1,30 @@
+X: 16294
+T: De deugd is over al bemind, Aen welken oord  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1515167746
+%%humdrum-veritas-data 3200824243
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Eb clef=treble
+.('cgf |
+e2d |
+(cd)=B |
+c2).('e |
+(f// e// d// c//B)A |
+(GB)e |
+(3(c/ B/ A/G)F |
+E3) |
+.('GcB |
+=A3 |
+=Adc |
+=B3) |
+.('cgf |
+(e3/f// g//)c |
+(d/ e// f// e/ d/) (c/ =B/) |
+c3) :|]

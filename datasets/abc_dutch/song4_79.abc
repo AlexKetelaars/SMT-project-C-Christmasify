@@ -1,0 +1,23 @@
+X: 3078
+T: Ik heb er dat groenewoudstraatje Zo dikwijls [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 1562719161
+%%humdrum-veritas-data 3896469756
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D B B B A G |
+F A zz2).('A |
+A c c c c c |
+B2zz2).('d |
+G A B c B c |
+(d2e) e) .('c A |
+G D D d d c |
+B2zz2) |]

@@ -1,0 +1,39 @@
+X: 3215
+T: Het was in het diepe der Elzasse 't Was in e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:58
+%%humdrum-veritas 1276417021
+%%humdrum-veritas-data 507222361
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ E/ F/ [I:setbarnb 1]|
+G B A G |
+B B z/) .('D/ E/ F/ |
+G B A3/ E/ |
+F2z/) .('E/ F/ ^G/ |
+A ^G A B |
+c c) .('c c/ c/ |
+B A G A |
+B2z/) .('D/ E/ F/ |
+G B A G |
+B B z) .('E |
+E E c B |
+A2z) .('A |
+^c B G E/ E/ |
+B A z) .('^c/ c/ |
+^c B A G |
+F ED2 |
+z) .('D/ D/ G B |
+e d B B |
+z) .('B A G/ G/ |
+F GE2 |
+z) .('A A A |
+B A d d |
+z) .('c B A |
+c FG2) |]

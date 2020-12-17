@@ -1,0 +1,29 @@
+X: 9222
+T: Den uyl, die op den peerboom zat, Den uyl, d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3014440014
+%%humdrum-veritas-data 367608402
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2FG2A |
+B2AG2).('B |
+B2AB2c |
+d2cB2).('d |
+d d d (d c) B |
+c c cc2).('c |
+B B B B A G |
+A A AA2).('d |
+d d d (d c) B |
+c c ce2).('e |
+d3c3 |
+B3z2B |
+B3A3 |
+G3z2) |]

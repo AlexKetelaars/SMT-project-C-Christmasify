@@ -1,0 +1,31 @@
+X: 8884
+T: Daar was ereis een Herderin, Een Herderin me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 2428269360
+%%humdrum-veritas-data 3959376179
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('z/ C/ [I:setbarnb 1]|
+F> G A3/ B/ |
+c d c) .('f |
+c> B A3/ G/ |
+G2A z/) .('C/ |
+F> G A3/ B/ |
+c d c) .('f |
+e d c =B |
+d2c z/) .('c/ |
+B> A G3/ B/ |
+A G F z/) .('E/ |
+F G A3/ B/ |
+c z/ d/ c z/) .('c/ |
+B c d e |
+e2f/ z) .('d/ |
+c> B A G |
+G2F z) |]

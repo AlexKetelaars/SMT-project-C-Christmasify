@@ -1,0 +1,34 @@
+X: 17077
+T: Les dieúx marins
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 38268169
+%%humdrum-veritas-data 3025833192
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2>G2B3c |
+d4-d d e f |
+g2>g2g3a |
+f2>).('f2g3a |
+b2>b2e3e |
+e4a3a |
+^c2>f2e3d |
+d8) |
+.('A2>A2A3B |
+c2>d2B3B |
+e2>f2f3e |
+^d2>).('f2f3f |
+g4^g3g |
+a2>e2g3a |
+f2d2g3).('d |
+e2>e2d3c |
+B2>B2B3c |
+d2>d2d3e |
+A2B2A3G |
+G8) |]

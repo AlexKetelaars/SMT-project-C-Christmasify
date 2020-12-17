@@ -1,0 +1,35 @@
+X: 6521
+T: Niets is op deez’ aarde bestendig; Niets bli [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 105362390
+%%humdrum-veritas-data 256529656
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) [I:setbarnb 1]|
+BBB |
+BAB |
+(d2c) |
+Bz).('B |
+AdA |
+GFE |
+(DFA |
+d2)).('D |
+DEF |
+GAB |
+c3 |
+Az).('d |
+dBG |
+AFD |
+(d3 |
+ec)).('A |
+GGB |
+dcA |
+G3- |
+Gz) |]

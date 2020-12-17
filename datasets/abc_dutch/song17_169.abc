@@ -1,0 +1,23 @@
+X: 16168
+T: O zalig uur, o blyde stond, Fluweele lipjes, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 1717387918
+%%humdrum-veritas-data 1699171027
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('z2G2(G A) (B d) |
+d2(e d) (c B) (A G) |
+^F2>).('F2 (G A) (B A) |
+(G F) (E F2<)=E2D |
+D4z2).('(D2 |
+=E F G AD2z2 |
+c =B c dc2)z2 |
+(e d) (c B) (A B) (c d) |
+A2>G2G3) |]

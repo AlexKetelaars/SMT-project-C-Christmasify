@@ -1,0 +1,39 @@
+X: 14884
+T: Waß fängt die Tadelsucht auf Erden Nicht ste [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 27354155
+%%humdrum-veritas-data 4276540676
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+E2c |
+E2A |
+(GB)e |
+d2B) |
+.('cBA |
+(Gd)e |
+c=A2 |
+B2).('B |
+E2c |
+E2A |
+(GB)e |
+d2B) |
+.('cBA |
+(Gd)e |
+c=A2 |
+B2).('F |
+BA2 |
+(GA)F |
+(GB3/)c/ |
+Fz).('e |
+d2c |
+B(c/ d/)e |
+AGF |
+E2) |]

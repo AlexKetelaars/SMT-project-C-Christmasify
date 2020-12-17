@@ -1,0 +1,26 @@
+X: 10495
+T: Anna stond te wachten, te wachten op haar ma [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 2980475238
+%%humdrum-veritas-data 1541551809
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('C D E F [I:setbarnb 1]|
+G2c G A c B A |
+G4).('F F F F |
+E2G2E F E D |
+C) .('G/ G/ c D D G/ G/ c C |
+C2).('G G G G c C |
+C2).('E> E D DC2) |
+.('C D E FG2c2 |
+A c B AG4) |
+.('F F F FE2G2 |
+D F E D C) .('E/ F/G2 |
+B2c2) |]

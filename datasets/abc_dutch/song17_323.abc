@@ -1,0 +1,36 @@
+X: 16322
+T: O Frissche zuide windt, Zoo Flora u niet bindt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3347137217
+%%humdrum-veritas-data 408858045
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+(d c) d (d c) d |
+(d3e2)).('A |
+(e d) e (e d) e |
+(e2>f2)) .('(d e) |
+(f e d) (c B A) |
+(^G F E) (d c B) |
+{A B}!trill!!trill!B3-B2A |
+A3-A2) |
+.('(A/ B/) [I:setbarnb 9]|
+(=c B) c (c B) c |
+(=c2>B2)) .('(B ^c) |
+(d c) d (d c) d |
+(d2>c2)) .('(c d) |
+(e d) c (d c) B |
+(^A ^G) F z z) .('F |
+(F ^G) ^A (B c) d |
+(d2>e2)) .('(d c) |
+(d c) d (e d) e |
+e2>f2) .('(d f) |
+(B g) f (e d) c |
+{c2}d3-d) :|]

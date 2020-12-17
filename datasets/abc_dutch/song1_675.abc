@@ -1,0 +1,16 @@
+X: 675
+T: Die onbevlect hier leven Salich worden ghenaemt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2429707336
+%%humdrum-veritas-data 3992408811
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2A2A4A2B2>A2(A2>G2GF)E2).('A2G2F2(EDF)EF4z2).('F2c2>B2A2>G2(FEFE)D2).('F2E2D2D2C2D4z2) ]|:
+.('G2G2G2E2B2-B2(A2>G2GFE2)).('A2G2F2(EDF)EF4z2).('F2c2>B2A2>G2(FEFE)D2).('F2E2D2D2C2D4) |]

@@ -1,0 +1,24 @@
+X: 9631
+T: Al hebben de prinsen hunnen wensch, Zij zijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 4019399439
+%%humdrum-veritas-data 2897580371
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('G A _B c d2 d2 [I:setbarnb 2]|
+_e2 ^c2d4) |
+.('d c d _e f2 _B2 |
+d4c4 |
+_B4) :|]
+.('d2 (_e d) [I:setbarnb 6]|
+c2 (d c) _B2 (c B) |
+A4).('_B2 (A B) |
+c2 (_B A) B2 A2 |
+G4z4) |]

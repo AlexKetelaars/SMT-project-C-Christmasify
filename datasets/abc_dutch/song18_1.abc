@@ -1,0 +1,37 @@
+X: 17000
+T: marche de la charpe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 849875279
+%%humdrum-veritas-data 2840488693
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c2>d2c2c2 |
+!mordent!!mordent!f2>e2d2g2 |
+!mordent!!mordent!e2>d2c2f2 |
+d2d cB2).('B A |
+G2>G2 c d c B |
+!mordent!!mordent!A2>G2F4) |
+.('G4G2G A |
+B4B2c B |
+A4).('z A B c |
+d2>_e2 d e d c |
+B4).('z B c d |
+_e2>d2 e d c B |
+A2B2!mordent!!mordent!A3G |
+G6).('B B |
+B G c B2<A2A |
+d d c d2<!mordent!!mordent!B2B |
+c c d _e2<!mordent!!mordent!d2c |
+c2>).('c2 f f _e f |
+d2f2b a g f |
+e e f g2<!mordent!!mordent!g2f |
+f2>).('c2 d c B A |
+G G A B2<!mordent!!mordent!G2F |
+F8) |]

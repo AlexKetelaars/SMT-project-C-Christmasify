@@ -1,0 +1,49 @@
+X: 4315
+T: Vrienden sta op de klaroen die heeft geblaze [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 1046624757
+%%humdrum-veritas-data 2210111649
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B3B/ B< B B/ G A |
+B4G) .('G A B |
+c2>c2 B B G G |
+A4-A) .('D G A |
+B3B/ B/ B B G A |
+B4G) .('G A B |
+A2>A2 B A B ^c |
+d4-d) .('d d d |
+c2>A2 A A/ A< d c/ |
+B4G) .('G A B |
+A3A/ A/ B A B ^c |
+d4-d) .('d d d |
+c3A/ A/ A A d c |
+B4G) .('G A B |
+A2>A2 B A B/ B/ ^c |
+[M:2/4]d2).('d3/ G/ |
+[M:4/4]G G G GG2F G |
+A A A> AB3A |
+[M:2/4]G3).('G |
+[M:6/8]c2c c c c |
+B2BB2B |
+A2AA2A |
+A3-A2).('B |
+d2dd2B |
+G2GG2G |
+A3A2A |
+(B3B2A) |
+G3-G2).('G |
+c c c c d e |
+d6) |
+.('d3B2G |
+A6 |
+d6 |
+G6) |]

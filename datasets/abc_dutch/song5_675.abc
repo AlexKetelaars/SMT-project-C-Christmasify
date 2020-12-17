@@ -1,0 +1,31 @@
+X: 4674
+T: Ziet vriendjes rond ons geschaard Wij zingen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3414698465
+%%humdrum-veritas-data 445114387
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ [I:setbarnb 1]|
+(3d d B G> AB7/).('d/ |
+(3d d B G> AB7/).('B/ |
+A> A A> AA2d3/ e/ |
+(3f f f e> ed7/).('d/ |
+d> B G> AB7/).('d/ |
+d> B G> AB7/).('B// B// |
+A2A> A A> A d3/ e/ |
+f2e> e d) .('d e f |
+g2B2>).('d2 e d |
+c2A4z) .('d |
+f2e> e d> d c3/ c/ |
+B4-B) .('d e f |
+g2B2>).('d2 e d |
+c2A4).('d3/ e/ |
+f4-f3/ e// e// c A |
+G6z3/) |]

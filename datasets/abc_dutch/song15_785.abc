@@ -1,0 +1,38 @@
+X: 14784
+T: petit duc
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1893515330
+%%humdrum-veritas-data 2168132871
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c2g z/ ^f/ |
+f e ^d e |
+G2e z/ _e/ |
+d ^c d z) |
+.('d2b z/ a/ |
+^g a f d |
+A B/ c/ B d |
+c2z) .('e |
+e> d c A |
+^f> e d B |
+a g e ^f |
+g/ d/ B/ c/ d) .('e |
+e> d c A |
+^f> e d B |
+a g e ^f |
+g/ e/ f/ g/ f/ d/ A/ B/) |
+.('c2g z/ ^f/ |
+f e ^d e |
+G2e z/ _e/ |
+d ^c d z) |
+.('d2b z/ a/ |
+^g a f d |
+A B/ c/ B d |
+!fermata!c3z) |]

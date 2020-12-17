@@ -1,0 +1,31 @@
+X: 10994
+T: ‘k Kwam laatst door het veld: ‘k Was moe van [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 276892575
+%%humdrum-veritas-data 500960545
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F A |
+!fermata!c z) .('F |
+G B d |
+e !fermata!c) .('C |
+F F A |
+!fermata!c z) .('F |
+G B A |
+G !fermata!F) .('c/ A/ |
+F F A |
+!fermata!c z) .('c/ c/ |
+B B B |
+B !fermata!A) .('c/ A/ |
+F F A |
+!fermata!c z) .('c/ A/ |
+G B A |
+G F z) |]

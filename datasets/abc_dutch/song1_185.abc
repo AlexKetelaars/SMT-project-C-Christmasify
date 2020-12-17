@@ -1,0 +1,15 @@
+X: 185
+T: Niet ons niet ons, maer u behoort O Heer', O [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3149475295
+%%humdrum-veritas-data 1165705207
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A4c2B2A4D4F2F2G2G2A4z4).('A2c4c4d2d2c2A2_B4G4F4z4).('A4G2F2E2F2D4C4z4).('F4F2G2A4=B4c2d2c2B2A4z4).('c4c2B2A4E4F2A2G2F2E4z4).('A4G2E2F2G2E4D4) |]

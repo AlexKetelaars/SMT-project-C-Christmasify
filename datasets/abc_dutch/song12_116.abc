@@ -1,0 +1,38 @@
+X: 11115
+T: Als ik het zoetste zoet, Met lieve minnewipj [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 1103246188
+%%humdrum-veritas-data 440324368
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('cde |
+E2A |
+B^G2 |
+A/ ^G/ A/ B/ A/ B/) |
+.('cde |
+E2A |
+B^G2 |
+A3) |
+.('ede |
+^f2e |
+de^f |
+e2e) |
+.('d/ c/ d/ e/d |
+d2e/ d/ |
+c>BA |
+^G2A) |
+.('cde |
+E2A |
+B^G2 |
+A/ ^G/ A/ B/ A/ B/) |
+.('cde |
+E2A |
+B^G2 |
+A3) |]

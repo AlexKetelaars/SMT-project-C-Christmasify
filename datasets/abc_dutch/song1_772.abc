@@ -1,0 +1,31 @@
+X: 772
+T: Waer datmen sich al keerd of wend, End waerm [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 1761777199
+%%humdrum-veritas-data 3539836514
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D [I:setbarnb 1]|
+G>ABc |
+d>dd).('g |
+^fgaf |
+g3).('D |
+G>ABc |
+d>dd).('g |
+^fgaf |
+g3).('g |
+a>gfe |
+f>ed).('(d/ e/) |
+f>edc |
+B3).('B |
+fdg(f/ e/) |
+ddd).('(c/ B/) |
+AGA^F |
+G3) |]

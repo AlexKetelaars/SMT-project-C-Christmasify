@@ -1,0 +1,32 @@
+X: 16345
+T: Ik wil wel beminnen, Maar laet myne zinnen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1824245630
+%%humdrum-veritas-data 2977076677
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+dd2c |
+BA2).('B |
+cc2(B/ A/) |
+(B/ A/)G2).('B |
+A2G2 |
+(F/ G/)A2).('d |
+e2!trill!!trill!^c2 |
+d3) |
+.('d [I:setbarnb 9]|
+de2d |
+cA2).('B |
+cd2c |
+BG2).('B |
+(A3/ B// c//) (B A) |
+(B/ c/)d2).('G |
+A2!trill!!trill!F2 |
+G3) :|]

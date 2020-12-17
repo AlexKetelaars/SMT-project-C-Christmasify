@@ -1,0 +1,46 @@
+X: 9729
+T: ‘Kwam laatst door een klein boschje gegaan e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 2948671792
+%%humdrum-veritas-data 563873445
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2FF2A |
+A G F G) .('C E |
+G G G B A G |
+C D EF2).('C |
+F2F F G A |
+A G F!fermata!G2).('C/ E/ |
+G G A B A G |
+(C D) E!fermata!F2).('C |
+F2F F G A |
+(c2B)G3- |
+G2z) .('C E G |
+B A G C D E |
+F2zz2).('C |
+F2FF2G |
+A2AA2).('B |
+c2cB2B |
+A3z2).('A |
+B2Bc2c |
+d2cB2).('A |
+G2AB2G |
+F2GA2G |
+A2B!fermata!G2).('C |
+F2FG2G |
+(A c) A!fermata!G2).('C |
+F2FG2G |
+(A c) A!fermata!G2z |
+z2z) .('G A B |
+c2cB2A |
+!fermata!d2).('BB2B |
+(B d) c B A G |
+F3z2z) |]

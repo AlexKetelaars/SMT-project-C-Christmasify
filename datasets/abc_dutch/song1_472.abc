@@ -1,0 +1,31 @@
+X: 472
+T: Hemelsch Heer! die 't gevaard Van den Hemel  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 2669381887
+%%humdrum-veritas-data 1003440747
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A2F2c4 |
+B2G2d4) |
+.('A2F2c2f2 |
+f2>e2f4) |
+.('A F A Bc4 |
+B G B cd4) |
+.('A F A Bc2A2 |
+G2>F2F4) |
+.('c2>B2 A GF2 |
+d2>c2 B AG2) |
+.('c2d ef2e2 |
+d4).('g3f |
+e dc2f3f |
+e2>e2d3d |
+c2>).('c2B3B |
+A2>A2G3F |
+F8) |]

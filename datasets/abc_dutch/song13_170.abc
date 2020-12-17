@@ -1,0 +1,32 @@
+X: 12169
+T: 22
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 323555940
+%%humdrum-veritas-data 1035450873
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 6/8
+Q: 3/8=80
+K: E clef=treble
+.('B2 [I:setbarnb 1]|
+!wedge!e (c B A G F2<) E2 a c2 |
+(d B) (b g) (a f) {f}e4B2 |
+c2 B2 A2 B2 d2 e2 |
+!wedge!d .e .f .g .a .b!trill!!trill!B,4).('a2 |
+{b} (a2> g2) =g2 {a} g2> f2 e2 |
+(d c B) !wedge!c !wedge!d !wedge!e (f e d) !wedge!e !wedge!f !wedge!g |
+(a g f) !wedge!g !wedge!a !wedge!b (c' e' d') !wedge!c' !wedge!b !wedge!^a |
+b d' f ^a d fB4) |
+.('f2 [I:setbarnb 9]|
+f2 !trill!!trill!g2 a2 .c .=d .e .d .c .^B |
+c2> G2 E2C4g2 |
+!trill!!trill!g2> f2 c'2 {g}f4e2 |
+!trill!!trill!e4d2B,4).('b2 |
+(c' b c' d' e') !wedge!g (a g a b c') !wedge!c |
+(d c d e f) !wedge!^A {c}!trill!!trill!B4a2 |
+(g a b) !wedge!g !wedge!f !wedge!e (f g a) !wedge!f !wedge!e !wedge!d |
+e g B d G BE4) :|]

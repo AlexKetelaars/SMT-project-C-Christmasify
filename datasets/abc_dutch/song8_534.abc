@@ -1,0 +1,36 @@
+X: 7533
+T: No 153
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 3857302420
+%%humdrum-veritas-data 1075138793
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2cB |
+A2G2) |
+.('cBcd |
+e2).('ef |
+g2).('cd |
+ef/ e<!trill!!trill!dc/ |
+c3) |
+.('c/ d/ [I:setbarnb 8]|
+eeed/ c/ |
+B3).('B/ c/ |
+dddc/ B/ |
+A2).('Bc |
+d2GA |
+BcB/AG/ |
+G2cd |
+ecde |
+f3).('e/ f/ |
+gefg |
+a2).('ef |
+g2).('cd |
+ef/ e<!trill!!trill!dc/ |
+c2) :|]

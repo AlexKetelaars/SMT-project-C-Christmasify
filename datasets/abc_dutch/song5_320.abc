@@ -1,0 +1,24 @@
+X: 4319
+T: En neven ’n haonendeurke kwam ik gegaon Diee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 1613122679
+%%humdrum-veritas-data 3091524667
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G/ G/ G AB2G G |
+A2F2G3).('G |
+G G G G G DD2) |
+.('B B B B/ B/ B G G) .('G/ G/ |
+[M:2/4]G DD2) |
+[M:4/4].('d2>d2d2d2 |
+e2d2c2).('c2 |
+B4A4 |
+G4z3) |]

@@ -1,0 +1,24 @@
+X: 1571
+T: Der ginder ien de fjerte Der rinne drij kei, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 1940109600
+%%humdrum-veritas-data 2764505642
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G A AB2A) .('D |
+D/ D/ D c B B/ B/ G D) .('G |
+A A A AB2A3/) .('A/ |
+G> G F D2<G2).('D |
+G/ G/ G A AB2A2) |
+.('G2G2G3).('D |
+D/ D/ D/ D/ c B B/ B/ G/ G/ G) .('G |
+A A/ A/ A A/ A/B2A) .('A/ A/ |
+G G F DG3) |]

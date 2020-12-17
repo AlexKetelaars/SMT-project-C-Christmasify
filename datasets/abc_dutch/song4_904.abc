@@ -1,0 +1,15 @@
+X: 3903
+T: Komt vrienden van dit aardse dal Luister wat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 1937012819
+%%humdrum-veritas-data 3145775654
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D G A B cB2A2G4).('B2d d e> ed2(d> c)B6z) .('d d> d c B2<A2).('A c> c B A2<G2).('G G Bd2d dB2A4).('d2B2d2e d (c B)A2B4<c4).('c2(B e) d c B AB2e4<d4z) .('d/ d/ G B A cB2-B) .('B/ B/ B/ c d e e d>) .('G G Bd2d2(B A)A4).('d2B> d e d c BA2B4<c4z).('c2B> e d c B AG2(e d)d6z) .('d G> B A> cB2>).('B2 c d/ d/ e e d) .('d e cB2A2G4) |]

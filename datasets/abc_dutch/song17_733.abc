@@ -1,0 +1,32 @@
+X: 16732
+T: Mijn moed, mijn gloed mijn soetste soet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 2297397431
+%%humdrum-veritas-data 1045893735
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('e [I:setbarnb 1]|
+c2GG2e |
+c2GG2).('e |
+(e>d)ef2e |
+d3-d2).('e |
+fA2B2c |
+dG2c2).('d |
+e>fga^f2 |
+g3-g2) |
+.('g [I:setbarnb 9]|
+g2ab>ab |
+c'2ee2).('a |
+g>fe(fe2) |
+d3-d2).('g |
+e>dca2g |
+e>dcg2).('G |
+A>BcdB2 |
+c3-c2) :|]

@@ -1,0 +1,27 @@
+X: 9411
+T: Ik zag er een sneeuwwit vogelken En ik zag e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3659430710
+%%humdrum-veritas-data 598361738
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G D/ D/G2A2 |
+B AG2z) .('D/ D/ |
+G D/ D/G2A2 |
+B AG2z) .('A/ A/ |
+[M:2/4]A A/ A/ A B |
+c BA2) |
+.('G G G G |
+A F/ E/ D) .('A/ A/ |
+A A/ A/ A B |
+c BA2) |
+.('E2F2 |
+G2z) |]

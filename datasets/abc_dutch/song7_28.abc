@@ -1,0 +1,35 @@
+X: 6027
+T: Civon Lamoer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3130924504
+%%humdrum-veritas-data 307939018
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('g2g g [I:setbarnb 1]|
+g2f2e2g2 |
+a g f e2<d2c |
+c4).('g2g g |
+g2f2e2g2 |
+a2>g2f3e |
+d4).('g4 |
+f4e4 |
+g4a3g |
+f2e2d3c |
+c4).('g4 |
+f4e4 |
+g4a g f e |
+d8) |
+.('g f g ag2f e |
+f gf2e d e g |
+f ed4d2) |
+.('g f g ag2f e |
+f gf2e d e g |
+f ed4c2 |
+c4) |]

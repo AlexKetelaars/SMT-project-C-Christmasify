@@ -1,0 +1,50 @@
+X: 11053
+T: ô Muzika en Poëzy! Verliefde gy? Die hert, e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3235047245
+%%humdrum-veritas-data 3913126075
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+d2>^c2d4 |
+z2(d e2<)c2B |
+B2(c B2<)A2B |
+B6).('^c2 |
+d> ^c d> ed3d |
+(e d) (c B)A4 |
+A2>).('G2 A> B c3/ d/ |
+(B> c d> e d> e f3/ g/) |
+(f2>g2)e2e2) |
+.('z2d2d3c |
+B2d2^c2d2 |
+d2>^c2d2).('G2 |
+G2>A2B2G2 |
+d2>d2d2(d e) |
+c2>d2B4) |
+.('z2d2(d> ^c d3/ e/ |
+d> c B> A)(G3A) |
+B2>A2G2(A E) |
+(E2>D2)D4) |
+.('z2D2G3A |
+F2>G2A2c2 |
+B2>e2 (e> d e3/ f/ |
+g> f e> d^c2)A2 |
+(d ^c) (d e2<)e2d |
+[M:3/4]d4).('d2 |
+[M:2/2]B2>A2B2G2 |
+c2>d2B2G2) |
+.('z2g2f3e |
+d2e2d3c |
+B2).('z d (g f) (e d) |
+(e d) (c B) (e> f e3/ d/ |
+c> d c> BA2)A2) |
+.('z2d2(e d) (c B) |
+(A B) (c B2<)(A2G) |
+G4) |]

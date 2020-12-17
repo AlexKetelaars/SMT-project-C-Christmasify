@@ -1,0 +1,38 @@
+X: 9513
+T: Hier zijn de sleutels van den biebabonten be [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 2712324565
+%%humdrum-veritas-data 2846796016
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('F2F G |
+A A A A |
+G F G A |
+F) .('C F F |
+F G A A |
+A2A G |
+G G G G |
+F C) .('C C |
+F F F G |
+A A A A |
+G G G G |
+F C) .('C C |
+F F F F |
+A A A A |
+G G G G |
+F2).('C C |
+F F F F |
+A A A A |
+G G G G |
+F2).('A2 |
+c2A2 |
+c2A A |
+c2c c |
+F2z2) |]

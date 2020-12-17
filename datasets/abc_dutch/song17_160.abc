@@ -1,0 +1,59 @@
+X: 16159
+T: Ach wreede Tieranny, vermaakelyke smart, O s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 325554440
+%%humdrum-veritas-data 2315870863
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('A [I:setbarnb 1]|
+e>d c3// B// |
+c2c |
+A>^G A/ B/ |
+^G2).('A |
+_B>A ^G/ A/ |
+A2B |
+(c/ B/)BB |
+G/ G<FE/ |
+E2) |
+.('E [I:setbarnb 10]|
+(=FE)E |
+(DC)D |
+E2).('E |
+(F>E F/ G/ |
+A>B c/ A/) |
+e/ d<cB/ |
+B2).('B |
+c/ B/ A/ G/ F/ F/ |
+B/ A/ G/> F/ E/) .('B/ |
+^c2c |
+^d2e |
+F2E |
+E2B |
+(cB)(^G/ A/) |
+B2z/) .('B/ |
+[M:2/2]BBBB |
+c3B |
+AGFA |
+G2E).('E |
+=F>ED3/E/ |
+E3F |
+(G/ A/ G/ F/ E/ F/ G/ A/ |
+B2)B).('B |
+(B/ c/ B/ A/ G/ A/ B/ c/ |
+d2)dd |
+cBA3/G/ |
+G3).('B |
+cBA3/G/ |
+FBAG |
+FB(c/ B/ A/ G/) |
+FB).('(^DB) |
+c>BA3/G/ |
+(F2E2) |
+E4) :|]

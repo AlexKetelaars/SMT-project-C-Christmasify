@@ -1,0 +1,23 @@
+X: 4417
+T: Er was eens een maagdeke vroeg opgestaan Om  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 1187291293
+%%humdrum-veritas-data 3351082096
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G G A |
+B B B B) .('G B |
+d/ d/ d d (c e) c |
+B3-B2).('d/ d/ |
+B c d B A G |
+gd2-d2).('d/ e/ |
+f2e2c/ c/ B |
+A AG2-G2) |]

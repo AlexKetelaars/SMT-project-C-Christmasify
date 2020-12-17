@@ -1,0 +1,27 @@
+X: 5350
+T: Ik ben een moor uit moorenland En door de zo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 3323940332
+%%humdrum-veritas-data 2623134538
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+E2EG2G |
+B2B (B A)) .('G |
+(G F) F (c B) A |
+A2GG2).('G |
+c c ce2c |
+c3B2).('B |
+A2A (c B) A |
+(G2A)B2).('B, |
+E E E F F F |
+B B B (c B)) .('A |
+G G G (B A) F |
+E3z2) |]

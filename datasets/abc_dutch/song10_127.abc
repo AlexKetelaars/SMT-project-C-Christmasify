@@ -1,0 +1,27 @@
+X: 9126
+T: Die timmermans hebben een ambacht goed, Zij  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 1136428882
+%%humdrum-veritas-data 323245280
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('D2 [I:setbarnb 1]|
+F FA2A AA2 |
+A2G2F2).('D2 |
+F FG2F2G F |
+E4D2).('D2 |
+F FA2A AA2 |
+A2G2F2).('D2 |
+F FG2F2G F |
+E4D2).('A2 |
+B Bd2c2B c |
+d2c BA4) |
+.('d2d d c c B d |
+c c B BA4) |]

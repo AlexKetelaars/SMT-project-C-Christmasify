@@ -1,0 +1,23 @@
+X: 5916
+T: Mijn vrouwtje Tsanne Heeft op de markt gekocht
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 2780891756
+%%humdrum-veritas-data 2221611549
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c2e dc2c) .('e |
+d c B d G F E F |
+G2G) .('G A A (c/ B/) A/ B/ |
+c2>).('c2 c G A _B |
+A2>).('d2 d e B c |
+d4).('G c c d |
+e3d/) .('e/ f d e B |
+c d e B(c2B2) |
+c4z4) |]

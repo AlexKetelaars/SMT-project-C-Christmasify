@@ -1,0 +1,72 @@
+X: 6562
+T: Ontwaakt, loopt, herders, dezen nacht! Verla [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 495922890
+%%humdrum-veritas-data 3100141125
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+E2F |
+G2G |
+(Ac)A |
+G2).('c |
+(cB)c |
+(cf)e |
+c3 |
+Bz).('G |
+E2F |
+G2G |
+(Ac)A |
+G2).('B |
+(dc)B |
+(Ad/ c/) (B/ A/) |
+(GBA) |
+Gz).('G |
+(GA)B |
+c2G |
+(GA)B |
+c2).('c |
+(cB)A |
+(GF)E |
+G3 |
+Dz).('G |
+(cB)A |
+(GF)E |
+A2A |
+(AB)).('c |
+G2G |
+(GF)E |
+E3 |
+Dz).('G |
+(cB)A |
+(GF)E |
+A2A |
+(AB)).('c |
+(Gf)e |
+(dc)B |
+d3 |
+c2) ||
+.('G [I:setbarnb 41]|
+[M:6/8]cc/ c/ B/ A/ |
+GG/G).('c/ |
+(A/ B/) c/ (d/ c/) B/ |
+d>c z/) .('G/ |
+cc/ (c/ B/) A/ |
+(d/ e/) d/d).('c/ |
+(B/ c/) d/ (e/ c/) ^F/ |
+A3/G).('G/ |
+dd/ (d/ c/) d/ |
+ee/e).('c/ |
+(B/ c/) d/ (c/ B/) A/ |
+A3/G).('G/ |
+dd/ (d/ c/) d/ |
+ee/ (e/ d/)) .('c/ |
+(A/ f/) e/ (d/ c/) B/ |
+d3/cz/) |]

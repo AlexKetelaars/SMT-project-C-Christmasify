@@ -1,0 +1,32 @@
+X: 12412
+T: Pour Quoi vous plenje vous
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 3255707436
+%%humdrum-veritas-data 1150918671
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G [I:setbarnb 1]|
+cBcd |
+e2fe/ f/ |
+gcAd |
+B>A).('GG |
+cBcd |
+e2fe/ f/ |
+gc/ B/Ad/ B/ |
+c3) |
+.('E/ ^F/ [I:setbarnb 9]|
+GGGA/ B/ |
+G2GE/ ^F/ |
+GGGA/ B/ |
+G3).('G |
+cBcd |
+ecf2 |
+ed/ c/dB |
+c3) :|]

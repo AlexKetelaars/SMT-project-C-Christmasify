@@ -1,0 +1,30 @@
+X: 11990
+T: Trompet stuck
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 1333600615
+%%humdrum-veritas-data 2984295986
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('f2d2f2 |
+f e f g a b |
+g2>a2 f g |
+e4d2) |
+.('f e d e f g |
+f2>g2 f g |
+a b2<g2f |
+e4x2) |
+.('f2f2f2 |
+f2e fd2 |
+g f g a g a |
+f2>e2e2) |
+.('e2A2e2 |
+f e f g a g |
+f g2<e2d |
+d4) :|]

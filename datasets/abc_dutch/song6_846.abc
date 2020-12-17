@@ -1,0 +1,27 @@
+X: 5845
+T: Waartoe laat gij u vervoeren Dat gij loochen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2833799094
+%%humdrum-veritas-data 2803779700
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B3/ A/ [I:setbarnb 1]|
+B2>{B} A2 G3/ A/ |
+G2G2).('B3/ A/ |
+B2>{B} A2 G3/ A/ |
+G4).('G A |
+B2>B2 (3(A B) c |
+(d2A2)).('d c |
+B2>A2 B c |
+(B> A)G2).('G3/ A/ |
+A2B2c B |
+A4).('G3/ A/ |
+B2>B2 (A G/) A/ |
+G4) |]

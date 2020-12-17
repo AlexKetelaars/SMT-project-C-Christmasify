@@ -1,0 +1,41 @@
+X: 17230
+T: Menschen wie gy zyt of niet, Denk waar voor  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3186912736
+%%humdrum-veritas-data 2243442542
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z2G-G/ G/ |
+A(G/ A/)B(A/ G/) |
+A2).('B(A/ B/) |
+c(B/ c<)dd/ |
+(cBA2) |
+G2).('G-G/ G/ |
+A(G/ A/)B(A/ G/) |
+A2).('B(A/ B/) |
+c(B/ c<)dd/ |
+(cBA2) |
+G2).('d3/d/ |
+cAB(A/ G/) |
+A2).('d3/e/ |
+fge2 |
+d2).('d3/d/ |
+cAB(A/ G/) |
+A2).('d3/e/ |
+fge2 |
+d2).('Bc |
+d2AB |
+c2).('G3/A/ |
+BcA2 |
+G2).('Bc |
+d2AB |
+c2).('G3/A/ |
+BcA2 |
+G4) |]

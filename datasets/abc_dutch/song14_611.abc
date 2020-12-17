@@ -1,0 +1,34 @@
+X: 13610
+T: [Sonata 3.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 1916223573
+%%humdrum-veritas-data 1089725121
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A B A A B c |
+d f ed3 |
+A B A G A G |
+F G FE3 |
+A B A G A G |
+F G FE3) |
+.('^G A B A B c |
+d e fe3 |
+f a ^g f e d |
+c d BA3) |
+.('e c A A A A |
+A G FG3 |
+e c G G G G |
+G F FF3) |
+.('F G A B c d |
+A G FE3 |
+g e c d d d |
+g e cd3 |
+g e c d d d |
+g e cd3) :|]

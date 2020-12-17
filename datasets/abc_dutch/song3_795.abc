@@ -1,0 +1,34 @@
+X: 2794
+T: Goedenavond dames en heren Hier heb je Kloas [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 2444535611
+%%humdrum-veritas-data 1144408266
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B2d2d2 |
+d2c cB2A2) |
+.('G2G F2<E2c |
+(3B B B A A2<G2).('G |
+G2B Bd2d d |
+d2c2B2A) .('A |
+G> G G F E E c c |
+B2A2G4) |
+.('e2E2E2E F |
+G G F GA4) |
+.('d d E EF2E F |
+G G F GA4) |
+.('d d E EE4 |
+F2F FG4) |
+.('c c c cB2B B |
+A G F ED4) |
+.('D2D D2<E2E |
+(3F F F F F2<G2).('G |
+G2B B d d d c |
+B2A2G4) |]

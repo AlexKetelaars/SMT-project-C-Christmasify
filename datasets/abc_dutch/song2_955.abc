@@ -1,0 +1,31 @@
+X: 1954
+T: Daar was laatst een jong boerinnetje Dat met [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1158984775
+%%humdrum-veritas-data 991019235
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+G2B2B3/ B/ |
+A AE2).('A G |
+F2D2E F |
+G2>).('D2 D D |
+G2B> B B B |
+A2E>) .('E A G |
+F2D2E F |
+G4).('d d |
+c2A c c3/ c/ |
+B2>).('G2 G B |
+A2d2d3/ e/ |
+d4).('d d |
+c2A c c3/ c/ |
+B2>).('G2 G B |
+A2d2d3/ e/ |
+G4) |]

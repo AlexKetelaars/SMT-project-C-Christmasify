@@ -1,0 +1,22 @@
+X: 9965
+T: Kruis, kruis, kruis, Wie zal der onze kruise [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 665482698
+%%humdrum-veritas-data 72205123
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('D2F2 |
+A2z A |
+A> B A G |
+F E D z) |
+.('A A A A |
+A A A z/) .('B/ |
+A> G F E |
+D2z2) |]

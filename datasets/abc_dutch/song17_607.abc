@@ -1,0 +1,39 @@
+X: 16606
+T: Nu loof den Heer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 3634495076
+%%humdrum-veritas-data 1873512461
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+A4B2 |
+c4c2 |
+d4(d/ e/f) |
+e4A2 |
+d2e2A2 |
+^G2A2(d/ c/B) |
+(c2B4) |
+A2z2).('e2 |
+c4(cB) |
+B4(dc) |
+B4A2 |
+^G6 |
+z2!mordent!!mordent!A2^G2 |
+A2>B2c2 |
+d2(d3c) |
+c6) |
+.('edc2B2 |
+A2d3A |
+B2(e// d// c/)B2A |
+^G4).('ze |
+(f/ A/) (d/ e/)c3(B/ A/) |
+A4(e3/A/) |
+[M:4/4]^G(A/ d<)c(B// A//) |
+A4) |]

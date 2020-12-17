@@ -1,0 +1,23 @@
+X: 4042
+T: Sinterklaas die heeft gezegd Wij mogen doedelen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 642973935
+%%humdrum-veritas-data 464533365
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G3 G [I:setbarnb 1]|
+B4>>A4 B3 c |
+[M:4/4]d8-d2>) .('d2 e3 d |
+d2> c2c4-c2>) .('c2 d3 c |
+c2> B2B4-B2>) .('D2 G3 A |
+[M:3/4]B4>>A4 B3 c |
+[M:4/4]d8-d2>) .('d2 d3 d |
+f2> f2 e2> e2d4c4 |
+B12) |]

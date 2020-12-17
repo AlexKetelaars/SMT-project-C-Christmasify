@@ -1,0 +1,23 @@
+X: 9859
+T: Het waren twee koningskind’ren, Zij hadden m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 1506001116
+%%humdrum-veritas-data 3977411003
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('E [I:setbarnb 1]|
+EBcB2A |
+G3G2).('A |
+BBAGDE |
+G2>-G2z).('E |
+BBAG2F |
+(E>F G/ A/)B2).('A |
+GGF(DE)F |
+E2) |]

@@ -1,0 +1,50 @@
+X: 13212
+T: Jeunes amants cueillez des fleurs Pour le se [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 2905417247
+%%humdrum-veritas-data 1526977671
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('(c f) A c |
+F2z A |
+G2(G/ F/ G/ A/) |
+{G/}F2z2) |
+.('B3d |
+c3c |
+(d c) B A |
+(B/ A/ G/ A/) G c) |
+.('(c f) (A c) |
+F3F |
+(G F) (G A) |
+{G/}F2z2) |
+.('(f d) =B B |
+c e A (f/ d/) |
+c2=B2 |
+{A =B}c2z2) |
+.('c2e c |
+f3c |
+{c/}B2(B/ A/ B/ c/) |
+{B/}A2z2) |
+.('f f f e |
+(ed2c) |
+(cB2A) |
+(B/ A/ G/ A/) G z) ||
+.('(c f) (A c) [I:setbarnb 26]|
+F3A |
+G2(G/ F/) (G/ A/) |
+{G2}F3x) |
+.('(c/ B/) (A/ B/) (c/ d/) (e/ f/) |
+{e}!wedge!d2(d/ B/) (A/ G/) |
+(F2{A}G2) |
+{F G}A2z2) |
+.('f _e d ^c |
+(!wedge!d e) f g |
+f2{f/}e2 |
+{d e}f2z2) |]

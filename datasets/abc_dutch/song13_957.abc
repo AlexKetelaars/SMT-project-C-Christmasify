@@ -1,0 +1,30 @@
+X: 12956
+T: Hop Marjanneke stroop in 't kanneke
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 216433207
+%%humdrum-veritas-data 781847239
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('A2F |
+F E F |
+A2F |
+F E F) |
+.('G2G |
+c c c |
+A3 |
+F z z) |
+.('A2F |
+F E F |
+A2F |
+F E F) |
+.('G2G |
+c c c |
+A3 |
+F z z) |]

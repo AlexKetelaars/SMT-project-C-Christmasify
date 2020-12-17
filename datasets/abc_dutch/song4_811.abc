@@ -1,0 +1,39 @@
+X: 3810
+T: Zeg vrienden ik laat u weten dat ik ben getrouwd
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 70287032
+%%humdrum-veritas-data 2850085542
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G GG2G |
+G2D).('G2A |
+B3A3 |
+G3-G2).('B |
+A2GF2G |
+A2B).('A2G |
+F3E3 |
+D3-D2).('A |
+A A AA2B |
+c3-c2).('c |
+B2cd2B |
+A3-A2).('D/ D/ |
+D2cc2c |
+B B) .('B e e e |
+d2>(c2A2) |
+G2).('G F F G |
+E2E E3/ E3/ |
+E2>).('F2 F G |
+A2D D3/ D3/ |
+D3-D2).('D/ D/ |
+G2GA2A |
+B B) .('B e e e |
+d2>(c2A2) |
+G3-G2) |]

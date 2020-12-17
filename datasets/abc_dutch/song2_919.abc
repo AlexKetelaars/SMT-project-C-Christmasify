@@ -1,0 +1,23 @@
+X: 1918
+T: Bie de boer bie de boer En doar he-j-t lang  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 2855520610
+%%humdrum-veritas-data 3889733481
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A [I:setbarnb 1]|
+B B B BB2B c |
+B A A AA2).('A B |
+c2c cd2d c |
+B6).('d d |
+c c c BA2c c |
+B B B AG2).('B B |
+A2A2F F E F |
+G6) |]

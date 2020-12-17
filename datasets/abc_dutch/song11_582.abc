@@ -1,0 +1,19 @@
+X: 10581
+T: Zeg buurman, is je dochter thuis? Hopsasa vi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 81630635
+%%humdrum-veritas-data 826176054
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2DG2D |
+G2Bd3) |
+.('c2BA2c |
+B> B A/ A/G2) |]

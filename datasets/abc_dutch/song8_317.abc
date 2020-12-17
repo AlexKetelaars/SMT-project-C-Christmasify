@@ -1,0 +1,29 @@
+X: 7316
+T: Daer was ä wuf die spon Al op een houten spi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 311892095
+%%humdrum-veritas-data 1351036921
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2 [I:setbarnb 1]|
+cGEG |
+c2e2 |
+dcBA |
+G2z).('d |
+ddde |
+f>ed3/d/ |
+e>c {c}BA/ G/ |
+Gz).('GA/ B/ |
+c/ c/ c/ c/GA/ B/ |
+c2).('GA/ B/ |
+c2c/ B/ c/ d/ |
+edcd |
+edc/ c/ c/ c/ |
+c2z2) |]

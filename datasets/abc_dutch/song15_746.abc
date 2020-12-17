@@ -1,0 +1,36 @@
+X: 14745
+T: Allegro
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1635844181
+%%humdrum-veritas-data 418522120
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=88
+K: D clef=treble
+.('A/ [I:setbarnb 1]|
+dd/cc/ |
+BB/AA/ |
+BB/F^G/ |
+A3/A).('A/ |
+ed/cB/ |
+ee/ed/ |
+cc/ B/ A/ B/ |
+A3/) ||
+.('cd/ [I:setbarnb 9]|
+ef/df/ |
+e3/cd/ |
+ef/df/ |
+e3/).('a3/ |
+dd/dc/ |
+B3/BB/ |
+ee/ed/ |
+cB/A).('A/ |
+ff/fe/ |
+d3/dd/ |
+e/ f/ e/Bc/ |
+d3/) |]

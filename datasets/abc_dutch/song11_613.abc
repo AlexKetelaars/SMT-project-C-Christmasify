@@ -1,0 +1,26 @@
+X: 10612
+T: Keesje, Keesje, Keesje, Je hebt er water bij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3212234223
+%%humdrum-veritas-data 806145891
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B B B B B B A B |
+c E E EE4) |
+.('F F F F F F E F |
+G2G2G4) :|]
+.('G2A2B2B B |
+A2B2G4 |
+B2c c2<d2d |
+c2d2B4) |
+.('G2e2e2e e |
+d6d d |
+c2A2d2d2 |
+B8) |]

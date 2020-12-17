@@ -1,0 +1,36 @@
+X: 17255
+T: Die in 't leeven niet wil doolen, Moet zyn s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3540563776
+%%humdrum-veritas-data 857366618
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('dA [I:setbarnb 1]|
+d>ee3/d/ |
+^cc).('ef |
+de^c3/d/ |
+d2) :|]
+.('cc [I:setbarnb 5]|
+cA_Bc |
+dd).('_BB |
+_BAG3/F/ |
+F2).('cf |
+dBcd |
+ee).('fd |
+BcB3/A/ |
+A2).('ff |
+feeg |
+^cA).('ff |
+fee3/d/ |
+d2).('ff |
+feeg |
+^cA).('ff |
+fee3/d/ |
+d2) :|]

@@ -1,0 +1,31 @@
+X: 4986
+T: Mijne moedertaal, mijne moedertaal, wie of h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1784582738
+%%humdrum-veritas-data 2575606911
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+B> AG2B B |
+d> cB2z2) |
+.('A2A F G B |
+B2A2z2) |
+.('A2>E2 F G |
+F> AA2z2) |
+.('A2>E2 F G |
+A> FD2).('D3/ D/ |
+d2B3D |
+B2G3z) |
+.('A2A A B c |
+B2A2).('D3/ D/ |
+d2B3G |
+e2c2z2) |
+.('B2A G B3/ A/ |
+A2G z) |]

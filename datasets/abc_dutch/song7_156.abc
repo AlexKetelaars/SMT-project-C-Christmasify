@@ -1,0 +1,36 @@
+X: 6155
+T: Jan hagel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 845735105
+%%humdrum-veritas-data 1473950141
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('A [I:setbarnb 1]|
+G2>A2B3c |
+d2>c2d3=e |
+f2=e fg2a g |
+f4z2).('f2 |
+b2>a2g3f |
+g2>d2B3c |
+d2e dc2B A |
+B6) :|]
+.('B c [I:setbarnb 9]|
+d2e dd2c d |
+B4z2).('A B |
+c2d cc2B c |
+A4z2).('f g |
+f2=e fe2d _e |
+d4z2).('d2 |
+g2a bb2a g |
+f4z2).('f2 |
+g2a gd2e d |
+e2d2c2).('d B |
+A2B Gd2c d |
+G4) |]

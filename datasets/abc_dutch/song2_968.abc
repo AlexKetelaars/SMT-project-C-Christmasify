@@ -1,0 +1,23 @@
+X: 1967
+T: Er ging eens een heer zeer ver van huis Over [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 3684552691
+%%humdrum-veritas-data 3327576336
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 5/4
+Q: 1/4=120
+K: G clef=treble
+.('DGGA [I:setbarnb 1]|
+B2AGB |
+A2).('D/ D/GA |
+B2AGB |
+A2).('DGB |
+e2Bdc/ B/ |
+[M:7/4]cE2).('cBBA |
+[M:6/4]GB2FAG/ F/ |
+ED2) |]

@@ -1,0 +1,31 @@
+X: 1831
+T: Hoort vrienden hoort naar het geval 't geen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 1572487182
+%%humdrum-veritas-data 2677376513
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2dd2d |
+d2dd2).('d |
+d2dc2B |
+A3G2).('d |
+d2dd2d |
+d2dd2).('d |
+d2cc2B |
+A3G3) |
+.('d d dd2d |
+d2cB3) |
+.('d d dd2d |
+d2cB3) |
+.('B2>c2 d e |
+d2>c2 B A) |
+.('(G B) d (d c) A |
+G3z2) |]

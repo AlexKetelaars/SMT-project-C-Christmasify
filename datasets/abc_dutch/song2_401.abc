@@ -1,0 +1,27 @@
+X: 1400
+T: Ik diende laatst bij mijn bataljon Ik deed m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 3799047523
+%%humdrum-veritas-data 237464349
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+B/> B/Bzd/> d/cB |
+A2>).('D2FA |
+d2>d2ed |
+B2>z2).('d2 |
+B/> B/BzdcB |
+A2>).('D2FA |
+d2>d2ed |
+B2>z2).('d2 |
+B/> B/BzdcB |
+A2>).('D2FA |
+d2>A2cB |
+G3z) |]

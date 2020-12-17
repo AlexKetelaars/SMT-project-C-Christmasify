@@ -1,0 +1,168 @@
+X: 13907
+T: Duetto 3.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 1308382443
+%%humdrum-veritas-data 1582229543
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=132
+K: A clef=treble
+.('(e2>d2)!wedge!c2!wedge!c2 |
+{c/} (B A B c)A2z2 |
+f2>g2 (b a g f) |
+(e2>d2)!wedge!c2z2 |
+B4c4 |
+d2>{e d c d} e2f3{g f e f} g |
+(b a g a) (g f e d) |
+c4B2z2) |
+.('(c2>B2)!wedge!A2!wedge!A2 |
+E2E2C2z2 |
+{D/}(d2>e2) (g f e d) |
+(c2>B2)A2z2 |
+G E G E A E A E |
+B E B E d E d E |
+c2d2e2E2 |
+A2E2A,2z2) |
+.('c'4a4 |
+e4z4 |
+d'4b4 |
+g4z4) |
+{A}.('c'2>a2e'3c' |
+^a b2<b2(c'/ b/) (=a/ g/ f/ e/) |
+^d f2<a2(c' b a) |
+f4g e g b |
+(c' a)f4){f} .('(e ^d/ e/) |
+(3^d b ^a (3b f d B/ d/ A/ d/ B/ d/ A/ d/ |
+(3G B ^d (3e g b (3e' b a (3g f e |
+(3^d b ^a (3b f d B/ d/ A/ d/ B/ d/ A/ d/ |
+(3G B ^d (3e g b (3e' b a (3g f e |
+b2B2z2).('B z/ B/ |
+(e2>f2) (a g f) e |
+(^d c)!wedge!c2z2c z/ c/ |
+f2>g2 (a g f e) |
+(e ^d)!wedge!d2z2).('B3/ B/ |
+b2>g2 (a f ^d B) |
+(e3f/ g/)f2B z/ B/ |
+(b> g) !wedge!e !wedge!e (a> f) !wedge!^d3/ !wedge!B/ |
+(e3f/ g/f2)).('B z/ B/ |
+(b2>a2) (g f e d) |
+(^B c-c2-c ^d e c) |
+(B/ e/ ^d/ e/) (d/ c/ B/ A/)G2!trill!!trill!F2 |
+E2z) .('GA2F2 |
+E z G G F z ^D D |
+E z G G F z ^D D |
+E E F F E E ^D D |
+E E F F E E ^D D |
+E E E E G G G G |
+A2z2z4) |
+.('G G G GG2z2 |
+G2z2F2z2 |
+z8 |
+G G G G A A A A) |
+.('E/ G/ B/ e/ g/ b/ g/ e/ f/ g/ a/ f/ ^d/ B/ A/ F/ |
+E/ G/ B/ e/ g/ b/ g/ e/ f/ g/ a/ f/ ^d/ B/ A/ F/) |
+.('G/ B/ G/ B/ e/ B/ e/ B/ ^d/ B/ d/ B/ F/ B/ F/ B/ |
+G/ B/ G/ B/ e/ B/ e/ B/ ^d/ B/ d/ B/ F/ B/ F/ B/) |
+.('G/ B/ G/ B/ A/ B/ A/ B/ G/ B/ G/ B/ F/ B/ F/ B/ |
+G/ B/ G/ B/ A/ B/ A/ B/ G/ B/ G/ B/ F/ B/ F/ B/) |
+.('G/ B/ c/ ^d/ e/ f/ g/ a/ b/ a/ g/ a/ g/ f/ e/ =d/ |
+c A c e a c' e' c' |
+b3c'/ ^d'/ e'/ d'/ c'/ b/ ^a/ b/ c'/ d'/ |
+e'/ ^d'/ c'/ b/ ^a/ b/ c'/ d'/ e'/ d'/ c'/ b/ a/ b/ c'/ b/ |
+^a/ b/ c'/ b/ a/ b/ c'/ b/ a/ b/ c'/ b/ =a/ g/ f/ e/ |
+B4!trill!!trill!f4 |
+e2z2).('B,2B,2 |
+(B2>A2)G2G2 |
+(B A G A) (F G A ^A) |
+B2>A2G2G2 |
+(B A G A) (F G A ^A) |
+B4A4 |
+G6z2 |
+A4F4 |
+E2).('(g/ a/ b/ a/) g g f f |
+e2(G/ A/ B/ A/) G G F F |
+E z f f g z F F |
+E z f f g z F F |
+E z e/ g/ b/ g/ e B G B |
+e2e2e2z2) |
+.('d6{e} d c |
+(c ^e2<)g2(=e c B) |
+A2z2z (c a f) |
+^e2z2z (c b g) |
+f2z2z (c a f) |
+=g2z2z (A ^g e) |
+f2z2z f d' b |
+a g2<g2(b d' b) |
+a g2<g2(b d') b |
+{c'} (b a2<)a2(c' a f) |
+z8) |
+.('(e2>d2)!wedge!c2!wedge!c2 |
+{c/} (B A B c)A2z2 |
+f2>g2 (b a g f) |
+(e2>d2)!wedge!c2z2 |
+B4c4 |
+d2>{e d c d} e2f3{g f e f} g |
+(b a g a) (g f e d) |
+c4B2z2) |
+.('(c2>B2)!wedge!A2!wedge!A2 |
+E2E2C2z2 |
+{D/}(d2>e2) (g f e d) |
+(c2>B2)A2z2 |
+G E G E A E A E |
+B E B E d E d E |
+c2d2e2E2 |
+A2z2z2).('e z/ e/ |
+(a2>b2) (d' c' b a) |
+(g f)-f2z2f z/ f/ |
+(b2>c'2) (d' c' b a) |
+g2z2z2e z/ e/ |
+(e'2>c'2) d' (b g e) |
+(a3b/ c'/)b2e z/ e/ |
+(e'> c') a a (d'> b) g3/ e/ |
+(a3b/ c'/)b2).('e e/ e/ |
+(e'2>c'2) (a b a =g) |
+(^e f2<)f2g a f |
+(e/ a/ g/ a/) (g/ f/ e/ d/)c2!trill!!trill!B2 |
+A2z) .('EB,2D2 |
+C2z EB,2D2 |
+C z C C B, z G, G, |
+A, z C C B, z G, G, |
+A, A, B, B, A, A, G, G, |
+A, A, B, B, A, A, G, G, |
+A, A, A, A, C C C C |
+z) .('A A AA2z2 |
+c z c z c z c z |
+c2z2z4 |
+c2z2z4 |
+c c c c d d d d) |
+.('A,/ C/ E/ A/ c/ e/ c/ A/ B/ c/ d/ B/ G/ E/ D/ B,/ |
+A,/ C/ E/ A/ c/ e/ c/ A/ B/ c/ d/ B/ G/ E/ D/ B,/ |
+C/ E/ C/ E/ A/ E/ A/ E/ G/ E/ G/ E/ B,/ E/ B,/ E/ |
+E/ C/ E/ A/ E/ A/ E/ G/ E/ G/ E/ B,/ E/ B,/ E/) .('C/ |
+E/ C/ E/ D/ E/ D/ E/ C/ E/ C/ E/ B,/ E/ B,/ E/ C/ |
+E/ C/ E/ D/ E/ D/ E/ C/ E/ C/ E/ B,/ E/ B,/ E/ C/ |
+D/ E/ F/ G/ A/ B/ c/ d/ e/ f/ g/ a/ g/ a/ g/ a/ |
+{g}f2f2>).('g2 a f |
+e/ g/ a/ f/ e/ g/ a/ f/ e/ g/ a/ f/ e/ g/ a/ f/ |
+e/ g/ a/ g/ f/ e/ d/ c/ f/ e/ d/ c/ B/ A/ G/ F/ |
+E A c e a c' e' c'/ a/ |
+e4b4 |
+a2z2).('E2E2 |
+(e2>d2)!wedge!c2!wedge!c2 |
+(e d c d) (B c d ^d) |
+(e2>d2)!wedge!c2!wedge!c2 |
+(e d c) d (B c d ^d) |
+(e4d4) |
+c6z2) |
+.('d4B4 |
+A2(c/ d/ e/ d/) !wedge!c !wedge!c !wedge!B !wedge!B |
+A2(c/ d/ e/ d/) !wedge!c !wedge!c !wedge!B !wedge!B |
+A z !wedge!b !wedge!b !wedge!c' z !wedge!B !wedge!B |
+A z !wedge!b !wedge!b !wedge!c' z !wedge!B !wedge!B |
+A2a/ e/ c/ e/ a e c e |
+a2a2a2z2) |]

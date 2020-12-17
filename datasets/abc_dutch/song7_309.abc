@@ -1,0 +1,50 @@
+X: 6308
+T: Schotsche drie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 3198658060
+%%humdrum-veritas-data 3331214924
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A4 [I:setbarnb 1]|
+^G A d f a2 z a |
+^g a f d A2 z A |
+B2 A2 g2 z A |
+B2 A2 f2 z) .('A |
+^G A d f a2 z a |
+^g a f d A2 z A |
+B2 A2 g2 z c |
+d3 x3) ||
+.('(c d) [I:setbarnb 9]|
+e e e e e2 (a b) |
+c' c' c' c' c'2 (d' c') |
+b b b b b2 (c' b) |
+a a a a a2) .('(c d) |
+e e e e e2 (a b) |
+c' c' c' c' c'2 (d' c') |
+b b b b b2 (c' b) |
+a3x4) ||
+.('A [I:setbarnb 17]|
+^G A d f a2 z a |
+^g a f d A2 z A |
+B2 A2 g2 z A |
+B2 A2 f2 z) .('A |
+^G A d f a2 z a |
+^g a f d A2 z A |
+B2 A2 g2 z c |
+d4z x2) ||
+[K:G] .('e [I:setbarnb 25]|
+d2 G2 B2 z e |
+c2 G2 A2 z e |
+d2 F2 A2 z a |
+b f g e d2 z) .('g |
+d2 G2 B2 z e |
+c2 F2 A2 z f |
+f2 F2 A2 z f |
+g2 g2 g2 z2) |]

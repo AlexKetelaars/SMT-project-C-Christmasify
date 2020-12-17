@@ -1,0 +1,30 @@
+X: 12968
+T: Tussen Keulen en Parijs ligt de weg naar Rome
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 344723981
+%%humdrum-veritas-data 586241980
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F2GA2B |
+c2cc3) |
+.('d2cB2A |
+G3F3) |
+.('F2GA2B |
+c2cc3) |
+.('d2c B B A |
+G G GF3) |
+.('A2A A G A |
+B3B3) |
+.('G2G G F G |
+c3c3) |
+.('F2G A A B |
+c c cc2c) |
+.('d2c B B A |
+G3F3) |]

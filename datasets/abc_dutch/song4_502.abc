@@ -1,0 +1,42 @@
+X: 3501
+T: Daar was eens een oud ventje Zijn naam die w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 357571075
+%%humdrum-veritas-data 3725114896
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D D D D |
+B2G) .('B |
+A G F E |
+E D/ D/ D) .('B |
+A G/ G/ F F/ E/ |
+E2D) .('F |
+E2D F |
+E2D) .('A |
+F F/ F/ F A |
+F F/ F/ F) .('A |
+F F/ F/ F A |
+F F/ F/ F) .('A |
+A> G A B |
+c> c B A |
+G2).('B2 |
+A G F E |
+E D/ D/ D) .('B |
+A G F E |
+E D/ D/D2) |
+.('G> GG2 |
+B> BB2) |
+.('A A/ A/ A A |
+G Bd2) |
+.('D> DD2 |
+B> BB2) |
+.('D D/ D/ D D |
+G3) |]

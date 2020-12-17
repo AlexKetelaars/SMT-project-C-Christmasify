@@ -1,0 +1,38 @@
+X: 11865
+T: Sarabande
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 615979262
+%%humdrum-veritas-data 870930347
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('FGA |
+A>Bc |
+B>cA |
+G>AF) |
+.('ccc |
+d>ef |
+fe3/d/ |
+^c2x) :|]
+.('ABc |
+d>ed |
+Bcd |
+e>f e/ d/) |
+.('ccc |
+(d>e)d |
+cB3/A/ |
+A3) |
+.('AAA |
+B>cB |
+AG3/A/ |
+A3) |
+.('FFF |
+G>AG |
+FE3/D/ |
+D2) |]

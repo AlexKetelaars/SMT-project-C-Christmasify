@@ -1,0 +1,15 @@
+X: 172
+T: Wilt myn ghebedt Heer verhooren, Laet kommen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 4135427378
+%%humdrum-veritas-data 552179408
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('B4c4B2A2G2A2F4E4z4).('G4A4B2G2A2c2B4A4z4).('A4c4B2A2A2G2A4z4).('E4F4G2A2A2G2A4z4).('A4G4A2B2c2B2A4G4z4).('A4G4E2F2G2E2F4E4z4).('E4A4G2G2A2B2c4B4z4).('G4A4G2E2G2G2F4E4) |]

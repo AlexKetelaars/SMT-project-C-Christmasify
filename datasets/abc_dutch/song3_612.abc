@@ -1,0 +1,22 @@
+X: 2611
+T: Daar waren eens drie tamboers die kwamen uit [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 56956700
+%%humdrum-veritas-data 283500838
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+(3:2:5B> B B B2 BB3).('B |
+B> B A Bd2c) .('B |
+(3:2:5A> A A A2 AA3).('A |
+A> B c de2d) .('c |
+B2B B/ B/ B/> B/ A G) .('D |
+G A B d(d2c2) |
+B4z3) |]

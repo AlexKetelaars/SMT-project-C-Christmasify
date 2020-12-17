@@ -1,0 +1,31 @@
+X: 9759
+T: Och God waar mag mijnen Christiaan zijn, in  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 522911169
+%%humdrum-veritas-data 1059299386
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+A A A A/ A/ |
+G G G) .('A |
+B A B c |
+B2A) .('C |
+A A A A |
+G G G) .('A |
+B A B c |
+B2!fermata!A) .('A |
+G C C A/ A/ |
+G C C) .('A |
+G C C A |
+G C C) .('A |
+G F E D ||
+(C E G)) .('c [I:setbarnb 15]|
+=B G A B |
+c2z2) :|]

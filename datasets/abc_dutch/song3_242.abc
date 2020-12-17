@@ -1,0 +1,31 @@
+X: 2241
+T: Zeg vrienden luister wat ik hier ga verhalen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:49
+%%humdrum-veritas 3518920797
+%%humdrum-veritas-data 1929461650
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('DGA [I:setbarnb 1]|
+[M:5/4]BB/ B/ B/ B<AG/ |
+[M:3/2]GF2).('DGd |
+d2c2ed |
+B3).('D/ D/GA |
+B>BB>BA3/G/ |
+GF2).('DGd |
+[M:5/4]d2ced |
+[M:3/2]B2>).('G2GB/ B/ |
+[M:5/4]B<BA/ A/GE |
+[M:3/2]D3).('D/ D/Gd |
+[M:5/4]d2ced |
+[M:3/2]B2>).('G2GB/ B/ |
+[M:5/4]B<BA/ A/GE |
+[M:3/2]D3).('D/ D/Gd |
+[M:5/4]d2ced |
+[M:3/2]B3) |]

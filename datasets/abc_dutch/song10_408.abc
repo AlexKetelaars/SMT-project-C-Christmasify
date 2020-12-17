@@ -1,0 +1,35 @@
+X: 9407
+T: Ik groet u liefste Engolin En wilt mij antwo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3667742838
+%%humdrum-veritas-data 157191373
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G3B |
+c B A G |
+A z/) .('G/ F G |
+A2c2 |
+F2G2 |
+z2z) .('D |
+G3B |
+c B A G |
+A z) .('F G |
+A2c2 |
+F2G2) ]|:
+.('z2z d |
+B3d |
+e d c B |
+c z z) .('c |
+A3c |
+d c B A |
+B z) .('G B |
+d2B2 |
+A2G2) :|]

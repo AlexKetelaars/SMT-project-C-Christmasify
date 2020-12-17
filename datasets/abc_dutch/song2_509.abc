@@ -1,0 +1,18 @@
+X: 1508
+T: Janman zat op schöstain flap zee de schou. D [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 541463969
+%%humdrum-veritas-data 159413226
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G A B cd2g2 |
+e2e e2<d2).('d |
+c c c c B c d B |
+A c B AG2z2) |]

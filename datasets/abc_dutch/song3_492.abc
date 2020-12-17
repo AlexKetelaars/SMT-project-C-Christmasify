@@ -1,0 +1,31 @@
+X: 2491
+T: Over tijd kwam ik eens over Breugel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 2169886001
+%%humdrum-veritas-data 4178271984
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D D [I:setbarnb 1]|
+G2>G2 G F G G |
+G4D2).('D D |
+c2c2A> A A A |
+B D D DD2).('D3/ D/ |
+G2G G G F G G |
+G4E2).('G3/ E/ |
+D2G> E D> E c3/ A/ |
+G4-G) .('D D D |
+G2>G2 G F G G |
+(A2G2)D) .('D D D |
+B3B/ B/ G G G3/ B/ |
+A4-A) .('D D D |
+B2>B2 c B A G |
+(A2E2)E2).('G3/ E/ |
+D2G> G F> E F G |
+A2z2z) |]

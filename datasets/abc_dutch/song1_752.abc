@@ -1,0 +1,39 @@
+X: 752
+T: O Heer; die daer des Hemels tente spreyt, En [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 1730819344
+%%humdrum-veritas-data 1696451896
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('B2G2A2 |
+B2>B2A2 |
+G2G2^F2 |
+G2>x2xx) |
+.('B2G2A2 |
+B2>B2A2 |
+G2G2^F2 |
+G2>x2xx) |
+.('A2A2A2 |
+(d2>c2)B2 |
+A2>G2^FE |
+^F2D4) |
+.('A2A2A2 |
+(d2>c2)B2 |
+A2>G2^FE |
+^F2D4) |
+[M:2/4].('G2 |
+[M:3/2]G2GG2A |
+(B>A)B(G>A)).('B |
+(A>B)c(B>A)B |
+A4).('A2 |
+A2A(A>B)c |
+d2dd2c |
+(B>A)GBA2 |
+G6) |]

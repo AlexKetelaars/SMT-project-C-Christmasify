@@ -1,0 +1,31 @@
+X: 16163
+T: Wie kan onder twee paar winden, Zulke vier B [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 1753242454
+%%humdrum-veritas-data 2055036673
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=bass
+.('A,2>G,2F,3D, |
+E,2>E,2A,2A,2) |
+.('C,2D,2(E, F, E, D, |
+C, D, E, F,G,2)A,2 |
+B,6A,2 |
+(B, C A, CB,2B,2) |
+E,8) |
+.('^C,2>C,2D,2F,2 |
+A,2(^F, E,2<)^D,2D,) |
+.('B,2B,2B,3A, |
+(B, C A, CB,2)E,2 |
+E,2B,2).('^C,3C, |
+D,2G,2A,2(^F, E,) |
+^D,4).('E,2^F,2 |
+G,2A,2(B, C A, C |
+B, B, C, A,2<B,2)B, |
+E,8) :|]

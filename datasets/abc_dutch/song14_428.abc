@@ -1,0 +1,48 @@
+X: 13427
+T: No51
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:34
+%%humdrum-veritas 484043367
+%%humdrum-veritas-data 4027966417
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d2e f g a |
+g f ed2A) |
+.('d2e f g a |
+g f ed2z) |
+.('d c dB2B |
+e2d c B A) |
+.('(d c) .dB2B |
+e2cd2z) |
+{.('f g}a2f {f g}a2f |
+e f g f e d) |
+{f g}.('a2f {f g}a2f |
+e g cd2z) |
+.('B c d A c d |
+e f g f e d) |
+.('B c d A c d |
+e c ed2z) ||
+[K:G] .('B c d d c B [I:setbarnb 18]|
+A G AB2G) |
+.('B c d d c B |
+A G AG2z) |
+.('B2B B A B |
+c2cc2z) |
+.('B2B B A B |
+c2cc2z) |
+.('B c d e f g |
+f a fg2z) |
+.('g> a g f> g f |
+e> f ed2d) |
+.('c2cB2B |
+A B AG2z) |
+.('D2DE2E |
+F E FG2G) |
+.('D2DE2E |
+F E FG2z) :|]

@@ -1,0 +1,32 @@
+X: 9001
+T: Gebuur, gebuur gade gij mee, Om te doen wat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 2854824000
+%%humdrum-veritas-data 1614299413
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('CC2F [I:setbarnb 1]|
+F2FF2G |
+A3).('A2B |
+c2BA2G |
+F2).('GA2G |
+F2G A G F |
+G2).('GA2G |
+F2GA2G |
+F2AA2A |
+c c BA2G |
+F2) ||
+.('GA2G [I:setbarnb 11]|
+F2G B A/ A/ G |
+F2) ||
+.('GA2G [I:setbarnb 13]|
+F2G A B A |
+c2B A A G |
+F2) |]

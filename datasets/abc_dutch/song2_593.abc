@@ -1,0 +1,45 @@
+X: 1592
+T: Mannen tien uur heit de klok toegeknoopt nu  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3598581518
+%%humdrum-veritas-data 2943386508
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G4D2 |
+G4D2 |
+G4D2 |
+G6) |
+.('B,4D2 |
+G4D2 |
+B,4D2 |
+G4).('D D |
+B,4D2 |
+B,4D2 |
+G6) ||
+[M:2/4].('G,> G, G, G, [I:setbarnb 13]|
+B, G,D2) |
+.('D> D D D |
+D _ED2) |
+.('D D (E !fermata!D) |
+D D (E !fermata!D)) |
+.('D> D D D |
+E2F2 |
+G4) |
+.('G2G2 |
+G3G) |
+[M:3/4].('C4=F2 |
+C4=F2) |
+[M:2/4].('C C =F C |
+=F CF2) |
+.('G2G2 |
+G2).('G G |
+[M:3/4]G4G2 |
+E4=F2 |
+G2z2) |]

@@ -1,0 +1,30 @@
+X: 5857
+T: ‘t Is wie wil hooren een nieuw lied, Wat dat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1512718039
+%%humdrum-veritas-data 2184619726
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('(A G) A B |
+c2B2) |
+.('(A B) (c d) |
+e3).('e |
+(e d) e f |
+g2).('c d |
+e f e d |
+c2z2) |
+.('c2c d |
+e2d) .('e |
+f e d c |
+d3).('c |
+d2d2 |
+e e d) .('c |
+B2e2 |
+A2z2) |]

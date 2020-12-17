@@ -1,0 +1,48 @@
+X: 14731
+T: Schalen en Oefen: in de 3 de Positie.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 4036557035
+%%humdrum-veritas-data 2677651573
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('C2E2G2c2 |
+e2g2c'2g2 |
+b2g2f2d2 |
+B2G2F2D2) |
+.('C2E2G2c2 |
+e2a2c'2e'2 |
+d'2c'2b2a2 |
+g2d2G2z2) |
+.('G2B2d2f2 |
+G2c2e2g2 |
+a2f2d'2f2 |
+g2e2c'2g2) |
+.('c2G2E2C2 |
+F2A2c2f2 |
+g4G,4 |
+[K:G] C4c2z2) |
+.('(G, B,) (D G) (B A) [I:setbarnb 18]|
+(A G) (A B)G2 |
+(G B) (c d) (e f) |
+(g f) (e g) (f e)) |
+.('(d B) (G D) (B A) |
+(A G) (A B)G2 |
+(A g) (f A) (e A) |
+(d f) (a f)d2) |
+.('(d c') (c' b) (b a) |
+(g f) (g e)d2 |
+(e d') (d' c') (c' b) |
+(d' c') (b c')a2) |
+.('_b b g g e e |
+b b g g d d) |
+.('(D c) (B D) (A D) |
+G (G, D) (DG2) |
+G (G, C) (CG2) |
+!fermata!G6) |]

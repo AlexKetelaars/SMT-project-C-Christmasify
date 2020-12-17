@@ -1,0 +1,32 @@
+X: 13173
+T: Allegretto
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:31
+%%humdrum-veritas 867373095
+%%humdrum-veritas-data 1717862928
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B2dA2c |
+(B A B)G2B |
+(A G A)E2F |
+G2BD2).('d |
+B2dA2c |
+(B A B)G2B |
+(A G A)E2F |
+G3G2) |
+.('d [I:setbarnb 9]|
+e c eg2g |
+g3d2B |
+d2BG2B |
+B3A2).('d |
+(e c e)g2g |
+g3d2B |
+d2BG2B |
+d3-d2) ||

@@ -1,0 +1,28 @@
+X: 2743
+T: Kom vrienden laten we zingen onder een pijpj [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 3220979400
+%%humdrum-veritas-data 442210025
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d3// d// [I:setbarnb 1]|
+(B d) B (A c) A |
+(G B) GD2).('d |
+c2c (B d) B |
+A2>z2).('d2 |
+[M:4/4]G> G G G A> G G A |
+[M:2/4]B2).('d2 |
+[M:4/4]G> F G AB2).('d2 |
+A2>B2 A G F E |
+(D2d2)d4) |
+.('B2B2B B B3/) .('B/ |
+c c c d e dd2) |
+.('B2B2B B B3/) .('d/ |
+e d c AG4) |]

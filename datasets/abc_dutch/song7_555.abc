@@ -1,0 +1,26 @@
+X: 6554
+T: O blijde nacht, o lang verwacht, Messias is  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 2754617824
+%%humdrum-veritas-data 679570311
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 12/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+B2AB2d (e g) ed2).('g |
+(d c) BA2G(A2G)A2).('d |
+(B c) dd2d (e g) ed2).('c |
+(B A) G (A G) F2<G2-G2) |
+.('B [I:setbarnb 5]|
+e2f (g f) e (d e) fB2).('f |
+g f e f e d2<e2-e2).('g |
+d2Bc2ed2fg2).('d |
+(d c) BA2GF2GA2).('d |
+B2cd2d (e g) ed2).('c |
+(B A) G (A G) F2<G2-G2) :|]

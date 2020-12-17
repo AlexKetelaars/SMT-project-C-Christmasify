@@ -1,0 +1,34 @@
+X: 9557
+T: Bruid, ik heb je meer gezien, meer gezien, m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 2998196566
+%%humdrum-veritas-data 3369441662
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C D E F |
+A GG2 |
+G FF2 |
+F EE2) |
+.('C D E F |
+(A2G2) |
+G4) |
+.('C D E F |
+A GG2 |
+G FF2 |
+F EE2) |
+.('C D E F |
+A2G2 |
+G3).('D |
+(3E E E D3/ D/ |
+(3E E E D3/) .('D/ |
+(3C C D (3E E ^F |
+G2).('A2 |
+(3G G E (3^F F D |
+G4) |]

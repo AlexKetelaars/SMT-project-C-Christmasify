@@ -1,0 +1,33 @@
+X: 13229
+T: Als de gekken u verveelen Laat hen loopen la [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3562176838
+%%humdrum-veritas-data 1711381261
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G3/ A/ [I:setbarnb 1]|
+c2c2c2(d c) |
+(c =B)_B2z2B G |
+(F E2<)(E2B) !wedge!d !wedge!B |
+(c/ B/ A/ B/)A2z2).('F3/ A/ |
+c2c2c2^c2 |
+d6(d3/ e/) |
+f2(g// f// e// f//) g a f d =B |
+(d> c)c2z2).('e g |
+f2>c2 (d c) (B A) |
+(A3{B A}G2)z c c |
+f2f2(f d) (c =B) |
+{d}c2c2z2).('c B |
+A2(G A)B2(A B) |
+(^c d)d4B B |
+A2(B G)F2(c B) |
+(B2A2)z2).('f e |
+(d g) (b g) (g f) (f e) |
+f2z2z2) |]

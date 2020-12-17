@@ -1,0 +1,27 @@
+X: 3419
+T: In Veendam daar staat er een herberg Een her [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 963113680
+%%humdrum-veritas-data 3710846660
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B3// A// [I:setbarnb 1]|
+(G B) d d> e d |
+(A2d)G2).('A |
+(B d) d (e f) g |
+d3-d2).('(B/ c/) |
+(d g) f e d e |
+(e2d)A2).('e |
+e f g d> e d |
+B3-B2).('(B/ c/) |
+(d g) f e d e |
+(e2d)A2).('e |
+e f g d> e d |
+G3-G2) |]

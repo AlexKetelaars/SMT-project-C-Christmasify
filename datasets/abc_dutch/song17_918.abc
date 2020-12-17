@@ -1,0 +1,28 @@
+X: 16917
+T: Trompet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 470574426
+%%humdrum-veritas-data 1237758437
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('g2g2 [I:setbarnb 1]|
+e2c d e d e f |
+d2c2).('g2g2 |
+e2c d e d e f |
+d4) |
+.('d c d e [I:setbarnb 5]|
+d2G2d c d e |
+d2).('e f g a g f |
+e d e fg2f e |
+d2c2).('d c d e |
+d2G2d c d e |
+d2e f g a g f |
+e d e f2<d2c |
+c4) :|]

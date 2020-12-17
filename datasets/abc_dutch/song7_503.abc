@@ -1,0 +1,50 @@
+X: 6502
+T: No 41
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 3849221312
+%%humdrum-veritas-data 418287007
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B> cd3d |
+(d ^c)=c4) |
+.('d> f(b3a) |
+(a g)d4) |
+.('B> cd3d |
+(d ^c)=c4) |
+.('d> f(b3a) |
+g z gz3) |
+[K:C] .('(E G2<)a2f |
+c c2<g2e) |
+.('G Gd2e ^f |
+g2G2F2) |
+.('(E G2<)(e2f) |
+(e _e)d4) |
+.('(F G2<)d2e |
+d- dc4) |
+.('E G2<e2f |
+(e _e)d4) |
+.('A _A2<G2B |
+c2c2z2) |
+.('c c2<(a2f) |
+c c2<(g2e)) |
+.('G G2<(f2d) |
+G G2<(g2e)) |
+.('c c2<a2f |
+c c2<g2e) |
+.('G Gd2e ^f |
+g2G2F2) |
+.('(E G2<)(e2f) |
+(e _e)d4) |
+.('(F G2<)d2e |
+d- dc4) |
+.('E G2<e2f |
+e ed4) |
+.('A _AG2B2 |
+c2c2z2) :|]

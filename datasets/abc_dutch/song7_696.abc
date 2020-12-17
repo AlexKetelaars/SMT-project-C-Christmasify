@@ -1,0 +1,31 @@
+X: 6695
+T: Ontsluit uwe ooren en verstand Al die hier s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 264706473
+%%humdrum-veritas-data 904363582
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D [I:setbarnb 1]|
+D2EF2G |
+A2AF2).('A |
+B2Bc2c |
+d2>A2 z) .('A |
+d2d (d c) d |
+e2eB2).('B |
+c2de2d |
+(c2B) A z) .('d |
+d2d c z) .('B |
+B2A B z) .('F |
+B2BB2c |
+(d2A) A z) .('d |
+d2d (d c)) .('d |
+e2B B z) .('B |
+c2de2f |
+e3d2) |]

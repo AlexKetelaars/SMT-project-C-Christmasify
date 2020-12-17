@@ -1,0 +1,25 @@
+X: 1617
+T: Daar was eens een meisje zeer vroeg opgestaa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3100790105
+%%humdrum-veritas-data 3465794285
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+GFG |
+EDA |
+AGA |
+B).('z/ B/ B/ B/ |
+d>A A/ B/ |
+c>d) .('d/ c/ |
+BAF/ E/ |
+ED).('A |
+AcB |
+G2) |]

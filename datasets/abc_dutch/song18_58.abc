@@ -1,0 +1,43 @@
+X: 17057
+T: Entre des Ciclopes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1821082185
+%%humdrum-veritas-data 1569309599
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: D clef=treble
+.('d [I:setbarnb 1]|
+!mordent!!mordent!c>BAG>FE |
+F2FF2).('A |
+A>Bcc>de |
+Ad2!mordent!!mordent!B2).('e |
+!mordent!!mordent!d>cBc>BA |
+!mordent!!mordent!^G2GG>AB) |
+.('!mordent!!mordent!A>Bc!mordent!!mordent!B>cd |
+c>BAA>B^G |
+A2AA2) |
+.('A [I:setbarnb 10]|
+d>cd!mordent!!mordent!B2B |
+c>Bc!mordent!!mordent!^A2).('A |
+B>cd!mordent!!mordent!c>de |
+d>cBB>c^A |
+B2).('FB>AB |
+!mordent!!mordent!^G2Be>de |
+cAdd>ec |
+d2).('A!mordent!!mordent!B>AG |
+AAA!mordent!!mordent!B>AG |
+AA).('dd=c2 |
+B>BAG!mordent!!mordent!F2 |
+E2AD>EC |
+D2).('A!mordent!!mordent!B>AG |
+AAA!mordent!!mordent!B>AG |
+AA).('dd=c2 |
+B>BAG!mordent!!mordent!F2 |
+E2AD>EC |
+D2DD2) |]

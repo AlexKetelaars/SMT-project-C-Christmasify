@@ -1,0 +1,22 @@
+X: 4069
+T: Een brede weg een smalle pad Van je lieder v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 2379190751
+%%humdrum-veritas-data 583285745
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+d2d2d2g2 |
+e2d2c2).('c B |
+A A A A A A B c |
+e e d dd2).('d B |
+d d d dd2d2 |
+d2d2d2d d |
+G6) |]

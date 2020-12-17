@@ -1,0 +1,23 @@
+X: 1704
+T: Er was eens een meisje vroeg opgestaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 2099621831
+%%humdrum-veritas-data 285418221
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G2G2A A |
+B2B AG2z) .('B |
+d d d d d G F G |
+A G F ED2z) .('B |
+d2d d G G d d |
+(c2B2)A2z) .('D |
+G G G AB2c B |
+(A2F2)G2z) |]

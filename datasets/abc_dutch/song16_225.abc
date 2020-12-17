@@ -1,0 +1,27 @@
+X: 15224
+T: Kruiwagen, krui voort
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 4215306074
+%%humdrum-veritas-data 658570411
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2B2A2 |
+G6) ||
+[K:C] [M:4/4].('G> G G G G E C E [I:setbarnb 4]|
+G2A2G2E2 |
+G G A AG2E2 |
+G G A AG2E2 |
+G2A2G2z2) |
+.('G2A2G2z G |
+c c G G E E G G |
+c B c de2z G |
+c c G G E E C E |
+G2^F2G2) |]

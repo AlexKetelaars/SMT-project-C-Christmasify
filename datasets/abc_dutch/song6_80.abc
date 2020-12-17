@@ -1,0 +1,30 @@
+X: 5079
+T: Slaap nu mijn kindje, mijn liev’ling is moe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 3796578168
+%%humdrum-veritas-data 2655768585
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('G E F |
+G d c |
+B A B |
+c3) |
+.('B B B |
+c B e |
+d> c A |
+G3) |
+.('G G G |
+A G G |
+G G (G/ c/) |
+c3) |
+.('B A B |
+c E A |
+G> F D |
+C2z) |]

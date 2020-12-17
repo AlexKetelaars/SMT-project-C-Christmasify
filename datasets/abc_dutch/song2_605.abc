@@ -1,0 +1,31 @@
+X: 1604
+T: Maar is die knoop eenmaal gelegd Dan zit ie  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 473530346
+%%humdrum-veritas-data 2334373412
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2G (G F) G |
+A2GE2).('E |
+(D F) Ac2d |
+B2>-B2 z) .('D |
+B2A (G F) G/ G/ |
+A2GE2).('E |
+(D F) Ac2d |
+[M:4/4]B6).('B3/ A/ |
+G2A2B2B3/ A/ |
+G B B BB2).('G3/ G/ |
+F2A2e2d2 |
+B4z2).('(G A) |
+B2B2A2G F |
+E2c2c3).('e |
+d2d2d2F2 |
+G6) |]

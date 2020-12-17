@@ -1,0 +1,33 @@
+X: 5487
+T: Doen Hanselijn over der heide reet Hoe haest [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3255415452
+%%humdrum-veritas-data 103867778
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('E [I:setbarnb 1]|
+G>GG |
+G>GG |
+G2G |
+A2).('A |
+c2c |
+BA2 |
+G3/(FE// D//) |
+E2).('E |
+AAA |
+A2A |
+GGE- |
+EC2 |
+zz).('C |
+G2E |
+(FG)A |
+G2c) |
+.('B>(A G/ F/) |
+E2) |]

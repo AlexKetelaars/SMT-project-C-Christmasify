@@ -1,0 +1,27 @@
+X: 15174
+T: Drie schuin Tamboers
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 3292967372
+%%humdrum-veritas-data 2017033717
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2B3/ A/ |
+G2z D |
+G A B c |
+d2c B |
+A> A A B |
+A2z) .('^G |
+A B c d |
+e2d c |
+B2B A |
+G F/ E/ D) .('D |
+G A B c |
+d2c A |
+G2z2) |]

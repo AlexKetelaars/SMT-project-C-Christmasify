@@ -1,0 +1,58 @@
+X: 17253
+T: Myn waarde rust wel eer, op 't kuis en zedig [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3270925941
+%%humdrum-veritas-data 2287625770
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2zf |
+d>ddA |
+_B3B |
+_BAGF |
+E>).('AAF |
+c2^c2 |
+dd/ e/ff/ g/ |
+ee).('f3/c/ |
+ddGG/ c/ |
+AAz).('f |
+d>ddA |
+_B3B |
+_BAGF |
+E>).('Ade |
+f(e/ d<)^cd/ |
+d4) |
+.('F2FF |
+^F>FGG |
+AA(cB/) c/ |
+B2B).('G/ G/ |
+B2(BA/) B/ |
+[M:3/2]A>_BcdG3/F/ |
+[M:2/2]F2).('cc |
+^c2cd |
+[M:3/2]e>ef>ed3/c/ |
+[M:2/2]BB).('ce |
+^G2GA |
+[M:3/2]B>BBcB3/A/ |
+[M:2/2]A3).('f |
+d>ddA |
+_B3B |
+_BAGF |
+E>).('AAF |
+c2^c2 |
+dd/ e/ff/ g/ |
+ee).('f3/c/ |
+ddGG/ c/ |
+AAz).('f |
+d>ddA |
+_B3B |
+_BAGF |
+E>).('Ade |
+f(e/ d<)^cd/ |
+d4) |]

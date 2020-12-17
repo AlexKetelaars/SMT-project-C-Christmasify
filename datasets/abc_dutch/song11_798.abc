@@ -1,0 +1,31 @@
+X: 10797
+T: Op eenen Witten Donderedag, Waardat Jezutje  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1351272467
+%%humdrum-veritas-data 501637693
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('B c d [I:setbarnb 1]|
+e2e d c B |
+c2>).('(B2 c) d |
+e f e d c B |
+c2>).('(B2 c) d |
+e f e d c B |
+c2>-c2 z) ]|:
+.('f [I:setbarnb 7]|
+e2dc2d |
+B2AG2).('e |
+d2f!fermata!c3) |
+.('e2>d2 c d |
+e3f2e |
+d3z2z) |
+.('(c2e) d c d |
+(G2e)d2c |
+B3z2) :|]

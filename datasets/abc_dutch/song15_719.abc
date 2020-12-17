@@ -1,0 +1,33 @@
+X: 14718
+T: Avec les Jeux
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 787215289
+%%humdrum-veritas-data 506365954
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E E A [I:setbarnb 1]|
+A E c c A e |
+e d c A e c |
+B2d B G B |
+A2>).('E2 E A |
+A E c c A e |
+e d c A e c |
+B2d B G B |
+A2>).('c2 c c |
+B2BG2E |
+B G E c e c |
+B G B A G F |
+E2>).('E2 E A |
+A E c c A e |
+e d c d e f |
+e c A A G A |
+c2B) .('d e f |
+e c A B G B |
+A3) |]

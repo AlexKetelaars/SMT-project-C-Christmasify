@@ -1,0 +1,36 @@
+X: 11959
+T: Courant d’ Jack
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 1502535243
+%%humdrum-veritas-data 2873455459
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d/ [I:setbarnb 1]|
+d>ef |
+da3/g/ |
+f>fb |
+ag3/f/ |
+f>fg) |
+.('af3/e/ |
+e>dc |
+dB3/A/ |
+A2) |
+.('x/ e/ [I:setbarnb 10]|
+e>fg |
+fg3/a/ |
+f>fe |
+d>cB |
+B>bb |
+ag3/a/ |
+a3) |
+.('gg3/f/ |
+g>fe |
+fe3/d/ |
+d2) :|]

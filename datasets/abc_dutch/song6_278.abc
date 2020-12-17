@@ -1,0 +1,31 @@
+X: 5277
+T: Komt hier al bij en hoort een klucht Ik zing [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 793616900
+%%humdrum-veritas-data 3889958346
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A [I:setbarnb 1]|
+D2EF2G |
+A2DD2).('E |
+F2FG2G |
+A3-A2).('A |
+D2EF2G |
+A2DD2).('E |
+F2FG2G |
+A3-A2).('A |
+A2BA2G |
+G2AG2).('A |
+(F E) DG2F |
+E2DE2).('E |
+D2EF2G |
+A2DD2).('E |
+F2F (E D) E |
+D3-D2) |]

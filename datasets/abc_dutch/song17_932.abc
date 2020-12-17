@@ -1,0 +1,58 @@
+X: 16931
+T: [NLB193448_01]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 1023309632
+%%humdrum-veritas-data 3535108666
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('G4G2 |
+c2c2e2 |
+g4g2 |
+C2C2E2 |
+G4G2) |
+.('c2ccce |
+g2gggg |
+C2CCCE |
+G4G2) |
+.('efgefg |
+EFGEFG) |
+.('efgefg |
+EFGEFG) |
+.('efgefg |
+efedc2) ||
+.('e2e2e2 [I:setbarnb 17]|
+e4e2 |
+g2g2g2 |
+g4g2) |
+.('E2E2E2 |
+E4E2 |
+G2G2G2 |
+G4G2) |
+.('e2eeee |
+e2ceee |
+g2gggg |
+g4g2) |
+.('E2EEEE |
+E2CEEE |
+G2GGGG |
+G4G2) |
+.('e2eeee |
+e2ceee |
+e2geee |
+e4e2) |
+.('E2EEEE |
+E2CEEE |
+E2GEEE |
+E4E2) ||
+.('CCEEGG [I:setbarnb 41]|
+cceegg |
+eeccGG |
+EEGGEE |
+c4c2) ||

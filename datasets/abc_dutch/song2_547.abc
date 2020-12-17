@@ -1,0 +1,27 @@
+X: 1546
+T: Ik ging er laatst met mijn scheepje overzee  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 3091740767
+%%humdrum-veritas-data 4276564719
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G GB2A2 |
+G> F G FE2z) .('D |
+G2G Gc2B3/ B/ |
+B2A2z2).('D D |
+G2G2B B A A |
+G> F G FE2).('D D |
+G2G2c2B2 |
+B2A2z2).('B2 |
+d2d dG2A B |
+A2F ED2z) .('D |
+G F G A B B e e |
+d2F> FG2z) |]

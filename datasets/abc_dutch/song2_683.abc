@@ -1,0 +1,27 @@
+X: 1682
+T: Daar buiten die Frankrijker poorten daar sta [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 3785173542
+%%humdrum-veritas-data 1495520283
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=240
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D F A G F E |
+[M:3/8]E D) .('D |
+[M:6/8]D F A (G F) E |
+D3).('(A2c3//) c// |
+B A B G F E |
+(A2c)B2).('A |
+G F G (D E) F |
+G3).('(A2c3//) c// |
+B A B G F E |
+(A2c)B2).('A |
+G F G (D E) F |
+G3) |]

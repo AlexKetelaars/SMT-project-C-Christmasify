@@ -1,0 +1,23 @@
+X: 9821
+T: Marieke kan den buikendans, Buikendans, buikendans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 547488348
+%%humdrum-veritas-data 1613726906
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G/ [I:setbarnb 1]|
+GG/GG/ |
+AG/E3/) |
+.('GF/D3/ |
+FE/C).('G/ |
+GG/GG/ |
+AG/E3/) |
+.('F3/D3/ |
+C3/z) |]

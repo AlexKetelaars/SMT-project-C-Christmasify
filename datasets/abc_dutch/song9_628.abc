@@ -1,0 +1,29 @@
+X: 8627
+T: Waar zou ik henen rijden, waar zou ik henen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:48
+%%humdrum-veritas 1692105798
+%%humdrum-veritas-data 2037481748
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Db clef=treble
+.('F/ [I:setbarnb 1]|
+FF/FE/ |
+D3/D).('D/ |
+GB/dB/ |
+[M:9/8]A3/-A).('B/BB/ |
+[M:6/8]d3/d).('c/ |
+d3/cB/ |
+A3/-A).('d/ |
+dd/(cB/) |
+A).('A/BB/ |
+[M:9/8]AG<F-F).('F/ |
+[M:6/8]FE/DF/ |
+AA/B).('G/ |
+F3/E3/ |
+D3/-D) |]

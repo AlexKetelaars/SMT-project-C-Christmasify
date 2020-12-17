@@ -1,0 +1,31 @@
+X: 760
+T: Wilt heden Nu treden Voor God den Heere; Hem [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 4015902886
+%%humdrum-veritas-data 1850444036
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d [I:setbarnb 1]|
+d>ed |
+B>cd |
+(c>B)A |
+BG).('d |
+d>e^f |
+g>af |
+(e>d)e |
+d2).('d |
+(d>e)^f |
+g2d |
+d>e c/ d/ |
+BG).('c |
+c>d e/ c/ |
+(d>c)B |
+cA2 |
+G3) |]

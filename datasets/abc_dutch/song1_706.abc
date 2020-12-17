@@ -1,0 +1,15 @@
+X: 706
+T: Wilt singen den Heer een nieuwe liet Sijn lo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3295846194
+%%humdrum-veritas-data 2895830725
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2E2E2EEF2E4DE4D4z2).('E2E2E2F2E4D2E4D4z2).('D2E2E2E2F2(G2FED4)C4z2).('E2F2F2E2E2E2D4D2A,4z2).('A,2G,4D4C4F2(E4DCD4)A,4) |]

@@ -1,0 +1,32 @@
+X: 1808
+T: Ey d’r was er een meisje van Sinterniklaas D [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 3540365017
+%%humdrum-veritas-data 669564109
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('d/ d/ d d c [I:setbarnb 1]|
+(B2c)d2d e> f e |
+[M:6/8]c2).('c B c d |
+(G2B)d2d |
+e> f ed2).('d/ d/ |
+e e de2f |
+g a gf2g |
+[M:9/8](a2f)d2).('d/ d/b2a |
+[M:9/8]g3-g2f/ f/e2d |
+e3-e2).('d/ d/ d c B |
+[M:6/8]c3d3 |
+c B AB3) |
+.('g2>g2 f e |
+d2B c d e |
+d3a3) |
+.('g2>g2 f e |
+d2B c d e |
+[M:9/8](d2B)G2) |]

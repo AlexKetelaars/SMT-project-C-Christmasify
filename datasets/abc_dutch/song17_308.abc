@@ -1,0 +1,36 @@
+X: 16307
+T: Myn Ziel hoe dus verkeerd van Zin? Is dit uw [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1800778116
+%%humdrum-veritas-data 3227980674
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2(f e) d A B c |
+{c2}d4z) .('A A d |
+B3(A/ G/)F2E2 |
+(F/ E/ D)D2z2).('A2 |
+(A2^G) A B c d B |
+{B2}c4z) .('e {d/} c {B/} A |
+f2{e/}d2{c/}B2A2 |
+(^G/ F/ E)E2).('(B3c/ d/) |
+c A F (d/ B/) {A B}!trill!!trill!B3A |
+A4z2) |
+.('A2 [I:setbarnb 11]|
+e2z e e d c B |
+(^A B)c2z2).('c2 |
+{e}d2(c B) (d c) (B ^A) |
+{^A2}B4z2).('d2 |
+(c3/ d// e//)d2(g e) (d c) |
+{c2}d4z) .('A A A |
+B2g2g2B2 |
+!trill!!trill!B2A2z) .('A A d |
+B2(g/ f/ e2<) {d e}!trill!!trill!e2d |
+d4z) :|]

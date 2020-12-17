@@ -1,0 +1,30 @@
+X: 16335
+T: Gelyk myn schoone Bloemen kwynen, Wanneer zy [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2504402023
+%%humdrum-veritas-data 2826448409
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('Aed |
+{d2}c2B |
+(Af)e |
+!trill!!trill!d2c) |
+.('(B/ c// d//) (c/ d// e//) (d/ e// f//) |
+(AG)A |
+(Bd)c |
+!trill!!trill!cBz) |
+.('Be^d |
+(eB)c |
+(de)d |
+(d2c)) |
+.('(f/ d/) (d/ B/) (B/ G/) |
+(Ad)c |
+(B{A}!trill!!trill!G3/)A/ |
+A3) :|]

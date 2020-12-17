@@ -1,0 +1,35 @@
+X: 10782
+T: Men moeder en men vader, Zij en onderhielen  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:09
+%%humdrum-veritas 1653639497
+%%humdrum-veritas-data 2501659531
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A2^GA2B |
+c A z z A B |
+c2d c B A |
+B2z).('d2c |
+B2B {B} A G A |
+B2>-B2 z) .('G |
+c> c c c B c |
+dB2-B2B |
+A2Bc2B |
+(A G) zz2).('G |
+A2GA2B |
+c2>A2 B c |
+d2d c c B |
+A2>-A2 z) .('B |
+A2Bc2B |
+(A G) zz2G |
+A2GA2B |
+c2>).('A2 B c |
+d2d c c B |
+A2>-A2 z z) |]

@@ -1,0 +1,30 @@
+X: 13313
+T: Wals
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 1318651011
+%%humdrum-veritas-data 2386622142
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('c B A |
+G2A |
+B2A |
+G2z |
+c B c |
+d2f |
+e2d |
+c2z) |
+.('d c B |
+B c d |
+e2d |
+c2e |
+f2d |
+e2c |
+d c B |
+c2z) :|]

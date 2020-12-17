@@ -1,0 +1,31 @@
+X: 2943
+T: Ik ben een vlugge Piet Als een dominee kan i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 2879841998
+%%humdrum-veritas-data 4130293386
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('e [I:setbarnb 1]|
+d> B G3/ B/ |
+D3).('e/ e/ |
+d/ d/ c A c |
+BG3) |
+.('d d G B |
+D3).('d/ d/ |
+d c A/ A/ c |
+BG3) |
+[M:3/4].('G> G A A B A |
+[M:2/4]c c) .('A A |
+A/ A/ A f3/ e/ |
+d) .('D E3/ F/ |
+G> A B3/ c/ |
+d> B) .('f3/ e/ |
+d A c B |
+G2) |]

@@ -1,0 +1,31 @@
+X: 16231
+T: Jonker, Jonker, dat je wist, Hoe g’elk stof  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 247230642
+%%humdrum-veritas-data 605508151
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F2GA2D |
+B2cd3) |
+.('(d c) B (A G) F |
+(E F) GF2D) |
+.('A2AB2c |
+d2ec2z) |
+.('(f e) d (c B) A |
+^G2AA2A) |
+.('e2fe2f |
+g2fe2z) |
+.('(d c) B (A G) F |
+E2cd2z) |
+.('(F G) A(B2z |
+c2zd2z |
+e2z z f g) |
+d2zA2d |
+d2z2z z) |]

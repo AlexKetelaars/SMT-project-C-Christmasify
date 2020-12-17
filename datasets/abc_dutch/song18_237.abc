@@ -1,0 +1,35 @@
+X: 17236
+T: Ach! Waar heen zich gewend, in deez' bedroef [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 2257324493
+%%humdrum-veritas-data 3467522532
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('z4d A |
+B4A B |
+G4e2 |
+c2>B2 A G |
+^F4).('d =e |
+f2f3A |
+B4B2 |
+c2>c2 d e |
+d4).('B2 |
+G2>G2 G G |
+A B2<(B2A) |
+B4).('d d |
+e4e2 |
+c2c3d |
+=B2B) .('d d e |
+c2>c2 c =B |
+c4).('e2 |
+c2>B2 A G |
+^F4d A |
+B4A B |
+G6) |]

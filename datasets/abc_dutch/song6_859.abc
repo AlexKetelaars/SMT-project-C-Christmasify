@@ -1,0 +1,23 @@
+X: 5858
+T: Er zou een maagd om bloemetjes gaan, Om een’ [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2813828730
+%%humdrum-veritas-data 2191002069
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A B A [I:setbarnb 1]|
+G3c3 |
+(d/ c/) B c !fermata!G) .('G G |
+c2d d e f |
+e3{d}!fermata!c2).('c |
+e2e e d c |
+(!mordent!!mordent!c B) c !fermata!d) .('d e |
+A2A (B c) d |
+(!mordent!!mordent!c2B)A3) |]

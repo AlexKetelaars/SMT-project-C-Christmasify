@@ -1,0 +1,35 @@
+X: 3668
+T: Het windje suist weer door de groene bladere [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 1778927539
+%%humdrum-veritas-data 3419969589
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D D [I:setbarnb 1]|
+G2>G2 G A B3/ B/ |
+A2G2>).('G2 G B |
+(d2c) B A B c B |
+A4z) .('D E F |
+G2>G2 G A B3/ B/ |
+A2G2>).('G2 G B |
+(d2c) B A B c B |
+[M:2/4]A2).('D2 |
+[M:3/4]A2>A2 A B |
+[M:4/4](A F)D4).('D2 |
+A2>A2 A B c3/ c/ |
+B6).('D2 |
+[M:3/4]B2>d2 c B |
+[M:4/4]A2E2>).('c2 c c |
+[M:7/4]B2>B2A2G>) .('G F G A G F G |
+[M:3/4]E2D2).('c3/ c/ |
+B2G2B2 |
+[M:4/4]B2A4).('D3/ D/ |
+[M:5/4]D2d4F4 |
+[M:4/4]G4z) |]

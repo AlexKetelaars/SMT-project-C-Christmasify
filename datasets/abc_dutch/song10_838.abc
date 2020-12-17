@@ -1,0 +1,47 @@
+X: 9837
+T: En ik ben de Snijder Kakkendoe en reeds Holl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 1956038577
+%%humdrum-veritas-data 2051731527
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C C [I:setbarnb 1]|
+F2F2 |
+G2G2 |
+A2c2 |
+F2).('E F |
+G2G2 |
+D2E2 |
+F4 |
+z2).('C C |
+F2F2 |
+G2G2 |
+A2(A c) |
+F2).('E F |
+G2G2 |
+D2E2 |
+F4- |
+F2).('E F |
+G2G G |
+G2(F G) |
+A2F2 |
+F2).('F G |
+A2A2 |
+(A G) (F E) |
+D2D D |
+D) .('E F G |
+A3A |
+c c B A |
+G2(F G) |
+A2).('D D |
+C2F F |
+F2E F |
+A2G G |
+F2) |]

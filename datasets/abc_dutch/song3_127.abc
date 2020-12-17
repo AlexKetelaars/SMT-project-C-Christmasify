@@ -1,0 +1,27 @@
+X: 2126
+T: Wat zag ik van verre marcheren Een jong meis [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 1367330885
+%%humdrum-veritas-data 4028048197
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B A B B A B |
+G3G2).('d/ d/ |
+d e fe3 |
+e2<d2-d2) |
+.('d d e d (d e) |
+d2<c2B2) |
+.('G A B c d c |
+B (A B)A2).('d |
+d e fe2e |
+d3-d3) |
+.('G2d (d e) d |
+(c B) AG2) |]

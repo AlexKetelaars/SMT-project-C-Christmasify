@@ -1,0 +1,24 @@
+X: 4749
+T: Düsseldorf die schöne stad Joechei die, joec [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 4262174505
+%%humdrum-veritas-data 1930685515
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D A G E D ED2) |
+.('D BA2D A G3/) .('D/ |
+B A G E D ED2) |
+.('D B A DG4) |
+.('A A A/> A/ A A A A) .('A |
+A G F E/ E/ E DD2) |
+.('D BB2B dd2) |
+.('c c c c e dd2) |
+.('B BB2B dd2) |
+.('d c B AG4) |]

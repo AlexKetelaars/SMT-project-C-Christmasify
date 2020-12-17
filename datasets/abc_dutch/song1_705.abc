@@ -1,0 +1,16 @@
+X: 705
+T: Wilt loven God den Heere Al uut zijn hemelen claer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2013696663
+%%humdrum-veritas-data 3031244115
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2D2D2D2B,2B,2(C2>B,2C2)A,4).('D2F2E4D4D4C4D4).('z2D2D2D2B,2B,2(C2>B,2C2)A,4).('D2F2E4D4D4C4D4) ]|:
+.('D2G2GGG2F2E2D2).('A4E2F4E4D2E4z2).('E2G2G2F2E2D2C2).('D4F2E4D4C2D4) |]

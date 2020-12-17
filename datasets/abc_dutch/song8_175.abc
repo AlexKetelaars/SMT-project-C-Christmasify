@@ -1,0 +1,49 @@
+X: 7174
+T: No742
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 1853807567
+%%humdrum-veritas-data 1525755632
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=66
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d>efe |
+dA!trill!!trill!BA |
+d>ef!trill!!trill!e |
+d2e).('(g/ f/) |
+{a}g(f/ e/) {g}f(e/ d/) |
+{d}c(B/ A/)e(g/ f/) |
+{a}g(f/ e/) {g}f(e/ d/) |
+{d}c(B/ A/)d).('f |
+(f/ B/) (g/ e/)d!trill!!trill!c |
+{B c}d2).('Bc |
+{e}dd{e}dc/ B/ |
+AA).('B{d}c |
+{e}dd{e}dc/ B/ |
+{B2}A2).('e3/d/ |
+cc/ B/ (A/ B/) !wedge!A/ !wedge!G/ |
+!trill!!trill!G{F G}F).('f3/e/ |
+d(d/ c<)BA/ |
+{A}^G2).('B=c |
+Be{d}=cB/ A/ |
+BE).('B=c |
+Be{d}=cB/ A/ |
+{A2}B2).('ae |
+{g}fe/ d/c!trill!!trill!B |
+A2z).('A |
+d>efe |
+d{B}A!trill!!trill!BA |
+d>ef!trill!!trill!e |
+d2e).('(g/ f/) |
+{a}g(f/ e/) {g}f(e/ d/) |
+{d}c(B/ A/)e).('(g/ f/) |
+{a}g(f/ e/) {g}f(e/ d/) |
+{d}c(B/ A/)d).('f |
+(f/ B/) (g/ e/)d!trill!!trill!c |
+d3z) |]

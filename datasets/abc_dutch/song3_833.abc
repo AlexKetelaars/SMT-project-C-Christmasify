@@ -1,0 +1,31 @@
+X: 2832
+T: Een soldaat die uit de oorlog kwam en hoera  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 3688835699
+%%humdrum-veritas-data 2015122271
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+G2BB2G |
+A2d c B A |
+G2>-G2) .('D D |
+G2BB2G |
+A2d c B A |
+G3-G2).('d |
+d2dd2d |
+e2dB2).('B |
+A2A A B c |
+d2e d c A |
+B3-B2).('d |
+d2dd2d |
+e2dB2).('B |
+A2A A B c |
+d2e d c A |
+G3-G2) |]

@@ -1,0 +1,31 @@
+X: 6182
+T: De Koning leev’! de Koning leev’! Zoo klinke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 3425776163
+%%humdrum-veritas-data 4125408598
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E E E [I:setbarnb 1]|
+A2>E2c3A |
+E4z2).('B2 |
+c2>B2 (A B) (c =d) |
+e2E2z2).('E2 |
+B2>B2 A G F E |
+A4z2).('A2 |
+G2>E2 (B A) (F =D) |
+F2E2z) .('E d c |
+B2>A2 (A G) (F E) |
+c4z) .('A G F |
+E2>C2E3B, |
+(D2C2)z) .('E d c |
+B2>A2 (G B) (f e) |
+e4z) .('d c B |
+A2>E2c3B |
+A4z) |]

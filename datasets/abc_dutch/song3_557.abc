@@ -1,0 +1,23 @@
+X: 2556
+T: Jan Krummel die had zo’n zin aan het vrouwel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 3246173259
+%%humdrum-veritas-data 1909165841
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+d d d dG2A3/ B/ |
+A G F E D>) .('D E F |
+G A B dc2B2 |
+G2A3z2).('B |
+d d d d c B A B |
+c c c B2<A2).('d |
+G G A> A B> d d3/ c/ |
+B B A AG2) |]

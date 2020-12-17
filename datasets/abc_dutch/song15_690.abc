@@ -1,0 +1,34 @@
+X: 14689
+T: Dode Schuld
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 2980196560
+%%humdrum-veritas-data 1006551218
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('D E F G A2 d2 |
+B2 G2 B A A2 |
+G2 E G F2 A2 |
+E D E F D2 z2) |
+.('D E F G A2 d2 |
+B2 G2 B A A2 |
+G2 E G F2 A2 |
+E2 A G F2 z2 |
+A G E G F2 d2 |
+E D E F D2 z2) ||
+.('C D E F G2 E2 [I:setbarnb 12]|
+D2 F2 E C A,2 |
+C D E F G2 E2 |
+D2 F2A4) |
+.('D E F G A2 d2 |
+B2 G2 B A A2 |
+G2 E G F2 A2 |
+E2 A GF4 |
+A G E G F2 d2 |
+E D E FD4) |]

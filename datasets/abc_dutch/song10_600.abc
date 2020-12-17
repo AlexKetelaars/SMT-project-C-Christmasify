@@ -1,0 +1,35 @@
+X: 9599
+T: Huiben komt uit, Huiben komt uit
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 17298106
+%%humdrum-veritas-data 2005415333
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c> B cd3 |
+{c d} c> B cd3) |
+.('c> B cd2e |
+(c2B)A2).('c |
+B2AG2c |
+{B c} B> B A(G3 |
+c> B cd2e |
+c3G2)z) |
+.('c3B3 |
+A> ^G AB2E) |
+.('c3B3 |
+A> ^G AB3) |
+.('f z e f z e |
+d> d c d z c) |
+.('B z c d z e |
+c z B (A B/ c/ d/ e/)) |
+.('f z e f z e |
+d> d c d z c) |
+.('B z c d z e |
+c z BA3- |
+A2zz2z) |]

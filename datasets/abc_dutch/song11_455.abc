@@ -1,0 +1,35 @@
+X: 10454
+T: Sint Crispijn, wanneer zal’t zijn? ‘t Avond  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 1994719428
+%%humdrum-veritas-data 2919052492
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A [I:setbarnb 1]|
+A3G2A |
+A2AG3) |
+.('(A2=B)c2d |
+=B2A(d2c) |
+=B3A2).('A |
+(A B) A B B c |
+d2AA2).('c |
+B2A G G F |
+E2D E E) .('D |
+(E2D) E (F G) |
+(A2D)D2F |
+E2DD3) ||
+[M:2/4].('F2C C [I:setbarnb 14]|
+F2C C |
+F2A2 |
+c4) |
+.('B2B B |
+A2A2 |
+G2G2 |
+F3z) |]

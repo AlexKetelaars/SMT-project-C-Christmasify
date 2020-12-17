@@ -1,0 +1,45 @@
+X: 7214
+T: Komt hier besoeken die u ziel bemint, Gods Z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 2424611552
+%%humdrum-veritas-data 636143649
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('A2c2(BA) |
+e2>e2e2 |
+e2d3c |
+B6) |
+.('c2A3^G |
+A2>B2c2 |
+B2!mordent!!mordent!B3A |
+A6) |
+.('e2d>cB3/A/ |
+^G4A2 |
+{d}c2>B2AA |
+e4).('e2 |
+d2>c2BA |
+cc2<!mordent!!mordent!B2A |
+A6) ||
+.('A2c3B [I:setbarnb 17]|
+A4A2 |
+d2-d3c |
+!mordent!!mordent!B6) |
+.('e2A3B |
+c2>B2A2 |
+c2(dc)(BA) |
+B4z2) ||
+.('e2c2d2 [I:setbarnb 25]|
+!mordent!!mordent!e2>d2c2 |
+e2d2c2 |
+B2>B2B2) |
+.('E2A2B2 |
+c2>d2e2 |
+(dc2<)B2A |
+A6) |]

@@ -1,0 +1,29 @@
+X: 1258
+T: Alop rians alop rians Zo gaan wij door de ko [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 1760901734
+%%humdrum-veritas-data 1311709211
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G/ [I:setbarnb 1]|
+BG/GG/ |
+BG/G).('G/ |
+AA/dd/ |
+BB/G3/) |
+.('cc/c3/ |
+BB/B3/) |
+.('AA/BA/ |
+AG/G).('G/ |
+cB/AG/ |
+FG/c3/) |
+.('GG/GG/ |
+GB/d3/) |
+.('GG/GG/ |
+GB/d3/) |]

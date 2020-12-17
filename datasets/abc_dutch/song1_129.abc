@@ -1,0 +1,15 @@
+X: 129
+T: O Heer ick ben van myn vianden, Omringht, ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 1259943135
+%%humdrum-veritas-data 552722761
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('g4d2d2g2g2f2f2e4d4z4).('d4e2g2f2d2f2f2e4d4z4).('B4c2_e2d2B2d4c4B4z4).('d4B2B2G2B2c4A4G4z4).('G4B2c2d4f4d2c2B4A4z4).('d4B2c2d2=e2f2g2e4d4z4).('d4g2g2f2f2g4e4d4z4).('B4c2d2G2c2B4A4G4) |]

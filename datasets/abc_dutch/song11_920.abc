@@ -1,0 +1,37 @@
+X: 10919
+T: Laastmaal, in het kort besluit, Trokken wij  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 679318084
+%%humdrum-veritas-data 3722114441
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G> A B3/ c/ |
+d> ed2 |
+z2).('B3/ c/ |
+(d2e) d |
+(d2c) A |
+G2-G z) :|]
+.('z2A3/ B/ |
+d> c B3/ A/ |
+G B!fermata!d2 |
+z2).('A3/ B/ |
+[M:3/4](c2e) d c A |
+[M:2/4]G B!fermata!d2 |
+z2).('G B |
+d3e |
+d3c |
+B) .('B c c |
+B2c2 |
+d2).('G B |
+d3e |
+d3c |
+B) .('B c c |
+B2A2 |
+G2z2) |]

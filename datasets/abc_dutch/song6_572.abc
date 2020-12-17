@@ -1,0 +1,28 @@
+X: 5571
+T: Het windeken, daer dat bosch af drilt! Doet  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 1293877368
+%%humdrum-veritas-data 3429210458
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('d [I:setbarnb 1]|
+d2df2f |
+ec2A2).('e |
+f2cd2d |
+cA2F2).('F |
+F2G(A2G) |
+F2).('(G/ A<) (B A/) (G/ F/) |
+E3D2).('D |
+F2GA2c |
+A2GF2).('F |
+c2cc2c |
+d2dd2).('e |
+f (d c) B (G F) |
+F2ED3) |]

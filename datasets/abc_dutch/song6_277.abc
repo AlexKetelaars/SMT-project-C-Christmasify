@@ -1,0 +1,26 @@
+X: 5276
+T: O Jannetje Stijfsel Wat staat je hulletje net
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 693026986
+%%humdrum-veritas-data 3602893143
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F2>G2 F G |
+A3d2).('D |
+D2D F F E |
+D3-D2).('F |
+A2AB2B |
+A3-A2).('F |
+A A AB2B |
+A6) |
+.('F2>G2 F G |
+A3d2).('D |
+D2D F F E |
+D6) |]

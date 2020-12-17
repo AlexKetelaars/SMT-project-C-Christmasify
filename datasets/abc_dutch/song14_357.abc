@@ -1,0 +1,54 @@
+X: 13356
+T: Lucifer met zijn wagen - Quaderille
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 3941085566
+%%humdrum-veritas-data 3700514195
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d ^c d [I:setbarnb 1]|
+g2dd2B |
+G2B B A B |
+A2dd2^c |
+d2) |
+.('d d ^c d [I:setbarnb 5]|
+e2d {d}c2B |
+c2c c B c |
+e d cc3 |
+B2).('d d ^c d |
+e d e f e f |
+g2d g f e |
+d c BA3 |
+G2) :|]
+.('d d ^c d [I:setbarnb 13]|
+g2dd2B |
+G2B B A B |
+A2dd2^c |
+d2).('d d ^c d |
+g2dd2B |
+G2B B A B |
+A2dd2^c) ]|:
+[M:3/8].('d> e d/ c/ |
+B g g |
+D a f |
+g/ f/ g/ a/ g) |
+.('d> e d/ c/ |
+B g g |
+D a f |
+g3) :|]
+.('c/ B/ c/ A/ F/ D/ |
+d/ ^c/ d/ B/ G/ D/ |
+c/ B/ c/ A/ F/ D/ |
+G/ F/ G/ A/ B/ c/ |
+d>) .('e d/ c/ |
+B g/ f/ g |
+c a f |
+g2d |
+d ^c d |
+g2d) |]

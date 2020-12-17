@@ -1,0 +1,39 @@
+X: 16591
+T: Waar toe myn ziel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 1021837211
+%%humdrum-veritas-data 3995954343
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('z2z2D2 |
+G4(^F/ G/ A) |
+^F4(A/ B/ c) |
+B4(A G) |
+G6) |
+.('B2c2d2 |
+^F4D2 |
+A2c2d2 |
+_e d c BA2 |
+(A/ B/ c2<)B2A |
+A6) |
+.('z2z2(d A) |
+B4(A/ B/ c/ d/) |
+G4A2 |
+^F4D2) |
+.('A2B2d2 |
+G6 |
+(c d) (_e d) (c B) |
+A4(c/ B/ A/ G/) |
+^F6) |
+.('G2A2B2 |
+c d c B A G |
+^F2>G2A2 |
+(d A2<)(A2G) |
+G6) |]

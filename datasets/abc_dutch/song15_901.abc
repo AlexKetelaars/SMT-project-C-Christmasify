@@ -1,0 +1,34 @@
+X: 14900
+T: Engelgleiches Kind Ist dein Hertz gesinnt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 1995419631
+%%humdrum-veritas-data 2231254310
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=104
+K: F clef=treble
+.('c2 (f e) f2 (f e)f4 |
+c2 (b a) b2 (b a)b4 |
+a2 f2 f2 f2 f2 (g a) |
+(g f) (e d) c2 c2c4) |
+.('(d c) (B A) (G F) (E D) C2 C2 |
+(c B) (A G) (F E) (D C) B,2 B,2 |
+(B A) (G F) (E D) (C B,) A,2 F2 |
+G,2 (F E)F8) |
+.('A2 (G F) A2 (G F)c4 |
+=B2 (A G) d2 e2f4 |
+e2 (e d) a2 (a g) f2 (f e) |
+d2 (d c) (=B c) (B A) G2 G2) |
+.('(a g) (f e) (d c) (=B A) G2 G2 |
+(g f) (e d) (c =B) (A G) F2 F2 |
+(f e) (d c) (=B A) (G F) E2 c2 |
+D2 (c =B) c2 C2C4) |
+.('c2 (d _e) d2 B,2B,4 |
+d2 (e f) e2 C2C4 |
+(b a) (g f) (e d) (c B) A2 f2 |
+G2 (f e) f2 F2F4) :|]

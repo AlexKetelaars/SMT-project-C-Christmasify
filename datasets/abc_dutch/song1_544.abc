@@ -1,0 +1,33 @@
+X: 544
+T: Hoor Volcken al van d'een en d'and're werld  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 717112417
+%%humdrum-veritas-data 1091279929
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('zddA |
+F>GAD |
+def(e// f// g/) |
+e2d2 |
+z).('fe3/d/ |
+c(d/ c/)BA |
+^G>ABc |
+B2A2 |
+z).('cc/> _B/ A/ A/ |
+_B/> A/ G/ c/ A/> G/F |
+z).('FGA |
+E(A/ G<)FE/ |
+EAB(c/ d/) |
+B>AA2 |
+z).('Ad^c |
+d(e/ f<)ed/ |
+^c2z).('A |
+d(e/ f<)ed/ |
+d4) |]

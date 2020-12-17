@@ -1,0 +1,43 @@
+X: 4848
+T: Vigelantje vigelantje vigelantje sta stil
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 3916710638
+%%humdrum-veritas-data 3488102197
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d3// d// [I:setbarnb 1]|
+dBd3// d// |
+dB).('d3// d// |
+gfe |
+d2).('d3// d// |
+gfe |
+dg).('B |
+dcA |
+G3) |
+[M:4/4].('d/> d/ d/> d/dg |
+B/> B/ B/> B/Bd) |
+.('d/ d/ d/ d/ d/ d/g |
+B/ B/ B/ B/ e/ d/d) |
+[M:3/4].('d>e d/ c/ |
+BGB |
+cAe |
+d2B) |
+.('d>e d/ c/ |
+BGB |
+cAd |
+G3) |
+.('d>e d/ c/ |
+BGB |
+cAe |
+d2B) |
+.('d>e d/ c/ |
+BGB |
+cAd |
+G3) |]

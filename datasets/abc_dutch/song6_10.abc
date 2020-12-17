@@ -1,0 +1,31 @@
+X: 5009
+T: Ons Liesje zat te treuren, dat doet zo menig [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 614785840
+%%humdrum-veritas-data 2635850660
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G D |
+E2E A |
+G F E D |
+G G/ G/ G) .('D |
+G G G D |
+E2E A |
+G F E D |
+G G/ G/ G z) |
+.('A A/ A/ A G |
+F E D D |
+E F G A |
+B2G z) |
+.('G G/ G/ G G |
+G E D D |
+E D E F |
+G3) |]

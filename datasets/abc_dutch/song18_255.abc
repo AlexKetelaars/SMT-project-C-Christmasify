@@ -1,0 +1,30 @@
+X: 17254
+T: O Mensche! wie gy zyt, of niet, 't Zy arm, o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 742177
+%%humdrum-veritas-data 1643970282
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G [I:setbarnb 1]|
+BAG2 |
+d2dc |
+d3).('d |
+dgf2 |
+d2ed |
+c4 |
+B4 |
+z2).('d2 |
+BAG2 |
+A2cA |
+^F3).('A |
+Bcd2 |
+B2cB |
+(BA3) |
+G3) |]

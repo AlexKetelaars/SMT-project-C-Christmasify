@@ -1,0 +1,24 @@
+X: 7298
+T: Moeder, ik wil hebben een man, - Warme garna [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 549515627
+%%humdrum-veritas-data 1985776605
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A2Ac2c |
+d c de3) |
+.('A2A (c B) c |
+d3e2).('e |
+e2ee2e |
+(e d) cB3) |
+.('A2B (c B) c |
+A2B (c B) c) |
+.('c2d (e d) e |
+c3A2z) |]

@@ -1,0 +1,42 @@
+X: 9141
+T: Hoe leit dit kindeken hier in de kou: Ziet e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 3442046238
+%%humdrum-veritas-data 906637790
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('GGG |
+D>DD |
+GGA |
+B3) |
+.('BAG |
+dcB |
+cBA |
+B2G) |
+.('AAA |
+B>cd |
+cB3/A/ |
+A3) |
+.('BAB |
+G>GG |
+c>d (c/ B/) |
+A3) |
+.('dcd |
+B>AG |
+cA3/G/ |
+G3) |
+.('BAB |
+G>GG |
+c>d (c/ B/) |
+A3) |
+.('dcd |
+B>AG |
+cA3/G/ |
+G3) |]

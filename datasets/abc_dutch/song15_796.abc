@@ -1,0 +1,27 @@
+X: 14795
+T: Das Lied vom Feldmarschal
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2245219800
+%%humdrum-veritas-data 1715628831
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A A A A A e B A |
+A F F FF2z) .('d |
+d c B A G B e G |
+B A A AA2z) .('c |
+e d B B B A B c |
+A2<A2A3).('c |
+e d c B d c B A |
+e2e e e d c B) |
+.('A2A A A e c A |
+A F F F2<F2).('d |
+d c B A G B e G |
+B A A AA3) |]

@@ -1,0 +1,29 @@
+X: 7220
+T: Ik voele dat myn herte leeft, viva, En dat m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 1143250884
+%%humdrum-veritas-data 1875212455
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G/ [I:setbarnb 1]|
+Gc/cd/ |
+ed/cd/ |
+e3/-e).('G/ |
+Gc/cd/ |
+ed/cd/ |
+e3/-e).('e/ |
+eg/ge/ |
+ed/dd/ |
+ff/ed/ |
+ed/c3/) |
+.('d3/ee/ |
+d3/c3/ |
+e3/gf/ |
+d3/cz/) |]

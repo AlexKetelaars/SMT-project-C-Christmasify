@@ -1,0 +1,15 @@
+X: 618
+T: In Syon God betaemt u lof Men sal te Jerusalem
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 4146414464
+%%humdrum-veritas-data 1151952586
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2c4c4d2e2f4f2g4).('f2e2c2c2e2d2(c2>B2cBA4)z2).('z2F2c4c4d2e2f4f2g4).('f2e4c2f2f2(c2>B2ABA4)z2).('F2c4(f2e2)d2c2(BA)(AG)A4z2).('A2(GFGAB2)A2G2G2!fermata!F4) |]

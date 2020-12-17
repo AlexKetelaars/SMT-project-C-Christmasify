@@ -1,0 +1,27 @@
+X: 7189
+T: Ic stont op hoogen bergen, Ic sach ter zeewaert in
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 2324541246
+%%humdrum-veritas-data 3841989004
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+C2DE2F |
+G3G2).('G |
+A2AB2B |
+c3z3) |
+.('Gc2cB2 |
+A2<G2E2) |
+.('G G A G (G F) |
+E2<D2).('A A |
+AG2CE2 |
+F2<G2).('A A |
+AG2cB2 |
+d2<c2z2) |]

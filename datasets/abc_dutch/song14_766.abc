@@ -1,0 +1,53 @@
+X: 13765
+T: [Divert. 8.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 2597406987
+%%humdrum-veritas-data 3844122367
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('(G F) !wedge!G [I:setbarnb 1]|
+A2A (F E) .D |
+G2GA2A |
+(B G) !wedge!B (d c) !wedge!B |
+B2A (G F) !wedge!G |
+A2A {G} (F E) !wedge!D |
+G2GB2B |
+(A B G)F2E |
+D2z {E/)} .('(D ^C) !wedge!D |
+E2E (F E) !wedge!F |
+G2G (A G) !wedge!A |
+(B G) !wedge!B d c B |
+{B}!fermata!A2z) .('(G F) !wedge!G |
+A2A (G F G) |
+A3{D/} d> c B |
+A> B c G> A F |
+G2z G F G |
+A2>(G2 F) !wedge!G |
+A2z {D/} d> c B |
+A> B c G> A F |
+G G GG2z) |
+.('(B2d)(G2B) |
+E2GC2E |
+B,2B, A, G, A, |
+!wedge!B (B d) !wedge!G (G B) |
+!wedge!E (E G) !wedge!C (C E) |
+B,2B, A, G, A, |
+G,2z) .('(G F) !wedge!G |
+A2A (F E) D |
+G2z G F G |
+A2A (F E) D |
+G2zA2A |
+B2zd2d |
+B2zA2A |
+B2zF2F |
+G2BG2B |
+!wedge!G (G B) !wedge!G (G B) |
+G2zg2z |
+g2z) ||

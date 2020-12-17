@@ -1,0 +1,33 @@
+X: 1255
+T: Op Langedijk op Langedijk Daar moeten ze uie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 964981467
+%%humdrum-veritas-data 3162353445
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GG2D |
+G2GG2).('D |
+G G DG2A |
+B2AB2c |
+d6 |
+B3z2).('B/ B/ |
+c2cA2A |
+B2BG2).('G |
+A A AF2F |
+A3D3) |
+.('G2G G G G |
+G2AB3) |
+.('A2A A A A |
+A2Bc2).('F |
+F F F F F G |
+A3F2).('G |
+A A A F F F |
+A3G2) |]

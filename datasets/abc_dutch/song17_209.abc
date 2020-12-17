@@ -1,0 +1,42 @@
+X: 16208
+T: Wreede liefde zoo vol verdriet, Onweerstanel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 717336458
+%%humdrum-veritas-data 3032113858
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('z A A |
+(d> e) f |
+f e f |
+(d c/ d/ _B/ c/ |
+A)) .('A c |
+_B2A |
+c (^c d |
+e/ d/ e/) (f/ d/ e/) |
+^c3 |
+z) .('f e |
+d2c |
+d (B c/ d/) |
+(e d/ e/ c/ d/) |
+B) .('B c |
+d (e/ d/ c) |
+c B3/ c/ |
+A3) |
+.('z A A |
+(d> e) f |
+f e f |
+(d c/ d/ _B/ c/ |
+A d/ e/ c/ d/ |
+B e/ f/ d/ e/ |
+^c f/ g/ e/ f/) |
+d) .('e f |
+g2f |
+f e f |
+d2) |]

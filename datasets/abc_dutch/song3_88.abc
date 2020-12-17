@@ -1,0 +1,34 @@
+X: 2087
+T: Een engels koopman zeer rijk en machtig Die  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 2241466186
+%%humdrum-veritas-data 4208480265
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G2AB |
+(cB)A2 |
+(GB)d3/c/ |
+B2A2) |
+.('d>ded |
+c3c |
+Bde3/e/ |
+d4) |
+.('d>def |
+g2f3/f/ |
+e>def |
+e2d2) |
+.('d2dc |
+B2G3/B/ |
+cde3/e/ |
+d4) |
+.('d2dc |
+(Bd)G3/G/ |
+ABc3/A/ |
+G4) |]

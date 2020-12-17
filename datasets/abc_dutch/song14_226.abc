@@ -1,0 +1,33 @@
+X: 13225
+T: Lorsque dans une tour obscure Ce jeun’ homm  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3123628377
+%%humdrum-veritas-data 1682473522
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c B A [I:setbarnb 1]|
+G2BE2G |
+F2C c B A |
+G2BE2G |
+F2>).('A2 =B ^c |
+d2de2e |
+(f e) d f e d |
+c2c (c d) =B |
+c3).('d2c |
+e2f c B A |
+G2F d d c |
+e2fB2A |
+G3).('G2A ||
+B c d d c B [I:setbarnb 14]|
+(A2c)c2A |
+F2F G A G |
+c3c/ f/ e/ f/ (c/ A/) |
+F2F G A G |
+F2z) |]

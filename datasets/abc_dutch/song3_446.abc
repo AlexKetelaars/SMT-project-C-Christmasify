@@ -1,0 +1,23 @@
+X: 2445
+T: De liefde kan mij nimmer boeien De vrijheid  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 2736471847
+%%humdrum-veritas-data 3211199464
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G/ G/ G A [I:setbarnb 1]|
+B2>B2 d d |
+(c B2<)A2).('d |
+d c B A c B |
+G3).('G/ A< B c/ |
+B2>d2 g3/ g/ |
+f3e2).('A3// A// |
+B e e d d3/ c/ |
+B3) |]

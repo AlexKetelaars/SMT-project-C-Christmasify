@@ -1,0 +1,32 @@
+X: 13762
+T: Divertimento 7.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 3668299058
+%%humdrum-veritas-data 330915970
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=96
+K: D clef=treble
+.('A [I:setbarnb 1]|
+!wedge!d !wedge!d !wedge!e !wedge!e |
+{d} (c B/ A/) !wedge!A (B/ c/) |
+!wedge!d !wedge!d !wedge!e !wedge!e |
+{g}f2e) .('A |
+!wedge!d !wedge!d !wedge!e !wedge!e |
+{d} c (B/ A/) (!wedge!A B/ c/) |
+d d (e/ d/ e/ f/) |
+{e}d2z) |
+.('f/ g/ [I:setbarnb 9]|
+a a f f |
+!wedge!g !wedge!ge2 |
+f d B e |
+{d} c (e/ c/) !wedge!A) .('(f/ g/) |
+!wedge!a !wedge!a !wedge!f !wedge!f |
+!wedge!g !wedge!ge2 |
+!wedge!f/ !wedge!d/ !wedge!B/ !wedge!e/ d c |
+{c}d2z) :|]

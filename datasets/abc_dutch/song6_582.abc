@@ -1,0 +1,26 @@
+X: 5581
+T: Ik heb de groene straten zoo dikwijls ten ei [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 1616416354
+%%humdrum-veritas-data 3781240723
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('ccc |
+f2f |
+ed).('d |
+efg |
+f2e |
+f2).('f |
+edc |
+(dc)B |
+AG).('d |
+e2d |
+c2=B |
+c3) |]

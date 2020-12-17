@@ -1,0 +1,26 @@
+X: 3611
+T: Moetje kam mie ’t hoar Moetje kam mie 't haor
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 472607067
+%%humdrum-veritas-data 534943770
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D D DG4) |
+.('F E E E2<A2).('G |
+F2E2D2E F |
+G2F2G2).('B c |
+[M:2/4]d2d d |
+[M:4/4]c2c2A4) |
+.('c c c de2e e |
+d2d2B4) |
+.('d d d dg4) |
+.('f e e e2<a2).('g |
+f2e2d2e f |
+g2b ag4) |]

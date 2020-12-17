@@ -1,0 +1,31 @@
+X: 10905
+T: “Moeder, is ‘t nog niet gedaan? Mag ik nog n [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 1984708865
+%%humdrum-veritas-data 2420228912
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G B d e |
+d cB2) |
+.('G B B B |
+B2A2) |
+.('G B d e |
+d cB2) |
+.('B B A A |
+G2) ||
+.('z G [I:setbarnb 9]|
+G e e e |
+e2d3/) .('d/ |
+(d> e) d3/ c/ |
+c2B3/) .('G/ |
+G e e e |
+e2d2) |
+.('d> c B c |
+d2z2) |]

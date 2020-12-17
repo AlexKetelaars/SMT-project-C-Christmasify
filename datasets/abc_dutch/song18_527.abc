@@ -1,0 +1,50 @@
+X: 17526
+T: Menuet del. sign: Hendel
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 2899628026
+%%humdrum-veritas-data 2090843251
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=104
+K: D clef=treble
+.('A4(B/ c/ d) |
+{G}F2(E< D) (G/ E3/) |
+{G}F2(E< D)B2 |
+A6) |
+.('A2d2(f/ e3/) |
+f2e db2 |
+a2(a g) (g f) |
+e6) |
+.('a4b/ c'/ d' |
+c'2b ag2 |
+f2e d c B |
+B6) |
+.('d2D2E2 |
+{G}F2(E D)G2 |
+F E2<E2D |
+D6) |
+.('D6 |
+E4F2 |
+G2E3D |
+D6) |
+.('F2F3(E/ F/) |
+(G2B2)d2 |
+^G2G3(F/ G/) |
+(A2c2)e2) |
+.('^A2(A3^G/ A/) |
+(B2d2)f2 |
+d2c B ^A B |
+F6) |
+.('B2B4 |
+B2c de2 |
+c2B A^G2 |
+A2A3(^G/ A/) |
+B2B4 |
+B4c2 |
+d2B3A |
+A4) :|]

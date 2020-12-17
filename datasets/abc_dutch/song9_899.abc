@@ -1,0 +1,29 @@
+X: 8898
+T: Tuinmans Geêrtje! wil je gieten Al de blômke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3706111651
+%%humdrum-veritas-data 2774108221
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('D E [I:setbarnb 1]|
+F B d3/ c/ |
+c B) .('A G |
+F B c3/ d/ |
+c2).('F E |
+D F B c |
+d B) .('G F |
+F =E c3/ c/ |
+F2).('F F |
+F A d3/ c/ |
+c2).('F E |
+D F c3/ B/ |
+B2).('B c |
+d f d3/ c/ |
+B2) |]

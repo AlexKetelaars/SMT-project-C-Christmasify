@@ -1,0 +1,31 @@
+X: 16409
+T: Ach blinde Bengell waerom mijn ghewont
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 1259745846
+%%humdrum-veritas-data 464304010
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('z2F2 |
+GAB2 |
+A2G2 |
+AA=B2 |
+c2).('F2 |
+GAB2 |
+A2G2 |
+AA=B2 |
+c2).('d2 |
+c>BAA |
+A>B(cB/ A/) |
+G).('GAA |
+=B>cc2) |
+.('c4 |
+G>ADF |
+FFG3/F/ |
+F4) |]

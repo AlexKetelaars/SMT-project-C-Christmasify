@@ -1,0 +1,37 @@
+X: 11142
+T: Ik nam den toon van de plezieren Met kwa gez [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 2176385172
+%%humdrum-veritas-data 3418214844
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G2 [I:setbarnb 1]|
+G> G G> ^F G3/ c/ |
+e4c) .('B |
+e d A A c B |
+G2z2).('G2 |
+G> G G> ^F G3/ c/ |
+e4c) .('B |
+e> d A> A c3/ B/ |
+G2z) .('G A B |
+c2c) .('G A B |
+c2c) .('c c c |
+d c d c f e |
+d2z) .('G A B |
+c2c) .('A B c |
+d2d) .('c B A |
+G A B c d d |
+G2z) .('G G G |
+(f e) d) .('G G G |
+(e d) c) .('B c d |
+e e d c A d |
+c2).('B2c d |
+e> g g ^f =f d |
+c2) |]

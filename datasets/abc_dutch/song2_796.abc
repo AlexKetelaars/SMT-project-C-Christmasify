@@ -1,0 +1,36 @@
+X: 1795
+T: Hij zette haar overeind, zij bleef zitten re [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2805814438
+%%humdrum-veritas-data 165731059
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A/ B/ B/ A/ [I:setbarnb 1]|
+[M:9/8]BA<Bdd/ |
+BA<B).('dd/ |
+[M:6/8]BA/GG/ |
+A3/).('GA/ |
+[M:9/8]BA<Bdd/ |
+[M:6/8]BB/GG/ |
+A3/-Az/) |
+.('Bc/d^c/ |
+d3/ed/ |
+cB/c3/) |
+.('dc/BA/ |
+B>d d/ d/ |
+[M:6/8]BA/GG/ |
+[M:9/8]A3/-Az/).('GA/ |
+BA<Bdd/ |
+[M:6/8]BA/GG/ |
+A3/-Az/) |
+[M:9/8].('d3/-de/ d/ d/ c/ |
+Bd/GA/ B/ B/ d/ |
+[M:6/8]BG/AF/ |
+[M:9/8]G3/-G) |]

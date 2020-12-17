@@ -1,0 +1,26 @@
+X: 6329
+T: Russchistse Wals
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 2909743263
+%%humdrum-veritas-data 1050953068
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('g G g G |
+d/ c/ B/ A/ B G) |
+.('g G g G |
+d/ c/ B/ A/G2) |
+.('B d B d |
+c/ B/ c/ d/e2) |
+.('A c A c |
+B/ A/ B/ c/d2) |
+.('G B G B |
+A/ G/ A/ B/c2) |
+.('d f/ e/ d/ c/ B/ A/ |
+G g g z) :|]

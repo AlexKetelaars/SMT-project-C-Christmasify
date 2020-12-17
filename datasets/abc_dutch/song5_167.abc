@@ -1,0 +1,33 @@
+X: 4166
+T: Onze broeder Antoon de woej es ruiter were U [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 3342378830
+%%humdrum-veritas-data 4195923753
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B c |
+d2g3/ e/ |
+e e f e |
+(e d) d3/) .('B/ |
+c c c c |
+B2B2 |
+A G A B |
+A2G3/) .('G/ |
+G A B/ B/ c |
+d d d d |
+d d d3/) .('G/ |
+G A B c |
+d2g2 |
+e2e2 |
+d7/).('c/ |
+c c c c |
+B2B2 |
+A2A2 |
+G4) |]

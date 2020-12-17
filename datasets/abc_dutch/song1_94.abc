@@ -1,0 +1,15 @@
+X: 94
+T: Die eerd' is onses Gods voorwaer, End wat sy [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 1657895333
+%%humdrum-veritas-data 3526684527
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G4d4B4c4c2B2A4G4z4).('G4B2c2d2f2e2e2d4z4).('d4_e2d2c2B2A2G2A4G4z4).('B4B2B2c4B2A2G4F4z4).('G4d2d2B2d2c4B4A4z4).('d4c2B2A2G2B2c2A4G4) |]

@@ -1,0 +1,31 @@
+X: 1190
+T: Wat hoort men toch in onze tijden Van gruw'l [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 3228288638
+%%humdrum-veritas-data 3126141055
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B2BG2B |
+c2BA2F) |
+.('A A GF2E |
+(D E) FG2).('B |
+B2BG2B |
+c2BA2F) |
+.('A A GF2E |
+(D E) FG2).('G |
+(G B) de2d |
+B2cd2).('A |
+A2Ae2d |
+B2cd2).('A |
+A A Ae2d |
+B2cd2).('g |
+(f e) d (c B) A |
+G3-G2z) |]

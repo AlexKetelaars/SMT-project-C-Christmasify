@@ -1,0 +1,28 @@
+X: 811
+T: Daer was een sneeuwit [!] vogeltje al op een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3426509051
+%%humdrum-veritas-data 2511069520
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('B A G [I:setbarnb 1]|
+A2B2 |
+c cB2 |
+z) .('B A G |
+A2B2 |
+c cB2 |
+z) .('A B c |
+d c B A |
+(A G)) .('A A |
+(G F)E2 |
+z) .('A B c |
+d c B A |
+(A G)) .('A E |
+A) |]

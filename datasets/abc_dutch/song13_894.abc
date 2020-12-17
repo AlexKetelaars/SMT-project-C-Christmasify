@@ -1,0 +1,43 @@
+X: 12893
+T: ag wat zal ik nu beginnen, k’durf
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 876521495
+%%humdrum-veritas-data 581214708
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 8/16
+Q: 1/8=240
+K: F clef=treble
+.('c A [I:setbarnb 1]|
+F2 F2 F f e d |
+!trill!!trill!d2> c2 z2) .('f A |
+B2> d2 c B A G |
+A> B c2 z2) .('f A |
+B2> d2 c B A G |
+A G/ F/ F2 z2) .('A F |
+!wedge!c2 !wedge!c2 !wedge!c2 {d e} f2 |
+(3e d c c2 z2) .('G3/ c/ |
+c =B B A A G G F |
+{F}E4z2) .('c G |
+A4(3A B c (3d e f |
+(3e d c (3=B A G !trill!!trill!d3 c |
+c6) |
+.('c _e [I:setbarnb 14]|
+e d d c c B B A |
+(3B A G G2 z2) .('B d |
+d c c B B A A G |
+(3A G F F2 z2) .('A3/ c/ |
+c2 B A G2 F2 |
+(3E D C C2 z2) .('F3/ f/ |
+g A A =B c G G A |
+B cd4).('c B |
+(3A G F (3d c B A2 G2 |
+G2 A2 z2) .('F3/ g/ |
+f e e d d c c =B |
+c2d4).('c B |
+(3A G F (3d c B A2 G2 |
+{G}F4) ||

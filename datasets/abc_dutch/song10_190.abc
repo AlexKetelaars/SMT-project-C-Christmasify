@@ -1,0 +1,31 @@
+X: 9189
+T: Het viel eens hemels douwe Voor mijn liefs v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 482538238
+%%humdrum-veritas-data 2526615550
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('G [I:setbarnb 1]|
+GABc |
+[M:2/4]dB/) .('d/ |
+[M:4/4]cBA3/G/ |
+G2z).('G |
+GABc |
+[M:2/4]dB/) .('d/ |
+[M:4/4]cBA3/G/ |
+G2z).('B |
+FFGG |
+FDz).('F |
+(G/ A/) (B/ c/)dc |
+B2z).('B |
+FFGG |
+FDz).('D |
+(E/ F/) (G/ A/)BA |
+G2z) |]

@@ -1,0 +1,30 @@
+X: 13606
+T: [Sonate 1.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 4105096790
+%%humdrum-veritas-data 2039041531
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('f g a a a a |
+a g ff3 |
+e f g g g g |
+g f ee3 |
+f a f e a e |
+d c Bc3 |
+f a f e a e |
+d c BA3) |
+.('A B c c d e |
+e f gg3 |
+f g a a g f |
+f e ee3 |
+g f e g f e |
+f g aa3 |
+b a g f f f |
+g f ed3) :|]

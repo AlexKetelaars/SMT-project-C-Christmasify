@@ -1,0 +1,34 @@
+X: 5654
+T: Wie graeg er een toertje door Holland wil do [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2245175180
+%%humdrum-veritas-data 3947160368
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+C C C A A A |
+A A A!fermata!A2).('F |
+G G G B B E |
+(G2A/ G/)F2).('C |
+C C C A A A |
+A A A !fermata!A) .('F F |
+G G G B B E |
+(G2A/ G/)F2) ]|:
+.('G [I:setbarnb 9]|
+G A G F E D |
+!fermata!C2z) .('c B A |
+A G A A G A |
+(!fermata!c3B2)).('A |
+A G A A G A |
+(c2B) G).('C2 |
+C F A A A A |
+A A A!fermata!A2).('F |
+G2GB2E |
+(G2A/ G/)F2G) :|]

@@ -1,0 +1,36 @@
+X: 6162
+T: Ouden ouden ezele, Uw ooren zijn zoo lang!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2170309693
+%%humdrum-veritas-data 1844889524
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G> G G3/ B/ |
+d> e d3/) .('c/ |
+B> A B3/ A/ |
+G2z) .('G |
+G> G G3/ B/ |
+d> e d3/) .('c/ |
+B> A B3/ A/ |
+G2z2) |
+.('B2A2 |
+G2z2) |
+.('B2A3/ A/ |
+G2z2) |
+.('G A B c |
+d2d3/) .('d/ |
+e d c B |
+B2A2) |
+.('g2d d |
+e ed2) |
+.('g2d d |
+e ed2) |
+.('g2d d |
+B BG2) |]

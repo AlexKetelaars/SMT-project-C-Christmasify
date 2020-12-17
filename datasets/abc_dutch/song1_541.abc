@@ -1,0 +1,28 @@
+X: 541
+T: Hemelsch ooge! wilt gy dogen Dat ick u com s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 4027246014
+%%humdrum-veritas-data 30498758
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C2CF2F |
+(G A) BA2A) |
+.('(G A) F (G F) E |
+D2CC3) |
+.('G2GG2E |
+G2GG2E) |
+.('(c B) c (B A) B |
+A2GG3) |
+.('C D EF2F |
+D E FG2G) |
+.('(A B) c (F G) A |
+G2FF3) |
+.('(A B) c (F G) A |
+G2FF3) |]

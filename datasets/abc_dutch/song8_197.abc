@@ -1,0 +1,43 @@
+X: 7196
+T: Daar was laatstmaal een kwezel, wil mij wel  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 388151720
+%%humdrum-veritas-data 1301793545
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+A A A A |
+A A G A |
+B2E2 |
+E2z) .('E |
+B2B2 |
+B/ B/ B A B |
+c2A A |
+A2z2) |
+.('A2G F |
+F2E2 |
+A A G F |
+F2E) .('E |
+A A A A |
+B2B2 |
+e2e d |
+c2z) .('E |
+d d d d |
+c c d d |
+c2B2 |
+A) .('A G A |
+F> F F F |
+F A G A |
+E> E E E |
+E2z) .('E |
+A3c |
+e> d c B |
+A2e3/ e/ |
+A z) |]

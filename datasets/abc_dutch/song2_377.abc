@@ -1,0 +1,54 @@
+X: 1376
+T: Koosje Koosje hoe is je naam 'k heb vannacht [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:41
+%%humdrum-veritas 709579286
+%%humdrum-veritas-data 1677318489
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B3/ c/ [I:setbarnb 1]|
+d2e> e d3/ c/ |
+d4).('B3/ c/ |
+d2e> e d3/ c/ |
+d4).('B3/ c/ |
+d2e2d3/ c/ |
+d2B2).('G3/ B/ |
+d2>e2 d c |
+d2z) .('c B c |
+d2e2d3/ c/ |
+d2z2).('B c |
+d de2d3/ c/ |
+d2B) .('B G B |
+d2e2d3/ c/ |
+d2B2).('G B |
+d2>e2 d c |
+d2z2).('B c |
+d2e> e d3/ c/ |
+d2z2).('B3/ c/ |
+d2e2d3/ c/ |
+d2B2).('G3/ B/ |
+d2e2d3/ c/ |
+d2B2).('G3/ B/ |
+d2e2d3/ c/ |
+d2z2).('B c |
+d2e e d c |
+d2B) .('B G B |
+d d e e d c |
+[M:6/4]d2B2).('g2>d2 B B A B |
+[M:4/4]A4G4) |
+.('g2>d2 B B A B |
+A4G4) |
+.('G2G2G GG2 |
+A2A2A4) |
+.('G2G2G2G G |
+A AA2A2z2) |
+.('G2G2A2z2 |
+G2G2A2z2) |
+.('G2G2A2A2 |
+G2G2E2z2) |]

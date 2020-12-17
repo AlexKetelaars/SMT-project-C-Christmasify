@@ -1,0 +1,43 @@
+X: 15337
+T: De Marseillaise
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 443995598
+%%humdrum-veritas-data 2503553998
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D< D D/ [I:setbarnb 1]|
+G2G2A2A2 |
+d2>B2 G z/ G< G F/ |
+E zc4A3/ F/ |
+G z G z/ G/ G z) .('G3/ A/ |
+B2B2B2c B |
+B AA4A3/ B/ |
+c2c2c2d3/ c/ |
+B4z2).('d3/ d/ |
+d2B> Gd2B3/ G/ |
+D2z2z>) .('D D3/ D/ |
+A4c2A3/ F/ |
+G zG2=F4 |
+E2E> FG2F3/ G/ |
+A4z2z) .('A |
+_B2>B2 A B c B |
+A6_B A |
+G2G2G2A3/ G/ |
+G FF4z z/) ]|:
+.('d/ [I:setbarnb 19]|
+d4-d d _B3/ G/ |
+A2D> D D z z3/) :|]
+.('D/ [I:setbarnb 21]|
+G6G2 |
+B6B2 |
+c4d2e2 |
+A6e3/ d/ |
+d4-d> B c3/ A/ |
+G z G> G G z) |]

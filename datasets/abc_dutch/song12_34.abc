@@ -1,0 +1,30 @@
+X: 11033
+T: Justerjoun by Kake west Boven op ‘e kamer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 987105565
+%%humdrum-veritas-data 4284658607
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('GGGG |
+FEDz |
+GGFG |
+A2A2) |
+.('AAAB |
+cBAG |
+FDEF |
+G2G3/).('B/ |
+[M:6/8]BB/BB/ |
+c3/cA/ |
+AA/ A/ A/ A/ |
+dd/d).('d/ |
+cc/cc/ |
+B3/BB/ |
+AG/AB/ |
+G3/z) |]

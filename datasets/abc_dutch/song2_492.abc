@@ -1,0 +1,30 @@
+X: 1491
+T: Het is vastenavond ja vastenavond Dan heeft  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 1066104707
+%%humdrum-veritas-data 981647897
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G A (B A)G2 |
+d2B ed2c3/) .('c/ |
+c c e c B c d c/ B/ |
+(3A A A d c (B c) d3/) .('c/ |
+B> A G A B> A G G |
+(3A A A d c B A G A |
+B2A2G3) ||
+.('G [I:setbarnb 8]|
+B2G AB2G3/ G/ |
+A A d d (B A)G2 |
+d2B cd2B2) |
+.('c c e d/ c/ B B d B |
+A A d c (B c) d3/) .('c/ |
+B> A G A B> A G G |
+(3A A A d c B A G A |
+B2A2G4) |]

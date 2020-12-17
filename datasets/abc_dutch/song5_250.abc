@@ -1,0 +1,29 @@
+X: 4249
+T: De boom stond in goed aarde En bloeide zo schoon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 3453264814
+%%humdrum-veritas-data 4204080562
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G A B c |
+d2e) .('c |
+B2A A |
+G3) ||
+.('D [I:setbarnb 5]|
+G G G G |
+G DD2) |
+.('G2G3/ G/ |
+G D/ D/D2) |
+.('G D/ D/ D) .('D/ D/ |
+G A B c |
+d2e) .('c |
+B2A A |
+G3) |]

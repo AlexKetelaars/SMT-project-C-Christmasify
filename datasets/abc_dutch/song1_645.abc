@@ -1,0 +1,16 @@
+X: 645
+T: This goet te beliden God, om zijn weldaet U  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1217267435
+%%humdrum-veritas-data 2789327297
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=bass
+.('E,4G,2G,A,B,G,2<C2B,A,4G,2A,4z2).('C2B,2A,2G,2F,2(E,D,2<A,2)A,G,2F,4!fermata!E,4).('E,4G,2G,A,B,G,2<C2B,A,4G,2A,4z2).('C2B,2A,2G,2F,2(E,D,2<A,2)A,G,2F,4!fermata!E,4) ]|:
+.('B,4C2A,A,B,4z2G,2(A,G,A,)B,C4z2).('B,2C2D2(E2DCB,A,D4)C2(A,2>G,2F,E,2<D,2E,F,G,A,2)G,2F,2F,2E,4) |]

@@ -1,0 +1,22 @@
+X: 9771
+T: Do, do, Korloken, Wij gaan patattekes koken
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1838993634
+%%humdrum-veritas-data 1217250838
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C2G G [I:setbarnb 2]|
+C2G) .('G |
+C C (3G G G |
+C2G2) |
+.('C D E F |
+G2A G |
+G F E D |
+C2z2) :|]

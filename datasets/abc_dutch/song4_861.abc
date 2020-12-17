@@ -1,0 +1,31 @@
+X: 3860
+T: Het zijn zeer wonderlijke dingen Die er in O [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 3513590674
+%%humdrum-veritas-data 27861025
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+(d c) (B c)d2g2 |
+e2e2z) .('g f g |
+d2>d2d2c2 |
+[M:2/4]B) .('B B c |
+[M:4/4](d c) (B c)d2g2 |
+e2e2z) .('g f g |
+d2>d2d2c2 |
+[M:2/4]B) .('B (B c) |
+[M:4/4](d c) B cd2g2 |
+e2e2z) .('g f g |
+d2>d2d2c2 |
+[M:2/4]B) .('B (B c) |
+[M:4/4](d c) B cd2g2 |
+e2e2z) .('g f g |
+d2>d2d2c2 |
+B2z2z2) |]

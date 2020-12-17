@@ -1,0 +1,27 @@
+X: 2402
+T: Niet langer dan gisterenavond Stond ik voor  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 4017668577
+%%humdrum-veritas-data 2926568247
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G D G G D |
+(G2B)D2).('D |
+G G G G G A |
+B3-B2).('B |
+A c B A c B/ B/ |
+(A2B)G2).('G/ G/ |
+F B A G A E |
+D3).('(c2d) |
+B B B A c B/ B/ |
+(A2B)G2).('A/ A/ |
+F B A G A E |
+D3-D2) |]

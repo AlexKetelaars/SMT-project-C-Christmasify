@@ -1,0 +1,38 @@
+X: 15628
+T: Trio
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:55
+%%humdrum-veritas 995622774
+%%humdrum-veritas-data 4200543718
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('ddB |
+_e2e |
+cAd/ c/ |
+!trill!!trill!BA/ B/G) |
+.('ddB |
+_e2e |
+cdB |
+A3) |
+.('BB_e |
+!trill!!trill!c2c |
+ffd |
+_e2e) |
+.('GGA |
+Bcd |
+_e/ d<!trill!!trill!cB/ |
+B3) |
+.('f!trill!!trill!f3/g/ |
+!trill!!trill!e2e |
+e^fg |
+!trill!!trill!^f>ed) |
+.('gdB |
+_ecA |
+B/ c<!trill!!trill!AG/ |
+G3) :|]

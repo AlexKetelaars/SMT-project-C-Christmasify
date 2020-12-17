@@ -1,0 +1,32 @@
+X: 18000
+T: 34 [!]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 368598837
+%%humdrum-veritas-data 1845803152
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d3c [I:setbarnb 1]|
+B2>A2B2A G |
+F2E D2<G2A |
+B2>d2c2B2 |
+(3B A BA2A3B |
+(3A G A {c} (3B A GF2!trill!!trill!E3/ D/ |
+D4) |
+.('d3c [I:setbarnb 7]|
+B2{A}^G2A3B |
+c2B A2<c2B |
+A2{G}F2G2G A |
+B2A Gc2B2 |
+A2!trill!!trill!G2F2(3G A B |
+(B2A2)).('D3G |
+{F}E2(3A B G!trill!!trill!F3G |
+(G2>^G2)A2(B c) |
+(3B A B {d} (3c B A!trill!!trill!A3G |
+!fermata!G4) :|]

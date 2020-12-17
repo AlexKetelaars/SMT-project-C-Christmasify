@@ -1,0 +1,30 @@
+X: 15251
+T: Wees welkom, lieve herderschaar
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2515608771
+%%humdrum-veritas-data 4117375638
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2AG2G |
+G F GA2D |
+c2BA2A |
+A d cB2).('d |
+d2BB2d |
+d2^c=c2c |
+c2A A B c |
+c3).('B2B ]|:
+A2B c B A |
+d2cB2B) :|]
+.('A2B c B A |
+e3d2c |
+B c d e c A |
+G3F3 |
+G3z2) |]

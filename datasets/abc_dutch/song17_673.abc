@@ -1,0 +1,32 @@
+X: 16672
+T: Aij mij verhoord, vertreckt niet vol van too [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2144615525
+%%humdrum-veritas-data 1520007597
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d>e (d/ c/) |
+d>ef |
+ea3/g/ |
+f2e) |
+.('d>e (d/ c/) |
+d>ef |
+gf3/e/ |
+e3) |
+.('fed |
+(g>f)e |
+fe3/d/ |
+^c>(BA)) |
+.('fed |
+g>f).('e |
+fg3/a/ |
+_b>a).('g |
+fe3/d/ |
+d3) :|]

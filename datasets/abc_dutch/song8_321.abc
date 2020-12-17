@@ -1,0 +1,25 @@
+X: 7320
+T: En als daer Sint’ Anna nuchten komt, Ons her [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 1717613040
+%%humdrum-veritas-data 4069908596
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E F [I:setbarnb 1]|
+G2G2(G A) (G F) |
+(E D) (D C)C2).('c2 |
+(B A) (G B)d2B2 |
+c2(B A)G2).('G3/ G/ |
+c2G2(c B) (A G) |
+(G2>F2)E3).('G |
+(F E) (F G) A B c F |
+(E2>F2)G3).('G |
+(F E) (F G) A B c F |
+(E2>D2)C2z2) |]

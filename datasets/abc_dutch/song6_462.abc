@@ -1,0 +1,30 @@
+X: 5461
+T: Wilt gy my dan niet, Loop heen jou boze Griet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 3571987501
+%%humdrum-veritas-data 4170996169
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B2f4 |
+d2>c2B2 |
+(c d) (e d) (c B) |
+A2>G2F2) |
+.('(B c) (d c) (B A) |
+G2>c2A2 |
+G2G3F |
+F6) |
+.('f2b4 |
+g2>g2f2 |
+g2e3d |
+c B c dc2) |
+.('f2b4 |
+g2>f2e2 |
+(d e2<)c2B |
+B6) :|]

@@ -1,0 +1,27 @@
+X: 9603
+T: Nu trekt de boer een paar klompjes aan, Dan  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 3791181785
+%%humdrum-veritas-data 901540841
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2B A A G |
+F2ED2).('D |
+E2DE2F |
+G2>z2) .('G G |
+c2Bc2A |
+B2cd3) |
+.('A2BA2G |
+F2ED3) |
+.('G2GG2A |
+B2BB3) |
+.('(B A) Bd2c |
+B A BG2) |]

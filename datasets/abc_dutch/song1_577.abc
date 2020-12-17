@@ -1,0 +1,15 @@
+X: 577
+T: Het aertrijc met zijn overvloedicheyt Hoort  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 3434936391
+%%humdrum-veritas-data 3856932996
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('D4D2D2AAABc2(BA)G4).('BcddccBBA2G2A4).('A2ABc2AAG2F2E2).('EFGGE2D2).('FGAAF2G2).('EFG2E2D4) |]

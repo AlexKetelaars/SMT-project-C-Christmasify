@@ -1,0 +1,26 @@
+X: 1454
+T: Hut hut paardje Malen de molen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 538000253
+%%humdrum-veritas-data 567795094
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2AB2B |
+A G AG2D) |
+.('G G A B c B |
+A2AG3) |
+.('G2AB2B |
+A2AG2D) |
+.('G2AB2B |
+A2AG2D) ]|:
+.('G3B3 |
+d3-d2z) |
+.('e e e d d d |
+c B AG3) :|]

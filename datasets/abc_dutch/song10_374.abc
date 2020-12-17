@@ -1,0 +1,34 @@
+X: 9373
+T: Wat blijdschap in ons land! De Franschen zij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 366852571
+%%humdrum-veritas-data 4158688212
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('(C3/ E/) [I:setbarnb 1]|
+G> G G3/ G/ |
+!fermata!G z/) .('E< F G/ |
+A> A A3/ A/ |
+A> A G3/ A/ |
+(G2F2) |
+E2z) .('G |
+D D D3/ E/ |
+!fermata!F z/) .('E< E F/ |
+!fermata!G z/) .('G< F F/ |
+A4 |
+G2z3/) .('G/ |
+c> c B3/ A/ |
+G> G A3/ G/ |
+(G2B2) |
+c2z3/) .('G/ |
+c> c B3/ A/ |
+G> G A3/ G/ |
+(G2B2) |
+c2) |]

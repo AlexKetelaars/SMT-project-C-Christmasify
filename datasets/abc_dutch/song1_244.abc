@@ -1,0 +1,15 @@
+X: 244
+T: Over een vrome vrouwe wilt jaloers hier sijn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 359044997
+%%humdrum-veritas-data 4285466126
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2GGAAG2G).('GAccB(c/ B/ A/ B/c2)).('G2GGAAG2G).('GAc(cBc/ B/ A/ B/c2)).('c2cA2<d2).('cBAAGA2A2).('d2c(B/ A/)GdedcB(A>B c/ B/ A/ G/A2)G4) |]

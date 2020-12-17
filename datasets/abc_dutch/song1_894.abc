@@ -1,0 +1,31 @@
+X: 894
+T: Terschelling is hoog verheven Hoe hoog spant [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:37
+%%humdrum-veritas 3600422650
+%%humdrum-veritas-data 3578625542
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+G B d (g f) e |
+(d2c) (B c)) .('d |
+e2d (A c) B |
+G3-G2).('D |
+G B d g f e |
+(d2c) (B c)) .('d |
+e e d (A c) B |
+G3-G2).('d |
+d2c (A c) d |
+e2dB2).('d |
+d c B (A c) d |
+e2dB2).('D |
+G B d (g f) g |
+e3).('g3 |
+d e d (A c) B |
+G3-G2) |]

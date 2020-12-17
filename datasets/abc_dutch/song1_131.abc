@@ -1,0 +1,15 @@
+X: 131
+T: Als ick roep' verstaet myn reden, Myn ghebeden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3691460018
+%%humdrum-veritas-data 2733706990
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('D4G2G2F2B4A2G4F2).('B4A2G4F4z4).('D4F4D2G2G2F2G4z4).('G4D4G2G2F2F2E4D2).('G4A2B4A4z4).('A4c4B2A4G4F2G2) |]

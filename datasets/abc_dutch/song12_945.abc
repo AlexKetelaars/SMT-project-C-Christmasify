@@ -1,0 +1,44 @@
+X: 11944
+T: Courante Madame
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 1679645020
+%%humdrum-veritas-data 1505859972
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('d [I:setbarnb 1]|
+d>e^c |
+de3/e/ |
+f3- |
+fz/ d/ c/ B/ |
+A>Bc |
+GG3/F/ |
+F>).('cc |
+fe3/d/ |
+^c>de |
+eA3/a/ |
+a3 |
+gf3/e/ |
+e3- |
+e2) ||
+.('e [I:setbarnb 15]|
+e3 |
+fd3/g/ |
+g3) |
+.('gfe |
+d>c=B |
+c=B3/A/ |
+A3) |
+.('def |
+f>ed |
+gab |
+a>ga |
+dd3/^c/ |
+d3- |
+d2) ||

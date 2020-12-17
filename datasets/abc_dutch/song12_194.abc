@@ -1,0 +1,31 @@
+X: 11193
+T: De liefde doet veel herten overwinnen En bre [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 1863320779
+%%humdrum-veritas-data 223771525
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D D3/ G/ [I:setbarnb 1]|
+G> B B> F A3/ G/ |
+(E2!fermata!c)) .('D G3/ B/ |
+d> ^c e> d =c3/ A/ |
+!fermata!G2z) .('D D3/ G/ |
+G> B B> F A3/ G/ |
+(E2!fermata!c)) .('D G B |
+d> ^c e> d =c3/ A/ |
+!fermata!G2z) .('G F G |
+A> A c> B B3/ G/ |
+A2!fermata!E>) .('D F3/ A/ |
+c> B d> c A3/ F/ |
+!fermata!G2z) .('D D3/ G/ |
+G> B B> F A3/ G/ |
+E2!fermata!c) .('D G B |
+d> ^c e> d =c3/ A/ |
+G2z2z2) |]

@@ -1,0 +1,24 @@
+X: 4039
+T: Ik wou op ene late avond nog eens uit vrijen gaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3351586245
+%%humdrum-veritas-data 2619786079
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+[M:9/8]G2B A> B A/ A/ G D) .('D |
+[M:6/8]E2F (G F) E |
+D3-D2).('(A/ c/) |
+[M:9/8](B G) G G> B d (c/ B/) A) .('D |
+[M:6/8]E G B A G F |
+G3).('(A2c) |
+[M:9/8](B G) G G> B d (c/ B/) A) .('D |
+[M:6/8]E G B A G F |
+G3-G2) |]

@@ -1,0 +1,31 @@
+X: 9249
+T: Komt hier al bij en hoort dees klucht: Het i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3478875778
+%%humdrum-veritas-data 1443886679
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F2FF2G |
+A2AA2).('F |
+G2A (B A) G |
+F2>-F2 z) .('C |
+F2FF2G |
+A2AA2).('F |
+G2A (B A) G |
+F2>-F2 z) .('c |
+c2A (A B) c |
+d2BB2).('B |
+B2G (G A) B |
+c2AF2).('F |
+B2AG2F |
+(F E) FG2).('A |
+B2Bc2c |
+F3-F2) |]

@@ -1,0 +1,23 @@
+X: 8772
+T: ‘t Is weerom d’olie van de druiven, Die de d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:50
+%%humdrum-veritas 1745345507
+%%humdrum-veritas-data 3674257774
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+(3.('D E F [I:setbarnb 1]|
+G2B2B3/ B/ |
+B2A z) .('D3/ F/ |
+A2c2c3/ c/ |
+c2B z) (3.('D E F |
+G2B2B3/ B/ |
+d2>z2) .('G3/ G/ |
+A2c2A3/ F/ |
+G2z2) |]

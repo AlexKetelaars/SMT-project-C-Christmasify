@@ -1,0 +1,23 @@
+X: 3338
+T: De schone Anna diende Als kamer maagd aan 't hof
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 4168496403
+%%humdrum-veritas-data 3468372381
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+d2Be2d |
+c A zz2).('f |
+a2ce2d/ d/ |
+B2zz2).('d |
+b2ba2g |
+f e zz2).('e |
+d2bc'2f |
+g3z2) |]

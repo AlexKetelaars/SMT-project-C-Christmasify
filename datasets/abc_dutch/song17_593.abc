@@ -1,0 +1,32 @@
+X: 16592
+T: Toen d'aldergrootste duisterheit
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 3627241353
+%%humdrum-veritas-data 116173108
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2 [I:setbarnb 1]|
+e2>e2 (e A) (B/ c/ d) |
+c3(B/ A/)A2z ^G |
+A> A B c2<d2e |
+e2z) .('eg2(f e) |
+e2>d2d3c |
+B2e2A2B2 |
+c2(c d2<)d2c |
+c6) |
+.('e2 [I:setbarnb 9]|
+e2>e2d2(d/ e/ f) |
+f2>e2e2z e |
+A2A B ^G G A3/ B/ |
+c2z) .('c2<d2d |
+e2(d c2<)B2A |
+^G2e2(d c) (B A) |
+(^G f) (e d/ c/)c3(B/ A/) |
+A6) |]

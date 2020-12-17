@@ -1,0 +1,40 @@
+X: 6092
+T: Het Rooij Zeetie
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 144495854
+%%humdrum-veritas-data 1968986209
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d c d e f e f g |
+f g e fd2).('d e |
+f e f g a g a f |
+g f g ag2).('f b |
+e2e f g f e d |
+c2A2).('d c d e |
+f e f a g f e c |
+d6) :|]
+.('a g [I:setbarnb 9]|
+f2>d2d2g f |
+e2>B2B2).('c d |
+e f d c B A ^G B |
+A2A4).('a g |
+f g e fd2g f |
+e f d eB2).('c d |
+e f d c B A ^G B |
+A2>A2A2).('e2 |
+a2a ba2g f |
+g f g ag2).('a g |
+f2e f g f e d |
+g f g ag2).('f b |
+e2e f g f e d |
+c2A2).('d c d e |
+f e f a g f e c |
+d4) |]

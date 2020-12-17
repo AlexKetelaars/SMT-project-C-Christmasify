@@ -1,0 +1,22 @@
+X: 12207
+T: Liefde die heeft wonder krachten Zij gaat bo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 835567896
+%%humdrum-veritas-data 2270686991
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('A2AA(3c B A |
+G2F2).('E3/F/ |
+G2>G2AF |
+E2z2).('A3/A/ |
+D2F2A3/A/ |
+A2E2).('FG |
+A2FEC2 |
+D4z2) |]

@@ -1,0 +1,23 @@
+X: 4951
+T: Er zat er een in de gouwe ketel, Die kon naa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 1193982902
+%%humdrum-veritas-data 3849616920
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('F [I:setbarnb 1]|
+A A AB2B |
+A2AF2F) |
+.('A2AB2B |
+A2AF2F) |
+.('A2AB2B |
+A A AF2F) |
+.('d3A2G |
+(F2A)D2) |]

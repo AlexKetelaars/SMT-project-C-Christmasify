@@ -1,0 +1,31 @@
+X: 1476
+T: ’t Is Hartjesdag ’t is Hartjesdag en dan sla [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 3600819890
+%%humdrum-veritas-data 2897320734
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('e [I:setbarnb 1]|
+d2dB2e |
+d2d B) .('B B |
+A2A A G A |
+G3-G2).('e/ e/ |
+d2d B B e/ e/ |
+d2d B B) .('B |
+A2A (A G) A |
+G3z2x) ||
+[M:4/4].('d2d2B2G2 [I:setbarnb 10]|
+d2d2e2e2 |
+d2d2B2G2) |
+.('B> A B> cd3c |
+B> A B> cd3).('c |
+B> A B> cd4) |
+.('g> g d> dc2B2 |
+A2d2G4) |]

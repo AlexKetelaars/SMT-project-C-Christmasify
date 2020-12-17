@@ -1,0 +1,54 @@
+X: 11961
+T: Corante Madame
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 2636715049
+%%humdrum-veritas-data 1956633661
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('B/ [I:setbarnb 1]|
+B>cd |
+Bf3/f/ |
+g>ga |
+ba3/g/ |
+^f3) |
+.('ge3/e/ |
+f>d_e |
+fd3/c/ |
+c3) |
+.('dG3/c/ |
+A>Bc |
+GG3/F/ |
+F2x) |
+.('d_ed |
+cfd |
+bb3/b/ |
+a>ab |
+gg3/a/ |
+^f3) |
+.('gab |
+f>fg |
+d_e3/f/ |
+dc2 |
+d/ c<BA/ |
+A2) |
+.('F [I:setbarnb 26]|
+[M:2/2]BB/ c/AB/ c/ |
+c>BBd |
+_e/ d/cff/ g/ |
+g>ff) |
+.('b [I:setbarnb 30]|
+bfg(f/ _e/) |
+d>ccd |
+Gc/ B/AB/ c/ |
+c>dd).('b |
+bfg(f/ _e/) |
+d>ccd |
+Gc/ B/AB/ c/ |
+c>BB2) :|]

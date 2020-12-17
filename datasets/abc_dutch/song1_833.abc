@@ -1,0 +1,29 @@
+X: 833
+T: Ik ben een haaske en zit al in het groen waa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 420841494
+%%humdrum-veritas-data 3205879748
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/4
+Q: 1/4=120
+K: F clef=treble
+.('A2 [I:setbarnb 1]|
+(A2G2)F2F2E2).('F2 |
+G GF2D2C4).('G2 |
+G GA2=B2c2c2).('G G |
+(c2B2)A2F4).('C2 |
+[M:3/4]F G2<A2F |
+(G F)D2z) .('G |
+G A2<B2A |
+(G E) C) .('C F A |
+d> c c) .('C F A |
+d> c c z).('c2 |
+(B A)G2F2 |
+D2B2).('c B |
+A2G3G |
+F6) |]

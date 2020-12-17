@@ -1,0 +1,15 @@
+X: 327
+T: De Heer vercoos oock uut Levys gheslachte Mo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 386994114
+%%humdrum-veritas-data 777385423
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2ABc2c2BABcA2G2).('z2G2GFE2E2EDE(FD2)C2).('zGA2c2B2A2BcAAG2).('z2c2cBA2G2GAGFE2D2).('z2D2GGA2G2GGABc2B2).('zGA2c2B2A2BcAAG4) |]

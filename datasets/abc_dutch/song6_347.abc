@@ -1,0 +1,25 @@
+X: 5346
+T: Och jonge dochters hoort mijn droeve klachte [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 673389447
+%%humdrum-veritas-data 1195175013
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('F2G A [I:setbarnb 1]|
+B2>A2 ^G A B A |
+D2C2).('F2G A |
+B2>A2 ^G A B A |
+E2z2).('G2F E |
+c2>c2 d c B A |
+A2G2).('B> B B B |
+(A G) F E (D E) F G |
+A2z2).('d> c B A |
+(B E) F G (B A) G F |
+D2z2) |]

@@ -1,0 +1,23 @@
+X: 9977
+T: Daar zou er eens een meisje vroeg op gaan st [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 3243603317
+%%humdrum-veritas-data 3577064584
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('(D F) [I:setbarnb 1]|
+A A A> A A AB2 |
+A2(A G2<)F2).('A |
+B A G F E F G A |
+B2(A G)F2z) .('A |
+B2B> cd2c B |
+(A2d2)d2z) .('F |
+D E F G A G F D |
+E4D2) |]

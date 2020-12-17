@@ -1,0 +1,51 @@
+X: 1147
+T: Tingelitse tingelitse met een golden flitse  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:39
+%%humdrum-veritas 1702074779
+%%humdrum-veritas-data 307777496
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('c/ c/ [I:setbarnb 1]|
+B G c/ c/ |
+B G c/ c/ |
+c2d |
+c A) .('c/ c/ |
+B2A |
+G2).('G |
+A A A |
+d2d |
+B2B |
+G2z) |
+.('c2c |
+c2c |
+B B B |
+B2).('G |
+A A A |
+c B A |
+A2G |
+G2).('c |
+B2A |
+G2).('D |
+A2A |
+d e d |
+(c B) A |
+G2).('D |
+c c c |
+c B A |
+B B B |
+B2).('G |
+A A A |
+c B A |
+A2G |
+G2).('G |
+A A A |
+c B A |
+A2G |
+G2) |]

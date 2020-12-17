@@ -1,0 +1,15 @@
+X: 10071
+T: Paasnacht verdwijnt naar onze wensen, Uw dag [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 3609634585
+%%humdrum-veritas-data 484934545
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('AD2EF2GA2A(F>EF2<)D2-D3).('A3F2FG2AB2c(A2^G2<)A2-A2).('AD2EF2F=G2G2<A2-A2).('GA2B2<c2A3_B2A2<A2G3-G2).('GA2AF2D^C2D2<F2E3-E2).('A,D2E2<A2-A2FF2F2<D2-D2) |]

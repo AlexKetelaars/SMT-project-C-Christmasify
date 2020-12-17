@@ -1,0 +1,20 @@
+X: 9929
+T: Ne maalde [!] in de Mei, zei zij, En ‘n draa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:00
+%%humdrum-veritas 1854070770
+%%humdrum-veritas-data 3409849912
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+G2>F2 E D |
+C2C C) .('C D |
+E E/ E/ E E) .('F E |
+D G/ G/ GG2).('G |
+G2>F2 E D) |]

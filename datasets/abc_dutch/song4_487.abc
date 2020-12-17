@@ -1,0 +1,39 @@
+X: 3486
+T: Hoort vrienden hoort een lied Wat thans weer [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 4012447926
+%%humdrum-veritas-data 2181887218
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+E2DE2F |
+E3-E2).('D |
+E2DA2B |
+G3-G2).('B/ B/ |
+A2EG2F |
+C3-C3) |
+.('D B, DG2B |
+A3-A2).('D |
+G2G F E F |
+E3D2).('D |
+G2GB2F |
+E3-E2).('E |
+A2A G F G |
+F3E2).('E |
+D D E F F D |
+B,3-B,2).('D |
+G G GF2F |
+E3D3) |
+.('G G GB2F |
+E3-E3) |
+.('E F G A G A |
+B2G D/> D/ D) .('D |
+G G GA2B |
+G3-G2) |]

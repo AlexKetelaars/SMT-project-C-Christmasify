@@ -1,0 +1,27 @@
+X: 4405
+T: Het vrouwtje van ’s-Hertogenbosch Dat had er [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 672223472
+%%humdrum-veritas-data 1982079821
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2AB2G |
+d2ed2).('d |
+e e e g f e |
+(d e) dB2).('d |
+d e f g f e |
+d3B2).('d |
+d e d (d c) B |
+A3-A2).('A |
+B2d B A G |
+c3B2).('A |
+(B c) d A G A |
+G3-G2) |]

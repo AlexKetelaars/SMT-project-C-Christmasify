@@ -1,0 +1,24 @@
+X: 8901
+T: Jonkertjes, pronkertjes, hebben wel lust, Om [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 197306995
+%%humdrum-veritas-data 3218215052
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('c> B A c> B A |
+B> c dc3) |
+.('c B A A> G F |
+F G AA2G) |
+.('d c B B> A G |
+c> B cB2A) |
+.('G c =B A d c |
+=B e> dc3) |
+.('c f d c> B A |
+B> A GF2z) |]

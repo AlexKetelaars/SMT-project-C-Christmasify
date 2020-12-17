@@ -1,0 +1,31 @@
+X: 6632
+T: De Hollandsche meisjes zijn bloeiend en scho [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 2707114297
+%%humdrum-veritas-data 3031858138
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D> E F G F G |
+A> G AB2).('d |
+d> A F A G E |
+D2zz2).('D |
+D> E F G F G |
+A> G AB2).('d |
+d> A F A G E |
+D2zz2).('D |
+B2>(B2 A) G |
+G3F2F |
+G2>(G2 F) G |
+^G2>A2 z) .('D |
+G> F G E> ^D E |
+A> ^G A F> E) .('D |
+d c B A B3/ A/ |
+G2zz2) |]

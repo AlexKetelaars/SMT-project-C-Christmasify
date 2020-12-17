@@ -1,0 +1,31 @@
+X: 2569
+T: Och boer ken ik it helpe
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 2596756832
+%%humdrum-veritas-data 1926821802
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GB2G |
+E3D2).('D |
+G2G G F G |
+A3-A2).('D |
+A A AB2c |
+B3G2).('G |
+F2E (c B) A |
+E3-E3) |
+.('B3D2G |
+F3-F2).('D |
+A A AA2c |
+B3-B2).('B |
+B2B^A2B |
+d3c2).('c/ c/ |
+B B DA2D |
+G3) |]

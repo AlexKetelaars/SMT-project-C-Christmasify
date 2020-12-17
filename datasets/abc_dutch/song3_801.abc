@@ -1,0 +1,31 @@
+X: 2800
+T: Ik hew foar 5 cent prûtels kocht, En waar sj [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 116489196
+%%humdrum-veritas-data 2602583727
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GG2F |
+E2ED2).('D/ D/ |
+E2D C B, C |
+D3-D2).('D |
+G2GF2G |
+A2AA2).('G |
+F2FE2E |
+D3-D2).('D |
+A2AA2G |
+F2ED2).('D |
+A2A A A G |
+F2ED2).('D |
+B2B B B B |
+G2G G) .('F G |
+A2A F E F |
+G2GG2) |]

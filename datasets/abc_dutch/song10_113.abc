@@ -1,0 +1,15 @@
+X: 9112
+T: Wat heeft dat Vinus’kind verteld op den eers [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 1872935605
+%%humdrum-veritas-data 3433694325
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('F F F F F F F(!fermata!G2!fermata!F2)).('F F F F E D F E!fermata!D2C2).('F F F!fermata!G2!fermata!F2).('F F F F E F DC2).('F F F F F F G G!fermata!F2).('F F F F E F D DC2) |]

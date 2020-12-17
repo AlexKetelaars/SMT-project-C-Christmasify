@@ -1,0 +1,41 @@
+X: 6548
+T: Al weent dit soete kind, ‘t en is voorwaer g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 1818219060
+%%humdrum-veritas-data 4243602604
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('G2dd |
+B>AG).('G |
+cc(e/ d/) (c/ B/) |
+A2G).('D |
+GBA3/G/ |
+^F3).('F |
+GGA3/A/ |
+B2B).('d |
+cdB3/A/ |
+A3).('B |
+ABGA |
+^F3).('A |
+BBc3/d/ |
+d3).('F |
+(G/ A/)BB3/A/ |
+B4) ]|:
+.('ddcB |
+AG^FD) |
+.('BAGF |
+E>DD2) |
+.('EFGA |
+B>cAF) |
+.('Bcd2) |
+.('GAB2) |
+.('dG^F(G/ A/) |
+A3(G/ ^F/) |
+G4) :|]

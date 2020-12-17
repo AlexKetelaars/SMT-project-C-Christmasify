@@ -1,0 +1,20 @@
+X: 12234
+T: Ballet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:23
+%%humdrum-veritas 3237444668
+%%humdrum-veritas-data 573241732
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d _e d c B2 G2 g2 a g ^f2 d2 |
+b2 a g ^f2 g2 g2> f2g4) |
+.('B c d _e f2 f2 G A B c d2 d2 |
+G ^F G A B2 c B2< A2 G F2 D2) |
+.('B c B AG4_e f e dc4 |
+f g f _e d2 g2 g2> ^f2g4) :|]

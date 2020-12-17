@@ -1,0 +1,33 @@
+X: 7501
+T: No 131
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:38
+%%humdrum-veritas 2065073171
+%%humdrum-veritas-data 1015089855
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('AAd |
+d2e |
+c2d |
+B3 |
+A3) |
+.('BBA/ G/ |
+F>GA |
+A/ B<BA/ |
+A3) |
+.('AA3/A/ |
+BGA |
+cc3/B/ |
+c3) |
+.('ABc |
+d>dA |
+ABc |
+d>c B/ A/ |
+G/ A<AG/ |
+G3) |]

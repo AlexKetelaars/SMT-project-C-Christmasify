@@ -1,0 +1,30 @@
+X: 11148
+T: Inne de weide zoo zallen wij zoeken Naar een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 1410355071
+%%humdrum-veritas-data 3429176132
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D E F [I:setbarnb 1]|
+(G2B)d2e d d c |
+A3!fermata!G2).('AB2c |
+d2Be2d^c2d |
+B2>-B2 z z) :|]
+.('B2c [I:setbarnb 5]|
+d3-d2de2d |
+(d2^c)=c2).('cd2c |
+B2B (B c) d (d c) B |
+(A2d)!fermata!d2).('DG2A |
+B2cd2).('d e d c |
+[M:6/8]d3c3 |
+!fermata!B2).('AG2A |
+[M:9/8]B2cd2).('d e d c |
+[M:6/8]B3A3 |
+G2>-G2 z z) |]

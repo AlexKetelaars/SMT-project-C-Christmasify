@@ -1,0 +1,28 @@
+X: 16419
+T: Ach treurt niet mijn bedroefde schaepjes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 728796100
+%%humdrum-veritas-data 692464561
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z2zF |
+Fcc2 |
+dB2c |
+A2GA |
+FGEC) |
+.('GGA3/G/ |
+G2c2 |
+GGAF |
+BBA3/B/ |
+B2d2) |
+.('AA=BG |
+cc=B3/c/ |
+c>B A/ B/ c/ A/ |
+G>FF2) |]

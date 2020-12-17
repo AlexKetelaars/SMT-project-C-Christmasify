@@ -1,0 +1,22 @@
+X: 9168
+T: ‘k Benne zoo arme, ‘k ben zoo arme, Marionne [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 297743344
+%%humdrum-veritas-data 1528775631
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F F A [I:setbarnb 1]|
+c2cc2d |
+c2c) .('(F E) F |
+G2G G F G |
+[M:9/8]A3F2>).('F2 F A |
+[M:6/8]c2cc2c |
+[M:9/8]c2c2<F2G3 |
+[M:6/8]F3) |]

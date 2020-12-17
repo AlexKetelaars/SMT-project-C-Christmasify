@@ -1,0 +1,31 @@
+X: 10985
+T: Daar kwammer een vrouwtje van Sinte-Niklaai; [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:10
+%%humdrum-veritas 1942410305
+%%humdrum-veritas-data 1730962660
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D F E F [I:setbarnb 1]|
+D A A G E F |
+D2).('D F E F |
+D A A G E F |
+D3z2).('A |
+A2AB2c |
+d d Bc2d |
+(e3^G3) |
+!fermata!A2).('A A B c |
+[M:9/8]d3d2c c B A |
+[M:6/8]B2).('A A A A |
+B A B A G F |
+G2).('A F E F |
+!fermata!E2c d c B |
+A2GF2E |
+(A3C3) |
+D6) |]

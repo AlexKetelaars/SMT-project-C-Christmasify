@@ -1,0 +1,54 @@
+X: 5444
+T: O Doot moet ik wreede beleeven Dat gy myn li [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2316611335
+%%humdrum-veritas-data 663442983
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c [I:setbarnb 1]|
+B2B/ B/ |
+ccc |
+AA).('A/ d/ |
+BBB |
+ee).('e |
+^G2G/ A/ |
+BBc |
+^G3) |
+.('^GA3/B/ |
+B2A |
+A2).('c |
+d2d/ d/ |
+(e/ d/ c/ B/ A/ G/ |
+F)FF |
+GG).('B/ B/ |
+cce |
+AA).('c |
+f2B/ B/ |
+(^G/ A/ B/ c/ d/ B/ |
+c/ B/ A/ B/ c/ d/ |
+e)d3/c/ |
+BB).('B/ B/ |
+ccd |
+e3- |
+e3 |
+e2).('c |
+A2c/ c/ |
+(f/ g/ f/ e/ d/ c/ |
+B/ A/ B/ c/ d/ B/ |
+c)de |
+dd).('B/ B/ |
+cde |
+(ed2) |
+c2).('e |
+A2G/ A/ |
+BBc |
+^G).('G/A3/ |
+BB2 |
+AA2) :|]

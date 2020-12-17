@@ -1,0 +1,32 @@
+X: 9739
+T: Als de zon gaat onder dan ga ik aan den kant [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 1808352263
+%%humdrum-veritas-data 1716725906
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G G G G |
+G2E G |
+G F E D |
+C2z) .('G |
+G G G G |
+G2E G |
+G F E D |
+C2).('E E |
+D D E E |
+D) .('D E E |
+D D G A |
+G2z) .('E/ F/ |
+G3E/ F/ |
+G E/ F/ G) .('G |
+G2c2 |
+G2E G |
+G F E D |
+C2z2) |]

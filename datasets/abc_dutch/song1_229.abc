@@ -1,0 +1,15 @@
+X: 229
+T: De vreese Gods is eer en vruecht Der blijsch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 1732697456
+%%humdrum-veritas-data 3546752337
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('zAAAA(G/ F/ E/ D/G2)F2EF>).('EDCFE2D2CD2).('zAAA(AG/ F/ E/ D/G2)(F2EF>)).('EDCFE2D2CD2).('zFFFEAAGA>).('GFEFEDDC2).('D/ C/ D/ E/FE).('D/ C/ D/ E/FE).('A(F/ E/) (F/ G/)A2).('zAG/ F/ E/ D/FE2).('DDCD2).('zAG/ F/ E/ D/FE2).('DDCD4) |]

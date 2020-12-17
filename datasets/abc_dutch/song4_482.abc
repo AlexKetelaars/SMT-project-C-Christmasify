@@ -1,0 +1,34 @@
+X: 3481
+T: Een vrouwtje had er een man getrouwd Maar ze [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 749493541
+%%humdrum-veritas-data 2290527848
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2G G G D |
+G2B d) .('d B |
+A A GF2E |
+A3D2).('D |
+G G G G G G |
+B2BA2).('A |
+A A G F F G |
+A3D2).('D |
+G G GB2A |
+D3z2).('D |
+G G GB2A |
+D3z2).('D |
+G G GB2B |
+d d dA2).('A |
+B d d A) .('A G |
+F2GA2B |
+A3).('c3 |
+B> A Bd2F |
+G3z2) |]

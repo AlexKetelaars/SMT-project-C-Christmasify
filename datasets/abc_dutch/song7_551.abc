@@ -1,0 +1,28 @@
+X: 6550
+T: Laat ons gaan om te besoecken, dat kleijn ki [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 51268462
+%%humdrum-veritas-data 3342859938
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('A2e2c2(d c) |
+(B c) (A B)G2E2) |
+.('A2A2B2e2 |
+!mordent!!mordent!c2>B2B4) |
+.('c2(B A)G2A2 |
+!mordent!!mordent!F2>E2E4) ]|:
+.('E2B2G3A |
+(B c) (d e)c2A2) |
+.('d2(c d)B2e2 |
+!mordent!!mordent!e2>^d2e4) |
+.('e2B c2<d2c |
+(B c) (A B)G2E2) |
+.('e2(B c) (d e) (c d) |
+!mordent!!mordent!B2>A2A4) :|]

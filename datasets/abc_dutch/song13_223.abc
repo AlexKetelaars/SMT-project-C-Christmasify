@@ -1,0 +1,26 @@
+X: 12222
+T: “Schipperman, steekt er mij overe, Ik zalder [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 1311253280
+%%humdrum-veritas-data 1507202465
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2d/ e/ d c B |
+(A2c/) B/A3) |
+.('d2d/ e/ d c B |
+A2z) .('G A B |
+c2e- e (d ^c) |
+!fermata!d2).('dc2A |
+G2B/ B/d3- |
+d2z) .('B c d |
+e2f- f (e c) |
+!fermata!d2).('de2c |
+(G2B)- B A A |
+G6) |]

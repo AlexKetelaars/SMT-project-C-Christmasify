@@ -1,0 +1,34 @@
+X: 10505
+T: Pinksterbroed Hoe luieroet, Wat hes toe lang [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 3896760165
+%%humdrum-veritas-data 3214460818
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G G F A |
+G G F F |
+G G A A |
+G2F2) |
+.('G G/ G/ G D |
+A A A A |
+B G G G/ G/ |
+G G/ G/ !fermata!G) .('D |
+G G A A |
+G GF2 |
+G GA2 |
+G GF2) |
+.('G G G D |
+A2A2 |
+G2G D |
+A2A2) |
+.('G G G D |
+A2A G/ G/ |
+B G G G |
+G2G2) |]

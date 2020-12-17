@@ -1,0 +1,58 @@
+X: 17102
+T: Les insúlaire
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3487152357
+%%humdrum-veritas-data 1534073122
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('zf/ g/a |
+gea |
+dg3/g/ |
+gf3/g/ |
+ec3/c/ |
+d).('d3/d/ |
+ee3/e/ |
+f>f^g |
+a^g3/f// g// |
+a3) |
+.('ac/ d/e |
+dBe |
+A).('d/ e/f |
+ge/ f/ g/ a/ |
+f>g f/ g/ |
+a3- |
+a).('g/ f/g- |
+gff |
+fe2- |
+ed).('d |
+dc2- |
+c/ B// A//BB |
+BAA |
+A>B^G |
+A).('c/ d/e |
+dBe |
+A).('d/ e/f |
+ge/ f/ g/ a/ |
+f>g f/ g/ |
+a3 |
+a).('g/ f/g- |
+gff |
+fe2- |
+edd |
+d>ec |
+d).('AB |
+=c>cd |
+B>d e/ f/ |
+ggB |
+c>).('e f/ g/ |
+aac |
+def- |
+f/ e<ed/ |
+d) |]

@@ -1,0 +1,27 @@
+X: 15151
+T: Hij heeft haar gegeven een steek in haar hart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 1967610472
+%%humdrum-veritas-data 2585830347
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('F3/ F/ [I:setbarnb 1]|
+B B> B B A G |
+A A> AA2).('A |
+G G G B A G |
+G F =E) .('F G A |
+B2FE2D |
+C3z2).('A |
+c2BA2G |
+F3z2).('F |
+d2dc2B |
+!fermata!e3z2).('G |
+F2Ac2d |
+B3) |]

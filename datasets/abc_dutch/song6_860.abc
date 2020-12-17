@@ -1,0 +1,25 @@
+X: 5859
+T: Een soudan had een dochtertje, Zeer schoon v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 9118389
+%%humdrum-veritas-data 4252859540
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: Eb clef=treble
+.('(E F) [I:setbarnb 1]|
+G2 (G F) E2 (E F) |
+G2 c2 B2) .('(E F) |
+G2 (G F) E2 (E F) |
+G2 c2 B2 z) .('B |
+B2> B2 (c d) (e c) |
+c2 B2 z2) .('B2 |
+e2> B2 B2 (A G) |
+(F G) (A B) G2) .('B2 |
+c2> B2 B2 (A G) |
+(G2> F2) E2 z2) |]

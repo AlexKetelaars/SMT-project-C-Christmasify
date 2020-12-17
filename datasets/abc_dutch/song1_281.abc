@@ -1,0 +1,15 @@
+X: 281
+T: Een boosen mont die can hier oneens maken he [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 1961784544
+%%humdrum-veritas-data 276209697
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('z2z2F2F2F2c2>c2 c A B cd2c) .('f e d c BA2).('F2F2F2c2>c2 c A B cd2c2).('f e d c BA2).('z2A2G F G E2<F2).('F A B c cG2G) .('F G A B G2<A2).('B A B A GF2F) .('G A B c AB2B) .('A G F G EF8) |]

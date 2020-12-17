@@ -1,0 +1,23 @@
+X: 10452
+T: Maria die zoude naar Bethleem gaan, Kersavon [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 3817917198
+%%humdrum-veritas-data 564779834
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c [I:setbarnb 1]|
+G G A G G c |
+c e dc2z) |
+.('G A AG2(c/ B/) |
+(A/ B/)c2z2).('c |
+d c de2d |
+c2BA3) |
+.('(B/ c/) d dc2B |
+(A/ G/)G2z2z) |]

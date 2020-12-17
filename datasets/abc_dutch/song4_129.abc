@@ -1,0 +1,37 @@
+X: 3128
+T: Er was eens kermis in de stad En zo riep er  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 1128271917
+%%humdrum-veritas-data 148290409
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B2Bc2d |
+B2A A) .('A A |
+G G GA2A |
+B3z2).('B, |
+B2B c c c |
+B2A A) .('A A |
+G2GA2A |
+B3z2).('B, |
+B2BB2c |
+B2A A) .('B A |
+G z G/ G/ A A A |
+B3z2).('B, |
+B2Bc2c |
+B2A A) .('B A |
+G2GG2G |
+F E FG2).('D |
+B2B B G B |
+d3z2).('e |
+d2B c B A |
+e2dd2).('e |
+d2A c B A |
+G2>-G2 z) |]

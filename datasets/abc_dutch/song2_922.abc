@@ -1,0 +1,30 @@
+X: 1921
+T: Ik ben laatstmaal op enen keer naar mijn zoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 2078812637
+%%humdrum-veritas-data 1397732719
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2dd2B |
+B2dd2).('B |
+B2B B d3/ B/ |
+A3-A2).('A |
+d2gB2d |
+d2dG2).('B |
+B2G B d B |
+A3-A2).('A |
+d2A d> e f |
+g2ed2).('A |
+d2A (d e) f |
+g f ed3) |
+.('B d> dd3 |
+G B d (g f) e |
+d c AG2) |]

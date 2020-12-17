@@ -1,0 +1,24 @@
+X: 4078
+T: En mijnheer Van Son dat was zo’n brave kapit [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 1545676742
+%%humdrum-veritas-data 3551569021
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+d2>e2 d c B A |
+G G G GG2).('B B |
+A2A2A G F E |
+D2D DD2).('G A |
+B B B A G G G A |
+B B B AG4) |
+(3.('A A A D D B B G G |
+d d d d d BA2) |
+(3.('d d dd4) |]

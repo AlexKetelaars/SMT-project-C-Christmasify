@@ -1,0 +1,33 @@
+X: 5198
+T: Brengt de liefde menig paar in druk Als d’ou [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 2082431914
+%%humdrum-veritas-data 3619744967
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: Eb clef=treble
+.('E2F [I:setbarnb 1]|
+G2GB2BE2F |
+G6).('B3 |
+F2DG2F (E D) C |
+[M:12/8]F3B3z2).('B,E2F |
+[M:9/8]G2G B B BE2F |
+G6).('B3 |
+F2DG2F (E D) C |
+[M:12/8]F3B3z2).('BA2G |
+[M:3/4]F2c2B3/ A/ |
+G4).('G2 |
+G2-(3G (F G) c3/ B/ |
+[M:4/4](B> A)F2z) .('B, E G |
+[M:3/4](B2c) B G E |
+B2>).('E2 E G/ G/ |
+(e2d) c c3/ B/ |
+B2A) .('F G A |
+[M:2/4]c B G E |
+[M:3/4]F2E2) |]

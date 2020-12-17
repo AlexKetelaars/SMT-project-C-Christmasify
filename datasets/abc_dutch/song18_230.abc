@@ -1,0 +1,33 @@
+X: 17229
+T: Zy ziet het licht niet meer, myn waarde Bedg [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3929713682
+%%humdrum-veritas-data 3836894122
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Eb clef=bass
+.('z2z C C> B, B, C |
+A,2z A, A, G, F, E, |
+E, z/) .('E,/ G, E, B,> B, =B, B, |
+[M:3/4]C2z) .('C/ C/ A, A,/ A,/ |
+D2^F, F,/ G,< D, D,/ |
+[M:2/2]G,2G, z) .('G,/ F, F,/ E, D, |
+E,2E, E,A,2A, F, |
+C2).('C, D,E,2=E,3/ E,/ |
+[M:3/4]F,> F, F, G, A, (G,/ A,/) |
+B, z/) .('B,/ A, A, (A, G,/) A,/ |
+[M:2/2]G,2G, A,B,2B, B, |
+E,2E, z/) .('E,< A, A,/ =E, E, |
+F,2F, F,C2C C, |
+G,2).('G, F,E,2D, C, |
+=B,2>B,2 C, D, E, (D,/ E,/) |
+F,2>).('F,2 ^F, F, F, F, |
+G,2G, G,A,2A, F, |
+(G,4G,4) |
+[M:3/2]C,4) |]

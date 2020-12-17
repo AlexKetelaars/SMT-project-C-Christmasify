@@ -1,0 +1,61 @@
+X: 9486
+T: Matje was zoo een rijk en machtig man Dat hi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 3805840123
+%%humdrum-veritas-data 2195001644
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('CDE |
+F2F |
+F2F |
+F2F |
+F2).('C |
+(CD)E |
+F2F |
+F2F |
+F2).('G |
+BBA |
+G2F |
+F2F |
+F2G |
+B2A |
+G3) |
+.('F3 |
+F2G |
+B2A |
+G2z) |
+.('B2B |
+B2G |
+A2A |
+A2).('F |
+G2G |
+A2G |
+G2F |
+F3) |
+.('CDE |
+F2F |
+F2F |
+F2F) |
+.('G2G |
+G2A |
+B2A |
+G3) |
+.('F3 |
+F2G |
+B2A |
+G2z) |
+.('B2B |
+B2G |
+A2A |
+A2).('F |
+G2G |
+A2G |
+G2F |
+F3) |]

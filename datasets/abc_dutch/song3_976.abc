@@ -1,0 +1,40 @@
+X: 2975
+T: De boerenstand de boerenstand Geheel plezant [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 1760017377
+%%humdrum-veritas-data 630022478
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D E F [I:setbarnb 1]|
+G z2<z2).('E G A |
+B zz4).('d2 |
+A2>B2 A> G F E |
+(D F A F) D) .('D E F |
+G z2<z2).('E G A |
+B zz4).('d2 |
+A2>B2 A> G F E |
+D d d d!fermata!d2).('D2 |
+c2>c2 c e d3/ c/ |
+c cB4).('D D |
+c2>c2 c e d c |
+[M:2/4]B) .('D E F |
+[M:3/4]G2B3).('B |
+[M:2/4]B A G3/ F/ |
+[M:4/4]E2c2>).('A2 B c |
+d2>d2 d d d3/ c/ |
+[M:2/4]B2).('B3/ c/ |
+[M:4/4]d4B2z2 |
+z4!fermata!z) .('B A B |
+c2>c2 c e d3/ c/ |
+B6).('B3/ c/ |
+d4B2z2 |
+z4!fermata!z) .('B A B |
+c2>c2 c e d3/ c/ |
+B6) |]

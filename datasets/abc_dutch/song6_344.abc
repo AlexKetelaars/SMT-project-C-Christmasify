@@ -1,0 +1,37 @@
+X: 5343
+T: De wereld is een speeltooneel Een ieder mens [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 2257940747
+%%humdrum-veritas-data 68684006
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('D2D E F A |
+[M:2/4]F2E2 |
+D4) |
+[M:3/4].('F2G A B B |
+[M:2/4]A2G2 |
+F3).('A |
+[M:3/4]A A G G F F |
+[M:2/4]E F A G |
+F) .('D D F |
+A2F3/ F/ |
+F2E2 |
+z2).('A2 |
+[M:3/4]D A B A F D |
+[M:2/4]G2G2 |
+G2).('c2 |
+[M:3/4]d B A G F E |
+[M:2/4]D2E2 |
+A3).('A, |
+D D E E |
+[M:3/4]F F G A B B |
+[M:2/4]A) .('G G G |
+F2E2 |
+D4) |]

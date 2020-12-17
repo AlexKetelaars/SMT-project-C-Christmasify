@@ -1,0 +1,30 @@
+X: 16880
+T: Ballet Engloijs 1
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:07
+%%humdrum-veritas 483478013
+%%humdrum-veritas-data 547278122
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d [I:setbarnb 1]|
+d2>e2 ^c =B d3/ e/ |
+f2e d e f d a/ a/ |
+a4g3f/ g/ |
+a2<e2e f f ^c/ d/ |
+e A ^c cd2e e |
+f2g2g a f3/ e/ |
+e6) |
+.('x a [I:setbarnb 8]|
+a2g a2<f2f |
+g a b a g f e c |
+g> gg4e f |
+g a g a e f d ^c |
+d ^c/ d/ e A c cd2 |
+e2f2g2a2 |
+A ^c> dd4) :|]

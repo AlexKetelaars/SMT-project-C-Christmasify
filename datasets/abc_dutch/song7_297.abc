@@ -1,0 +1,30 @@
+X: 6296
+T: Thuringer Volkslied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 309400437
+%%humdrum-veritas-data 2350303536
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=bass
+.('E2C A, |
+G,> CC2 |
+D2C D |
+E A,G,2) |
+.('G,2^F, G, |
+A, FE2 |
+D2E D |
+G,2z2) |
+.('D2E D |
+C A,G,2 |
+E2F E |
+A, ED2) |
+.('G,2A, G, |
+G, FE2 |
+D2A, B, |
+C3z) |]

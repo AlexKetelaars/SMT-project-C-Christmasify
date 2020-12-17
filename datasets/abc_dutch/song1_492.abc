@@ -1,0 +1,30 @@
+X: 492
+T: Een Lust-hof is mijn ziel gelijck Beplant me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3536354070
+%%humdrum-veritas-data 2471014107
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A>_B (A/ G/)FG3/A/ |
+A2>).('d2c3/A/ |
+_BB>cAG3/F/ |
+F2).('Bc>cd |
+eedcB3/A/ |
+A3-A2) |
+.('e [I:setbarnb 7]|
+ee(f/ e/)dd3/c/ |
+c2>).('A2Bc |
+d>effe3/d/ |
+^c3).('d/ d<d=c/ |
+(B>c)d).('c/ c<cB/ |
+A>c) .('(B/ A/)BB3/A/ |
+A>).('fedd3/^c/ |
+d3-d2) |]

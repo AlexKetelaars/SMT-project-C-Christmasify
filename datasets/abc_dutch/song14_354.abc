@@ -1,0 +1,30 @@
+X: 13353
+T: Eccosoise
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 3497469687
+%%humdrum-veritas-data 1499774512
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('A> B c3/ d/ |
+e> f e3/ f/ |
+e> a g3/ f/ |
+e> d c3/ B/) |
+.('A> B c3/ d/ |
+e> f e3/ f/ |
+e> d c3/ B/ |
+A2z2) |
+.('c' g!trill!!trill!g2 |
+e gg2 |
+a f d B |
+c/ B/ c/ d/ c c) |
+.('c' gg2 |
+e gg2 |
+a f d B |
+c2z2) :|]

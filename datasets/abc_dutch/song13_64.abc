@@ -1,0 +1,26 @@
+X: 12063
+T: Phillis lagh ins bedt allein
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 38671257
+%%humdrum-veritas-data 1261123918
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('AAdc |
+d>ef2) |
+.('e>dcf |
+e>d^c2) |
+.('ccd3/A/ |
+_B>GAF) |
+.('c/ d/ c/ _B/AA |
+A>^GA2) |
+.('B/ ^c/dc2 |
+d>eff) |
+.('e>d^cd |
+d>^cd2) |]

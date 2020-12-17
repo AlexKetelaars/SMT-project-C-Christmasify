@@ -1,0 +1,88 @@
+X: 16997
+T: Les Trompettes
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2097931392
+%%humdrum-veritas-data 3133313468
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('e2e f g f g a |
+g a g a g a g f) |
+.('e f e fg2f e |
+d c d e f e f g |
+e d e f2<!mordent!!mordent!d2c |
+c4).('c2e2 |
+A4A2B2 |
+c4c2c2 |
+d4d2d2 |
+e4!mordent!!mordent!d3c/ d/ |
+e4).('e2e2 |
+!mordent!!mordent!^c4c2c2 |
+d4d2d2 |
+!mordent!!mordent!B4).('B2B2 |
+e4e2g2 |
+c4c2c2 |
+c4!mordent!!mordent!B3A/ B/ |
+c) .('g e g c G c c |
+A2e2e2e2 |
+f4z2f f |
+d2d g2<!mordent!!mordent!e2d |
+c2).('G AB2B c |
+d c d Be4) |
+.('e2e2c2c2 |
+A4z2A A |
+d2d c2<!mordent!!mordent!B2A |
+G2).('g fe2e d |
+c2c e2<!mordent!!mordent!A2G |
+[M:3/4]G4).('d d |
+e2e2e2 |
+c2c2d2 |
+B2B2e2 |
+!mordent!!mordent!^c2).('a b a g |
+^f g f e d c |
+B4).('d d |
+e2e2f2 |
+d2d2d2 |
+d2!mordent!!mordent!^c3d |
+d4).('f f |
+g2g2g2 |
+d2d2d2 |
+_e2c3c |
+A2A3d |
+!mordent!!mordent!B2).('g a g f |
+e f e f e f |
+g a g fe2 |
+d2d3e |
+f2f2f2 |
+e2e2f2 |
+d2!mordent!!mordent!d3c |
+c2).('g f g a |
+f2f e f g |
+e f e f g a |
+g a g a g a |
+g4-g f/ e/ |
+d e2<!mordent!!mordent!d2c |
+c4).('z2 |
+z2z2g g |
+g2f3f |
+f2e3e |
+e2d3d |
+d2c3c |
+c2!mordent!!mordent!c3B |
+c2).('g f g a |
+f2f e f g |
+e f e f g a |
+g a g a g a |
+g4-g f/ e/ |
+d e2<!mordent!!mordent!d2c |
+c4).('e e |
+d2d2c2 |
+B2e2e2 |
+d2!mordent!!mordent!d3c |
+c6) |]

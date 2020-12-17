@@ -1,0 +1,31 @@
+X: 6565
+T: O zoete Jezus uitverkoren, In eenen stal zij [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 3591304046
+%%humdrum-veritas-data 2542281535
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B, [I:setbarnb 1]|
+G2F2 |
+G2E2 |
+(G F) (E ^D) |
+E2B,2) |
+.('G2F F |
+G2E E |
+(G F) (E ^D) |
+E2B,2) |
+.('G2G A |
+G2D D |
+G2A2 |
+B2z2) |
+.('B2A B |
+(c B) A G |
+(G2F) E |
+!fermata!E2z2) |]

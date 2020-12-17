@@ -1,0 +1,24 @@
+X: 4732
+T: Twee boeren die zouden naar de paardemarkt gaan
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 4132687807
+%%humdrum-veritas-data 1643752984
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G2G2(A c) |
+B2>A2G2).('B3/ c/ |
+d2d> d c c F F |
+A A A AA2).('D2 |
+G2G> GG2B3/ c/ |
+d2>c2B2).('d3/ d/ |
+e2e> e d d G c |
+(B4A4) |
+G6) |]

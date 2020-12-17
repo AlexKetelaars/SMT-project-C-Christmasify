@@ -1,0 +1,46 @@
+X: 12179
+T: Boshe zaria chrani! Ssil-nyi derschâwn nui
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:22
+%%humdrum-veritas 1137866740
+%%humdrum-veritas-data 1529833035
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c2dd |
+c>AF2) |
+.('f2ed |
+c2d2) |
+.('B2cc |
+A2A).('=B |
+c2=B2 |
+A2z2) |
+.('c2dd |
+c>AF2) |
+.('f2ed |
+c2d2) |
+.('B2cc |
+A2A).('=B |
+c2=B2 |
+A2z2) |
+.('B2AG |
+A>AA2) |
+.('(f>e)d^c |
+d2c2) |
+.('(f2ed) |
+c2-cB |
+A2G2 |
+F2z2) |
+.('B2AG |
+A>AA2) |
+.('(f>e)d^c |
+d2c2) |
+.('(f2ed) |
+c2-cB |
+A2G2 |
+F2z2) |]

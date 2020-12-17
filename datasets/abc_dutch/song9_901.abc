@@ -1,0 +1,49 @@
+X: 8900
+T: Eten, is een kostlijk ding! Doch, zoo u de s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 4086613066
+%%humdrum-veritas-data 1555896617
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c4 |
+C2C C |
+D2D2 |
+C2E E |
+D2D2 |
+G2G2 |
+E !fermata!z) .('E3/ E/ |
+E E ^F F |
+G G A A |
+B B c c |
+d2).('c B |
+A B c ^F |
+A G) .('G A |
+F G E F |
+f3f |
+e2e2 |
+d3B |
+c2z2) |
+.('d3B |
+c2G2 |
+F3G |
+F2E2 |
+G3G |
+A2A2 |
+(c B) (A B) |
+c2G2 |
+z2).('G G |
+c2G2 |
+z2c c |
+d2G2 |
+z2c c |
+e4 |
+c2z2 |
+z2G G |
+C2z2) |]

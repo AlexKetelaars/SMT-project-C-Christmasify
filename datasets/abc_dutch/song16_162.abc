@@ -1,0 +1,20 @@
+X: 15161
+T: Een Baron rijk aan goed en gaven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:51
+%%humdrum-veritas 3139198916
+%%humdrum-veritas-data 3580949593
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('D3/ F/ [I:setbarnb 1]|
+A2A> AA2A2 |
+(A2d2)d2).('A3/ B/ |
+c> B A> G F> E G3/ F/ |
+D2D> DD2D2 |
+D4z2) |]

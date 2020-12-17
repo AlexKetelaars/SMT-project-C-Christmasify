@@ -1,0 +1,43 @@
+X: 15950
+T: Mars du Moora
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 997733871
+%%humdrum-veritas-data 3377522174
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+g f g a g a b a |
+g2d2d3c |
+B A B c B c d c |
+B2G2G3G |
+A2A AA2A2) |
+.('A6A2 |
+B A B c B c d c |
+B2A BG2).('d2 |
+g f g a g a b c' |
+a g a ba2b c') |
+.('b2a g f g a f |
+g2g ag4) |
+.('a2a aa2b c' |
+b2a2g4 |
+g2g gg2g2 |
+g4g3f) |
+.('e2e ee2e2 |
+e4e4 |
+d2d dd2d2 |
+d4d2c B |
+d2A AA2A2 |
+A4A4 |
+B A B c) .('B c d c |
+B2G2G2).('d2 |
+g f g a g a b c' |
+a g a ba2b c') |
+.('b2a g f g a f |
+g2g ag2) |]

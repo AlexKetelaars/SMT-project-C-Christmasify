@@ -1,0 +1,46 @@
+X: 14720
+T: [Valeureux Liégeois]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1289939068
+%%humdrum-veritas-data 3656999796
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('f c A c |
+f2f2 |
+g e c e |
+g2z2) |
+.('a f f e |
+d2b g |
+!trill!!trill!f3(e/ f/) |
+f4) |
+.('f c A c |
+f2f2 |
+g e c e |
+g2z2) |
+.('a f f e |
+d2b g |
+f2e2 |
+f4) |
+.('c2c2 |
+c f e f |
+g f e d |
+c2z2) |
+.('c f a f |
+c2A2 |
+d c B A |
+A2G2) |
+.('e2f2 |
+g2z2 |
+e2!trill!!trill!f2 |
+g2z2) |
+.('c' g f e |
+e d f d |
+c2e/ d/ c/ d/ |
+c2z2) |]

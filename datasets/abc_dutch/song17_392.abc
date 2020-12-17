@@ -1,0 +1,32 @@
+X: 16391
+T: De wyn kan ons altoos verheugen Want sy verd [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:03
+%%humdrum-veritas 2642387950
+%%humdrum-veritas-data 296437381
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('z A A A D D E E |
+(F2^G2A2B/ c/ B/ c/ |
+d) d z) .('d c A B c |
+d> d d) .('A F G A B |
+c3(B/ A/)A2z2) |
+.('z A A A D D E E |
+(F2^G2A2B/ c/ B/ c/ |
+d) d) .('z d c A B c |
+d> d d) .('A F G A A |
+(c3B/ A/)A2z2) |
+.('z A (A/ B/) (c/ B/) B B (B/ c/) (d/ c/) |
+c2z2z) .('A A A |
+(B G/ F/ E A/ G/ F D/ E/ F/ G/ F/ G/ |
+A) A) .('d A (B c/ d<) c d/- |
+d2z2z) .('A A A |
+(B G/ F/ E B/ G/ F D/ E/ F/ G/ F/ G/ |
+A) A) .('d A (B c/ d< c) d/ |
+dz2) :|]

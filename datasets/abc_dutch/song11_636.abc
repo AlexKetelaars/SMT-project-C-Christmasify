@@ -1,0 +1,29 @@
+X: 10635
+T: Daar was een schoon juffer fijn, Die wilde z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3398922896
+%%humdrum-veritas-data 2840865427
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('E [I:setbarnb 1]|
+D3 |
+c2c |
+B2A |
+A2).('c |
+G G G |
+B A G |
+F2G |
+E3) |
+.('c3 |
+B A G |
+(A2B) |
+c2G |
+F2G |
+E2) |]

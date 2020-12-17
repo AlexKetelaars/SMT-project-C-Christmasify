@@ -1,0 +1,28 @@
+X: 16769
+T: Den haenen kraeij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3785811155
+%%humdrum-veritas-data 2653832415
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('daag/ f/ |
+gf/ e/fd |
+daag/ f/ |
+gf/ e/!fermata!f2) |
+.('dddd |
+dd/ e/f2 |
+dddd |
+dd/ e/f2 |
+dd/ e/f2 |
+dd/ e/f2) |
+.('daag/ f/ |
+gf/ e/fd |
+afb/ a/ g/ f/ |
+e>dd2) |]

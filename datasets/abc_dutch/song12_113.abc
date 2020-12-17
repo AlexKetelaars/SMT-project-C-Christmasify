@@ -1,0 +1,38 @@
+X: 11112
+T: Acht gy myn lyden dan niet? Ach! al te wreed [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 3903306506
+%%humdrum-veritas-data 2262134526
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('B2B2d2 |
+B2A BG2 |
+g2f g a f |
+g f g ag2) |
+.('B2B2d2 |
+B2A BG2 |
+g2f g a f |
+[M:1/2]g4) |
+[M:3/4].('g2f g a f |
+g2f g a f |
+g2f g a f |
+g4).('d2 |
+g a f g a f |
+g a f g a f |
+g a f g a f |
+g4).('d2 |
+e f e d c B |
+A4d2 |
+e f e d c B |
+A4).('B2 |
+c2c2B2 |
+A4B2 |
+c2A3G |
+G6) |]

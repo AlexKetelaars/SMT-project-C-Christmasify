@@ -1,0 +1,40 @@
+X: 16331
+T: Komt lustige vrienden, wel aen! Wy moeten de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 822661980
+%%humdrum-veritas-data 1312818925
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('e [I:setbarnb 1]|
+e3c2e |
+d c Bc2).('e |
+f d d d e c |
+(c B c)B2).('B |
+c f e ^d e f |
+(e ^d e)B2).('c |
+B A G A G F |
+E3-E2) |
+.('B [I:setbarnb 9]|
+B2>(d2 c) B |
+(A B c)A2).('A |
+(A B c) (c B) A |
+(A3G2)).('c |
+c3^B2^d |
+^d3c2).('e |
+(^d e f) (e f) d |
+c3-c2).('e |
+e3d2c |
+(d e f)d2).('d |
+d3c2B |
+{B2}c3-c2).('e |
+f3d2c |
+B3e2).('d |
+c2>(B2 A) B |
+A3-A2) :|]

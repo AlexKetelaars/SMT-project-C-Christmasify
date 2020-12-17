@@ -1,0 +1,35 @@
+X: 1489
+T: Het was al op een zomermorgen 't Was in de m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2955332528
+%%humdrum-veritas-data 2392052082
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GGFG |
+AAz).('A |
+EEAA |
+D3).('D/ D/ |
+GGFG |
+AAz).('A/ A/ |
+EEBA |
+D3).('D |
+GBdB |
+AFD).('d |
+cBAG |
+d3z/) .('D/ |
+B>Bcd |
+e2cz/) .('A/ |
+G>GA3/A/ |
+B3z/) .('D/ |
+B>Bcd |
+e2cz/) .('A/ |
+G>DB3/A/ |
+G3) |]

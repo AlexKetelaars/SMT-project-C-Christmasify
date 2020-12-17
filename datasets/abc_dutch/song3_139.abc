@@ -1,0 +1,15 @@
+X: 2138
+T: Christenen van Gods min Laat uw verstand en zin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 1458690835
+%%humdrum-veritas-data 963704270
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2FGAD2).('F(GF)EDD(DB,2)).('A,B,CD2DEDG>A(GF2)-F/) .('F<AA/GFE^CDEF>ED2).('FA2FGAB2AGFE2AFGE2).('GFED2(EF)G(FE2<)D2).('DG2BA2AE2).('FGAGFG3) |]

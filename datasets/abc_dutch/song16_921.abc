@@ -1,0 +1,44 @@
+X: 15920
+T: Menuet de Passepied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 2844157438
+%%humdrum-veritas-data 1910340710
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c4d2 |
+e d e fg2 |
+g2f2e2 |
+d4e2 |
+f2a f d f |
+e2g e c e |
+f2a f d f |
+e2g e c e) |
+.('d2c2B2 |
+c6) |
+.('g2c'2b2 |
+c'2d'2e'2 |
+d'2c'2b2 |
+a4b2 |
+c'2e' c' a c' |
+b2d' b g b |
+c'2e' c' a c') |
+.('b2d' b g b |
+a2g2^f2 |
+g6) |
+.('g2c'2c'2 |
+f2a ga2 |
+d e f e d c |
+B2A BG2 |
+c4d2 |
+e d e fg2 |
+c4d2) |
+.('e d e fg2 |
+G2c2B2 |
+c6) |]

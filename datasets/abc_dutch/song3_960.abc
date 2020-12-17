@@ -1,0 +1,35 @@
+X: 2959
+T: Vrienden luistert naar mijn lied eens ras 't [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 3691553275
+%%humdrum-veritas-data 707290816
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d d [I:setbarnb 1]|
+d d c B c d |
+B2>).('d2 e3/ d/ |
+B> A B> A G3/ A/ |
+[M:2/4]BG2).('G |
+[M:3/4]A A A/ A/ A ^c A |
+d2>).('d2 d d |
+[M:4/4]d B G G(A2^c2) |
+[M:3/4]d2>).('A2 A A |
+B B B B d d |
+[M:2/4]A) .('A A A |
+[M:3/4]B B B> B B3/ d/ |
+ed2).('G G G |
+e2>e2 g e |
+[M:2/4]d3).('d |
+[M:3/4]d c B A c3/ A/ |
+[M:2/4](G2A2) |
+[M:3/4]B2>).('d2 e f |
+[M:2/4]g> d d c |
+(B2A2) |
+G4) |]

@@ -1,0 +1,31 @@
+X: 4627
+T: Ach moeder ik kom u een vraagje te vragen Wa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 1602296364
+%%humdrum-veritas-data 897664867
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G B A G |
+G F ED2D) |
+.('E2E D G G |
+A B AG2).('D |
+G G G B A G |
+G F ED2D) |
+.('E2ED2G |
+(A B) AG2).('D |
+G G G B A3/ G/ |
+F2GA3) |
+.('G G G (F D) A |
+(A F) ED2).('D |
+G G G B A3/ G/ |
+F2GA3) |
+.('G G G (F D) A |
+(A F) ED2) |]

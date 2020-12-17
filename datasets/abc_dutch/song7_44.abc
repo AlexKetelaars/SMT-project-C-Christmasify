@@ -1,0 +1,32 @@
+X: 6043
+T: Daar was Een Prins die had een papegaaijke
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 4001384726
+%%humdrum-veritas-data 2842659312
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d>dc3/B/ |
+A>GF3/G/ |
+A2A2 |
+d2A2) |
+.('gfed |
+cBA3/c/ |
+B2E2 |
+A4) |
+.('dcde |
+Ad/ e<cd/ |
+e2e2) |
+.('d>dc3/B/ |
+AGF3/G/ |
+A2A2) |
+.('F2D2 |
+dcde |
+Agfe |
+fd/ c/d2) :|]

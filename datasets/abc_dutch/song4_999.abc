@@ -1,0 +1,23 @@
+X: 3998
+T: Kom luistert oud en jong van jaren Kom luist [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:05
+%%humdrum-veritas 3458902757
+%%humdrum-veritas-data 3053540323
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('c/ B/ A/ [I:setbarnb 1]|
+GGGA |
+(Gd)d/) .('d/ c/ B/ |
+A(G/ A/)BA |
+(DG)G).('F/ E/ |
+DGGA |
+B/> c/ d/ e/d).('c/ B/ |
+dcBA |
+G2-G/) |]

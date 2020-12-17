@@ -1,0 +1,27 @@
+X: 3429
+T: Zie de macht vraagt het offer van bloed en g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 2470819729
+%%humdrum-veritas-data 2937002871
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G/ A/ [I:setbarnb 1]|
+[M:7/8]B B d dA2A/ B/ |
+[M:6/8]c e (d/ c/)B2).('G |
+[M:8/8]Af2e ed2A/ B/ |
+[M:6/8]c B AG2).('(G/ A/) |
+[M:7/8]B B d dA2B |
+[M:6/8]c e (d/ c/)B2).('G |
+[M:7/8]F A B dc2A/ G/ |
+F A c ed2).('d/ d/ |
+[M:6/8]d e f a g3/ g/ |
+f e cB2).('G |
+[M:7/8]A f e ed2A/ B/ |
+[M:6/8]c B AG2) |]

@@ -1,0 +1,30 @@
+X: 9707
+T: Hoe is mijn hert met min belaân, hoe is mijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 1078402674
+%%humdrum-veritas-data 3902692590
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2GA2A |
+(B A) G!fermata!A2).('D |
+G2GA2A |
+(B c) B !fermata!A A) .('d |
+A2AB2B |
+(G A) BA2).('d |
+A2A (B A) G |
+(F G E)!fermata!D2).('D |
+(G A) B (c B) A |
+d2ed2).('G |
+(A B) AG2B |
+(A G) AG2).('d |
+e2e (c B) A |
+B3A3 |
+G3z2z) |]

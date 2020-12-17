@@ -1,0 +1,30 @@
+X: 9004
+T: Wie dat zich zelfs verheft temet, Werd wel e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 2239641525
+%%humdrum-veritas-data 2999493509
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('G [I:setbarnb 1]|
+ccBd |
+c(B/ A/)G).('G |
+AABG |
+c2G).('G |
+ccBd |
+c(B/ A/)G).('G |
+AABG |
+c2G).('G |
+cGAG |
+E>FG).('(F/ E/) |
+D>EFG |
+E>DC).('D |
+E>DCD |
+EGDD |
+C2) |]

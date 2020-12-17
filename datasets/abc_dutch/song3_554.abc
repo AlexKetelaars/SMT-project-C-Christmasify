@@ -1,0 +1,23 @@
+X: 2553
+T: Een schaduw rijk zei tegen mij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 3054626344
+%%humdrum-veritas-data 2131740725
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D B, D [I:setbarnb 1]|
+G2A2G F |
+C2>).('A,2 C D |
+F2E> E G D |
+[M:4/4]B,4).('D2B, D |
+[M:3/4](G B)B2A G |
+E2>).('A2 A G |
+F2F> F E F |
+G3) |]

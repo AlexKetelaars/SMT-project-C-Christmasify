@@ -1,0 +1,28 @@
+X: 2101
+T: En de boom stond in zijn schaduw En hij bloe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 2203549795
+%%humdrum-veritas-data 2144872157
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B/ d/ [I:setbarnb 1]|
+GBcc |
+d>edc |
+B2A2 |
+G3).('D |
+GDGD |
+GAB2) |
+.('AA/ A/AB/ B/ |
+AGG).('D/ D/ |
+GG/ G/G).('D/ D/ |
+GABc |
+d>edc |
+B2A2 |
+G3) |]

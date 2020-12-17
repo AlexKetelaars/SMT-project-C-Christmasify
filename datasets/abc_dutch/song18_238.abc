@@ -1,0 +1,40 @@
+X: 17237
+T: Al wie der zielen rust bemind, Die moet 'er  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 776028907
+%%humdrum-veritas-data 1568739239
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('AAA |
+B3 |
+AA3/B/ |
+G2).('G |
+ABc |
+FGA |
+G2F |
+z).('cf |
+d2d/ c/ |
+(BA3/)B/ |
+A).('d/ d/ d/ e/ |
+ffe |
+d2c ||
+z).('GA [I:setbarnb 15]|
+BB3/c/ |
+AA3/A/ |
+dd3/e/ |
+^c>).('ee |
+fe3/d/ |
+d2).('d/ f/ |
+AAB |
+ccc |
+dB3/A/ |
+B>).('GA |
+BG3/F/ |
+F3) |]

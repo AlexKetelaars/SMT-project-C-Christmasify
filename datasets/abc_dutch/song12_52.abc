@@ -1,0 +1,22 @@
+X: 11051
+T: Bote sei tjin Flikke’s Nien, Riedel di diere [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3197259795
+%%humdrum-veritas-data 581734121
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('D2FA2A |
+(d c) BA3) |
+.('A B AA2G |
+E F GF2E) |
+.('D2FA2A |
+(d c) BA3) |
+.('B2cd2G |
+F2ED3) |]

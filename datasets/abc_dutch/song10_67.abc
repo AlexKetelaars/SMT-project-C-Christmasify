@@ -1,0 +1,48 @@
+X: 9066
+T: Beste Prouw en Lis, Ge zijt getrouwd gewis
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 239808718
+%%humdrum-veritas-data 3451757107
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C2 [I:setbarnb 1]|
+(C D) A, B, |
+C3C |
+C B, A, B, |
+C3).('C |
+F F G G/ G/ |
+A A F F |
+E F G F |
+E D D C |
+C3z) |
+.('C2A, C |
+F4 |
+G2F G |
+A2F2 |
+C2A, C |
+F4 |
+G2F E |
+F4) |
+.('C2A, C |
+F4 |
+G2F G |
+A2F2 |
+C2A, C |
+F4 |
+G2F E |
+F4) |
+.('C C C C |
+D DC2 |
+C C C C |
+D DC2 |
+A2F2 |
+A2F2 |
+G G F E |
+F3z) |]

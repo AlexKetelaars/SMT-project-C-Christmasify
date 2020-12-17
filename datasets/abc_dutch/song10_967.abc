@@ -1,0 +1,42 @@
+X: 9966
+T: Het waren twee Conincskinderen, Si hadden ma [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 4131192841
+%%humdrum-veritas-data 3431688459
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F A B |
+c2d |
+c/ B/ A) .('c |
+c B A |
+G A B |
+A3- |
+A z) .('C |
+F A B |
+c2d |
+(c/ B/) A) .('c |
+c B A |
+(G A) B |
+A2z) |
+.('G3 |
+c B A |
+G A G |
+F C) .('F |
+F G A |
+B A G |
+A2z) |
+.('G3 |
+c B A |
+(G A) G |
+F C) .('F |
+F G A |
+B A G |
+F2) |]

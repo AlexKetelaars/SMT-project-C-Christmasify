@@ -1,0 +1,36 @@
+X: 11474
+T: Hjir hastou de swarte kat Fan dizze dizze dânse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:15
+%%humdrum-veritas 3598051092
+%%humdrum-veritas-data 2541217308
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('EFAG |
+FFCC |
+FFAG |
+F2C2) |
+.('BBBB |
+AAcA |
+GGAG |
+F2).('B2 |
+AAGG |
+F3z) |
+.('FFAG |
+F2CC |
+FFAG |
+F3z) |
+.('B2AA |
+GGF2 |
+B2AA |
+GGF2) |
+.('BBBB |
+A2B2 |
+GGAG |
+G2F2) |]

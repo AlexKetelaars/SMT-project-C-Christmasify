@@ -1,0 +1,15 @@
+X: 3635
+T: De maatschappij heeft uitgevonden De boerens [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 739915520
+%%humdrum-veritas-data 1990147416
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('D/GA/Bd/de<dc3/-c).('B/dc<B-Bc/BA<G-G).('D/GA/Bd/de<dc3/-c).('B/dc<B-Bc/ B/ B/ A<G-G).('G/ G/ G/ G<e-eg/ g/ f/ g<d-d).('g/ f/ f/ f/ee/de/dc<B-B) |]

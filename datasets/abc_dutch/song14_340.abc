@@ -1,0 +1,37 @@
+X: 13339
+T: E jovivat
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:33
+%%humdrum-veritas 779160979
+%%humdrum-veritas-data 937031840
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G>AGA |
+B>cB(B/ c/) |
+ddc/ B/ c/ d/ |
+Bzz) |
+.('(B/ c/) [I:setbarnb 5]|
+ddd3/B/ |
+ccc3/A/ |
+B(B/ c/) (e/ d/) (c/ B/) |
+A>BAD) |
+.('G>AGA |
+B>cB(B/ c/) |
+ddc/ B/ c/ d/ |
+.Bzz) |
+.('(B/ c/) [I:setbarnb 13]|
+ddd3/B/ |
+ccc3/A/ |
+B(B/ c/) (e/ d/) (c/ B/) |
+A>BAD) |
+.('G>AGA |
+B>cBB/ c/ |
+ddA/ G/ A/ B/ |
+Gzz) :|]

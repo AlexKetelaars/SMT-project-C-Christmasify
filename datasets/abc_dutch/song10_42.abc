@@ -1,0 +1,24 @@
+X: 9041
+T: Wie zit er in mijnen brouwersketel? Die kan  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 2168590865
+%%humdrum-veritas-data 2500865606
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+(3c c c d d |
+c c G G) |
+.('c c G G |
+c c G G) |
+.('c c d d |
+(3c c c G G) |
+.('c2c2 |
+(3c c c c c |
+d2c) |]

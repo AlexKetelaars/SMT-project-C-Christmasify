@@ -1,0 +1,15 @@
+X: 251
+T: Als een gheweldich man u hier wilt trecken T [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:31
+%%humdrum-veritas 3255886564
+%%humdrum-veritas-data 3492956605
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('zGGGG>GFFGGA2A2).('zA(A/ F/ G/ A/)B2AGGFG2).('zGGGG>GFFGGA2A2).('zA(A/ F/) (G/ A/)B2AGGFG2).('zGAA(A/ G/) (F/ E/)DB2AG2F2).('zF(G/ F/) (G/ A/)Bc2B2AB2).('zGGGG>GFFGGA2A2).('zA(A/ F/) (G/ A/)B2AGGFG4) |]

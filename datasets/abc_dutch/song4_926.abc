@@ -1,0 +1,26 @@
+X: 3925
+T: En ik groet u mijn liefste zoet Wat klachten [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 4069990185
+%%humdrum-veritas-data 254788775
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D (D E) F [I:setbarnb 1]|
+(G3c2)cB2A |
+G3-G2>).('d2 e d |
+c3A2Bc2d |
+[M:6/8]B3-B2).('G |
+G2dd2d |
+A2Bc2).('c |
+B2dG2B |
+A2AD2).('D |
+G2GA2A |
+B2Bd2G |
+[M:9/8](F E F)G2) |]

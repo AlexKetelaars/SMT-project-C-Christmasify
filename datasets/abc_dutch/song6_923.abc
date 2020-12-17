@@ -1,0 +1,32 @@
+X: 5922
+T: Moet ik noch lang op schildwacht staan Met m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 986713675
+%%humdrum-veritas-data 825524232
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G2G FE2G2 |
+(c2e) cG2z2) |
+.('d2d cB2d e |
+!mordent!!mordent!B4c2z2) |
+.('G2G FE2G2 |
+(c2e) cG2z2) |
+.('d2d cB2d e |
+!mordent!!mordent!B4c2z) .('G |
+G> G G> B B> d d3/ B/ |
+c B c de2z) .('G |
+G> G G> B B> d d3/ d/ |
+d> B c> de2z2) |
+.('G2G FE2G2 |
+c B A G (G> F)E2) |
+.('c2c c (c e) g e |
+(d c) (B A)G2z2) |
+.('d2e f e e f d |
+c2B2c4) |]

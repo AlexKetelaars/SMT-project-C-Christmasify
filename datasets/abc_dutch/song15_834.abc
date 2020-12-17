@@ -1,0 +1,58 @@
+X: 14833
+T: Walzer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 1001143571
+%%humdrum-veritas-data 2846195432
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+d4g2 |
+b4d'2 |
+(^c' d') (e' d') (c' d') |
+a2a4 |
+d e f g a b |
+c' a d' c' b a |
+g f g b a f |
+g4) :|]
+.('d2 [I:setbarnb 9]|
+!wedge!g2 (g f) !wedge!g2 |
+!wedge!g2 (g f) !wedge!g2 |
+!wedge!g2 (g f) !wedge!g2 |
+g4(e g) |
+f a d f e g |
+f a d f e g |
+f a d f e ^c |
+d4) |
+.('d2 [I:setbarnb 17]|
+(d2 c2) B2 |
+(B2 c2) d2 |
+e2 (e d c B) |
+(d2 c2) c2 |
+(c2 B2) A2 |
+(A2 B2) c2 |
+(B d) (G B) (A F) |
+G4) |
+.('z2 [I:setbarnb 25]|
+e6 |
+^d6 |
+!wedge!e2 !wedge!g2 !wedge!e2 |
+!wedge!^d2 b2 z2 |
+!wedge!e2 !wedge!g2 !wedge!e2 |
+^d2 b2 z2) |
+.('!wedge!g2 (g f) !wedge!g2 |
+!wedge!a2 (a g) !wedge!a2 |
+(b g d g b d') |
+(d' c')c'4 |
+(b g d g b d') |
+(d' c')c'4 |
+(b a g f) !wedge!g2 |
+(b a g f) !wedge!g2 |
+(g2 a2) !wedge!f2 |
+g4) |]

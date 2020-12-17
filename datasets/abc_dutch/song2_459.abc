@@ -1,0 +1,23 @@
+X: 1458
+T: Wij luijen wij luijen wij zoeken de kruiden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2418417120
+%%humdrum-veritas-data 2799231869
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+A G A G G) .('B |
+A G A G G) .('B |
+A z B A z) .('B3// B// |
+(A G) AG2).('B3// B// |
+(A G) A/> B/G2).('B3// B// |
+(A G) AG2).('G |
+(A G) A (B d)) .('B |
+(A G) AG2) |]

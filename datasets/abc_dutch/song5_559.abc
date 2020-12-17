@@ -1,0 +1,31 @@
+X: 4558
+T: In de wrede oorlogstijden Moest de jong' en  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3513593520
+%%humdrum-veritas-data 130118112
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('G2A [I:setbarnb 1]|
+B3-B2Ac2B |
+G3D2>).('(D2 G) B |
+d3-d2A c> c B |
+G3-G3).('A2B |
+A2GF2E(F2E) |
+D3-D3).('A2d |
+^c3-c2B G F E |
+[M:6/8]D3-D3) |
+[M:9/8].('(D F) E (D F) Ae2e |
+d3B2>).('A2 A B |
+c3-c2FG2A |
+[M:6/8]B3-B3) |
+[M:9/8].('(G F) E (D F) Ae3 |
+e2<d2B3).('A2 |
+B2<c2-c2DB2 |
+A2<G2-G3) |]

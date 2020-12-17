@@ -1,0 +1,88 @@
+X: 13895
+T: Allegro
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:38
+%%humdrum-veritas 3562784054
+%%humdrum-veritas-data 3618819032
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D D D D D D |
+E E E E E E |
+D D D D F F |
+G D D D D D |
+D2z2z2) |
+(3.('(b g d) (3(g d B) (3(d B G) |
+A2z2z2 |
+(3(a f d) (3(f d A) d D |
+B2B2z z/ c/ |
+B2B2z z/ c/ |
+B2A2G2 |
+!trill!!trill!d2D E F E |
+F2D2z2) |
+.('G/ A/ B/ c/ B/ A/ G/ F/ B/ A/ G/ F/ |
+E2^c2z2 |
+F/ G/ A/ B/ A/ G/ F/ E/ A/ G/ F/ E/ |
+D2B2z2 |
+E/ F/ G/ A/ G/ F/ E/ D/ G/ F/ E/ D/ |
+^C2A2z2 |
+A G F EF2 |
+(3(f d A) (3(d A F) (3(A F D) |
+(3(f d A) (3(d A F) (3(A F D) |
+z z/ G/F2!trill!!trill!E2 |
+d2d2z z/ D/ |
+d2d2z2 |
+z (B A G F E) |
+A6) |
+.('A A A A A A |
+B B B B B B |
+A A A A ^c c |
+d A A A A A |
+A A A A A A |
+A A A A A A |
+^D D F F E E |
+E E ^D D D D |
+z2).('E2G2 |
+A (e c B A G) |
+F2D2F2 |
+G (d B A G F) |
+E2C2E2 |
+F (c A G F E) |
+^D2B,2D2 |
+E2G F G F |
+E6) |
+(3.('e B G (3B G E (3G E B, |
+z2B,2B,2 |
+E E D C B, A,) |
+.('D D D D D D |
+E E E E E E |
+D D D D D D |
+C g g g g g |
+g2z2z2 |
+z g g g g g |
+g2z2z2 |
+z g g g g g |
+g2z2z2 |
+z g g g g g |
+f2z2z2 |
+z g g g g g |
+B2B2z z/ c/ |
+B2B2z z/ c/ |
+B2A2G2) |
+.('!trill!!trill!d2D E F E |
+F2D2F2 |
+G/ A/ B/ c/ d/ B/ A/ G/ d/ B/ A/ G/ |
+F2D2F2 |
+G/ A/ B/ c/ d/ B/ A/ G/ d/ B/ A/ G/ |
+(3b g d (3g d B (3d B G |
+(3b g d (3g d B (3d B G |
+z z/ c/B2!trill!!trill!A2 |
+g2g2z z/ G/ |
+g2g2z2 |
+z (E D C B, A,) |
+{A,}D6) :|]

@@ -1,0 +1,31 @@
+X: 6514
+T: Op broeders, de ziel in de kelken gestort, E [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 3018299020
+%%humdrum-veritas-data 190142085
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G> GB2A3/ G/ |
+F2F> Ad2z) .('c |
+B2c> BA2B3/ A/ |
+G4z2).('D2 |
+G2G> GB2A3/ G/ |
+F2F> Ad3).('c |
+B2c> BA2B3/ A/ |
+G4z2).('B2 |
+d2d> dd2B3/ d/ |
+c2c> cc2z) .('c |
+B2B> Bd2c3/ B/ |
+A2A> AA2z) .('d |
+d2B> dc2A3/ B/ |
+(G4e2)).('e2 |
+d2B> dc2A3/ B/ |
+G4z2) |]

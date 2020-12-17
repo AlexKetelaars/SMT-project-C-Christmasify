@@ -1,0 +1,29 @@
+X: 2068
+T: Wie is de beste in ons land De boer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 3599965165
+%%humdrum-veritas-data 2477213561
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A/ [I:setbarnb 1]|
+GG/GB/ |
+AA/Ad/ |
+B3/-B).('A/ |
+GG/GB/ |
+AA// A//Ad/ |
+B3/-B).('B/ |
+dd/ (d/ c/) B/ |
+cc/c).('c/ |
+BA/ (d/ c/) B/ |
+AA/A).('d/ |
+BB/cc/ |
+d3/).('e3/ |
+dc/BA/ |
+G3/-G) |]

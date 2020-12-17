@@ -1,0 +1,23 @@
+X: 1916
+T: En daar ginder daar op die heide Daar staat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 906330468
+%%humdrum-veritas-data 1686571054
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('B/ B/ [I:setbarnb 1]|
+GBdd2B |
+(A2B)G2).('A |
+BBBddd |
+c3z2).('G/ G/ |
+BdddcB |
+A3G2).('A |
+BdddcA |
+G2zz2) |]

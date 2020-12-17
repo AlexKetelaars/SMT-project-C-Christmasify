@@ -1,0 +1,27 @@
+X: 9624
+T: Op mijne kloefen ga ik dansen, Op mijne kloe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 2997015784
+%%humdrum-veritas-data 628369692
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C C E [I:setbarnb 1]|
+G2EF2D |
+D2C) .('E E G |
+c2GA2F |
+A2G) .('C C E |
+G2EF2D |
+D2C) .('E E G |
+c2GA2F |
+A2G) .('C C E |
+G2E/ E/F2D |
+D2C) .('E E G |
+c2GA2B |
+d2c) |]

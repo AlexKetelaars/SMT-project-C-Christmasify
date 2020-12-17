@@ -1,0 +1,30 @@
+X: 16981
+T: Pour les choeurs
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 756608896
+%%humdrum-veritas-data 2709261513
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ce [I:setbarnb 1]|
+Aef/ e/ d/ c/ |
+!mordent!!mordent!B2).('ce |
+Aef/ e/ d/ c/ |
+!mordent!!mordent!BA) |
+.('c3/c/ [I:setbarnb 5]|
+defe |
+dc).('e3/e/ |
+dec3/d/ |
+!mordent!!mordent!B2).('Be |
+^cdef |
+!mordent!!mordent!ed).('f3/f/ |
+f>e!mordent!!mordent!e3/d/ |
+e2).('ce |
+Aef/ e/ d/ c/ |
+!mordent!!mordent!BA) |]

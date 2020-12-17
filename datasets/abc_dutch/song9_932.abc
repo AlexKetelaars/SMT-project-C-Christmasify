@@ -1,0 +1,26 @@
+X: 8931
+T: Krui, kruiwagentje, rij maar voort: Ik heb e [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:51
+%%humdrum-veritas 3857099308
+%%humdrum-veritas-data 710436827
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2A2G GD2 |
+G2A2G2z) .('D |
+G G A AG2D D |
+G2A2G2z) .('D |
+G GA2G2D D |
+G2A2G2D) .('D |
+G2A2G2D D |
+G2A2G2z) .('D |
+G G A AG2D2 |
+G G A AG2z2) |
+.('G G A GG2D D |
+E2F2G4) |]

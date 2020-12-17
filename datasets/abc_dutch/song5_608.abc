@@ -1,0 +1,39 @@
+X: 4607
+T: Ach vrienden luistert zet u aan de dis Aanho [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 1386049780
+%%humdrum-veritas-data 3437379262
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(GB)d |
+dcA3// A// |
+(GB3/)A/ |
+!fermata!G2).('d |
+d>d d/ d/ |
+d/ d/^cd |
+ed3/c/ |
+!fermata!B2).('G |
+e2d/ e/ |
+dce |
+d>d (d/ c/) |
+B2).('B |
+[M:2/4]cd |
+[M:3/4]fed3// e// |
+dcA |
+B2).('G |
+e2d/ e/ |
+dce |
+d>d (d/ c/) |
+B2).('B |
+[M:2/4]cd |
+[M:3/4]fed3// e// |
+dcA |
+G2) |]

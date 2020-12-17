@@ -1,0 +1,38 @@
+X: 16603
+T: O grootste vorst
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 153709256
+%%humdrum-veritas-data 1663034626
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E2 [I:setbarnb 1]|
+A2>B2c4 |
+z (c d e2<)d2e |
+e4z2).('B2 |
+c2(c/ d/ e2<)^G2G |
+A> B A B(c2B2) |
+A4z2).('E2 |
+A2>B2c4 |
+z (c d e2<)d2e |
+e4z2).('B2 |
+c2(c/ d/ e2<)^G2G |
+A> B A B(c2B2) |
+A4z2).('A2 |
+A2E2E4 |
+z2^G2A3(B/ c/) |
+B4!mordent!!mordent!c B c d |
+d2>e2e4 |
+(d c)B4(B A) |
+^G4z2).('E2 |
+A2(A B/ c/)B3c |
+c4z2B2 |
+c d c de4- |
+e2z (d// e// f/)c3(B/ A/) |
+A6) |]

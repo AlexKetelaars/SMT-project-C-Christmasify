@@ -1,0 +1,32 @@
+X: 17527
+T: De Verloope soldaet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 1617624836
+%%humdrum-veritas-data 714003369
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c [I:setbarnb 1]|
+c2g g> a f |
+e> f dc2g |
+a2_b a> g f |
+e> f de2).('f |
+g> a g f> g e |
+d3g> a g |
+^f2gg2f |
+g3g2) |
+.('B/ c/ [I:setbarnb 9]|
+d> e d A> B c |
+B2AG2g |
+f2g d> e f |
+e> f d c>) .('g a/ b/ |
+c'2c'c'2g |
+a2a a> g f |
+e> d cB2c |
+c3c2) :|]

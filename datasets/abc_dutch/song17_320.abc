@@ -1,0 +1,59 @@
+X: 16319
+T: ‘k Vrees dat gy my niet meer bemint. Ach! ik [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3225048981
+%%humdrum-veritas-data 341940368
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+Z2 |
+z2z z z d |
+(d> c) d (e> d) c |
+(F> B) AB2z |
+z2z).('B2G |
+(=E> D) E (F> G)) .('(A/ B/) |
+(c> f) d (c> f) d |
+(c3/ d// e//) dc2).('c |
+(d> c) B (B> c) A |
+(A> B) !trill!!trill!GF2z |
+z6 |
+z2z z z) .('f |
+(f> =e) f (d> c) B |
+A2GF2z |
+z2z).('G2F |
+=E> D EA2z |
+z2z) .('(B> A) B |
+(B> G) A {A}G2z |
+z2z z z) .('d |
+G2GG3- |
+G2A (F> G) A |
+B6- |
+B2).('c (A> B) c |
+d3-d2g |
+(=e> g) fe2z |
+z2z) .('(f> c) d |
+(e> d) ed2).('d |
+c2f (f> d) e |
+(e> c) dc2).('f |
+(c3/ d// e//) de3- |
+(e> d ed2)(3(g/ f/ e/) |
+(d> e) cB2z |
+Z3 [I:setbarnb 35]|
+z z) .('d (B> A) G |
+e2zz2z |
+z z) .('cf2e |
+d2zz2z |
+z z) .('Be3 |
+z2z z z) .('B |
+(A> B) A (A> B) A |
+(A> G) AB2).('d |
+(e> d) cd2B |
+(c> B) AB2).('d |
+(e> c) d (c> A) B |
+(B> c) AG2) |]

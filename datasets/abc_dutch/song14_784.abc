@@ -1,0 +1,60 @@
+X: 13783
+T: Divert. 14.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 2374457416
+%%humdrum-veritas-data 3920802469
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=72
+K: G clef=treble
+.('g [I:setbarnb 1]|
+gdde |
+ede/ d/ c/ B/ |
+AB/ c/dc |
+{c}B>AG).('B |
+BBBc |
+cBd2 |
+d2^c2 |
+dAD).('A |
+Bg2^c |
+db2e |
+f/ d/ b/ a/ g/ f/ e/ d/ |
+^c2).('a2 |
+^g2=g2 |
+f2a/ f/ e/ d/ |
+e2g/ e/ d/ ^c/ |
+d2a/ f/ e/ d/ |
+b3/a// g//fe |
+d2).('FF |
+GGAA |
+BBFF |
+GGAA |
+DA,D) |
+.('d [I:setbarnb 23]|
+dAAB |
+BAB/ A/ G/ F/ |
+EF/ G/AG |
+F>ED).('B |
+BBBc |
+cBG2 |
+G2F2 |
+GDG,).('=f |
+=f3/g// a//gf |
+=fe2d |
+cA/ c/Bg/ B/ |
+BA).('d2 |
+^c2=c2 |
+B2d/ B/ A/ G/ |
+A2c/ A/ G/ F/ |
+G2d/ B/ A/ G/ |
+e3/d// c//BA |
+G2).('B,B, |
+CCDD |
+EEB,B, |
+CCDD |
+GDG,) :|]

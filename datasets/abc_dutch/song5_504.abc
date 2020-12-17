@@ -1,0 +1,27 @@
+X: 4503
+T: Zeg vrienden hoort naar die aardige klucht D [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 1987828576
+%%humdrum-veritas-data 166318419
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G2G G G G |
+A A AA2).('D |
+A A A A G A |
+c B A G>) .('G G/ G/ |
+d d d d ^c d |
+G3G2).('G/ G/ |
+A2A A F A |
+D3D3) |
+.('B A Bc2c |
+c d ed2).('G |
+G> A B d c B |
+A G AG2) |]

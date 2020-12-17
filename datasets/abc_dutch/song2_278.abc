@@ -1,0 +1,27 @@
+X: 1277
+T: Een dennenboom stond eens in het dal Van ond [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 1716358103
+%%humdrum-veritas-data 1760788982
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B2>c2 A B |
+G2>).('A2 B c |
+d2>e2 c d |
+B2>).('G2 G e |
+c2>e2 g e |
+(dB2)).('d e d |
+c2>A2 d3/ c/ |
+B2>).('G2 G e |
+c2>e2 g e |
+(dB2)).('d e d |
+c2>A2 d3/ c/ |
+B3) |]

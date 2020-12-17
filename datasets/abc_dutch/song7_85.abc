@@ -1,0 +1,30 @@
+X: 6084
+T: Nieuw Harlem
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 3899463929
+%%humdrum-veritas-data 160385248
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d2c BA2G F |
+E F G AF2D2) |
+.('d c d e f e f d |
+e f g ae4) |
+.('d2c BA2G F |
+E F G AF2D2) |
+.('d2c Bc2B A |
+^G A B GA4) :|]
+.('f e f de4 |
+e d c ed4) |
+.('d e c dB2f2 |
+g f e dc2A2) |
+.('f e f dg4 |
+g f g ef4) |
+.('f e f dc2d e |
+f d e cd4) |]

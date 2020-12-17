@@ -1,0 +1,23 @@
+X: 2435
+T: Een rijke heer ging eens van huis In zeven j [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 3078251839
+%%humdrum-veritas-data 3991327465
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D G A [I:setbarnb 1]|
+B2>D2 G A |
+B2>).('B2 c B |
+A2>G2 A c |
+B2>).('B2 c B |
+[M:6/8](A B) dd2d3// c// |
+(B/> A/)G2).('(A/ B/) c B |
+A3G/ G/ (A/ c/) B/ A/ |
+GD2) |]

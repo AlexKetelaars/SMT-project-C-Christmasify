@@ -1,0 +1,27 @@
+X: 10000
+T: Ik voer al over zee, wil je mee? Ik voer al  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 3605807505
+%%humdrum-veritas-data 1786998184
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+EEEF |
+GG/ F/E).('(E/ G/) |
+BBAA |
+G2z).('E |
+ccec |
+B>cBz) |
+.('GG/ G/FF/ F/ |
+B,B,B,z/) .('B,/ |
+EEGG |
+(B>cB)).('A |
+GGFF |
+E3) |]

@@ -1,0 +1,52 @@
+X: 7648
+T: March b
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 1808861937
+%%humdrum-veritas-data 3207423685
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+d2d d d g f g |
+e2e e e g f g |
+d2).('c B c A (3(B c d) |
+B2A BG2A2) |
+.('B B A A B B ^c c |
+d d ^c cd2e2 |
+f2).('e f g f e d |
+^c2B cA2).('a2 |
+A6e2 |
+f e d e2<!trill!!trill!e2d |
+d6) |
+.('A2 [I:setbarnb 12]|
+A A F F D A d c |
+B2A BG2).('B2 |
+E E G B e g f e |
+^d e f dB2).('f2 |
+g f g e f e f ^d |
+g e B g f ^d B f) |
+.('g f e f2<f2e |
+!trill!!trill!e6).('g2 |
+d d g g e e g g |
+d d g g e e g g) |
+.('e2e d c d c B |
+A2A AA2).('A2 |
+B B d d A A d d |
+B B d d A A d d) |
+.('B2d AB2A F |
+G8) :|]
+.('G8 |
+B8 |
+d8 |
+g8 |
+d8 |
+B8 |
+G8 |
+D8 |
+A4{G A}G4) |]

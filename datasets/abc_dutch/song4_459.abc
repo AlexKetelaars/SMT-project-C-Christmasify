@@ -1,0 +1,23 @@
+X: 3458
+T: Moeder mag ik trouwen gaan 'k Heb er een minnaar
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 1166891595
+%%humdrum-veritas-data 1447642566
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d2dd2d |
+e d d) .('B> B d |
+d3c3- |
+c3).('c> c e |
+(eg2)d3) |
+.('d2gf2f |
+e2ed3) |
+.('d2e f e d |
+d2cB3) |]

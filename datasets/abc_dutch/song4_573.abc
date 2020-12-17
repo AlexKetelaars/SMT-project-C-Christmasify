@@ -1,0 +1,31 @@
+X: 3572
+T: Sa ras verheugt u al gelijk 'k Zal weer een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:01
+%%humdrum-veritas 2336102537
+%%humdrum-veritas-data 3057753132
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2cB2d |
+c2A!fermata!B2).('d |
+d2c (B d) B |
+BA2-A2).('d |
+d2cB2d |
+c2A!fermata!B2).('d |
+d2c (B d) B |
+B!fermata!A2z) .('A B |
+cc2c d e |
+d2>).('B2 A B |
+c3c/> c/ d e |
+d2>).('B2 A B |
+c2>c2 d e |
+d2>).('B2 A B |
+c e d d c A |
+G3-G2) |]

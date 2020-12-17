@@ -1,0 +1,15 @@
+X: 203
+T: Siet hoe fyn end lieflick is t'allen stonden [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3440293323
+%%humdrum-veritas-data 1299913528
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('F4A4G4F2c2d2f2e2c2d4c4z4).('f4f2e2f4c4d2d2c2A2B4A4z4).('c4A4d4c2B2A4G4F4z4).('F4A2B2c4d4e2c2d2e2f4z4).('f4e2d2c4A4d2d2c2B2c4z4).('F4c4d4c2B2A4G4F4) |]

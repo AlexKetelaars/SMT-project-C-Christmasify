@@ -1,0 +1,40 @@
+X: 7014
+T: No544
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:33
+%%humdrum-veritas 914691429
+%%humdrum-veritas-data 3498547311
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=66
+K: D clef=treble
+.('d2D D F F A A |
+d2d dd2e2 |
+f e f g f a g f |
+e d c BA2).('e2 |
+f2a fe2a e |
+f2a fe2a e |
+f ^g a ba2g2 |
+a2A A c c e e |
+a6x2) |
+.('e f e d c BA2 |
+e2f2g4 |
+f2g f e d c B |
+^A2F2F2).('c2 |
+d2f dc2f c |
+d2f dc2f c |
+d f b cd2!trill!!trill!c B |
+B4z) .('g f g |
+a2g f e g f e |
+f a g fe2F G |
+A2G F E G F E |
+F A G FE2).('a g |
+f d f a e A e g |
+f d f a e A e g |
+f g a bf2!trill!!trill!e2 |
+d2D D F F A A |
+d6) :|]

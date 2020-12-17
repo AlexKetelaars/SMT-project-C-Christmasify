@@ -1,0 +1,39 @@
+X: 12943
+T: Nr. 37
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:29
+%%humdrum-veritas 1272764622
+%%humdrum-veritas-data 2129100648
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('g8{f/} e2 d c |
+(g2 f2)d8 |
+(e2 g2) (g2 c'2) c'2 e2 |
+{e}d4(c2 B2) (A2 G2)) |
+.('g8{f/} e2 d c |
+g2 f4<d4f2 |
+(3e2 g2 a2 {c2}B8 |
+{B2}c12) |
+.('d8{c/} B2 A G |
+(e4c4)(e c) (e c) |
+f4d4(f d) (f d) |
+g4(e g a g) (c' g a g) |
+g4).('(e g a g) (c' g a g) |
+(g e) (a g) (f d) (g f) (e c) (f e) |
+(e d) !wedge!G !wedge!A !wedge!B !wedge!c !wedge!d !wedge!e !wedge!f !wedge!g !wedge!a !wedge!b |
+!wedge!c' !wedge!g (e g) (f a) (d f) (e g) (c e) |
+{e}d4(c2 B2) (A2 G2)) |
+.('g8{f/} e2 d c |
+(g2 f2)d8 |
+(e2 g2) (g2 c'2) (c'2 e2) |
+{e}d4(c2 B2) (A2 G2)) |
+.('g8{f/} e2 d c |
+g2 f4<d4f2 |
+(3e2 g2 a2 {c2}!trill!!trill!B8 |
+{B2}c12) |]

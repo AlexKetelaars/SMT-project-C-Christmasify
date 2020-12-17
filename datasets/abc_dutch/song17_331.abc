@@ -1,0 +1,30 @@
+X: 16330
+T: Myn Schoone, die ik teer bemin, Houd uw beko [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1720781553
+%%humdrum-veritas-data 2438504992
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('BAG |
+d2g |
+(^fg)a |
+c3) |
+.('BAG |
+F2{c d}e |
+(3(d/ c/ B/!trill!!trill!c3/)B/ |
+B3) |
+.('dgf |
+(e/ d/c)B |
+(Af)e |
+d3) |
+.('dcB |
+(AG/ ^F/)G |
+(3(e/ d/ c/ {B2}!trill!!trill!A3/)G/ |
+G3) :|]

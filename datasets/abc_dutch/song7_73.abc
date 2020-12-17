@@ -1,0 +1,38 @@
+X: 6072
+T: Mars
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 2382633867
+%%humdrum-veritas-data 3169745842
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('F G [I:setbarnb 1]|
+A2A BA2B c |
+d A F AD2).('c d |
+e2A BA2d e |
+f e f ga2g f |
+e d c BA2).('F G |
+A2A BA2B c |
+d A F AD2).('c d |
+e2A2A2e2 |
+f e d c2<B2A |
+A6) |
+.('c d [I:setbarnb 11]|
+e d e f e f e f |
+e d c BA2).('F G |
+A G A B A B A B |
+A G F ED2).('A2 |
+B c A c B c A c |
+B2G2G2).('B2 |
+c d c d c d c d |
+c2A2A2).('e f |
+e2d cd2e2 |
+f e f g f e f g |
+a c d ef2e c |
+d4) |]

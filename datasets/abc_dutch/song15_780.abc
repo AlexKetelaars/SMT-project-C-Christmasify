@@ -1,0 +1,60 @@
+X: 14779
+T: Trio
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 2569577922
+%%humdrum-veritas-data 3832694545
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('GzG3/G/ |
+Gz) ]|:
+.('(D2 [I:setbarnb 3]|
+^D2E2) |
+e2e2 |
+(ed)(d^c) |
+d2).('d2 |
+^c2d2 |
+c2c2 |
+(cB)(B^A) |
+B2).('(D2 |
+^D2E2) |
+e2e2 |
+(ed)(d^c) |
+d2).('B3/^c/ |
+d2F3/G/ |
+A2A,3/B,/ |
+A,GEG |
+F2) :|]
+.('D2 [I:setbarnb 19]|
+G3A |
+G2A2 |
+B3c |
+B2).('Bc |
+d2d2 |
+c2c2 |
+B4- |
+B2) ]|:
+.('GA [I:setbarnb 27]|
+B3c |
+B2G2 |
+A3B |
+A2).('A2 |
+G2B2 |
+cBAG |
+F3G |
+F2).('D2 |
+G3A |
+G2A2 |
+B3c |
+B2).('Bc |
+d2d2 |
+c2A2 |
+B2d2 |
+B2 :|]
+z2) |]

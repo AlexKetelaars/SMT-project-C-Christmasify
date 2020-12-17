@@ -1,0 +1,30 @@
+X: 461
+T: Stemme Nova
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1999191510
+%%humdrum-veritas-data 1772030781
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('z2dc |
+=B2c/ d/ c/ _B/ |
+A/ B/G).('dd3// e// |
+fBA3/B/ |
+c).('Adc |
+Bc/ B<AG/ |
+G2) |
+.('G/ A/ B/ c/ [I:setbarnb 8]|
+dd).('gg |
+^f2ga |
+b).('ffe |
+f2f/ e/ d/ c/ |
+B>).('Bc3/c/ |
+dGdc |
+d).('c/ B<AG/ |
+G2) :|]

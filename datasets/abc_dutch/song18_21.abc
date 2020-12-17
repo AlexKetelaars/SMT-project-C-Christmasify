@@ -1,0 +1,44 @@
+X: 17020
+T: Bouree
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3819503154
+%%humdrum-veritas-data 507258181
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('g [I:setbarnb 1]|
+dba3/b/ |
+!mordent!!mordent!^f3/e// f//gd |
+_ecd/ c/ B/ A/ |
+BG).('_e3/e/ |
+_ecf3/f/ |
+!mordent!!mordent!f3d |
+gc!mordent!!mordent!c3/B/ |
+B3) |
+.('d/ e/ [I:setbarnb 9]|
+f>f!mordent!!mordent!g-g/ f// g// |
+af2).('a/ a/ |
+!mordent!!mordent!g>f!mordent!!mordent!e3/d/ |
+!mordent!!mordent!^c>aef |
+d>e!mordent!!mordent!e3/d/ |
+d3).('a/ a/ |
+bg2d/ d/ |
+_ece3/e/ |
+f>f!mordent!!mordent!^f3/g/ |
+a3).('b |
+g>aa3/g/ |
+g3).('d/ d/ |
+_e>d!mordent!!mordent!c3/B/ |
+A3d |
+GA!mordent!!mordent!A3/G/ |
+G3).('d/ d/ |
+_ed!mordent!!mordent!c3/B/ |
+A3d |
+GA!mordent!!mordent!A3/G/ |
+G4) |]

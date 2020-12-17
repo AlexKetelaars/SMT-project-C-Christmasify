@@ -1,0 +1,26 @@
+X: 3855
+T: ’t Was er op enen avond zo laat dat ik er gi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 838471114
+%%humdrum-veritas-data 2345315235
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2B AG2(G A) |
+B2B A2<G2).('A |
+B2B A B> B e e |
+d2d cB2).('G B |
+d2d> dd2e3/ d/ |
+(c2e2)e3).('c |
+B2>A2B2d2 |
+(A2d2)d2).('G B |
+d2d2c2c2 |
+(B A B cd2)).('G B |
+d2d2c2c2 |
+B4z4) |]

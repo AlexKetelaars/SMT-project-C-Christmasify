@@ -1,0 +1,31 @@
+X: 7318
+T: Als Pierlala nu ruym twee jaer Gelegen had i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2211694031
+%%humdrum-veritas-data 2161053858
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A2Bc2d |
+e2cA2B |
+c2cd2d |
+e2>-e2 z) .('E |
+A2Bc2d |
+e2cA2B |
+c2cd2d |
+e2>-e2 z) .('e |
+e2c (c d) e |
+f2dd2d |
+d2B (B c) d |
+e2c A z) .('E |
+A2Bc2d |
+e2cA2B |
+c2cB2B |
+A3-A2z) |]

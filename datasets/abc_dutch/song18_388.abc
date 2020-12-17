@@ -1,0 +1,44 @@
+X: 17387
+T: Het Vaandelgeswier
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:12
+%%humdrum-veritas 426918077
+%%humdrum-veritas-data 535825086
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c2 [I:setbarnb 1]|
+f e f g f g a g |
+f2c2c4 |
+A G A B A B c B |
+A2F2F4) |
+.('G2G GG2G2 |
+G6G2 |
+A G A B A B c B |
+A2F2F2).('c2 |
+f e f gf2f2 |
+g f g ag2b2 |
+a2g f e f g e |
+f2f2f2) |
+.('f2 [I:setbarnb 13]|
+g f g ag2b2 |
+a2g2f4 |
+f e f gf2a2 |
+f4f4) |
+.('d c d ed2f2 |
+d2c2B4 |
+c2c cc2c2 |
+c6B A) |
+.('G2G GG2G2 |
+G6G2 |
+A G A B A B c B |
+A2F2F2).('c2 |
+f e f gf2f2 |
+g f g ag2b2 |
+a2g f e f g e |
+f2f2!fermata!f2) :|]

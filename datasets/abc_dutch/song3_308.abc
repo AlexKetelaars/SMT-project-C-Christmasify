@@ -1,0 +1,22 @@
+X: 2307
+T: Blauw zijn de bloempjes fijn Hoe kan het moo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 2695849594
+%%humdrum-veritas-data 2990604966
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B2A3/G/ |
+FED2) |
+.('(Bd)cB |
+AGF2) |
+.('D2E3/G/ |
+DcB2) |
+.('A2EF |
+G4) |]

@@ -1,0 +1,39 @@
+X: 18018
+T: Waar heen mijn ziel waar heen? daar is op aa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 3416790385
+%%humdrum-veritas-data 1890067341
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+g2 d c B2 d2 |
+g4z2) .('d2 |
+e c g2 (g2 f) e |
+(e4d2) c B |
+c A e2 (e2 d) c |
+(3B A GG4).('d2 |
+(^c d e f) (e f) (g a) |
+(g2 f2) z2) .('a2 |
+B2> g2 f2 e2 |
+(3f e d d2b4 |
+a g (3g f e {d} !trill!!trill!e3 d |
+d6x2) |
+.('d2 d2 =f2 (3f e d |
+(d4c2) c B |
+c B e2 e2 d c |
+(c4B2)) .('d c |
+B2 d2 g2 b2 |
+b2a4g f |
+g b a g f e d c |
+{c}B6).('d c |
+B2 d2 g2 c'2 |
+b2a4g d |
+e c B A2< {G2 A2} A2 G |
+G6) :|]

@@ -1,0 +1,36 @@
+X: 4445
+T: Vrouwtje het is vastenavond We komen niet th [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 2616029324
+%%humdrum-veritas-data 156203796
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d de2e |
+d3B2).('B |
+d> d de2e/ e/ |
+d3B2).('B |
+d> d dd2d |
+e2ee3) |
+.('d2d d> d d |
+e2ee2).('d |
+d d d d d d |
+B2BB2).('B |
+d2de2e |
+d3B2).('B |
+d d de2e |
+d3B2).('B |
+d d dd2d/ d/ |
+d2de2).('d/ d/ |
+d2dc2d |
+e3e3) |
+.('d2de3 |
+d2de3) |
+.('d2dd2d |
+B2BB3) |]

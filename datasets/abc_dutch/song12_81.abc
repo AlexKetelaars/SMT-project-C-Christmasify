@@ -1,0 +1,56 @@
+X: 11080
+T: A Mossieu! sa lustick wilze jou Wat fan mon  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3943960932
+%%humdrum-veritas-data 393903887
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2d2 |
+d3d |
+A>BA3/G/ |
+F2).('A2 |
+D>CD3/E/ |
+F2).('B2 |
+A>^GA3/B/ |
+A2d2 |
+B>AB3/c/ |
+B2).('e3/d/ |
+e3(d/ c/) |
+B3A |
+^G3A |
+A4- |
+A2).('E2 |
+A2A2 |
+A2G2 |
+F>EF3/G/ |
+F2A2 |
+d2d2 |
+d2c2 |
+B>AB3/c/ |
+B2).('A2 |
+G2G2 |
+G2F2 |
+E>DE3/F/ |
+E2).('A2 |
+B2c2 |
+d2B2 |
+e>dc3/B/ |
+A2).('(dF) |
+(G>AG3/)F/ |
+E3D |
+(D>ED3/E/ |
+F>GF3/G/ |
+A>BA3/B/ |
+c>Bc3/A/) |
+d2) |]
+.('(dF) [I:setbarnb 39]|
+(G>AG3/)F/ |
+E3D |
+D4) |]

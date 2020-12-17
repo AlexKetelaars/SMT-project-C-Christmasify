@@ -1,0 +1,25 @@
+X: 10584
+T: En toen ik voor ‘t eerst op die molen kwam,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:07
+%%humdrum-veritas 3701589819
+%%humdrum-veritas-data 308983279
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G/ G/ [I:setbarnb 1]|
+EGEG/ G/ |
+FED).('E/ E/ |
+FEDC |
+G/> A/ B/> A/G2) |
+.('GGEG |
+A2D2 |
+A/ A/ A/ B/c).('A/ A/ |
+GAGA/ A/ |
+G2F2 |
+E2) |]

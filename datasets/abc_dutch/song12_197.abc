@@ -1,0 +1,42 @@
+X: 11196
+T: De wereld leit vol grouwzaamheden, Vol van b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 267479402
+%%humdrum-veritas-data 1369248156
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C/ F/ G/ [I:setbarnb 1]|
+A2(A/ B/) |
+(c>d)c |
+AFz) |
+.('GA=B |
+c2c |
+G2(A/ =B/) |
+czz) |
+.('AA(G/ A/) |
+F2(A/ B/) |
+(c>d)c |
+AFz) |
+.('GAB |
+c2c |
+G2(A/ B/) |
+c2z) |
+.('ABc |
+c2d |
+c2c |
+(A/ G/)F2) |
+.('ABc |
+G3) |
+.('cAF |
+G2(A/ B/) |
+(c>d)c |
+AF).('A |
+(c>B) A/ G/ |
+Fzz) |]

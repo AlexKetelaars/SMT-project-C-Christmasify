@@ -1,0 +1,15 @@
+X: 589
+T: Die boose sprack in zijn ghedacht Dat hy tot [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 1036387071
+%%humdrum-veritas-data 2564072119
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('E4G4G4A4c4(B2>A2B2)B2A4z2).('G2c4d4e4e2f4<(A4GFE4C4c2>B2AG2<A2GE2F4)E4-E4x4).('E4G4G4A4c4(B2>A2B2)B2A4z2).('G2c4d4e4(e2f4<)(A4GFE4C4c2>B2AG2<A2GE2F4)E4-E4).('z2C2E4A4G4c4B4e4(d2>c2BcdcB2AGA2)A2G4).('c4B4c4G4z2).('F2G4A4E4z2).('D2E4G4C4D2(E2>D2)(A4G2F4)E4) |]

@@ -1,0 +1,25 @@
+X: 2411
+T: Gooi los die touwen en haal bij die zeilen K [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:51
+%%humdrum-veritas 1285187200
+%%humdrum-veritas-data 1548938793
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G/ [I:setbarnb 1]|
+GA/ c/ (c/ B/)A |
+GB/> B/AD) |
+.('GA/ B/ (c/ B/)A |
+Bcd2) |
+.('GB/ c/dd |
+eeed) |
+.('ee/ e/dd |
+^cAd2) |
+.('ee/ e/dd |
+c>AG2) |]

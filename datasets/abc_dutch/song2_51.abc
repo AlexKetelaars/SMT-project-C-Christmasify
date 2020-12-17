@@ -1,0 +1,25 @@
+X: 1050
+T: D’r wasse twei keuningskinder Dij haren de l [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 3744165110
+%%humdrum-veritas-data 2500272840
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+(D B) B B (B A) (A B) |
+A4G3).('D |
+(D c) c c c B d B |
+A4-A2).('D2 |
+(D d) d d (d c) c c |
+(B2d2)(d c)) .('(B A) |
+G2G2A2A2 |
+B4).('A4 |
+B2B2(d c) (A B) |
+G4-G3) |]

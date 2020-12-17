@@ -1,0 +1,43 @@
+X: 16637
+T: Kom nader
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2960311358
+%%humdrum-veritas-data 841664563
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+A B c de2f e |
+d2>c2B4 |
+z2).('c2A3^G |
+A2>B2c3d |
+e4z) .('(c d e) |
+e2>e2g2B2 |
+c2>B2A3^G |
+A2>B2c3d |
+B> c A> B^G2G2 |
+z2).('E2A3B |
+c2>B2A3e |
+(f e) (d c2<)B2(c// B// A/) |
+^G2A2B2c (B/ A/) |
+^G3/ ^F// G// (A B)E2z) .('B |
+(c B) (c B) (e d) (c B) |
+A3(B/ A/)^G3G |
+A2(A/ B/ c) c> B c3/ d/ |
+e2-e/ d/ c/ B/A2(f e) |
+d2>c2c4 |
+z2).('e2B3c |
+A3(B/ A/)^G3E |
+A2B2c3(e// d// c/) |
+f e d cB2B2 |
+e2e/ d/ c/ B/A4 |
+z) .('e a> ef3e |
+d2>e2B3c |
+d2e/ d/ c/ B/(B3A) |
+A6) |]

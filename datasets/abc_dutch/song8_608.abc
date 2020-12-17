@@ -1,0 +1,22 @@
+X: 7607
+T: No 33
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 2043585610
+%%humdrum-veritas-data 984783853
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A>Bcc |
+B>cdB) |
+.('cdef/ e/ |
+d>ee2) |
+.('eeB3/c/ |
+de^G2) |
+.('ABcd/ c/ |
+B>AA2) :|]

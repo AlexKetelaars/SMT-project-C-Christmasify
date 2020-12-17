@@ -1,0 +1,30 @@
+X: 3471
+T: Een boertje dat naar de markt wou gaan Al me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 2341431757
+%%humdrum-veritas-data 3978585797
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+d2G2G> G F G |
+A4z) .('A/ A/ A/ A/ B |
+c2A2F2(E F) |
+G6).('(B c) |
+d2G> G G G A B |
+c4z) .('c B A |
+d2d2A3d |
+d8) |
+.('G2B2d2c B |
+[M:3/4]c> de2d c |
+B> cd4) |
+[M:4/4].('B2c2e2d c |
+[M:3/4]B> cd2c B |
+A2B2E3/ F/ |
+[M:4/4]G4z2) |]

@@ -1,0 +1,30 @@
+X: 13643
+T: Englis Almande
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 3556866875
+%%humdrum-veritas-data 1427836810
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('C2 C C C2 G,2 |
+C2 G,2C4) |
+.('c d e f g2 a g |
+f2 e2 e2 d2) |
+.('C2 C C C2 G,2 |
+C2 G,2C4) |
+.('c2 d e f2 e2 |
+e4d4) |
+.('g2> f2 e f g e |
+f g a fd4) |
+.('f2 a g f e d c |
+B c d BG4) |
+.('g a g f e f g e |
+f g a fd4) |
+.('f e d c B c d B |
+c4c4) :|]

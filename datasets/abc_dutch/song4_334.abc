@@ -1,0 +1,23 @@
+X: 3333
+T: Zo leven wij zo leven wij zo leven we alle dagen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 801442596
+%%humdrum-veritas-data 1977472951
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> G D> G G> G D3/) .('D/ |
+G3/ G// G// G> AB2A2) |
+.('B B/ B/ B cd2c3/) .('B/ |
+A2A> BA2z) .('A |
+A> B A> G (F> E) D3/) .('D/ |
+(3A A A A Bc2z) .('c |
+B> B B> c d> d) .('d3/ c/ |
+B> B A> AG2z) |]

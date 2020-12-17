@@ -1,0 +1,32 @@
+X: 3004
+T: Ik had een goed gedacht ging spoedig op de j [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 1851567263
+%%humdrum-veritas-data 2134835007
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D B B ^AB2z D |
+D B B ^AB2z) .('d |
+B A A ^GA2z B |
+A G G GG2z) .('D |
+D B B ^AB2z D/ D/ |
+D B B ^AB2z2 |
+z4).('B2B3/ ^c/ |
+d2^c Bd2c B |
+d2^c2B) .('d c d |
+c2A2F2E2 |
+E2D2z) .('B ^A B |
+d2c2z c B c |
+e2d2z) .('d ^c d |
+c2A2F2E3/ F/ |
+E DD2z) .('B ^A B |
+d d d de2d2 |
+G2z2z3) |]

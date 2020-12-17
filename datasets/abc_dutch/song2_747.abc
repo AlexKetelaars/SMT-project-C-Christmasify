@@ -1,0 +1,32 @@
+X: 1746
+T: Kom laat ons nu zo stil niet zijn En laat on [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2654807331
+%%humdrum-veritas-data 2131845025
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d d f [I:setbarnb 1]|
+[M:2/4]e2d2 |
+e d A3/) .('B/ |
+c B A G |
+d2B2 |
+z) .('d d f |
+e2d3/ d/ |
+e d A) .('B/ B/ |
+c B A G |
+d2B2) |
+.('d> e d3/ c/ |
+B d G z) |
+.('d> e d3/ c/ |
+[M:3/4]B d G) .('B c B |
+[M:2/4](A d)d2 |
+[M:3/4]f e d) .('e f e |
+d2A2B ^c |
+d3) |]

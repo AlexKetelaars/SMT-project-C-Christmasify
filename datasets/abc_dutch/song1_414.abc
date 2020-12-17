@@ -1,0 +1,39 @@
+X: 414
+T: Prins Robbert Masco
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2208631412
+%%humdrum-veritas-data 447175795
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F [I:setbarnb 1]|
+BAGc |
+F>EDd |
+ABGA |
+D3).('F |
+BAGc |
+F>EDd |
+ABGA |
+D3).('G |
+c>BAG |
+A>BAF) |
+.('cAGc |
+F/ B/ A/ G/FF |
+C>).('GEC |
+F>BAD |
+AFGA |
+D3).('G |
+c>BAG |
+A>BAF) |
+.('cAGc |
+F/ B/ A/ G/FF |
+C>).('GEC |
+F>BAD |
+AFGA |
+D3) |]

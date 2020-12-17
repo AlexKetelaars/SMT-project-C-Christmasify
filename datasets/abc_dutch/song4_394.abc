@@ -1,0 +1,27 @@
+X: 3393
+T: Komt vrienden kameraden En luistert naar mijn lied
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:59
+%%humdrum-veritas 3441031857
+%%humdrum-veritas-data 2921908205
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> G G A |
+(G F) E) .('D |
+G> A B A |
+D3).('B/ B/ |
+A d e d |
+(c B) A) .('G/ G/ |
+F D B3/ A/ |
+G3).('B/ B/ |
+A d e d |
+(c B) A) .('G/ G/ |
+F D B3/ A/ |
+G3) |]

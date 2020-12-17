@@ -1,0 +1,27 @@
+X: 9725
+T: Twee groote kooplie van de stad, die samen v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:59
+%%humdrum-veritas 584513944
+%%humdrum-veritas-data 1579689531
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('D [I:setbarnb 1]|
+GABA |
+GDD).('D |
+G3A |
+BBcc |
+(d2cB) |
+A2).('A2 |
+BBAA |
+G(A/ B/)c2- |
+c2).('(dc) |
+BB(AG) |
+AG(^FA) |
+G2) |]

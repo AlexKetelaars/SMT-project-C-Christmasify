@@ -1,0 +1,28 @@
+X: 11394
+T: En er stond een boom in ‘t aarderijk en bloe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:14
+%%humdrum-veritas 4008497714
+%%humdrum-veritas-data 3350280605
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('A,/ A,/ [I:setbarnb 1]|
+DEFG |
+A>BAG |
+(FA)EA |
+D3).('F |
+AGFG |
+AGFG |
+A/ A/ G/ F/EF |
+A>GF).('F3// G// |
+AA/> G/F).('A,/ A,/ |
+DEFG |
+A>BAG |
+(FA)EA |
+D3z) |]

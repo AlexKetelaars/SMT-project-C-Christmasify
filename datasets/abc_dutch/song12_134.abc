@@ -1,0 +1,43 @@
+X: 11133
+T: Couragie! dat gaat’er op lós! Om t’ avond me [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 2934571454
+%%humdrum-veritas-data 3386655917
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+A>Bc |
+d>e^c |
+d3) |
+.('f3 |
+c>Bc |
+dc_B |
+A3 |
+F2).('A |
+A>Bc |
+d>e^c |
+d3) |
+.('f3 |
+c>Bc |
+dc_B |
+A3 |
+F2).('c |
+c>Bc |
+c>Bc |
+d>ed |
+^c2).('c |
+d>ed |
+^c>BA |
+d>cd |
+e3) |
+.('f3 |
+e>fd |
+e>d^c |
+d3) |]

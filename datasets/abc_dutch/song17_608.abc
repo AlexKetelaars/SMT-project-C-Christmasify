@@ -1,0 +1,40 @@
+X: 16607
+T: O Jesus
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 3061570419
+%%humdrum-veritas-data 1466704170
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A2B2c3(B/ A/) |
+f2>e2e2z2 |
+(e3d/ c/)c2c2) ||
+[M:3/2].('(c2d4<e4)^f2 [I:setbarnb 5]|
+g8c4 |
+(f4e4)d4 |
+(e4d8) |
+c12) ||
+[M:4/4].('z e f g2<a2f [I:setbarnb 10]|
+(e d/ c/) (c d2<)d2e |
+e4z2).('d2 |
+d3(e// f// g/)f2(f e) |
+d2>c2B2z e |
+A2>B2c3c |
+d2>e2f2(e d) |
+(d2>c2)c4) |
+.('z4^G2A3/ B/ |
+c2!mordent!!mordent!c/ d/ e/ d/c3B |
+B4z2e2 |
+^d2>e2^f2(g f) |
+^f2>e2e2z) .('e |
+f> e d> eA2(f e) |
+d4d2z) .('e |
+c2(B A2<)^G2A |
+B2(B c/ d/)c3(B/ A/) |
+A8) |]

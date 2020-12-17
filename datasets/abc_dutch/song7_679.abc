@@ -1,0 +1,25 @@
+X: 6678
+T: Ic stont op hooghe berghen, Ic sach te seewaert in
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 1163959119
+%%humdrum-veritas-data 2105260561
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('D [I:setbarnb 1]|
+AA=B^c |
+d2A3/).('=B/ |
+c>e=B3/A/ |
+A3).('D |
+AA=B^c |
+d2A).('A |
+cF/ F/FA |
+G3).('C |
+D/ E/ F/ G<DD/ |
+D3) |]

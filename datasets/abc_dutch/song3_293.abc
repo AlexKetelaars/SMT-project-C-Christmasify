@@ -1,0 +1,21 @@
+X: 2292
+T: Jan Alberts, Jan (H)Alberts die zit in het w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 2234986161
+%%humdrum-veritas-data 1544433484
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B B [I:setbarnb 1]|
+B2B ed2e d |
+c2d dB2).('G G |
+E2G GA2G F |
+E2D DG2).('D D |
+[M:6/4]F F B BA4E2B2 |
+[M:4/4]c2B AG2) |]

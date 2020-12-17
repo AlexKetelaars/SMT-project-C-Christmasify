@@ -1,0 +1,30 @@
+X: 4491
+T: Hier omtrent de voskapel Een ieder kent de m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 1176631019
+%%humdrum-veritas-data 3887156916
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d d d g |
+B B B d) |
+.('G G/ G/ G B |
+(e d)A2) |
+.('d d/ d/ d g |
+B B B d) |
+.('G G G B |
+(e d)A2) |
+.('d d g g |
+f ec2) |
+.('c> c a g |
+f ed2) ]|:
+.('d> d d/ d/ c |
+B B B) .('A/ A/ |
+B e d3/ F/ |
+G2) :|]

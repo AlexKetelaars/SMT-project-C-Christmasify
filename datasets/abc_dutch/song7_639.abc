@@ -1,0 +1,25 @@
+X: 6638
+T: Lieve vogels! brengt mijn groeten, Brengt di [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 3614925232
+%%humdrum-veritas-data 3185088334
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E G [I:setbarnb 1]|
+B2>B2 (=A B c3/) B/ |
+(B =A)_A2z2).('A A |
+(A F) (F D)(B,2C) D |
+E4z2).('B B |
+(e d) (c B) (A G) (F E) |
+(C> c)c2z2).('A c |
+(c2B) B(B2c) d |
+e4).('(f e d) c |
+c2>B2B3D |
+E4z2) |]

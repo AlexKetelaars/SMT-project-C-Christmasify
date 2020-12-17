@@ -1,0 +1,31 @@
+X: 9137
+T: Er is een kindetje geboren op d’aard, Er is  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 2704140133
+%%humdrum-veritas-data 2389998475
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('D [I:setbarnb 1]|
+F2E |
+D/ D/DF |
+AAB |
+A2).('D |
+F2E |
+D/ D/DF |
+AAB |
+A2z) |
+.('GBG |
+FAF |
+EFG |
+A2z) |
+.('GBG |
+FAF |
+EFE |
+D2) |]

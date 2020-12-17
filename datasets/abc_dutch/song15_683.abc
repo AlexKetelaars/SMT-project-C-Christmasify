@@ -1,0 +1,38 @@
+X: 14682
+T: Presto
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:46
+%%humdrum-veritas 348660820
+%%humdrum-veritas-data 1284561555
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('B A G |
+d3 |
+B A G |
+A3) |
+.('B A G |
+d3 |
+B G A |
+G2z) |
+.('c A d |
+B G d |
+c A d |
+B2d) |
+.('c A d |
+B B A |
+B B ^c |
+d3) |
+.('B A G |
+d3 |
+B A G |
+A3) |
+.('B A G |
+d3 |
+B G A |
+G2z) :|]

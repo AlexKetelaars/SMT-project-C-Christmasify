@@ -1,0 +1,29 @@
+X: 9325
+T: Die korte stond, ja die duur-drie-dom, Ja du [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 6192858
+%%humdrum-veritas-data 238370423
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+B2(B c) |
+d2c B |
+A E E) .('E |
+A A A A |
+A/ A/ G/ F/ E) .('E |
+A2B c |
+A2z) .('A |
+B2B B |
+d2c B |
+A E E) .('E |
+A A A A |
+A/ A/ G/ F/ E) .('E |
+(A2B) c |
+A2z) |]

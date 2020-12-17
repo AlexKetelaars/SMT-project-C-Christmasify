@@ -1,0 +1,58 @@
+X: 4895
+T: Anemane witte zwanen wie gaat er wel naar En [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 4113442324
+%%humdrum-veritas-data 149346618
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C2DE2F |
+G2G G G) .('G |
+A2GG2F |
+E E DC2C) |
+.('E E EE2C |
+D3D3) |
+.('E E EE2C |
+D3D3) |
+.('C C DE2F |
+G2GG2).('G |
+A2GG2F |
+E2DC3) |
+.('E2EE2C |
+D2DD2G,) |
+.('E E EE2C |
+D2DD2G,) |
+.('C C DE2F |
+G2GG3) |
+.('A A GG2F |
+E2DC3) |
+.('E2EE2C |
+D2DD2G,) |
+.('E2EE2C |
+D2DD2G,) |
+.('C2DE2F |
+G2GG3) |
+.('A2GG2F |
+E2DC2).('C |
+E2EE2C |
+D3D2).('C |
+E E E E D C |
+D3D2).('D |
+C2DE2F |
+G2GG2).('G |
+A2GF2E |
+D3C2).('C |
+E2EE2C |
+D2DD2G,) |
+.('E2EE2C |
+D2DD2G,) |
+.('C2DE2F |
+G2GG2).('F |
+E E ED2D |
+C3-C2z) |]

@@ -1,0 +1,90 @@
+X: 376
+T: Batali
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 2765737474
+%%humdrum-veritas-data 3307017956
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c2c2c2 |
+c4G2 |
+c2c2c2 |
+c4G2) |
+.('e2c2c2 |
+c4G2) |
+.('e2c2c2 |
+c4G2 |
+c> B c dc2 |
+e> d e fe2) |
+.('g> f g ag2 |
+c'> b c' d'c'2) |
+.('g> f g ag2 |
+e> d e fe2 |
+c6) |
+.('e2c2c2 |
+c4G2 |
+e2c2c2 |
+c4G2) |
+.('e c c c G c |
+c c e c c c) |
+.('G c c c e c |
+c c G c c c |
+c6) |
+.('c/ B/ c/ d/ c c c c) |
+.('e/ d/ e/ f/ e e e e |
+g/ f/ g/ a/ g g g g) |
+.('e/ d/ e/ f/ e e e e |
+c6 |
+z) .('c c G z c |
+c G c c c G |
+z) .('c c G z c |
+c G c c c G |
+z) .('e c c c G |
+e c e c e c |
+e c e c e c |
+z) .('e c c c G |
+c c c e c e |
+g6) |
+.('c' g e g e c |
+e2g2e2 |
+c6) |
+.('G2G2G2 |
+G4C2 |
+G2G2c2 |
+G4E2 |
+G2c G G G) |
+.('G2E c G G |
+G2E G G c |
+G2).('E2G2 |
+G c G G G E |
+G c G G G E |
+G6) |
+.('c e c c c G |
+c e c c c G |
+e c c c c G |
+e c c c c G) |
+.('c e c c c G |
+c c e c c G |
+c c c e c G) |
+.('g2e c e g |
+e c e g e c |
+c6) |
+.('c/ B/ c/ d/ c c c c |
+e/ d/ e/ f/ e e e e |
+g/ f/ g/ a/ g g g g) |
+.('e/ d/ e/ f/ e e e e |
+c6) |
+.('c cc2c2 |
+C CC2C2 |
+c cc2c2 |
+C CC2C2) |
+.('e f g e f g |
+e f g e f g) |
+.('e f g e f g |
+c6) |]

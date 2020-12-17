@@ -1,0 +1,15 @@
+X: 2306
+T: Een meisje zo zedig vol van deugd Lag op het [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:50
+%%humdrum-veritas 1459324900
+%%humdrum-veritas-data 3594181565
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2D4B,2>C2D2B2(B A c) B (A G)G4).('z c B A F E(A2c) BA4D4).('z D B,> CD2>B2 (B A c) B (A G)G6).('z c B A F E(A2c) BA4D4).('z A (3(F E) DG2>D2 (3(E D) DB,4).('A2F D G G A (c d) (c B) (B A)A6).('z c/ c/ B A G F E DE4).('z C/ C/ B, C DD2B (B A c B) (A G)G6) |]

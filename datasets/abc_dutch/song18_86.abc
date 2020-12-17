@@ -1,0 +1,77 @@
+X: 17085
+T: Rondeau
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3151028996
+%%humdrum-veritas-data 829458133
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d/e [I:setbarnb 1]|
+fda |
+ge/ f/ g/ a/ |
+fd/ e/f |
+ec/ d/e |
+dB/ c/ d/ e/ |
+c>BA) |
+.('zz/ d/e |
+fda |
+ge/ f/ g/ a/ |
+fd/ e/f |
+ec/ d/e |
+dB/ c/ d/ e/ |
+cAa |
+g/ f<ed/ |
+d>).('fg |
+e>ea |
+a>bg |
+g>af |
+f>ge |
+f>g f/ e/ |
+d3) |
+.('e>fd |
+c>cd |
+ef/ e/ d/ c/ |
+B>Be |
+d/ c<BA/ |
+A>).('ef |
+gB3/c/ |
+d>c d/ e/ |
+f>fg |
+afb |
+ead- |
+d/ e<cB// c// |
+d>).('de |
+fda |
+ge/ f/ g/ a/ |
+fd/ e/f |
+ec/ d/e |
+dB/ c/ d/ e/ |
+c>BA) |
+.('zz/ d/e |
+fda |
+ge/ f/ g/ a/ |
+fd/ e/f |
+ec/ d/e |
+dB/ c/ d/ e/ |
+cAa |
+g/ f<ed/ |
+d>).('af |
+g>fg |
+e2e |
+a>g f/ e/ |
+^dBe |
+f/ g<fe/ |
+e>).('fg |
+ag3/g/ |
+f>ga |
+d=c3/d/ |
+Bg3/f/ |
+e>fg |
+ac3/d/ |
+d3/) |]

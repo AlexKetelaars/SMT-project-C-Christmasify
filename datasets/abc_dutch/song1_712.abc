@@ -1,0 +1,15 @@
+X: 712
+T: Nu laet o Heere dinen knaep Dat hy mach slap [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3874391999
+%%humdrum-veritas-data 2723901337
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('z2z2A2c4A2c4c2c4B2A4).('A2B4c2A4G2A4G2F4).('G2A4G2c4B2A4G2A4).('A2A4G2F4G2A4A2G4) |]

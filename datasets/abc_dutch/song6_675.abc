@@ -1,0 +1,38 @@
+X: 5674
+T: Komt al bijeen, gij vrouwkens blij van geeste
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 1257999155
+%%humdrum-veritas-data 2092316140
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B2A G |
+d2z G |
+F G A F |
+G2G d |
+d e d c |
+(B A)G2) |
+.('d2e f |
+g GG2 |
+d2e f |
+g G G B |
+c B A G |
+A2z2) |
+.('f2g e |
+d2z d |
+e d c B |
+c2c d |
+e d c B |
+B2A z) |
+.('G2B c |
+[M:3/4]d GG2G/ G/ G/ G/ |
+[M:2/4]B2c2 |
+[M:3/4]d GG2G/ G/ G/ c/ |
+[M:2/4](B A) (G F) |
+G4) |]

@@ -1,0 +1,26 @@
+X: 16051
+T: [Wat mag Goossen toch gebreken]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:59
+%%humdrum-veritas 2356657162
+%%humdrum-veritas-data 1192821943
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('fgad |
+c>deA |
+ABcd |
+ecd2) |
+.('dcBB |
+c>de2 |
+!mordent!!mordent!eef/ g/a |
+(a>^g)a2) |
+.('!mordent!!mordent!ddg2 |
+(f>g)e2 |
+!mordent!!mordent!fBcd |
+d>cd2) :|]

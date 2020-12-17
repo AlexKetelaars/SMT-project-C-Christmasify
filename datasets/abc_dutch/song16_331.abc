@@ -1,0 +1,35 @@
+X: 15330
+T: Zu Mantua in Banden
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2711560780
+%%humdrum-veritas-data 1755890101
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Ab clef=treble
+.('E [I:setbarnb 1]|
+A>GAB |
+(AG)FE |
+A>GAB |
+E2z).('E |
+B>=ABc |
+d>cBA |
+GEc3/B/ |
+A2z).('C |
+F>AGF |
+=EcC3/c/ |
+d>cBA |
+GF!fermata!c).('E |
+c>cdc |
+(B2F)F |
+E>AcB |
+A2z).('E |
+c>cdc |
+BfdB |
+A>Ec3/B/ |
+A2z) |]

@@ -1,0 +1,27 @@
+X: 10466
+T: Sint Niklaas, o, heilige man, Met uw gespike [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:06
+%%humdrum-veritas 2732094396
+%%humdrum-veritas-data 981508104
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('C2DE2F |
+E E DC3) |
+.('C C D E E F |
+E2DC2).('C |
+C2DE2F |
+E3D2).('C |
+C C DE2F |
+E3D2).('C |
+C C DE2F |
+G3z2z) |
+.('G2GG2G |
+E3D2D |
+C3) |]

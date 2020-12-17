@@ -1,0 +1,53 @@
+X: 463
+T: Fantasia
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3147619151
+%%humdrum-veritas-data 4126807367
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F12G4 |
+A8F2 D E F G A B |
+c4>).('d4e4c4 |
+d2 e2f4e2 f2g4 |
+f4).('F4G4A4 |
+B4c4F2 f2 d2 e2 |
+f4).('c d e f g2 G2 B2 c2 |
+d2) .('D E F G A B c2 A2 d2 e2 |
+f12).('e2 d2 |
+e8f4d4 |
+g4).('c4d2 e2f4- |
+f4).('F2 G2 A2 D2 G2 C2 |
+F2) .('G A B c d e f2 e2 d c B2) |
+.('c2 B2 A G F2 G A B2 d e f2) |
+.('e c d B c A B G A F G E F2) .('G A |
+B c d ef4).('g2 e2 g2 c2 |
+g2 e f g e c2 f2 d2 f2) .('B2 |
+f2 d e f d B2 c2 A2 c2 F2 |
+c2) .('A B c A F2 G2 A2 B2 F2 |
+A2 B2 c2) .('G A B2 c2 d2) .('A2 |
+B c d e f e d c d c B A B A G) .('A |
+B c d e f2 g2 e2 f2 d2 e2 |
+c d e f g e c2) .('G A B c d e f2) |
+.('F G A B c d e2 E F G A B c d2) |
+.('e f g f e d c2 d e f g c d e f) |
+.('B c d e A B c d G A B c F G A B) |
+.('c d e f g2 ^f2 g2 d2 g2 f2 |
+g2) .('d e ^f2 e2 f2 d2 f f e2) |
+.('^f f c2 d2 ^c2 d2 A2 d d c2) |
+.('d d A2 c2 =B2 c2 G2 c c B2) |
+.('c c G2 B2 A2 B2 F2 B2 A2 |
+B2) .('F2 B A B c d e f g a f a f |
+a f a f) .('g e g e g e g e f d f d |
+f d f e f2 g2 a) .('d e f g c d e |
+f B c d e A B c d G A B c F G A |
+B) .('E F G A D E F G C D EF4- |
+F4).('E2 D2E8 |
+F2 G A B c d e f2 e d c B A G |
+F16) |]

@@ -1,0 +1,31 @@
+X: 6099
+T: De Courant
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:24
+%%humdrum-veritas 4082240136
+%%humdrum-veritas-data 2822338270
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('x a [I:setbarnb 1]|
+a2>g2 f e f d |
+b2>a2g3f |
+e2>^c2d3e |
+f6).('x f |
+g2>a2b3a |
+g f e f2<g2a |
+e6) :|]
+.('x f [I:setbarnb 8]|
+e2f2g2c2 |
+c d c BA2A B |
+c2A2d c B A |
+G4F2).('x a |
+a2>g2 f g e d |
+^c2A2d e f g |
+a2>A2=B3^c |
+d4) |]

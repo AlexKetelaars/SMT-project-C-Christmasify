@@ -1,0 +1,33 @@
+X: 4336
+T: Alle mensen rieden mij aan Dat ik een hennek [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 3239724943
+%%humdrum-veritas-data 1360863210
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+d2dd2e |
+d2dc2).('B |
+A2B c c d |
+c3B2).('B |
+A2AA2B |
+c c cB2).('B |
+A A Bc2e |
+e2dd3) |
+.('g g gf2f |
+e2ed3) |
+.('e2ed2d |
+c2cB2).('B |
+A2AA2A |
+A2AA2).('A |
+A2AB2^c |
+d2dd2).('A |
+A A Af2e |
+d3-d2) |]

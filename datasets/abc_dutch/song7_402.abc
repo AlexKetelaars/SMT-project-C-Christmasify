@@ -1,0 +1,30 @@
+X: 6401
+T: No 40
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 3242744592
+%%humdrum-veritas-data 1057372261
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('DB [I:setbarnb 1]|
+BADA |
+AG).('DG |
+BGdB |
+Az) ]|:
+.('^cA [I:setbarnb 5]|
+d2^cA |
+[M:2/4]d2) |
+[M:4/4].('ccc(d/ c/) |
+BABG) |
+.('cc(c/ e/) (d/ c/) |
+BABG) |
+.('DBBA |
+DAGz) |
+.('D(G/ B/)dB |
+ABG) |]

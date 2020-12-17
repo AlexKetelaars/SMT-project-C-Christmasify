@@ -1,0 +1,26 @@
+X: 2528
+T: Moeder ik kom u een woordje vragen gij weet  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 2490024670
+%%humdrum-veritas-data 3820179119
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d B c d d e |
+d2ed2B) |
+.('d e dc2A |
+A B cB2).('A |
+A B c d d e |
+d2ed2B) |
+.('d2d c c B |
+c c AG2).('B/ B/ |
+c A B/ B/ c A A |
+c d ed3) |
+.('e e ed2c |
+B2AG3) |]

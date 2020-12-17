@@ -1,0 +1,64 @@
+X: 16957
+T: air pour les flutes et violons
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 4080495226
+%%humdrum-veritas-data 3665866074
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('a>ecA |
+f>f!mordent!!mordent!f3/g/ |
+!mordent!!mordent!e2-e3/).('e/ |
+a>aa3/b/ |
+!mordent!!mordent!^g2Bc |
+d>ddc |
+Bcdc |
+!mordent!!mordent!B2).('B3/e/ |
+!mordent!!mordent!^c>cde) |
+.('fd).('a3/a/ |
+a>_bg3/g/ |
+gf/ e<).('ff/ |
+f>ee3/d/ |
+d2).('f3/f/ |
+f2!mordent!!mordent!e3/e/ |
+e2).('d3/d/ |
+dgcf |
+de!mordent!!mordent!d3/c/) |
+.('c2).('e3/e/ |
+a>g!mordent!!mordent!^f3/g/ |
+!mordent!!mordent!^dB).('bg |
+e^f!mordent!!mordent!f3/e/ |
+e4) |
+.('!mordent!!mordent!B>Be3/e/ |
+!mordent!!mordent!c>cf3/g/) |
+.('!mordent!!mordent!e>eef |
+g>gfe) |
+.('defe |
+dgfe |
+d2g3/g/ |
+c2f3/f/ |
+dgc'3/_b/ |
+a/ g/ f/ e<!mordent!!mordent!dc/ |
+c2).('g3/g/ |
+!mordent!!mordent!^g2!mordent!!mordent!g3/g/ |
+a2).('a3/a/ |
+!mordent!!mordent!a>g).('g3/g/ |
+!mordent!!mordent!g>f).('f3/f/ |
+!mordent!!mordent!f>ee3/e/ |
+e2).('!mordent!!mordent!d3/d/ |
+d2c3/c/ |
+!mordent!!mordent!c>B!mordent!!mordent!B3/A/ |
+A2).('a3/a/ |
+a>g!mordent!!mordent!g3/g/ |
+!mordent!!mordent!g>f).('f3/f/ |
+!mordent!!mordent!f>e!mordent!!mordent!e3/e/ |
+e2).('!mordent!!mordent!d3/d/ |
+d2c3/c/ |
+c>B!mordent!!mordent!B3/A/ |
+A4) |]

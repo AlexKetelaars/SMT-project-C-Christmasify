@@ -1,0 +1,54 @@
+X: 13806
+T: [Divert. 19]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:37
+%%humdrum-veritas 1839341745
+%%humdrum-veritas-data 501574030
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=104
+K: G clef=treble
+.('G2{c/} B A/ G/ |
+dd2c |
+B g f e |
+{e/} d c/ B/ {d/} c B/ A/ |
+B e d c |
+{c/} B A/ G/ {B/} A G/ F/ |
+(3G A B A G |
+{A}!trill!!trill!G2F2) |
+.('a2{g/} f e/ d/ |
+^c2d2 |
+e> f {a/} g f/ e/ |
+(g/ f/) (b/ a/)a2 |
+b> ^d e/ f/ g/ b/ |
+{b/} a> ^c d/ e/ f/ a/ |
+B g/ e/ d ^c |
+d) .('(.A .A .A) |
+(g2f) A |
+(g2f) d |
+B g/ e/ d ^c |
+{^c}d2z2) |
+.('d2{g/} f e/ d/ |
+aa2g |
+f a/ g/ f/ e/ d/ c/ |
+(c2B) !wedge!c |
+d e/ f/ g B |
+B A z d |
+(=f2e) !wedge!d |
+(d2c) !wedge!A |
+(e2d) !wedge!c |
+(c2B)) .('!wedge!D |
+(c2B) g |
+{g/} f e/ d/ g G |
+(c2B) g |
+{g/} f e/ d/ g d |
+e/ c/ B/ A/ B A |
+G2{c/} B A/ G/ |
+dd2c |
+B g f e |
+d (3e/ d/ c/ B A |
+{A}G2z2) :|]

@@ -1,0 +1,47 @@
+X: 16161
+T: Welk een vreugd, welk een lust, Smaak ik, al [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 1857710919
+%%humdrum-veritas-data 2297651461
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=bass
+.('DA, [I:setbarnb 1]|
+B,2G,A, |
+D,2).('F,/ G,/ A,/ F,/ |
+CC(G,/ A,/) (B,/ G,/) |
+DDCD |
+B,A,A,2) |
+.('x2A,G, |
+F,2E,D, |
+^C,2).('D,E, |
+F,2F,G, |
+A,2).('A,G, |
+F,2F,F, |
+B,2).('B,A, |
+G,2G,G, |
+B,2).('CB, |
+A,A,A,A, |
+B,2).('A,B, |
+C2C,C, |
+F,2).('F,E, |
+D,D,D,D, |
+G,2).('G,G, |
+E,E,E,E, |
+A,2).('A,G, |
+(3:2:6(F, G,) F, (E, F,) E, |
+D,2).('D,D, |
+(3:2:6(G, A, G, F, G, F, |
+(3:2:6E, F, E, D, E, D, |
+^C,2)G,2 |
+A,3A, |
+D,2).('D,C, |
+B,2G,2 |
+A,3A, |
+D,2) :|]

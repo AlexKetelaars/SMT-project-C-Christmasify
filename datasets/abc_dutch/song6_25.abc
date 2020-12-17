@@ -1,0 +1,24 @@
+X: 5024
+T: Drie lederen drie lederen, drie lederen Hier [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 3595339265
+%%humdrum-veritas-data 3371501943
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G>AGD |
+G>AGD |
+G>AG2) |
+.('d(3A/ A/ A/AF/ F/ |
+FED2) |
+.('D(3D/ D/ D/DA,/ A,/ |
+DD/ E/F).('B |
+A2^C2 |
+D3) |]

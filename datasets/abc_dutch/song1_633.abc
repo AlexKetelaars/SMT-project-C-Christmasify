@@ -1,0 +1,15 @@
+X: 633
+T: Ghi die condt Israel o Heer regieren Joseph  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3626524062
+%%humdrum-veritas-data 4036426759
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('F4B2B2A2A2B4c4d4B2(c2BAGA4)G4).('B4A2B2A4G4z2).('F2B4c2c2(d2>c2)B2_e4d2c4B4).('d4d2d2(dcBAG4)).('c4c2c2(cBAGF4)z2).('F2G2F2B2A2B4c4B2B2A4G4).('!fermata!d4G2G2F2B2B2B2B2(AG)A4G4) |]

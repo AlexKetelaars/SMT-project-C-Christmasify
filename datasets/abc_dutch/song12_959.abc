@@ -1,0 +1,22 @@
+X: 11958
+T: Balet d’ Jack
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:20
+%%humdrum-veritas 2402310672
+%%humdrum-veritas-data 239193695
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2d> ef2d2 |
+a> f b> ag2f3/ g/ |
+a> e f> cd2(e f) |
+B> c B> AA4) |
+.('A> F G> A B> c d3/ B/ |
+e> f g> af2e2 |
+a> f b> g a> e f3/ g/ |
+A> f e> dd4) :|]

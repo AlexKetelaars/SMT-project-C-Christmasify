@@ -1,0 +1,39 @@
+X: 1843
+T: Komt vrienden wij weten alweer een nieuw lie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2127890386
+%%humdrum-veritas-data 409898338
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B// [I:setbarnb 1]|
+dd/> e/dB/ c/ |
+dd/> e/dz/) .('d/ |
+efge |
+edz).('d/ d/ |
+c/ c/ c/ B/Ac |
+edB).('B |
+Adfe |
+edzz) |
+.('e>fgf/ e/ |
+edgz/) .('d/ |
+dc/ d/ed/ c/ |
+Bed).('c/ B/ |
+ABcB |
+A2Gz/) .('B/ |
+cd/ d/ee |
+cd/ e/d).('c/ B/ |
+AB/ B/cB |
+A2G).('G/ G/ |
+cdee |
+c/ d/edz/) .('B/ |
+cdee |
+cedz/) .('B/ |
+ABcB/ B/ |
+A2G) |]

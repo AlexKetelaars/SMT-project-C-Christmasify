@@ -1,0 +1,15 @@
+X: 640
+T: Van Godes stadt wilt hooren mijn Al in die b [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3896546139
+%%humdrum-veritas-data 4154959810
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('z2z2D2D4D2A4A2F4G2A4).('A2A4A2c4A2F4E2F4z2z2).('F2F2F2E2D2(ED2<F2ED4C2)D4z2z2).('D2AA2c2c2A2F4E2F4z4z2).('F2F2FFD2D2(ED2<F2ED4C2)D4) |]

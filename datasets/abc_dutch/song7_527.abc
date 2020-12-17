@@ -1,0 +1,38 @@
+X: 6526
+T: Schept vreugde in ‘t leven, Dit zij steeds o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 1172077429
+%%humdrum-veritas-data 1063421543
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('G2>A2 G A |
+B3e2z) |
+.('E2EF2F |
+(G A) GF3) |
+.('G2>(A2 G) A |
+B3e2z) |
+.('E2E (F E) F |
+E3z2).('B |
+B2A (F G) A |
+B2GE2).('B |
+B2A (F G) A |
+B2GE2).('B |
+c2Ae2c |
+B2Ge2).('B |
+(B c) B (B A) G |
+G3F2z) |
+.('G2>A2 G A |
+B3e2z) |
+.('E2EF2F |
+(G A) GF3) |
+.('G2>(A2 G) A |
+B3e2z) |
+.('E2E (F E) F |
+E3z3) |]

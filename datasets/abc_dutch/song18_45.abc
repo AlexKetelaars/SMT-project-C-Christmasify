@@ -1,0 +1,65 @@
+X: 17044
+T: Appolon flatte nos veux
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 480682893
+%%humdrum-veritas-data 1458275732
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('BGd |
+BB_e |
+cfg |
+_e2c |
+!mordent!!mordent!d3) |
+.('ddg |
+e^fg |
+!mordent!!mordent!^f2d |
+Bcd |
+_ed!mordent!!mordent!c |
+B!mordent!!mordent!A3/G/ |
+G3) :|]
+.('BBc |
+ddB |
+Gcd |
+!mordent!!mordent!B2G |
+A3) |
+.('ccf |
+ddg |
+~e2e |
+^cc3/e/ |
+!mordent!!mordent!Ade |
+f!mordent!!mordent!e2 |
+d3) |
+.('fff |
+!mordent!!mordent!^fff |
+g(!mordent!!mordent!g^f) |
+g3) |
+.('BGd |
+BB_e |
+cfg |
+_e>(d c3// d//) |
+d3) |
+.('ddg |
+e^fg |
+!mordent!!mordent!^f>ed) |
+.('Bcd |
+_edc |
+B!mordent!!mordent!A3/G/ |
+B).('Gd |
+BB_e |
+cfg |
+_e2c |
+d3) |
+.('ddg |
+e^fg |
+!mordent!!mordent!^f2d |
+Bcd |
+_edc |
+B!mordent!!mordent!A2 |
+G3) |]

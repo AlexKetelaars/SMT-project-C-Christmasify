@@ -1,0 +1,27 @@
+X: 9426
+T: Ja, somtijds lig ik van u te droomen Dat uw  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 1248582386
+%%humdrum-veritas-data 1600677760
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G A B [I:setbarnb 1]|
+c2>G2 (G E) A G |
+(G ^F2<)=F2).('F F F |
+d2>c2 (B A) (G F) |
+(F2<E2)-E) .('C E G |
+c2>c2 c d e c |
+B2A2-A) .('c B A |
+(G c) (E A) (G F) (D F) |
+E4z) .('G c G |
+e2>d2 (d c) (c B) |
+(B2A2)-A) .('c B A |
+(G c) (E A) (G ^F =F) D |
+C6z2) |]

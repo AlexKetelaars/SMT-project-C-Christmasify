@@ -1,0 +1,30 @@
+X: 12410
+T: Rigadon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 672208821
+%%humdrum-veritas-data 539962926
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d> e d e> f e |
+f> g f e> d c |
+d> c B A> G F |
+G E A F D) .('A |
+d> e d e> f e |
+f> g f e> d c |
+d> c BB2A |
+A3-A2) |
+.('A [I:setbarnb 9]|
+A> B A A> B A |
+B> c B A> G F |
+B> =c B B> c B |
+e> f e c> B A |
+d> e f e> d c |
+d3-d2) :|]

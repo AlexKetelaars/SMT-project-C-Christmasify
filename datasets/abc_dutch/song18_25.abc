@@ -1,0 +1,44 @@
+X: 17024
+T: Que Cest un plaisirs
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 3327516151
+%%humdrum-veritas-data 3946235564
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('z2z2f2 |
+B2B2d2 |
+G4A2 |
+B4B B |
+c4).('d2 |
+c2c2d d |
+_e4d2 |
+c4(c B) |
+B4).('d d |
+!mordent!!mordent!c2>c2 c d |
+_e4e e |
+d4B B |
+!mordent!!mordent!A2>A2 A A |
+B2>B2 B c |
+d2d2c B |
+!mordent!!mordent!A4-A G |
+G4).('d d |
+_e2>e2 e e |
+c2>f2 f f |
+B2B2_e2 |
+c4(c B) |
+B4).('f2 |
+B2B2d2 |
+G4A2 |
+B4B B |
+c4d2 |
+c2c2).('d d |
+_e4d2 |
+c4-c B |
+B6) |]

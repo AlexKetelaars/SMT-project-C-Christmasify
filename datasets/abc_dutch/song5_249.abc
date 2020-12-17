@@ -1,0 +1,36 @@
+X: 4248
+T: Waarmee maak je het bruidje vet Met gemalen bonen.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 3937559400
+%%humdrum-veritas-data 4092597475
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2BB2B |
+B2BB3) |
+.('B2BB2B |
+A3A2).('A |
+B2BB2B |
+B2BB3) |
+.('B2BB2B |
+A2AA3) |
+.('d2GG2G |
+d2GG2G) |
+.('G2AB2c |
+d2dd2).('c |
+B2BA2A |
+[M:2/4]G2).('A B |
+c2B A |
+G2).('A B |
+c c B A |
+G4) |
+[M:6/8].('G2AB2c |
+d2dd2).('c |
+B2BA2A |
+G3-G2) |]

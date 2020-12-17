@@ -1,0 +1,45 @@
+X: 11064
+T: Dag Tryntje buur. Wat draag jy zuur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 1454886939
+%%humdrum-veritas-data 2437819043
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('F2 [I:setbarnb 1]|
+A2>B2c3c |
+(d c) (d e)f4 |
+f2e fd2g2 |
+e2>d2c4) |
+.('d2A Bc2F G |
+A> _B G> FF2).('F2 |
+A2>B2c3c |
+(d c) (d e)f4 |
+f2e fd2g2 |
+e2>d2c4) |
+.('d2A Bc2F G |
+A> _B G> FF2x2) |
+[M:3/4].('x4f2 |
+f2>e2d2 |
+c2>B2A2 |
+_B2>A2G2 |
+F4).('(d e) |
+f2>e2d2 |
+^c2A2(d e) |
+(f g2<)e2d |
+d6) |
+.('f6 |
+f2>e2d2 |
+c2>B2A2 |
+_B2>A2G2 |
+F4).('(d e) |
+f2>e2d2 |
+^c2A2(d e) |
+(f g2<)e2d |
+d4) |]

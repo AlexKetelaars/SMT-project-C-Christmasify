@@ -1,0 +1,40 @@
+X: 6226
+T: 22
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:26
+%%humdrum-veritas 1877976834
+%%humdrum-veritas-data 2084153215
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('A4A (B/ c/) |
+{c}B4B c/ d/ |
+{d}c4).('d2{c d} |
+e2{e} d c {c} B A |
+{A}G4).('A2{G A} |
+!wedge!B (e ^d e) !wedge!E (F/ G/)) |
+{.('G}A4A B/ c/ |
+{c}B4B (c/ d/) |
+(c2a2){g}f2 |
+{e}^d4).('e2 |
+(3c B A {G}F4 |
+E6) |
+(3.('e d c {B}^A4 |
+=g2f e !trill!!trill!d c |
+{e} (3d c B !wedge!B !wedge!F !wedge!D !wedge!B,) |
+(3.('d c B {A}G4 |
+f2e d !trill!!trill!c B |
+{d} (3c B A !wedge!A !wedge!E !wedge!C !wedge!A,) |
+.('=c2c (.^D .D .D) |
+{F} (!uppermordent!!uppermordent!E ^D) E G B ^d |
+(3c B A {c}B2{A}G2 |
+A2A,4) |
+.('=c2c (.^D .D .D) |
+{F} (!uppermordent!!uppermordent!E ^D) E G B ^d |
+(3c B A {c}B2{A}G2 |
+{G}A6) :|]

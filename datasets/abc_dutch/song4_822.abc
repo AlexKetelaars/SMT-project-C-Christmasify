@@ -1,0 +1,22 @@
+X: 3821
+T: Achter op Schoonlo is’t knollengruin bevrore [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 1079977853
+%%humdrum-veritas-data 657155199
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G2> G2 G2> G2A4A4 |
+d2> d2 d2> c2B4A4) |
+.('G2> G2 G2> F2E4D4 |
+G2> G2 G2> F2E4D4) |
+.('G2> G2 G2> G2A4e4 |
+d2> d2 d2> c2B4A4) |
+.('B8A8 |
+G2> B2 d2> B2G8) |]

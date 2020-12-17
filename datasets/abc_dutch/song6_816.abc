@@ -1,0 +1,26 @@
+X: 5815
+T: ‘t Zingen der vogelen streelt ons gehoor Kwi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 3401663060
+%%humdrum-veritas-data 2243676634
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=69
+K: G clef=treble
+.('G> G G d d d |
+B> B BA2z) |
+.('A/> A/ A z A/> A/ A z) |
+.('B B B A> B c |
+d3-d2z) |
+.('A A A c A F |
+G G Bd2z) |
+.('A A A c A F |
+G G Bd2z) |
+.('d/> d/ d z d/> d/ d z) |
+.('g e c B> c A |
+G3-G2z) |]

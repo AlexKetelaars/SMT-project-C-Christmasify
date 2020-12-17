@@ -1,0 +1,36 @@
+X: 16631
+T: O waterbeek
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 359087405
+%%humdrum-veritas-data 1208007794
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('(G A) [I:setbarnb 1]|
+B2(A G)d2(d e) |
+f2(e d)g2d2 |
+e d c e d c B d |
+c B A c B c B3/ c/ |
+d2(c B)B2(A G) |
+G4z2).('d2 |
+d2>c2B2d2 |
+e2f2e a g f |
+e4d2) |
+.('d2 [I:setbarnb 10]|
+g2>f2e2e2 |
+a2>g2f4 |
+z2d2d2c2 |
+c2B2B3A |
+A2>d2 (d B) (c d) |
+e2>).('d2 c B A B/ c/ |
+d2>c2 B G A B |
+(c e) (d c) (B d) (c B) |
+e2d cd2c B |
+c e d c B d c B |
+A4G2) |]

@@ -1,0 +1,29 @@
+X: 12038
+T: Poolnisch dants
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 1199456365
+%%humdrum-veritas-data 4260993425
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=69
+K: F clef=treble
+.('G4d4 |
+d4g4 |
+f2>e2f2g2 |
+a4d4) |
+.('b2>b2a2g2 |
+c'4b4 |
+a2>b2a2g2 |
+a4a4) |
+.('b2>b2a2g2 |
+f g f _ed4 |
+f2>f2 g f _e d |
+c2>B2B4) |
+.('d2>d2e2f2 |
+g2>b2 a g g3/ f/ |
+g4g4) :|]

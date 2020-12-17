@@ -1,0 +1,31 @@
+X: 17301
+T: Schoonste Nimph, myn ziels-beminde, Laat ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 712631922
+%%humdrum-veritas-data 2187793387
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d d [I:setbarnb 1]|
+g2>f2f3_e |
+d2d4).('c B |
+c2d2B3A |
+B2G4).('d d |
+_e2c2f3f |
+f6).('_e f |
+g2>d2c3B |
+B6).('B c |
+d2_e2c3B |
+c2c4).('d d |
+G2(A B2<)B2A |
+A6).('d _e |
+f2d2g3a |
+^f2d2).('_e3d |
+(c d) (c d2<)A2G |
+G4) :|]

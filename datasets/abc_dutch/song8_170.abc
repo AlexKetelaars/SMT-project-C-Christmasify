@@ -1,0 +1,46 @@
+X: 7169
+T: No737
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 3085486860
+%%humdrum-veritas-data 2446964674
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+{.('g} (f d) !wedge!B |
+(e c) !wedge!A |
+!wedge!B/ !wedge!A/ !wedge!B/ !wedge!c/ !wedge!d/ !wedge!e/ |
+f z z |
+(f d) !wedge!B |
+(e c) !wedge!A |
+!wedge!B/ !wedge!c/ !wedge!d/ !wedge!e/ !wedge!d/ !wedge!c/ |
+B z z) |
+.('F F F |
+F F F |
+!wedge!c'2(a/ f/) |
+(b2d') |
+(b/ g/) (a/ f/) (g/ e/) |
+(f/ d/) (e/ c/) (d/ B/) |
+(e/ c/) (d/ B/) (c/ A/) |
+B z z) |
+.('(f2d) |
+(f2d) |
+(e c A) |
+(B2F) |
+(f2d) |
+(f2d) |
+!wedge!e !wedge!c !wedge!A |
+!wedge!B z z) |
+.('(c c c) |
+(c2e) |
+(d d d) |
+(d2f) |
+!wedge!g2(e/ c/) |
+!wedge!f2(d/ B/) |
+!wedge!e2(c/ A/) |
+B z z) :|]

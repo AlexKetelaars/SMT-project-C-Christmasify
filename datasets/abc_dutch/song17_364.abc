@@ -1,0 +1,36 @@
+X: 16363
+T: By een Beekje neêrgezeten, Die met zyn hel Kristal
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 886537053
+%%humdrum-veritas-data 3693520135
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B c [I:setbarnb 1]|
+(3(d c B) (3(c B A) G2 G2 |
+(3(A G F) G2 z2) .('G2 |
+{A B} A3 (B/ c/) B2 A2 |
+(B c d2) z2) .('d2 |
+{^d/} e2- (e/ =d/) (c/ B/) A2 G2 |
+{G2}F6).('(F G) |
+(3(A G F) (3(G F E) D2 (d B) |
+^G2 A2) .('E3 (F/ =G/) |
+F2 d2 {f/} e2 (d ^c) |
+d6) |
+.('d2 [I:setbarnb 11]|
+d2 d2 (d ^d e) B |
+(3(c B A)A4).('(A B) |
+c2 c2 c2 (B A) |
+(3(B A G) G2- G) .('D D G |
+(G2 F) A D2 B2 |
+(B4A)) .('A A G |
+F2 (A/ G/ F/ E/) D2 c2 |
+(c4(3B)) .('(G A) (3(B A) G |
+e2 (d c) B2 !trill!!trill!A2 |
+G6) :|]

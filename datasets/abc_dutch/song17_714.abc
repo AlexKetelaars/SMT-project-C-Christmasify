@@ -1,0 +1,54 @@
+X: 16713
+T: Kon ick doch laeten soo seer te beminnen wat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3069900902
+%%humdrum-veritas-data 3666072951
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('ggg |
+^fga |
+gaf |
+e2d) |
+.('def |
+e2d |
+e^c2 |
+d3) |
+.('ggg |
+^fga |
+gaf |
+e2d) |
+.('def |
+e2d |
+e^c2 |
+d3) |
+.('d2d |
+d2c |
+d2e |
+f3 |
+d).('dc |
+Bcd |
+cdB |
+A2G |
+B2G) |
+.('B2G |
+Bc2 |
+d3 |
+ddc |
+Bcd |
+c).('dB |
+A2G |
+B2G) |
+.('B2G |
+Bc2 |
+d2d |
+e).('fg |
+^f2g |
+aa3/g/ |
+g3) :|]

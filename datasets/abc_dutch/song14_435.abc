@@ -1,0 +1,31 @@
+X: 13434
+T: Coeur Sensible Coeur fidele
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:34
+%%humdrum-veritas 1705695888
+%%humdrum-veritas-data 2707513741
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('c A [I:setbarnb 1]|
+F2>A2G3A |
+{c}B2A> AA2).('A B |
+c2>c2 (d c B A) |
+{A}G4z2).('g e |
+c2>e2d3e |
+{g}f2e2z2).('G G |
+A2>c2=B3d |
+{d}c4z2).('c3/ c/ |
+(f e d c) (f e d c) |
+{c}B2B4).('G B |
+A2>c2 (d c B A) |
+G4z2).('c d |
+c2>A2 c B A G |
+A2(c/ B/ A/ B/)c2).('!wedge!f !wedge!d |
+c2>A2 c B A G |
+F6) |]

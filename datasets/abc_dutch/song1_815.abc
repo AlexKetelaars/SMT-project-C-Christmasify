@@ -1,0 +1,174 @@
+X: 815
+T: Een koning die hadde twee dochterkens Zy war [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 1396419794
+%%humdrum-veritas-data 792963310
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+D2D G |
+B2B B |
+B2G2 |
+A2z) .('G |
+F F A A |
+c2A F |
+A4 |
+G2z) .('G/ G/ |
+F2A2 |
+c2A F |
+A4 |
+G2z3/) .('D/ |
+D2G G |
+B2B B |
+B2G G |
+A2z3/) .('G/ |
+F2A A |
+c2A2 |
+G F G B |
+d2z) .('D/ D/ |
+D2G2 |
+B2B B |
+B2G G |
+A2z) .('G |
+F2A A |
+c2A F |
+(G F) (G B) |
+d2z2) |
+.('D2D G |
+B B B B |
+B B A G |
+A2A2) |
+.('F2A A |
+c c B A |
+G2F2 |
+G2z) .('d |
+B B B B |
+B2G2 |
+A2B2 |
+c2z2) |
+.('c2B B |
+A2G F |
+G> F G B |
+d2d z/) .('d/ |
+d2B B |
+B3G |
+G G A B |
+c2z) .('d/ d/ |
+d2B B |
+B2G2 |
+A2B2 |
+c2c z) |
+.('c A A A |
+A2F2 |
+F2G2 |
+F2G2 |
+B2d2 |
+z) .('D/ D/D2 |
+G2B2 |
+B BB2 |
+G2A2 |
+z) .('GF2 |
+A Ac2 |
+A2G2 |
+B Bd2 |
+z) .('DD2 |
+(D G) B B |
+B B B B |
+B G/ G/A2 |
+z2).('F2 |
+A A c c |
+B A (G F) |
+G Bd2 |
+z) .('DD2 |
+(D2G2) |
+B2B2 |
+B2B2 |
+B2G2 |
+A2z) .('D |
+F2A2 |
+c c B A |
+(G F) G B |
+d2z2) |
+.('F F A A |
+c c B A |
+A G G F |
+G2z) .('D |
+D2G G |
+B2B2 |
+B2A G |
+A2z) .('G |
+F2A2 |
+c2A A |
+G F G B |
+d2z) .('G |
+F2A A |
+c2A F |
+G2B2 |
+d2z2) |
+.('D2D G |
+B B B B |
+B B A G |
+A2A2) |
+.('F2A A |
+c c B A |
+G2F2 |
+G2z) .('d |
+d2B2 |
+B2G G |
+A2B2 |
+c2z) .('c |
+c2A A |
+A2F F |
+G2B2 |
+d2z2) |
+.('F2A A |
+c2A A |
+G2F2 |
+G2z) .('d |
+d2B2 |
+B2G G |
+A2B B |
+c2z) .('G |
+F2A2 |
+c2A A |
+G2F F |
+G2z) .('d |
+d2B B |
+B2G G |
+A2B2 |
+c2z) .('c |
+c2A A |
+A2F F |
+(G F) G B |
+d2z) .('D |
+D2G G |
+B2B B |
+B2G G |
+A2z) .('G |
+F2A A |
+c2A A |
+G2F F |
+G2z) .('d |
+d2B B |
+B2G G |
+A2B B |
+c2z) .('c |
+c2A A |
+A2F F |
+G F F B |
+d2z) .('D/ D/ |
+D2G2 |
+B2B B |
+B B A G |
+A A z) .('G |
+F2A2 |
+c2B A |
+G2F2 |
+G2z2) |]

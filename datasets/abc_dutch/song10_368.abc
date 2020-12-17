@@ -1,0 +1,39 @@
+X: 9367
+T: Ik heb lestmaal weer een wonder zaak gehoord [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 1558453347
+%%humdrum-veritas-data 2394630656
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+G2G2 |
+G2G G |
+G> D G3/ A/ |
+B2z3/) .('B/ |
+B2B3/ B/ |
+B2B3/ B/ |
+B> A B3/ c/ |
+d2z2) |
+.('c> B c3/ B/ |
+A2z2 |
+B> c d3/ B/ |
+G2z3/) .('G/ |
+F> F F3/ F/ |
+F> F E3/ D/ |
+G> A B3/ c/ |
+d2z3/) .('c/ |
+c> B c3/ B/ |
+A2z3/ A/ |
+B> c d3/ B/ |
+G2z3/) .('G/ |
+G> A B3/ c/ |
+d> c B3/ A/ |
+G> B d3/ B/ |
+G3z) |]

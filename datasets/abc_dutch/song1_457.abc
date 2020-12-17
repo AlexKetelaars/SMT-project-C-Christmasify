@@ -1,0 +1,36 @@
+X: 457
+T: Ick plach wel in den tydt voor dezen
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1813502368
+%%humdrum-veritas-data 2017177127
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F>GA2 |
+F2A3/B/ |
+c2c2) |
+.('d>ef2 |
+d2g3/f/ |
+e2c2) |
+.('def3/f/ |
+e>ed2) |
+.('A>Bc3/d/ |
+=B3c |
+c4) |
+.('ccf2 |
+d2g3/f/ |
+e2c2) |
+.('A>cB2 |
+A2G3/G/ |
+A2F2) |
+.('A>Bc3/c/ |
+d>ef2) |
+.('B>BA3/A/ |
+G3F |
+F4) :|]

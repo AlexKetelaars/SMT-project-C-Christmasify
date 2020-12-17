@@ -1,0 +1,30 @@
+X: 5456
+T: Gelukkige uur, vol ongelukken, Komt gy myn S [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 6715835
+%%humdrum-veritas-data 2996694930
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('BB/ A/GB |
+(c/ d/) (_e/ f/)dd) |
+.('GG/ A/^FG |
+(A/ B/) (c/ d/)BB) |
+.('dd/ _e/fB |
+Gz/ G/c_e |
+(A/ G/)ABz/) .('d/ |
+^cddc |
+dz/) .('A/BG |
+ADGA |
+Bz/) .('B/ (_e/ d/) (c/ B/) |
+B>A!fermata!Gz |
+z).('ABG |
+ADGA |
+Bz/) .('B/ (_e/ d/) (c/ B/) |
+B>A!fermata!G2) :|]

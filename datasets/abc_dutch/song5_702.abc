@@ -1,0 +1,23 @@
+X: 4701
+T: Die wilt vieze kluchten horen Komt voegt u h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 3520381694
+%%humdrum-veritas-data 3507469904
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('dd/ [I:setbarnb 1]|
+G3/G3/cd/ |
+e3/-ee/).('cB/ |
+A3/AA/Bc/ |
+d3/-d3/).('GA/ |
+[M:6/8]B/ B/ A/Bd/ |
+BA/).('GB/ |
+dd/BA/ |
+G3/-G) |]

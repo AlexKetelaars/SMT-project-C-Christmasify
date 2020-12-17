@@ -1,0 +1,39 @@
+X: 8279
+T: En ik was er, en ik was er eens vroeg opgest [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 3582080113
+%%humdrum-veritas-data 1486663392
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('F/ F/ [I:setbarnb 1]|
+F C A/ A/ |
+A F (F/ A/) |
+c2c/ d/ |
+c2).('A |
+G G G |
+d c B |
+B A G |
+!fermata!A2).('F |
+E E E/ F/ |
+G2).('G |
+F F F/ G/ |
+A2).('F |
+E E E/ E/ |
+d d) .('d |
+c2c |
+!fermata!F2).('F |
+E E E/ F/ |
+G2).('G |
+F F F/ G/ |
+A2).('F |
+E E E/ E/ |
+d d) .('d |
+c2c |
+!fermata!F2) |]

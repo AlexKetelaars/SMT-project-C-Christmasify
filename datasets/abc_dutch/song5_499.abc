@@ -1,0 +1,35 @@
+X: 4498
+T: Aanhoort er die Duitse broeders Wat er in We [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:10
+%%humdrum-veritas 3974465419
+%%humdrum-veritas-data 2098661055
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2G GF2(E F) |
+G4F2).('E/> E/ F |
+A2G GF2E2 |
+D4-D) .('D D D |
+G2G G F F E F |
+G4F) .('F E F |
+A2G GF2E2 |
+D6).('D2 |
+F FF2E2E2 |
+D2D2>).('D2 D F |
+A3G/ G/F2A2 |
+(d2B6)) |
+.('B2B> B (B A) G F |
+E2B,> B,B,2B,2) |
+.('D2>E2D2G2 |
+G2(B A)G4) |
+.('B2B> B (B A) G F |
+E2B,> B,B,2B,2) |
+.('D2>E2D2G2 |
+G2(B A)G4) |]

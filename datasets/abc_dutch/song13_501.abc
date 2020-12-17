@@ -1,0 +1,29 @@
+X: 12500
+T: When Britain first at heav’ns command rose f [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 1669226366
+%%humdrum-veritas-data 2813321759
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+B2B2(B/ c/ d/ e/ f) B |
+c2(c d/ e/) (e d) z) .('F |
+(B/ c/ B/ c/ d/ e/ d/ e/ f) c d c |
+(B c/ d/) c BA2z) .('F |
+A F c A f (=e/ d/) (c/ B/) (A/ G/) |
+F2G> FF2z2) |
+.('B2B> F G E z B |
+e> d c BA2z) .('c |
+f2e2(d/ B/ e/ c/ f) e |
+d2(c> B)B2z2) |
+.('d2>d2 e e z d |
+e> d c B (B A) z) .('c |
+f2e2(d/ B/ e/ c/ f) e |
+(d2c>) BB2z2) |]

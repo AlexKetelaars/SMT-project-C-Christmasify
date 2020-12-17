@@ -1,0 +1,22 @@
+X: 475
+T: Gy laat, dien gy vind rede staan Heer, vredi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1016229130
+%%humdrum-veritas-data 2083733132
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('z2z C F G A B |
+c> B A) .('c B> A G B |
+A> G F) .('c B A G3/ F/ |
+F2).('z2z G c3/ c/ |
+B d c) .('B A> G G G |
+B2>).('A2 c c B A |
+G> G F) .('c B A G3/ F/ |
+F8) |]

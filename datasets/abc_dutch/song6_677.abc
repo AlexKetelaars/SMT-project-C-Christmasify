@@ -1,0 +1,23 @@
+X: 5676
+T: Als ‘t altijd zomer of zondag waar, en dat w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 576849940
+%%humdrum-veritas-data 3236409792
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B [I:setbarnb 1]|
+B2B e e e |
+B2AG2G |
+A A A c c c |
+c3B2).('B |
+B B B e e e |
+B2AG2G |
+A A A c c c |
+c3B3) |]

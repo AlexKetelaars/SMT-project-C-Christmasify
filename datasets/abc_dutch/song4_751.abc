@@ -1,0 +1,30 @@
+X: 3750
+T: Amsterdam die vergulde stad Daar woont een d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:03
+%%humdrum-veritas 3993975252
+%%humdrum-veritas-data 3828579760
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D3// D// [I:setbarnb 1]|
+G(GB)d |
+[M:3/4](dB)A |
+G2).('d |
+[M:2/4]cB |
+[M:3/4]A>AB |
+AGE |
+AD).('B3// c// |
+ded |
+G2B/ d/ |
+e>ee |
+d2).('c |
+BAc/ B/ |
+ADd3// d// |
+edA |
+G2) |]

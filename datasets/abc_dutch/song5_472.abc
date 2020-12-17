@@ -1,0 +1,21 @@
+X: 4471
+T: Ik zing Jan Stoffels lof Ik zing Jan Stoffels lof.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 3484741445
+%%humdrum-veritas-data 969163559
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+B c A BG2).('d2 |
+e d c B2<A2).('D |
+G G A A B B A) .('A |
+B d ^c ed4) |
+.('(G A) (B c/ e/)d3).('B |
+c e d dG2) |]

@@ -1,0 +1,26 @@
+X: 5473
+T: Helpt nu u self soo helpt u Godt Uyt der tyr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 3103647074
+%%humdrum-veritas-data 1246051160
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('GG/ G/BG |
+(B/ A/) (B/ c/)d2) |
+.('dd/ d/cB |
+BAG).('B |
+BdcB |
+(A>B)c).('B |
+G>^FDG |
+(^F// E//) D/).('ABc |
+d>c (c/ B/) (A/ G/) |
+(d2c)z) |
+.('dd/ d/dc |
+(B>A)G2) |]

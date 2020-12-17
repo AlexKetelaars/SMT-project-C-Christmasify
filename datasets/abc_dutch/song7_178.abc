@@ -1,0 +1,23 @@
+X: 6177
+T: Wie zit er in mijn torre? Rom, rom, filium
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 1677418922
+%%humdrum-veritas-data 2626877555
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c> c d d |
+e2d2) |
+.('c2d2 |
+e> e d) .('G |
+c> c d d |
+e2d2) |
+.('c2d2 |
+e> e d z) |]

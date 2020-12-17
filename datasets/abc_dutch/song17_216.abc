@@ -1,0 +1,55 @@
+X: 16215
+T: Drinken, Drinken, Drink eens, in ‘t rond, Te [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2964234448
+%%humdrum-veritas-data 940637231
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('(B A/) (B/ c) |
+B2G |
+A (B/ A/) (G/ F/) |
+G3) |
+.('F2E |
+F2D |
+E (F/ E/) (D/ ^C/) |
+D3) |
+.('F G A |
+B3 |
+G A B |
+c c) .('c/ B/ |
+A B c |
+d2).('d/ c/ |
+B2B/ B/ |
+(e/ d/) (c/ B/) (A/ G/) |
+F F) .('B/ A/ |
+G F E |
+F>) .('G A |
+B E3/ D/ |
+D3) |
+.('(d/ c/ B/ A/ G/ F/ |
+E2)E |
+(e/ d/ c/ B/ A/ G/ |
+F2)F) |
+.('d2A |
+B2A |
+d2c |
+(B> A G/ F/ |
+E> A G/ A/ |
+F2)D) |
+.('G A B |
+c> B A |
+B (c/ B/) (A/ G/) |
+A3) |
+.('d B d |
+G3 |
+c A c |
+F> F G |
+A (B A) |
+G2z) |]

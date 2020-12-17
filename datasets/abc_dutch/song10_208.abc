@@ -1,0 +1,23 @@
+X: 9207
+T: Anne Marie, waar ga je naar toe? Anne Marie, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 1363459722
+%%humdrum-veritas-data 2812622466
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D D D [I:setbarnb 1]|
+G2G F G A |
+G2>).('D2 D D |
+B2B A B c |
+B2>).('d2 d d |
+e e e c c c |
+d2d) .('B B B |
+c c c d d d |
+G3) |]

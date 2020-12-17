@@ -1,0 +1,28 @@
+X: 4156
+T: De wever zien verken dat was niet goed En de [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 4077849211
+%%humdrum-veritas-data 2135985146
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 G> G A2 [I:setbarnb 1]|
+B4B2> c2 B2 A2 |
+G6).('D D G G A2 |
+B4B2> c2 B2 A2 |
+[M:2/4]G6).('B B |
+B2 B B B B d d |
+e2 d2c4) |
+.('A2 A A d2 d2 |
+B2 B c d c B c |
+B c d e d2) .('B B |
+B2 B d d d d d |
+e2 d2c4) |
+.('A2 A A d2 d2 |
+G6) |]

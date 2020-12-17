@@ -1,0 +1,29 @@
+X: 2169
+T: Coridonnetje die was moe van het jagen en hi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 3157925290
+%%humdrum-veritas-data 1402792702
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B2A [I:setbarnb 1]|
+G G e- e> d e |
+d2F(A3 |
+G2>)).('B2 B d |
+d g d d d c |
+B2>-B2) .('G G |
+e3e2f |
+g f e (e d g) |
+d2).('d d c B |
+A3(e/ d/) e/ d/ d/ c/ |
+(B A e)d2).('d |
+G G AB2d |
+d2g e d c |
+B2>(A2 G) A |
+G3) |]

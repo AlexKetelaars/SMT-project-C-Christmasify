@@ -1,0 +1,18 @@
+X: 16610
+T: Psalm 24
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 843520429
+%%humdrum-veritas-data 494509633
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 14/2
+Q: 1/2=60
+K: C clef=treble
+.('D4{E2 F2 G2 A2}A4{G2 F2 E2}F4{E2 F2}G4G2F2{F}E4D4D4 [I:setbarnb 2]|
+{E2 E2}F2G2A2{B2 B2}c2{c}B2{c}!mordent!!mordent!B2A4x4x6).('A4_B2A2G2F2E2D2{E2 F2}!mordent!!mordent!E4D4x4 |
+{D2 E2}F4F2F2G4F2E2D4C4x4).('D4{E2 F2 G2}A2A2{G2 F2 E2}F2{G2 G2}A2G4{F2 E2}F4E4x4A4G2F2E2D2 [I:setbarnb 5]|
+{E2 E2}F2G2{F2 E2 F2}!mordent!!mordent!E4D4) |]

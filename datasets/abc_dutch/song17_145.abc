@@ -1,0 +1,42 @@
+X: 16144
+T: Wat dwaasheit wat dwaasheit noopt my aan, ha [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:00
+%%humdrum-veritas 1311898910
+%%humdrum-veritas-data 3565268832
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=bass
+.('E,2 [I:setbarnb 1]|
+(A,2^G, A, ^F, G, |
+A,2)A,2E,2 |
+(F,2E,2)D,2 |
+(G,2F,2)G,2 |
+C,4).('C2 |
+(B,2G,2)A,2 |
+(F, E,D,2)D,2 |
+E,2>).('F,2 E, D, |
+C,4D,2 |
+B,2B,2B,2 |
+C, D, E,) .('F, G, G, |
+A, B, C B, C A, |
+B,4).('G,2 |
+(^F,2>E,2^D,2) |
+E,2B,4 |
+E,4) |
+.('z C, [I:setbarnb 17]|
+C, D, (E,/ F,/ E,/ D,/ C,/ D,/ E,/ F,/ |
+G,) G,2<G,2).('D, |
+D, E, (F,/ G,/ F,/ E,/ D,/ E,/ F,/ G,/ |
+A,) A,2<A,2E, |
+F, D,2<G,2G, |
+C,2>).('C,2 C, C, |
+D,4E,2 |
+F,2>E,2D,2 |
+B,2E,3E, |
+A,4) :|]

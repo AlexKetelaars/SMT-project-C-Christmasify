@@ -1,0 +1,28 @@
+X: 11829
+T: Courante
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 4028904777
+%%humdrum-veritas-data 1247517538
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('f [I:setbarnb 1]|
+f2>g2g3/g/ |
+a>abag3/f/ |
+e>efgc3/d/ |
+B2).('(Af)e3/f/ |
+d>decc3/=B/ |
+c3-c2x) ||
+.('x3d>e f/ g/ [I:setbarnb 8]|
+e>fgcc3/B/ |
+A>Bccd3/d/ |
+ec).('ffe3/f/ |
+geaaa3/a/ |
+bgabg3/f/ |
+f3-f2) |]

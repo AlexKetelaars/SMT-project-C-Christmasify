@@ -1,0 +1,32 @@
+X: 14890
+T: Verstoßnes Hertze brich und springe Vor Schm [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 3512233872
+%%humdrum-veritas-data 3689592032
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B2(e ^d) (d e) |
+(f ^d)e4 |
+a2z2f2 |
+^d fB2z2) |
+.('(g f) (e d) (c B) |
+(a g) (f e) (d c) |
+(3B A G!trill!!trill!A4 |
+G6) |
+.('d2e2G2 |
+F2E2z2 |
+g4f2 |
+(e2d2)^c2 |
+(d2B2)^A2 |
+B6) |
+.('e> B (e f) (g e) |
+f> B (f g) (a f) |
+g ^d e ^c d e |
+e6) :|]

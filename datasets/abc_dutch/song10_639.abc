@@ -1,0 +1,33 @@
+X: 9638
+T: D’er gingen vier weverkens naar de markt, Om [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3621189674
+%%humdrum-veritas-data 1287608979
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Bb clef=treble
+.('D [I:setbarnb 1]|
+G G G B B B |
+c2cd3) |
+.('d c B A B c |
+B3!fermata!A2z) |
+.('G2GB2B |
+c c cd3) |
+.('d c B A B c |
+B3A2) ||
+.('A [I:setbarnb 9]|
+G z G G ^F G |
+D z) .('G G A G |
+G A G G A B |
+(c2B)A2z) |
+.('G G G B B B |
+d c d B A B |
+G z GD2z) |
+.('G G Gd2B |
+B A B!fermata!G2) |]

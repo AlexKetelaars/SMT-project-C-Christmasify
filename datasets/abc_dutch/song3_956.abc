@@ -1,0 +1,27 @@
+X: 2955
+T: Eenieder moet in deze tijden De goedheid onz [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 862773921
+%%humdrum-veritas-data 277103841
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D/GB/ [I:setbarnb 1]|
+d3/e3/AB/ |
+c3/d).('c/BA/ |
+B3/d3/BG/ |
+A3/B).('D/GA/ |
+B3/d3/AB/ |
+G3/-G3/).('GB/ |
+[M:12/8]d3/d3/d3/dc/ |
+[M:9/8]c3/c).('A/Bc/ |
+d3/c3/BA/ |
+B3/d).('c/BG/ |
+A3/c3/BA/ |
+G3/-G) |]

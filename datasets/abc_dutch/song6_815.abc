@@ -1,0 +1,47 @@
+X: 5814
+T: Als Meimaand schenkt een nieuwen dos Aan boo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 2464366588
+%%humdrum-veritas-data 1265069939
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+.('(d/ c/) [I:setbarnb 1]|
+B2B |
+(B A) B |
+c2d |
+c2).('c |
+d2d |
+(f e) c |
+B2z |
+z z) .('(d/ c/) |
+B2B |
+(B A) B |
+c2d |
+c2).('c |
+d2d |
+(f e) c |
+B2z |
+z z) .('f |
+=e2d |
+c2B |
+A- A B |
+c2).('f |
+=e2d |
+c2B |
+A2f |
+c2z |
+z2).('f |
+d2z |
+z2f |
+d- d d |
+c- c c |
+(f e) c |
+B2d |
+B2) |]

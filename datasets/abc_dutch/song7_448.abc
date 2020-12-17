@@ -1,0 +1,23 @@
+X: 6447
+T: No 86
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:28
+%%humdrum-veritas 1770951653
+%%humdrum-veritas-data 1708758754
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+B2>B2c2F2 |
+G4(B A) (G F) |
+G2A2B2^c2 |
+d4z2).('D D |
+B2>B2c2A2 |
+d4(d c) (B A) |
+E4F4 |
+G4z2) |]

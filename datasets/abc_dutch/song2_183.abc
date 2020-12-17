@@ -1,0 +1,31 @@
+X: 1182
+T: Vaarwel bruidje schoon De vreugde van mijn leven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 1060723781
+%%humdrum-veritas-data 3674784308
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G/ A/) [I:setbarnb 1]|
+BA(B3// c//) |
+(dg)).('d |
+dcB |
+BA).('(G/ A/) |
+BAB3// c// |
+dg).('(d3// e//) |
+dcB |
+BA).('d |
+[M:4/4]ee2d |
+ee2).('d |
+[M:3/4]efa |
+g2).('d |
+gfe |
+dB).('(d3// e//) |
+dcA |
+G2) |]

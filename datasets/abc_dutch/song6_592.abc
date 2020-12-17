@@ -1,0 +1,39 @@
+X: 5591
+T: Is dit niet wel een vreemde gril? ‘t Sou hie [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:20
+%%humdrum-veritas 2259013265
+%%humdrum-veritas-data 2698315587
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A c B A |
+^G E E) .('c |
+e B e3/ d/ |
+^c A A) .('E |
+A c B A |
+^G> A B) .('E |
+F A A ^G |
+A2z) .('E |
+A c B A |
+^G E E) .('c |
+e B e3/ d/ |
+^c A A) .('E |
+A c B A |
+^G> A B) .('E |
+F A A ^G |
+A2z2) |
+.('^G/ A/ B G/ A/ B |
+e BB2) |
+.('^G/ A/ B G/ A/ B |
+e BB2) |
+.('e B/ c/ d B |
+c B/ A/ B E/) .('E/ |
+F A A ^G |
+A4) |]

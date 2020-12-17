@@ -1,0 +1,35 @@
+X: 5077
+T: ‘t Wordt duister, mijn Roosje! kom speel nu  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 1883608283
+%%humdrum-veritas-data 3616886013
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c E F |
+A G G |
+^F G A |
+G2).('G |
+c E c |
+B A D |
+A G F |
+E2).('E |
+D E D |
+G A B |
+c B A |
+d2).('G |
+c E c |
+B A D |
+A G F |
+E2).('G |
+c B c |
+e d3/ c/ |
+(B {c B)} A B |
+c2) |]

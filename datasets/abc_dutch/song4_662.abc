@@ -1,0 +1,26 @@
+X: 3661
+T: Wat zag ik daar van verre Een schoon jong herderin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:02
+%%humdrum-veritas 2910583618
+%%humdrum-veritas-data 1343346535
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('G2Aed(c/ B/) |
+[M:4/4]A2D2) |
+[M:6/4].('G2Aed(c/ B/) |
+[M:4/4]A3).('A3// B// |
+cdee |
+[M:6/4](dB)G).('A/ B/c(d/ c/) |
+[M:4/4]B2A2 |
+G3).('A3// B// |
+cdee |
+[M:6/4](dB)G).('A/ B/c(d/ c/) |
+[M:4/4]B2A2 |
+G3z) |]

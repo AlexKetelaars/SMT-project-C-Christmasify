@@ -1,0 +1,32 @@
+X: 5917
+T: Weg, weg van mij, Cupidotje! Weg, weg! met u [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 1980675348
+%%humdrum-veritas-data 2926608162
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B2B A G F |
+(A2G)E2).('e |
+e f ed2e |
+B3z2).('B |
+e2d (d c) B |
+(B2A)G2).('d |
+d c B (B A) G |
+E2>z2) .('G F |
+E2BB2e |
+e3z2).('e |
+B2B A G F |
+(A2G)E3) |
+.('B2>e2 d e |
+B2).('B G F E |
+B2B G F E |
+B2>){.('B} A2 G F |
+A2GE3) |]

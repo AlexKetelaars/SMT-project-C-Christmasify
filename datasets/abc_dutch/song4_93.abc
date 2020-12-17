@@ -1,0 +1,25 @@
+X: 3092
+T: Hebt gij het treurig nieuws gehoord wat in o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 3454387676
+%%humdrum-veritas-data 923599706
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('F G G [I:setbarnb 1]|
+A2A BA2G A |
+B2d2A2z) .('B |
+A2>B2A2G A |
+B2d2A2z) .('A |
+B2>A2 B Be2 |
+(d2e2)d2z) .('c |
+B B B AG2B B |
+A G F ED2).('E F |
+G2A Bc2B2 |
+(A2F2)G2z2) |]

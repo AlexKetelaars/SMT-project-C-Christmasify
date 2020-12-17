@@ -1,0 +1,22 @@
+X: 12036
+T: 4 Balett
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 660726088
+%%humdrum-veritas-data 1483152378
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f f/ f/ f f e> dc2 |
+b b/ b/ b ag2f2) |
+.('A A B c d> e f A |
+G f f> ef2F2) |
+.('c c/ c/ c c d F G A |
+B D C AB2B,2) |
+.('d d/ d/ g d e c f A |
+G f f> ef2F2) :|]

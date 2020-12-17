@@ -1,0 +1,39 @@
+X: 9606
+T: Er kwam nen boer uit ‘s Hertogenbosch En ‘t  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 717269770
+%%humdrum-veritas-data 3334638474
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2AB2c |
+d d dd2).('d |
+d d cB2A |
+G2>z2 z) .('D/ D/ |
+G G AB2c |
+d3d2).('d/ d/ |
+d2c/ c/B2A |
+G2>z2 z) .('D/ D/ |
+G2AB2c |
+d3d2).('d |
+d d cB2A |
+G2>z2 z) .('D/ D/ |
+G2AB2c |
+d3d2).('d/ d/ |
+d2cB2A |
+G2>z2 z) .('G |
+A A A A A B |
+c2BA3) |
+.('e2ed2B |
+c2AB2).('G |
+A A A A A B |
+c2BA3) |
+.('e2ed2B |
+c2AG2) |]

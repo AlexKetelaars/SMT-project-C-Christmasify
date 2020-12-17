@@ -1,0 +1,29 @@
+X: 11866
+T: Koekoek
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:19
+%%humdrum-veritas 81581189
+%%humdrum-veritas-data 2411065572
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c(c/ d/) e/ f/g |
+fedc) |
+.('c(c/ d/) e/ f/g |
+fed2) :|]
+.('dd/ d/dB |
+cdec) |
+.('d(d/ e/)^fg |
+g>^fg2) |
+.('de/ f/gg |
+fedc) |
+.('fedg |
+eGEg |
+eGE).('(g/ f/) |
+e/ d/ e/ f/g(f/ e/) |
+d>cc2) |]

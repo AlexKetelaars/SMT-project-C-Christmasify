@@ -1,0 +1,31 @@
+X: 5903
+T: Brugge die ook vol zotten leeft, Zij heeft o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:23
+%%humdrum-veritas 4010467028
+%%humdrum-veritas-data 1984296523
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('c d c [I:setbarnb 1]|
+G2GA2A |
+G3).('c2c |
+d2cf2e |
+e2d) .('d e d |
+g2dd2d |
+d2>).('c2 B c |
+G2>c2 B c |
+A2G) .('G E F |
+G2GA2B |
+(A2G)) .('c B c |
+d2cB2c |
+d2>).('f2 e d |
+f e d e d c |
+(c2B)) .('c B c |
+G2fe2d |
+c3z3) |]

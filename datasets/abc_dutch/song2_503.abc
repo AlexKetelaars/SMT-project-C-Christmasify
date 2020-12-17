@@ -1,0 +1,25 @@
+X: 1502
+T: Waarmee maken we varkens vet, met gemalen bo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 3229765302
+%%humdrum-veritas-data 55924441
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B c d dd2 |
+e d c BA2G3/) .('G/ |
+G A B c d dd2 |
+e d c B A AG2) |
+.('d G G G d d G G |
+G A B c d e d3/ c/ |
+B B A AG2).('A B |
+c2B AG2A B |
+c2B AG2z2) |
+.('G A B c d e d3/ c/ |
+B B A AG4) |]

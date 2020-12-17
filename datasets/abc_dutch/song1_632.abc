@@ -1,0 +1,17 @@
+X: 632
+T: Die Heydens quamen tot u vercoren Die uwen t [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:34
+%%humdrum-veritas 381787817
+%%humdrum-veritas-data 132569425
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('G4G2G2G4F2F2G2G2A4A4z2).('A2(AFG)AB4A2G2(FEG)FG4).('G4G2G2G4F2F2G2G2A4A4z2).('A2(AFG)AB4A2(G2FEG)FG4) ]|:
+.('z2G2(F2E)DF4E2D2(CB,D)CD4).('D2F2>G2A2B2B2A2G4!fermata!F4) ]|:
+.('z2G2G2GG(G4F2)F2(GAB)GA4A4z2).('A2(AFG)AB4A2G2(FEG)FG4) |]

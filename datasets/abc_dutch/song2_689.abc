@@ -1,0 +1,26 @@
+X: 1688
+T: Soldaat kwam uit de oorlog en hoera Soldaat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:44
+%%humdrum-veritas 1223136672
+%%humdrum-veritas-data 457447767
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2B (B A) G |
+(A2d) c B A |
+G3z2).('D |
+G2B (B A) G |
+(A2d) c B A |
+G3z2).('d |
+d d B (B c) d |
+e2dc2).('B |
+A2A A B c |
+d2e d B A |
+G3z2) |]

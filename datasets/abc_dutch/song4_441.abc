@@ -1,0 +1,29 @@
+X: 3440
+T: Toen ik nog zo een skipman wier Toen ik nog  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:00
+%%humdrum-veritas 3608643393
+%%humdrum-veritas-data 756179409
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('c c c c |
+B GG2) |
+.('c c c c |
+B G G) .('G |
+B B B B |
+G2z3/) .('G/ |
+c c c c |
+c c c) .('c |
+B2A2 |
+G4) |
+.('G> G G3/ G/ |
+G AG2) |
+[M:3/4].('A B c c c c |
+[M:2/4]B2A2 |
+G3) |]

@@ -1,0 +1,30 @@
+X: 9064
+T: Ach moeder, gij vraagt mij altijd, van welke [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 3013602652
+%%humdrum-veritas-data 180835874
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('E2E D C B, C A |
+G4-G) .('G A G |
+F2D DE2F2 |
+G6z) .('E |
+E2E D C B, C A |
+G4-G) .('G A G |
+^F2D DE2F2 |
+G8) |
+.('E E E FE2C E |
+G G F DB,4) |
+.('F F F F F F E F |
+A A G ^FG4) |
+.('G G G GG2^F G |
+B2A ^GA2).('A A |
+G G/ G/ E EF2D2 |
+C6z2) |]

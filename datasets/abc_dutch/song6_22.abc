@@ -1,0 +1,24 @@
+X: 5021
+T: Jan Rap had al zijn geld verzopen. Daar hij  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 4103654774
+%%humdrum-veritas-data 4005195218
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('C2D EF2D2 |
+C2E2(D B,)G,2) |
+.('C2D EF2D2 |
+(C D) (E F)G4) |
+.('C2E FG2c2 |
+A2A2(A G)G2) |
+.('G2D FE2G2 |
+D2G2E4) |
+.('(G F) D FE2G2 |
+(D C) (D E)C4) |]

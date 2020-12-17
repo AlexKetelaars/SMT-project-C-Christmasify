@@ -1,0 +1,26 @@
+X: 2518
+T: Ik heb gespeeld al met meneer de graaf zowel [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 1902230046
+%%humdrum-veritas-data 3355262805
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G B c [I:setbarnb 1]|
+d3d |
+c B c d |
+[M:3/4]B2>).('d2 e f |
+[M:2/4]g d c B |
+B2A2 |
+z) .('d e f |
+[M:3/4]a> g f e d (e/ f/) |
+g3).('g/ g/ f e |
+[M:2/4]d> c B3/ c/ |
+A2G2 |
+z) |]

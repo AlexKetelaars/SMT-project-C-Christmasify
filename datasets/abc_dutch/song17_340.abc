@@ -1,0 +1,32 @@
+X: 16339
+T: Hy die het blinkend geld, Eerst in de wereld bragt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 1764326870
+%%humdrum-veritas-data 77511313
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d [I:setbarnb 1]|
+B(A/ G/)GG |
+G3).('g |
+e(d/ c/)BA |
+{A2}B3).('B |
+(c/ A/)B{c d}ed |
+{d2}c3).('f |
+d(c/ B<)!trill!!trill!cB/ |
+B3) |
+.('(d/ c/) [I:setbarnb 9]|
+=B(A/ G/)cd |
+e3).('d |
+cBAG |
+{G2}^F3).('d |
+dc{d}c(B/ A/) |
+{A2}B3).('(A/ G/) |
+^F(G/ A<)!trill!!trill!AG/ |
+G3) :|]

@@ -1,0 +1,83 @@
+X: 11020
+T: Als Apóllo, aan het Spaaren, Zang en Poëzy z [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 3291291965
+%%humdrum-veritas-data 344769405
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('(cd)e |
+(dc)B |
+(cB)c |
+A2A) |
+.('(de)f |
+(ed)c |
+c2B |
+c2c) |
+.('B2B |
+(cd)e |
+^G2G |
+(A>B c/ d/ |
+e2)e) |
+.('(ed)c |
+B2c |
+A2B |
+^G3) |
+.('A2B |
+c2d |
+(e/ d/ e/ f/ e/ d/) |
+e2d |
+e3) |
+.('e2c |
+d2(e/ d/) |
+c2d |
+B2B) |
+.('(e/ f/ d/ e/ c/ d/ |
+B/ c/ d/ c/ B/ c/) |
+A2B |
+(cd)e |
+(cd)e |
+A2A) |
+.('^G2G |
+A2B |
+(c>d c/ d/ |
+e>f e/ f/ |
+d>e d/ e/ |
+f>e f/ g/) |
+e2e |
+e3) |
+.('(ed)c |
+d2(e/ B/) |
+(cB)A |
+A3) |
+.('(A^G)A |
+(BA)B |
+(cB)(A/ B/) |
+c2c) |
+.('(ed)e |
+(cd)e |
+(de)f |
+e3) |
+.('e2(e/ d/) |
+(cd)e |
+(dc)d |
+B2B) |
+.('c2c |
+(de)(f/ d/) |
+d2e |
+e3) |
+.('(A>B c/ d/ |
+ed)f |
+(ed)e |
+(dc)d |
+B2B) |
+.('e2d |
+c2(e/ B/) |
+(cB)A |
+A2A) |]

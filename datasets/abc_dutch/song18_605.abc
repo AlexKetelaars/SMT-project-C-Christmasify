@@ -1,0 +1,30 @@
+X: 17604
+T: l’ordre Theresien
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 1316053639
+%%humdrum-veritas-data 980981403
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=96
+K: Bb clef=treble
+.('!wedge!c (d e d) !wedge!c (e d c) |
+{e}d4d4 |
+!wedge!d (e f e) !wedge!d (f e d) |
+e4e4) |
+.('!wedge!f (g _a g) f2 f2 |
+d e f e d2 d2 |
+g c g c _a c g c |
+G,4G,4) |
+.('(g f g _a) (g f g a) |
+!wedge!g4!wedge!g4 |
+(f e f g) (f e f g) |
+!wedge!f4!wedge!f4) |
+.('(e/ f/ e3) (_a/ g/ a3) |
+(d/ e/ d3) (g/ f/ g3) |
+c d e d c _a g =B |
+c2 G2C4) :|]

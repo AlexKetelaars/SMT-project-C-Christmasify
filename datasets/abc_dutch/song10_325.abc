@@ -1,0 +1,28 @@
+X: 9324
+T: Er reed een jonkheer, hij was wellegemoed, ( [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3464769577
+%%humdrum-veritas-data 952753805
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('A [I:setbarnb 1]|
+A2>(A2 G) A |
+E3A2A |
+B c B (d c)) .('B |
+A2>(A2 G) A |
+E3A2A |
+B c B B) .('c B |
+B c B B c B |
+F3F2F |
+F3).('c2B |
+A2>(A2 G) F |
+E3A2B |
+c3c2B |
+A3z2) |]

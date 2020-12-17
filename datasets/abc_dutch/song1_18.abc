@@ -1,0 +1,52 @@
+X: 18
+T: De mensch, door al zijn leven (Al is zijn oo [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 785050450
+%%humdrum-veritas-data 2864370273
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=132
+K: F clef=treble
+.('z2A |
+G2A |
+F>GA |
+G3 |
+F2).('A |
+G2A |
+F2F |
+E2).('E |
+D2E |
+C2E |
+D3 |
+C3) |
+.('F2G |
+C3 |
+F>G A/ B/ |
+c/ B/ A/ G/F |
+G2F |
+F3) |
+.('AAA |
+F2).('F/ G/ |
+A2G/ F/ |
+G2).('E |
+D2E |
+F2G |
+F>G A/ B/ |
+c/ B/ A/ G/F |
+G3) |
+.('AAA |
+F2z) |
+.('FG/ F/ G/ A/ |
+B2A |
+G3) |
+.('c2A |
+F2G- |
+GA/ G/ A/ B/ |
+c/ B/ A/ G/F |
+G2F |
+F3) |]

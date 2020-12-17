@@ -1,0 +1,15 @@
+X: 678
+T: Met groot jolijt Ben ick so seer verblijt
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 1478397583
+%%humdrum-veritas-data 4193215562
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: F clef=treble
+.('z2F2F2G2A4z2).('A2B2>A2(GAB)GA4).('F2>G2A2>G2F2B2>A2-A4G2A4z2).('A2A2A4<B4A2AGAFEF).('GAG2F2F2E2F4).('A4A2>A2AABAGFED).('EF2<G2FF4E2F4) |]

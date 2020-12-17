@@ -1,0 +1,36 @@
+X: 7623
+T: No 47
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:39
+%%humdrum-veritas 3993194391
+%%humdrum-veritas-data 709624456
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d [I:setbarnb 1]|
+dccB |
+B2!trill!!trill!d2) |
+.('dccB |
+A2!trill!!trill!c2) |
+.('BdB(A/ B/) |
+G2!trill!!trill!A2) |
+.('BdB(A/ B/) |
+G3) |
+.('G [I:setbarnb 9]|
+G(A/ B/)A(A/ B/) |
+!trill!!trill!A3).('A |
+B/ ^c/ d/ e/dc |
+d3).('d |
+dccB |
+B2!trill!!trill!d2) |
+.('dccB |
+!trill!!trill!A2!trill!!trill!c2) |
+.('BdB(A/ B/) |
+G2!trill!!trill!A2) |
+.('BdB(A/ B/) |
+G3) :|]

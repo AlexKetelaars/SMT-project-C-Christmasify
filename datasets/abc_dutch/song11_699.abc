@@ -1,0 +1,53 @@
+X: 10698
+T: 25
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:08
+%%humdrum-veritas 705855463
+%%humdrum-veritas-data 3750501595
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+(3G G G G> G B> B G3/) .('g/ |
+f> f (3f e fg2x2) ||
+.('B ed2d bg2 [I:setbarnb 4]|
+g> g (3g f ga2z2) |
+.('A ec2c af2 |
+a> a (3a ^g ab3).('d |
+(3d g g (3g d B F e e3/ d/ |
+F d d>) .('c (3B c ^c (3d e f |
+(3g f g (3e ^d e (3c B c A3/ =d/ |
+(3d ^c d b> ag2z) ||
+(3.('A/ d/ f/ [I:setbarnb 11]|
+a> a f> f d> d A3/ d/ |
+^c c (3c B c b a b a) |
+.('a> a f> f d> d A d |
+[M:2/4](3^c b a (3g f e |
+d3) ||
+.('d [I:setbarnb 16]|
+[M:4/4]c a (3a ^g a b =g) (3.('g f e |
+d a (3a ^g ab2).('=g d |
+c a (3a ^g a b =g) (3.('g f e |
+(3d ^c d b> ag2z) ||
+.('G [I:setbarnb 20]|
+G> e (3e d cA3c |
+B g (3g f g a g a g) |
+.('G e (3e d cA3c |
+(3B a g (3=f e dc2z) ||
+.('^c [I:setbarnb 24]|
+d2=f dd2g d |
+(3^c d e (3=f g a (3_b a g (3f e d) |
+.('d2=f dd2g d |
+(3^c d e (3=f g a _b> b b3/) .('G/ |
+G e (3e d cA3).('c |
+B> g (3g f g a g a g |
+G e (3e d cA3).('c |
+(3B a g (3=f e dc2z) ||
+.('D [I:setbarnb 32]|
+(3G G G (3G D G B> B G3/) .('g/ |
+f> f (3f e fg2z2) |]

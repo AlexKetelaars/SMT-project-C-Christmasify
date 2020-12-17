@@ -1,0 +1,31 @@
+X: 2084
+T: Haallijntje boellijntje katrijntje Amsterdam [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 869740646
+%%humdrum-veritas-data 3415158929
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> G G B> B B |
+d3B3) |
+.('c c c d d d |
+G3z2).('D |
+G G G B G B |
+d3B2).('B |
+c c cd2d |
+G3z3) |
+.('d3e2d |
+c3d2c) |
+.('B3c2B |
+A z zz3) |
+.('d3e2d |
+c3d2c) |
+.('B3d2d |
+g z zz2) |]

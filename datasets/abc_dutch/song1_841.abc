@@ -1,0 +1,33 @@
+X: 841
+T: In Oostlant wil ic varen mijn bliven en is h [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3537976162
+%%humdrum-veritas-data 105013918
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d [I:setbarnb 1]|
+ddcB |
+G2A).('B |
+(3:2:7c>d e (d/ c/) d B |
+A3).('d |
+ddcB |
+G2A).('B |
+(3:2:7(c>d) e d/ c/ d B |
+A3).('A |
+AA(3B>B B |
+[M:3/2]c2A).('Ac3/B/ |
+[M:2/2](3:2:5(A>G F E)D2 |
+C2z).('c |
+cc/ c/cc |
+d2A).('A |
+(3:2:6(c>d) e/ e/d2c |
+[M:3/2]d2A).('Ac3/B/ |
+[M:2/2](3:2:4(AG2)FE2 |
+D4) |]

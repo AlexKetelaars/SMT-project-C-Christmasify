@@ -1,0 +1,27 @@
+X: 1938
+T: Het is nog niet zo lang geleden Bestond in d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 125799935
+%%humdrum-veritas-data 133614443
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+GGFG |
+ADz).('D |
+AAGA |
+B2z).('B |
+B>BBd |
+dc2).('B/ A/ |
+G>GA3/A/ |
+B2z).('B |
+B>BBf |
+fe2).('B/ B/ |
+dd(d/ c/) (B/ A/) |
+G2z) |]

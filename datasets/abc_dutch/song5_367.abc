@@ -1,0 +1,23 @@
+X: 4366
+T: Die blauwe blommekes staan in het koren En d [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 2504531557
+%%humdrum-veritas-data 188479666
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('A [I:setbarnb 1]|
+B2B B B B |
+c2BB2A) |
+.('G2GA2A |
+B2AG3) |
+.('G2FE2D |
+E2FG2F) |
+.('G2AB2B |
+G2=FE3) |]

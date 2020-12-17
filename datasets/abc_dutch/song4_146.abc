@@ -1,0 +1,31 @@
+X: 3145
+T: Oorlof gij jonge deernen Meiskes die zo gère [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:57
+%%humdrum-veritas 688002752
+%%humdrum-veritas-data 1771330314
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>B2 (d c) (B A) |
+G4F2).('F G |
+A2B2d> c B A |
+G4z2).('D D |
+G2B2(d c) B A |
+G4F2).('F G |
+A2B2d c B A |
+G4z2).('G A |
+B2B2(B d) c B |
+A> A A A (A c)) .('B A |
+G2G2B2G3/ G/ |
+F G A FD2z) .('D |
+G2B2d> c B A |
+(B A B cd2)).('D2 |
+G2B2d> c B A |
+G6) |]

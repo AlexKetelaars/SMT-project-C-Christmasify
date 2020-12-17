@@ -1,0 +1,23 @@
+X: 4216
+T: Een deugdzaam paar had ruim twee jaar gevree [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 3137012785
+%%humdrum-veritas-data 2048381621
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d e d [I:setbarnb 1]|
+d2>c2 B d g3/ B/ |
+B2A2>).('d2 e e/ e/ |
+d2>c2 B d e d |
+B4-B) .('G B d |
+g2g2a/ a/ g f g |
+e2e2>).('a2 g e |
+d2>e2 f e d3/ c/ |
+B4-B) |]

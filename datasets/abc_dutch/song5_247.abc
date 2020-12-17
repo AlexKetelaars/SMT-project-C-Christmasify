@@ -1,0 +1,22 @@
+X: 4246
+T: Ik liep eens te wandelen alleen op de straat [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 684713538
+%%humdrum-veritas-data 2383011892
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G G> G G/ G< G G/ |
+B B BG2).('d |
+d d d d c B/ B/ |
+B A AA2).('d |
+d c c B G B |
+c/ c/ d ed2).('B |
+d c c B G G |
+c B AG2) |]

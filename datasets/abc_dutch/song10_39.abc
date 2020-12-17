@@ -1,0 +1,29 @@
+X: 9038
+T: Wat groeit er in mijnen hof? Ajuin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 3428374859
+%%humdrum-veritas-data 87159030
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A [I:setbarnb 1]|
+c c cc2c |
+A3z2z) |
+.('!fermata!c3!fermata!A2).('A |
+c2cc2c |
+A3z2z) |
+.('!fermata!c3!fermata!A3) ||
+[M:2/4].('F2A2 [I:setbarnb 8]|
+c c A A |
+B B G) .('G |
+c cA2 |
+F2A2 |
+c c A A |
+B2c2 |
+F2z) |]

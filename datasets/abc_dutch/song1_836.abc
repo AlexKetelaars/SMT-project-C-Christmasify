@@ -1,0 +1,26 @@
+X: 836
+T: Ik kwam laatst door den boogaard gegaan en i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 3831419073
+%%humdrum-veritas-data 2915618275
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('GE2F [I:setbarnb 1]|
+G3A2>B2 c B |
+[M:6/8]A2).('B/ A/G2E |
+[M:9/8]G3A2>B2 c B |
+[M:6/8]A2).('FA2d |
+d2c B A G |
+F2>).('D2 E F |
+G2>A2 G A |
+B2).('FA2d |
+d2c B A G |
+F2>).('D2 E F |
+G3z2) |]

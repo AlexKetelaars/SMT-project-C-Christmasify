@@ -1,0 +1,47 @@
+X: 11125
+T: Dries, schoon kaal, En wat schraal Ryk van v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 597232210
+%%humdrum-veritas-data 1663248974
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: A clef=treble
+.('(C/ D/)E [I:setbarnb 1]|
+A2(C/ D/)E |
+A,2AB |
+cB/ c/ d/ c/ B/ A/ |
+BE).('(G/ A/)B |
+e2(G/ A/)B |
+E2eB |
+c/ B/ A/ G<FE/ |
+E2).('(C/ D/)E |
+A2(C/ D/)E |
+A,2AB |
+c(B/ c/) d/ c/ B/ A/ |
+BE).('(G/ A/)B |
+e2(G/ A/)B |
+E2eB |
+c/ B/ A/ G<FE/ |
+E2).('(c/ d/)e |
+(c/ d/)edc |
+BA(c/ d/)e |
+(c/ d/)ef^d |
+e2).('ee |
+cAd/ e/ d/ c/ |
+B2cc |
+AFB/ c/ B/ A/ |
+G2).('BE |
+cEdE |
+eEc(B/ A/) |
+GABG |
+A2).('EA, |
+FA,GA, |
+AA,EA, |
+(F/ E/) (D/ C<)B,A,/ |
+A,2) |]

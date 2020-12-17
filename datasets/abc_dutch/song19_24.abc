@@ -1,0 +1,50 @@
+X: 18023
+T: 53
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2456920213
+%%humdrum-veritas-data 3866801446
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B3 d [I:setbarnb 1]|
+{e} d c {d} c B2< (A2 B/ c/) |
+{d} c B {c} B A2< G2 B |
+(B A) (c B) B A B G |
+!trill!!trill!G2 F2 B3 d |
+{e} d c (B A2<) (A2 B/ c/) |
+(c B) (A G2<) (G2 A/ B/) |
+(B E) (c A) G2 !trill!!trill!F2 |
+G4).('(d B) (c A) |
+(B G) (G B) {e} d (c/ B/) {d} c (B/ A/) |
+(3(B A G) (G2 B2) (d g) |
+g2 A> e (d c) (B A) |
+(A2 B2) (G B) (d g) |
+g2 (A> e) {e} d (c/ B/) {d} c (B/ A/) |
+{A}!fermata!G4).('B3 A |
+G2> d2 (d c) (c B) |
+!trill!!trill!B2 A2 (B3 A) |
+G2> d2 {e} d c {d} c B |
+{g2 B2} (!trill!!trill!B2 A2) A2 d2 |
+!trill!!trill!d3 (^c/ d/) e3 G |
+!trill!!trill!G2 F2 A2 A2 |
+(3B ^c d (3E F G F2 !trill!!trill!E2 |
+D4).('A3 d |
+(E3 F/ G/) !trill!!trill!G2 F2 |
+{^c} d2 {c} d2 d B A G |
+!trill!!trill!F2 E2D4) ||
+.('x4G3 G [I:setbarnb 27]|
+(G2 F2) {d} d3 =F |
+!trill!!trill!=F2 E2 A2 A2 |
+(A2 ^G2) {e} e3 G |
+!trill!!trill!G2 F2 {^c} d2 d2 |
+c2 _B2 A2 G2 |
+(3(F G A) A2 {_B} d2 d2 |
+c2 _B2 A2 G2 |
+D4{^c}!trill!!trill!d4 |
+D4{D/ E/ F/ G/ A/ B/ c/)} |]

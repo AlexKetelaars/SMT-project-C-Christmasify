@@ -1,0 +1,15 @@
+X: 82
+T: Hoe langh hebt ghy besloten Heer, my te verg [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 1278772430
+%%humdrum-veritas-data 2444114825
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G4G2G2B2B2c2c2d4z4).('d4e2f2d2g4f2e4d4z4).('d4c2B2A2B2c2d2c4B4z4).('d4c2c2d4f4f2e2(d2B2)A4z4).('d4c2A2c4B2G2A4G4) |]

@@ -1,0 +1,15 @@
+X: 4354
+T: Ene ruitersknecht die wil ik niet Nog voor g [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 513804429
+%%humdrum-veritas-data 4073032242
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d/ d< d d< d c/ B G2<B2).('G B d g d c Bd2A2>).('d2 d f a g d> c B/ B/ d2<g2).('e g e d/ d/ B c BA2G3) |]

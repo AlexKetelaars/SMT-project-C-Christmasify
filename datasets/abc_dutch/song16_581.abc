@@ -1,0 +1,38 @@
+X: 15580
+T: Nieuw: Rotterdam
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:55
+%%humdrum-veritas 732262227
+%%humdrum-veritas-data 505561229
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=176
+K: G clef=treble
+.('B [I:setbarnb 1]|
+e2B!trill!!trill!B>AB |
+G2E!trill!!trill!E2).('B |
+e2B!trill!!trill!B>AB |
+G2E!trill!!trill!E2).('B |
+e>fgf>e^d |
+e2e!trill!!trill!e2).('B |
+e>fgf>e^d |
+e2ee2) |
+.('B/ c/ [I:setbarnb 9]|
+d2AA>Bc |
+B2GG2).('B/ c/ |
+d2AA>Bc |
+!trill!!trill!B>ABG2).('d |
+g>aba>bf |
+g2g!trill!!trill!g2).('b |
+e>fgg>fe |
+f2B!trill!!trill!B2).('b |
+e>fgg>fe |
+f2B!trill!!trill!B2).('G |
+A>BcB>^c^d |
+e2e!trill!!trill!e2).('G |
+A>BcB>^c^d |
+e2ee2) :|]

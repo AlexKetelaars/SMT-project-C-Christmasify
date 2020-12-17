@@ -1,0 +1,29 @@
+X: 7299
+T: Daer was een meysken zoo jonk en gezond; Ze  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2212234107
+%%humdrum-veritas-data 3444306448
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c2c> cc2d e |
+(g f) e dc2).('(d e) |
+(g f) e dc2z3/) .('c/ |
+c2d> e f e d c |
+B2(A> G)G2z3/) .('d/ |
+d2c> Bc2z3/ d/ |
+d2c> Bc2z) .('G |
+c2c cd2f d |
+(c B) A B2<c2).('G |
+c2c cd2f d |
+(c B) A Bc2).('E E/ F/ |
+G G G GG2G A/ B/ |
+c A G ^FG2z) .('G |
+c2c cd2f d |
+(c B) A Bc2z2) |]

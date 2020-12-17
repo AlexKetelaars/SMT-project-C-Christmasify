@@ -1,0 +1,28 @@
+X: 2904
+T: Gij moeder van al die valse vrouwen Die spra [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:55
+%%humdrum-veritas 1973193799
+%%humdrum-veritas-data 1966834232
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('c c B B [I:setbarnb 1]|
+G2Bd2e |
+(d2c)A3- |
+A2).('dd2f |
+e2d d c B |
+A2).('B c c e |
+d3B2d |
+d2cB3- |
+B2).('dd2f |
+e2d d c B |
+A2).('B c c e |
+d3G2c |
+B2AG3- |
+G2) |]

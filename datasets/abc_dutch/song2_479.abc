@@ -1,0 +1,25 @@
+X: 1478
+T: Ik kwam voor zeven weken In een stad al van  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2482621108
+%%humdrum-veritas-data 3604292948
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> F G> A B> G F3/ G/ |
+A> G A> BA3).('A |
+B> A B> c d> d B3/ c/ |
+d d e dz2).('G3/ B/ |
+d> d d> ed2e3/ d/ |
+d> c c> cc2).('d3/ c/ |
+B> B B> B B> d c3/ B/ |
+A2d2d2).('G3/ A/ |
+B> A B> c d> d e3/ c/ |
+B2A2G3) |]

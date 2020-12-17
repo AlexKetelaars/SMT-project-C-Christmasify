@@ -1,0 +1,31 @@
+X: 790
+T: Gy volckeren hoor aen! Al gelyck,, Arm en ry [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:36
+%%humdrum-veritas 4003558107
+%%humdrum-veritas-data 2620257592
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d2 [I:setbarnb 1]|
+d2>_e2d2c2 |
+B6).('c B |
+A2B AG2A G |
+(F2>E2)D2).('G A |
+B2A Bc2B c |
+d2B2).('(c B A G) |
+^F2G2G2F2 |
+G6).('G A |
+B2A Bc2).('B c |
+d2G AB2).('(c d) |
+_e2d2(c B)c2 |
+B6).('B2 |
+c2>c2c3d |
+B4).('(c B A G) |
+^F2G2G2F2 |
+G6) |]

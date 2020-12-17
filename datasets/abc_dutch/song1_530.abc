@@ -1,0 +1,51 @@
+X: 530
+T: Den Hemel is ons vreugd, Den Hemel ons verhe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3932818822
+%%humdrum-veritas-data 432417064
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z2zA |
+A>GF3/E/ |
+D>).('FE3/D/ |
+^C>DE3/).('C/ |
+D>EF3/G/ |
+(A4 |
+_B4) |
+A2z).('A |
+A>GF3/E/ |
+D>).('FE3/D/ |
+^C>DE3/).('F/ |
+GA2G/ F/ |
+E2D2 |
+z3).('D |
+D>EF3/G/ |
+A2A).('B |
+c2d2 |
+c2B2 |
+A2z).('D |
+D>EF3/G/ |
+A2A).('B |
+c2c2 |
+B2B2 |
+A2z).('A |
+A>GF3/E/ |
+D>).('FE3/D/ |
+^C>DE3/).('C/ |
+D>EF3/G/ |
+(A4 |
+_B4) |
+A2z).('A |
+A>GF3/E/ |
+D>).('FE3/D/ |
+^C>DE3/).('F/ |
+G2A2 |
+GFE2- |
+E2D2) |]

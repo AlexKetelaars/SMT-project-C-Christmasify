@@ -1,0 +1,36 @@
+X: 16600
+T: Stel u o myn ziel tot treuren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 2498800331
+%%humdrum-veritas-data 2148060621
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('z4A2(A3/ B/) |
+B2(e> f)d2(c B/ A/) |
+^G2G2(e A) (d e) |
+^G2(A B)c2(B A) |
+A2z2) |
+.('e3e [I:setbarnb 6]|
+(c/ B/ A)A2(d B) (c d) |
+^G2E2e3g |
+(f g) (f e2<)d2c |
+c4).('!mordent!!mordent!c3d |
+e3(d/ c/)B3A |
+^G2G2e3f |
+(g c)c2(d/ e/f2)e |
+d2d2).('e3d |
+(c B) (A G2<)^F2E |
+E4!mordent!!mordent!B2B2 |
+e3(d/ c/)B3A |
+B2E2).('e3e |
+(e> A)A2(d/ e/f2)e |
+d2d2e2(c/ B/ A) |
+(^G d) (c B2<)B2A |
+A4) |]

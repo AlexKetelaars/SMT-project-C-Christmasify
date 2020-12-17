@@ -1,0 +1,33 @@
+X: 10060
+T: Hij was getrouwd in den echtenband, ‘IJ had  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:02
+%%humdrum-veritas 4185432379
+%%humdrum-veritas-data 3062056669
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('E [I:setbarnb 1]|
+B,2E^DDE |
+B2>(G2EG) |
+E3-E2).('E |
+^D2EFGA |
+B3B3 |
+F3-F2).('A |
+B2BGFE |
+G3E3 |
+(^DB,D)B,3- |
+B,2).('AB2e |
+B2BGFE |
+^D2).('B,E2F |
+GFEA2d |
+B3F3- |
+F2).('^AB2B |
+GFEB3 |
+(GEG)E3- |
+E2) |]

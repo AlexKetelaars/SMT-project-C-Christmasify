@@ -1,0 +1,55 @@
+X: 4328
+T: Daar komen wij aan met onze lantaren Wij zoe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 3484768259
+%%humdrum-veritas-data 3736495715
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G B dd2d |
+d B G A A) .('A |
+A B c c B A |
+G F E D D) .('D |
+G G GG2B |
+d B dA2).('A |
+A A B c B A |
+G F ED2).('D |
+G G G G G B |
+d B GA2).('A |
+A A B c B A |
+G F ED2).('G |
+G B d d d d |
+d B GA2).('A |
+A B c c B A |
+(G F) ED3) |
+.('G2G (G B) d |
+(d B) GA3) |
+[M:9/8].('A2A A B c (c B) A |
+[M:6/8]G F ED2).('D |
+G G G G G B |
+d B G A A) .('A |
+A A B c/ c/ B A |
+G F E D D) .('D |
+G/ G/ G G G G B |
+d B GA2).('A |
+A A B c B A |
+(G F) ED2).('D |
+[M:2/4]G> A G D |
+G> A G) .('B |
+d d B G |
+A A A3/) .('D/ |
+G G A A |
+B2d2) |
+.('A A (3A A A |
+B2d3/) .('A/ |
+A A A A |
+A4) |
+.('A A/ A/ A A |
+A A z) |]

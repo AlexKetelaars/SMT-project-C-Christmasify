@@ -1,0 +1,23 @@
+X: 15366
+T: Wees welkom o vriendelijk avond
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:53
+%%humdrum-veritas 2877054143
+%%humdrum-veritas-data 4043613375
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: A clef=treble
+.('E [I:setbarnb 1]|
+E2C D E c B A |
+A GG2z2).('A F |
+F E C E E D B, D |
+(D2C2)z2).('E2 |
+c2A Ed2B G |
+e cA2z2).('E ^E |
+F2d B B A A G |
+B2A2z2z) |]

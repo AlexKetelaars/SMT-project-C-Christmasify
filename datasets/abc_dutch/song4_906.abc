@@ -1,0 +1,23 @@
+X: 3905
+T: Hoort hoe Gods wonderwerken Hier in het aardse dal
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:04
+%%humdrum-veritas 896846673
+%%humdrum-veritas-data 3795598098
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('B [I:setbarnb 1]|
+B2Bc2B |
+AA2z2).('d |
+d2dd2c |
+B3z2).('B |
+c2Bc2d |
+e2>(c2 B)) .('A |
+(G F) GB2A |
+G3z2) |]

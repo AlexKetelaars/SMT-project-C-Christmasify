@@ -1,0 +1,30 @@
+X: 6910
+T: Eens had ik mijn wagen verhuurd en dat aan o [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 2054611329
+%%humdrum-veritas-data 273212914
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F2FF2G |
+A> A AA2).('F |
+G2GB2E |
+G3F2z) |
+.('F2FF2G |
+A2AA2F) |
+.('G2GB2E |
+G3F2z) |
+.('c3c3 |
+B A GA2F) |
+.('c2cc2B |
+A2GA2F) |
+.('F2GA2z |
+A2GA2G) |
+.('F2Ac2z |
+C3F2z) |]

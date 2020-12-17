@@ -1,0 +1,23 @@
+X: 5387
+T: In de nectargroene heide Stond een wondersch [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 2209702707
+%%humdrum-veritas-data 1024571889
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E E [I:setbarnb 1]|
+A4A2B4B2 |
+c2A4z4).('A A |
+d4d2c4e c |
+B6z4)(3.('E E E |
+A4A2B4B2 |
+c2A4z4).('d2 |
+d d d d d2 c c c c c2 |
+B A A A B2 c2A4) |

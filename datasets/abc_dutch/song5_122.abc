@@ -1,0 +1,27 @@
+X: 4121
+T: Toen onze vader Adam nog ’nen jonkman was To [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:06
+%%humdrum-veritas 1603231331
+%%humdrum-veritas-data 2370763095
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G> G G G G F G A |
+B2A2G3).('B |
+A> G F G A B A G |
+F2E2D3).('D |
+A> A A B2<c2c |
+B> c d> BA3).('D |
+c> c c c B B c c |
+B2A2G) .('G F G |
+E> E E E E G F G |
+D> D D D2<D2).('D |
+G2>B2d3e |
+d> c B AG3) |]

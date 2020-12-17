@@ -1,0 +1,33 @@
+X: 1530
+T: Ik stond laatst voor een poppenkraam, o o o  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 558853617
+%%humdrum-veritas-data 1876047631
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GB/AG/ |
+FE/D3/ |
+E3/F3/ |
+G3/z).('D/ |
+GB/AG/ |
+FE/D3/ |
+E3/F3/ |
+G3/z).('G/ |
+AA/AB/ |
+cB/A).('A/ |
+BG/FG/ |
+AF/D).('D/ |
+ED/ E/ E/ F/ |
+G3/).('c3/ |
+BB/ A/ A/ A/ |
+d3/).('c3/ |
+BB/ A/ A/ A/ |
+G3/z) |]

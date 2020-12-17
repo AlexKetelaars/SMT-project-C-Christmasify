@@ -1,0 +1,34 @@
+X: 8201
+T: In het seizoen, ‘t Was in de lentedagen, Ik  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:44
+%%humdrum-veritas 1860087175
+%%humdrum-veritas-data 1151259980
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('z c =B _B [I:setbarnb 1]|
+A2-A C F A d3/ c/ |
+c2E2z) .('E G B |
+e2e d c d B c |
+A4z) .('c =B _B |
+A2-A C F A d3/ c/ |
+c2E2z) .('E G B |
+e2>d2 c d B c |
+A4z) .('G G G |
+G2>G2 (G =B) d f |
+(e d) c) .('e d (3(c/ d/ c/) =B A |
+d f A =B c) .('d _B G |
+F2-F C F A d3/ c/ |
+(c =B)_B2-B) .('G G F |
+E2z) .('e e d c B |
+A4z) .('c =B _B |
+A2-A C F A d3/ c/ |
+(c =B)_B2-B) .('G G F |
+E2z) .('e e d B G |
+F4) |]

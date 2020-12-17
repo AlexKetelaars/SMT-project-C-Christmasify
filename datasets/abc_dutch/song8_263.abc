@@ -1,0 +1,38 @@
+X: 7262
+T: Een stuk van liefde moet ik u verhalen, Getr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 1636146984
+%%humdrum-veritas-data 2941173680
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('A2B B |
+c3B |
+A G A E |
+E2D2) |
+.('G2G G |
+A3A |
+G A G F |
+E4) |
+.('A2B B |
+c3B |
+A G A E |
+E2D2) |
+.('G2G G |
+A3A |
+G A G F |
+E4) |
+.('E2E F |
+E2D2 |
+G2A B |
+A2G) .('G |
+A A B B |
+c3B |
+{c} B A {B} A G |
+A3z) |]

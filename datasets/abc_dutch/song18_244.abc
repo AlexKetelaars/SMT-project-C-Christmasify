@@ -1,0 +1,56 @@
+X: 17243
+T: Ach! 't is te lang vertoeft, myn heil schynt [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:11
+%%humdrum-veritas 3974984802
+%%humdrum-veritas-data 950578539
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=bass
+.('z2C2- |
+CG,/ G,/G,G, |
+_A,2zF, |
+D,>D,D,E, |
+C,2C,2) |
+.('G,2zG,/ E,/ |
+B,B,/ G,/CC3// D// |
+=B,3).('D |
+EDCB, |
+A,2A,D |
+G,2G,A, |
+^F,).('A,A,A, |
+B,2B,E |
+A,2A,3/B,/ |
+G,2G,2 |
+z2z).('E |
+G,2z/ G,/ G,/ C/ |
+A,2D=B, |
+C2C=B, |
+C2z).('C, |
+G,2CC/ E/ |
+C2_A,C |
+F,2F,F, |
+D,2D,).('F,/ F,/ |
+B,B,/ B,<EB,/ |
+E,>E,E,G, |
+C,z/) .('E,/ E,/ F,/ G,/ A,/ |
+B,B,/ B,/CD/ E/ |
+D2).('B,B,/ B,/ |
+_A,G,F,B, |
+E,2E,2) |
+.('G,G,G,A, |
+B,2B,C |
+A,>).('B,C3/D/ |
+G,>G,A,3/A,/ |
+^F,>).('B,CD |
+CB,A,3/D/ |
+=B,2B,).('E |
+G,2z/ G,/ G,/ C/ |
+A,2D=B, |
+C2C=B, |
+C4) |]

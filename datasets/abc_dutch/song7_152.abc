@@ -1,0 +1,40 @@
+X: 6151
+T: Serbande
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:25
+%%humdrum-veritas 2374960248
+%%humdrum-veritas-data 1374047682
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('B/ c/ [I:setbarnb 1]|
+d2g2 |
+d2c/ B/A |
+GABc |
+dd/ e/d).('B/ c/ |
+d2g2 |
+d2c/ B/A |
+GABc |
+d3) :|]
+.('d/ e/ [I:setbarnb 9]|
+f2f2 |
+f2e/ d/f |
+fe/ d/cB |
+cc/ d/c).('A/ B/ |
+c2c2 |
+c2B/ c/d |
+edcA |
+B2z).('B/ c/ |
+d2d2 |
+d2c/ d/e |
+dcBA |
+GG/ A/G).('B/ c/ |
+d2d2 |
+d2c/ d/=e |
+^fgaf |
+g2) |]

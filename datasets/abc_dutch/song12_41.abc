@@ -1,0 +1,27 @@
+X: 11040
+T: ‘t Wie simmerdei, in moaije joun, Ik hie sa’ [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 389694352
+%%humdrum-veritas-data 1244316847
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('G A B [I:setbarnb 1]|
+c2E2G2B,2 |
+C4z) .('C D E |
+F2D2E3C |
+(E> D)D2z) .('G G F |
+E2>E2 (D G F) D |
+C4z) .('C D E |
+(D G) (G B2<)B2A |
+A2G2z) .('G A B |
+c2G2d2G2 |
+e4z) .('d c B |
+A2d2c2B2 |
+c4z) |]

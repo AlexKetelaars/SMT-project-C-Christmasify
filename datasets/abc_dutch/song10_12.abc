@@ -1,0 +1,31 @@
+X: 9011
+T: Waar dat men zich al keert of wendt, End’ wa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 39622443
+%%humdrum-veritas-data 1022131858
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+D>EFG |
+A>AA).('d |
+^cdec |
+d2z).('A |
+D>EFG |
+A>AA).('d |
+^cdec |
+d2z).('d |
+e>dcB |
+c>BA).('(A/ B/) |
+c>BAG |
+F3).('F |
+cAd(c/ _B/) |
+AAA).('(G/ F/) |
+EDE^C |
+D3) |]

@@ -1,0 +1,28 @@
+X: 59
+T: Maeck, mijn snaren, een geklanck Dat de zinn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 3108205418
+%%humdrum-veritas-data 3476045598
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: F clef=treble
+.('A2d^c2d |
+d2^cd3) |
+.('f2fe2e |
+d2d^c2A) |
+.('A2d^c2d |
+d2^cd3) |
+.('f2fe2e |
+d2d^c2A) |
+.('e2fg2e |
+f2dA2z) |
+.('F2AG2B |
+A2cd2).('f |
+e2dd2^c |
+d6) |]

@@ -1,0 +1,27 @@
+X: 1505
+T: Goeie vriend ik vraag aan u Zeg eens wat is  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 4166334949
+%%humdrum-veritas-data 3818141303
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D G F A G BD2 |
+G> G F A G BD2) |
+.('E D E FG2z2) |
+.('G G F E E DD2) |
+.('E D D D E/ E/ D D D/ D/ |
+E E/ E/ F FA2G2) ||
+.('D G F A G BD2 [I:setbarnb 8]|
+G> G F A G BD2) |
+.('E D E FG2z2) |
+.('G2F AG2D D |
+E D D D E DD2) |
+.('E D D D E/ E/ D D D/ D/ |
+E E/ E/ F FA2G2) ||

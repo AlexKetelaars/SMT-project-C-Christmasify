@@ -1,0 +1,26 @@
+X: 7331
+T: Daer wandeld’ ä patertje langst de kant; Hy  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:36
+%%humdrum-veritas 2308413576
+%%humdrum-veritas-data 3543086941
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('z z G G G G |
+G3D2D |
+E2ED2).('G |
+G G GG3 |
+D2DE2E |
+D2>-D2 z) .('G/ G/ |
+A2A A B B |
+c2BA3) |
+.('B2G (G F) G |
+A A AD3) |
+.('E2EF2F |
+G3-G2z) |]

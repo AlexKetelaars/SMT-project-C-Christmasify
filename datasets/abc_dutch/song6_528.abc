@@ -1,0 +1,27 @@
+X: 5527
+T: Te Kieldrecht, te Kieldrecht, Daer zijn de m [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 334375658
+%%humdrum-veritas-data 2520734940
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F/ [I:setbarnb 1]|
+F-F/FA/ |
+c-c/c).('c/ |
+cc/fe/ |
+d3/c).('c/ |
+cc/dd/ |
+cB/A).('c/ |
+cc/dB/ |
+(AG/)F3/) |
+.('f3/FF/ |
+GA/F).('c/ |
+cc/dB/ |
+(AG/)F) |]

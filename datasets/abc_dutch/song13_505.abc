@@ -1,0 +1,41 @@
+X: 12504
+T: Contredans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:25
+%%humdrum-veritas 3665133251
+%%humdrum-veritas-data 3738593552
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('G B [I:setbarnb 1]|
+d4B d |
+d4g2 |
+d2 (d B) (c A) |
+B2 G2) .('G B |
+d4B d |
+e4g2 |
+d2 (d B) (c A) |
+G6) |
+.('x4g2 |
+(f a) d2 d2 |
+(g b) g2 g2 |
+(f a) d2 d2 |
+g4).('(G B) |
+d4(B d) |
+e4g2 |
+d2 (d B) (c A) |
+G6) |
+.('x4D2 |
+(G F G A B c) |
+d2 B2 B2 |
+c2 A2 A2 |
+B2 G2) .('D2 |
+(G F G A B c) |
+d2 B2 B2 |
+c2 A2 A2 |
+G6) :|]

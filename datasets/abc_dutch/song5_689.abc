@@ -1,0 +1,22 @@
+X: 4688
+T: Kom ik aangetreden megog megog megoggeltje
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:11
+%%humdrum-veritas 1223471814
+%%humdrum-veritas-data 1057212687
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('dd/dd/ |
+d3/g).('d/ |
+BB/AA/ |
+BA/G3/) |
+.('dd/dd/ |
+d3/g).('g/ |
+a3/f3/ |
+g3) |]

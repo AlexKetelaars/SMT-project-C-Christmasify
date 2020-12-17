@@ -1,0 +1,29 @@
+X: 10450
+T: Ik voele dat mijn herte leeft, Viva! En dat  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 490618907
+%%humdrum-veritas-data 336364452
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: A clef=treble
+.('E/ [I:setbarnb 1]|
+EA/AB/ |
+cB/AB/ |
+c3/-c).('E/ |
+EA/AB/ |
+cB/AB/ |
+c3/-c).('c/ |
+ce/ed/ |
+cB/B).('B/ |
+dd/cB/ |
+cB/A3/) |
+.('B3/cc/ |
+B3/A3/) |
+.('c3/ed/ |
+B3/A) |]

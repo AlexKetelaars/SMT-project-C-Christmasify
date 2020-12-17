@@ -1,0 +1,15 @@
+X: 130
+T: Heer die ons hebt verstooten al, End verstro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 2250991758
+%%humdrum-veritas-data 3116828184
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('c4f2f2e2d4c4B2c4z4).('c4c2f2e2d2e4f4g4z4).('e4g2g2f2e2d4c4B4z4).('G4A2B2c2d4c4B2c4z4).('e4e2d2c4f4e2d2e4z4).('e4e2d2c4f4e2d2e4z4).('e4g2f2e4d4c2B2A4G4z4).('c4d2e2c4f4e2e2d4c4) |]

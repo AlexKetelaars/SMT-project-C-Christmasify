@@ -1,0 +1,53 @@
+X: 9259
+T: Een vrolijck salich nieuwe liedt, Alder were [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3493105978
+%%humdrum-veritas-data 2980111379
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Eb clef=treble
+.('F2 [I:setbarnb 1]|
+F2F2 |
+EEEE |
+F4 |
+z2).('FF |
+G3G |
+A2A2 |
+(B3A |
+GFG2- |
+G2E2 |
+F3E/ D/) |
+D3).('D/ D/ |
+EEEE |
+C2C2 |
+D4 |
+z2).('E2 |
+F2FF |
+D2D2 |
+(E2DC- |
+CB,/ A,/B,2) |
+[M:3/2]C4z2) |
+[M:2/2].('G2GG |
+(FA>)GF- |
+FE/ D/E2 |
+F4 |
+z2).('F2 |
+G3G |
+A2A2 |
+G2G2 |
+z2).('GG |
+A3A |
+BBBB |
+G2).('A2- |
+A2GF |
+(E2A2- |
+A)G(F2- |
+F2E2) |
+F4- |
+F4) |]

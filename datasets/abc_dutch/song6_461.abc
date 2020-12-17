@@ -1,0 +1,30 @@
+X: 5460
+T: O Schoone Maagt laat ik uw hert bewegen, En  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 1027325828
+%%humdrum-veritas-data 906524047
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('gab |
+^f>ga |
+d(g/ ^f/) (g/ a/) |
+a2g) |
+.('bfg |
+d>_ef |
+(c/> d/)_e(B3// c//) |
+c2B) |
+.('bbb |
+a>bc' |
+fb3/g/ |
+a2g) |
+.('bfg |
+(f/ g/) (f/ _e/)_d |
+(g/ f/) (_e/ d/) (c/ B/) |
+A2G) :|]

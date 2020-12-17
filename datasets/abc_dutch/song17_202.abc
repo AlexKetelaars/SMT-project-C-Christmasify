@@ -1,0 +1,31 @@
+X: 16201
+T: Ach Fillis lief, die, door uw zoet geluit, M [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 754717899
+%%humdrum-veritas-data 2645705920
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d4 [I:setbarnb 1]|
+B6A2 |
+G4z d d d |
+g6g2 |
+^f6).('f f |
+g4d3d |
+d4c2B2 |
+B2(c B2<-B2)A |
+A6).('a2 |
+a6e2 |
+f6e2 |
+d2>c2d3e |
+e4c3).('c |
+f2>e2f3g |
+^f2>f2g3d |
+d2c B2<(A2G) |
+G4) |]

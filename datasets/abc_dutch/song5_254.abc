@@ -1,0 +1,28 @@
+X: 4253
+T: Tussen hoog gewassen bomen Ziet mijn oog een [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:07
+%%humdrum-veritas 2704073214
+%%humdrum-veritas-data 2931943837
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D B A G E G E D) |
+.('G> G G G F GA2) |
+.('d2A2F F E A |
+[M:2/4]D4) |
+.('d dd2 |
+F F F) .('F |
+d A d D) |
+[M:4/4].('D> D D> A D> DA2) |
+[M:3/4].('D> D D> A D3/ D/ |
+d2d4) |
+[M:4/4].('B> B B> B e> d B G) |
+.('D d B G D dB2) |
+.('B> B B> B e d c B) |
+.('A> G F E d FG2) |]

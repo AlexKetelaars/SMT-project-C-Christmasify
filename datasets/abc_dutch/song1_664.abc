@@ -1,0 +1,15 @@
+X: 664
+T: Ick sal uut mijnre herten gront U Heer hier  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3152869296
+%%humdrum-veritas-data 2003339824
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2A2A2A2c2B2B2B2A4z2).('A2d2>c2B2c4(B4A2)B4z2).('B2B2B2d2d2d2c4B2(AGABc2)B2A2A2!fermata!G4z2).('G2A2A2B2(c2>d2)e2d2>c2B2A2G4A4) |]

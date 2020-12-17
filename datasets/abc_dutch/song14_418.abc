@@ -1,0 +1,71 @@
+X: 13417
+T: No41
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:34
+%%humdrum-veritas 2912634814
+%%humdrum-veritas-data 2697532303
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('d> e f3/ g/ |
+a> f a3/ f/ |
+g> e c3/ e/ |
+d fA2) |
+.('d> e f3/ g/ |
+a> f a3/ f/ |
+g> e c3/ A/ |
+d2z) .('A |
+d2f2 |
+a2z d' |
+c'2a2 |
+d'2z) .('a |
+b> g a3/ f/ |
+g> e f3/ d/ |
+e> c e3/ a/ |
+e>) .('A B3/ c/ |
+d> e f3/ g/ |
+a> f a3/ f/ |
+c> e A3/ c/ |
+d> f A3/) .('a/ |
+b> g a3/ f/ |
+g> e f3/ d/ |
+e> c e3/ a/ |
+e> c e3/ a/ |
+e2A2) |
+.('e> a c'3/ a/ |
+e> b d'3/ b/ |
+e> a c'3/ a/ |
+b> ^ge2) |
+.('e> a c'3/ a/ |
+e> b d'3/ b/ |
+a> d' b3/ ^g/ |
+a2A2) |
+.('e> a c'3/ a/ |
+e> b d'3/ b/ |
+e> a c'3/ a/ |
+b> ^ge2) |
+.('e> a c'3/ a/ |
+e> b d'3/ b/ |
+a> d' b3/ ^g/ |
+a> ^g a3/ g/) |
+.('a> fd'2 |
+a> fd2 |
+e> g e3/ c/ |
+d fa2)- |
+.('a> fd'2 |
+a> fd2 |
+e> g e3/ c/ |
+d> e f3/ g/) |
+.('a> fd'2 |
+a> fd2 |
+e> g e3/ c/ |
+d fa2) |
+.('a> fd'2 |
+a> fd2 |
+e> g e3/ d/ |
+d2z2) |]

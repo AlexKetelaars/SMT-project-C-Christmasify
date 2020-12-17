@@ -1,0 +1,35 @@
+X: 16207
+T: Terwyl ik ‘t al heb, wat ik kan verlangen, W [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2525428641
+%%humdrum-veritas-data 4290510382
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('AEA |
+G>AB |
+cdB |
+c2A) |
+.('AEA |
+G>AB |
+cc3/d/ |
+B3) |
+.('Bcd |
+c2B) |
+.('c(AG/) A/ |
+G3) |
+.('EA3/=G/ |
+F>GA |
+Bc3/d/ |
+e3) |
+.('Bc3/d/ |
+G>AB |
+cc3/B/ |
+(cB2) |
+A3) :|]

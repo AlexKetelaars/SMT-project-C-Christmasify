@@ -1,0 +1,31 @@
+X: 4334
+T: Vrienden luistert naar mijn lied Ik heb nog  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 1290162383
+%%humdrum-veritas-data 2659602355
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D/ D/ [I:setbarnb 1]|
+B B D D |
+E E c3/) .('A/ |
+A A/ A< G F/ |
+G A B3/) .('B/ |
+B B B B/ B/ |
+[M:3/4]B B c) .('D/ D/ D/ D/ D |
+[M:2/4]D c B A |
+G3).('B |
+B B D D |
+E E c) .('A/ A/ |
+A G/ G/ G F |
+G A B) .('B |
+B> B B B |
+A> A B/) .('D/ D/ D/ |
+D c B A |
+G3) |]

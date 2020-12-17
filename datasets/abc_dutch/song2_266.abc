@@ -1,0 +1,30 @@
+X: 1265
+T: Vroeger op school ben ik naar de stad gewees [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 2701074169
+%%humdrum-veritas-data 448205819
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B4B2> B2B4B3 B |
+B2> A2 B2> c2B8) |
+.('c4A2> c2B4G3 B |
+d4c2> B2A8) |
+.('d4e2> d2B4B4 |
+c2> B2 c2> d2e4z2 z) .('e |
+d4d2> d2d4d4 |
+d4d4G2>) .('d2 d3 c |
+[M:3/4]B4-B2> B2 c3 d |
+e8).('e3 e |
+d4-d2> B2 c3 A |
+G4z2 z) .('d2< d2 c |
+[M:3/4]B4-B2> B2 c3 d |
+e8).('e3 e |
+d4-d2> B2 c3 A |
+G8z4) |]

@@ -1,0 +1,30 @@
+X: 6702
+T: Gildebroeders, maakt plezieren Met muziek vr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:30
+%%humdrum-veritas 900857553
+%%humdrum-veritas-data 3495080540
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C3/ C/ [I:setbarnb 1]|
+F2F2G3/ G/ |
+A2A2).('A3/ G/ |
+F2B2!trill!!trill!A3/ A/ |
+G2z2).('C3/ C/ |
+F2F2G3/ G/ |
+A2A2).('A3/ G/ |
+F2B2!trill!!trill!A3/ G/ |
+F2z2z2) ||
+[M:2/4].('B2B3/ A/ [I:setbarnb 10]|
+B> A G3/ ^F/ |
+G2G2) |
+[M:3/4].('A2G> F E3/ D/ |
+[M:2/4]C F/ G/ A) .('(c/ B/) |
+!trill!!trill!A2-A3/ G/ |
+F2z2) |]

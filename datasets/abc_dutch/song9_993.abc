@@ -1,0 +1,23 @@
+X: 8992
+T: Op eenen boom een koekoek, Sim, sim, saladim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 1215322050
+%%humdrum-veritas-data 1500359256
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C/ [I:setbarnb 1]|
+FG/AB/ |
+A3/GB/ |
+BA// G//A).('A/ |
+AG// F//GF// G// |
+Fz/z).('C/ |
+FG/AB/ |
+A3/G3/ |
+F3/z) |]

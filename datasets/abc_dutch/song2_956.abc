@@ -1,0 +1,25 @@
+X: 1955
+T: Er was een heer heel ver van huis Na zeven j [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 4208450716
+%%humdrum-veritas-data 480095012
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: G clef=treble
+.('DGA [I:setbarnb 1]|
+B2A2GB |
+A2>).('D2GA |
+B2A2GB |
+A2>).('D2GA |
+[M:2/2]Be2e |
+[M:3/4]d>d c/ B/ |
+[M:3/2]AE2).('cBA |
+[M:2/2]GB2(F/ G/) |
+[M:3/4]A>G F3// E// |
+[M:3/2]ED2) |]

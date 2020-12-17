@@ -1,0 +1,47 @@
+X: 1940
+T: Wat geven wij vrijgezellen er nou En anders  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 90581294
+%%humdrum-veritas-data 3647270384
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2 [I:setbarnb 1]|
+d2B cd2(B c) |
+d2d dd2).('e f |
+e e e fg2f e |
+e d d dd2).('d3/ d/ |
+d d c B c c/ c/ d c |
+B B B B B) .('c d d |
+f2>e2 d c B A |
+G2z2z4) ||
+.('G A B c d d d d) [I:setbarnb 10]|
+.('e f g ee2d) .('d |
+(3:2:10c c c c c c B2 B B2) .('B |
+(3:2:4e2 e c2 FA2G) .('D |
+G2B cd2e c |
+B B A AG2).('B2 |
+d B e d d c c) .('c/ c/ |
+c c d c B d G) .('D |
+G2B cd2e c |
+B B A A2<G2).('G/ G/ |
+[M:3/4]B> G G> G (3c c c |
+B2A) .('G F G |
+A2c c B A |
+G2>).('G2 G A |
+B2A G c c |
+B2A) .('G F G |
+A2c c B A |
+[M:2/4]G3).('c/ c/ |
+[M:4/4]B A B c2<d2).('c/ c/ |
+B A B c d e/ e/ d c |
+B2A2G3).('c/ c/ |
+B A B c2<d2).('c/ c/ |
+B A B c d e/ e/ d c |
+B2A2G2) |]

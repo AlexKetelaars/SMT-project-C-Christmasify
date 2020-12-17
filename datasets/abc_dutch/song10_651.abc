@@ -1,0 +1,31 @@
+X: 9650
+T: Bravo, bravo, bravo, bravissimo! Bravo, brav [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3494188217
+%%humdrum-veritas-data 2098724464
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('G4c2 [I:setbarnb 2]|
+A4d2 |
+B2A2B2 |
+c2>d2e2) |
+.('G4c2 |
+A4d2 |
+B2A2B2 |
+c4) :|]
+.('z E [I:setbarnb 9]|
+[M:2/4]G/ G/ G/ G/ G E |
+G3).('F |
+A/ A/ A/ A/ A F |
+A3).('G |
+B/ B/ B/ B/ B G |
+c c c) .('E |
+G/ G/ G/ G/ F D |
+C2z2) |]

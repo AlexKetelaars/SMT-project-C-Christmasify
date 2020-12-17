@@ -1,0 +1,36 @@
+X: 16295
+T: Aen eene Beek zat Klorimeen Haer blonde lokk [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 3688577080
+%%humdrum-veritas-data 1181973174
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('A2 c3 d [I:setbarnb 1]|
+(d4e2>) A2 G3 A |
+{A2}B4-B2>) .('B2 c3 d |
+(d4c2>) A2 F3 E |
+E4^D2>) .('B2 B3 B |
+(B4A2>) G2 (A F) (c A) |
+!trill!!trill!A4G2) .('e2 c2 A2 |
+(G F/ G/) (A G/ F/) {E}!trill!!trill!F6E2 |
+E6) |
+.('e2 c3 B [I:setbarnb 9]|
+(B4^A2>) F2 c3 e |
+(e4d2>)) .('f2 B3 A |
+(A4G2>) E2 B3 d |
+(d4c2>)) .('e2 c3 A |
+f4>d4 B3 A |
+A4G2>) .('e2 {d} c3 A |
+f6(e d) (c B) A2 |
+A4G2>) .('E2 A3 =c |
+(=c4B2>) E2 B3 d |
+(d4c2)) .('B2 (c A) (d B) |
+(e c) (B A) {A}!trill!!trill!B6A2 |
+A6) :|]

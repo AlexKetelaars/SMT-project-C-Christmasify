@@ -1,0 +1,16 @@
+X: 669
+T: Omdat ick den Heer gheloofde, siet Daer om s [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 3051964411
+%%humdrum-veritas-data 3672058327
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('z2C2C2CCD2E2(ED/ C/D)DC4z2).('C2E2D2E2F2(G2>F2EDF2)E4z2).('C2E2E2F2G2>G2G2F2E2D4z2).('G2F2F2E2E2D2C2B,2G,2z2) ]|:
+.('G,2(C2>D2EFG4)F2E2E2D2C2D4C4) |]

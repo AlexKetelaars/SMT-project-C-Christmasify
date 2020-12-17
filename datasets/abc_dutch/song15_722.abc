@@ -1,0 +1,48 @@
+X: 14721
+T: Aria daar Rijst de Vreyheyds boom omhoog
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:47
+%%humdrum-veritas 1528239448
+%%humdrum-veritas-data 2467870834
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('c [I:setbarnb 1]|
+c B A |
+d2d |
+d e f |
+c2c |
+c B A |
+G2G |
+G A B |
+A3) |
+.('c3 |
+A2A |
+F2A |
+A2G |
+c3 |
+A2A |
+F2A |
+A3 |
+G2).('c |
+c2e |
+e2g |
+g2e |
+f2c |
+c d c |
+c B A |
+G A B |
+A2).('c |
+c2A |
+A2F |
+f3 |
+d2d |
+c2A |
+B2G |
+c3 |
+F2) |]

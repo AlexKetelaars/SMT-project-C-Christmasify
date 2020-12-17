@@ -1,0 +1,34 @@
+X: 16654
+T: Gij die in 't droef Gethzemané
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 658622454
+%%humdrum-veritas-data 106707222
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A2 [I:setbarnb 1]|
+d2>e2f3e |
+d2c2_B2(A/ B/ c) |
+_B2>A2A4 |
+z2).('f2e3e |
+a2-a> _b a> b a3/ b/ |
+g3(f/ e/)f2(e/ f/ g) |
+f2>e2e2e2 |
+z) .('f d> c_B2A2 |
+G2>A2A4 |
+z2f2e3e |
+(a g) (f e) (f e) (d ^c) |
+d> e f> ga2a2 |
+z2).('e2f3e |
+d2c2_B3A |
+A4z2e2 |
+f2>e2d3e |
+f> e f> ga3g |
+f> e f> ge3d |
+d6) |]

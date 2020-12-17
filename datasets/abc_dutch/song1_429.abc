@@ -1,0 +1,38 @@
+X: 429
+T: Postillon
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 3737377054
+%%humdrum-veritas-data 2684915616
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('z4z2c c |
+c2c cc2d e |
+f2f ed2c B) |
+.('A2G Fc4 |
+F8) |
+.('f2f2f4 |
+d2e2f4 |
+f2>e2d2c c |
+c2c BA2A A |
+A2G Fc4 |
+F6).('f e |
+d2c BA2G F |
+c6f e |
+d2c BA2G F |
+c4F4- |
+F2z) .('f2<d2g |
+ec2c2<c2B |
+A2A B c d c B |
+A f f e d g g e |
+e2f2f2e2 |
+f4z) .('c f e |
+d c B A G g g f |
+e2f2g/ f/ e/ d/ c d/ e/ |
+f6) :|]

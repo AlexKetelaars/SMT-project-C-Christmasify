@@ -1,0 +1,49 @@
+X: 13943
+T: N3
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:39
+%%humdrum-veritas 127742920
+%%humdrum-veritas-data 807151840
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B/ g f/ [I:setbarnb 1]|
+e2 ^d2 e2 B2 |
+{d} c2 B2 z B g f) |
+.('e2 ^d2 e2 g2 |
+f2 {^a} b2 B2 B/ g f/) |
+.('e2 ^d2 e2 B2 |
+{d} c2c4B A |
+B ^d e g f e d f |
+e6) |
+.('^d e [I:setbarnb 9]|
+f e ^d c B A G F |
+G B B e e g f e) |
+.('^d f f a a c' b a |
+a g f ge4 |
+c' b a c' b a g b) |
+.('a g f a g f e g |
+f ^a b a b =a g f |
+e2 g2 e2) .('B/ g f/ |
+e2 ^d2 e2 B2 |
+{d} c2 B2 z B g f) |
+.('e2 ^d2 e2 g2 |
+f2 {a} b2 B2 B/ g f/) |
+.('e2 ^d2 e2 B2 |
+{d} c2c4B A |
+B ^d e g f e d f |
+e6) |
+.('d2 [I:setbarnb 25]|
+d2> ^c2 d e f g |
+g ff4d2 |
+d2> ^c2 d e d =c) |
+.('d c B c B2 d2 |
+b a g f e d c B |
+c' b a g f e d c) |
+.('B d g b a g f a |
+g6) :|]

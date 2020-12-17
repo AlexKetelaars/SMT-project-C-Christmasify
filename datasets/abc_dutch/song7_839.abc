@@ -1,0 +1,29 @@
+X: 6838
+T: Naar Ro(o)zenland zullen wij rijden! Naar Ro [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 684912774
+%%humdrum-veritas-data 2476444724
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('E ||
+[M:4/4]A/> A/Bd/ c/ (B/ c/) ||
+[M:3/4](A/ G/) !fermata!A/ z/).('A [I:setbarnb 3]|
+Bcf |
+e>dc |
+B2z) |
+.('(d>e) (d/ c/) |
+(B/ A/)A(B/ c/) |
+d(ef)) |
+.('e(d/ c/) B/ c/ |
+AEz) |
+.('(A2B) |
+cde |
+(de)(c/ B/) |
+!fermata!Az) |]

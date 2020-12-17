@@ -1,0 +1,30 @@
+X: 12035
+T: 3 Mascharada
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:21
+%%humdrum-veritas 1811799599
+%%humdrum-veritas-data 4003953489
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f2 f f f2 g2a4z2 g2 |
+f2 e f g f e dc8) |
+.('c d c B A B c A d c B A G A F2 |
+f2 f g a g a ef8) :|]
+.('d e f2 e2 d2 a2 g f e2 e f |
+g2 ^c2 d2 e2f4d4) |
+.('f g a2 d2 e f g2 e d c2 d e |
+f2 A2 =B2 c2G4F4) |
+.('f4g2 f g a2 g f e2 c2 |
+d4c d c B A2 A2A4) |
+.('f4g2 f g a2 g f e2 c2 |
+d e c2 c2> =B2 c2 c2c4) |
+.('e4f4g2 g f e2 c2 |
+f2 e d2< d2 ^c d2 d2 d3) .('e |
+f4c4d2 c B A2 c2 |
+G A F2 F2> E2 F2 F2F4) :|]

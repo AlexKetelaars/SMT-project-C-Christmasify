@@ -1,0 +1,49 @@
+X: 41
+T: Nu treurt, mijn ziel, in dezen droeven stand [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:29
+%%humdrum-veritas 2089548400
+%%humdrum-veritas-data 2580170946
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/2
+Q: 1/2=60
+K: C clef=treble
+.('B2G2A2 |
+B2>B2A2 |
+G2G2^F2 |
+G4z2) |
+.('B2G2A2 |
+B2>B2A2 |
+G2G2^F2 |
+G6) |
+.('z4A2 |
+A4A2 |
+d4B2 |
+A4G2 |
+^F4E2 |
+D4).('A2 |
+A4A2 |
+d4B2 |
+A4G2 |
+^F4E2 |
+D4z).('G |
+G2GG2A |
+B2BG2G |
+c2cB2G |
+A2AA2).('A |
+A2AA2A |
+d2dd2c |
+B2GB2A |
+G4).('zG |
+G2GG2A |
+B2BG2G |
+c2cB2G |
+A2AA2).('A |
+A2AA2A |
+d2dd2c |
+B2GB2A |
+G6) |]

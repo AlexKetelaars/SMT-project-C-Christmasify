@@ -1,0 +1,27 @@
+X: 9146
+T: O Kersnacht, schooner dan de daegen, Hoe kan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:53
+%%humdrum-veritas 1248129358
+%%humdrum-veritas-data 3588054315
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('A2Dd |
+FFG(A/ B/) |
+[M:3/2](AG/ F/)E2z).('E |
+FGA=BcA |
+[M:2/2]d2^c2) |
+[M:4/2].('d2ABc(B/ A<)GF/ |
+[M:2/2]F2z).('A |
+[M:3/2]d>c=BGc(d/ c/) |
+=B2A2).('A2 |
+GABAGE |
+[M:4/2](F/ G/ A/ B/AG/ F/)E2z).('E |
+[M:3/2]FGA2d2 |
+^c>cd2) |]

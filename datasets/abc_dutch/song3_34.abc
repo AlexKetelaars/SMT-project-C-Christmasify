@@ -1,0 +1,33 @@
+X: 2033
+T: Daar reed al een jonk heertje Al over in het woud
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:47
+%%humdrum-veritas 1870528894
+%%humdrum-veritas-data 2989686911
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D2 [I:setbarnb 1]|
+G2>A2 G F |
+E2F2B2 |
+A2>G2 F E |
+(D2E2)).('F2 |
+G2>A2 G F |
+E2F2B2 |
+A2>G2 F E |
+D4).('D D |
+G2B> B B B |
+A2G2).('A A |
+B2d> B B B |
+(A2B2)A2 |
+G4).('D D |
+G2B> B B B |
+A2G2).('A A |
+B2d> B B B |
+(A2B2)A2 |
+G4) |]

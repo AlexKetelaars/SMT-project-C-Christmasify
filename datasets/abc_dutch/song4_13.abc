@@ -1,0 +1,31 @@
+X: 3012
+T: In Amsterdam beminde ik een hele knappe meid [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:56
+%%humdrum-veritas 2292643799
+%%humdrum-veritas-data 750341176
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B [I:setbarnb 1]|
+G G G B d d d d |
+e c B ed2z) .('B/ B/ |
+c A A c B G G B |
+A G F GA2z) .('D |
+G> G G B d d z d |
+e c c ed2z) .('d |
+d d d d g d d d/ d/ |
+e A A Ad2z) .('B/ B/ |
+B2>A2G3G |
+G G e ed2c) .('B |
+A2>B2A3d |
+d d f fe2d) .('B |
+d d d BG2z d |
+d d f ed2z) .('d |
+d d f e d c B A |
+d c B AG2z) |]

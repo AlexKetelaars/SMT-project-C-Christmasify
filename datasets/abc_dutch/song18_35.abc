@@ -1,0 +1,58 @@
+X: 17034
+T: Choeur Celebrez
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2741275379
+%%humdrum-veritas-data 2175937162
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ee [I:setbarnb 1]|
+f2ff |
+!mordent!!mordent!e2ce |
+A2Ad |
+!mordent!!mordent!B2).('Bd |
+!mordent!!mordent!B2Bd/ d/ |
+e2ee |
+!mordent!!mordent!c2ce |
+!mordent!!mordent!A2AB |
+c2).('ce |
+cccd |
+B3e |
+!mordent!!mordent!^cddc |
+d3).('d |
+!mordent!!mordent!BBBB |
+c3c |
+de!mordent!!mordent!d3/g/ |
+!mordent!!mordent!e3).('c |
+B/ A/ B/ c/ d/ c/ d/ (B/ |
+e)eec |
+A3).('d |
+!mordent!!mordent!B2Bd |
+e2ef |
+g3e |
+f>g!mordent!!mordent!e3/f/ |
+f).('cf/ g/ f/ e/ |
+ddgg |
+!mordent!!mordent!e3e |
+fffe |
+d3e |
+!mordent!!mordent!^c2cc |
+d2).('A_B |
+c3A |
+_B>c!mordent!!mordent!A3/d/ |
+_B).('dg/ _a/ g/ f/ |
+e/ f/ e/ d/ c/ d/ c/ B/ |
+!mordent!!mordent!A2Af |
+ffde |
+!mordent!!mordent!^c3).('c |
+d2dd |
+d2de |
+f3d |
+e>f!mordent!!mordent!d3/g/ |
+e4) |]

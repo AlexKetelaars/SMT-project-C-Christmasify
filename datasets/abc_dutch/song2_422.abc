@@ -1,0 +1,28 @@
+X: 1421
+T: Vader Abraham had zeven zonen Vader Abraham  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:42
+%%humdrum-veritas 2771999936
+%%humdrum-veritas-data 1124960795
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D D [I:setbarnb 1]|
+B2B D D D |
+B2B2).('D D |
+B2B d c B |
+B2A2).('D D |
+A> AA2D D |
+A> AA2).('A B |
+[M:4/4]c2c cB2A2 |
+G2z2z2).('D D |
+B2d2c c B3/ B/ |
+B2A2z2).('D D |
+A AA2z2).('D D |
+A2A2z2).('A2 |
+c2>B2G2) |]

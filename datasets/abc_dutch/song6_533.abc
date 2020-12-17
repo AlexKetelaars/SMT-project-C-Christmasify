@@ -1,0 +1,39 @@
+X: 5532
+T: Het was op eenen maendag, op eenen maendag v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 1557816251
+%%humdrum-veritas-data 3475031477
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B, [I:setbarnb 1]|
+E2FG2A |
+B3B2B |
+c2cc2c |
+B3-B2).('B |
+A2AA2A |
+G3G2G |
+F2EF2G |
+E2zz2).('B, |
+E E FG2A |
+B3B2B |
+c2c e e c |
+B3).('B2B |
+A2AA2A |
+G3G2G |
+F2EF2G |
+E2zz2).('B |
+e2ee2e |
+(d2c)B2B |
+c2cB2=A |
+B2zz2).('B |
+A A AA2A |
+G3G2G |
+F F EF2G |
+E2zz2z) |]

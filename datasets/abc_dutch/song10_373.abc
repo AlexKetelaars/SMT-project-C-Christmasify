@@ -1,0 +1,44 @@
+X: 9372
+T: Daar is te Mechelen een zaak Die ons gaat do [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:55
+%%humdrum-veritas 3878546552
+%%humdrum-veritas-data 1884923608
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+A2F |
+D2B |
+(Bc)d |
+A2).('A |
+A2F |
+E2E |
+(EF)G |
+F3) |
+.('A3 |
+F2D |
+D2F |
+F3 |
+E2).('A |
+A2A |
+c2e |
+(ed)c |
+d2).('A |
+A2F |
+E2E |
+(EF)G |
+F2).('A |
+A2A |
+(AB)c |
+d3 |
+B2).('B |
+A2G |
+F2E |
+A3 |
+D3) |]

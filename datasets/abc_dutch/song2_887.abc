@@ -1,0 +1,15 @@
+X: 1886
+T: Het was al op een zomerdag dat ik uit wand'l [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:46
+%%humdrum-veritas 286609480
+%%humdrum-veritas-data 2109901050
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G G d d> e d e d>) .('d G A B A G> AB2G2).('G d d> d d ed2).('A> A d ^c B cd2z2).('d> ed2A2=c> cB2G2z) .('B B cd2d2B AG2z) .('G G G g g f> ed2g2z) .('B B c d d d> e d B c AG2z) |]

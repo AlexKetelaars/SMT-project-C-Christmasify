@@ -1,0 +1,46 @@
+X: 7152
+T: No719. Blasius de Lapper. Andante
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 4025802192
+%%humdrum-veritas-data 3648627303
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d2c e [I:setbarnb 1]|
+(d c) (B A)G2!trill!!trill!^F2 |
+{^F2}G4D D G B |
+{B2}A4).('d3c |
+{c}B2A A2<d2c |
+{c}B2A A2<d2c |
+{c}!fermata!B2{A B}!fermata!A2) |
+.('f2e g [I:setbarnb 7]|
+(f e) (d c)B2!trill!!trill!A2 |
+{A2}B4F F B d |
+{d2}c4f3e |
+{e}!trill!!trill!d2c2f3e |
+{e}!fermata!d2{c d}!fermata!c2z2).('d2 |
+{c}B2d2G2z G |
+c G d G2<e2f |
+g2!trill!!trill!f e {e}d2c =B |
+(c2d2)c2).('z d |
+d c B A B A G d |
+g f e d {d}c2B2 |
+{c}!trill!!trill!B2A2z B A B |
+{d}c2B2!trill!!trill!A2B2 |
+{B d}c4z2).('d2 |
+d2!trill!!trill!c2{c2}B4 |
+e2>d2 {d}c3B |
+A ^F G AB2!trill!!trill!A2 |
+c B A B2<!trill!!trill!c2d |
+d4).('z d f d |
+=B c/ d/ e c A _B/ c/ d B |
+G A/ B/ c A2<^F2G |
+{G2}!fermata!A6).('B A |
+c B d (c/ d/) {f} e (d/ c/)B2 |
+!trill!!trill!A2G4) :|]

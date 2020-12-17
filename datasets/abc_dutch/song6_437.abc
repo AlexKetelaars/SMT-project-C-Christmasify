@@ -1,0 +1,38 @@
+X: 5436
+T: Het word tyd laat u van liefde binden, Hy ve [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 632566297
+%%humdrum-veritas-data 3010969989
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('de2 |
+d>cA |
+cA3/B/ |
+B2B) |
+.('de2 |
+d>cB |
+cA3/B/ |
+B3) |
+.('dg2 |
+e2e |
+(e/ f<)(fg/) |
+e2e) |
+.('(e/ f<)(fe// f//) |
+g2f |
+ge3/(e/ |
+d3)) |
+.('AB2 |
+c2B |
+cB3/(c/ |
+A2)A) |
+.('d2d |
+d>cB |
+cA3/G/ |
+G3) :|]

@@ -1,0 +1,48 @@
+X: 17605
+T: La Bucheronne
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:14
+%%humdrum-veritas 2475080618
+%%humdrum-veritas-data 4031713075
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=104
+K: D clef=treble
+.('d/ c/ {e/} d/ e/ [I:setbarnb 1]|
+d2d/ c/ {e/} d/ e/ |
+d2{e/} d c |
+B A B c |
+d A) .('d/ c/ {e/} d/ e/ |
+d2d/ c/ {e/} d/ e/ |
+d2{e/} d c |
+B A B c |
+{e/}d2) |
+.('f/ e/ f/ g/ [I:setbarnb 9]|
+f2f/ e/ f/ g/ |
+f2A a |
+g f e d |
+A2).('A/ G/ A/ B/ |
+A2A/ G/ A/ B/ |
+A2A, A |
+G F E D |
+A,2).('z A |
+A, z z A |
+A, z z A |
+{A/} G F E D |
+A,2).('z A |
+A, z z A |
+A, z z A |
+G F E D |
+A,2).('d/ c/ {e/} d/ e/ |
+d2{e/} d/ c/ {e/} d/ e/ |
+{e/}d2d c |
+B A B c |
+d A) .('d/ c/ {e/} d/ e/ |
+d2d/ c/ {e/} d/ e/ |
+{e/}d2d c |
+B A B c |
+{e/}d2) :|]

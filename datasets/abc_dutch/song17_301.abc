@@ -1,0 +1,30 @@
+X: 16300
+T: Geen mensch komt Rood oog liefde bieden: Elk [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:02
+%%humdrum-veritas 2226851352
+%%humdrum-veritas-data 2255165577
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G2(G A) (B c) |
+d4B2 |
+(e2f2)g2 |
+(d2c2)B2) |
+.('(e c)g4 |
+(d B)g4 |
+(c A) (e d) (c B) |
+(A G F E)D2) |
+.('d2(d e) (f g) |
+a4c2 |
+(c2>B2) (c A) |
+{c}B4).('d2 |
+e4(c A) |
+d4(B G) |
+(A2G2)F2 |
+G6) :|]

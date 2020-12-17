@@ -1,0 +1,35 @@
+X: 4300
+T: Te zwoegen en te streven Met alle kracht des mans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:08
+%%humdrum-veritas 2853795446
+%%humdrum-veritas-data 1828404618
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G>Be^c |
+d2B).('G |
+edcB |
+A3).('A |
+c>AFD |
+(d>c)B).('B |
+A>AB^c |
+d3).('d |
+d>dAc |
+B2B).('B |
+e>eeB |
+c3).('c |
+A>AB3/c/ |
+dd2).('e |
+d>ABc |
+B3).('d |
+g>gd3/d/ |
+ee2).('e |
+d>ddd |
+g3) |]

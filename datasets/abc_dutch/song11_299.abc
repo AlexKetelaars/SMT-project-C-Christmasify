@@ -1,0 +1,60 @@
+X: 10298
+T: Sonata] 58
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:04
+%%humdrum-veritas 3493352612
+%%humdrum-veritas-data 1891869388
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 12/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+g b a g f g g b a g f g |
+a f d c' b a b a gz2).('D |
+G B A G F G G B A G F G |
+A F D c B A B A GG2).('b |
+a f d a b a g e A g a g |
+f d A f g f2<!mordent!!mordent!f2e2).('A |
+B G B e g e ^c A c f a f |
+d B d g b g e ^c e a e a) |
+.('f g a e ^g a d f g ^c e f) |
+.('B d e A ^c d G F G G F G |
+g b a g f g2<g2-g2).('e |
+=f a g f e d f a g f e d |
+^g b a g f e g b a g f e |
+a3).('!trill!!trill!g2>f2 e d d e ^c |
+!trill!!trill!G2>-G2 F E F A d E A ^c |
+d a f d A F2<D2-D2) |
+.('A [I:setbarnb 17]|
+d f e d ^c d d f e d c d |
+e ^c A g f e f e dz2).('B |
+e g f e ^d e e g f e d e |
+f ^d B a g f g f ez2).('e |
+c' b c' c' b c' d f a c' b a |
+b a b b a b c e g b a ^g) |
+.('a ^g a a g a B ^d f a g f |
+g b a g e d c e d c A G) |
+.('f a g f d c B d c B G F |
+e g f e c B A c B A F E |
+^d f e d c B e B e f B f |
+g B g ^g e g a e a ^a e a) |
+.('b3-b2a g f e e f ^d |
+e2A G A F2<E2-E2).('d |
+g b a g f g g b a g f g |
+a f d c' b a b a gz2).('D |
+G B A G F G G B A G F G |
+A F D c B A B A G z) .('B c |
+d =f e d ^c d d f e d c d |
+E ^G B d c B c B A z) .('A B |
+c e d c B c c e d c B c |
+D F A c B A B A G z) .('B c |
+d B G g f e2<!trill!!trill!e2d B c |
+d B G g f e2<e2d2).('c |
+B d g A c fG2ed2^c |
+d f a c B A B d g B c A |
+G2).('ed2^c d f a c B A |
+B d g B c A2<G2-G2) :|]

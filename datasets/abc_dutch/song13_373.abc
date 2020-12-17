@@ -1,0 +1,70 @@
+X: 12372
+T: Marsch
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:24
+%%humdrum-veritas 2453973187
+%%humdrum-veritas-data 2247454161
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2e cd2e c |
+d2D4).('d2 |
+e2f de2f d |
+e2A2>).('G2 F E |
+D2g2g2f2 |
+e2d4).('D2 |
+D2G2G2F2 |
+E2D4).('f2 |
+g2(b a) g f e d |
+c d e cA2).('A2 |
+d2e cd2e c |
+d2D4).('d2 |
+e2f de2f d |
+e2A2>).('G2 F E |
+D2g2g2f2 |
+e2d4).('D2 |
+D2G2G2F2 |
+E2D4).('A2 |
+B c d B c d e c |
+d6) |
+.('d e [I:setbarnb 21]|
+f d f a f d) .('f a |
+e c e a e c) .('d e |
+f e d c d c B A |
+^G A B GE2).('E2 |
+A2B ^GA2B G |
+A2B ^GA2).('A2 |
+B2c AB2c A |
+B2c AB2).('e d |
+c2B A ^G A B G |
+A6).('e2 |
+f2a2a2g f |
+e2g2g2).('f e |
+f2a2a2g f |
+e d c BA2).('A2 |
+d2e cd2e c |
+d2D4).('d2 |
+e2f de2f d |
+e2A2>).('G2 F E |
+D2g2g2f2 |
+e2d4).('D2 |
+D2G2G2F2 |
+E2D4).('f2 |
+g2(b a) g f e d |
+c d e cA2).('A2 |
+d2e cd2e c |
+d2D4).('d2 |
+e2f de2f d |
+e2A2>).('G2 F E |
+D2g2g2f2 |
+e2d4).('D2 |
+D2G2G2F2 |
+E2D4).('A2 |
+B c d B c d e c |
+d6) :|]

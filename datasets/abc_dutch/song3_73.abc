@@ -1,0 +1,25 @@
+X: 2072
+T: Ik vertel u over een ruiter die in een wijnh [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:48
+%%humdrum-veritas 2031392098
+%%humdrum-veritas-data 3890460431
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B B B B A B |
+d3G2).('G |
+(G B) d (g f) g |
+d2>-d2) .('e g |
+f2fe2d |
+(d2c)B2).('d |
+e2d (d c) B |
+(A2B c B)) .('A |
+(G B) e (d e) d |
+G3-G3) |]

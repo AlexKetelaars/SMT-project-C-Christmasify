@@ -1,0 +1,15 @@
+X: 223
+T: Myn siel' maeckt groot den Heer, Myn gheest  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:30
+%%humdrum-veritas 3037509964
+%%humdrum-veritas-data 2120773110
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A4A2G2A2B2c4z4).('c4d2c2B2A2G4z4).('B4c2e2d2c2B4A4z4).('E4A2G2A2F2E4z4).('A4c2B2c2d2B4z4).('e4B4d4c2d2B4A4) |]

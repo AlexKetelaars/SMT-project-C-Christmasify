@@ -1,0 +1,44 @@
+X: 9433
+T: Daar en is maar één maagdeken teer Op de gan [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:56
+%%humdrum-veritas 147851849
+%%humdrum-veritas-data 1628583157
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G2c3/ E/ |
+G4 |
+D E F G |
+C2z2) |
+.('C D E F |
+G G c B |
+A4 |
+G2z2) |
+.('G2c3/ E/ |
+G2G2 |
+D E F G |
+C2z2) |
+.('C D E F |
+G G c B |
+A4 |
+G2z2) |
+.('G2A _B |
+A3z) |
+.('A2d c |
+B3).('G |
+c B A G |
+c4) |
+.('G G G G |
+A G F E |
+E2A2 |
+G3z) |
+.('c c c c |
+B c A F |
+E2D2 |
+C2z2) |]

@@ -1,0 +1,43 @@
+X: 17019
+T: Les ris les Jeux
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 504699269
+%%humdrum-veritas-data 1007477017
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('d [I:setbarnb 1]|
+g>ab |
+!mordent!!mordent!^f>ga |
+dc3/d/ |
+!mordent!!mordent!B>AG) |
+.('_e>dc |
+fdg |
+a!mordent!!mordent!^f3/g/ |
+a2) |
+.('d [I:setbarnb 9]|
+_e>dc |
+=B>cd |
+_efg |
+!mordent!!mordent!d2).('c |
+f>_ed |
+g>ab |
+B_e3/d/ |
+!mordent!!mordent!c2).('B |
+d>_ef |
+!mordent!!mordent!e>^fg |
+!mordent!!mordent!^f2).('d |
+d!mordent!!mordent!c3/c/ |
+c>dB |
+B>c!mordent!!mordent!A |
+G2).('d |
+dc3/c/ |
+c>dB |
+B>c!mordent!!mordent!A |
+G2) |]

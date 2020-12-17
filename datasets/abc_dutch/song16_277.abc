@@ -1,0 +1,24 @@
+X: 15276
+T: Ik ben een kind van God bemind
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 2177200057
+%%humdrum-veritas-data 3171339736
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Eb clef=treble
+.('E [I:setbarnb 1]|
+GF!fermata!EG |
+BA!fermata!GB |
+cBAG |
+!fermata!GFz).('F |
+FB!fermata!AF |
+F=Ace |
+dc!fermata!BB |
+cdeA |
+GFE) |]

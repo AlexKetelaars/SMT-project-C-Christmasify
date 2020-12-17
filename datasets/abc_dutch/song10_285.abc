@@ -1,0 +1,28 @@
+X: 9284
+T: Waarom moet de haan, Altijd vroeg opstaan?
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 3889828102
+%%humdrum-veritas-data 3077515180
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('F4C4 |
+F2F2C4) |
+.('G4C4 |
+G2G2C4) |
+.('A4A2B2 |
+c2c2f2c2 |
+B2).('B2G2F2 |
+E2C2E2G2 |
+c4z2).('G2 |
+A B A B A G A) .('F |
+C D C D C D C) .('D |
+C D E F G A B c) |
+.('c2>c2c2c2 |
+f8) |]

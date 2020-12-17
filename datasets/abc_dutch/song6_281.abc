@@ -1,0 +1,31 @@
+X: 5280
+T: Drie mannen uit Oriënte Is ‘t niet een wond’ [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:17
+%%humdrum-veritas 338980293
+%%humdrum-veritas-data 2214994244
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D/ [I:setbarnb 1]|
+GG/GG/ |
+D3/D).('D/ |
+EE/EE/ |
+D3/-D).('D/ |
+EE/EE/ |
+D3/D).('D/ |
+EE/FF/ |
+G3/-G).('D/ |
+GG/GG/ |
+D3/D).('D/ |
+EE/EE/ |
+D3/-D).('D/ |
+EE/EE/ |
+D3/G).('B/ |
+AA/FF/ |
+G3/-G) |]

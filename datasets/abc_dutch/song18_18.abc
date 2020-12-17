@@ -1,0 +1,32 @@
+X: 17017
+T: Les musse
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 1071503460
+%%humdrum-veritas-data 229884153
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('g2>g2!mordent!!mordent!^f3a |
+d2>d2c2d A |
+B B c d2<_e2d |
+c2>).('c2f3f |
+g> a g> a!mordent!!mordent!a3b |
+b2>d2d3e |
+f2>f2!mordent!!mordent!^f3g |
+a8) |
+.('d2>d2g3f |
+!mordent!!mordent!e2>c2f3_e |
+d2>_e2!mordent!!mordent!c3B/ c/ |
+d2B2).('b3a |
+!mordent!!mordent!g2>f2f3_e/ d/ |
+_e2c2).('c'3b |
+a2>b2!mordent!!mordent!g3a |
+!mordent!!mordent!^f2e dc2B A |
+B2>c2!mordent!!mordent!A3G |
+G8) |]

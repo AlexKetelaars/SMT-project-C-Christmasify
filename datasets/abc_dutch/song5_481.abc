@@ -1,0 +1,35 @@
+X: 4480
+T: Het was in het bloeien van mijn jaren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:09
+%%humdrum-veritas 2717557391
+%%humdrum-veritas-data 530756477
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B A G A B d |
+e2d3).('B |
+[M:4/4](e d) (c B) c e d3/ c/ |
+[M:3/4]B4-B) .('G |
+B A G A B d |
+e2d3).('B |
+(e d) c e d3/ c/ |
+B6) |
+.('A2>B2 c c/ c/ |
+d2>).('B2 c B/ c/ |
+[M:2/4]d3).('G |
+A B c d |
+[M:4/4]e2d4).('G2 |
+[M:3/4]e2>c2 f g |
+d2>).('G2 B d |
+f e d A c B |
+G4).('G2 |
+e2>c2 f g |
+d2>).('G2 B d |
+f e d A c B |
+G6) |]

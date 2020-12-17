@@ -1,0 +1,22 @@
+X: 8261
+T: Ach moeder, geef mij eenen man, Traderideram [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:45
+%%humdrum-veritas 936905587
+%%humdrum-veritas-data 332429649
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F G G A AF2) |
+.('c/ B/ A/ G/F2-F2z) .('C |
+F F G G A AF2) |
+.('c/ B/ A/ G/F2-F z).('c2 |
+A A A cc2A2) |
+.('F/ G/ A/ B/ c) .('c G G G c |
+c2B2A2-A) |]

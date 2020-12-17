@@ -1,0 +1,34 @@
+X: 10434
+T: Daar was een kwezeltje, die ‘tal wil verstae [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:05
+%%humdrum-veritas 3341323402
+%%humdrum-veritas-data 4103225993
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G2G3/ G/ |
+G B A G |
+A2A3/ A/ |
+A4) |
+.('A2A3/ A/ |
+A c B A |
+B2G3/ G/ |
+G4) |
+.('G2F3/ E/ |
+E2D2 |
+G G G F |
+E2D2) |
+.('G2G3/ A/ |
+B2G3/ G/ |
+c> c B3/ B/ |
+A3).('A |
+B G G G |
+F E c3/ c/ |
+B2A2 |
+G2z2) |]

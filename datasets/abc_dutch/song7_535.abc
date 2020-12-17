@@ -1,0 +1,35 @@
+X: 6534
+T: Herinnert g’u, sprak laatst een oude krijger [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 604247678
+%%humdrum-veritas-data 3624804902
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('c c c [I:setbarnb 1]|
+c2>A2 A A A A |
+A2F2z) .('F E F |
+G2>F2 E G d c |
+A4z) .('c c c |
+c2>A2 A A A A |
+A2F2z) .('F E F |
+G2>F2 E G d c |
+F4z) .('F F F |
+B2>B2 B B c d |
+(c A)F2z) .('F F F |
+B2>B2 B f e d |
+c4z) .('c c c |
+c2>A2 A A A A |
+A2F2z) .('F E F |
+G2>F2 E G d c |
+A4z) .('F F F |
+d2>B2 B B c d |
+(=B c)c2z) .('c f A |
+G2>F2 E G d c |
+F4z) |]

@@ -1,0 +1,49 @@
+X: 15253
+T: Ach vader, ach vader keer huiswaarts met mij
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:52
+%%humdrum-veritas 62168777
+%%humdrum-veritas-data 2352206588
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C/ [I:setbarnb 1]|
+AAz/ G/ |
+AAz/ G/ |
+GFD |
+FzD |
+CFF |
+FEF |
+Gzz/ C/ |
+AAz/) .('C/ |
+AAz/ A/ |
+BDD |
+DzD |
+CEG |
+BAG |
+Fz).('C |
+GGG |
+G^FG |
+AAA |
+AzC |
+BBB |
+BAG |
+c2).('C |
+AAA |
+AGA |
+BDD |
+DzD |
+C=B,C |
+AAG |
+Fz).('F |
+!fermata!GzG |
+!fermata!AzC |
+!fermata!BzD |
+CCC |
+AAG |
+F2) |]

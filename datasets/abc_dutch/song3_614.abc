@@ -1,0 +1,37 @@
+X: 2613
+T: Och hoe zoet is toch het minnen prinsepaar i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 1289156167
+%%humdrum-veritas-data 2897218790
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d>ddd |
+efgd) |
+.('BGGe |
+d>cB).('d |
+d>dd3/d/ |
+efgg/) .('g/ |
+dfff |
+[M:2/4]ee |
+[M:3/2]d2-d).('dd3/g/ |
+a2>e2e3/d/ |
+[M:4/2](dg2<)g2).('BcB |
+[M:3/2](Ae)e2d3/c/ |
+[M:4/4]B3-B) |
+.('gg/ g/ag |
+feed/) .('d/ |
+^cdeg |
+[M:3/4](c'b)a |
+[M:4/4]g3-g) |
+.('gg/ g/ag |
+feed/) .('d/ |
+^cdeg |
+[M:3/4](c'b)a |
+[M:4/4]g3-g) |]

@@ -1,0 +1,28 @@
+X: 17072
+T: flore
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 2469549649
+%%humdrum-veritas-data 1317028727
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('d3/_e/ [I:setbarnb 1]|
+cBf3/c/ |
+dd).('b3/d/ |
+ef/ g<gf// g// |
+af) |
+.('c3/d/ [I:setbarnb 5]|
+_edg3/a/ |
+^fd).('c3/c/ |
+cB/ A<AG/ |
+G2).('d3/_e/ |
+ffB3/B/ |
+BG).('_e3/e/ |
+Ad/ _e<cB/ |
+B2) |]

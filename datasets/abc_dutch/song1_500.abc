@@ -1,0 +1,31 @@
+X: 500
+T: Schepsels snood! Die mijn hart Locken door v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 3689032112
+%%humdrum-veritas-data 982138261
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E2C2G4 |
+F2D2A4) |
+.('E2C2G2c2 |
+c2B2c4) |
+.('E C E FG4 |
+F D F GA4) |
+.('E C E FG2E2 |
+D2>C2C4) |
+.('G2>F2 E DC2 |
+A2>G2 F ED2) |
+.('G2A Bc2B2 |
+A4).('d3c |
+B AG2c3c |
+B2>B2A3A |
+G2>).('G2F3F |
+E2>E2D3D |
+C8) |]

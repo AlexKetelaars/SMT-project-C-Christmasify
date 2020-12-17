@@ -1,0 +1,38 @@
+X: 11150
+T: Vele dochtertjes in dezen tijd, Die zoo gere [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 4002784804
+%%humdrum-veritas-data 2416599570
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('C C [I:setbarnb 1]|
+F F F G A B |
+c4).('B A |
+G dd2(c A) |
+B2G2).('C C |
+F F F G A B |
+c4).('B A |
+(G d)d2c A |
+F4z) .('A |
+A G F A c d |
+c2B2).('G3/ F/ |
+E G G c c c |
+c4).('c3/ c/ |
+(A c) B A G A |
+c2B2).('d3/ c/ |
+B B c B A G |
+G2!fermata!C2).('C2 |
+F2(F> G) (A3/ B/) |
+c2!fermata!A2).('c2 |
+d/ c/ B/ A/B2G2- |
+G2).('B2c/ B/ A/ G/ |
+A2F2B2 |
+(G A B) c c3/ E/ |
+F2z2z2) |]

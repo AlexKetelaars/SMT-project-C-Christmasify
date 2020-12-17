@@ -1,0 +1,26 @@
+X: 16904
+T: Soeten Engelin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 319658244
+%%humdrum-veritas-data 1528331726
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('g a g fe2f2 |
+~d2>d2e2c2 |
+g a g fe2^f2 |
+g8) |
+.('g2g g2<~g2g |
+a g f e2<~d2d |
+e d c BA2d c |
+B2>c2d2).('G2 |
+c B c d e d e f |
+g2>g2 a g f e |
+d2e2~d3c |
+c8) :|]

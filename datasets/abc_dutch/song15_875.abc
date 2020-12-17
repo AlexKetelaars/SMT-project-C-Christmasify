@@ -1,0 +1,30 @@
+X: 14874
+T: Alles kan doch manchmall noch erfreut Und mi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:48
+%%humdrum-veritas 1669588105
+%%humdrum-veritas-data 926434245
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('A2 E2 B2 E2 c2 E2 |
+d2 (d c)B8 |
+e2 (d c) d2 (c B) c2 (B A) |
+^G2 (G A)B4E4) |
+.('A2 E2 B2 E2 c2 E2 |
+d2 (d c)B8 |
+e2 (d c) d2 (c B) c2 (B A) |
+(^G A) (B G)A4A,4) |
+.('c2 G2 d2 G2 e2 G2 |
+f2 (f e)d8 |
+g2 (f e) f2 (e d) e2 d c |
+(B c) (d B)c4C4) |
+.('e2 (d c) d2 (c B) c2 (B A) |
+^G2 (G A)B4E4 |
+e2 (d c) d2 (c B) c2 (B A) |
+(^G A) (B G)A4A,4) :|]

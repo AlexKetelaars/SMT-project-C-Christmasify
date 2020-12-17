@@ -1,0 +1,32 @@
+X: 5117
+T: De jagers van “Van Dam”, die bakken de poffe [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:15
+%%humdrum-veritas 1870503094
+%%humdrum-veritas-data 1428341524
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G2FG2B |
+d3-d2).('B |
+d> c B d> c B |
+d2cA3) |
+.('A2A A> G A |
+B2dG2).('G |
+A> B A(D2d) |
+G3z2) ]|:
+.('d [I:setbarnb 9]|
+g6 |
+d3-d2z) |
+.('B> B B B A G |
+d2dA3) |
+.('A2A A> G A |
+B2dG2).('G |
+A> B cD2d |
+G3z2) :|]

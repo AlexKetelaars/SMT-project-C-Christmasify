@@ -1,0 +1,29 @@
+X: 1204
+T: Vrolijk rent door bos en beemden Het ijzeren [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 1962867199
+%%humdrum-veritas-data 3902779915
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('d d [I:setbarnb 1]|
+B2d2B2d2 |
+(B c)d2-d2).('c d |
+e d c BA2).('B c |
+d c B AB2).('B B |
+A2d2^c2B2 |
+A2F4).('A A |
+f2d2B2^c2 |
+d4z2).('d d |
+e d c BA2).('B c |
+d c B AB2).('d c |
+B2d2e2f2 |
+g6).('f e |
+d2(B d)d2d2 |
+G4z2) |]

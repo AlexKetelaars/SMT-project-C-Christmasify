@@ -1,0 +1,62 @@
+X: 6341
+T: Wals
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:27
+%%humdrum-veritas 2081468810
+%%humdrum-veritas-data 3888915345
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+{.('G A}G^FG |
+c2(E |
+D3)- |
+D3) |
+{F G}.('FEF |
+G2B, |
+C3 |
+C2).('G |
+G^FG |
+e2e |
+e2d |
+c2).('A |
+{G A}G^FG |
+(A2D) |
+C3 |
+C2D) ||
+.('(D2G) [I:setbarnb 18]|
+B2d |
+d2c |
+(G2).('^F) |
+(^F2A) |
+c2e |
+e2d |
+B2).('D |
+D2G |
+B2d |
+^f3 |
+e2).('c |
+e2d |
+d2A |
+c3 |
+B2).('D |
+D2G |
+(B2d) |
+(d2c) |
+(A2).('^F) |
+(^F2A) |
+(c2e) |
+e2d |
+(B2).('D) |
+D2G |
+B2d |
+^f3 |
+(e2).('c) |
+e3 |
+d2^F |
+A3 |
+G3) :|]

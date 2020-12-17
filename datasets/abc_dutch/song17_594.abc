@@ -1,0 +1,37 @@
+X: 16593
+T: O welk een leer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 1090608779
+%%humdrum-veritas-data 3752881537
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E4A3B |
+c6(f A) |
+d2(c B2<)B2A |
+A6B2 |
+c2c2d3e |
+e4z2).('e2 |
+d2(c B2<)c2(B/ A/) |
+^G2>G2A2(B/ c/ d) |
+c2>B2B2z) .('B |
+B> cd4(B A) |
+^G6G2 |
+A2B2c3d |
+e4e2z2) |
+.('(B2c2)d3c |
+B6^G2 |
+A2(A/ B/ c2<)B2A |
+(^G4^F2)E2) |
+.('c4d3d |
+e6z/ (c/ B/ A/) |
+^G2(A d2<)c2(B/ A/) |
+A6(d e) |
+e2(e/ d/ c2<)c2(B/ A/) |
+A8) |]

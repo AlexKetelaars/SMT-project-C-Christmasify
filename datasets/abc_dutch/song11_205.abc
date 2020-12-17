@@ -1,0 +1,49 @@
+X: 10204
+T: Op een Drie Koningen avond, Op een Drie Koni [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:03
+%%humdrum-veritas 2557237312
+%%humdrum-veritas-data 2251611295
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('C [I:setbarnb 1]|
+F F (3F F F |
+F2C) .('C |
+D D (3E E E |
+F3).('C |
+F F F F |
+F2C) .('C |
+(3D D D E E |
+F2F) .('F |
+A A A A |
+c2c) .('C |
+D D E E |
+F2F) .('A |
+A A A A |
+(B A) G) .('C |
+C C D E |
+F3).('A |
+A A G G |
+F3).('C |
+C C E E |
+F3).('C |
+C C D E |
+F3).('C |
+C2E E |
+F3).('A |
+A A A A |
+B A G) .('G |
+A G F F |
+(G C) C) .('C |
+D D E E |
+F2F2) |
+.('A A A A |
+B A G) .('C/ C/ |
+D D/ D/ E E/ E/ |
+F3z) |]

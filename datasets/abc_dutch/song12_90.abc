@@ -1,0 +1,39 @@
+X: 11089
+T: Als ik my spiegel in ‘t gezicht Van Roozemon [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 4111898275
+%%humdrum-veritas-data 3588598488
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('E [I:setbarnb 1]|
+A>BcA |
+cde2) |
+.('z(c/ d<)ee/ |
+g(f/ e/)d2 |
+c3).('E |
+A>BcA |
+cde2) |
+.('z(c/ d<)ee/ |
+g(f/ e/)d2 |
+c3).('(c/ d/) |
+e>dc(f/ e/) |
+d>cB3/).('(B// c//) |
+d>dde |
+B>A^G3/).('E/ |
+ABcd |
+(ed/ c// B//)B2) |
+.('z(c/ d<)ed/ |
+c(f/ e<)dc/ |
+B>).('cd3/d/ |
+deB3/A/ |
+^G>).('EAB |
+cd(e/ c/ f/ e/ |
+d/ e/ c/ d<BA/) |
+A3) |]

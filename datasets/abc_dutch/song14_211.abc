@@ -1,0 +1,31 @@
+X: 13210
+T: Es was einmal vor Jahren Ein Mädchen jung un [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 136155208
+%%humdrum-veritas-data 1173756563
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B2 [I:setbarnb 1]|
+{c/} d2> d2 (d c) (B A) |
+{A/}G4G2 A2 |
+(c B) (A G) (e d) (c B) |
+B4{c B} A2) .('G A |
+d2> d2 (d c) (B A) |
+{A/} G2G4A2 |
+B c d c B2 A2 |
+(G2 B d G2)) .('B2 |
+A2> A2 (A B) (c d) |
+(c2> B2) B3 B |
+B2> d2 e d c B |
+B4).('A B (c ^c) |
+d2> e2 (d c) (B A) |
+G2G4A2 |
+B c d c B A G F |
+{A} G2 G G G2) |]

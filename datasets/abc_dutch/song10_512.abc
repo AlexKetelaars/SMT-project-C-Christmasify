@@ -1,0 +1,39 @@
+X: 9511
+T: Mijn moeder kocht nen hering, Nen hering zon [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:57
+%%humdrum-veritas 2249642534
+%%humdrum-veritas-data 37475334
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G G G G |
+G2D D |
+E D E F |
+G2z) .('D |
+G G G G |
+G2D D |
+E D E F |
+G3).('D |
+A A A A |
+E2E E |
+A/ A/ G F E |
+D3).('D |
+(3G G G A A |
+B2(3A A A |
+G B A A |
+G2z2) |
+.('G> G G D |
+B, CD2 |
+G> G G D |
+B, CD2) |
+.('G> G G G |
+B B G/ G/ G/ G/ |
+A A F F |
+G3) |]

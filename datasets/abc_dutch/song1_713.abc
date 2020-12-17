@@ -1,0 +1,15 @@
+X: 713
+T: Dy God wij loven al ghemeyn. Beliden u een H [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:35
+%%humdrum-veritas 2803107714
+%%humdrum-veritas-data 578925730
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/2
+Q: 1/2=60
+K: C clef=treble
+.('B4(c4B2>A2)G4A2B4<c4A2A4).('A4c2c2B4G4A4B4c4z2).('c2d2c2(B4A4c2>)B2A2G2A4).('B4c4(A2G2)(A4B4)c4c2A2A4) |]

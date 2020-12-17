@@ -1,0 +1,34 @@
+X: 13204
+T: Allemand
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:32
+%%humdrum-veritas 3410212907
+%%humdrum-veritas-data 3516051160
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('G2 [I:setbarnb 1]|
+G2>d2 c B A G |
+^F D A B/ c/ d A B F |
+G) .('d g a2<b2a/ g/ |
+a f g a b B d _e |
+f F G A B c A/ c/ f/ _e/ |
+d B) .('b/ a/ g/ f/ _e/ d/ c/ B/ A/ a/ g/ f/ |
+e f e> d d D ^F A |
+d6x) |
+.('F/ G/ [I:setbarnb 9]|
+A D2<d2B _e f |
+d g D g2<g2^f |
+g) .('a b _e d b f a |
+g B f _A G _e B, e |
+_e2>d2e3).('d |
+B c d/ c/ B/ A/ G A/ B/ c/ B/ A/ G/ |
+^F D) .('a/ g/ f/ e/ d/ g/ f/ _e/ d/ c/ B/ A/ |
+A d/ c/ B/ A/ G/ ^F/ G _e/ d/ c/ B/ A/ G/ |
+^F G G> F G G, B, D |
+G4) :|]

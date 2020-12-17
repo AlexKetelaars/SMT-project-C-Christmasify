@@ -1,0 +1,35 @@
+X: 10283
+T: 42
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:04
+%%humdrum-veritas 3139067108
+%%humdrum-veritas-data 1962257546
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 12/8
+Q: 3/8=80
+K: C clef=treble
+.('g> f e !uppermordent!!uppermordent!d> e c2<!mordent!!mordent!B2z z a |
+!mordent!!mordent!g2c'2<!mordent!!mordent!f2e2f// e// d// c//!mordent!!mordent!c3) |
+.('!uppermordent!!uppermordent!e> f ec'2e !uppermordent!!uppermordent!d> e db2d |
+!mordent!!mordent!c> d e d> e c2<!mordent!!mordent!B2z z) .('d |
+!uppermordent!!uppermordent!e2A!uppermordent!!uppermordent!^f2B g> f gG2d |
+!uppermordent!!uppermordent!e2d// c// B// A//!mordent!!mordent!^f2e// d// c// B// !mordent!!mordent!g> f gG2c') |
+.('!mordent!!mordent!b2c'// b// a// g// !mordent!!mordent!a> g ^f !mordent!!mordent!g> f e!mordent!!mordent!d2c |
+!mordent!!mordent!B2c// B// A// G// A> G ^F!fermata!G6) |
+.('!uppermordent!!uppermordent!d> e dg2d2<!mordent!!mordent!e2d2g |
+!mordent!!mordent!^f> g a c> d c2<!mordent!!mordent!c2B2d) |
+.('d> e f!mordent!!mordent!e2d!uppermordent!!uppermordent!c2d// c// B// A//!uppermordent!!uppermordent!d2e// d// c// B// |
+!uppermordent!!uppermordent!e> a ^g!uppermordent!!uppermordent!a2e d> e f!mordent!!mordent!e2d |
+!mordent!!mordent!c2d// c// B// A//!mordent!!mordent!B3A3z2z) |
+.('!uppermordent!!uppermordent!g> f e !uppermordent!!uppermordent!d> e c2<!mordent!!mordent!B2z z a |
+!mordent!!mordent!g2c'2<!mordent!!mordent!f2e2f// e// d// c//c3) |
+.('!uppermordent!!uppermordent!e> f ec'2e !uppermordent!!uppermordent!d> e db2d |
+c> d e !mordent!!mordent!d> e c2<!mordent!!mordent!B2z z) .('d |
+!uppermordent!!uppermordent!_e2!mordent!!mordent!=e!uppermordent!!uppermordent!f2^f g> d BG2=f |
+e2f// e// d// c//G2!mordent!!mordent!d2<!uppermordent!!uppermordent!c2z z) .('d |
+_e2=e// d// c// _B//f2^f// e// d// c// g> d BG2c// d// e// f// |
+e2g// a// b// c'//!uppermordent!!uppermordent!d2!mordent!!mordent!b c'> g e!mordent!!mordent!c3) :|]

@@ -1,0 +1,32 @@
+X: 7156
+T: No723. Bedrogen Balluw. Andante.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 283387959
+%%humdrum-veritas-data 211548875
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('GG [I:setbarnb 1]|
+B>AGG |
+d>cBg |
+(3f/ e/ d/ (3c/ d/ A/dc |
+{c}!trill!!trill!BA).('GG |
+B>AGG |
+d>cBg |
+(3f/ e/ d/ (3c/ d/ A/B!trill!!trill!A |
+G2) ||
+.('BB [I:setbarnb 9]|
+d>cBB |
+f>edg |
+(3f/ e/ d/ (3c/ d/ B/AB |
+cF).('cc |
+e>dcd |
+{B}!trill!!trill!A>GFf |
+(3f/ e/ d/ (3c/ d/ B/d!trill!!trill!c |
+B2) ||

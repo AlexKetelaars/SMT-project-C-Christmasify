@@ -1,0 +1,27 @@
+X: 10988
+T: Daar wasser laastmaal een mooi nonnetje fijn [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:11
+%%humdrum-veritas 931552125
+%%humdrum-veritas-data 3812257359
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: G clef=treble
+.('D D E F [I:setbarnb 1]|
+G3B2A G F E |
+D2).('EF2GA2D |
+F F ED2) :|]
+.('zz2A [I:setbarnb 4]|
+A2B!fermata!c2B d c A |
+(G F G2<)A2z2).('D |
+D2E F F G (A B) G |
+F3G2>-G2 z) .('A |
+c2B!fermata!c2B d c A |
+(G F G2<)A2z2).('D |
+D2E F G A (B c) A |
+F3G3z2z) |]

@@ -1,0 +1,56 @@
+X: 7212
+T: Wat vreugd hoor ik uyt shemels zaelen! ‘t Sc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:35
+%%humdrum-veritas 1661963255
+%%humdrum-veritas-data 1680223556
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('d [I:setbarnb 1]|
+A3B |
+A G F E |
+(F> E)D2) |
+.('A A A A |
+G3A |
+d3d |
+c2z) .('d |
+A3B |
+A G F E |
+(F> E)D2) |
+.('B3B |
+A2G F |
+G2G2 |
+A4) |
+.('A2d2 |
+(c B)A2 |
+A2d2 |
+(c> B A3/ c/ |
+B> A G3/ B/) |
+(A2F2)) |
+.('F2B2 |
+(A> G F3/ A/ |
+G> F E3/ G/) |
+(F2D2)) |
+.('F2G A |
+G F E D |
+A4) |
+.('A2A A |
+G F G A |
+G2F E |
+F3).('G |
+A G F E |
+D4) |
+.('A3=B |
+(c =B) c A |
+(=B2^c) d |
+(d ^c) d e |
+A3).('A |
+d2(c3/ =B/) |
+c3c |
+d3z) |]

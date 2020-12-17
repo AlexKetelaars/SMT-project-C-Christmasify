@@ -1,0 +1,35 @@
+X: 2829
+T: Het Olle Schild dat is het mooiste Wat er in [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 3649323035
+%%humdrum-veritas-data 3349748880
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('D3/ D/ [I:setbarnb 1]|
+G2G2G/ G/ A |
+G2F2).('D D |
+A2>A2 G3/ A/ |
+B4).('D D |
+B2B2B3/ B/ |
+A2E2).('A3/ G/ |
+F2>c2 B3/ A/ |
+G4).('D D |
+G2G2F3/ G/ |
+A2A2).('G A |
+A2A2G3/ A/ |
+B4).('D D |
+c3c/ c/ c c |
+B4).('G A |
+A2A2(3A A G |
+B4).('D D |
+c3c/ c/ c c |
+B2>).('G2 G B |
+A2A2G3/ F/ |
+G4) |]

@@ -1,0 +1,43 @@
+X: 2546
+T: En op die aarde stond een boom Ene schöneren [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 498836609
+%%humdrum-veritas-data 122174528
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+B, D D D |
+E D D) .('D |
+B, D D D |
+E D D) .('D |
+B, D D D |
+E D D) .('D |
+B, D D D |
+E D D) .('D |
+B, D D D |
+E D D) .('D |
+B, D D D |
+E D D) .('D |
+B, D D D |
+[M:3/4]E DD2).('D3/ D/ |
+[M:2/4]G G A A |
+B B c c |
+B2A2 |
+G4) |
+.('c c B B |
+A A!fermata!G2) |
+.('B2B2 |
+B3).('d |
+d> d d d |
+A3).('D3// D// |
+G G A A |
+B B e e |
+d2c2 |
+B4) |]

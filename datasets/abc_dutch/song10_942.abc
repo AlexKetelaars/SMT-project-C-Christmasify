@@ -1,0 +1,32 @@
+X: 9941
+T: Er liep een oude vrouw op straat, In de kei, [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:01
+%%humdrum-veritas 1059138040
+%%humdrum-veritas-data 3112413621
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('G [I:setbarnb 1]|
+E G E G |
+G> FF2) |
+.('F FD2 |
+F FD2 |
+F F F F |
+E2z) .('G |
+E G E G |
+G EF2) |
+.('E FD2 |
+E F D z |
+E F F E |
+E2z) .('G |
+c c B A |
+A GB2) |
+.('E EG2 |
+G G F D |
+C4) |]

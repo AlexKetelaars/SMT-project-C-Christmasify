@@ -1,0 +1,30 @@
+X: 16258
+T: Daar, kom, ach, zoo zoet zacht, Ach ik kan,  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:01
+%%humdrum-veritas 2169578974
+%%humdrum-veritas-data 3150408327
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('d2z2e2z2 |
+g z e z g z^c2 |
+z4).('d3c |
+_B2>A2G3A |
+A4z) .('E A _B |
+c F c> fe2z) .('f |
+d2d2z2d c |
+_B2>A2G3F |
+E4z) .('E A G |
+F2D2z A d c |
+_B2>A2G3B |
+E4z) .('E (D E |
+F E D E F> G A/ B/ ^c/ A/ |
+d2c _B A G F E |
+D E F G A B ^c d/ B/) |
+^c2>d2d2) :|]

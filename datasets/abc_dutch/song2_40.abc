@@ -1,0 +1,27 @@
+X: 1039
+T: En ik ben eens met Katootje naar de Rozengra [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 2880556111
+%%humdrum-veritas-data 925620819
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('G [I:setbarnb 1]|
+G A B c d d d d |
+d c B AG2).('B c |
+d2d2c2c2 |
+B6).('B c |
+d2d de2d2 |
+d2c2c2).('A B |
+c c c c c c d c |
+c2B2B2).('d e |
+d4B2d e |
+d4B2).('A B |
+c2c2d2d2 |
+G6-G) |]

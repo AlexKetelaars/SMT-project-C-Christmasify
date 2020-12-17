@@ -1,0 +1,22 @@
+X: 6837
+T: Waar is de meid? Laat ze ons eens zien!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:32
+%%humdrum-veritas 2421811454
+%%humdrum-veritas-data 3446751494
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('F E DC3 |
+C D DE3) |
+.('F E DC3 |
+C D DE2).('C |
+E D E F E E |
+(D2C)B,2).('A, |
+B, B, E D C B, |
+A,3z2z) |]

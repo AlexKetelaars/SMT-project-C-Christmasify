@@ -1,0 +1,52 @@
+X: 470
+T: Ah! herte vol benauwtheyd! Dat's levens sterven!
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1074531297
+%%humdrum-veritas-data 3073591392
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('zGG2 |
+^F2G(A/ B/) |
+G2G2) |
+.('zGA(G/ F/) |
+(E>D)D2) |
+.('A=B(d/ B/)G |
+^F2z2) |
+.('d2^FG |
+AG^F2 |
+G2z2) |
+[M:3/2].('B2B2B2 |
+A2A2z2 |
+z2z2).('A2 |
+A4G2 |
+G2G2z2) |
+.('d2c3B |
+A2A2z2) |
+.('c2B3A |
+G2G2z2) |
+.('B2A3G |
+F2G2).('(AF) |
+E4D2 |
+D2D2z2 |
+z2z2).('A2 |
+d6 |
+B2B3A |
+G6) |
+.('_e6 |
+c4=B2 |
+d6 |
+c2c4) |
+.('B2F2F2 |
+B4A2 |
+G6 |
+z2).('c4 |
+^F6 |
+G2(G3^F) |
+G4) |]

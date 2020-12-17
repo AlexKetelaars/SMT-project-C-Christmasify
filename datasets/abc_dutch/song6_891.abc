@@ -1,0 +1,30 @@
+X: 5890
+T: Langs de vaart van Brugge naar Gent, Hoord’  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 1887226047
+%%humdrum-veritas-data 2544147518
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('A2Bc2d |
+e d eA2z) |
+.('d e cB2A |
+{B}(A2^G)A2).('E |
+A2Bc2d |
+e d eA2).('d |
+e2cB2A |
+{B}(A2^G)A2).('c |
+c2c {d}c2c |
+d e dd2).('d |
+e2e e f e |
+{e}!mordent!!mordent!d3c3) |
+.('A2Bc2d |
+e d eA2z) |
+.('d e cB2A |
+{B}(!mordent!!mordent!A2^G)A3) |]

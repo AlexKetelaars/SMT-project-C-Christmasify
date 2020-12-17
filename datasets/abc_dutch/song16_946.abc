@@ -1,0 +1,30 @@
+X: 15945
+T: Aleegro 4. Menuet
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:58
+%%humdrum-veritas 4000607142
+%%humdrum-veritas-data 4252258665
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('f e f gf2 |
+g f g ag2 |
+a bc'2b a |
+g f e dc2 |
+f e f gf2 |
+g f g ag2 |
+a bc'2b a |
+g6) |
+.('f e f g f c |
+d2B cd2 |
+g f g a g d |
+e2c de2 |
+a2a bc'2 |
+b2g ab2 |
+a g f g e g |
+f2z2z2) |]

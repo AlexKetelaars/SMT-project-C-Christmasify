@@ -1,0 +1,23 @@
+X: 9703
+T: ‘k Kwam laatst in een bosch om te jagen en w [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 2509957173
+%%humdrum-veritas-data 3809845734
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('C4 [I:setbarnb 1]|
+F4F FG4F G |
+(A4G2)F4).('F G |
+A4B GA4(A B) |
+(c2> d2) c BA4).('A B |
+c2 c2 c c A2 G2) .('F2 |
+B2 B2 A2 G2 G2 C C |
+F2 F2 G2A4).('F A |
+c2 c2 B GF4z2) |]

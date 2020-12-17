@@ -1,0 +1,31 @@
+X: 16936
+T: Es starben drei Geschwister aus dem König se [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:08
+%%humdrum-veritas 2245609219
+%%humdrum-veritas-data 3471651566
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A2 [I:setbarnb 1]|
+G G F E |
+(F G) A) .('A/ A/ |
+A2G F |
+!fermata!G2).('(F G) |
+A2G A |
+B2A2 |
+G2(G A) |
+F2).('(F G) |
+A2G A |
+B2A2 |
+G2(G A) |
+F2).('(F G) |
+A2G A |
+B2A A |
+G2(G A) |
+F2) |]

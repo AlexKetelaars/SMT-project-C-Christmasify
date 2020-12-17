@@ -1,0 +1,26 @@
+X: 6598
+T: Daar kwam een klein klein schippeken gerezen [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:29
+%%humdrum-veritas 2487986840
+%%humdrum-veritas-data 3718604842
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('D D3/ D/ [I:setbarnb 1]|
+G2G2G> D G3/ A/ |
+(B2>A2)G2).('A3/ B/ |
+c2d> c B> G c3/ B/ |
+A4z2).('A3/ B/ |
+c2>B2 A> G F3/ E/ |
+(D2>C2) B, z).('B2 |
+(B2>A2) G z) .('d3/ c/ |
+B d B G (A c) B A |
+G4z2).('d3/ c/ |
+B d B G (A c) B A |
+G4z) |]

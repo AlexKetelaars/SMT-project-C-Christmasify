@@ -1,0 +1,30 @@
+X: 16665
+T: De Nachtegael, hoe soet van tael verdroot we [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:05
+%%humdrum-veritas 1462106243
+%%humdrum-veritas-data 2277864091
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('A [I:setbarnb 1]|
+defg |
+a(_b/ a<)g).('f/ |
+e>fga |
+^fdd) |
+.('(f/ g/) [I:setbarnb 5]|
+aaa(g/ a/) |
+(b/ a/) (g/ f<)e).('e/ |
+f>gg3/(f// g//) |
+af2).('c/ c/ |
+c(B/ A<)_Bc/ |
+AA2).('d/ c/ |
+B>B^c3/d/ |
+eA).('f3/f/ |
+gae3/d/ |
+d3) :|]

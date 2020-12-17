@@ -1,0 +1,45 @@
+X: 4715
+T: Outertje toutertje ’ou je vast Want anders v [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:12
+%%humdrum-veritas 3548062684
+%%humdrum-veritas-data 290688222
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('d d d B c e |
+d2dB2).('B |
+d d de2e |
+d3B2).('e |
+d2d B B e |
+d2dB2).('B |
+d d d e e e |
+d d dB2).('G |
+d d d e e e |
+d3B2).('G |
+d2de2e |
+d3B2).('e |
+d d dB3 |
+d2dB3) |
+.('d2d e e e |
+d2dB2).('e |
+d d d B c e |
+d2dB2).('e |
+d2d B c e |
+d2dB2).('d |
+g2d d d d |
+d2dd3) |
+.('d2d d d d |
+d3d2).('d |
+d2dd2d |
+d3d3) |
+.('d2d d d/ d/ d |
+d3d2).('d |
+d6 |
+d6 |
+d6) |]

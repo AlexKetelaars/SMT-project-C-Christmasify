@@ -1,0 +1,42 @@
+X: 1250
+T: Er kwam een skuutje van Harlingen af Daar dr [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:40
+%%humdrum-veritas 364965505
+%%humdrum-veritas-data 4112748518
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G3/ G3/ G G G |
+F F ED2).('D |
+E2DE2F |
+G3G3) |
+.('G G G G3/ G3/ |
+F3D3) |
+.('E2DE2F |
+G3G3) |
+.('E2EA2A |
+F2FD3) |
+.('E2EA2A |
+F2FD3) |
+.('E2EA2A |
+F3D3) |
+.('E2E A A A |
+F3D2A |
+F3D2).('D |
+E2EA2A |
+F2F D D z) |
+.('E E E A A A |
+F2>D2) .('D D |
+E E E A A A |
+F2>D2) .('D D |
+E E E A A A |
+F2>D2) .('D D |
+E E EA2A |
+F3D) |]

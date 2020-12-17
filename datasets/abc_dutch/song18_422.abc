@@ -1,0 +1,32 @@
+X: 17421
+T: La Hay
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:13
+%%humdrum-veritas 3792472545
+%%humdrum-veritas-data 1627135536
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('d e [I:setbarnb 1]|
+d2A2F2A2 |
+B4A4 |
+B c d B c d e d |
+c2B cA2).('d e |
+d2A2F2A2 |
+B4A4 |
+B c d B c d e c |
+d6) |
+.('f g [I:setbarnb 9]|
+f2d2e2f2 |
+g4f4 |
+e2d2c2d2 |
+e d c BA2).('f g |
+f2d2e2f2 |
+g4f4 |
+e d c BA2c2 |
+!fermata!d6) :|]

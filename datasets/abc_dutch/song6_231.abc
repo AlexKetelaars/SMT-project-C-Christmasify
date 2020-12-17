@@ -1,0 +1,30 @@
+X: 5230
+T: Ik ben er de Groenelandstraatjes Zo dikwijls [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 872517649
+%%humdrum-veritas-data 1032985701
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('d [I:setbarnb 1]|
+G> F G |
+B> A G |
+d> e) .('d |
+B> G G |
+A> B A |
+D3- |
+D z) .('B |
+c> e e |
+e> d c |
+(B2d) |
+d z) .('B |
+d> B G |
+c> B A |
+G3- |
+G z) |]

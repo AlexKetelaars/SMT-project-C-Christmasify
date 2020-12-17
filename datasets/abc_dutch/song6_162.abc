@@ -1,0 +1,38 @@
+X: 5161
+T: In des hemels hoge zalen Is op heden zulk ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:16
+%%humdrum-veritas 838681564
+%%humdrum-veritas-data 4033354318
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('G3/A/ |
+B(d/ c/) |
+Bd |
+(c/ B/)A) |
+.('Bc |
+d(f/ e/) |
+dc |
+d2) |
+.('G3/A/ |
+B(d/ c/) |
+Bd |
+(c/ B/)A) |
+.('Bc |
+df/ e/ |
+dc |
+d2) |
+.('d(d/ c/) |
+(B/ A/)G |
+cd |
+G2) |
+.('G3/A/ |
+Bd/ c/ |
+B(A/ B/) |
+G2) |]

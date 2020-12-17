@@ -1,0 +1,20 @@
+X: 4912
+T: Daar kwam ereis een kanonnetje aan Uit Franc [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:13
+%%humdrum-veritas 3629860271
+%%humdrum-veritas-data 3882460041
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 9/8
+Q: 3/8=80
+K: C clef=treble
+.('G G G GG2G [I:setbarnb 1]|
+G G G2<G2).('c3 |
+G3G2F E E F |
+G3G3).('c3 |
+G3G2GF2D |
+C2) |]

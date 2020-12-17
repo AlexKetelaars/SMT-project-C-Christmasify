@@ -1,0 +1,34 @@
+X: 9250
+T: Mitte confitte kom t’ avond thuis, ‘t Is ker [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:54
+%%humdrum-veritas 1140872227
+%%humdrum-veritas-data 851392474
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G A B A B G |
+(G F) ED2).('D |
+E2GF2A |
+G3D3) |
+.('G A B A B G |
+(G F) ED2).('D |
+E2GF2A |
+G3-G2).('A |
+c2cA2A |
+B2BG2).('G |
+d2dB2B |
+c B cA3) |
+.('G A B A B G |
+(G F) ED2).('D |
+E2GF2A |
+G3D3) |
+.('G A B A B G |
+(G F) ED2).('D |
+E2GF2A |
+G3-G2) |]

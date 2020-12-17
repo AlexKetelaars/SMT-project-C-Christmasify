@@ -1,0 +1,22 @@
+X: 2552
+T: Moeder mag ik trouwen gaan trouwen gaan 'k V [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:52
+%%humdrum-veritas 2227418103
+%%humdrum-veritas-data 1276745674
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2Bd2d |
+e d d e d d) |
+[M:9/8].('B B d2<d2c2).('d |
+[M:6/8]e2dB3) |
+.('G2Bd2g |
+g2fe3) |
+.('e f g g f e |
+d2cB3) |]

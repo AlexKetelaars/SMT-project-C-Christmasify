@@ -1,0 +1,30 @@
+X: 16747
+T: Wakker op wilt nu paaren, uwe keel en snaaren
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:06
+%%humdrum-veritas 3103852959
+%%humdrum-veritas-data 3628399148
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('e f [I:setbarnb 1]|
+g2g g (g f g a |
+g a g fe4) |
+c6).('e f |
+g2g2(g f g a |
+g a g fe4) |
+e4) |
+.('z e e f [I:setbarnb 7]|
+g2g2g2e2 |
+d2).('d2d2e2 |
+d2g2(f2e2) |
+d4z) .('d e f |
+g2g2g2e2 |
+d2>).('d2d2e2 |
+d2(e f2<)d2c |
+c6) |]

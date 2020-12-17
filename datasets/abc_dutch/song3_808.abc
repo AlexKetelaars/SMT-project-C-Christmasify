@@ -1,0 +1,27 @@
+X: 2807
+T: Een boer en een boer en een edele boer en ee [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:54
+%%humdrum-veritas 3058491259
+%%humdrum-veritas-data 2445213904
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('D [I:setbarnb 1]|
+G B/ B/ d e/ e/ |
+(3d B A G) .('B/ B/ |
+A d d c |
+(B A) G) .('B |
+A A/ A/ A B/ B/ |
+G A B) .('B |
+A2B A |
+G A B) .('B/ c/ |
+d g d/ c/ B/ G/ |
+A2G) .('B/ c/ |
+d g d/ c/ B/ G/ |
+A2G) |]

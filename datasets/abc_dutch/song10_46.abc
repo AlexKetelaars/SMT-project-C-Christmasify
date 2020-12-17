@@ -1,0 +1,28 @@
+X: 9045
+T: Schellevisch kruipt deur, En de kabeljauw bl [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:52
+%%humdrum-veritas 3201615870
+%%humdrum-veritas-data 2101876766
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('A A G G |
+F3F/ F/ |
+c c B B |
+A4) :|]
+.('c/ B/ A c/ B/ A/ A/ |
+c c B G |
+F4) :|]
+.('A F A F |
+A/ G/ A/ G/ A F |
+A A c c |
+A GF2) :|]
+.('A/ G/ F A/ G/ F |
+A A c c |
+A/ A/ GF2) |]

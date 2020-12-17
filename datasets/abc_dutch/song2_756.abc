@@ -1,0 +1,22 @@
+X: 1755
+T: En er waren drie zusters tezamen Den ene was [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:45
+%%humdrum-veritas 2989886893
+%%humdrum-veritas-data 1890059128
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+[M:4/4].('GF/> F/GA |
+[M:3/4]B2A) |
+[M:4/4].('e2fe/ e/ |
+dd/> c/Bz) |
+.('e2fe |
+dd/ c/Be) |
+.('d>cBA/ G/ |
+BGEz) |]

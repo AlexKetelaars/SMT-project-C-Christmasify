@@ -1,0 +1,31 @@
+X: 456
+T: De tweede licke-pot
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:33
+%%humdrum-veritas 1922831413
+%%humdrum-veritas-data 3761607955
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('z2cB |
+cde2 |
+c2).('ee |
+dg^f2 |
+g2) |
+.('gg [I:setbarnb 6]|
+gagf |
+eed).('e |
+ccB/ c/d |
+G2).('gg |
+g>fe2 |
+ccc3/B/ |
+A2).('ag |
+^f2g2 |
+deff |
+eed2 |
+c2) :|]

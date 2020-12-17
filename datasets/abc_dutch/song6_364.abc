@@ -1,0 +1,53 @@
+X: 5363
+T: In ‘t jaartje doe ik jong en reine maget was
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:18
+%%humdrum-veritas 760085438
+%%humdrum-veritas-data 3516124378
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('d [I:setbarnb 1]|
+[M:5/8]d3/c |
+[M:3/4]d>(c B/ A/) |
+[M:7/8]G2(A/ B/ c/) |
+[M:3/4]d2c |
+d>(c B/ A/) |
+G2).('c |
+d2c |
+[M:4/4]d3e |
+[M:3/4]f>ef |
+g>ag |
+fe2 |
+d2).('c |
+d2c |
+d2c |
+[M:9/8]d/ e/ f/g3 |
+[M:3/4]d2e/ f/ |
+f>ef |
+d>cd |
+B2A |
+G2).('A |
+B2c |
+d2c |
+d2c/ B/ |
+A3 |
+G2).('c |
+d2c |
+d2c |
+[M:9/8]d/ e/ f/g3 |
+[M:3/4]d2e/ f/ |
+f>ef |
+d>cd |
+B2A |
+G2).('A |
+B2c |
+d2c |
+d2c/ B/ |
+A3 |
+G2) |]

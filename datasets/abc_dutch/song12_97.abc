@@ -1,0 +1,63 @@
+X: 11096
+T: Loop an, sa mannen, zie zo den brui! Loop an [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:12
+%%humdrum-veritas 1245004535
+%%humdrum-veritas-data 3417366216
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/4
+Q: 1/4=120
+K: G clef=treble
+.('d [I:setbarnb 1]|
+G2GG>AB |
+A2DD2).('d |
+G2GG>AB |
+A2DD2).('D |
+D>FGG>AF |
+G2GG2).('D |
+D>FGG>AF |
+G2GG2).('d |
+B2ed>cB |
+B>AGG2).('d |
+B2ed>cB |
+B>AGG>).('AF |
+E2DD>GF |
+E2DD>).('GF |
+E2DE2F |
+G2DD2).('d |
+d3-d2e |
+d3-d2d |
+d>^cde>dc |
+d2dd2).('D |
+D>EFF>ED |
+A2AA2).('D |
+D>EFF>ED |
+A2AA2).('d |
+d>cBB>AG |
+G2GG2).('d |
+d>cBB>AG |
+G2GG2).('G |
+G>FGA>GA |
+B2GG2).('G |
+G>FGA>GA |
+B2GG>).('dc |
+B2AA>dc |
+B2AA>).('dc |
+B2AB2c |
+d2AB2A |
+A2-A2zA |
+A2-A2z).('A |
+A>GAB>AG |
+A2AA2).('d |
+G2GG>AB |
+A2DD2).('d |
+G2GG>AB |
+A2DD2).('D |
+E>FGG>AF |
+G2GG2).('D |
+E>FGG>AF |
+G2GG2) |]

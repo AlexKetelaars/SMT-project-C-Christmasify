@@ -1,0 +1,32 @@
+X: 13640
+T: Conder: holans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:37:36
+%%humdrum-veritas 1770825300
+%%humdrum-veritas-data 1870541463
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G [I:setbarnb 1]|
+B2B B c B |
+A2A A) .('B c |
+B A G F G A |
+G D C B, A, G,) |
+.('B2B B c B |
+A2A A) .('B c |
+B A G F G A |
+G3G2) |
+.('d [I:setbarnb 9]|
+g2de2d |
+g2de2).('d |
+g f e d c B |
+A3A2).('G |
+B2B B c B |
+A2A A) .('B c |
+B A G F G A |
+G3G,2) :|]

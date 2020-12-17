@@ -1,0 +1,32 @@
+X: 5022
+T: Amen amen wij zijn hier te zamen om te drink [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:14
+%%humdrum-veritas 2651108651
+%%humdrum-veritas-data 277705274
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('F3// A// [I:setbarnb 1]|
+ccc |
+ccd |
+c>B) .('A3// A// |
+BA/> A/ G3// G// |
+F2).('F3// A// |
+ccd |
+c>B) .('A3// A// |
+BAG |
+F2).('F3// A// |
+ccd |
+c>B) .('A3// A// |
+BAG |
+FF).('F3// A// |
+ccd |
+c>B) .('A3// A// |
+BAG |
+FFF) |]

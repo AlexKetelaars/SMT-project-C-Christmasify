@@ -1,0 +1,38 @@
+X: 380
+T: Sarabanda
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:32
+%%humdrum-veritas 852147889
+%%humdrum-veritas-data 3720887793
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('FFG |
+A>Bc |
+B>cA |
+G2F) |
+.('ccc |
+d>ef |
+fe3/d/ |
+^c3) |
+.('A=Bc |
+d3 |
+=Bcd |
+e3) |
+.('ccc |
+d>ec |
+c=B3/A/ |
+A3) |
+.('AAA |
+B3 |
+GGG |
+A3) |
+.('FFF |
+G>AF |
+FE3/D/ |
+D3) |]

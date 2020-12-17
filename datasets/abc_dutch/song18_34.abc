@@ -1,0 +1,119 @@
+X: 17033
+T: Choeur
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:09
+%%humdrum-veritas 78915482
+%%humdrum-veritas-data 279369358
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('eee |
+d2d |
+dc/> B/ (!mordent!!mordent!A/ B/) |
+B3) |
+.('def |
+g/ a/ g/ f/e |
+a!mordent!!mordent!d3/c/ |
+c).('ee |
+d2d |
+gcf |
+!mordent!!mordent!e2).('e |
+g!mordent!!mordent!f/> e/ (d/ e/) |
+e/ f/ g/ a/g) |
+.('!mordent!!mordent!g>fe |
+e/ f/ g/ a/g |
+!mordent!!mordent!g>fe |
+ecf |
+!mordent!!mordent!e2).('e |
+gf/ e/ d/ e/ |
+e/ f/ g/ a/g) |
+.('!mordent!!mordent!g>fe |
+e/ f/ g/ a/g |
+!mordent!!mordent!g>fe |
+ecf |
+e>).('f e/ f/ |
+g!mordent!!mordent!f/> e/ (d/ e/) |
+e3) |
+.('cG3/c/ |
+!mordent!!mordent!A2A |
+dAd |
+!mordent!!mordent!B3) |
+.('eB3/e/ |
+!mordent!!mordent!^c2c |
+d>e^c |
+d3) |
+.('Bcd |
+e2e |
+cde |
+f2d |
+e!mordent!!mordent!d3/c/ |
+c3) |
+.('ec3/e/ |
+A2A |
+dAd |
+!mordent!!mordent!B3 |
+ec3/f/ |
+!mordent!!mordent!e2e |
+gf/ e/ (d/ e/) |
+e3) |
+.('ec3/e/ |
+A2A |
+ddB |
+!mordent!!mordent!^G3) |
+.('eee |
+c2c |
+dBe |
+!mordent!!mordent!^c3) |
+.('^d2d |
+dd^c |
+d3) |
+.('dA3/d/ |
+!mordent!!mordent!B2B |
+cd/ c/d |
+e3) |
+.('ecf |
+!mordent!!mordent!e2e |
+gf/ e/ (d/ e/) |
+e3) |
+.('c!mordent!!mordent!E3/A/ |
+!mordent!!mordent!^F2F |
+G>A^F |
+G3) |
+.('def |
+g/ a/ g/ f/e |
+a!mordent!!mordent!d3/c/ |
+c).('c3/e/ |
+A2A |
+dAd |
+Bcd |
+e2).('e |
+cde |
+f2d |
+e!mordent!!mordent!d3/c/ |
+c).('c3/e/ |
+!mordent!!mordent!A2A |
+dAd |
+!mordent!!mordent!B3) |
+.('ecf |
+!mordent!!mordent!e2e |
+gf/> e/ (d/ e/) |
+e/ f/ g/ a/g) |
+.('!mordent!!mordent!g>fe |
+e/ f/ g/ a/g |
+!mordent!!mordent!g>fe |
+ecf |
+!mordent!!mordent!e2).('e |
+g!mordent!!mordent!f/> e/ (d/ e/) |
+e/ f/ g/ a/g |
+!mordent!!mordent!g>fe |
+e/ f/ g/ a/g) |
+.('!mordent!!mordent!g>fe |
+ecf |
+!mordent!!mordent!e>f e/ f/ |
+g!mordent!!mordent!f/> (e/ d/ e/) |
+e3) |]

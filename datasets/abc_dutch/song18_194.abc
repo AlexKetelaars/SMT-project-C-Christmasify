@@ -1,0 +1,50 @@
+X: 17193
+T: Amour! Amour! quand ta rigeur met a l’epreuv [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:10
+%%humdrum-veritas 1903672502
+%%humdrum-veritas-data 778079559
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+B4!trill!!trill!c2 |
+d4(3(d c B) |
+A4B2 |
+c2>c2 B A |
+G FG2(3A G A |
+(A2B)) .('d g d |
+(d c) c c a c |
+B d g d c B |
+{c} (3B A BA2z2) |
+.('A2A2B2 |
+{c B} A> BA2G2 |
+F> GF2!trill!!trill!E2 |
+D6) |
+.('d2d2(3e f g |
+d> ed2c2 |
+B> cB2!trill!!trill!A2 |
+G6) |
+.('A4B c |
+d2>d2 c B |
+!trill!!trill!B2A A B c |
+d2>d2 c B |
+B4A2) ]|:
+.('e2e3e |
+!fermata!e6 |
+d2c2!trill!!trill!d2 |
+c2z c d e |
+(e2d)) .('A B c |
+(3c B c B d g B |
+B2A c F A |
+{A}G4z2) :|]
+.('z2z A B c |
+d4e d/ c/ |
+B6 |
+!trill!!trill!A6 |
+{G A}!fermata!G6) |]

@@ -1,0 +1,30 @@
+X: 1580
+T: Poaske poaske komt eran hebt uw dochter nog  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:43
+%%humdrum-veritas 188161631
+%%humdrum-veritas-data 1781522856
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d d e e |
+d dB2) |
+.('d d e e |
+d d B3/) .('d/ |
+d d e e |
+d dB2) |
+.('d d e e |
+d dB2) |
+.('G2B2 |
+d2z2) |
+.('G2B c |
+d2z2) |
+.('e e e e |
+d2z) .('d |
+c c B B |
+A2z2) |]

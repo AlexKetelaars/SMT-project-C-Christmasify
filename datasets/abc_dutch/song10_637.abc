@@ -1,0 +1,45 @@
+X: 9636
+T: Komt vrienden, hier allen in het ronde En ko [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:58
+%%humdrum-veritas 3788144165
+%%humdrum-veritas-data 213606089
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('z2(A c) |
+F2F A |
+G F E F |
+G2G2 |
+z) .('A B A |
+G2G A |
+B dc2 |
+z2).('A c |
+F3G |
+A Bd2) |
+.('F F F A |
+c2d2 |
+c B A G |
+F2z2) ||
+.('A c A c [I:setbarnb 16]|
+F2F A |
+G F E F |
+F2G2) |
+.('B A B A |
+G2A B |
+d d c =B |
+c2z2) |
+.('G F E F |
+F2F A |
+G F E F |
+(G B)d2) |
+.('G B A G |
+c2z2 |
+c3d |
+c B A G |
+F2z) |]

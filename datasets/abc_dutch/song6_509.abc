@@ -1,0 +1,35 @@
+X: 5508
+T: Voor Vlaendrens gouden kusten Klinke aller l [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:19
+%%humdrum-veritas 1970989381
+%%humdrum-veritas-data 2305148337
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 6/8
+Q: 3/8=80
+K: Eb clef=treble
+.('B/ [I:setbarnb 1]|
+BG/AB/ |
+c3/Be/ |
+ed/dc/ |
+B3/-B).('B/ |
+BG/AB/ |
+c3/Bc/ |
+dB/c=A/ |
+G3/-G).('B/ |
+dc/GA/ |
+c3/BB/ |
+B=A/B_A/ |
+G>-G z/) .('B/ |
+BG/AB/ |
+c3/ec/ |
+B3/A3/ |
+G3/-G).('B/ |
+BG/AB/ |
+c3/ec/ |
+B3/d3/ |
+e3/-ez/) |]

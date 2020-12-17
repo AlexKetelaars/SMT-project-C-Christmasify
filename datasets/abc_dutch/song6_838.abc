@@ -1,0 +1,37 @@
+X: 5837
+T: Menschen, zijt nu al verblijd, Hoort nu hoe  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:36:22
+%%humdrum-veritas 4238912313
+%%humdrum-veritas-data 3289013217
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: G clef=treble
+.('G2B [I:setbarnb 1]|
+d2Bc2e |
+d3).('A2B |
+c2ed2c |
+B3).('B2A |
+G2BA2G |
+F3).('A2B |
+c2ed2c |
+B3).('B2A |
+G2>(G2 F) G |
+A2G (G F) E |
+!fermata!D2).('AB2c |
+d2ed2c |
+B2).('ed2c |
+B2AB2c |
+d e) .('dc2B |
+A2z d ^c d |
+G2>(A2 B) c |
+B2z).('E2F |
+G G GA2G |
+F2D) .('d d d |
+c2dB2A |
+G3) |]

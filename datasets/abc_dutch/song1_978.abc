@@ -1,0 +1,23 @@
+X: 978
+T: Daar gunter in die velden en daer staet een  [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:35:38
+%%humdrum-veritas 3297168298
+%%humdrum-veritas-data 3808072494
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('B2 [I:setbarnb 1]|
+A2>B2c3d |
+c2B4).('d d |
+e2>f2g2e2 |
+d8) |
+.('e4e2e e |
+d> e d c B B) .('d d |
+e2d dc2d2 |
+B6) |]
