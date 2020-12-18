@@ -22,5 +22,5 @@ python train_rnn.py config5 data/v2_data
 
 To parse abc songs to RNN format (dataset.txt):
 ```bash
-python FolkRNN-parser.py -f ../datasets/FOLDER_ABC/ -o DATASET_RNN.txt --skip_chords --simplify_duplets
+python FolkRNN-parser.py -f ../datasets/FOLDER_ABC/ -o DATASET_RNN.txt --include_titles
 ```
