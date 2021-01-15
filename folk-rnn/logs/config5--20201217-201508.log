@@ -1,0 +1,91 @@
+vocabulary size: 229
+n tunes: 17124
+n train tunes: 16292.0
+n validation tunes: 832.0
+min, max length 2 2186
+Building the model
+  number of parameters: 5891006
+  layer output shapes:               #params:   output shape:
+    InputLayer                       0          (64, None)
+    EmbeddingLayer                   52441      (64, None, 229)
+    InputLayer                       0          (64, None)
+    LSTMLayer                        1520640    (64, None, 512)
+    DropoutLayer                     0          (64, None, 512)
+    LSTMLayer                        2100224    (64, None, 512)
+    DropoutLayer                     0          (64, None, 512)
+    LSTMLayer                        2100224    (64, None, 512)
+    DropoutLayer                     0          (64, None, 512)
+    ReshapeLayer                     0          (None, 512)
+    DenseLayer                       117477     (None, 229)
+Traceback (most recent call last):
+  File "train_rnn.py", line 160, in <module>
+    train = theano.function([x, mask], loss, updates=updates)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/compile/function.py", line 317, in function
+    output_keys=output_keys)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/compile/pfunc.py", line 486, in pfunc
+    output_keys=output_keys)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/compile/function_module.py", line 1839, in orig_function
+    name=name)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/compile/function_module.py", line 1519, in __init__
+    optimizer_profile = optimizer(fgraph)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/gof/opt.py", line 108, in __call__
+    return self.optimize(fgraph)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/gof/opt.py", line 97, in optimize
+    ret = self.apply(fgraph, *args, **kwargs)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/gof/opt.py", line 251, in apply
+    sub_prof = optimizer.optimize(fgraph)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/gof/opt.py", line 93, in optimize
+    self.add_requirements(fgraph)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/opt.py", line 1488, in add_requirements
+    fgraph.attach_feature(ShapeFeature())
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/gof/fg.py", line 546, in attach_feature
+    attach(self)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/opt.py", line 1305, in on_attach
+    self.on_import(fgraph, node, reason='on_attach')
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/opt.py", line 1324, in on_import
+    o_shapes = self.get_node_infer_shape(node)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/opt.py", line 946, in get_node_infer_shape
+    [self.shape_of[r] for r in node.inputs])
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_op.py", line 1670, in infer_shape
+    input_shapes=inner_ins_shapes)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 802, in infer_shape
+    local_traverse(o)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 793, in local_traverse
+    local_traverse(inp)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/scan_module/scan_utils.py", line 798, in local_traverse
+    shape_feature.on_import(dummy_fgraph, out.owner, reason="dummy")
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/opt.py", line 1324, in on_import
+    o_shapes = self.get_node_infer_shape(node)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/opt.py", line 946, in get_node_infer_shape
+    [self.shape_of[r] for r in node.inputs])
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/subtensor.py", line 557, in infer_shape
+    length = cnf.stop - cnf.start
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/var.py", line 150, in __sub__
+    return theano.tensor.basic.sub(self, other)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/gof/op.py", line 615, in __call__
+    node = self.make_node(*inputs, **kwargs)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/tensor/elemwise.py", line 486, in make_node
+    return Apply(self, inputs, outputs)
+  File "/Users/marcopellegrino/opt/anaconda3/envs/py2/lib/python2.7/site-packages/theano/gof/graph.py", line 119, in __init__
+    output.index = i
+KeyboardInterrupt

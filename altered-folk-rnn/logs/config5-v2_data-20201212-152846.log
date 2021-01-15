@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "train_rnn.py", line 48, in <module>
-    with open(data_path, 'r') as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'data/v2_data'

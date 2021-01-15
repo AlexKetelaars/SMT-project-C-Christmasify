@@ -1,5 +1,0 @@
-vocabulary size: 137
-Traceback (most recent call last):
-  File "train_rnn.py", line 58, in <module>
-    token2idx = dict(zip(idx2token, xrange(vocab_size)))
-NameError: name 'xrange' is not defined
