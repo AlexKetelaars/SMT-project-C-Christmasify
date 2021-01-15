@@ -22124,5 +22124,3 @@ L:1/8
 M:2/4
 K:Dclef
 A B/2 c/2 d d | f d f2 | a f a/2 g/2 f/2 e/2 | d A F D | A B/2 c/2 d d | f d f2 | a f a/2 g/2 f/2 e/2 | d2 D2 | g e c A [ebab] | f d A F | a f e d | e/2 d/2 c/2 B/2 A2 | D E/2 F/2 G A | B c d e | f a a/2 g/2 f/2 e/2 | d2 D2 |
-
-
