@@ -6,7 +6,8 @@ import os
 import sys
 import time
 import importlib
-if sys.version_info < (3,0):
+
+if sys.version_info < (3, 0):
     import cPickle as pickle
 else:
     import pickle
@@ -41,7 +42,7 @@ config = importlib.import_module('configurations.%s' % metadata['configuration']
 
 # samples dir
 if not os.path.isdir('samples'):
-        os.makedirs('samples')
+    os.makedirs('samples')
 target_path = "samples/%s-s%d-%.2f-%s.txt" % (
     metadata['experiment_id'], rng_seed, temperature, time.strftime("%Y%m%d-%H%M%S", time.localtime()))
 
@@ -105,19 +106,21 @@ for i in xrange(ntunes):
         sequence.append(next_itoken)
 
     abc_tune = [idx2token[j] for j in sequence[1:-1]]
+
     if not args.terminal:
         f = open(target_path, 'a+')
         f.write('X:' + repr(i) + '\n')
         f.write(abc_tune[0] + '\n')
         f.write(abc_tune[1] + '\n')
-        f.write(' '.join(abc_tune[2:]) + '\n\n')
+        f.write(abc_tune[2] + '\n')
+        f.write(' '.join(abc_tune[3:]) + '\n\n')
         f.close()
     else:
         print('X:' + repr(i))
         print(abc_tune[0])
         print(abc_tune[1])
-        print(' '.join(abc_tune[2:]) + '\n')
-
+        print(abc_tune[2])
+        print(' '.join(abc_tune[3:]) + '\n')
 
 if not args.terminal:
-    print('Saved to '+target_path)
+    print('Saved to ' + target_path)
