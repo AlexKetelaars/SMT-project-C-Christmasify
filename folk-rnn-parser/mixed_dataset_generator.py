@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     dutch_songs = []
     current_chunk = []
-    for line in open("../parsed-datasets/fixed_parsed_dutch.txt"):
+    for line in open("../datasets_parsed/fixed_parsed_dutch.txt"):
         if line.startswith(token) and current_chunk:
             # if line starts with token and the current chunk is not empty
             dutch_songs.append(current_chunk[:])  # add not empty chunk to chunks
@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     christmas_songs = []
     current_chunk = []
-    for line in open("../parsed-datasets/fixed_parsed_christmas.txt"):
+    for line in open("../datasets_parsed/fixed_parsed_christmas.txt"):
         if line.startswith(token) and current_chunk:
             # if line starts with token and the current chunk is not empty
             christmas_songs.append(current_chunk[:])  # add not empty chunk to chunks
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     print('Input dutch songs: ', len(dutch_songs))
     print('Input dutch songs: ', len(christmas_songs))
 
-    # since datasets have different lengths, consider the smaller
+    # since datasets_original have different lengths, consider the smaller
     n_song = min(len(dutch_songs), len(christmas_songs))
 
     # if n_song is not even, reduce by one. otherwise mixed dataset cannot be 50-50%
@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
     print("Min dataset size: ", n_song)
 
-    # trim randomly input datasets, to have same min size
+    # trim randomly input datasets_original, to have same min size
     if len(dutch_songs) > n_song:
         dutch_songs = random.sample(dutch_songs, n_song)
     if len(christmas_songs) > n_song:
@@ -66,9 +66,9 @@ if __name__ == "__main__":
     if len(mixed_songs) == len(dutch_songs) & len(mixed_songs) == len(christmas_songs):
         print('Everything correct!')
 
-    # write all datasets to file
+    # write all datasets_original to file
 
-    f = open("../parsed-datasets/rnn_dataset_mixed.txt", 'w')
+    f = open("../datasets_parsed/rnn_dataset_mixed.txt", 'w')
     i = 0
     for ele in mixed_songs:
         i = i + 1
@@ -77,7 +77,7 @@ if __name__ == "__main__":
         f.write('\n')
     print('Written to file', i,'songs mixed dataset')
 
-    f = open("../parsed-datasets/rnn_dataset_dutch.txt", 'w')
+    f = open("../datasets_parsed/rnn_dataset_dutch.txt", 'w')
     i = 0
     for ele in dutch_songs:
         i = i + 1
@@ -86,7 +86,7 @@ if __name__ == "__main__":
         f.write('\n')
     print('Written to file', i,'songs dutch dataset')
 
-    f = open("../parsed-datasets/rnn_dataset_christmas.txt", 'w')
+    f = open("../datasets_parsed/rnn_dataset_christmas.txt", 'w')
     i = 0
     for ele in christmas_songs:
         i = i + 1

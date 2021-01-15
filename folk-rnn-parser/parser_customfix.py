@@ -12,7 +12,7 @@ if __name__ == "__main__":
     # l = re.sub(r"([\[]) +([A-Ga-g0-9/,]) +([\]])", r"\1\3", l)
     # print(l)
     count = 0
-    filename = "../parsed-datasets/original_parsed_dutch.txt"
+    filename = "../datasets_parsed/original_parsed_dutch.txt"
     s = ""
     bool_K = False
     with open(str(filename), "r") as f:
