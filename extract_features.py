@@ -36,20 +36,20 @@ for song in os.listdir(args.songs):
     try:
         fe = features.jSymbolic.InitialTempoFeature(s)
         f = fe.extract()
-        print("Initial Tempo for " + song + ": " + str(f.vector))
+        print("Initial Tempo for " + song + ": " + str(f.vector[0]))
         initial_tempo.append(f.vector[0])
     except:
         print("Initial Tempo could not be extracted for " + song)
 
 
-print("Final statistics for Initial Tempo")
+print("\nFinal statistics for Initial Tempo")
 print("Mean: " + str(statistics.mean(initial_tempo)))
 print("Standard deviation: " + str(statistics.stdev(initial_tempo)))
 print("Minimum value: " + str(min(initial_tempo)))
-print("Maximum value: " + str(max(initial_tempo)))
+print("Maximum value: " + str(max(initial_tempo)) + "\n")
 
 plt.hist(initial_tempo, bins = 20, color = 'blue', edgecolor = 'black')
-plt.title("Initial Tempo")
-plt.xlabel("Frequency")
-plt.ylabel("Initial Tempo")
+plt.title("Initial Tempo feature distribution")
+plt.xlabel("Initial Tempo")
+plt.ylabel("Frequency")
 plt.show()
