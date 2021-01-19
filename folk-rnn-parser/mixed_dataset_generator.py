@@ -74,7 +74,6 @@ if __name__ == "__main__":
         i = i + 1
         for line in ele:
             f.write(line)
-        f.write('\n')
     print('Written to file', i,'songs mixed dataset')
 
     f = open("../datasets_parsed/rnn_dataset_dutch.txt", 'w')
@@ -83,7 +82,6 @@ if __name__ == "__main__":
         i = i + 1
         for line in ele:
             f.write(line)
-        f.write('\n')
     print('Written to file', i,'songs dutch dataset')
 
     f = open("../datasets_parsed/rnn_dataset_christmas.txt", 'w')
@@ -92,7 +90,6 @@ if __name__ == "__main__":
         i = i + 1
         for line in ele:
             f.write(line)
-        f.write('\n')
     print('Written to file', i,'songs christmas dataset')
 
     print('IMPORTANT: remember to manually delete the last newline(s)!')
