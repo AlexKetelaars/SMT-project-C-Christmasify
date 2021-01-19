@@ -4,6 +4,7 @@ import argparse
 import os
 import matplotlib.pyplot as plt
 import statistics
+import pandas as pd
 
 
 parser = argparse.ArgumentParser()
@@ -18,8 +19,12 @@ if not args.songs:
 
 initial_tempo = [] # more features can be added as desired
 
-for song in os.listdir(args.songs):
+column_names = ["condition", "initial_tempo", "note_duration", "melodic_interval", "motion_direction", "strongest_pitch"]
 
+condition = "dutch"
+df = []
+
+for song in os.listdir(args.songs):
     splitted = os.path.splitext(song)
     extension = splitted[len(splitted)-1]
     if extension != ".midi" and extension != ".abc":
@@ -36,20 +41,28 @@ for song in os.listdir(args.songs):
     try:
         fe = features.jSymbolic.InitialTempoFeature(s)
         f = fe.extract()
-        print("Initial Tempo for " + song + ": " + str(f.vector[0]))
-        initial_tempo.append(f.vector[0])
+        initial_tempo = f.vector[0]
+
+        fe = features.jSymbolic.AverageNoteDurationFeature(s)
+        f = fe.extract()
+        note_duration = f.vector[0]
+
+        fe = features.jSymbolic.AverageMelodicIntervalFeature(s)
+        f = fe.extract()
+        melodic_interval = f.vector[0]
+
+        fe = features.jSymbolic.DirectionOfMotionFeature(s)
+        f = fe.extract()
+        motion_direction = f.vector[0]
+
+        fe = features.jSymbolic.IntervalBetweenStrongestPitchClassesFeature(s)
+        f = fe.extract()
+        strongest_pitch = f.vector[0]
+
+        df.append([condition, initial_tempo, note_duration, melodic_interval, motion_direction, strongest_pitch])
+
     except:
         print("Initial Tempo could not be extracted for " + song)
 
-
-print("\nFinal statistics for Initial Tempo")
-print("Mean: " + str(statistics.mean(initial_tempo)))
-print("Standard deviation: " + str(statistics.stdev(initial_tempo)))
-print("Minimum value: " + str(min(initial_tempo)))
-print("Maximum value: " + str(max(initial_tempo)) + "\n")
-
-plt.hist(initial_tempo, bins = 20, color = 'blue', edgecolor = 'black')
-plt.title("Initial Tempo feature distribution")
-plt.xlabel("Initial Tempo")
-plt.ylabel("Frequency")
-plt.show()
+dfcsv = pd.DataFrame(df, columns = column_names)
+dfcsv.to_csv('features.csv')
