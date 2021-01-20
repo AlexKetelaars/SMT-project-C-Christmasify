@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     path = "../datasets_parsed/"
 
-    filename = "original_parsed_christmas.txt"
+    filename = "original_parsed_mixed.txt"
     s = ""
     bool_K = False
     with open(str(path) + str(filename), "r") as f:
