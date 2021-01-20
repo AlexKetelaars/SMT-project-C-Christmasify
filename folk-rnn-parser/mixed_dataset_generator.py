@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     dutch_songs = []
     current_chunk = []
-    for line in open("../datasets_parsed/fixed_parsed_dutch.txt"):
+    for line in open("../datasets_parsed/final_parsed_dutch.txt"):
         if line.startswith(token) and current_chunk:
             # if line starts with token and the current chunk is not empty
             dutch_songs.append(current_chunk[:])  # add not empty chunk to chunks
@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     christmas_songs = []
     current_chunk = []
-    for line in open("../datasets_parsed/fixed_parsed_christmas.txt"):
+    for line in open("../datasets_parsed/final_parsed_christmas.txt"):
         if line.startswith(token) and current_chunk:
             # if line starts with token and the current chunk is not empty
             christmas_songs.append(current_chunk[:])  # add not empty chunk to chunks
