@@ -1,4 +1,6 @@
-filename = "rnn_dataset_mixed.txt"
+dataset_type= 'mixed'
+
+filename = "dataset_"+dataset_type+".txt"
 
 with open(filename) as f:
     content = f.readlines()
@@ -10,7 +12,7 @@ with open(filename) as f:
             ind_song += line
         else:
             i += 1
-            with open("sample_mixed/song_" + str(i) + ".abc", "w") as text_file:
+            with open("individuals_"+dataset_type+"/"+dataset_type+"_" + str(i) + ".abc", "w") as text_file:
                 text_file.write(ind_song)
             ind_song = ''
 
