@@ -17,11 +17,11 @@ for dir in dirs:
                 df_training = pd.read_csv(file)
             if file.endswith("test.csv"):
                 df_test = pd.read_csv(file)
-        #
+
         # rolling average
         df_training['ra'] = df_training['train_loss'].rolling(window=100).mean()
 
-        df_training['ra'] = np.log2(df_training['ra'])
+        df_training['ra'] = np.log2(df_training['train_loss'])
         df_test['test_loss'] = np.log2(df_test['test_loss'])
 
 
