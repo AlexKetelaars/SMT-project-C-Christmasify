@@ -7,15 +7,21 @@ def post_rnn_parser_parser():
 
 if __name__ == "__main__":
 
-    # l = "[ C, A, ] | [ D, A, ]"
+    # l = "[ C, A, ] | | | [ D, A, ] || |"
 
-    # l = re.sub(r"([\[]) +([A-Ga-g0-9/,]) +([\]])", r"\1\3", l)
+    # # Keep first of repeating | patterns
+    # l = re.sub(r'([|]+?)\1+', r'\1', l)
+
+    # # Keep first of repeating spaced out | patterns
+    # l = re.sub(r'([| ]+?)\1+', r'\1', l)
     # print(l)
-    count = 0
-    filename = "../datasets_parsed/original_parsed_dutch.txt"
+
+    path = "../datasets_parsed/"
+
+    filename = "original_parsed_mixed.txt"
     s = ""
     bool_K = False
-    with open(str(filename), "r") as f:
+    with open(str(path) + str(filename), "r") as f:
         for l in f.readlines():
 
             if bool_K:
@@ -57,13 +63,11 @@ if __name__ == "__main__":
                     l = l[3:]
                 l = l.replace("|: ", "|")
 
+                # Keep first of repeating | patterns
+                l = re.sub(r'([|]+?)\1+', r'\1', l)
 
-                # discard tracks with empty segments | |
-                regexp = re.compile(r"([|]) +([|])")
-                if regexp.search(l):
-                    count+=1
-                    print (l)
-                    continue
+                # Keep first of repeating spaced out | patterns
+                l = re.sub(r'([| ]+?)\1+', r'\1', l)
 
                 bool_K = False
 
@@ -76,7 +80,5 @@ if __name__ == "__main__":
                 continue
             s += l
 
-    with open("final_" + str(filename), "w") as f:
+    with open(str(path) + "final_" + str(filename), "w") as f:
         f.write(s)
-
-    print(count)

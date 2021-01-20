@@ -1,0 +1,1 @@
+-i .\songs\config_model-dataset_mixed-20210115-160940-s42-1.00-20210116-1157251.mid -o output -draw -a Forth 
