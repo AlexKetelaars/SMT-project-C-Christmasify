@@ -2,8 +2,6 @@ from music21 import features
 from music21 import converter
 import argparse
 import os
-import matplotlib.pyplot as plt
-import statistics
 import pandas as pd
 
 
@@ -21,13 +19,13 @@ datasets = ["christmas", "mixed", "dutch"]
 
 for dataset in datasets:
     condition = dataset
-    for song in os.listdir('dataset_sample/'+dataset):
+    for song in os.listdir('../dataset_sample/'+dataset):
         splitted = os.path.splitext(song)
         extension = splitted[len(splitted)-1]
         if extension != ".midi" and extension != ".abc":
             continue
 
-        song_path = os.path.join('dataset_sample/'+dataset, song)
+        song_path = os.path.join('../dataset_sample/'+dataset, song)
 
         try:
             s = converter.parse(song_path)
