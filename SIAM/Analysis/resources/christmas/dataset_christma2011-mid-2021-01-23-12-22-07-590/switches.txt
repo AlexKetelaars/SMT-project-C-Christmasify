@@ -1,0 +1,1 @@
+-i ..\dataset_sample\christmas_midi\dataset_christma2011.mid -o .\Analysis\resources\christmas\ -draw -a Forth 
