@@ -1,0 +1,35 @@
+T(P(p(1,62),p(2161,62),p(2401,62),p(2641,62)),V(v(0,0),v(1680,7),v(9120,5),v(14160,7),v(24960,9),v(31920,7)))
+T(P(p(3121,67),p(3601,67),p(16081,67)),V(v(0,0),v(1680,4),v(11760,5),v(16080,0),v(17520,-5),v(20400,4)))
+T(P(p(1201,69),p(6001,69),p(13441,69)),V(v(0,0),v(5040,-2),v(17040,-2),v(24480,-2)))
+T(P(p(14641,71),p(15601,71),p(15841,69)),V(v(0,0),v(21120,-2),v(24720,0)))
+T(P(p(481,67),p(721,67),p(1921,67)),V(v(0,0),v(10080,-3),v(27840,5)))
+T(P(p(5521,71),p(7681,71)),V(v(0,0),v(4800,-9),v(17760,-2),v(25200,-4),v(29520,-2),v(33120,-4)))
+T(P(p(8401,67),p(9361,66)),V(v(0,0),v(10560,0),v(20640,5)))
+T(P(p(6721,74),p(6961,74),p(13921,69)),V(v(0,0),v(24480,-3)))
+T(P(p(961,67),p(17521,69)),V(v(0,0),v(8640,-3),v(8880,-5)))
+T(P(p(20401,64),p(21361,67)),V(v(0,0),v(13440,2)))
+T(P(p(241,76),p(4561,69)),V(v(0,0),v(4320,-7)))
+T(P(p(251,83),p(261,81),p(271,83),p(1441,71),p(3361,66),p(7441,72),p(12241,64),p(12721,66),p(17041,69),p(22801,67),p(26881,66),p(28801,71),p(29281,74),p(32641,67),p(37681,66),p(39121,72),p(39841,71),p(40081,72)),V(v(0,0)))
+
+numberOfNotes 126
+tatumsPerBar null
+barOneStartsAt null
+compressionRatio 1.6578947368421053
+runningTime 404
+encodingLength 76
+encodingLengthWithoutResidualPointSet 58
+numberOfResidualPoints 18
+percentageOfResidualPoints 14.285714285714286
+compressionRatioWithoutResidualPointSet 1.8620689655172413
+title dataset_dutch208.mid
+numberOfTECs 12
+inputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/../dataset_sample/dutch_midi/dataset_dutch208.mid
+outputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/dutch/dataset_dutch208-mid-2021-02-06-11-02-36-024/dataset_dutch208-chrom.cos
+logFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/dutch/dataset_dutch208-mid-2021-02-06-11-02-36-024/dataset_dutch208-chrom.log
+outputFileExtension cos
+isDiatonic false
+withoutChannel10 false
+encoderName com.chromamorph.points022.COSIATECEncoding
+forMirex false
+mode Raw
+topNPatterns 0

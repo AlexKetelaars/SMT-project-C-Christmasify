@@ -1,0 +1,29 @@
+T(P(p(721,65),p(1201,65),p(2881,65)),V(v(0,0),v(2880,2),v(6480,8),v(15360,2)))
+T(P(p(9841,72),p(10081,73),p(11521,70)),V(v(0,0),v(4320,0),v(5280,-5)))
+T(P(p(4321,63),p(4561,65)),V(v(0,0),v(480,5),v(9360,5)))
+T(P(p(1,65),p(481,67)),V(v(0,0),v(7440,8),v(11760,3)))
+T(P(p(6961,68),p(10801,69)),V(v(0,0),v(3840,1)))
+T(P(p(961,65),p(1441,68),p(3361,67),p(5521,67),p(6001,65),p(6241,63),p(6481,73),p(10321,69),p(10561,70),p(12001,65),p(16321,65)),V(v(0,0)))
+
+numberOfNotes 47
+tatumsPerBar null
+barOneStartsAt null
+compressionRatio 1.4242424242424243
+runningTime 67
+encodingLength 33
+encodingLengthWithoutResidualPointSet 22
+numberOfResidualPoints 11
+percentageOfResidualPoints 23.404255319148938
+compressionRatioWithoutResidualPointSet 1.6363636363636365
+title dataset_christma2012.mid
+numberOfTECs 6
+inputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/../dataset_sample/christmas_midi/dataset_christma2012.mid
+outputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/christmas/dataset_christma2012-mid-2021-02-06-11-00-13-624/dataset_christma2012-chrom.cos
+logFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/christmas/dataset_christma2012-mid-2021-02-06-11-00-13-624/dataset_christma2012-chrom.log
+outputFileExtension cos
+isDiatonic false
+withoutChannel10 false
+encoderName com.chromamorph.points022.COSIATECEncoding
+forMirex false
+mode Raw
+topNPatterns 0

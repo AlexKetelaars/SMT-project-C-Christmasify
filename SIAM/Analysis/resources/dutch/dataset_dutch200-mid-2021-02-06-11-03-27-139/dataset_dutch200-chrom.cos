@@ -1,0 +1,36 @@
+T(P(p(17881,62),p(19081,60),p(19321,60)),V(v(0,0),v(3360,12),v(13680,3),v(21360,12),v(24000,5),v(28920,10)))
+T(P(p(9721,60),p(9961,60),p(10201,60)),V(v(0,0),v(2880,3),v(3600,5),v(15840,12)))
+T(P(p(2641,70),p(4801,65),p(5761,65)),V(v(0,0),v(6120,4),v(19560,2),v(26520,2)))
+T(P(p(11401,67),p(16921,67)),V(v(0,0),v(720,-4),v(4560,8),v(5040,7),v(13680,0),v(14880,0),v(16800,-7),v(17280,0),v(24240,2)))
+T(P(p(2881,69),p(3121,67)),V(v(0,0),v(1200,-2),v(7560,-4),v(11400,0),v(15720,-4),v(23640,-4),v(33480,-4),v(41160,0),v(41880,-2),v(46560,0)))
+T(P(p(29641,63),p(31081,60)),V(v(0,0),v(2400,0),v(6480,0),v(10560,9),v(17640,7)))
+T(P(p(9241,65),p(23881,67)),V(v(0,0),v(5440,0),v(5600,-2),v(11280,5),v(23280,7)))
+T(P(p(241,65),p(721,67)),V(v(0,0),v(7560,2),v(22680,7)))
+T(P(p(9001,72),p(15481,72),p(20041,74)),V(v(0,0),v(25920,-2)))
+T(P(p(6361,72),p(27721,70)),V(v(0,0),v(11040,-10),v(20880,-3)))
+T(P(p(3601,65),p(5041,63)),V(v(0,0),v(2280,0)))
+T(P(p(4561,67),p(16201,74)),V(v(0,0),v(28320,-4)))
+T(P(p(1201,72),p(1921,67),p(2161,69),p(6121,70),p(11161,70),p(11641,60),p(12361,62),p(14041,69),p(15001,65),p(18121,63),p(19561,57),p(28841,72),p(29001,70),p(30121,62),p(30361,63),p(34681,70),p(35521,70),p(35881,67),p(36921,60),p(37241,58),p(37801,60),p(42121,69),p(43561,70),p(46681,70)),V(v(0,0)))
+
+numberOfNotes 150
+tatumsPerBar null
+barOneStartsAt null
+compressionRatio 1.5789473684210527
+runningTime 755
+encodingLength 95
+encodingLengthWithoutResidualPointSet 71
+numberOfResidualPoints 24
+percentageOfResidualPoints 16.0
+compressionRatioWithoutResidualPointSet 1.7746478873239437
+title dataset_dutch200.mid
+numberOfTECs 13
+inputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/../dataset_sample/dutch_midi/dataset_dutch200.mid
+outputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/dutch/dataset_dutch200-mid-2021-02-06-11-03-27-139/dataset_dutch200-chrom.cos
+logFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/dutch/dataset_dutch200-mid-2021-02-06-11-03-27-139/dataset_dutch200-chrom.log
+outputFileExtension cos
+isDiatonic false
+withoutChannel10 false
+encoderName com.chromamorph.points022.COSIATECEncoding
+forMirex false
+mode Raw
+topNPatterns 0

@@ -1,0 +1,24 @@
+computeVectorTable...completed
+computeMtpCisPairs...completed: 204 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 36 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.67,1.00) T(P(p(481,52),p(7201,52)),V(v(0,0),v(480,-2),v(1920,2),v(3840,5),v(4800,-3)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 80 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 9 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.50,1.00) T(P(p(1441,49),p(3361,49)),V(v(0,0),v(1440,5),v(7200,5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 28 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 1 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.00,0.33) T(P(p(1,57),p(6241,55),p(6721,59),p(8161,59),p(10081,50),p(11521,59),p(12961,49),p(13921,49)),V(v(0,0)))

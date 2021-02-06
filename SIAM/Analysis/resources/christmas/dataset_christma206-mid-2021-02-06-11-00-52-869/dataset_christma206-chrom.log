@@ -1,0 +1,8 @@
+computeVectorTable...completed
+computeMtpCisPairs...completed: 3 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 1 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.00,1.00) T(P(p(1,66),p(1921,63),p(3361,60)),V(v(0,0)))

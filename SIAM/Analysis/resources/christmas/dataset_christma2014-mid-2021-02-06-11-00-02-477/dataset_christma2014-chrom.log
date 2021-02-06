@@ -1,0 +1,56 @@
+computeVectorTable...completed
+computeMtpCisPairs...completed: 1144 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 440 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (2.00,0.50) T(P(p(7201,54),p(12481,52),p(18241,54)),V(v(0,0),v(1920,0),v(12000,3),v(29760,0)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 979 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 265 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.80,0.60) T(P(p(2401,49),p(3361,54),p(8641,52)),V(v(0,0),v(32640,0),v(42720,0)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 792 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 159 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.67,1.00) T(P(p(28801,57),p(29761,57)),V(v(0,0),v(2400,-5),v(14400,-7),v(20160,-3),v(24000,2)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 537 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 80 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.67,0.67) T(P(p(10561,54),p(29281,54)),V(v(0,0),v(4800,5),v(9120,3),v(10080,-4),v(11040,1)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 321 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 25 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.50,1.00) T(P(p(16321,52),p(26881,52)),V(v(0,0),v(960,-3),v(12000,7)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 205 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 6 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,0.67) T(P(p(481,49),p(4321,54)),V(v(0,0),v(50400,1)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 136 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 1 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.00,0.26) T(P(p(1,52),p(1441,55),p(5281,55),p(6241,49),p(6721,59),p(7681,57),p(11041,59),p(12001,54),p(13441,52),p(22561,49),p(23521,59),p(25441,57),p(26401,50),p(33121,55),p(39841,57),p(47041,52),p(51841,49)),V(v(0,0)))

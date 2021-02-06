@@ -1,0 +1,29 @@
+T(P(p(241,64),p(961,69),p(3841,64)),V(v(0,0),v(6240,5),v(10560,3)))
+T(P(p(4321,62),p(5041,60)),V(v(0,0),v(240,2),v(3840,4),v(10320,2)))
+T(P(p(1441,74),p(1681,74)),V(v(0,0),v(4320,-7),v(13440,-10)))
+T(P(p(2401,71),p(3121,66)),V(v(0,0),v(480,-4),v(7920,0)))
+T(P(p(7921,69),p(9361,66)),V(v(0,0),v(3840,3)))
+T(P(p(1,64),p(721,67),p(2161,76),p(6721,74),p(7441,71),p(8641,66),p(9601,67),p(13681,72),p(13921,71),p(16801,67)),V(v(0,0)))
+
+numberOfNotes 43
+tatumsPerBar null
+barOneStartsAt null
+compressionRatio 1.3870967741935485
+runningTime 64
+encodingLength 31
+encodingLengthWithoutResidualPointSet 21
+numberOfResidualPoints 10
+percentageOfResidualPoints 23.25581395348837
+compressionRatioWithoutResidualPointSet 1.5714285714285714
+title dataset_christma207.mid
+numberOfTECs 6
+inputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/../dataset_sample/christmas_midi/dataset_christma207.mid
+outputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/christmas/dataset_christma207-mid-2021-02-06-11-00-56-114/dataset_christma207-chrom.cos
+logFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/christmas/dataset_christma207-mid-2021-02-06-11-00-56-114/dataset_christma207-chrom.log
+outputFileExtension cos
+isDiatonic false
+withoutChannel10 false
+encoderName com.chromamorph.points022.COSIATECEncoding
+forMirex false
+mode Raw
+topNPatterns 0

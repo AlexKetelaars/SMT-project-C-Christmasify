@@ -1,0 +1,24 @@
+T(P(p(1,66),p(1921,63),p(3361,60)),V(v(0,0)))
+
+numberOfNotes 3
+tatumsPerBar null
+barOneStartsAt null
+compressionRatio 1.0
+runningTime 9
+encodingLength 3
+encodingLengthWithoutResidualPointSet 0
+numberOfResidualPoints 3
+percentageOfResidualPoints 100.0
+compressionRatioWithoutResidualPointSet NaN
+title dataset_christma206.mid
+numberOfTECs 1
+inputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/../dataset_sample/christmas_midi/dataset_christma206.mid
+outputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/christmas/dataset_christma206-mid-2021-02-06-11-00-52-869/dataset_christma206-chrom.cos
+logFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/christmas/dataset_christma206-mid-2021-02-06-11-00-52-869/dataset_christma206-chrom.log
+outputFileExtension cos
+isDiatonic false
+withoutChannel10 false
+encoderName com.chromamorph.points022.COSIATECEncoding
+forMirex false
+mode Raw
+topNPatterns 0

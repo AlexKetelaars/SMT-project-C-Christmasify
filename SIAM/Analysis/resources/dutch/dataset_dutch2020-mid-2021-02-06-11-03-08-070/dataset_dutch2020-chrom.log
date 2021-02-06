@@ -1,0 +1,88 @@
+computeVectorTable...completed
+computeMtpCisPairs...completed: 1680 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 728 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (2.14,0.50) T(P(p(3361,74),p(9361,74),p(9601,73),p(9841,71),p(10081,69)),V(v(0,0),v(2880,7),v(4560,0)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 1377 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 460 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.80,1.00) T(P(p(15841,81),p(16321,81),p(16801,81)),V(v(0,0),v(7920,-10),v(11760,-9)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 1131 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 347 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.80,1.00) T(P(p(1,74),p(2401,74),p(4801,74)),V(v(0,0),v(2880,2),v(23040,-3)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 981 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 233 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.80,0.75) T(P(p(961,78),p(5761,78),p(9121,78)),V(v(0,0),v(5760,-4),v(23040,-7)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 776 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 137 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.60,1.00) T(P(p(241,76),p(481,78)),V(v(0,0),v(12960,-2),v(29520,-7),v(31200,-9)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 572 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 81 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.60,0.67) T(P(p(15361,74),p(22081,67)),V(v(0,0),v(2880,4),v(3840,0),v(4800,7)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 381 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 26 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,1.00) T(P(p(1201,74),p(1441,73)),V(v(0,0),v(29040,-2)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 291 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 10 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,1.00) T(P(p(17281,79),p(18001,78)),V(v(0,0),v(480,-5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 206 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 5 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,0.33) T(P(p(4321,73),p(7201,78)),V(v(0,0),v(17280,-6)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 134 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 3 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,0.33) T(P(p(8641,74),p(18721,74)),V(v(0,0),v(13920,-5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 78 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 1 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.00,0.18) T(P(p(721,76),p(1921,69),p(3841,74),p(6001,79),p(8161,76),p(12001,80),p(17521,76),p(19681,78),p(21121,62),p(26401,76),p(28321,74),p(29521,69),p(30721,69)),V(v(0,0)))

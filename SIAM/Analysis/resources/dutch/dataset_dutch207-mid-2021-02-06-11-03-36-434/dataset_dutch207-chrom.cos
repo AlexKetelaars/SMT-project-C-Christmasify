@@ -1,0 +1,28 @@
+T(P(p(481,67),p(961,67),p(6601,67)),V(v(0,0),v(1920,4),v(2400,4),v(4320,4)))
+T(P(p(6121,71),p(7081,71)),V(v(0,0),v(6480,1),v(6720,0),v(7200,-2)))
+T(P(p(721,67),p(1441,67),p(6841,69),p(8761,69)),V(v(0,0),v(3120,5)))
+T(P(p(7801,74),p(10681,74)),V(v(0,0),v(1680,-2)))
+T(P(p(1,67),p(1681,69),p(1921,71),p(2761,69),p(4321,72),p(6001,69),p(8041,74),p(8281,72),p(11401,74),p(14761,67)),V(v(0,0)))
+
+numberOfNotes 41
+tatumsPerBar null
+barOneStartsAt null
+compressionRatio 1.4137931034482758
+runningTime 61
+encodingLength 29
+encodingLengthWithoutResidualPointSet 19
+numberOfResidualPoints 10
+percentageOfResidualPoints 24.390243902439025
+compressionRatioWithoutResidualPointSet 1.631578947368421
+title dataset_dutch207.mid
+numberOfTECs 5
+inputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/../dataset_sample/dutch_midi/dataset_dutch207.mid
+outputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/dutch/dataset_dutch207-mid-2021-02-06-11-03-36-434/dataset_dutch207-chrom.cos
+logFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/dutch/dataset_dutch207-mid-2021-02-06-11-03-36-434/dataset_dutch207-chrom.log
+outputFileExtension cos
+isDiatonic false
+withoutChannel10 false
+encoderName com.chromamorph.points022.COSIATECEncoding
+forMirex false
+mode Raw
+topNPatterns 0

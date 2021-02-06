@@ -1,0 +1,56 @@
+computeVectorTable...completed
+computeMtpCisPairs...completed: 1173 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 244 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (2.00,1.00) T(P(p(2401,78),p(2881,76),p(8641,76)),V(v(0,0),v(11520,-2),v(12960,-7),v(15840,-7)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 924 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 117 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.67,0.67) T(P(p(10801,76),p(12241,74)),V(v(0,0),v(8880,-3),v(13200,-5),v(17520,2),v(18000,0)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 622 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 54 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.50,1.00) T(P(p(1441,78),p(5761,78)),V(v(0,0),v(4320,0),v(5280,-4),v(5760,-5),v(18000,-7)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 373 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 28 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.50,1.00) T(P(p(1,78),p(481,81),p(5281,78)),V(v(0,0),v(17280,-14)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 245 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 9 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,1.00) T(P(p(15121,73),p(20881,73)),V(v(0,0),v(10800,-4)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 169 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 3 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,0.40) T(P(p(961,76),p(4321,81)),V(v(0,0),v(8640,-7)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 105 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 1 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.00,0.28) T(P(p(971,83),p(981,81),p(991,83),p(3841,81),p(5041,79),p(6481,76),p(12481,76),p(16561,67),p(16801,66),p(23041,67),p(26881,73),p(27361,74),p(28081,76),p(29521,78),p(31201,76)),V(v(0,0)))

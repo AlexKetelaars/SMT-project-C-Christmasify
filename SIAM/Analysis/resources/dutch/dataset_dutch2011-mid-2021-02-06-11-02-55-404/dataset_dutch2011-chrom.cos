@@ -1,0 +1,34 @@
+T(P(p(14641,74),p(18001,74),p(18481,76),p(18961,77)),V(v(0,0),v(12000,0),v(25440,-5),v(27360,0)))
+T(P(p(11281,76),p(20401,76),p(23761,76)),V(v(0,0),v(2400,3),v(4320,0),v(12960,1)))
+T(P(p(1,74),p(1441,74),p(2401,72)),V(v(0,0),v(480,2),v(9360,2)))
+T(P(p(5521,74),p(6001,72)),V(v(0,0),v(11040,2),v(13920,5),v(23040,0),v(28320,5),v(32160,5)))
+T(P(p(12241,81),p(20881,81)),V(v(0,0),v(14880,-5),v(20160,-7),v(20640,-5)))
+T(P(p(491,83),p(501,81),p(511,83)),V(v(0,0),v(8880,0)))
+T(P(p(6241,71),p(6481,72)),V(v(0,0),v(19440,5),v(32160,5)))
+T(P(p(961,72),p(5281,72)),V(v(0,0),v(7920,5),v(39600,0)))
+T(P(p(9121,76),p(17281,76)),V(v(0,0),v(5040,3)))
+T(P(p(6961,76),p(17521,73)),V(v(0,0),v(5760,8)))
+T(P(p(3361,74),p(3841,71),p(6721,74),p(7441,77),p(9841,74),p(10321,77),p(15121,74),p(21361,81),p(25201,77),p(27601,77),p(34801,76),p(37201,74),p(42241,72),p(42481,71),p(42961,67)),V(v(0,0)))
+
+numberOfNotes 98
+tatumsPerBar null
+barOneStartsAt null
+compressionRatio 1.5555555555555556
+runningTime 309
+encodingLength 63
+encodingLengthWithoutResidualPointSet 48
+numberOfResidualPoints 15
+percentageOfResidualPoints 15.306122448979592
+compressionRatioWithoutResidualPointSet 1.7291666666666667
+title dataset_dutch2011.mid
+numberOfTECs 11
+inputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/../dataset_sample/dutch_midi/dataset_dutch2011.mid
+outputFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/dutch/dataset_dutch2011-mid-2021-02-06-11-02-55-404/dataset_dutch2011-chrom.cos
+logFilePath /Users/marcopellegrino/PycharmProjects/SMT-project-C-Christmasify/SIAM/./Analysis/resources/dutch/dataset_dutch2011-mid-2021-02-06-11-02-55-404/dataset_dutch2011-chrom.log
+outputFileExtension cos
+isDiatonic false
+withoutChannel10 false
+encoderName com.chromamorph.points022.COSIATECEncoding
+forMirex false
+mode Raw
+topNPatterns 0

@@ -1,0 +1,56 @@
+computeVectorTable...completed
+computeMtpCisPairs...completed: 1176 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 426 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (2.33,0.75) T(P(p(1,69),p(481,69),p(961,69),p(1441,69),p(5281,69),p(5521,69)),V(v(0,0),v(5280,0),v(5520,0),v(15600,-3)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 949 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 278 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (2.14,1.00) T(P(p(721,66),p(1921,66),p(2641,66)),V(v(0,0),v(7200,0),v(7680,0),v(10560,3),v(15600,-2)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 718 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 133 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.67,0.71) T(P(p(2881,64),p(3121,64),p(3361,66),p(4081,62),p(5041,66)),V(v(0,0),v(8640,5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 491 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 54 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.60,1.00) T(P(p(9361,66),p(14881,66),p(15361,66),p(15841,66)),V(v(0,0),v(4800,3)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 324 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 21 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.60,1.00) T(P(p(1681,67),p(2161,67)),V(v(0,0),v(6000,-1),v(16800,-5),v(17760,0)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 165 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 7 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,0.50) T(P(p(241,76),p(1201,69)),V(v(0,0),v(20160,-5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 105 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 1 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.00,0.21) T(P(p(251,83),p(261,81),p(271,83),p(2401,69),p(4561,62),p(4801,66),p(7441,67),p(8881,69),p(13441,73),p(13921,69),p(14641,67),p(15121,66),p(16801,67),p(17761,66),p(19201,66)),V(v(0,0)))

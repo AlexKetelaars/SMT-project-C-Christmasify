@@ -1,0 +1,64 @@
+computeVectorTable...completed
+computeMtpCisPairs...completed: 723 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 264 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (2.00,0.80) T(P(p(2881,70),p(3361,69),p(4801,69),p(7681,70)),V(v(0,0),v(13440,-5),v(32160,-5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 533 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 130 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.67,1.00) T(P(p(1921,67),p(3841,64)),V(v(0,0),v(7200,0),v(11520,-2),v(24000,0),v(25440,0)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 357 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 57 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.50,1.00) T(P(p(961,70),p(1441,72)),V(v(0,0),v(5760,2),v(28800,-8)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 238 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 28 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.50,0.40) T(P(p(19681,65),p(23521,69)),V(v(0,0),v(960,0),v(14400,-5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 138 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 14 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,1.00) T(P(p(9601,65),p(10561,69)),V(v(0,0),v(21120,-5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 85 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 7 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.33,0.40) T(P(p(12481,65),p(31201,67)),V(v(0,0),v(4800,-5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 43 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 3 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.00,0.67) T(P(p(5761,70),p(8641,67)),V(v(0,0),v(2880,-3)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 21 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 1 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.00,0.16) T(P(p(1,69),p(21601,65),p(26401,64),p(32641,64),p(33121,63),p(37441,60),p(38881,60)),V(v(0,0)))
