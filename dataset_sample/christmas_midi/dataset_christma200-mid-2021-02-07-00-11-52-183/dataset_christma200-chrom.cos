@@ -1,0 +1,33 @@
+T(P(p(1,57),p(481,57),p(1441,52)),V(v(0,0),v(720,0),v(15840,-4),v(22800,0)))
+T(P(p(8401,57),p(9841,57),p(17041,52),p(17761,52)),V(v(0,0),v(16320,0),v(17280,-2)))
+T(P(p(4081,57),p(4321,57)),V(v(0,0),v(2160,-4),v(22560,1),v(23520,0),v(24960,-7),v(31200,-9)))
+T(P(p(18001,53),p(19921,53)),V(v(0,0),v(14880,0),v(21540,-3),v(22020,-1)))
+T(P(p(6961,57),p(14881,57)),V(v(0,0),v(240,1),v(1680,-5),v(8640,-2),v(16560,-2)))
+T(P(p(10081,53),p(11521,55)),V(v(0,0),v(27120,0),v(29700,2)))
+T(P(p(9121,48),p(9361,52)),V(v(0,0),v(29940,0)))
+T(P(p(12481,48),p(14401,57)),V(v(0,0),v(13920,0)))
+T(P(p(5761,50),p(7921,55)),V(v(0,0),v(27840,2)))
+T(P(p(1921,52),p(3601,58),p(7681,53),p(15361,57),p(21361,52),p(24001,53),p(24961,55),p(25441,57),p(28561,52),p(30721,53),p(31201,52),p(38821,53),p(40501,58),p(40741,55),p(42181,53)),V(v(0,0)))
+
+numberOfNotes 86
+tatumsPerBar null
+barOneStartsAt null
+compressionRatio 1.4827586206896552
+runningTime 246
+encodingLength 58
+encodingLengthWithoutResidualPointSet 43
+numberOfResidualPoints 15
+percentageOfResidualPoints 17.441860465116278
+compressionRatioWithoutResidualPointSet 1.6511627906976745
+title dataset_christma200.mid
+numberOfTECs 10
+inputFilePath /home/florian/Documents/SMT-project-C-Christmasify/SIAM/../dataset_sample/christmas_midi/dataset_christma200.mid
+outputFilePath /home/florian/Documents/SMT-project-C-Christmasify/SIAM/../dataset_sample/christmas_midi/dataset_christma200-mid-2021-02-07-00-11-52-183/dataset_christma200-chrom.cos
+logFilePath /home/florian/Documents/SMT-project-C-Christmasify/SIAM/../dataset_sample/christmas_midi/dataset_christma200-mid-2021-02-07-00-11-52-183/dataset_christma200-chrom.log
+outputFileExtension cos
+isDiatonic false
+withoutChannel10 false
+encoderName com.chromamorph.points022.COSIATECEncoding
+forMirex false
+mode Raw
+topNPatterns 0
